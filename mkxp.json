@@ -42,8 +42,8 @@
       "x": "JumpUp",
       "y": "JumpDown",
       "z": "Special",
-      "l": "(unused)",
-      "r": "(unused)"
+      "l": "Speed Up",
+      "r": "QOL Menu"
     },
 
     // The name of this game's save folder. If undefined, the save folder's name

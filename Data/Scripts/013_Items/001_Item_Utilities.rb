@@ -6,6 +6,7 @@ module ItemHandlers
   UseFromBag          = ItemHandlerHash.new
   ConfirmUseInField   = ItemHandlerHash.new
   UseInField          = ItemHandlerHash.new
+  UsableOnPokemon     = ItemHandlerHash.new
   UseOnPokemon        = ItemHandlerHash.new
   UseOnPokemonMaximum = ItemHandlerHash.new
   CanUseInBattle      = ItemHandlerHash.new
@@ -29,6 +30,10 @@ module ItemHandlers
 
   def self.hasUseOnPokemon(item)
     return !UseOnPokemon[item].nil?
+  end
+
+  def self.hasUsableOnPokemon(item)
+    return !UsableOnPokemon[item].nil?
   end
 
   def self.hasUseOnPokemonMaximum(item)
@@ -78,6 +83,11 @@ module ItemHandlers
   def self.triggerUseInField(item)
     return -1 if !UseInField[item]
     return (UseInField.trigger(item)) ? 1 : 0
+  end
+
+  def self.triggerUsableOnPokemon(item, pkmn)
+    return false if !UsableOnPokemon[item]
+    return UsableOnPokemon.trigger(item, pkmn)
   end
 
   # Returns whether item was used
@@ -914,4 +924,24 @@ def pbChooseItemFromList(message, variable, *args)
   end
   $game_variables[variable] = itemid[ret] || :NONE
   return itemid[ret]
+end
+
+def pbCanUseItemOnPokemon?(item)
+  return ItemHandlers.hasUseOnPokemon(item) ||
+         ItemHandlers.hasUsableOnPokemon(item) ||
+         GameData::Item.get(item).is_machine?
+end
+
+# This method assumes the item is usable on a Pokémon. It returns whether the
+# item will have an effect when used on pkmn, i.e. it won't have no effect.
+# Used in the Bag to indicate which party Pokémon the selected item is usable
+# on.
+def pbItemHasEffectOnPokemon?(item, pkmn)
+  return false if !pbCanPokemonHaveItemUsedOnIt?(pkmn, item)
+  ret = ItemHandlers.triggerUsableOnPokemon(item, pkmn)
+  return ret
+end
+
+def pbCanPokemonHaveItemUsedOnIt?(pkmn, item)
+  return pkmn && !pkmn.egg? && (!pkmn.hyper_mode || GameData::Item.get(item)&.is_scent?)
 end

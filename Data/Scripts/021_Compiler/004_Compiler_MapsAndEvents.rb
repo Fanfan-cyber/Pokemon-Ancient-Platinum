@@ -1,3 +1,6 @@
+#===============================================================================
+#
+#===============================================================================
 module Compiler
   SCRIPT_REPLACEMENTS = [
     ["Kernel.",                      ""],
@@ -37,13 +40,42 @@ module Compiler
     ["calcStats",                    "calc_stats"]
   ]
 
+  @@categories[:import_new_maps] = {
+    :should_compile => proc { |compiling| next !new_maps_to_import.nil? },
+    :header_text    => proc { next _INTL("Importing new maps") },
+    :skipped_text   => proc { next _INTL("None found") },
+    :compile        => proc { import_new_maps }
+  }
+
+  @@categories[:map_data] = {
+    :header_text  => proc { next _INTL("Modifying map data") },
+    :skipped_text => proc { next _INTL("Not modified") },
+    :compile      => proc { compile_trainer_events }
+  }
+
+  @@categories[:messages] = {
+    :should_compile => proc { |compiling| next compiling.include?(:pbs_files) || compiling.include?(:map_data) },
+    :header_text    => proc { next _INTL("Gathering messages for translations") },
+    :skipped_text   => proc { next _INTL("Not gathered") },
+    :compile        => proc {
+      Console.echo_li(_INTL("Finding messages..."))
+      Translator.gather_script_and_event_texts
+      Console.echo_done(true)
+      Console.echo_li(_INTL("Saving messages..."))
+      MessageTypes.save_default_messages
+      MessageTypes.load_default_messages if FileTest.exist?("Data/messages_core.dat")
+      Console.echo_done(true)
+    }
+  }
+
   module_function
 
-  #=============================================================================
+  #-----------------------------------------------------------------------------
   # Add new map files to the map tree.
-  #=============================================================================
-  def import_new_maps
-    return false if !$DEBUG
+  #-----------------------------------------------------------------------------
+
+  def new_maps_to_import
+    return nil if !$DEBUG
     mapfiles = {}
     # Get IDs of all maps in the Data folder
     Dir.chdir("Data") do
@@ -58,6 +90,19 @@ module Compiler
     mapinfos.each_key do |id|
       next if !mapinfos[id]
       mapfiles.delete(id) if mapfiles[id]
+      maxOrder = [maxOrder, mapinfos[id].order].max
+    end
+    return (mapfiles.empty?) ? nil : mapfiles
+  end
+
+  def import_new_maps
+    mapfiles = new_maps_to_import
+    return false if !mapfiles
+    # Get maxOrder to add new maps at
+    maxOrder = 0
+    mapinfos = pbLoadMapInfos
+    mapinfos.each_key do |id|
+      next if !mapinfos[id]
       maxOrder = [maxOrder, mapinfos[id].order].max
     end
     # Import maps not found in mapinfos
@@ -77,14 +122,15 @@ module Compiler
     if imported
       save_data(mapinfos, "Data/MapInfos.rxdata")
       $game_temp.map_infos = nil
-      pbMessage(_INTL("{1} new map(s) copied to the Data folder were successfully imported.", count))
+      Console.echoln_li_done(_INTL("{1} map(s) imported", count))
+      Console.echo_warn(_INTL("RMXP data was altered. Close RMXP now without saving to ensure changes are applied."))
     end
     return imported
   end
 
-  #=============================================================================
+  #-----------------------------------------------------------------------------
   # Generate and modify event commands.
-  #=============================================================================
+  #-----------------------------------------------------------------------------
   def generate_move_route(commands)
     route           = RPG::MoveRoute.new
     route.repeat    = false
@@ -248,9 +294,8 @@ module Compiler
     event.pages.push(page)
   end
 
-  #=============================================================================
-  #
-  #=============================================================================
+  #-----------------------------------------------------------------------------
+
   def safequote(x)
     x = x.gsub(/\"\#\'\\/) { |a| "\\" + a }
     x = x.gsub(/\t/, "\\t")
@@ -309,7 +354,7 @@ module Compiler
     end
 
     def mapFilename(mapID)
-      return sprintf("Data/map%03d.rxdata", mapID)
+      return sprintf("Data/Map%03d.rxdata", mapID)
     end
 
     def getMap(mapID)
@@ -467,9 +512,9 @@ module Compiler
     end
   end
 
-  #=============================================================================
+  #-----------------------------------------------------------------------------
+
   # Convert trainer comments to trainer event.
-  #=============================================================================
   def convert_to_trainer_event(event, trainerChecker)
     return nil if !event || event.pages.length == 0
     list = event.pages[0].list
@@ -762,12 +807,12 @@ module Compiler
     return ret
   end
 
-  #=============================================================================
+  #-----------------------------------------------------------------------------
+
   # Convert event name to item event.
   # Checks if the event's name is "Item:POTION" or "HiddenItem:POTION". If so,
   # rewrites the whole event into one now named "Item"/"HiddenItem" which gives
   # that item when interacted with.
-  #=============================================================================
   def convert_to_item_event(event)
     return nil if !event || event.pages.length == 0
     name = event.name
@@ -807,11 +852,11 @@ module Compiler
     return ret
   end
 
-  #=============================================================================
+  #-----------------------------------------------------------------------------
+
   # Checks whether a given event is likely to be a door. If so, rewrite it to
   # include animating the event as though it was a door opening and closing as the
   # player passes through.
-  #=============================================================================
   def update_door_event(event, mapData)
     changed = false
     return false if event.is_a?(RPG::CommonEvent)
@@ -902,9 +947,9 @@ module Compiler
     return changed
   end
 
-  #=============================================================================
-  # Fix up standard code snippets
-  #=============================================================================
+  #-----------------------------------------------------------------------------
+  # Fix up standard code snippets.
+  #-----------------------------------------------------------------------------
   def event_is_empty?(e)
     return true if !e
     return false if e.is_a?(RPG::CommonEvent)
@@ -922,7 +967,7 @@ module Compiler
     if thisEvent.pages[0].graphic.character_name == "" &&
        thisEvent.pages[0].list.length <= 12 &&
        thisEvent.pages[0].list.any? { |cmd| cmd.code == 201 } &&   # Transfer Player
-#       mapData.isPassable?(mapID,thisEvent.x,thisEvent.y+1) &&
+#       mapData.isPassable?(mapID, thisEvent.x, thisEvent.y + 1) &&
        mapData.isPassable?(mapID, thisEvent.x, thisEvent.y) &&
        !mapData.isPassable?(mapID, thisEvent.x - 1, thisEvent.y) &&
        !mapData.isPassable?(mapID, thisEvent.x + 1, thisEvent.y) &&
@@ -1575,9 +1620,9 @@ module Compiler
     return (changed) ? event : nil
   end
 
-  #=============================================================================
+  #-----------------------------------------------------------------------------
   # Convert events used as counters into proper counters.
-  #=============================================================================
+  #-----------------------------------------------------------------------------
   # Checks if the event has just 1 page, which has no conditions and no commands
   # and whose movement type is "Fixed".
   def plain_event?(event)
@@ -1677,10 +1722,10 @@ module Compiler
     return changed
   end
 
-  #=============================================================================
-  # Main compiler method for events
-  #=============================================================================
-  def compile_trainer_events(_mustcompile)
+  #-----------------------------------------------------------------------------
+  # Main compiler method for events.
+  #-----------------------------------------------------------------------------
+  def compile_trainer_events
     mapData = MapData.new
     t = System.uptime
     Graphics.update
@@ -1745,7 +1790,7 @@ module Compiler
     save_data(commonEvents, "Data/CommonEvents.rxdata") if changed
     Console.echo_done(true)
     if change_record.length > 0 || changed
-      Console.echo_warn(_INTL("RMXP data was altered. Close RMXP now to ensure changes are applied."))
+      Console.echo_warn(_INTL("RMXP data was altered. Close RMXP now without saving to ensure changes are applied."))
     end
   end
 end

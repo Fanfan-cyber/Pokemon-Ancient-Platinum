@@ -1104,7 +1104,11 @@ class Window_DrawableCommand < SpriteWindow_SelectableEx
       tmpbitmap = Bitmap.new(1, 1)
       pbSetSystemFont(tmpbitmap)
       commands.each do |i|
-        width = [width, tmpbitmap.text_size(i).width].max
+        if i.is_a?(Array)
+          width = [width, tmpbitmap.text_size(i[0]).width].max
+        else
+          width = [width, tmpbitmap.text_size(i).width].max
+        end
       end
       # one 16 to allow cursor
       width += 16 + 16 + SpriteWindow_Base::TEXT_PADDING

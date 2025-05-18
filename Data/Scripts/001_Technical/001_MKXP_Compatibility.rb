@@ -21,6 +21,7 @@ class Bitmap
       mkxp_draw_text(x, y, width)
     else
       y -= (@text_offset_y || 0)
+      text = text[0] if text.is_a?(Array)
       height = text_size(text).height
       mkxp_draw_text(x, y, width, height, text, align)
     end

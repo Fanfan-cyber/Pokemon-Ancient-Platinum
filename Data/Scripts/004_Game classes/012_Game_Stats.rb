@@ -60,6 +60,7 @@ class GameStats
   attr_writer   :play_time   # In seconds; the reader also updates the value
   attr_accessor :play_sessions
   attr_accessor :time_last_saved   # In seconds
+  attr_accessor :wild_battles_fled   # In seconds
 
   def initialize
     # Travel
@@ -145,6 +146,7 @@ class GameStats
     @play_time                     = 0
     @play_sessions                 = 0
     @time_last_saved               = 0
+    @wild_battles_fled             = 0
   end
 
   def distance_moved

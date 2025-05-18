@@ -1240,7 +1240,7 @@ class PokemonPartyScreen
         insert_index = ($DEBUG) ? 2 : 1
         pkmn.moves.each_with_index do |move, i|
           next if !HiddenMoveHandlers.hasHandler(move.id) &&
-                  ![:MILKDRINK, :SOFTBOILED].include?(move.id)
+                  [:TELEPORT].include?(move.id)
           command_list.insert(insert_index, [move.name, 1])
           commands.insert(insert_index, i)
           insert_index += 1

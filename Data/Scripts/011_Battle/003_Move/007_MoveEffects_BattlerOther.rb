@@ -160,6 +160,9 @@ class Battle::Move::ParalyzeTarget < Battle::Move
     return if target.damageState.substitute
     target.pbParalyze(user) if target.pbCanParalyze?(user, false, self)
   end
+  def pbOverrideSuccessCheckPerHit(user, target)
+    return (Settings::MORE_TYPE_EFFECTS && @id == :THUNDERWAVE && user.pbHasType?(:ELECTRIC))
+  end
 end
 
 #===============================================================================
@@ -230,6 +233,9 @@ class Battle::Move::BurnTarget < Battle::Move
   def pbAdditionalEffect(user, target)
     return if target.damageState.substitute
     target.pbBurn(user) if target.pbCanBurn?(user, false, self)
+  end
+  def pbOverrideSuccessCheckPerHit(user, target)
+    return (Settings::MORE_TYPE_EFFECTS && statusMove? && user.pbHasType?(:FIRE))
   end
 end
 

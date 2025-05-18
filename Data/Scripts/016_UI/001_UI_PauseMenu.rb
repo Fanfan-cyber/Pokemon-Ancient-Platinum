@@ -191,9 +191,9 @@ MenuHandlers.add(:pause_menu, :bag, {
     pbPlayDecisionSE
     item = nil
     pbFadeOutIn do
-      scene = PokemonBag_Scene.new
-      screen = PokemonBagScreen.new(scene, $bag)
-      item = screen.pbStartScreen
+      bag_screen = UI::Bag.new($bag)
+      bag_screen.main
+      item = bag_screen.result
       (item) ? menu.pbEndScene : menu.pbRefresh
     end
     next false if !item
@@ -202,7 +202,7 @@ MenuHandlers.add(:pause_menu, :bag, {
     next true
   }
 })
-
+=begin
 MenuHandlers.add(:pause_menu, :pokegear, {
   "name"      => _INTL("Pokégear"),
   "order"     => 40,
@@ -235,7 +235,7 @@ MenuHandlers.add(:pause_menu, :town_map, {
     next pbFlyToNewLocation
   }
 })
-
+=end
 MenuHandlers.add(:pause_menu, :trainer_card, {
   "name"      => proc { next $player.name },
   "order"     => 50,

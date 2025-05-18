@@ -17,9 +17,9 @@ class PokemonSystem
   attr_accessor :textinput
 
   def initialize
-    @textspeed     = 1     # Text speed (0=slow, 1=medium, 2=fast, 3=instant)
+    @textspeed     = 2     # Text speed (0=slow, 1=medium, 2=fast, 3=instant)
     @battlescene   = 0     # Battle effects (animations) (0=on, 1=off)
-    @battlestyle   = 0     # Battle style (0=switch, 1=set)
+    @battlestyle   = 1     # Battle style (0=switch, 1=set)
     @sendtoboxes   = 0     # Send to Boxes (0=manual, 1=automatic)
     @givenicknames = 0     # Give nicknames (0=give, 1=don't give)
     @frame         = 0     # Default window frame (see also Settings::MENU_WINDOWSKINS)
@@ -519,7 +519,7 @@ MenuHandlers.add(:options_menu, :menu_frame, {
     scene.sprites["option"].setSkin(MessageConfig.pbGetSystemFrame)
   }
 })
-=begin
+
 MenuHandlers.add(:options_menu, :text_input_style, {
   "name"        => _INTL("Text Entry"),
   "order"       => 110,
@@ -529,7 +529,7 @@ MenuHandlers.add(:options_menu, :text_input_style, {
   "get_proc"    => proc { next $PokemonSystem.textinput },
   "set_proc"    => proc { |value, _scene| $PokemonSystem.textinput = value }
 })
-=end
+
 MenuHandlers.add(:options_menu, :screen_size, {
   "name"        => _INTL("Screen Size"),
   "order"       => 120,

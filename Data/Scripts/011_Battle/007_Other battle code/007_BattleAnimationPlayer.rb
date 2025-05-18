@@ -488,7 +488,7 @@ class PBAnimation < Array
         else
           bgGraphic.ox      = oldbg[0] - ((i.bgX - oldbg[0]) * fraction) if i.bgX
           bgGraphic.oy      = oldbg[1] - ((i.bgY - oldbg[1]) * fraction) if i.bgY
-          bgGraphic.opacity = oldbg[2] + ((i.opacity - oldbg[2]) * fraction) if (i.opacity && oldbg[2])
+          bgGraphic.opacity = oldbg[2] + ((i.opacity - oldbg[2]) * fraction) if i.opacity
           cr = (i.colorRed) ? oldbg[3].red + ((i.colorRed - oldbg[3].red) * fraction) : oldbg[3].red
           cg = (i.colorGreen) ? oldbg[3].green + ((i.colorGreen - oldbg[3].green) * fraction) : oldbg[3].green
           cb = (i.colorBlue) ? oldbg[3].blue + ((i.colorBlue - oldbg[3].blue) * fraction) : oldbg[3].blue
@@ -665,7 +665,7 @@ def pbSpriteSetAnimFrame(sprite, frame, user = nil, target = nil, inEditor = fal
 end
 
 #===============================================================================
-# Animation player
+# Animation player.
 #===============================================================================
 class PBAnimationPlayerX
   attr_accessor :looping

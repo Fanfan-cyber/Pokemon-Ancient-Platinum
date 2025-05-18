@@ -172,6 +172,88 @@ class ItemStorage_Scene
   end
 end
 
+class ItemStorageScreen
+  def initialize(scene, bag)
+    @bag   = bag
+    @scene = scene
+  end
+
+  def pbDisplay(text)
+    @scene.pbDisplay(text)
+  end
+
+  def pbConfirm(text)
+    return @scene.pbConfirm(text)
+  end
+
+  # UI logic for withdrawing an item in the item storage screen.
+  def pbWithdrawItemScreen
+    if !$PokemonGlobal.pcItemStorage
+      $PokemonGlobal.pcItemStorage = PCItemStorage.new
+    end
+    storage = $PokemonGlobal.pcItemStorage
+    @scene.pbStartScene(storage)
+    loop do
+      item = @scene.pbChooseItem
+      break if !item
+      itm = GameData::Item.get(item)
+      qty = storage.quantity(item)
+      if qty > 1 && !itm.is_important?
+        qty = @scene.pbChooseNumber(_INTL("How many do you want to withdraw?"), qty)
+      end
+      next if qty <= 0
+      if @bag.can_add?(item, qty)
+        if !storage.remove(item, qty)
+          raise "Can't delete items from storage"
+        end
+        if !@bag.add(item, qty)
+          raise "Can't withdraw items from storage"
+        end
+        @scene.pbRefresh
+        dispqty = (itm.is_important?) ? 1 : qty
+        itemname = (dispqty > 1) ? itm.portion_name_plural : itm.portion_name
+        pbDisplay(_INTL("Withdrew {1} {2}.", dispqty, itemname))
+      else
+        pbDisplay(_INTL("There's no more room in the Bag."))
+      end
+    end
+    @scene.pbEndScene
+  end
+
+  # UI logic for tossing an item in the item storage screen.
+  def pbTossItemScreen
+    if !$PokemonGlobal.pcItemStorage
+      $PokemonGlobal.pcItemStorage = PCItemStorage.new
+    end
+    storage = $PokemonGlobal.pcItemStorage
+    @scene.pbStartScene(storage)
+    loop do
+      item = @scene.pbChooseItem
+      break if !item
+      itm = GameData::Item.get(item)
+      if itm.is_important?
+        @scene.pbDisplay(_INTL("That's too important to toss out!"))
+        next
+      end
+      qty = storage.quantity(item)
+      itemname       = itm.portion_name
+      itemnameplural = itm.portion_name_plural
+      if qty > 1
+        qty = @scene.pbChooseNumber(_INTL("Toss out how many {1}?", itemnameplural), qty)
+      end
+      next if qty <= 0
+      itemname = itemnameplural if qty > 1
+      next if !pbConfirm(_INTL("Is it OK to throw away {1} {2}?", qty, itemname))
+      if !storage.remove(item, qty)
+        raise "Can't delete items from storage"
+      end
+      @scene.pbRefresh
+      pbDisplay(_INTL("Threw away {1} {2}.", qty, itemname))
+    end
+    @scene.pbEndScene
+  end
+end
+
 #===============================================================================
 #
 #===============================================================================

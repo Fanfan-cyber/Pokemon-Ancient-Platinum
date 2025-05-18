@@ -7,7 +7,7 @@ def pbFishingBegin
     $game_player.set_movement_type(($PokemonGlobal.surfing) ? :surf_fishing : :fishing)
     $game_player.lock_pattern = true
     4.times do |pattern|
-      $game_player.pattern = 3 - pattern
+      $game_player.pattern = 0 + pattern
       pbWait(0.05)
     end
   end

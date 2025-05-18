@@ -22,22 +22,22 @@ class PokemonPokedexInfo_Scene
       @region = (mappos) ? mappos[0] : 0                      # Region 0 default
     end
     @mapdata = GameData::TownMap.get(@region)
-    @sprites["areamap"] = IconSprite.new(0, 0, @viewport)
-    @sprites["areamap"].setBitmap("Graphics/UI/Town Map/#{@mapdata.filename}")
-    @sprites["areamap"].x += (Graphics.width - @sprites["areamap"].bitmap.width) / 2
-    @sprites["areamap"].y += (Graphics.height + 32 - @sprites["areamap"].bitmap.height) / 2
-    Settings::REGION_MAP_EXTRAS.each do |hidden|
-      next if hidden[0] != @region || hidden[1] <= 0 || !$game_switches[hidden[1]]
-      pbDrawImagePositions(
-        @sprites["areamap"].bitmap,
-        [["Graphics/UI/Town Map/#{hidden[4]}",
-          hidden[2] * PokemonRegionMap_Scene::SQUARE_WIDTH,
-          hidden[3] * PokemonRegionMap_Scene::SQUARE_HEIGHT]]
-      )
-    end
-    @sprites["areahighlight"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
-    @sprites["areaoverlay"] = IconSprite.new(0, 0, @viewport)
-    @sprites["areaoverlay"].setBitmap("Graphics/UI/Pokedex/overlay_area")
+    #@sprites["areamap"] = IconSprite.new(0, 0, @viewport)
+    #@sprites["areamap"].setBitmap("Graphics/Pictures/#{@mapdata[@region][1]}")
+    #@sprites["areamap"].x += (Graphics.width - @sprites["areamap"].bitmap.width) / 2
+    #@sprites["areamap"].y += (Graphics.height + 32 - @sprites["areamap"].bitmap.height) / 2
+    #Settings::REGION_MAP_EXTRAS.each do |hidden|
+    #  next if hidden[0] != @region || hidden[1] <= 0 || !$game_switches[hidden[1]]
+    #  pbDrawImagePositions(
+    #    @sprites["areamap"].bitmap,
+    #    [["Graphics/Pictures/#{hidden[4]}",
+    #      hidden[2] * PokemonRegionMap_Scene::SQUARE_WIDTH,
+    #      hidden[3] * PokemonRegionMap_Scene::SQUARE_HEIGHT]]
+    #  )
+    #end
+    #@sprites["areahighlight"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
+    #@sprites["areaoverlay"] = IconSprite.new(0, 0, @viewport)
+    #@sprites["areaoverlay"].setBitmap("Graphics/Pictures/Pokedex/overlay_area")
     @sprites["formfront"] = PokemonSprite.new(@viewport)
     @sprites["formfront"].setOffset(PictureOrigin::CENTER)
     @sprites["formfront"].x = 130
@@ -131,7 +131,7 @@ class PokemonPokedexInfo_Scene
       else
         intensity = lerp(256 + 64, 64, 0.5, intensity_time)
       end
-      @sprites["areahighlight"].opacity = intensity
+      #@sprites["areahighlight"].opacity = intensity
     end
     pbUpdateSpriteHash(@sprites)
   end

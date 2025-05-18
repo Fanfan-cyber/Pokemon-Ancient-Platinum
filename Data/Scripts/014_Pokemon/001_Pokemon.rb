@@ -1206,6 +1206,7 @@ class Pokemon
     @obtain_method    = 0   # Met
     @obtain_method    = 4 if $game_switches && $game_switches[Settings::FATEFUL_ENCOUNTER_SWITCH]
     @obtain_map       = ($game_map) ? $game_map.map_id : 0
+    @obtain_map       = 1 if $game_switches[Settings::FATEFUL_ENCOUNTER_SWITCH]
     @obtain_text      = nil
     @obtain_level     = level
     @hatched_map      = 0

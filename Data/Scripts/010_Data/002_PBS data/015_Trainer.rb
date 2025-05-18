@@ -1,3 +1,6 @@
+#===============================================================================
+#
+#===============================================================================
 module GameData
   class Trainer
     attr_reader :id
@@ -5,9 +8,6 @@ module GameData
     attr_reader :real_name
     attr_reader :version
     attr_reader :items
-    attr_reader :skill_points
-    attr_reader :active_skills
-    attr_reader :passive_skills
     attr_reader :real_lose_text
     attr_reader :pokemon
     attr_reader :pbs_file_suffix
@@ -15,15 +15,11 @@ module GameData
     DATA = {}
     DATA_FILENAME = "trainers.dat"
     PBS_BASE_FILENAME = "trainers"
-
     # "Pokemon" is specially mentioned in def compile_trainers and def
     # write_trainers, and acts as a subheading for a particular Pokémon.
     SCHEMA = {
       "SectionName" => [:id,             "esU", :TrainerType],
       "Items"       => [:items,          "*e", :Item],
-      "SkillPoints" => [:skill_points,     "u"],
-      "ActiveSkills"=> [:active_skills,    "*e"],
-      "PassiveSkills"=> [:passive_skills,    "*e"],
       "LoseText"    => [:real_lose_text, "q"],
       "Pokemon"     => [:pokemon,        "ev", :Species]   # Species, level
     }
@@ -89,15 +85,14 @@ module GameData
       return (self::DATA.has_key?(key)) ? self::DATA[key] : nil
     end
 
+    #---------------------------------------------------------------------------
+
     def initialize(hash)
       @id              = hash[:id]
       @trainer_type    = hash[:trainer_type]
       @real_name       = hash[:real_name]       || ""
       @version         = hash[:version]         || 0
       @items           = hash[:items]           || []
-      @skill_points    = hash[:skill_points]    || 0
-      @active_skills   = hash[:active_skills]   || []
-      @passive_skills  = hash[:passive_skills]  || []
       @real_lose_text  = hash[:real_lose_text]  || "..."
       @pokemon         = hash[:pokemon]         || []
       @pokemon.each do |pkmn|
@@ -140,10 +135,8 @@ module GameData
         pkmn = Pokemon.new(species, pkmn_data[:level], trainer, false)
         trainer.party.push(pkmn)
         # Set Pokémon's properties if defined
-        if pkmn_data[:form]
-          pkmn.forced_form = pkmn_data[:form] if MultipleForms.hasFunction?(species, "getForm")
-          pkmn.form_simple = pkmn_data[:form]
-        end
+        pkmn.form_simple = pkmn_data[:form] if pkmn_data[:form]
+        pkmn.time_form_set = pbGetTimeNow.to_i   # To allow Furfrou/Hoopa alternate forms
         pkmn.item = pkmn_data[:item]
         if pkmn_data[:moves] && pkmn_data[:moves].length > 0
           pkmn_data[:moves].each { |move| pkmn.learn_move(move) }
@@ -183,7 +176,13 @@ module GameData
           pkmn.makeShadow
           pkmn.shiny = false
         end
-        pkmn.poke_ball = pkmn_data[:poke_ball] if pkmn_data[:poke_ball]
+        if pkmn_data[:poke_ball]
+          pkmn.poke_ball = pkmn_data[:poke_ball]
+        elsif trainer.default_poke_ball
+          pkmn.poke_ball = trainer.default_poke_ball
+        end
+        pkmn.form   # Called just to recalculate it in case a defined property has changed it, e.g. gender for Espurr
+        pkmn.reset_moves if !pkmn_data[:moves] || pkmn_data[:moves].empty?   # In case form changed
         pkmn.calc_stats
       end
       return trainer
