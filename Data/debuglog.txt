@@ -1559,3 +1559,216 @@ Set up score for Oddish (0): 0
 "Wow. You're great!"
 
 "You got $144 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Nidoran♂ appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Nidoran♂ (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+Random number
+-----> 82
+Corresponding Pokémon
+-----> Skitty
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Skitty appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Skitty (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Skitty (1) is considering using Fake Out (1) against Piplup (0)...
+[AI] Skitty (1) is considering using Growl (4)...
+[AI] Skitty (1) is considering using Tail Whip (4)...
+[AI] Skitty (1) is considering using Tackle (1) against Piplup (0)...
+[AI] Move choices for Skitty (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   *  33.3% to use Growl: score 4
+   *  33.3% to use Growl: score 4
+   *  33.3% to use Tail Whip: score 4
+   *   0.0% to use Tackle (target 0): score 0
+   => will use Tail Whip
+
+[Round order] Piplup (0), the wild Skitty (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Skitty was caught!"
+
+===== Pokémon caught =====
+
+"Skitty's data was added to the Pokédex."
+"Where do you want to send Skitty to?"
+"Where do you want to send Skitty to?"
+"Skitty has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Corphish appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Corphish (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Corphish (1) is considering using Water Gun (1) against Piplup (0)...
+[AI] Corphish (1) is considering using Vise Grip (1) against Piplup (0)...
+[AI] Corphish (1) is considering using Aqua Jet (1) against Piplup (0)...
+[AI] Move choices for Corphish (1):
+   *  25.0% to use Water Gun (target 0): score 1
+   *  25.0% to use Water Gun (target 0): score 1
+   *  25.0% to use Vise Grip (target 0): score 1
+   *  25.0% to use Aqua Jet (target 0): score 1
+   => will use Water Gun (target 0)
+
+[Round order] Piplup (0), the wild Corphish (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Corphish was caught!"
+
+===== Pokémon caught =====
+
+"Corphish's data was added to the Pokédex."
+"Where do you want to send Corphish to?"
+"Where do you want to send Corphish to?"
+"Corphish has been sent to Box "Box 1"!"
+Roles for TYROGUE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for BONSLY: [:NONE]
+Roles for CHINGLING: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by School Kid Harrison!"
+"School Kid Harrison sent out Tyrogue!"
+"Go! Piplup!"
+[Round order] Piplup (0), the opposing Tyrogue (1)
+
+===== Round 1 =====
+
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Tyrogue (1) is considering using Fake Out (1) against Piplup (0)...
+     + 18 for using Fake Out turn 1
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Piplup (0)...
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tyrogue (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Tyrogue (1), Piplup (0)
+
+"Piplup, switch out! Come back!"
+"You're in charge, Starly!"
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+[Use move] The opposing Tyrogue (1) used Fake Out
+"The opposing Tyrogue used Fake Out!"
+
+**Exception: undefined method `is_a' for [#<Battle::Battler>]:Array
+[New Animation Editor] 001_Anim player.rb:257:in `block (2 levels) in set_up'
+[New Animation Editor] 001_Anim player.rb:253:in `times'
+[New Animation Editor] 001_Anim player.rb:253:in `block in set_up'
+[New Animation Editor] 001_Anim player.rb:250:in `each'
+[New Animation Editor] 001_Anim player.rb:250:in `set_up'
+[New Animation Editor] 010_Battle code.rb:231:in `play_better_animation'
+[New Animation Editor] 010_Battle code.rb:180:in `block in pbAnimation'
+004_Scene_PlayAnimations.rb:415:in `pbSaveShadows'
+[New Animation Editor] 010_Battle code.rb:178:in `pbAnimation'
+001_Battle.rb:888:in `pbAnimation'
+002_Move_Usage.rb:72:in `pbShowAnimation'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1934:in `pbProcessMoveHit'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1475:in `block in pbUseMove'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1473:in `times'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1473:in `pbUseMove'
+007_Battler_UseMove.rb:55:in `block in pbProcessTurn'
+001_PBDebug.rb:6:in `logonerr'
+007_Battler_UseMove.rb:55:in `pbProcessTurn'
+010_Battle_AttackPhase.rb:132:in `block (2 levels) in pbAttackPhaseMoves'
+010_Battle_AttackPhase.rb:128:in `each'
+010_Battle_AttackPhase.rb:128:in `block in pbAttackPhaseMoves'
+010_Battle_AttackPhase.rb:114:in `loop'
+010_Battle_AttackPhase.rb:114:in `pbAttackPhaseMoves'
+010_Battle_AttackPhase.rb:205:in `pbAttackPhase'
+002_Battle_StartAndEnd.rb:347:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:347:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:434:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
