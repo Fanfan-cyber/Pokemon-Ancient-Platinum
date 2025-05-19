@@ -124,6 +124,7 @@ class Battle
     elsif p2.length == 0
       raise ArgumentError.new(_INTL("Party 2 has no Pokémon."))
     end
+    $in_battle = true
     @scene             = scene
     @peer              = Peer.new
     @field             = ActiveField.new    # Whole field (gravity/rooms)

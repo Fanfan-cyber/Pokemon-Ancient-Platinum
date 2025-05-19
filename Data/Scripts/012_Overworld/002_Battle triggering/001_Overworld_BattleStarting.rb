@@ -605,6 +605,7 @@ end
 EventHandlers.add(:on_end_battle, :evolve_and_black_out,
   proc { |outcome, canLose|
     # Check for evolutions
+    $in_battle = false
     pbEvolutionCheck if Settings::CHECK_EVOLUTION_AFTER_ALL_BATTLES ||
                         !Battle::Outcome.should_black_out?(outcome)
     $game_temp.party_levels_before_battle = nil
