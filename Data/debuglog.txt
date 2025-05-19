@@ -1772,3 +1772,3805 @@ Section000:45:in `<main>'
 -e:in `eval'
 
 
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sewaddle appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Sewaddle (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sewaddle (1) is considering using Tackle (1) against Piplup (0)...
+[AI] Sewaddle (1) is considering using String Shot (4)...
+[AI] Move choices for Sewaddle (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  50.0% to use String Shot: score 4
+   *  50.0% to use String Shot: score 4
+   => will use String Shot
+
+[Round order] Piplup (0), the wild Sewaddle (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Sewaddle was caught!"
+
+===== Pokémon caught =====
+
+"Sewaddle's data was added to the Pokédex."
+"Where do you want to send Sewaddle to?"
+"Where do you want to send Sewaddle to?"
+"Sewaddle has been sent to Box "Box 1"!"
+Roles for PIKACHU: [:NONE]
+Roles for ROWLET: [:PHYSICALBREAKER]
+Roles for CYNDAQUIL: [:NONE]
+Roles for OSHAWOTT: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Sarah!"
+"Lass Sarah sent out Pikachu!"
+"Go! Oddish!"
+[Round order] The opposing Pikachu (1), Oddish (0)
+
+===== Round 1 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pikachu (1) is considering using Fake Out (1) against Oddish (0)...
+     + 18 for using Fake Out turn 1
+[AI] Pikachu (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Pikachu (1) is considering using Hidden Power (1) against Oddish (0)...
+[AI] Move choices for Pikachu (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Pikachu (1), Oddish (0)
+
+[Use move] The opposing Pikachu (1) used Fake Out
+"The opposing Pikachu used Fake Out!"
+[HP change] Oddish lost 4 HP (37 -> 33)
+[Use move] Oddish (0) used Mega Drain
+"Oddish flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Pikachu (1) is considering using Hidden Power (1) against Oddish (0)...
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Shock Wave (target 0): score 1
+   *  50.0% to use Hidden Power (target 0): score 1
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Pikachu (1), Oddish (0)
+
+[Use move] The opposing Pikachu (1) used Hidden Power
+"The opposing Pikachu used Hidden Power!"
+[HP change] Oddish lost 1 HP (33 -> 32)
+"It's not very effective..."
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Pikachu lost 23 HP (28 -> 5)
+[HP change] The opposing Pikachu gained 10 HP (5 -> 15)
+"The opposing Pikachu restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Pikachu consumed its held Oran Berry
+"The opposing Pikachu had its energy drained!"
+[HP change] Oddish gained 5 HP (32 -> 37)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Pikachu (1) is considering using Hidden Power (1) against Oddish (0)...
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Shock Wave (target 0): score 1
+   *  50.0% to use Hidden Power (target 0): score 1
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Pikachu (1), Oddish (0)
+
+[Use move] The opposing Pikachu (1) used Shock Wave
+"The opposing Pikachu used Shock Wave!"
+[HP change] Oddish lost 4 HP (37 -> 33)
+"It's not very effective..."
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Pikachu lost 15 HP (15 -> 0)
+"The opposing Pikachu fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Rowlet] - 12 because they have kill with their highest damaging move against the current battler
+     [Rowlet] + 4 because we have 2HKO
+     [Cyndaquil] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Cyndaquil] + 4 because we have 2HKO
+     [Oshawott] - 12 because they have kill with their highest damaging move against the current battler
+     [Oshawott] - 3 because we have no kill
+[AI] Highest move score (32) vs Switch In Score (33)
+"Lass Sarah sent out Cyndaquil!"
+
+===== Round 4 =====
+
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Oddish (0)...
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Oddish (0)...
+[AI] Move choices for Cyndaquil (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Cyndaquil (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Piplup!"
+[Use move] The opposing Cyndaquil (1) used Incinerate
+"The opposing Cyndaquil used Incinerate!"
+[HP change] Piplup lost 6 HP (38 -> 32)
+"It's not very effective..."
+"Piplup's Oran Berry was incinerated!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Move choices for Cyndaquil (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Cyndaquil (1), Piplup (0)
+
+[Use move] The opposing Cyndaquil (1) used Hidden Power
+"The opposing Cyndaquil used Hidden Power!"
+[HP change] Piplup lost 17 HP (32 -> 15)
+"It's super effective!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Cyndaquil lost 26 HP (30 -> 4)
+"It's super effective!"
+[HP change] The opposing Cyndaquil gained 10 HP (4 -> 14)
+"The opposing Cyndaquil restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Cyndaquil consumed its held Oran Berry
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Piplup (0)...
+      + 20 for fast kill
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Move choices for Cyndaquil (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Cyndaquil (1), Piplup (0)
+
+"OK, Piplup! Come back!"
+"Just a little more! Hang in there, Starly!"
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+[Use move] The opposing Cyndaquil (1) used Hidden Power
+"The opposing Cyndaquil used Hidden Power!"
+[HP change] Starly lost 5 HP (34 -> 29)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Starly (0)...
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Starly (0)...
+[AI] Move choices for Cyndaquil (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Cyndaquil (1), Starly (0)
+
+[Use move] The opposing Cyndaquil (1) used Incinerate
+"The opposing Cyndaquil used Incinerate!"
+[HP change] Starly lost 14 HP (29 -> 15)
+"Starly's Oran Berry was incinerated!"
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Cyndaquil lost 14 HP (14 -> 0)
+"A critical hit!"
+"The opposing Cyndaquil fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Rowlet] - 12 because they have kill with their highest damaging move against the current battler
+     [Rowlet] + 9 because we have kill
+     [Oshawott] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Oshawott] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (38)
+"Lass Sarah sent out Oshawott!"
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Oshawott (1): 0
+Set up score for Oshawott (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oshawott (1) is considering using Water Pulse (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Oshawott (1) is considering using Icy Wind (1)...
+      + 17 for slow kill
+[AI] Oshawott (1) is considering using Aqua Jet (1) against Starly (0)...
+[AI] Move choices for Oshawott (1):
+   *  50.0% to use Water Pulse (target 0): score 18
+   *  50.0% to use Icy Wind: score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Water Pulse (target 0)
+
+[Round order] Starly (0), the opposing Oshawott (1)
+
+"OK, Starly! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Oshawott (1) used Water Pulse
+"The opposing Oshawott used Water Pulse!"
+[HP change] Oddish lost 4 HP (33 -> 29)
+"It's not very effective..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Oshawott (1): 0
+Set up score for Oshawott (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oshawott (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Oshawott (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Oshawott (1) is considering using Aqua Jet (1) against Oddish (0)...
+[AI] Move choices for Oshawott (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Oshawott (1), Oddish (0)
+
+[Use move] The opposing Oshawott (1) used Icy Wind
+"The opposing Oshawott used Icy Wind!"
+[HP change] Oddish lost 14 HP (29 -> 15)
+"It's super effective!"
+[HP change] Oddish gained 10 HP (15 -> 25)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Oshawott lost 34 HP (34 -> 0)
+"It's super effective!"
+"The opposing Oshawott fainted!"
+"The opposing Oshawott had its energy drained!"
+[HP change] Oddish gained 12 HP (25 -> 37)
+
+[End of round 9]
+Trick Room Turns: 0
+     [Rowlet] + 2 because we outspeed
+     [Rowlet] + 4 because we have 2HKO
+[AI] Highest move score (10) vs Switch In Score (41)
+"Lass Sarah sent out Rowlet!"
+
+===== Round 10 =====
+
+Set up score for Oddish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+[AI] Rowlet (1) is considering using Pluck (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Oddish (0)...
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] The opposing Rowlet (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Shinx!"
+[Use move] The opposing Rowlet (1) used Pluck
+"The opposing Rowlet used Pluck!"
+[HP change] Shinx lost 7 HP (36 -> 29)
+"It's not very effective..."
+"The opposing Rowlet stole and ate its target's Oran Berry!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Pluck (1) against Shinx (0)...
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Shinx (0)...
+[AI] Move choices for Rowlet (1):
+   * 100.0% to use Razor Leaf: score 5
+   *   0.0% to use Pluck (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Razor Leaf
+
+[Round order] Shinx (0), the opposing Rowlet (1)
+
+[Use move] Shinx (0) used Bite
+"Shinx used Bite!"
+[HP change] The opposing Rowlet lost 12 HP (36 -> 24)
+[Use move] The opposing Rowlet (1) used Razor Leaf
+"The opposing Rowlet used Razor Leaf!"
+[HP change] Shinx lost 18 HP (29 -> 11)
+"A critical hit!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+      + 17 for slow kill
+[AI] Rowlet (1) is considering using Pluck (1) against Shinx (0)...
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Shinx (0)...
+[AI] Move choices for Rowlet (1):
+   * 100.0% to use Razor Leaf: score 18
+   *   0.0% to use Pluck (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Razor Leaf
+
+[Round order] Shinx (0), the opposing Rowlet (1)
+
+"OK, Shinx! Come back!"
+"Go for it, Growlithe!"
+[Use move] The opposing Rowlet (1) used Razor Leaf
+"The opposing Rowlet used Razor Leaf!"
+[HP change] Growlithe lost 5 HP (38 -> 33)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+[AI] Rowlet (1) is considering using Pluck (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Growlithe (0)...
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   *   0.0% to use Pluck (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Rowlet (1), Growlithe (0)
+
+[Use move] The opposing Rowlet (1) used Shadow Sneak
+"The opposing Rowlet used Shadow Sneak!"
+[HP change] Growlithe lost 6 HP (33 -> 27)
+[Use move] Growlithe (0) used Flame Wheel
+"Growlithe used Flame Wheel!"
+[HP change] The opposing Rowlet lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Rowlet fainted!"
+
+===== Player won =====
+
+"You defeated Lass Sarah!"
+"Wow. You're great!"
+
+"You got $160 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Venipede appeared!"
+"Go! Oddish!"
+[Round order] Oddish (0), the wild Venipede (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for CHIKORITA: [:SPECIALBREAKER]
+Roles for TOTODILE: [:NONE]
+Roles for TEPIG: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Samantha!"
+"Lass Samantha sent out Chikorita!"
+"Go! Oddish!"
+[Round order] The opposing Chikorita (1), Oddish (0)
+
+===== Round 1 =====
+
+Set up score for Chikorita (1): 0
+Set up score for Chikorita (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Chikorita (1) is considering using Mega Drain (1) against Oddish (0)...
+[AI] Chikorita (1) is considering using Fairy Wind (1) against Oddish (0)...
+[AI] Chikorita (1) is considering using Hidden Power (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Chikorita (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Chikorita (1), Oddish (0)
+
+[Use move] The opposing Chikorita (1) used Hidden Power
+"The opposing Chikorita used Hidden Power!"
+[HP change] Oddish lost 7 HP (37 -> 30)
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Chikorita lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Chikorita fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Totodile] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Totodile] - 3 because we have no kill
+     [Tepig] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tepig] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Lass Samantha sent out Tepig!"
+
+===== Round 2 =====
+
+Set up score for Tepig (1): 0
+Set up score for Tepig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Bulldoze (1)...
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Oddish (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Tepig (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Piplup!"
+[Use move] The opposing Tepig (1) used Incinerate
+"The opposing Tepig used Incinerate!"
+[HP change] Piplup lost 5 HP (38 -> 33)
+"It's not very effective..."
+"Piplup's Oran Berry was incinerated!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Tepig (1): 0
+Set up score for Tepig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Piplup (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Piplup (0), the opposing Tepig (1)
+
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Tepig lost 25 HP (36 -> 11)
+"It's super effective!"
+[HP change] The opposing Tepig gained 10 HP (11 -> 21)
+"The opposing Tepig restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Tepig consumed its held Oran Berry
+[Use move] The opposing Tepig (1) used Bulldoze
+"The opposing Tepig used Bulldoze!"
+[HP change] Piplup lost 8 HP (33 -> 25)
+[Stat change] Piplup's Speed changed by -1 (0 -> -1)
+"Piplup's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Tepig (1): 0
+Set up score for Tepig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Piplup (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Tepig (1), Piplup (0)
+
+[Use move] The opposing Tepig (1) used Bulldoze
+"The opposing Tepig used Bulldoze!"
+[HP change] Piplup lost 8 HP (25 -> 17)
+[Stat change] Piplup's Speed changed by -1 (-1 -> -2)
+"Piplup's Speed fell!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Tepig lost 21 HP (21 -> 0)
+"It's super effective!"
+"The opposing Tepig fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Totodile] + 2 because we outspeed
+     [Totodile] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Lass Samantha sent out Totodile!"
+
+===== Round 5 =====
+
+Set up score for Piplup (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Piplup (0)...
+[AI] Totodile (1) is considering using Bite (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Water Pulse (1) against Piplup (0)...
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Totodile (1), Piplup (0)
+
+"OK, Piplup! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Oddish lost 8 HP (30 -> 22)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Oddish (0)...
+[AI] Totodile (1) is considering using Bite (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Totodile (1), Oddish (0)
+
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Oddish lost 9 HP (22 -> 13)
+[HP change] Oddish gained 10 HP (13 -> 23)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Use move] Oddish (0) used Mega Drain
+"Oddish flinched and couldn't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Oddish (0)...
+[AI] Totodile (1) is considering using Bite (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Totodile (1), Oddish (0)
+
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Oddish lost 8 HP (23 -> 15)
+[Use move] Oddish (0) used Mega Drain
+"Oddish flinched and couldn't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Oddish (0)...
+[AI] Totodile (1) is considering using Bite (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Totodile (1), Oddish (0)
+
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Oddish lost 8 HP (15 -> 7)
+[Use move] Oddish (0) used Mega Drain
+"Oddish flinched and couldn't move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Oddish (0)...
+[AI] Totodile (1) is considering using Bite (1) against Oddish (0)...
+      + 20 for fast kill
+[AI] Totodile (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 21
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Totodile (1), Oddish (0)
+
+"Good job, Oddish! Come back!"
+"You're in charge, Shinx!"
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Shinx lost 10 HP (36 -> 26)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Shinx (0)...
+[AI] Totodile (1) is considering using Bite (1) against Shinx (0)...
+[AI] Totodile (1) is considering using Water Pulse (1) against Shinx (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Water Pulse (target 0): score 5
+   => will use Water Pulse (target 0)
+
+[Round order] Shinx (0), the opposing Totodile (1)
+
+[Use move] Shinx (0) used Thunder Shock
+"Shinx used Thunder Shock!"
+[HP change] The opposing Totodile lost 26 HP (33 -> 7)
+"It's super effective!"
+[HP change] The opposing Totodile gained 10 HP (7 -> 17)
+"The opposing Totodile restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Totodile consumed its held Oran Berry
+[Use move] The opposing Totodile (1) used Water Pulse
+"The opposing Totodile used Water Pulse!"
+[HP change] Shinx lost 12 HP (26 -> 14)
+[HP change] Shinx gained 10 HP (14 -> 24)
+"Shinx restored a little HP using its Oran Berry!"
+[Item consumed] Shinx consumed its held Oran Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Shinx (0)...
+     + 9 to get a last ditch hit off.
+[AI] Totodile (1) is considering using Bite (1) against Shinx (0)...
+[AI] Totodile (1) is considering using Water Pulse (1) against Shinx (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Totodile (1):
+   * 100.0% to use Aqua Jet (target 0): score 10
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Totodile (1), Shinx (0)
+
+[Use move] The opposing Totodile (1) used Aqua Jet
+"The opposing Totodile used Aqua Jet!"
+[HP change] Shinx lost 10 HP (24 -> 14)
+[Use move] Shinx (0) used Thunder Shock
+"Shinx used Thunder Shock!"
+[HP change] The opposing Totodile lost 17 HP (17 -> 0)
+"It's super effective!"
+"The opposing Totodile fainted!"
+
+===== Player won =====
+
+"You defeated Lass Samantha!"
+"Wow. You're great!"
+
+"You got $160 for winning!"
+Roles for EEVEE: [:PHYSICALBREAKER]
+Roles for DROWZEE: [:SPECIALBREAKER]
+Roles for MIENFOO: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tyler!"
+"Youngster Tyler sent out Eevee!"
+"Go! Oddish!"
+[Round order] The opposing Eevee (1), Oddish (0)
+
+===== Round 1 =====
+
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Eevee (1) is considering using Quick Attack (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Oddish (0)...
+[AI] Eevee (1) is considering using Double Kick (1) against Oddish (0)...
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Eevee (1), Oddish (0)
+
+[Use move] The opposing Eevee (1) used Quick Attack
+"The opposing Eevee used Quick Attack!"
+[HP change] Oddish lost 12 HP (37 -> 25)
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Eevee lost 20 HP (34 -> 14)
+"The opposing Eevee was poisoned!"
+
+[End of round 1]
+[HP change] The opposing Eevee lost 4 HP (14 -> 10)
+"The opposing Eevee was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eevee (1) is considering using Quick Attack (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Oddish (0)...
+[AI] Eevee (1) is considering using Double Kick (1) against Oddish (0)...
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Eevee (1), Oddish (0)
+
+[Use move] The opposing Eevee (1) used Quick Attack
+"The opposing Eevee used Quick Attack!"
+[HP change] Oddish lost 14 HP (25 -> 11)
+[HP change] Oddish gained 10 HP (11 -> 21)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Eevee lost 10 HP (10 -> 0)
+"The opposing Eevee fainted!"
+"The opposing Eevee had its energy drained!"
+[HP change] Oddish gained 5 HP (21 -> 26)
+
+[End of round 2]
+Trick Room Turns: 0
+     [Drowzee] + 2 because we outspeed
+     [Drowzee] + 4 because we have 2HKO
+     [Mienfoo] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Mienfoo] - 3 because we have no kill
+[AI] Highest move score (14) vs Switch In Score (41)
+"Youngster Tyler sent out Drowzee!"
+[Ability triggered] The opposing Drowzee's Forewarn
+"The opposing Drowzee was alerted to Sludge!"
+[Ability triggered] The opposing Drowzee's Forewarn
+[Stat change] The opposing Drowzee's Special Defense changed by +1 (0 -> 1)
+"The opposing Drowzee's Special Defense rose!"
+
+===== Round 3 =====
+
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Oddish (0)...
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] The opposing Drowzee (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Growlithe!"
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Growlithe lost 11 HP (38 -> 27)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Growlithe (0)...
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Growlithe (0), the opposing Drowzee (1)
+
+[Use move] Growlithe (0) used Bite
+"Growlithe used Bite!"
+[HP change] The opposing Drowzee lost 26 HP (37 -> 11)
+"It's super effective!"
+[HP change] The opposing Drowzee gained 10 HP (11 -> 21)
+"The opposing Drowzee restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Drowzee consumed its held Oran Berry
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Growlithe lost 12 HP (27 -> 15)
+[HP change] Growlithe gained 10 HP (15 -> 25)
+"Growlithe restored a little HP using its Oran Berry!"
+[Item consumed] Growlithe consumed its held Oran Berry
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Growlithe (0)...
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Growlithe (0), the opposing Drowzee (1)
+
+[Use move] Growlithe (0) used Bite
+"Growlithe used Bite!"
+[HP change] The opposing Drowzee lost 21 HP (21 -> 0)
+"It's super effective!"
+"The opposing Drowzee fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Mienfoo] + 2 because we outspeed
+     [Mienfoo] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Youngster Tyler sent out Mienfoo!"
+
+===== Round 6 =====
+
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out (1) against Growlithe (0)...
+     + 18 for using Fake Out turn 1
+[AI] Mienfoo (1) is considering using Force Palm (1) against Growlithe (0)...
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienfoo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Mienfoo (1), Growlithe (0)
+
+"Growlithe, come back!"
+"You're in charge, Piplup!"
+[Use move] The opposing Mienfoo (1) used Fake Out
+"The opposing Mienfoo used Fake Out!"
+[HP change] Piplup lost 6 HP (38 -> 32)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Piplup (0)...
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Force Palm (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Mienfoo (1), Piplup (0)
+
+[Use move] The opposing Mienfoo (1) used Force Palm
+"The opposing Mienfoo used Force Palm!"
+[HP change] Piplup lost 13 HP (32 -> 19)
+[HP change] Piplup gained 10 HP (19 -> 29)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+"Piplup is paralyzed! It may be unable to move!"
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Mienfoo lost 10 HP (34 -> 24)
+[Stat change] The opposing Mienfoo's Speed changed by -1 (0 -> -1)
+"The opposing Mienfoo's Speed fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Piplup (0)...
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Force Palm (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Mienfoo (1), Piplup (0)
+
+"Piplup, come back!"
+"Go for it, Starly!"
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+[Use move] The opposing Mienfoo (1) used Force Palm
+"The opposing Mienfoo used Force Palm!"
+[HP change] Starly lost 23 HP (34 -> 11)
+[HP change] Starly gained 10 HP (11 -> 21)
+"Starly restored a little HP using its Oran Berry!"
+[Item consumed] Starly consumed its held Oran Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Force Palm (target 0): score 18
+   *  50.0% to use Rock Tomb (target 0): score 18
+   => will use Force Palm (target 0)
+
+[Round order] Starly (0), the opposing Mienfoo (1)
+
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Mienfoo lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Mienfoo fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Tyler!"
+"Wow. You're great!"
+
+"You got $176 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Zubat appeared!"
+"Go! Oddish!"
+[Round order] Oddish (0), the wild Zubat (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zubat (1) is considering using Absorb (1) against Oddish (0)...
+[AI] Zubat (1) is considering using Supersonic (4) against Oddish (0)...
+[AI] Move choices for Zubat (1):
+   *   0.0% to use Absorb (target 0): score 0
+   *   0.0% to use Absorb (target 0): score 0
+   * 100.0% to use Supersonic (target 0): score 4
+   => will use Supersonic (target 0)
+
+[Round order] Oddish (0), the wild Zubat (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Zubat was caught!"
+
+===== Pokémon caught =====
+
+"Zubat's data was added to the Pokédex."
+"Where do you want to send Zubat to?"
+"Where do you want to send Zubat to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Wooper has been sent to Box "Box 1"."
+"Zubat has been added to your party."
+Roles for BEAUTIFLY: [:SPECIALBREAKER]
+Roles for TRAPINCH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for FERROSEED: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Sophia!"
+"Ace Trainer Sophia sent out Beautifly!"
+"Go! Starly!"
+[Round order] The opposing Beautifly (1), Starly (0)
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Starly (0)...
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] The opposing Beautifly (1), Starly (0)
+
+[Use move] The opposing Beautifly (1) used Air Cutter
+"The opposing Beautifly used Air Cutter!"
+[HP change] Starly lost 22 HP (34 -> 12)
+[HP change] Starly gained 10 HP (12 -> 22)
+"Starly restored a little HP using its Oran Berry!"
+[Item consumed] Starly consumed its held Oran Berry
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Beautifly lost 29 HP (37 -> 8)
+"It's super effective!"
+[HP change] The opposing Beautifly gained 10 HP (8 -> 18)
+"The opposing Beautifly restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Beautifly consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Starly (0)...
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] The opposing Beautifly (1), Starly (0)
+
+[Use move] The opposing Beautifly (1) used Air Cutter
+"The opposing Beautifly used Air Cutter!"
+[HP change] Starly lost 20 HP (22 -> 2)
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Beautifly lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Beautifly fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Trapinch] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Trapinch] + 9 because we have kill
+     [Ferroseed] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Ace Trainer Sophia sent out Ferroseed!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Starly (0)...
+     + 1 for being a Speed Control Role
+     + 5 to encourage status move use
+     - 9 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     + 5 to encourage status move use
+[AI] Move choices for Ferroseed (1):
+   *  50.0% to use Metal Claw (target 0): score 18
+   *  50.0% to use Bullet Seed (target 0): score 18
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Starly (0), the opposing Ferroseed (1)
+
+"Good job, Starly! Come back!"
+"You're in charge, Growlithe!"
+[Use move] The opposing Ferroseed (1) used Bullet Seed
+"The opposing Ferroseed used Bullet Seed!"
+[HP change] Growlithe lost 4 HP (38 -> 34)
+[HP change] Growlithe lost 4 HP (34 -> 30)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Growlithe (0)...
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Growlithe (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Growlithe (0), the opposing Ferroseed (1)
+
+[Use move] Growlithe (0) used Flame Wheel
+"Growlithe used Flame Wheel!"
+[HP change] The opposing Ferroseed lost 24 HP (36 -> 12)
+"It's super effective!"
+[Ability triggered] The opposing Ferroseed's Iron Barbs
+[HP change] Growlithe lost 4 HP (30 -> 26)
+"Growlithe is hurt!"
+"The Occa Berry weakened the damage to the opposing Ferroseed!"
+[Item consumed] The opposing Ferroseed consumed its held Occa Berry
+[Use move] The opposing Ferroseed (1) used Bullet Seed
+"The opposing Ferroseed used Bullet Seed!"
+[HP change] Growlithe lost 3 HP (26 -> 23)
+[HP change] Growlithe lost 4 HP (23 -> 19)
+[HP change] Growlithe gained 10 HP (19 -> 29)
+"Growlithe restored a little HP using its Oran Berry!"
+[Item consumed] Growlithe consumed its held Oran Berry
+[HP change] Growlithe lost 3 HP (29 -> 26)
+[HP change] Growlithe lost 6 HP (26 -> 20)
+"A critical hit!"
+[HP change] Growlithe lost 4 HP (20 -> 16)
+"It's not very effective..."
+"Hit 5 times!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Growlithe (0)...
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Growlithe (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Growlithe (0), the opposing Ferroseed (1)
+
+[Use move] Growlithe (0) used Flame Wheel
+"Growlithe used Flame Wheel!"
+[HP change] The opposing Ferroseed lost 12 HP (12 -> 0)
+"It's super effective!"
+[Ability triggered] The opposing Ferroseed's Iron Barbs
+[HP change] Growlithe lost 4 HP (16 -> 12)
+"Growlithe is hurt!"
+"The opposing Ferroseed fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Trapinch] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Trapinch] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+"Ace Trainer Sophia sent out Trapinch!"
+
+===== Round 6 =====
+
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Growlithe (0)...
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Quick Attack (1) against Growlithe (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Growlithe (0)...
+      + 17 for slow kill
+[AI] Move choices for Trapinch (1):
+   *  33.3% to use Bulldoze: score 18
+   *  33.3% to use Rock Tomb (target 0): score 18
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  33.3% to use Bite (target 0): score 18
+   => will use Bite (target 0)
+
+[Round order] Growlithe (0), the opposing Trapinch (1)
+
+[Use move] Growlithe (0) used Bite
+"Growlithe used Bite!"
+[HP change] The opposing Trapinch lost 12 HP (34 -> 22)
+[Use move] The opposing Trapinch (1) used Bite
+"The opposing Trapinch used Bite!"
+[HP change] Growlithe lost 12 HP (12 -> 0)
+"Growlithe fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"Go for it, Piplup!"
+
+===== Round 7 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Piplup (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Piplup (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Piplup (0), the opposing Trapinch (1)
+
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Trapinch lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Trapinch fainted!"
+
+===== Player won =====
+
+"You defeated Ace Trainer Sophia!"
+"Wow. You're great!"
+
+"You got $720 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Scatterbug appeared!"
+"Go! Starly!"
+[Round order] Starly (0), the wild Scatterbug (1)
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Starly!"
+[Round order] Starly (0), the opposing Makuhita (1)
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Starly (0)...
+     + 18 for using Fake Out turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Starly (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Starly (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Starly (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Starly lost 9 HP (34 -> 25)
+[Use move] Starly (0) used Wing Attack
+"Starly flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Starly (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Starly (0), the opposing Makuhita (1)
+
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Makuhita lost 43 HP (43 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Makuhita fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Varoom] + 4 because we have 2HKO
+     [Buizel] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Buizel] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (39)
+"Ace Trainer Aaron sent out Varoom!"
+
+===== Round 3 =====
+
+     move will not affect Starly (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Starly (0)...
+[AI] Varoom (1) is considering using Metal Claw (1) against Starly (0)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     move will not affect Starly (0)
+     -  1: move will fail
+[AI] Varoom (1) is considering using Toxic (4) against Starly (0)...
+     + 2 for being a Toxic Staller
+     + 5 to encourage status move use
+     + 2 for being a Toxic Staller
+     + 5 to encourage status move use
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Toxic (target 0): score 18
+   => will use Toxic (target 0)
+
+[Round order] Starly (0), the opposing Varoom (1)
+
+"Starly, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Varoom (1) used Toxic
+"The opposing Varoom used Toxic!"
+"Wooper was badly poisoned!"
+
+[End of round 3]
+[HP change] Wooper lost 2 HP (40 -> 38)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Wooper (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wooper (0)...
+     + 9 to get a last ditch hit off.
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   * 100.0% to use Septic Shot (target 0): score 10
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Septic Shot (target 0)
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Septic Shot
+"The opposing Varoom used Septic Shot!"
+[HP change] Wooper lost 6 HP (38 -> 32)
+"It's not very effective..."
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Varoom lost 33 HP (36 -> 3)
+"It's super effective!"
+[Stat change] The opposing Varoom's Speed changed by -1 (0 -> -1)
+"The opposing Varoom's Speed fell!"
+
+[End of round 4]
+[HP change] The opposing Varoom gained 2 HP (3 -> 5)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+[HP change] Wooper lost 5 HP (32 -> 27)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wooper (0)...
+     + 9 to get a last ditch hit off.
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   * 100.0% to use Septic Shot (target 0): score 10
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Septic Shot (target 0)
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Septic Shot
+"The opposing Varoom used Septic Shot!"
+[HP change] Wooper lost 6 HP (27 -> 21)
+"It's not very effective..."
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Varoom lost 5 HP (5 -> 0)
+"It's super effective!"
+"The opposing Varoom fainted!"
+
+[End of round 5]
+[HP change] Wooper lost 7 HP (21 -> 14)
+"Wooper was hurt by poison!"
+[HP change] Wooper gained 10 HP (14 -> 24)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Buizel] + 2 because we outspeed
+     [Buizel] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Ace Trainer Aaron sent out Buizel!"
+
+===== Round 6 =====
+
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Buizel (1) is considering using Aerial Ace (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *  50.0% to use Aerial Ace (target 0): score 5
+   *  50.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Lotad!"
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Lotad lost 10 HP (35 -> 25)
+[Stat change] Lotad's Speed changed by -1 (0 -> -1)
+"Lotad's Speed fell!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Lotad (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Lotad (0)...
+[AI] Buizel (1) is considering using Aerial Ace (1) against Lotad (0)...
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 21
+   *   0.0% to use Icy Wind: score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Buizel (1), Lotad (0)
+
+[Use move] The opposing Buizel (1) used Aerial Ace
+"The opposing Buizel used Aerial Ace!"
+[HP change] Lotad lost 25 HP (25 -> 0)
+"It's super effective!"
+"Lotad fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+"You're in charge, Shinx!"
+
+===== Round 8 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Shinx (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Aerial Ace (1) against Shinx (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Shinx (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Shinx lost 16 HP (36 -> 20)
+[Use move] Shinx (0) used Charge
+"Shinx used Charge!"
+"Shinx began charging power!"
+[Stat change] Shinx's Special Defense changed by +1 (0 -> 1)
+"Shinx's Special Defense rose!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Shinx (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Shinx (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Aerial Ace (1) against Shinx (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Shinx (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Shinx lost 15 HP (20 -> 5)
+[HP change] Shinx gained 10 HP (5 -> 15)
+"Shinx restored a little HP using its Oran Berry!"
+[Item consumed] Shinx consumed its held Oran Berry
+[Use move] Shinx (0) used Thunder Shock
+"Shinx used Thunder Shock!"
+[HP change] The opposing Buizel lost 18 HP (38 -> 20)
+"It's super effective!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Shinx (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Shinx (0)...
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Aerial Ace (1) against Shinx (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 21
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Shinx (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Shinx lost 15 HP (15 -> 0)
+"Shinx fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Starly!"
+[Round order] Starly (0), the opposing Makuhita (1)
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Starly (0)...
+     + 18 for using Fake Out turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Starly (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Starly (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Starly (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Starly lost 9 HP (34 -> 25)
+[Use move] Starly (0) used Wing Attack
+"Starly flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Starly (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Starly (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Starly (0), the opposing Makuhita (1)
+
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Makuhita lost 43 HP (43 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Makuhita fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Varoom] + 4 because we have 2HKO
+     [Buizel] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Buizel] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (39)
+"Ace Trainer Aaron sent out Varoom!"
+
+===== Round 3 =====
+
+     move will not affect Starly (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Starly (0)...
+[AI] Varoom (1) is considering using Metal Claw (1) against Starly (0)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     move will not affect Starly (0)
+     -  1: move will fail
+[AI] Varoom (1) is considering using Toxic (4) against Starly (0)...
+     + 2 for being a Toxic Staller
+     + 5 to encourage status move use
+     + 2 for being a Toxic Staller
+     + 5 to encourage status move use
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Toxic (target 0): score 18
+   => will use Toxic (target 0)
+
+[Round order] Starly (0), the opposing Varoom (1)
+
+"Starly, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Varoom (1) used Toxic
+"The opposing Varoom used Toxic!"
+"Wooper was badly poisoned!"
+
+[End of round 3]
+[HP change] Wooper lost 2 HP (40 -> 38)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Wooper (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Bulldoze
+"The opposing Varoom used Bulldoze!"
+[HP change] Wooper lost 13 HP (38 -> 25)
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Varoom lost 32 HP (36 -> 4)
+"It's super effective!"
+[Stat change] The opposing Varoom's Speed changed by -1 (0 -> -1)
+"The opposing Varoom's Speed fell!"
+
+[End of round 4]
+[HP change] The opposing Varoom gained 2 HP (4 -> 6)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+[HP change] Wooper lost 5 HP (25 -> 20)
+"Wooper was hurt by poison!"
+[HP change] Wooper gained 10 HP (20 -> 30)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wooper (0)...
+     + 9 to get a last ditch hit off.
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   * 100.0% to use Septic Shot (target 0): score 10
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Septic Shot (target 0)
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Septic Shot
+"The opposing Varoom used Septic Shot!"
+[HP change] Wooper lost 6 HP (30 -> 24)
+"It's not very effective..."
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Varoom lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Varoom fainted!"
+
+[End of round 5]
+[HP change] Wooper lost 7 HP (24 -> 17)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Buizel] + 2 because we outspeed
+     [Buizel] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Ace Trainer Aaron sent out Buizel!"
+
+===== Round 6 =====
+
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Buizel (1) is considering using Aerial Ace (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Icy Wind (1)...
+      + 20 for fast kill
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *  50.0% to use Aerial Ace (target 0): score 21
+   *  50.0% to use Icy Wind: score 21
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Buizel (1), Wooper (0)
+
+"OK, Wooper! Come back!"
+"You're in charge, Lotad!"
+[Use move] The opposing Buizel (1) used Aerial Ace
+"The opposing Buizel used Aerial Ace!"
+[HP change] Lotad lost 35 HP (35 -> 0)
+"It's super effective!"
+"Lotad fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"You're in charge, Shinx!"
+
+===== Round 7 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Shinx (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Aerial Ace (1) against Shinx (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Shinx (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Shinx lost 17 HP (36 -> 19)
+[Use move] Shinx (0) used Thunder Shock
+"Shinx used Thunder Shock!"
+[HP change] The opposing Buizel lost 18 HP (38 -> 20)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Shinx (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Aerial Ace (1) against Shinx (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Shinx (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Shinx lost 17 HP (19 -> 2)
+[HP change] Shinx gained 10 HP (2 -> 12)
+"Shinx restored a little HP using its Oran Berry!"
+[Item consumed] Shinx consumed its held Oran Berry
+[Use move] Shinx (0) used Thunder Shock
+"Shinx used Thunder Shock!"
+[HP change] The opposing Buizel lost 18 HP (20 -> 2)
+"It's super effective!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Shinx (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Shinx (0)...
+     + 9 to get a last ditch hit off.
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Aerial Ace (1) against Shinx (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+      + 20 for fast kill
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 30
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Shinx (0)
+
+"OK, Shinx! Come back!"
+"Your opponent's weak! Get 'em, Piplup!"
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Piplup lost 6 HP (38 -> 32)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Piplup (0)...
+     + 9 to get a last ditch hit off.
+[AI] Buizel (1) is considering using Aerial Ace (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 10
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Piplup (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Piplup lost 7 HP (32 -> 25)
+"It's not very effective..."
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Buizel lost 2 HP (2 -> 0)
+"The opposing Buizel fainted!"
+
+===== Player won =====
+
+"You defeated Ace Trainer Aaron!"
+"Wow. You're great!"
+
+"You got $720 for winning!"
+Roles for STARLY: [:NONE]
+Roles for TYMPOLE: [:SPECIALBREAKER]
+Roles for SHINX: [:PHYSICALBREAKER]
+Roles for TURTWIG: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Starly!"
+"Go! Piplup!"
+[Round order] The opposing Starly (1), Piplup (0)
+[Ability triggered] The opposing Starly's Keen Eye
+"The opposing Starly is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Starly (1) is considering using Hidden Power (1) against Piplup (0)...
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Starly (1), Piplup (0)
+
+[Use move] The opposing Starly (1) used Wing Attack
+"The opposing Starly used Wing Attack!"
+[HP change] Piplup lost 20 HP (38 -> 18)
+"A critical hit!"
+[HP change] Piplup gained 10 HP (18 -> 28)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 22 HP (37 -> 15)
+"It's super effective!"
+[HP change] The opposing Starly gained 10 HP (15 -> 25)
+"The opposing Starly restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Starly consumed its held Oran Berry
+[Stat change] The opposing Starly's Speed changed by -1 (0 -> -1)
+"The opposing Starly's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Starly (1): -1
+Set up score for Starly (1): -1
+Set up score for Starly (1): -1
+Set up score for Starly (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Starly (1) is considering using Hidden Power (1) against Piplup (0)...
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] Piplup (0), the opposing Starly (1)
+
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 22 HP (25 -> 3)
+"It's super effective!"
+[Stat change] The opposing Starly's Speed changed by -1 (-1 -> -2)
+"The opposing Starly's Speed fell!"
+[Use move] The opposing Starly (1) used Wing Attack
+"The opposing Starly used Wing Attack!"
+[HP change] Piplup lost 15 HP (28 -> 13)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Starly (1): -2
+Set up score for Starly (1): -2
+Set up score for Starly (1): -2
+Set up score for Starly (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-8) vs Highest Moves Score (27)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+      + 17 for slow kill
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+     + 9 to get a last ditch hit off.
+      + 17 for slow kill
+[AI] Starly (1) is considering using Hidden Power (1) against Piplup (0)...
+[AI] Move choices for Starly (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 27
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Starly (1), Piplup (0)
+
+[Use move] The opposing Starly (1) used Quick Attack
+"The opposing Starly used Quick Attack!"
+[HP change] Piplup lost 10 HP (13 -> 3)
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Starly fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Tympole] + 2 because we outspeed
+     [Tympole] + 9 because we have kill
+     [Shinx] + 2 because we outspeed
+     [Shinx] + 9 because we have kill
+     [Turtwig] + 9 because we have kill
+[AI] Highest move score (27) vs Switch In Score (46)
+"Rival Barry sent out Shinx!"
+[Ability triggered] The opposing Shinx's Intimidate
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Shinx (1): 0
+Set up score for Shinx (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Tympole] is immune to strongest move against Shinx (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Piplup (0)...
+      + 17 for slow kill
+[AI] Shinx (1) is considering using Bite (1) against Piplup (0)...
+      + 17 for slow kill
+[AI] Shinx (1) is considering using Quick Attack (1) against Piplup (0)...
+      + 17 for slow kill
+[AI] Shinx (1) is considering using Ice Fang (1) against Piplup (0)...
+      + 17 for slow kill
+[AI] Move choices for Shinx (1):
+   *  25.0% to use Spark (target 0): score 18
+   *  25.0% to use Bite (target 0): score 18
+   *  25.0% to use Quick Attack (target 0): score 18
+   *  25.0% to use Ice Fang (target 0): score 18
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Shinx (1), Piplup (0)
+
+"Good job, Piplup! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Shinx (1) used Ice Fang
+"The opposing Shinx used Ice Fang!"
+[HP change] Wooper lost 13 HP (40 -> 27)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+Set up score for Shinx (1): 0
+Set up score for Shinx (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shinx (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Ice Fang (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   *  50.0% to use Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Bite
+"The opposing Shinx used Bite!"
+[HP change] Wooper lost 11 HP (27 -> 16)
+[HP change] Wooper gained 10 HP (16 -> 26)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 23 HP (36 -> 13)
+"It's super effective!"
+[HP change] The opposing Shinx gained 10 HP (13 -> 23)
+"The opposing Shinx restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Shinx consumed its held Oran Berry
+[Stat change] The opposing Shinx's Speed changed by -1 (0 -> -1)
+"The opposing Shinx's Speed fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Wooper (0)
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shinx (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Ice Fang (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   *  50.0% to use Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 5
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Ice Fang
+"The opposing Shinx used Ice Fang!"
+[HP change] Wooper lost 12 HP (26 -> 14)
+[Use move] Wooper (0) used Mud Shot
+"Wooper flinched and couldn't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Wooper (0)
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shinx (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Ice Fang (1) against Wooper (0)...
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Bite
+"The opposing Shinx used Bite!"
+[HP change] Wooper lost 12 HP (14 -> 2)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 23 HP (23 -> 0)
+"It's super effective!"
+"The opposing Shinx fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Tympole] + 2 because we outspeed
+     [Tympole] + 9 because we have kill
+     [Turtwig] + 2 because we outspeed
+     [Turtwig] + 9 because we have kill
+[AI] Highest move score (27) vs Switch In Score (46)
+"Rival Barry sent out Turtwig!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+      + 20 for fast kill
+[AI] Turtwig (1) is considering using Rock Throw (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Turtwig (1) is considering using Bite (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Turtwig (1):
+   *  33.3% to use Razor Leaf: score 21
+   *  33.3% to use Rock Throw (target 0): score 21
+   *  33.3% to use Bite (target 0): score 21
+   => will use Rock Throw (target 0)
+
+[Round order] The opposing Turtwig (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Turtwig (1) used Rock Throw
+"The opposing Turtwig used Rock Throw!"
+[HP change] Oddish lost 11 HP (37 -> 26)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+[AI] Turtwig (1) is considering using Rock Throw (1) against Oddish (0)...
+[AI] Turtwig (1) is considering using Bite (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Turtwig (1):
+   *   0.0% to use Razor Leaf: score 0
+   *   0.0% to use Rock Throw (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Turtwig (1), Oddish (0)
+
+[Use move] The opposing Turtwig (1) used Bite
+"The opposing Turtwig used Bite!"
+[HP change] Oddish lost 14 HP (26 -> 12)
+[HP change] Oddish gained 10 HP (12 -> 22)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Use move] Oddish (0) used Sludge
+"Oddish flinched and couldn't move!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+[AI] Turtwig (1) is considering using Rock Throw (1) against Oddish (0)...
+[AI] Turtwig (1) is considering using Bite (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Turtwig (1):
+   *   0.0% to use Razor Leaf: score 0
+   *   0.0% to use Rock Throw (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Turtwig (1), Oddish (0)
+
+[Use move] The opposing Turtwig (1) used Bite
+"The opposing Turtwig used Bite!"
+[HP change] Oddish lost 14 HP (22 -> 8)
+[Use move] Oddish (0) used Sludge
+"Oddish flinched and couldn't move!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+[AI] Turtwig (1) is considering using Rock Throw (1) against Oddish (0)...
+      + 20 for fast kill
+[AI] Turtwig (1) is considering using Bite (1) against Oddish (0)...
+      + 20 for fast kill
+[AI] Move choices for Turtwig (1):
+   *   0.0% to use Razor Leaf: score 0
+   *  50.0% to use Rock Throw (target 0): score 21
+   *  50.0% to use Bite (target 0): score 21
+   => will use Rock Throw (target 0)
+
+[Round order] The opposing Turtwig (1), Oddish (0)
+
+"Good job, Oddish! Come back!"
+"You're in charge, Starly!"
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+[Use move] The opposing Turtwig (1) used Rock Throw
+"The opposing Turtwig used Rock Throw!"
+[HP change] Starly lost 31 HP (34 -> 3)
+"It's super effective!"
+[HP change] Starly gained 10 HP (3 -> 13)
+"Starly restored a little HP using its Oran Berry!"
+[Item consumed] Starly consumed its held Oran Berry
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+[AI] Turtwig (1) is considering using Rock Throw (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Turtwig (1) is considering using Bite (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Move choices for Turtwig (1):
+   *   0.0% to use Razor Leaf: score 0
+   *  50.0% to use Rock Throw (target 0): score 18
+   *  50.0% to use Bite (target 0): score 18
+   => will use Rock Throw (target 0)
+
+[Round order] Starly (0), the opposing Turtwig (1)
+
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Turtwig lost 21 HP (41 -> 20)
+"It's super effective!"
+[HP change] The opposing Turtwig gained 20 HP (20 -> 40)
+"The opposing Turtwig restored its health using its Berry Juice!"
+[Item consumed] The opposing Turtwig consumed its held Berry Juice
+[Use move] The opposing Turtwig (1) used Rock Throw
+"The opposing Turtwig used Rock Throw!"
+[HP change] Starly lost 13 HP (13 -> 0)
+"It's super effective!"
+"Starly fainted!"
+
+[End of round 12]
+Trick Room Turns: 0
+Roles for STARLY: [:NONE]
+Roles for TYMPOLE: [:SPECIALBREAKER]
+Roles for SHINX: [:PHYSICALBREAKER]
+Roles for TURTWIG: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Starly!"
+"Go! Piplup!"
+[Round order] The opposing Starly (1), Piplup (0)
+[Ability triggered] The opposing Starly's Keen Eye
+"The opposing Starly is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Starly (1) is considering using Hidden Power (1) against Piplup (0)...
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Starly (1), Piplup (0)
+
+[Use move] The opposing Starly (1) used Wing Attack
+"The opposing Starly used Wing Attack!"
+[HP change] Piplup lost 15 HP (38 -> 23)
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 24 HP (37 -> 13)
+"It's super effective!"
+[HP change] The opposing Starly gained 10 HP (13 -> 23)
+"The opposing Starly restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Starly consumed its held Oran Berry
+[Stat change] The opposing Starly's Speed changed by -1 (0 -> -1)
+"The opposing Starly's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Starly (1): -1
+Set up score for Starly (1): -1
+Set up score for Starly (1): -1
+Set up score for Starly (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-9) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+     + 9 to get a last ditch hit off.
+[AI] Starly (1) is considering using Hidden Power (1) against Piplup (0)...
+[AI] Move choices for Starly (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Starly (1), Piplup (0)
+
+[Use move] The opposing Starly (1) used Quick Attack
+"The opposing Starly used Quick Attack!"
+[HP change] Piplup lost 9 HP (23 -> 14)
+[HP change] Piplup gained 10 HP (14 -> 24)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 23 HP (23 -> 0)
+"It's super effective!"
+"The opposing Starly fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Tympole] + 2 because we outspeed
+     [Tympole] - 3 because we have no kill
+     [Shinx] + 2 because we outspeed
+     [Shinx] + 9 because we have kill
+     [Turtwig] + 9 because we have kill
+[AI] Highest move score (10) vs Switch In Score (46)
+"Rival Barry sent out Shinx!"
+[Ability triggered] The opposing Shinx's Intimidate
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Shinx (1): 0
+Set up score for Shinx (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Tympole] is immune to strongest move against Shinx (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Piplup (0)...
+      + 17 for slow kill
+[AI] Shinx (1) is considering using Bite (1) against Piplup (0)...
+[AI] Shinx (1) is considering using Quick Attack (1) against Piplup (0)...
+[AI] Shinx (1) is considering using Ice Fang (1) against Piplup (0)...
+[AI] Move choices for Shinx (1):
+   * 100.0% to use Spark (target 0): score 18
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Shinx (1), Piplup (0)
+
+"Piplup, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Shinx (1) used Spark
+"The opposing Shinx used Spark!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Wooper (0)
+Set up score for Shinx (1): 0
+Set up score for Shinx (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Ice Fang (1) against Wooper (0)...
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   *  33.3% to use Bite (target 0): score 1
+   *  33.3% to use Quick Attack (target 0): score 1
+   *  33.3% to use Ice Fang (target 0): score 1
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Quick Attack
+"The opposing Shinx used Quick Attack!"
+[HP change] Wooper lost 8 HP (40 -> 32)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 26 HP (36 -> 10)
+"It's super effective!"
+[HP change] The opposing Shinx gained 10 HP (10 -> 20)
+"The opposing Shinx restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Shinx consumed its held Oran Berry
+[Stat change] The opposing Shinx's Speed changed by -1 (0 -> -1)
+"The opposing Shinx's Speed fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+Set up score for Shinx (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Shinx (1) is considering using Ice Fang (1) against Wooper (0)...
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   *  33.3% to use Bite (target 0): score 1
+   *  33.3% to use Quick Attack (target 0): score 1
+   *  33.3% to use Ice Fang (target 0): score 1
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Ice Fang
+"The opposing Shinx used Ice Fang!"
+[HP change] Wooper lost 13 HP (32 -> 19)
+[HP change] Wooper gained 10 HP (19 -> 29)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Shinx fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Tympole] + 2 because we outspeed
+     [Tympole] - 3 because we have no kill
+     [Turtwig] + 2 because we outspeed
+     [Turtwig] + 9 because we have kill
+[AI] Highest move score (10) vs Switch In Score (46)
+"Rival Barry sent out Turtwig!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+      + 20 for fast kill
+[AI] Turtwig (1) is considering using Rock Throw (1) against Wooper (0)...
+[AI] Turtwig (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Turtwig (1):
+   * 100.0% to use Razor Leaf: score 21
+   *   0.0% to use Rock Throw (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Razor Leaf
+
+[Round order] The opposing Turtwig (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Starly!"
+[Ability triggered] Starly's Keen Eye
+"Starly is getting pumped!"
+[Use move] The opposing Turtwig (1) used Razor Leaf
+"The opposing Turtwig used Razor Leaf!"
+[HP change] Starly lost 12 HP (34 -> 22)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Starly (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+[AI] Turtwig (1) is considering using Rock Throw (1) against Starly (0)...
+      + 17 for slow kill
+[AI] Turtwig (1) is considering using Bite (1) against Starly (0)...
+[AI] Move choices for Turtwig (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Rock Throw (target 0): score 18
+   *   0.0% to use Bite (target 0): score 0
+   => will use Rock Throw (target 0)
+
+[Round order] Starly (0), the opposing Turtwig (1)
+
+[Use move] Starly (0) used Wing Attack
+"Starly used Wing Attack!"
+[HP change] The opposing Turtwig lost 31 HP (41 -> 10)
+"A critical hit!"
+"It's super effective!"
+[HP change] The opposing Turtwig gained 20 HP (10 -> 30)
+"The opposing Turtwig restored its health using its Berry Juice!"
+[Item consumed] The opposing Turtwig consumed its held Berry Juice
+[Use move] The opposing Turtwig (1) used Rock Throw
+"The opposing Turtwig used Rock Throw!"
+[HP change] Starly lost 22 HP (22 -> 0)
+"It's super effective!"
+"Starly fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+"Go for it, Oddish!"
+
+===== Round 8 =====
+
+Set up score for Turtwig (1): 0
+Set up score for Turtwig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Razor Leaf (1)...
+[AI] Turtwig (1) is considering using Rock Throw (1) against Oddish (0)...
+[AI] Turtwig (1) is considering using Bite (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Turtwig (1):
+   *   0.0% to use Razor Leaf: score 0
+   *   0.0% to use Rock Throw (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Turtwig (1), Oddish (0)
+
+[Use move] The opposing Turtwig (1) used Bite
+"The opposing Turtwig used Bite!"
+[HP change] Oddish lost 14 HP (37 -> 23)
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Turtwig lost 30 HP (30 -> 0)
+"It's super effective!"
+"The opposing Turtwig fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Tympole] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tympole] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Rival Barry sent out Tympole!"
+
+===== Round 9 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tympole (1) is considering using Bubble Beam (1) against Oddish (0)...
+[AI] Tympole (1) is considering using Mud Shot (1) against Oddish (0)...
+[AI] Tympole (1) is considering using Acid (1)...
+[AI] Move choices for Tympole (1):
+   *  33.3% to use Bubble Beam (target 0): score 1
+   *  33.3% to use Mud Shot (target 0): score 1
+   *  33.3% to use Acid: score 1
+   => will use Bubble Beam (target 0)
+
+[Round order] The opposing Tympole (1), Oddish (0)
+
+[Use move] The opposing Tympole (1) used Bubble Beam
+"The opposing Tympole used Bubble Beam!"
+"The Water Gem strengthened Bubble Beam's power!"
+[HP change] Oddish lost 7 HP (23 -> 16)
+"It's not very effective..."
+[HP change] Oddish gained 10 HP (16 -> 26)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Item consumed] The opposing Tympole consumed its held Water Gem
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Tympole lost 37 HP (37 -> 0)
+"It's super effective!"
+"The opposing Tympole fainted!"
+"The opposing Tympole had its energy drained!"
+[HP change] Oddish gained 11 HP (26 -> 37)
+
+===== Player won =====
+
+"You defeated Rival Barry!"
+"What? What do you mean I lost?!?"
+
+"You got $208 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Ralts appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Ralts (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Ralts (1) is considering using Growl (4)...
+[AI] Ralts (1) is considering using Disarming Voice (1)...
+[AI] Ralts (1) is considering using Flash (1) against Prinplup (0)...
+[AI] Move choices for Ralts (1):
+   * 100.0% to use Growl: score 4
+   *   0.0% to use Disarming Voice: score 0
+   *   0.0% to use Disarming Voice: score 0
+   *   0.0% to use Flash (target 0): score 0
+   => will use Growl
+
+[Round order] Prinplup (0), the wild Ralts (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Ralts was caught!"
+"Prinplup got 1 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Ralts's data was added to the Pokédex."
+"Where do you want to send Ralts to?"
+"Where do you want to send Ralts to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Corphish has been sent to Box "Box 1"."
+"Ralts has been added to your party."
+Roles for MAGNEMITE: [:SPECIALBREAKER]
+Roles for MARILL: [:PHYSICALBREAKER]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Michael!"
+"Youngster Michael sent out Magnemite!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Magnemite (1)
+
+===== Round 1 =====
+
+Set up score for Magnemite (1): 0
+Set up score for Magnemite (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Magnemite (1) is considering using Shock Wave (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magnemite (1) is considering using Mirror Rush (1) against Prinplup (0)...
+[AI] Magnemite (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Magnemite (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Mirror Rush (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Prinplup (0), the opposing Magnemite (1)
+
+"Prinplup, switch out! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Magnemite (1) used Shock Wave
+"The opposing Magnemite used Shock Wave!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Wooper (0)
+Set up score for Magnemite (1): 0
+Set up score for Magnemite (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Yanma] is immune to strongest move against Magnemite (1)
+[AI] Switch out Score (14) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     move will not affect Wooper (0)
+     [Marill] + 2 because we outspeed
+     [Marill] - 3 because we have no kill
+     [Yanma] + 3 because we absorb their highest damaging move against the current battler
+     [Yanma] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (35)
+   => will switch with Yanma
+
+[Round order] The opposing Magnemite (1), Wooper (0)
+
+"Youngster Michael withdrew Magnemite!"
+"Youngster Michael sent out Yanma!"
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[Target immune] The opposing Yanma's type immunity
+"It doesn't affect the opposing Yanma..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Yanma (1): 0
+Set up score for Yanma (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] The opposing Yanma (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Luxio!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Luxio lost 20 HP (53 -> 33)
+
+[End of round 3]
+Trick Room Turns: 0
+[Ability triggered] The opposing Yanma's Speed Boost
+[Stat change] The opposing Yanma's Speed changed by +1 (0 -> 1)
+"The opposing Yanma's Speed rose!"
+
+===== Round 4 =====
+
+Set up score for Yanma (1): 1
+Set up score for Yanma (1): 1
+Set up score for Yanma (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] The opposing Yanma (1), Luxio (0)
+
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Luxio lost 20 HP (33 -> 13)
+[HP change] Luxio gained 10 HP (13 -> 23)
+"Luxio restored a little HP using its Oran Berry!"
+[Item consumed] Luxio consumed its held Oran Berry
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Yanma lost 44 HP (46 -> 2)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+[Ability triggered] The opposing Yanma's Speed Boost
+[Stat change] The opposing Yanma's Speed changed by +1 (1 -> 2)
+"The opposing Yanma's Speed rose!"
+
+===== Round 5 =====
+
+Set up score for Yanma (1): 2
+Set up score for Yanma (1): 2
+Set up score for Yanma (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] The opposing Yanma (1), Luxio (0)
+
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Luxio lost 20 HP (23 -> 3)
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Yanma lost 2 HP (2 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Yanma fainted!"
+"Luxio got 1 Exp. Points!"
+"Wooper got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Magnemite] + 9 because we have kill
+     [Marill] - 12 because they have kill with their highest damaging move against the current battler
+     [Marill] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Youngster Michael sent out Magnemite!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Magnemite (1): 0
+Set up score for Magnemite (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnemite (1) is considering using Shock Wave (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Magnemite (1) is considering using Mirror Rush (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Magnemite (1) is considering using Hidden Power (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Move choices for Magnemite (1):
+   *  33.3% to use Shock Wave (target 0): score 18
+   *  33.3% to use Mirror Rush (target 0): score 18
+   *  33.3% to use Hidden Power (target 0): score 18
+   => will use Hidden Power (target 0)
+
+[Round order] Luxio (0), the opposing Magnemite (1)
+
+"Good job, Luxio! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Magnemite (1) used Hidden Power
+"The opposing Magnemite used Hidden Power!"
+[HP change] Wooper lost 19 HP (54 -> 35)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Wooper (0)
+Set up score for Magnemite (1): 0
+Set up score for Magnemite (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnemite (1) is considering using Shock Wave (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Magnemite (1) is considering using Mirror Rush (1) against Wooper (0)...
+[AI] Magnemite (1) is considering using Hidden Power (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Magnemite (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Mirror Rush (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Magnemite (1), Wooper (0)
+
+[Use move] The opposing Magnemite (1) used Hidden Power
+"The opposing Magnemite used Hidden Power!"
+[HP change] Wooper lost 19 HP (35 -> 16)
+[HP change] Wooper gained 10 HP (16 -> 26)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Magnemite lost 32 HP (33 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Magnemite's Sturdy
+"The opposing Magnemite endured the hit!"
+[HP change] The opposing Magnemite gained 20 HP (1 -> 21)
+"The opposing Magnemite restored its health using its Berry Juice!"
+[Item consumed] The opposing Magnemite consumed its held Berry Juice
+[Stat change] The opposing Magnemite's Speed changed by -1 (0 -> -1)
+"The opposing Magnemite's Speed fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Wooper (0)
+Set up score for Magnemite (1): -1
+Set up score for Magnemite (1): -1
+Set up score for Magnemite (1): -1
+Set up score for Magnemite (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnemite (1) is considering using Shock Wave (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Magnemite (1) is considering using Mirror Rush (1) against Wooper (0)...
+[AI] Magnemite (1) is considering using Hidden Power (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Magnemite (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Mirror Rush (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Magnemite (1), Wooper (0)
+
+[Use move] The opposing Magnemite (1) used Hidden Power
+"The opposing Magnemite used Hidden Power!"
+[HP change] Wooper lost 18 HP (26 -> 8)
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Magnemite lost 21 HP (21 -> 0)
+"It's super effective!"
+"The opposing Magnemite fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Marill] + 2 because we outspeed
+     [Marill] + 9 because we have kill
+[AI] Highest move score (27) vs Switch In Score (46)
+"Youngster Michael sent out Marill!"
+
+===== Round 9 =====
+
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Aqua Jet (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Marill (1) is considering using Covet (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Marill (1) is considering using Power-Up Punch (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Marill (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *  50.0% to use Covet (target 0): score 21
+   *  50.0% to use Power-Up Punch (target 0): score 21
+   => will use Covet (target 0)
+
+[Round order] The opposing Marill (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Marill (1) used Covet
+"The opposing Marill used Covet!"
+[HP change] Oddish lost 8 HP (50 -> 42)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Aqua Jet (1) against Oddish (0)...
+     + 9 to get a last ditch hit off.
+[AI] Marill (1) is considering using Covet (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Marill (1) is considering using Power-Up Punch (1) against Oddish (0)...
+[AI] Move choices for Marill (1):
+   * 100.0% to use Aqua Jet (target 0): score 10
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Marill (1), Oddish (0)
+
+[Use move] The opposing Marill (1) used Aqua Jet
+"The opposing Marill used Aqua Jet!"
+[HP change] Oddish lost 6 HP (42 -> 36)
+"It's not very effective..."
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Marill lost 45 HP (45 -> 0)
+"It's super effective!"
+"The opposing Marill fainted!"
+"Oddish got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Youngster Michael!"
+"Wow. You're great!"
+
+"You got $224 for winning!"
+Roles for RHYHORN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for STARAVIA: [:PHYSICALBREAKER]
+Roles for KRICKETUNE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Dallas!"
+"Youngster Dallas sent out Rhyhorn!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Rhyhorn (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Rhyhorn (1): 0
+Set up score for Rhyhorn (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Rhyhorn (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Rhyhorn (1) is considering using Bulldoze (1)...
+[AI] Rhyhorn (1) is considering using Horn Attack (1) against Prinplup (0)...
+[AI] Move choices for Rhyhorn (1):
+   *  33.3% to use Rock Tomb (target 0): score 1
+   *  33.3% to use Bulldoze: score 1
+   *  33.3% to use Horn Attack (target 0): score 1
+   => will use Bulldoze
+
+[Round order] Prinplup (0), the opposing Rhyhorn (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Rhyhorn lost 47 HP (47 -> 0)
+"It's super effective!"
+"The opposing Rhyhorn fainted!"
+"The Passho Berry weakened the damage to the opposing Rhyhorn!"
+[Item consumed] The opposing Rhyhorn consumed its held Passho Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Staravia] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Staravia] - 3 because we have no kill
+     [Kricketune] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Kricketune] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Youngster Dallas sent out Kricketune!"
+
+===== Round 2 =====
+
+Set up score for Kricketune (1): 0
+Set up score for Kricketune (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kricketune (1) is considering using Bug Bite (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kricketune (1) is considering using Mega Drain (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kricketune (1) is considering using Bulldoze (1)...
+[AI] Kricketune (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Move choices for Kricketune (1):
+   *  50.0% to use Bug Bite (target 0): score 5
+   *  50.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Prinplup (0), the opposing Kricketune (1)
+
+[Use move] Prinplup (0) used Icy Wind
+"Prinplup used Icy Wind!"
+[HP change] The opposing Kricketune lost 16 HP (49 -> 33)
+[Stat change] The opposing Kricketune's Speed changed by -1 (0 -> -1)
+"The opposing Kricketune's Speed fell!"
+[Use move] The opposing Kricketune (1) used Bug Bite
+"The opposing Kricketune used Bug Bite!"
+[HP change] Prinplup lost 19 HP (55 -> 36)
+"The opposing Kricketune stole and ate its target's Oran Berry!"
+[HP change] The opposing Kricketune gained 10 HP (33 -> 43)
+[Item triggered] Forced consuming of Oran Berry
+"The opposing Kricketune's HP was restored."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Kricketune (1): -1
+Set up score for Kricketune (1): -1
+Set up score for Kricketune (1): -1
+Set up score for Kricketune (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kricketune (1) is considering using Bug Bite (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kricketune (1) is considering using Mega Drain (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kricketune (1) is considering using Bulldoze (1)...
+[AI] Kricketune (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Move choices for Kricketune (1):
+   *  50.0% to use Bug Bite (target 0): score 5
+   *  50.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Prinplup (0), the opposing Kricketune (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Kricketune lost 16 HP (43 -> 27)
+"It's super effective!"
+"Prinplup stole and ate its target's Coba Berry!"
+"The  weakened the damage to the opposing Kricketune!"
+[Item consumed] The opposing Kricketune consumed its held 
+
+**Exception: undefined method `is_berry?' for nil:NilClass
+006_Battler_AbilityAndItem.rb:248:in `pbConsumeItem'
+[[MUI] Enhanced Pokemon UI] [002] Legacy Data.rb:41:in `pbConsumeItem'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:2035:in `block in pbProcessMoveHit'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:2031:in `each'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:2031:in `pbProcessMoveHit'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1475:in `block in pbUseMove'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1473:in `times'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:1473:in `pbUseMove'
+007_Battler_UseMove.rb:55:in `block in pbProcessTurn'
+001_PBDebug.rb:6:in `logonerr'
+007_Battler_UseMove.rb:55:in `pbProcessTurn'
+010_Battle_AttackPhase.rb:132:in `block (2 levels) in pbAttackPhaseMoves'
+010_Battle_AttackPhase.rb:128:in `each'
+010_Battle_AttackPhase.rb:128:in `block in pbAttackPhaseMoves'
+010_Battle_AttackPhase.rb:114:in `loop'
+010_Battle_AttackPhase.rb:114:in `pbAttackPhaseMoves'
+010_Battle_AttackPhase.rb:205:in `pbAttackPhase'
+002_Battle_StartAndEnd.rb:347:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:347:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:14:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
