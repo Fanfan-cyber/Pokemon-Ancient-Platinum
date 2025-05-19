@@ -5574,3 +5574,975 @@ Section000:45:in `<main>'
 -e:in `eval'
 
 
+Roles for RHYHORN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for STARAVIA: [:PHYSICALBREAKER]
+Roles for KRICKETUNE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Dallas!"
+"Youngster Dallas sent out Rhyhorn!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Rhyhorn (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Rhyhorn (1): 0
+Set up score for Rhyhorn (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (1)
+[AI] The AI will try to switch.
+     [Staravia] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Staravia] - 3 because we have no kill
+     [Kricketune] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Kricketune] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+   => will switch with Kricketune
+
+[Round order] Prinplup (0), the opposing Rhyhorn (1)
+
+"Youngster Dallas withdrew Rhyhorn!"
+"Youngster Dallas sent out Kricketune!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Kricketune lost 27 HP (49 -> 22)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Kricketune (1): 0
+Set up score for Kricketune (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Kricketune (1) is considering using Bug Bite (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kricketune (1) is considering using Mega Drain (1) against Prinplup (0)...
+[AI] Kricketune (1) is considering using Bulldoze (1)...
+[AI] Kricketune (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Move choices for Kricketune (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Prinplup (0), the opposing Kricketune (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Kricketune lost 18 HP (22 -> 4)
+"It's super effective!"
+"Prinplup stole and ate its target's Coba Berry!"
+"The  weakened the damage to the opposing Kricketune!"
+[Item consumed] The opposing Kricketune consumed its held 
+[Use move] The opposing Kricketune (1) used Bug Bite
+"The opposing Kricketune used Bug Bite!"
+[HP change] Prinplup lost 19 HP (55 -> 36)
+"The opposing Kricketune stole and ate its target's Oran Berry!"
+[HP change] The opposing Kricketune gained 10 HP (4 -> 14)
+[Item triggered] Forced consuming of Oran Berry
+"The opposing Kricketune's HP was restored."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Kricketune (1): 0
+Set up score for Kricketune (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kricketune (1) is considering using Bug Bite (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kricketune (1) is considering using Mega Drain (1) against Prinplup (0)...
+[AI] Kricketune (1) is considering using Bulldoze (1)...
+[AI] Kricketune (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Move choices for Kricketune (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Prinplup (0), the opposing Kricketune (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Kricketune lost 14 HP (14 -> 0)
+"It's super effective!"
+"The opposing Kricketune fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Rhyhorn] - 12 because they have kill with their highest damaging move against the current battler
+     [Rhyhorn] - 3 because we have no kill
+     [Staravia] + 2 because we outspeed
+     [Staravia] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (34)
+"Youngster Dallas sent out Staravia!"
+[Ability triggered] The opposing Staravia's Intimidate
+[Stat change] Prinplup's Attack changed by -1 (0 -> -1)
+"Prinplup's Attack fell!"
+
+===== Round 4 =====
+
+Set up score for Staravia (1): 0
+Set up score for Staravia (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Staravia (1) is considering using Wing Attack (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Staravia (1) is considering using Quick Attack (1) against Prinplup (0)...
+[AI] Staravia (1) is considering using Steel Wing (1) against Prinplup (0)...
+[AI] Move choices for Staravia (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Staravia (1), Prinplup (0)
+
+[Use move] The opposing Staravia (1) used Wing Attack
+"The opposing Staravia used Wing Attack!"
+[HP change] Prinplup lost 12 HP (36 -> 24)
+[Use move] Prinplup (0) used Icy Wind
+"Prinplup used Icy Wind!"
+[HP change] The opposing Staravia lost 39 HP (43 -> 4)
+"It's super effective!"
+[HP change] The opposing Staravia gained 20 HP (4 -> 24)
+"The opposing Staravia restored its health using its Berry Juice!"
+[Item consumed] The opposing Staravia consumed its held Berry Juice
+[Stat change] The opposing Staravia's Speed changed by -1 (0 -> -1)
+"The opposing Staravia's Speed fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Staravia (1): -1
+Set up score for Staravia (1): -1
+Set up score for Staravia (1): -1
+Set up score for Staravia (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Staravia (1) is considering using Wing Attack (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Staravia (1) is considering using Quick Attack (1) against Prinplup (0)...
+     + 9 to get a last ditch hit off.
+[AI] Staravia (1) is considering using Steel Wing (1) against Prinplup (0)...
+[AI] Move choices for Staravia (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   *   0.0% to use Steel Wing (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Staravia (1), Prinplup (0)
+
+[Use move] The opposing Staravia (1) used Quick Attack
+"The opposing Staravia used Quick Attack!"
+[HP change] Prinplup lost 8 HP (24 -> 16)
+[Use move] Prinplup (0) used Icy Wind
+"Prinplup used Icy Wind!"
+[HP change] The opposing Staravia lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Staravia fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Rhyhorn] - 12 because they have kill with their highest damaging move against the current battler
+     [Rhyhorn] + 4 because we have 2HKO
+[AI] Highest move score (10) vs Switch In Score (27)
+"Youngster Dallas sent out Rhyhorn!"
+
+===== Round 6 =====
+
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rhyhorn (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rhyhorn (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Rhyhorn (1) is considering using Horn Attack (1) against Prinplup (0)...
+[AI] Move choices for Rhyhorn (1):
+   *  50.0% to use Rock Tomb (target 0): score 5
+   *  50.0% to use Bulldoze: score 5
+   *   0.0% to use Horn Attack (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Prinplup (0), the opposing Rhyhorn (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Rhyhorn lost 47 HP (47 -> 0)
+"It's super effective!"
+"The opposing Rhyhorn fainted!"
+"The Passho Berry weakened the damage to the opposing Rhyhorn!"
+[Item consumed] The opposing Rhyhorn consumed its held Passho Berry
+
+===== Player won =====
+
+"You defeated Youngster Dallas!"
+"Wow. You're great!"
+
+"You got $224 for winning!"
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for IMPIDIMP: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for SALANDIT: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Sebastian!"
+"Youngster Sebastian sent out Makuhita!"
+"Go! Ralts!"
+[Round order] Ralts (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+     [Switch AI] +5 Party member [Impidimp] is immune to strongest move against Makuhita (1)
+[AI] Switch out Score (7) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Ralts (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Ralts (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Ralts (0)...
+     + 18 for using Fake Out turn 1
+     + 9 to get a last ditch hit off.
+[AI] Makuhita (1) is considering using Force Palm (1) against Ralts (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Ralts (0)...
+[AI] Makuhita (1) is considering using Knock Off (1) against Ralts (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Ralts (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Ralts lost 9 HP (42 -> 33)
+[Use move] Ralts (0) used Draining Kiss
+"Ralts flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+     [Switch AI] +5 Party member [Impidimp] is immune to strongest move against Makuhita (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     [Impidimp] + 3 because we absorb their highest damaging move against the current battler
+     [Impidimp] + 4 because we have 2HKO
+     [Salandit] - 12 because they have kill with their highest damaging move against the current battler
+     [Salandit] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (42)
+   => will switch with Impidimp
+
+[Round order] Ralts (0), the opposing Makuhita (1)
+
+"Youngster Sebastian withdrew Makuhita!"
+"Youngster Sebastian sent out Impidimp!"
+[Use move] Ralts (0) used Draining Kiss
+"Ralts used Draining Kiss!"
+[HP change] The opposing Impidimp lost 40 HP (40 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Impidimp fainted!"
+"The opposing Impidimp had its energy drained!"
+[HP change] Ralts gained 9 HP (33 -> 42)
+"Ralts got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Makuhita] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Makuhita] + 4 because we have 2HKO
+     [Salandit] + 2 because we outspeed
+     [Salandit] + 9 because we have kill
+[AI] Highest move score (28) vs Switch In Score (46)
+"Youngster Sebastian sent out Salandit!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salandit (1): 0
+Set up score for Salandit (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Ralts (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salandit (1) is considering using Fake Out (1) against Ralts (0)...
+     + 18 for using Fake Out turn 1
+[AI] Salandit (1) is considering using Incinerate (1)...
+[AI] Salandit (1) is considering using Hidden Power (1) against Ralts (0)...
+[AI] Salandit (1) is considering using Sludge (1) against Ralts (0)...
+      + 20 for fast kill
+[AI] Move choices for Salandit (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   *   0.0% to use Incinerate: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Sludge (target 0): score 21
+   => will use Sludge (target 0)
+
+[Round order] The opposing Salandit (1), Ralts (0)
+
+"Ralts, come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Salandit (1) used Sludge
+"The opposing Salandit used Sludge!"
+[HP change] Prinplup lost 13 HP (55 -> 42)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Salandit (1): 0
+Set up score for Salandit (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salandit (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Salandit (1) is considering using Incinerate (1)...
+[AI] Salandit (1) is considering using Hidden Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Salandit (1) is considering using Sludge (1) against Prinplup (0)...
+[AI] Move choices for Salandit (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Sludge (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Salandit (1), Prinplup (0)
+
+[Use move] The opposing Salandit (1) used Hidden Power
+"The opposing Salandit used Hidden Power!"
+[HP change] Prinplup lost 19 HP (42 -> 23)
+"It's super effective!"
+[HP change] Prinplup gained 10 HP (23 -> 33)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Salandit lost 44 HP (44 -> 0)
+"It's super effective!"
+"The opposing Salandit fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Makuhita] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Makuhita] - 3 because we have no kill
+[AI] Highest move score (28) vs Switch In Score (26)
+"Youngster Sebastian sent out Makuhita!"
+
+===== Round 5 =====
+
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out (1) against Prinplup (0)...
+     + 18 for using Fake Out turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Makuhita (1) is considering using Knock Off (1) against Prinplup (0)...
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Prinplup (0)
+
+"Prinplup, come back!"
+"You're in charge, Ralts!"
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Ralts lost 10 HP (42 -> 32)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Ralts (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Ralts (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Ralts (0)...
+[AI] Makuhita (1) is considering using Knock Off (1) against Ralts (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Knock Off (target 0): score 5
+   => will use Knock Off (target 0)
+
+[Round order] Ralts (0), the opposing Makuhita (1)
+
+[Use move] Ralts (0) used Draining Kiss
+"Ralts used Draining Kiss!"
+[HP change] The opposing Makuhita lost 44 HP (48 -> 4)
+"It's super effective!"
+"The opposing Makuhita had its energy drained!"
+[HP change] Ralts gained 10 HP (32 -> 42)
+[Use move] The opposing Makuhita (1) used Knock Off
+"The opposing Makuhita used Knock Off!"
+[HP change] Ralts lost 20 HP (42 -> 22)
+"Ralts dropped its Oran Berry!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Ralts (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Ralts (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Ralts (0)...
+[AI] Makuhita (1) is considering using Knock Off (1) against Ralts (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Knock Off (target 0): score 5
+   => will use Knock Off (target 0)
+
+[Round order] Ralts (0), the opposing Makuhita (1)
+
+[Use move] Ralts (0) used Draining Kiss
+"Ralts used Draining Kiss!"
+[HP change] The opposing Makuhita lost 4 HP (4 -> 0)
+"It's super effective!"
+"The opposing Makuhita fainted!"
+"The opposing Makuhita had its energy drained!"
+[HP change] Ralts gained 3 HP (22 -> 25)
+
+===== Player won =====
+
+"You defeated Youngster Sebastian!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+Roles for SWIRLIX: [:LEAD]
+Roles for DUCKLETT: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for MAWILE: [:PHYSICALBREAKER, :TOXICSTALLER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Madeline!"
+"Lass Madeline sent out Swirlix!"
+"Go! Oddish!"
+[Round order] The opposing Swirlix (1), Oddish (0)
+
+===== Round 1 =====
+
+Set up score for Swirlix (1): 0
+Set up score for Swirlix (1): 0
+     [Switch AI] +5 Party member [Mawile] is immune to strongest move against Swirlix (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Swirlix (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swirlix (1) is considering using Magical Leaf (1) against Oddish (0)...
+[AI] Swirlix (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Swirlix (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sticky Web: score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] The opposing Swirlix (1), Oddish (0)
+
+[Use move] The opposing Swirlix (1) used Draining Kiss
+"The opposing Swirlix used Draining Kiss!"
+[HP change] Oddish lost 5 HP (50 -> 45)
+"It's not very effective..."
+"Oddish had its energy drained!"
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Swirlix lost 45 HP (45 -> 0)
+"It's super effective!"
+"The opposing Swirlix fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Ducklett] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Ducklett] + 4 because we have 2HKO
+     [Mawile] + 3 because we absorb their highest damaging move against the current battler
+     [Mawile] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (35)
+"Lass Madeline sent out Mawile!"
+[Ability triggered] The opposing Mawile's Intimidate
+[Stat change] Oddish's Attack changed by -1 (0 -> -1)
+"Oddish's Attack fell!"
+
+===== Round 2 =====
+
+     move will not affect Oddish (0)
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mawile (1) is considering using Covet (1) against Oddish (0)...
+[AI] Mawile (1) is considering using Toxic (4) against Oddish (0)...
+     move will not affect Oddish (0)
+     -  4: move will fail
+[AI] Mawile (1) is considering using Bite (1) against Oddish (0)...
+[AI] Move choices for Mawile (1):
+   * 100.0% to use Metal Claw (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Metal Claw (target 0)
+
+[Round order] The opposing Mawile (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Mawile (1) used Metal Claw
+"The opposing Mawile used Metal Claw!"
+[HP change] Wooper lost 11 HP (54 -> 43)
+"It's not very effective..."
+[Stat change] The opposing Mawile's Attack changed by +1 (0 -> 1)
+"The opposing Mawile's Attack rose!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Mawile (1): 1
+Set up score for Mawile (1): 1
+Set up score for Mawile (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +5 Party member [Ducklett] is immune to strongest move against Mawile (1)
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Mawile (1) is considering using Covet (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mawile (1) is considering using Toxic (4) against Wooper (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Mawile (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Mawile (1), Wooper (0)
+
+[Use move] The opposing Mawile (1) used Covet
+"The opposing Mawile used Covet!"
+[HP change] Wooper lost 33 HP (43 -> 10)
+[HP change] Wooper gained 10 HP (10 -> 20)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Mawile lost 25 HP (44 -> 19)
+"It's super effective!"
+[Stat change] The opposing Mawile's Speed changed by -1 (0 -> -1)
+"The opposing Mawile's Speed fell!"
+
+[End of round 3]
+[HP change] The opposing Mawile gained 2 HP (19 -> 21)
+"The opposing Mawile restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+     [Switch AI] +5 Party member [Ducklett] is immune to strongest move against Mawile (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Mawile (1) is considering using Covet (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Mawile (1) is considering using Toxic (4) against Wooper (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Mawile (1) is considering using Bite (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   *  50.0% to use Covet (target 0): score 21
+   *   0.0% to use Toxic (target 0): score 0
+   *  50.0% to use Bite (target 0): score 21
+   => will use Bite (target 0)
+
+[Round order] The opposing Mawile (1), Wooper (0)
+
+[Use move] The opposing Mawile (1) used Bite
+"The opposing Mawile used Bite!"
+[HP change] Wooper lost 20 HP (20 -> 0)
+"Wooper fainted!"
+
+[End of round 4]
+[HP change] The opposing Mawile gained 2 HP (21 -> 23)
+"The opposing Mawile restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+"Go for it, Prinplup!"
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Prinplup (0)...
+[AI] Mawile (1) is considering using Covet (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mawile (1) is considering using Toxic (4) against Prinplup (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Mawile (1) is considering using Bite (1) against Prinplup (0)...
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] Prinplup (0), the opposing Mawile (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Mawile lost 23 HP (23 -> 0)
+"A critical hit!"
+"The opposing Mawile fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Ducklett] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Lass Madeline sent out Ducklett!"
+
+===== Round 6 =====
+
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ducklett (1) is considering using Bubble Beam (1) against Prinplup (0)...
+[AI] Ducklett (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Ducklett (1) is considering using Icy Wind (1)...
+[AI] Move choices for Ducklett (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Air Cutter
+
+[Round order] Prinplup (0), the opposing Ducklett (1)
+
+"Prinplup, come back!"
+"You're in charge, Luxio!"
+[Use move] The opposing Ducklett (1) used Air Cutter
+"The opposing Ducklett used Air Cutter!"
+[HP change] Luxio lost 9 HP (53 -> 44)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ducklett (1) is considering using Bubble Beam (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Ducklett (1) is considering using Air Cutter (1)...
+[AI] Ducklett (1) is considering using Icy Wind (1)...
+[AI] Move choices for Ducklett (1):
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Air Cutter: score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Luxio (0), the opposing Ducklett (1)
+
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Ducklett lost 48 HP (48 -> 0)
+"It's super effective!"
+"The opposing Ducklett fainted!"
+"The Wacan Berry weakened the damage to the opposing Ducklett!"
+[Item consumed] The opposing Ducklett consumed its held Wacan Berry
+
+===== Player won =====
+
+"You defeated Lass Madeline!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+Roles for CLEFAIRY: [:SPEEDCONTROL]
+Roles for MINCCINO: [:SPEEDCONTROL]
+Roles for MUNCHLAX: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Kaitlin!"
+"Lass Kaitlin sent out Clefairy!"
+"Go! Oddish!"
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Clefairy (1): 0
+Set up score for Clefairy (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Clefairy (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Clefairy (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Move choices for Clefairy (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Clefairy lost 49 HP (50 -> 1)
+"It's super effective!"
+[HP change] The opposing Clefairy gained 20 HP (1 -> 21)
+"The opposing Clefairy restored its health using its Berry Juice!"
+[Item consumed] The opposing Clefairy consumed its held Berry Juice
+"The opposing Clefairy was poisoned!"
+[Use move] The opposing Clefairy (1) used Draining Kiss
+"The opposing Clefairy used Draining Kiss!"
+[HP change] Oddish lost 5 HP (50 -> 45)
+"It's not very effective..."
+"Oddish had its energy drained!"
+[HP change] The opposing Clefairy gained 4 HP (21 -> 25)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Clefairy (1): 0
+Set up score for Clefairy (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (1) is considering using Draining Kiss (1) against Oddish (0)...
+[AI] Clefairy (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Clefairy (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Move choices for Clefairy (1):
+   *  33.3% to use Draining Kiss (target 0): score 1
+   *  33.3% to use Thunder Wave (target 0): score 1
+   *  33.3% to use Shock Wave (target 0): score 1
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Clefairy lost 25 HP (25 -> 0)
+"It's super effective!"
+"The opposing Clefairy fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Minccino] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Minccino] - 3 because we have no kill
+     [Munchlax] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (39)
+"Lass Kaitlin sent out Munchlax!"
+
+===== Round 3 =====
+
+Set up score for Munchlax (1): 0
+Set up score for Munchlax (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum (4)...
+     + 5 to encourage status move use
+[AI] Munchlax (1) is considering using Headbutt (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Oddish (0)...
+[AI] Move choices for Munchlax (1):
+   * 100.0% to use Belly Drum: score 9
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Belly Drum
+
+[Round order] Oddish (0), the opposing Munchlax (1)
+
+[Use move] Oddish (0) used Sleep Powder
+"Oddish used Sleep Powder!"
+[Move failed] Failed pbAccuracyCheck
+"Oddish's attack missed!"
+[Use move] The opposing Munchlax (1) used Belly Drum
+"The opposing Munchlax used Belly Drum!"
+[HP change] The opposing Munchlax lost 35 HP (70 -> 35)
+"The opposing Munchlax cut its own HP and maximized its Attack!"
+[HP change] The opposing Munchlax gained 35 HP (35 -> 70)
+"The opposing Munchlax restored its health using its Iapapa Berry!"
+[Item consumed] The opposing Munchlax consumed its held Iapapa Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+     [Switch AI] +6 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Oddish (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Oddish (0)...
+      + 17 for slow kill
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   *  50.0% to use Headbutt (target 0): score 18
+   *  50.0% to use Bite (target 0): score 18
+   => will use Headbutt (target 0)
+
+[Round order] Oddish (0), the opposing Munchlax (1)
+
+[Use move] Oddish (0) used Sleep Powder
+"Oddish used Sleep Powder!"
+"The opposing Munchlax fell asleep!"
+[Status change] The opposing Munchlax's sleep count is 4
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax is fast asleep."
+[Status continues] The opposing Munchlax's sleep count is 3
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
