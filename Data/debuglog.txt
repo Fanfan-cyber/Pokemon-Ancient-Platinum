@@ -569,3 +569,993 @@ Section000:45:in `<main>'
 "Shinx's data was added to the Pokédex."
 "Where do you want to send Shinx to?"
 "Shinx has been sent to Box "Box 1"!"
+Roles for STARLY: [:NONE]
+Roles for SHINX: [:NONE]
+Roles for BIDOOF: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tristan!"
+"Youngster Tristan sent out Starly!"
+"Go! Piplup!"
+[Round order] Piplup (0), the opposing Starly (1)
+[Ability triggered] The opposing Starly's Keen Eye
+"The opposing Starly is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+     + 9 to get a last ditch hit off.
+[AI] Starly (1) is considering using Swagger (4) against Piplup (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Starly (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Starly (1), Piplup (0)
+
+[Use move] The opposing Starly (1) used Quick Attack
+"The opposing Starly used Quick Attack!"
+[HP change] Piplup lost 6 HP (38 -> 32)
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Starly fainted!"
+"Piplup got 1 Exp. Points!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Shinx] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Shinx] + 4 because we have 2HKO
+     [Bidoof] - 3 because we have no kill
+[AI] Highest move score (10) vs Switch In Score (33)
+"Youngster Tristan sent out Shinx!"
+[Ability triggered] The opposing Shinx's Intimidate
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Shinx (1): 0
+Set up score for Shinx (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shinx (1) is considering using Bite (1) against Piplup (0)...
+[AI] Move choices for Shinx (1):
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] Piplup (0), the opposing Shinx (1)
+
+"Piplup, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Shinx (1) used Spark
+"The opposing Shinx used Spark!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Wooper (0)
+Set up score for Shinx (1): 0
+Set up score for Shinx (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Bite
+"The opposing Shinx used Bite!"
+[HP change] Wooper lost 7 HP (40 -> 33)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 27 HP (27 -> 0)
+"It's super effective!"
+"The opposing Shinx fainted!"
+"Wooper got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Bidoof] + 2 because we outspeed
+     [Bidoof] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (34)
+"Youngster Tristan sent out Bidoof!"
+
+===== Round 4 =====
+
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     + 5 to encourage status move use
+[AI] Bidoof (1) is considering using Quick Attack (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   * 100.0% to use Work Up: score 9
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Work Up
+
+[Round order] The opposing Bidoof (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Bidoof (1) used Work Up
+"The opposing Bidoof used Work Up!"
+[Stat change] The opposing Bidoof's Attack changed by +2 (0 -> 2)
+"The opposing Bidoof's Attack rose sharply!"
+[Stat change] The opposing Bidoof's Special Attack changed by +2 (0 -> 2)
+"The opposing Bidoof's Special Attack rose sharply!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Bidoof (1), Oddish (0)
+
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Oddish lost 10 HP (37 -> 27)
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Bidoof lost 28 HP (32 -> 4)
+[HP change] The opposing Bidoof gained 10 HP (4 -> 14)
+"The opposing Bidoof restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Bidoof consumed its held Oran Berry
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Oddish (0)...
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 14
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Bidoof (1), Oddish (0)
+
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Oddish lost 10 HP (27 -> 17)
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Bidoof lost 14 HP (14 -> 0)
+"The opposing Bidoof fainted!"
+"The opposing Bidoof had its energy drained!"
+[HP change] Oddish gained 7 HP (17 -> 24)
+"Oddish got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Youngster Tristan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for MEOWTH: [:PHYSICALBREAKER]
+Roles for SPRIGATITO: [:NONE]
+Roles for LITTEN: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Natalie!"
+"Lass Natalie sent out Meowth!"
+"Go! Piplup!"
+[Round order] The opposing Meowth (1), Piplup (0)
+
+===== Round 1 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Meowth (1) is considering using Fake Out (1) against Piplup (0)...
+     + 18 for using Fake Out turn 1
+[AI] Meowth (1) is considering using Pay Day (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Piplup (0)...
+[AI] Move choices for Meowth (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Pay Day (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Meowth (1), Piplup (0)
+
+[Use move] The opposing Meowth (1) used Fake Out
+"The opposing Meowth used Fake Out!"
+"The Normal Gem strengthened Fake Out's power!"
+[HP change] Piplup lost 9 HP (38 -> 29)
+[Item consumed] The opposing Meowth consumed its held Normal Gem
+[Use move] Piplup (0) used Water Gun
+"Piplup flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Piplup (0)...
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Pay Day (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Pay Day (target 0)
+
+[Round order] The opposing Meowth (1), Piplup (0)
+
+[Use move] The opposing Meowth (1) used Pay Day
+"The opposing Meowth used Pay Day!"
+[HP change] Piplup lost 7 HP (29 -> 22)
+"Coins were scattered everywhere!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Meowth lost 14 HP (26 -> 12)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Piplup (0)...
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Pay Day (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Pay Day (target 0)
+
+[Round order] The opposing Meowth (1), Piplup (0)
+
+[Use move] The opposing Meowth (1) used Pay Day
+"The opposing Meowth used Pay Day!"
+[HP change] Piplup lost 7 HP (22 -> 15)
+[HP change] Piplup gained 10 HP (15 -> 25)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+"Coins were scattered everywhere!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Meowth lost 12 HP (12 -> 0)
+"A critical hit!"
+"The opposing Meowth fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Sprigatito] + 2 because we outspeed
+     [Sprigatito] + 4 because we have 2HKO
+     [Litten] + 2 because we outspeed
+     [Litten] - 3 because we have no kill
+[AI] Highest move score (28) vs Switch In Score (41)
+"Lass Natalie sent out Sprigatito!"
+
+===== Round 4 =====
+
+Set up score for Sprigatito (1): 0
+Set up score for Sprigatito (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+     + 4 to prioritize highest damaging move
+[AI] Sprigatito (1) is considering using Bite (1) against Piplup (0)...
+[AI] Move choices for Sprigatito (1):
+   * 100.0% to use Razor Leaf: score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Razor Leaf
+
+[Round order] The opposing Sprigatito (1), Piplup (0)
+
+"Piplup, come back!"
+"You're in charge, Growlithe!"
+[Use move] The opposing Sprigatito (1) used Razor Leaf
+"The opposing Sprigatito used Razor Leaf!"
+[HP change] Growlithe lost 4 HP (38 -> 34)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sprigatito (1): 0
+Set up score for Sprigatito (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+[AI] Sprigatito (1) is considering using Bite (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sprigatito (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Growlithe (0), the opposing Sprigatito (1)
+
+[Use move] Growlithe (0) used Flame Wheel
+"Growlithe used Flame Wheel!"
+[HP change] The opposing Sprigatito lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Sprigatito fainted!"
+"Growlithe got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Litten] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Lass Natalie sent out Litten!"
+[Ability triggered] The opposing Litten's Intimidate
+[Stat change] Growlithe's Attack changed by -1 (0 -> -1)
+"Growlithe's Attack fell!"
+
+===== Round 6 =====
+
+Set up score for Growlithe (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out (1) against Growlithe (0)...
+     + 18 for using Fake Out turn 1
+[AI] Litten (1) is considering using Bite (1) against Growlithe (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Growlithe (0)...
+[AI] Move choices for Litten (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Litten (1), Growlithe (0)
+
+"Growlithe, come back!"
+"You're in charge, Piplup!"
+[Use move] The opposing Litten (1) used Fake Out
+"The opposing Litten used Fake Out!"
+[HP change] Piplup lost 5 HP (25 -> 20)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Piplup (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Piplup (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Piplup lost 6 HP (20 -> 14)
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Litten lost 28 HP (29 -> 1)
+"It's super effective!"
+[HP change] The opposing Litten gained 10 HP (1 -> 11)
+"The opposing Litten restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Litten consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Piplup (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Piplup (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Piplup lost 7 HP (14 -> 7)
+[Use move] Piplup (0) used Water Gun
+"Piplup flinched and couldn't move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Piplup (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Piplup (0)
+
+"Good job, Piplup! Come back!"
+"Just a little more! Hang in there, Wooper!"
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Wooper lost 7 HP (40 -> 33)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Wooper (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Wooper (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Wooper lost 8 HP (33 -> 25)
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Litten lost 11 HP (11 -> 0)
+"It's super effective!"
+"The opposing Litten fainted!"
+
+===== Player won =====
+
+"You defeated Lass Natalie!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for GROWLITHE: [:PHYSICALBREAKER]
+Roles for YAMPER: [:SPEEDCONTROL]
+Roles for FIDOUGH: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Logan!"
+"Youngster Logan sent out Growlithe!"
+"Go! Piplup!"
+[Round order] Piplup (0), the opposing Growlithe (1)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Piplup (0)...
+[AI] Growlithe (1) is considering using Bite (1) against Piplup (0)...
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] Piplup (0), the opposing Growlithe (1)
+
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Growlithe lost 27 HP (31 -> 4)
+"It's super effective!"
+[HP change] The opposing Growlithe gained 10 HP (4 -> 14)
+"The opposing Growlithe restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Growlithe consumed its held Oran Berry
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Piplup lost 13 HP (38 -> 25)
+"It's super effective!"
+"Piplup is paralyzed! It may be unable to move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Piplup (0)...
+[AI] Growlithe (1) is considering using Bite (1) against Piplup (0)...
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Growlithe (1), Piplup (0)
+
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Piplup lost 13 HP (25 -> 12)
+"It's super effective!"
+[HP change] Piplup gained 10 HP (12 -> 22)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+[Use move] Piplup (0) used Water Gun
+"Piplup is paralyzed! It can't move!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Piplup (0)...
+[AI] Growlithe (1) is considering using Bite (1) against Piplup (0)...
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Piplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Growlithe (1), Piplup (0)
+
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Piplup lost 12 HP (22 -> 10)
+"It's super effective!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Growlithe lost 14 HP (14 -> 0)
+"It's super effective!"
+"The opposing Growlithe fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Yamper] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Yamper] + 9 because we have kill
+     [Fidough] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Fidough] + 4 because we have 2HKO
+[AI] Highest move score (18) vs Switch In Score (38)
+"Youngster Logan sent out Yamper!"
+
+===== Round 4 =====
+
+     move will not affect Piplup (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Piplup (0)...
+      + 20 for fast kill
+[AI] Yamper (1) is considering using Bite (1) against Piplup (0)...
+[AI] Yamper (1) is considering using Thunder Wave (4) against Piplup (0)...
+     move will not affect Piplup (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   * 100.0% to use Spark (target 0): score 21
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Yamper (1), Piplup (0)
+
+"OK, Piplup! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Yamper (1) used Spark
+"The opposing Yamper used Spark!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+     move will not affect Wooper (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Yamper (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Wooper (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Wooper lost 6 HP (40 -> 34)
+[Use move] Wooper (0) used Mud Shot
+"Wooper flinched and couldn't move!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Wooper (0)
+     move will not affect Wooper (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Yamper (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Wooper (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Wooper lost 6 HP (34 -> 28)
+[Use move] Wooper (0) used Mud Shot
+"Wooper flinched and couldn't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Wooper (0)
+     move will not affect Wooper (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Yamper (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Wooper (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Wooper lost 7 HP (28 -> 21)
+[Use move] Wooper (0) used Mud Shot
+"Wooper flinched and couldn't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Wooper (0)
+     move will not affect Wooper (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Yamper (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Wooper (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Wooper lost 7 HP (21 -> 14)
+[HP change] Wooper gained 10 HP (14 -> 24)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Yamper lost 26 HP (32 -> 6)
+"It's super effective!"
+[HP change] The opposing Yamper gained 10 HP (6 -> 16)
+"The opposing Yamper restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Yamper consumed its held Oran Berry
+[Stat change] The opposing Yamper's Speed changed by -1 (0 -> -1)
+"The opposing Yamper's Speed fell!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Wooper (0)
+     move will not affect Wooper (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Yamper (1): -1
+Set up score for Yamper (1): -1
+Set up score for Yamper (1): -1
+Set up score for Yamper (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Yamper (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Wooper (0), the opposing Yamper (1)
+
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Yamper lost 16 HP (16 -> 0)
+"It's super effective!"
+"The opposing Yamper fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     move will not affect Wooper (0)
+     [Fidough] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Fidough] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Logan sent out Fidough!"
+
+===== Round 10 =====
+
+Set up score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Bite (1) against Wooper (0)...
+[AI] Fidough (1) is considering using Headbutt (1) against Wooper (0)...
+[AI] Move choices for Fidough (1):
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Fidough (1), Wooper (0)
+
+"Wooper, that's enough! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Fidough (1) used Covet
+"The opposing Fidough used Covet!"
+[HP change] Oddish lost 5 HP (37 -> 32)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Oddish (0)...
+[AI] Fidough (1) is considering using Bite (1) against Oddish (0)...
+[AI] Fidough (1) is considering using Headbutt (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Fidough (1), Oddish (0)
+
+[Use move] The opposing Fidough (1) used Headbutt
+"The opposing Fidough used Headbutt!"
+[HP change] Oddish lost 8 HP (32 -> 24)
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Fidough lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Fidough fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Logan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
