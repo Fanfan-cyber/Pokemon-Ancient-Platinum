@@ -735,9 +735,7 @@ def pbPokemonMart(stock, speech = nil, cantsell = false)
       screen = PokemonMartScreen.new(scene, stock)
       screen.pbBuyScreen
     elsif cmdSell >= 0 && cmd == cmdSell
-      scene = PokemonMart_Scene.new
-      screen = PokemonMartScreen.new(scene, stock)
-      screen.pbSellScreen
+      pbFadeOutIn { UI::BagSell.new($bag).sell_items }
     else
       pbMessage(_INTL("Do come again!"))
       break
@@ -745,4 +743,139 @@ def pbPokemonMart(stock, speech = nil, cantsell = false)
     cmd = pbMessage(_INTL("Is there anything else I can do for you?"), commands, cmdQuit + 1)
   end
   $game_temp.clear_mart_prices
+end
+
+class UI::BagSell < UI::Bag
+  def initialize(bag, mode: :choose_item)
+    @stock = UI::MartStockWrapper.new([])
+    super(bag, mode: mode)
+  end
+
+  def initialize_visuals
+    @visuals = UI::BagSellVisuals.new(@bag, @stock, mode: @mode)
+  end
+
+  def sell_items
+    choose_item do |item|
+      item_data = GameData::Item.get(item)
+      item_name        = item_data.portion_name
+      item_name_plural = item_data.portion_name_plural
+      price = @stock.sell_price(item)
+      # Ensure item can be sold
+      if item_data.is_important? || price == 0
+        show_message(_INTL("Oh, no. I can't buy {1}.", item_name_plural))
+        next
+      end
+      # Choose a quantity of the item to sell
+      quantity = @bag.quantity(item)
+      if quantity > 1
+        quantity = choose_number_as_money_multiplier(
+          _INTL("How many {1} would you like to sell?", item_name_plural), price, quantity
+        )
+      end
+      next if quantity == 0
+      # Sell the item(s)
+      price *= quantity
+      if show_confirm_message(_INTL("I can pay ${1}.\nWould that be OK?", price.to_s_formatted))
+        @bag.remove(item, quantity)
+        old_money = $player.money
+        $player.money += price
+        $stats.money_earned_at_marts += $player.money - old_money
+        refresh
+        sold_item_name = (quantity > 1) ? item_name_plural : item_name
+        show_message(_INTL("You turned over the {1} and got ${2}.",
+                           sold_item_name, price.to_s_formatted)) { pbSEPlay("Mart buy item") }
+      end
+      next false
+    end
+  end
+end
+
+class UI::BagSellVisuals < UI::BagVisuals
+  def initialize(bag, stock, mode = :choose_item)
+    @stock = stock
+    super(bag, mode: mode)
+  end
+
+  def initialize_sprites
+    super
+    @sprites[:money_window] = Window_AdvancedTextPokemon.newWithSize("", 0, 36, 184, 96, @viewport)
+    @sprites[:money_window].setSkin("Graphics/Windowskins/goldskin")
+    @sprites[:money_window].z              = 2000
+    @sprites[:money_window].baseColor      = get_text_color_theme(:gray)[0]
+    @sprites[:money_window].shadowColor    = get_text_color_theme(:gray)[1]
+    @sprites[:money_window].letterbyletter = false
+    @sprites[:money_window].visible        = true
+    @sprites[:unit_price_window] = Window_AdvancedTextPokemon.newWithSize("", 0, 184, 184, 96, @viewport)
+    @sprites[:unit_price_window].setSkin("Graphics/Windowskins/goldskin")
+    @sprites[:unit_price_window].z              = 2000
+    @sprites[:unit_price_window].baseColor      = get_text_color_theme(:gray)[0]
+    @sprites[:unit_price_window].shadowColor    = get_text_color_theme(:gray)[1]
+    @sprites[:unit_price_window].letterbyletter = false
+    @sprites[:unit_price_window].visible        = true
+  end
+
+  def refresh
+    super
+    @sprites[:money_window].text = _INTL("Money:\n<r>${1}", $player.money.to_s_formatted)
+    refresh_unit_price_window
+  end
+
+  def refresh_input_indicators; end
+
+  def refresh_unit_price_window
+    @sprites[:unit_price_window].visible = (!item.nil?)
+    return if item.nil?
+    price = @stock.sell_price(item)
+    if GameData::Item.get(item).is_important? || price == 0
+      @sprites[:unit_price_window].text = _INTL("You can't sell this item.")
+    else
+      @sprites[:unit_price_window].text = _INTL("Price each:\n<r>${1}", price.to_s_formatted)
+    end
+  end
+
+  def refresh_on_index_changed(old_index)
+    super
+    refresh_unit_price_window
+  end
+end
+
+class UI::MartStockWrapper
+  def initialize(stock)
+    @stock = stock
+    refresh
+  end
+
+  def length
+    return @stock.length
+  end
+
+  def [](index)
+    return @stock[index]
+  end
+
+  def buy_price(item)
+    return 0 if item.nil?
+    if $game_temp.mart_prices && $game_temp.mart_prices[item]
+      return $game_temp.mart_prices[item][0] if $game_temp.mart_prices[item][0] > 0
+    end
+    return GameData::Item.get(item).price
+  end
+
+  def buy_price_string(item)
+    price = buy_price(item)
+    return _INTL("${1}", price.to_s_formatted)
+  end
+
+  def sell_price(item)
+    return 0 if item.nil?
+    if $game_temp.mart_prices && $game_temp.mart_prices[item]
+      return $game_temp.mart_prices[item][1] if $game_temp.mart_prices[item][1] >= 0
+    end
+    return GameData::Item.get(item).sell_price
+  end
+
+  def refresh
+    @stock.delete_if { |itm| GameData::Item.get(itm).is_important? && $bag.has?(itm) }
+  end
 end
