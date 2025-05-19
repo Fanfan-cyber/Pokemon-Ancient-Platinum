@@ -1772,3 +1772,41 @@ Section000:45:in `<main>'
 -e:in `eval'
 
 
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sewaddle appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Sewaddle (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sewaddle (1) is considering using Tackle (1) against Piplup (0)...
+[AI] Sewaddle (1) is considering using String Shot (4)...
+[AI] Move choices for Sewaddle (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  50.0% to use String Shot: score 4
+   *  50.0% to use String Shot: score 4
+   => will use String Shot
+
+[Round order] Piplup (0), the wild Sewaddle (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Sewaddle was caught!"
+
+===== Pokémon caught =====
+
+"Sewaddle's data was added to the Pokédex."
+"Where do you want to send Sewaddle to?"
+"Where do you want to send Sewaddle to?"
+"Sewaddle has been sent to Box "Box 1"!"
