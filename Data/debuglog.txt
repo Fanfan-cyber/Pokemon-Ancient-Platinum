@@ -9613,3 +9613,3143 @@ Set up score for Luxio (2): 0
 "Wow. You're great!"
 
 "You got $2,816 for winning!"
+Roles for ARON: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for DIGLETT: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PALPITOAD: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Worker Mason!"
+"Worker Mason sent out Aron!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Aron (1)
+
+===== Round 1 =====
+
+Set up score for Aron (1): 0
+Set up score for Aron (1): 0
+     [Switch AI] +5 Party member [Palpitoad] is immune to strongest move against Aron (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Aron (1) is considering using Metal Claw (1) against Prinplup (0)...
+[AI] Aron (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aron (1) is considering using Bulldoze (1)...
+[AI] Move choices for Aron (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Prinplup (0), the opposing Aron (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Aron lost 3 HP (46 -> 43)
+"It's not very effective..."
+"Prinplup stole and ate its target's Custap Berry!"
+[Use move] The opposing Aron (1) used Rock Tomb
+"The opposing Aron used Rock Tomb!"
+[HP change] Prinplup lost 16 HP (55 -> 39)
+[Stat change] Prinplup's Speed changed by -1 (0 -> -1)
+"Prinplup's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Aron (1): 0
+Set up score for Aron (1): 0
+     [Switch AI] +5 Party member [Palpitoad] is immune to strongest move against Aron (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aron (1) is considering using Metal Claw (1) against Prinplup (0)...
+[AI] Aron (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aron (1) is considering using Bulldoze (1)...
+[AI] Move choices for Aron (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Prinplup (0), the opposing Aron (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Aron lost 43 HP (43 -> 0)
+"It's super effective!"
+"The opposing Aron fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Diglett] - 12 because they have kill with their highest damaging move against the current battler
+     [Diglett] - 3 because we have no kill
+     [Palpitoad] + 3 because we absorb their highest damaging move against the current battler
+     [Palpitoad] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (35)
+"Worker Mason sent out Palpitoad!"
+
+===== Round 3 =====
+
+Set up score for Palpitoad (1): 0
+Set up score for Palpitoad (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palpitoad (1) is considering using Bubble Beam (1) against Prinplup (0)...
+[AI] Palpitoad (1) is considering using Mud Shot (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Palpitoad (1) is considering using Icy Wind (1)...
+[AI] Palpitoad (1) is considering using Sludge (1) against Prinplup (0)...
+[AI] Move choices for Palpitoad (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Mud Shot (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Sludge (target 0): score 0
+   => will use Mud Shot (target 0)
+
+[Round order] The opposing Palpitoad (1), Prinplup (0)
+
+"Prinplup, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Palpitoad (1) used Mud Shot
+"The opposing Palpitoad used Mud Shot!"
+[HP change] Oddish lost 12 HP (50 -> 38)
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Palpitoad (1): 0
+Set up score for Palpitoad (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): -1
+     Threat Score for Oddish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palpitoad (1) is considering using Bubble Beam (1) against Oddish (0)...
+[AI] Palpitoad (1) is considering using Mud Shot (1) against Oddish (0)...
+[AI] Palpitoad (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Palpitoad (1) is considering using Sludge (1) against Oddish (0)...
+[AI] Move choices for Palpitoad (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Mud Shot (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Sludge (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Palpitoad (1), Oddish (0)
+
+[Use move] The opposing Palpitoad (1) used Icy Wind
+"The opposing Palpitoad used Icy Wind!"
+[HP change] Oddish lost 17 HP (38 -> 21)
+"It's super effective!"
+[HP change] Oddish gained 10 HP (21 -> 31)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Stat change] Oddish's Speed changed by -1 (-1 -> -2)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Palpitoad lost 51 HP (54 -> 3)
+"It's super effective!"
+"The opposing Palpitoad had its energy drained!"
+[HP change] Oddish gained 19 HP (31 -> 50)
+"The Rindo Berry weakened the damage to the opposing Palpitoad!"
+[Item consumed] The opposing Palpitoad consumed its held Rindo Berry
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Palpitoad (1): 0
+Set up score for Palpitoad (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): -2
+     Threat Score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palpitoad (1) is considering using Bubble Beam (1) against Oddish (0)...
+[AI] Palpitoad (1) is considering using Mud Shot (1) against Oddish (0)...
+[AI] Palpitoad (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Palpitoad (1) is considering using Sludge (1) against Oddish (0)...
+[AI] Move choices for Palpitoad (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Mud Shot (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Sludge (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Palpitoad (1), Oddish (0)
+
+[Use move] The opposing Palpitoad (1) used Icy Wind
+"The opposing Palpitoad used Icy Wind!"
+[HP change] Oddish lost 15 HP (50 -> 35)
+"It's super effective!"
+[Stat change] Oddish's Speed changed by -1 (-2 -> -3)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Palpitoad lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Palpitoad fainted!"
+"The opposing Palpitoad had its energy drained!"
+[HP change] Oddish gained 2 HP (35 -> 37)
+
+[End of round 5]
+Trick Room Turns: 0
+     [Diglett] - 12 because they have kill with their highest damaging move against the current battler
+     [Diglett] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Worker Mason sent out Diglett!"
+
+===== Round 6 =====
+
+Set up score for Oddish (0): -3
+     Threat Score for Oddish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Diglett (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Diglett (1) is considering using Rock Tomb (1) against Oddish (0)...
+[AI] Diglett (1) is considering using Sucker Punch (1) against Oddish (0)...
+     - 1 for Sucker Punch factoring in 1 Status Moves from Oddish (0)
+[AI] Move choices for Diglett (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Diglett (1), Oddish (0)
+
+[Use move] The opposing Diglett (1) used Bulldoze
+"The opposing Diglett used Bulldoze!"
+[HP change] Oddish lost 18 HP (37 -> 19)
+[Stat change] Oddish's Speed changed by -1 (-3 -> -4)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Diglett lost 34 HP (34 -> 0)
+"It's super effective!"
+"The opposing Diglett fainted!"
+"The opposing Diglett had its energy drained!"
+[HP change] Oddish gained 17 HP (19 -> 36)
+
+===== Player won =====
+
+"You defeated Worker Mason!"
+"Wow. You're great!"
+
+"You got $1,408 for winning!"
+Roles for WOOPER: [:PHYSICALBREAKER, :SPEEDCONTROL, :LEAD]
+Roles for LUNATONE: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for PAWNIARD: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SCRAGGY: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Worker Colin!"
+"Worker Colin sent out Wooper!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Wooper (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Wooper (1): 0
+Set up score for Wooper (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Wooper (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Wooper (1) is considering using Poison Tail (1) against Prinplup (0)...
+[AI] Wooper (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Wooper (1) is considering using Toxic Spikes (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Wooper (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Poison Tail (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Toxic Spikes: score 0
+   => will use Bulldoze
+
+[Round order] Prinplup (0), the opposing Wooper (1)
+
+[Use move] Prinplup (0) used Icy Wind
+"Prinplup used Icy Wind!"
+[HP change] The opposing Wooper lost 48 HP (48 -> 0)
+"It's super effective!"
+"The opposing Wooper fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Lunatone] + 2 because we outspeed
+     [Lunatone] - 3 because we have no kill
+     [Pawniard] + 2 because we outspeed
+     [Pawniard] - 3 because we have no kill
+     [Scraggy] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (34)
+"Worker Colin sent out Pawniard!"
+
+===== Round 2 =====
+
+Set up score for Pawniard (1): 0
+Set up score for Pawniard (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawniard (1) is considering using Metal Claw (1) against Prinplup (0)...
+[AI] Pawniard (1) is considering using Pursuit (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pawniard (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Move choices for Pawniard (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Pursuit (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Pursuit (target 0)
+
+[Round order] The opposing Pawniard (1), Prinplup (0)
+
+"Prinplup, come back!"
+[Use move] The opposing Pawniard (1) used Pursuit
+"The opposing Pawniard used Pursuit!"
+[HP change] Prinplup lost 19 HP (55 -> 36)
+"You're in charge, Machop!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Pawniard (1): 0
+Set up score for Pawniard (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawniard (1) is considering using Metal Claw (1) against Machop (0)...
+[AI] Pawniard (1) is considering using Pursuit (1) against Machop (0)...
+[AI] Pawniard (1) is considering using Aerial Ace (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pawniard (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Pursuit (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Pawniard (1), Machop (0)
+
+[Use move] The opposing Pawniard (1) used Aerial Ace
+"The opposing Pawniard used Aerial Ace!"
+[HP change] Machop lost 30 HP (60 -> 30)
+"It's super effective!"
+[HP change] Machop gained 10 HP (30 -> 40)
+"Machop restored a little HP using its Oran Berry!"
+[Item consumed] Machop consumed its held Oran Berry
+[Use move] Machop (0) used Revenge
+"Machop used Revenge!"
+[HP change] The opposing Pawniard lost 45 HP (45 -> 0)
+"It's super effective!"
+"The opposing Pawniard fainted!"
+"The Chople Berry weakened the damage to the opposing Pawniard!"
+[Item consumed] The opposing Pawniard consumed its held Chople Berry
+"Machop got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Lunatone] + 2 because we outspeed
+     [Lunatone] + 9 because we have kill
+     [Scraggy] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scraggy] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (46)
+"Worker Colin sent out Lunatone!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lunatone (1): 0
+Set up score for Lunatone (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lunatone (1) is considering using Confusion (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lunatone (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Lunatone (1) is considering using Fairy Wind (1) against Machop (0)...
+[AI] Lunatone (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lunatone (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Confusion (target 0)
+
+[Round order] The opposing Lunatone (1), Machop (0)
+
+"Machop, come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Lunatone (1) used Confusion
+"The opposing Lunatone used Confusion!"
+[HP change] Prinplup lost 15 HP (36 -> 21)
+[HP change] Prinplup gained 10 HP (21 -> 31)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Lunatone (1): 0
+Set up score for Lunatone (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lunatone (1) is considering using Confusion (1) against Prinplup (0)...
+[AI] Lunatone (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lunatone (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Lunatone (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lunatone (1):
+   *   0.0% to use Confusion (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Lunatone (1), Prinplup (0)
+
+[Use move] The opposing Lunatone (1) used Ancient Power
+"The opposing Lunatone used Ancient Power!"
+[HP change] Prinplup lost 17 HP (31 -> 14)
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Lunatone lost 55 HP (59 -> 4)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lunatone (1): 0
+Set up score for Lunatone (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lunatone (1) is considering using Confusion (1) against Prinplup (0)...
+      + 20 for fast kill
+[AI] Lunatone (1) is considering using Ancient Power (1) against Prinplup (0)...
+      + 20 for fast kill
+[AI] Lunatone (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Lunatone (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lunatone (1):
+   *  50.0% to use Confusion (target 0): score 21
+   *  50.0% to use Ancient Power (target 0): score 21
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Lunatone (1), Prinplup (0)
+
+"OK, Prinplup! Come back!"
+"Your opponent's weak! Get 'em, Luxio!"
+[Use move] The opposing Lunatone (1) used Ancient Power
+"The opposing Lunatone used Ancient Power!"
+[HP change] Luxio lost 22 HP (53 -> 31)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Lunatone (1): 0
+Set up score for Lunatone (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Threat Score for Luxio (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lunatone (1) is considering using Confusion (1) against Luxio (0)...
+[AI] Lunatone (1) is considering using Ancient Power (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lunatone (1) is considering using Fairy Wind (1) against Luxio (0)...
+[AI] Lunatone (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lunatone (1):
+   *   0.0% to use Confusion (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Lunatone (1), Luxio (0)
+
+[Use move] The opposing Lunatone (1) used Ancient Power
+"The opposing Lunatone used Ancient Power!"
+[HP change] Luxio lost 24 HP (31 -> 7)
+[HP change] Luxio gained 10 HP (7 -> 17)
+"Luxio restored a little HP using its Oran Berry!"
+[Item consumed] Luxio consumed its held Oran Berry
+[Use move] Luxio (0) used Bite
+"Luxio used Bite!"
+[HP change] The opposing Lunatone lost 4 HP (4 -> 0)
+"It's super effective!"
+"The opposing Lunatone fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Scraggy] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Worker Colin sent out Scraggy!"
+[Ability triggered] The opposing Scraggy's Intimidate
+[Stat change] Luxio's Attack changed by -1 (0 -> -1)
+"Luxio's Attack fell!"
+
+===== Round 8 =====
+
+Set up score for Luxio (0): 0
+     Threat Score for Luxio (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scraggy (1) is considering using Fake Out (1) against Luxio (0)...
+     + 18 for using Fake Out turn 1
+[AI] Scraggy (1) is considering using Karate Chop (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Scraggy (1) is considering using Feint Attack (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Scraggy (1) is considering using Rock Tomb (1) against Luxio (0)...
+[AI] Move choices for Scraggy (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Karate Chop (target 0): score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Scraggy (1), Luxio (0)
+
+"OK, Luxio! Come back!"
+"You're in charge, Ralts!"
+[Use move] The opposing Scraggy (1) used Fake Out
+"The opposing Scraggy used Fake Out!"
+[HP change] Ralts lost 14 HP (42 -> 28)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Ralts (0): 0
+     Threat Score for Ralts (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scraggy (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Scraggy (1) is considering using Karate Chop (1) against Ralts (0)...
+[AI] Scraggy (1) is considering using Feint Attack (1) against Ralts (0)...
+      + 20 for fast kill
+[AI] Scraggy (1) is considering using Rock Tomb (1) against Ralts (0)...
+[AI] Move choices for Scraggy (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Karate Chop (target 0): score 0
+   * 100.0% to use Feint Attack (target 0): score 21
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Feint Attack (target 0)
+
+[Round order] The opposing Scraggy (1), Ralts (0)
+
+[Use move] The opposing Scraggy (1) used Feint Attack
+"The opposing Scraggy used Feint Attack!"
+[HP change] Ralts lost 28 HP (28 -> 0)
+"Ralts fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"You're in charge, Zubat!"
+
+===== Round 10 =====
+
+Set up score for Zubat (0): 0
+     Threat Score for Zubat (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scraggy (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Scraggy (1) is considering using Karate Chop (1) against Zubat (0)...
+[AI] Scraggy (1) is considering using Feint Attack (1) against Zubat (0)...
+[AI] Scraggy (1) is considering using Rock Tomb (1) against Zubat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Scraggy (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Karate Chop (target 0): score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Zubat (0), the opposing Scraggy (1)
+
+[Use move] Zubat (0) used Poison Fang
+"Zubat used Poison Fang!"
+[HP change] The opposing Scraggy lost 11 HP (49 -> 38)
+[Use move] The opposing Scraggy (1) used Rock Tomb
+"The opposing Scraggy used Rock Tomb!"
+[HP change] Zubat lost 40 HP (46 -> 6)
+"It's super effective!"
+[HP change] Zubat gained 10 HP (6 -> 16)
+"Zubat restored a little HP using its Oran Berry!"
+[Item consumed] Zubat consumed its held Oran Berry
+[Stat change] Zubat's Speed changed by -1 (0 -> -1)
+"Zubat's Speed fell!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Zubat (0): -1
+     Threat Score for Zubat (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scraggy (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Scraggy (1) is considering using Karate Chop (1) against Zubat (0)...
+[AI] Scraggy (1) is considering using Feint Attack (1) against Zubat (0)...
+      + 20 for fast kill
+[AI] Scraggy (1) is considering using Rock Tomb (1) against Zubat (0)...
+      + 20 for fast kill
+[AI] Move choices for Scraggy (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Karate Chop (target 0): score 0
+   *  50.0% to use Feint Attack (target 0): score 21
+   *  50.0% to use Rock Tomb (target 0): score 21
+   => will use Feint Attack (target 0)
+
+[Round order] The opposing Scraggy (1), Zubat (0)
+
+"OK, Zubat! Come back!"
+"Go for it, Machop!"
+[Use move] The opposing Scraggy (1) used Feint Attack
+"The opposing Scraggy used Feint Attack!"
+[HP change] Machop lost 11 HP (40 -> 29)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scraggy (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Scraggy (1) is considering using Karate Chop (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scraggy (1) is considering using Feint Attack (1) against Machop (0)...
+[AI] Scraggy (1) is considering using Rock Tomb (1) against Machop (0)...
+[AI] Move choices for Scraggy (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Karate Chop (target 0): score 5
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Karate Chop (target 0)
+
+[Round order] The opposing Scraggy (1), Machop (0)
+
+[Use move] The opposing Scraggy (1) used Karate Chop
+"The opposing Scraggy used Karate Chop!"
+[HP change] Machop lost 17 HP (29 -> 12)
+[Use move] Machop (0) used Revenge
+"Machop used Revenge!"
+[HP change] The opposing Scraggy lost 38 HP (38 -> 0)
+"It's super effective!"
+"The opposing Scraggy fainted!"
+"Zubat got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Worker Colin!"
+"Wow. You're great!"
+
+"You got $1,496 for winning!"
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+Set up score for Roggenrola (1): 0
+Set up score for Roggenrola (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Roggenrola (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Roggenrola (1) is considering using Bulldoze (1)...
+[AI] Roggenrola (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Roggenrola lost 5 HP (50 -> 45)
+"It's not very effective..."
+"Prinplup stole and ate its target's Custap Berry!"
+[Use move] The opposing Roggenrola (1) used Self-Destruct
+"The opposing Roggenrola used Self-Destruct!"
+[HP change] Prinplup lost 34 HP (55 -> 21)
+[HP change] The opposing Roggenrola lost 45 HP (45 -> 0)
+"The opposing Roggenrola fainted!"
+[HP change] Prinplup gained 10 HP (21 -> 31)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+     [Omanyte] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Omanyte] + 4 because we have 2HKO
+[AI] Highest move score (6) vs Switch In Score (33)
+"Youngster Jonathon sent out Omanyte!"
+
+===== Round 2 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+"Prinplup, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Oddish lost 21 HP (50 -> 29)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Threat Score for Oddish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Omanyte (1), Oddish (0)
+
+[Use move] The opposing Omanyte (1) used Icy Wind
+"The opposing Omanyte used Icy Wind!"
+[HP change] Oddish lost 27 HP (29 -> 2)
+"It's super effective!"
+[HP change] Oddish gained 10 HP (2 -> 12)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Omanyte lost 46 HP (46 -> 0)
+"It's super effective!"
+"The opposing Omanyte fainted!"
+"The opposing Omanyte had its energy drained!"
+[HP change] Oddish gained 23 HP (12 -> 35)
+"The Rindo Berry weakened the damage to the opposing Omanyte!"
+[Item consumed] The opposing Omanyte consumed its held Rindo Berry
+
+[End of round 3]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Youngster Jonathon sent out Geodude!"
+
+===== Round 4 =====
+
+Set up score for Oddish (0): -1
+     Threat Score for Oddish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Headbutt (1) against Oddish (0)...
+[AI] Geodude (1) is considering using Rock Tomb (1) against Oddish (0)...
+[AI] Geodude (1) is considering using Bulldoze (1)...
+[AI] Geodude (1) is considering using Self-Destruct (1)...
+      + 20 for fast kill
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 21
+   => will use Self-Destruct
+
+[Round order] The opposing Geodude (1), Oddish (0)
+
+[Use move] The opposing Geodude (1) used Self-Destruct
+"The opposing Geodude used Self-Destruct!"
+[HP change] Oddish lost 35 HP (35 -> 0)
+[HP change] The opposing Geodude lost 45 HP (45 -> 0)
+"The opposing Geodude fainted!"
+"It's not very effective..."
+"Oddish fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Jonathon!"
+"Wow. You're great!"
+
+"You got $288 for winning!"
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+Set up score for Roggenrola (1): 0
+Set up score for Roggenrola (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Roggenrola (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Roggenrola (1) is considering using Bulldoze (1)...
+[AI] Roggenrola (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Roggenrola lost 49 HP (50 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Roggenrola's Sturdy
+"The opposing Roggenrola endured the hit!"
+[Use move] The opposing Roggenrola (1) used Self-Destruct
+"The opposing Roggenrola used Self-Destruct!"
+[HP change] Prinplup lost 30 HP (55 -> 25)
+[HP change] The opposing Roggenrola lost 1 HP (1 -> 0)
+"The opposing Roggenrola fainted!"
+[HP change] Prinplup gained 10 HP (25 -> 35)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+     [Omanyte] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Omanyte] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Jonathon sent out Omanyte!"
+
+===== Round 2 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+"Prinplup, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Oddish lost 20 HP (50 -> 30)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Threat Score for Oddish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Omanyte (1), Oddish (0)
+
+[Use move] The opposing Omanyte (1) used Icy Wind
+"The opposing Omanyte used Icy Wind!"
+[HP change] Oddish lost 28 HP (30 -> 2)
+"It's super effective!"
+[HP change] Oddish gained 10 HP (2 -> 12)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Omanyte lost 41 HP (46 -> 5)
+"It's super effective!"
+"The opposing Omanyte had its energy drained!"
+[HP change] Oddish gained 21 HP (12 -> 33)
+"The Rindo Berry weakened the damage to the opposing Omanyte!"
+[Item consumed] The opposing Omanyte consumed its held Rindo Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): -1
+     Threat Score for Oddish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Omanyte (1), Oddish (0)
+
+"Oddish, come back!"
+"Your opponent's weak! Get 'em, Machop!"
+[Use move] The opposing Omanyte (1) used Icy Wind
+"The opposing Omanyte used Icy Wind!"
+[HP change] Machop lost 18 HP (60 -> 42)
+[Stat change] Machop's Speed changed by -1 (0 -> -1)
+"Machop's Speed fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): -1
+     Threat Score for Machop (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Omanyte (1), Machop (0)
+
+[Use move] The opposing Omanyte (1) used Water Pulse
+"The opposing Omanyte used Water Pulse!"
+[HP change] Machop lost 31 HP (42 -> 11)
+[HP change] Machop gained 10 HP (11 -> 21)
+"Machop restored a little HP using its Oran Berry!"
+[Item consumed] Machop consumed its held Oran Berry
+[Use move] Machop (0) used Revenge
+"Machop used Revenge!"
+[HP change] The opposing Omanyte lost 5 HP (5 -> 0)
+"It's super effective!"
+"The opposing Omanyte fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Geodude] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (38)
+"Youngster Jonathon sent out Geodude!"
+
+===== Round 6 =====
+
+Set up score for Machop (0): -1
+     Threat Score for Machop (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Headbutt (1) against Machop (0)...
+[AI] Geodude (1) is considering using Rock Tomb (1) against Machop (0)...
+[AI] Geodude (1) is considering using Bulldoze (1)...
+[AI] Geodude (1) is considering using Self-Destruct (1)...
+      + 20 for fast kill
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 21
+   => will use Self-Destruct
+
+[Round order] The opposing Geodude (1), Machop (0)
+
+"OK, Machop! Come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Geodude (1) used Self-Destruct
+"The opposing Geodude used Self-Destruct!"
+[HP change] Sandshrew lost 49 HP (49 -> 0)
+[HP change] The opposing Geodude lost 45 HP (45 -> 0)
+"The opposing Geodude fainted!"
+"Sandshrew fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Jonathon!"
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+
+**Exception: undefined method `fainted' for #<Pokemon ROGGENROLA Lv.17>
+[Phantombass AI] 01_AI_Move_Scoring.rb:300:in `block (2 levels) in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:300:in `select'
+[Phantombass AI] 01_AI_Move_Scoring.rb:300:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:71:in `trigger_damaging_moves'
+[Phantombass AI] 03_AI_Moves.rb:254:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:199:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:196:in `each'
+[Phantombass AI] 03_AI_Moves.rb:196:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:85:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:85:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:30:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+Set up score for Roggenrola (1): 0
+Set up score for Roggenrola (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Roggenrola (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Roggenrola (1) is considering using Bulldoze (1)...
+[AI] Roggenrola (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Roggenrola lost 49 HP (50 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Roggenrola's Sturdy
+"The opposing Roggenrola endured the hit!"
+[Use move] The opposing Roggenrola (1) used Self-Destruct
+"The opposing Roggenrola used Self-Destruct!"
+[HP change] Prinplup lost 34 HP (55 -> 21)
+[HP change] The opposing Roggenrola lost 1 HP (1 -> 0)
+"The opposing Roggenrola fainted!"
+[HP change] Prinplup gained 10 HP (21 -> 31)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+     [Omanyte] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Omanyte] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Jonathon sent out Omanyte!"
+
+===== Round 2 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+"Prinplup, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Oddish lost 20 HP (50 -> 30)
+[Stat change] The opposing Omanyte's Attack changed by +1 (0 -> 1)
+"The opposing Omanyte's Attack rose!"
+[Stat change] The opposing Omanyte's Defense changed by +1 (0 -> 1)
+"The opposing Omanyte's Defense rose!"
+[Stat change] The opposing Omanyte's Special Attack changed by +1 (0 -> 1)
+"The opposing Omanyte's Special Attack rose!"
+[Stat change] The opposing Omanyte's Special Defense changed by +1 (0 -> 1)
+"The opposing Omanyte's Special Defense rose!"
+[Stat change] The opposing Omanyte's Speed changed by +1 (0 -> 1)
+"The opposing Omanyte's Speed rose!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Omanyte (1): 4
+Set up score for Omanyte (1): 4
+Set up score for Omanyte (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Threat Score for Oddish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Oddish (0)...
+      + 20 for fast kill
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+      + 20 for fast kill
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *  50.0% to use Ancient Power (target 0): score 21
+   *  50.0% to use Icy Wind: score 21
+   => will use Icy Wind
+
+[Round order] The opposing Omanyte (1), Oddish (0)
+
+[Use move] The opposing Omanyte (1) used Icy Wind
+"The opposing Omanyte used Icy Wind!"
+[HP change] Oddish lost 30 HP (30 -> 0)
+"It's super effective!"
+"Oddish fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+"You're in charge, Machop!"
+
+===== Round 4 =====
+
+Set up score for Omanyte (1): 4
+Set up score for Omanyte (1): 4
+Set up score for Omanyte (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Omanyte (1), Machop (0)
+
+[Use move] The opposing Omanyte (1) used Water Pulse
+"The opposing Omanyte used Water Pulse!"
+[HP change] Machop lost 46 HP (60 -> 14)
+[HP change] Machop gained 10 HP (14 -> 24)
+"Machop restored a little HP using its Oran Berry!"
+[Item consumed] Machop consumed its held Oran Berry
+[Use move] Machop (0) used Revenge
+"Machop used Revenge!"
+[HP change] The opposing Omanyte lost 38 HP (46 -> 8)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+Set up score for Roggenrola (1): 0
+Set up score for Roggenrola (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Roggenrola (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Roggenrola (1) is considering using Bulldoze (1)...
+[AI] Roggenrola (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Roggenrola lost 49 HP (50 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Roggenrola's Sturdy
+"The opposing Roggenrola endured the hit!"
+[Use move] The opposing Roggenrola (1) used Self-Destruct
+"The opposing Roggenrola used Self-Destruct!"
+[HP change] Prinplup lost 32 HP (55 -> 23)
+[HP change] The opposing Roggenrola lost 1 HP (1 -> 0)
+"The opposing Roggenrola fainted!"
+[HP change] Prinplup gained 10 HP (23 -> 33)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+     [Omanyte] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Omanyte] + 4 because we have 2HKO
+[AI] Highest move score (18) vs Switch In Score (33)
+"Youngster Jonathon sent out Omanyte!"
+
+===== Round 2 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Omanyte lost 4 HP (46 -> 42)
+"It's not very effective..."
+"Prinplup stole and ate its target's Rindo Berry!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Prinplup lost 18 HP (33 -> 15)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 18
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+"OK, Prinplup! Come back!"
+"Go for it, Oddish!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Oddish lost 20 HP (50 -> 30)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Threat Score for Oddish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Omanyte (1), Oddish (0)
+
+[Use move] The opposing Omanyte (1) used Icy Wind
+"The opposing Omanyte used Icy Wind!"
+[HP change] Oddish lost 24 HP (30 -> 6)
+"It's super effective!"
+[HP change] Oddish gained 10 HP (6 -> 16)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Omanyte lost 42 HP (42 -> 0)
+"It's super effective!"
+"The opposing Omanyte fainted!"
+"The opposing Omanyte had its energy drained!"
+[HP change] Oddish gained 21 HP (16 -> 37)
+
+[End of round 4]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Youngster Jonathon sent out Geodude!"
+
+===== Round 5 =====
+
+Set up score for Oddish (0): -1
+     Threat Score for Oddish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Headbutt (1) against Oddish (0)...
+[AI] Geodude (1) is considering using Rock Tomb (1) against Oddish (0)...
+[AI] Geodude (1) is considering using Bulldoze (1)...
+[AI] Geodude (1) is considering using Self-Destruct (1)...
+     - 4 to remove highest damage modifier since we are last mon
+      + 20 for fast kill
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 17
+   => will use Self-Destruct
+
+[Round order] The opposing Geodude (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Machop!"
+[Use move] The opposing Geodude (1) used Self-Destruct
+"The opposing Geodude used Self-Destruct!"
+[HP change] Machop lost 60 HP (60 -> 0)
+[HP change] The opposing Geodude lost 45 HP (45 -> 0)
+"The opposing Geodude fainted!"
+"Machop fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Jonathon!"
+"Wow. You're great!"
+
+"You got $288 for winning!"
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+Set up score for Roggenrola (1): 0
+Set up score for Roggenrola (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Roggenrola (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Roggenrola (1) is considering using Bulldoze (1)...
+[AI] Roggenrola (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Roggenrola lost 49 HP (50 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Roggenrola's Sturdy
+"The opposing Roggenrola endured the hit!"
+[Use move] The opposing Roggenrola (1) used Self-Destruct
+"The opposing Roggenrola used Self-Destruct!"
+[HP change] Prinplup lost 30 HP (55 -> 25)
+[HP change] The opposing Roggenrola lost 1 HP (1 -> 0)
+"The opposing Roggenrola fainted!"
+[HP change] Prinplup gained 10 HP (25 -> 35)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+     [Omanyte] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Omanyte] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Jonathon sent out Omanyte!"
+
+===== Round 2 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Omanyte lost 5 HP (46 -> 41)
+"It's not very effective..."
+"Prinplup stole and ate its target's Rindo Berry!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Prinplup lost 21 HP (35 -> 14)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 18
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+"OK, Prinplup! Come back!"
+"Go for it, Oddish!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Oddish lost 23 HP (50 -> 27)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Threat Score for Oddish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Oddish (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Omanyte (1), Oddish (0)
+
+[Use move] The opposing Omanyte (1) used Icy Wind
+"The opposing Omanyte used Icy Wind!"
+[HP change] Oddish lost 27 HP (27 -> 0)
+"A critical hit!"
+"It's super effective!"
+"Oddish fainted!"
+Roles for ROGGENROLA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for OMANYTE: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jonathon!"
+"Youngster Jonathon sent out Roggenrola!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+===== Round 1 =====
+
+Set up score for Roggenrola (1): 0
+Set up score for Roggenrola (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Roggenrola (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Roggenrola (1) is considering using Bulldoze (1)...
+[AI] Roggenrola (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] Prinplup (0), the opposing Roggenrola (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Roggenrola lost 49 HP (50 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Roggenrola's Sturdy
+"The opposing Roggenrola endured the hit!"
+[Use move] The opposing Roggenrola (1) used Self-Destruct
+"The opposing Roggenrola used Self-Destruct!"
+[HP change] Prinplup lost 30 HP (55 -> 25)
+[HP change] The opposing Roggenrola lost 1 HP (1 -> 0)
+"The opposing Roggenrola fainted!"
+[HP change] Prinplup gained 10 HP (25 -> 35)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+     [Geodude] - 12 because they have kill with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+     [Omanyte] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Omanyte] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Jonathon sent out Omanyte!"
+
+===== Round 2 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Omanyte (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Omanyte (1)
+
+"Prinplup, come back!"
+"You're in charge, Machop!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Machop lost 14 HP (60 -> 46)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Omanyte (1): 0
+Set up score for Omanyte (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Omanyte (1), Machop (0)
+
+[Use move] The opposing Omanyte (1) used Water Pulse
+"The opposing Omanyte used Water Pulse!"
+[HP change] Machop lost 27 HP (46 -> 19)
+[HP change] Machop gained 10 HP (19 -> 29)
+"Machop restored a little HP using its Oran Berry!"
+[Item consumed] Machop consumed its held Oran Berry
+[Use move] Machop (0) used Low Sweep
+"Machop used Low Sweep!"
+[HP change] The opposing Omanyte lost 31 HP (46 -> 15)
+"It's super effective!"
+[Stat change] The opposing Omanyte's Speed changed by -1 (0 -> -1)
+"The opposing Omanyte's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Omanyte (1): -1
+Set up score for Omanyte (1): -1
+Set up score for Omanyte (1): -1
+Set up score for Omanyte (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Water Pulse (1) against Machop (0)...
+      + 5 for having a kill even if we are killed first
+[AI] Omanyte (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Omanyte (1) is considering using Icy Wind (1)...
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Water Pulse (target 0): score 6
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+[Round order] Machop (0), the opposing Omanyte (1)
+
+[Use move] Machop (0) used Low Sweep
+"Machop used Low Sweep!"
+[HP change] The opposing Omanyte lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Omanyte fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Geodude] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Geodude] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+"Youngster Jonathon sent out Geodude!"
+
+===== Round 5 =====
+
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Headbutt (1) against Machop (0)...
+[AI] Geodude (1) is considering using Rock Tomb (1) against Machop (0)...
+[AI] Geodude (1) is considering using Bulldoze (1)...
+[AI] Geodude (1) is considering using Self-Destruct (1)...
+     - 4 to remove highest damage modifier since we are last mon
+      + 17 for slow kill
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Self-Destruct: score 14
+   => will use Self-Destruct
+
+[Round order] Machop (0), the opposing Geodude (1)
+
+"OK, Machop! Come back!"
+"You're in charge, Geodude!"
+[Use move] The opposing Geodude (1) used Self-Destruct
+"The opposing Geodude used Self-Destruct!"
+[HP change] Geodude lost 26 HP (45 -> 19)
+[HP change] The opposing Geodude lost 45 HP (45 -> 0)
+"The opposing Geodude fainted!"
+"It's not very effective..."
+[HP change] Geodude gained 10 HP (19 -> 29)
+"Geodude restored a little HP using its Oran Berry!"
+[Item consumed] Geodude consumed its held Oran Berry
+
+===== Player won =====
+
+"You defeated Youngster Jonathon!"
+"Wow. You're great!"
+
+"You got $288 for winning!"
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Prinplup (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Dwebble lost 11 HP (51 -> 40)
+"The opposing Dwebble held up its Red Card against Prinplup!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Zubat was dragged out!"
+[Use move] The opposing Dwebble (1) used Rock Tomb
+"The opposing Dwebble used Rock Tomb!"
+[HP change] Zubat lost 46 HP (46 -> 0)
+"It's super effective!"
+"Zubat fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+"Go for it, Prinplup!"
+
+===== Round 2 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Dwebble (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Sticky Web: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Dwebble lost 40 HP (40 -> 0)
+"It's super effective!"
+"The opposing Dwebble fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] - 3 because we have no kill
+     [Carbink] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Carbink] - 3 because we have no kill
+     [Carkol] - 12 because they have kill with their highest damaging move against the current battler
+     [Carkol] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Youngster Darius sent out Carbink!"
+
+===== Round 3 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carbink (1)
+
+[Use move] Prinplup (0) used Metal Claw
+"Prinplup used Metal Claw!"
+[HP change] The opposing Carbink lost 25 HP (49 -> 24)
+"It's super effective!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Prinplup lost 12 HP (55 -> 43)
+
+[End of round 3]
+[HP change] The opposing Carbink gained 3 HP (24 -> 27)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carbink (1)
+
+[Use move] Prinplup (0) used Metal Claw
+"Prinplup used Metal Claw!"
+[HP change] The opposing Carbink lost 24 HP (27 -> 3)
+"It's super effective!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Prinplup lost 12 HP (43 -> 31)
+[Stat change] The opposing Carbink's Attack changed by +1 (0 -> 1)
+"The opposing Carbink's Attack rose!"
+[Stat change] The opposing Carbink's Defense changed by +1 (0 -> 1)
+"The opposing Carbink's Defense rose!"
+[Stat change] The opposing Carbink's Special Attack changed by +1 (0 -> 1)
+"The opposing Carbink's Special Attack rose!"
+[Stat change] The opposing Carbink's Special Defense changed by +1 (0 -> 1)
+"The opposing Carbink's Special Defense rose!"
+[Stat change] The opposing Carbink's Speed changed by +1 (0 -> 1)
+"The opposing Carbink's Speed rose!"
+
+[End of round 4]
+[HP change] The opposing Carbink gained 3 HP (3 -> 6)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Prinplup (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Prinplup lost 17 HP (31 -> 14)
+[HP change] Prinplup gained 10 HP (14 -> 24)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[Use move] Prinplup (0) used Metal Claw
+"Prinplup used Metal Claw!"
+[HP change] The opposing Carbink lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Carbink fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] + 4 because we have 2HKO
+     [Carkol] - 12 because they have kill with their highest damaging move against the current battler
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Darius sent out Amaura!"
+
+===== Round 6 =====
+
+Set up score for Amaura (1): 0
+Set up score for Amaura (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Prinplup (0)...
+[AI] Amaura (1) is considering using Mud Shot (1) against Prinplup (0)...
+[AI] Amaura (1) is considering using Ancient Power (1) against Prinplup (0)...
+[AI] Amaura (1) is considering using Shock Wave (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Amaura (1):
+   *   0.0% to use Echoed Voice (target 0): score 0
+   *   0.0% to use Mud Shot (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   => will use Shock Wave (target 0)
+
+[Round order] Prinplup (0), the opposing Amaura (1)
+
+[Use move] Prinplup (0) used Metal Claw
+"Prinplup used Metal Claw!"
+[HP change] The opposing Amaura lost 51 HP (58 -> 7)
+"It's super effective!"
+[Use move] The opposing Amaura (1) used Shock Wave
+"The opposing Amaura used Shock Wave!"
+[HP change] Prinplup lost 20 HP (24 -> 4)
+"It's super effective!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Amaura (1): 0
+Set up score for Amaura (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Amaura (1) is considering using Mud Shot (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Amaura (1) is considering using Ancient Power (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Amaura (1) is considering using Shock Wave (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Move choices for Amaura (1):
+   *  25.0% to use Echoed Voice (target 0): score 18
+   *  25.0% to use Mud Shot (target 0): score 18
+   *  25.0% to use Ancient Power (target 0): score 18
+   *  25.0% to use Shock Wave (target 0): score 18
+   => will use Echoed Voice (target 0)
+
+[Round order] Prinplup (0), the opposing Amaura (1)
+
+"Good job, Prinplup! Come back!"
+"Your opponent's weak! Get 'em, Sandshrew!"
+[Use move] The opposing Amaura (1) used Echoed Voice
+"The opposing Amaura used Echoed Voice!"
+[HP change] Sandshrew lost 5 HP (49 -> 44)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Amaura (1): 0
+Set up score for Amaura (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Sandshrew (0)...
+[AI] Amaura (1) is considering using Mud Shot (1) against Sandshrew (0)...
+     + 4 to prioritize highest damaging move
+[AI] Amaura (1) is considering using Ancient Power (1) against Sandshrew (0)...
+[AI] Amaura (1) is considering using Shock Wave (1) against Sandshrew (0)...
+[AI] Move choices for Amaura (1):
+   *   0.0% to use Echoed Voice (target 0): score 0
+   * 100.0% to use Mud Shot (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   => will use Mud Shot (target 0)
+
+[Round order] The opposing Amaura (1), Sandshrew (0)
+
+[Use move] The opposing Amaura (1) used Mud Shot
+"The opposing Amaura used Mud Shot!"
+[HP change] Sandshrew lost 36 HP (44 -> 8)
+"It's super effective!"
+[HP change] Sandshrew gained 10 HP (8 -> 18)
+"Sandshrew restored a little HP using its Oran Berry!"
+[Item consumed] Sandshrew consumed its held Oran Berry
+[Stat change] Sandshrew's Speed changed by -1 (0 -> -1)
+"Sandshrew's Speed fell!"
+[Use move] Sandshrew (0) used Spike Cannon
+"Sandshrew used Spike Cannon!"
+[HP change] The opposing Amaura lost 7 HP (7 -> 0)
+"The opposing Amaura fainted!"
+"It's super effective!"
+"Hit 1 time!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Carkol] + 2 because we outspeed
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (46)
+"Youngster Darius sent out Carkol!"
+
+===== Round 9 =====
+
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+      + 20 for fast kill
+[AI] Carkol (1) is considering using Ancient Power (1) against Sandshrew (0)...
+      + 20 for fast kill
+[AI] Carkol (1) is considering using Hidden Power (1) against Sandshrew (0)...
+[AI] Move choices for Carkol (1):
+   *  50.0% to use Incinerate: score 21
+   *  50.0% to use Ancient Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Sandshrew (0)
+
+"OK, Sandshrew! Come back!"
+"You're in charge, Machop!"
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[HP change] Machop lost 27 HP (60 -> 33)
+"Machop's Oran Berry was incinerated!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Machop (0)...
+[AI] Move choices for Carkol (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Machop (0)
+
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[HP change] Machop lost 33 HP (33 -> 0)
+"A critical hit!"
+"Machop fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Prinplup (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Dwebble (1):
+   *  33.3% to use Bug Bite (target 0): score 1
+   *  33.3% to use Rock Tomb (target 0): score 1
+   *  33.3% to use Sticky Web: score 1
+   => will use Bug Bite (target 0)
+
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Dwebble lost 50 HP (51 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Dwebble's Sturdy
+"The opposing Dwebble endured the hit!"
+[Stat change] The opposing Dwebble's Speed changed by -1 (0 -> -1)
+"The opposing Dwebble's Speed fell!"
+"The opposing Dwebble held up its Red Card against Prinplup!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Geodude was dragged out!"
+[Use move] The opposing Dwebble (1) used Bug Bite
+"The opposing Dwebble used Bug Bite!"
+[HP change] Geodude lost 15 HP (45 -> 30)
+"The opposing Dwebble stole and ate its target's Oran Berry!"
+[HP change] The opposing Dwebble gained 10 HP (1 -> 11)
+[Item triggered] Forced consuming of Oran Berry
+"The opposing Dwebble's HP was restored."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     + 5 to encourage hazards
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Sticky Web: score 9
+   => will use Sticky Web
+
+[Round order] Prinplup (0), the opposing Dwebble (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Dwebble lost 50 HP (51 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Dwebble's Sturdy
+"The opposing Dwebble endured the hit!"
+"The opposing Dwebble held up its Red Card against Prinplup!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Machop was dragged out!"
+[Use move] The opposing Dwebble (1) used Sticky Web
+"The opposing Dwebble used Sticky Web!"
+"A sticky web has been laid out beneath your team's feet!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+     [Switch AI] +5 Party member [Dwebble] is immune to strongest move against Dwebble (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Machop (0)...
+[AI] Dwebble (1) is considering using Sticky Web...
+     -  4: move will fail
+[AI] Move choices for Dwebble (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Sticky Web: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] The opposing Dwebble (1), Machop (0)
+
+[Use move] The opposing Dwebble (1) used Bug Bite
+"The opposing Dwebble used Bug Bite!"
+[HP change] Machop lost 12 HP (60 -> 48)
+"It's not very effective..."
+"The opposing Dwebble stole and ate its target's Oran Berry!"
+[HP change] The opposing Dwebble gained 10 HP (1 -> 11)
+[Item triggered] Forced consuming of Oran Berry
+"The opposing Dwebble's HP was restored."
+[Use move] Machop (0) used Knock Off
+"Machop used Knock Off!"
+[HP change] The opposing Dwebble lost 11 HP (11 -> 0)
+"The opposing Dwebble fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Amaura] - 12 because they have kill with their highest damaging move against the current battler
+     [Amaura] - 3 because we have no kill
+     [Carbink] + 2 because we outspeed
+     [Carbink] + 4 because we have 2HKO
+     [Carkol] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Carkol] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Youngster Darius sent out Carbink!"
+
+===== Round 3 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Hidden Power (1) against Machop (0)...
+[AI] Move choices for Carbink (1):
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Fairy Wind (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fairy Wind (target 0)
+
+[Round order] The opposing Carbink (1), Machop (0)
+
+"Machop, come back!"
+"You're in charge, Sandshrew!"
+"Sandshrew was caught in a sticky web!"
+[Stat change] Sandshrew's Speed changed by -1 (0 -> -1)
+"Sandshrew's Speed fell!"
+[Use move] The opposing Carbink (1) used Fairy Wind
+"The opposing Carbink used Fairy Wind!"
+[HP change] Sandshrew lost 7 HP (49 -> 42)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Sandshrew (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Sandshrew (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Sandshrew (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carbink (1):
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Carbink (1), Sandshrew (0)
+
+[Use move] The opposing Carbink (1) used Hidden Power
+"The opposing Carbink used Hidden Power!"
+[HP change] Sandshrew lost 32 HP (42 -> 10)
+"It's super effective!"
+[HP change] Sandshrew gained 10 HP (10 -> 20)
+"Sandshrew restored a little HP using its Oran Berry!"
+[Item consumed] Sandshrew consumed its held Oran Berry
+[Use move] Sandshrew (0) used Rapid Spin
+"Sandshrew used Rapid Spin!"
+[HP change] The opposing Carbink lost 3 HP (49 -> 46)
+"It's not very effective..."
+[Stat change] Sandshrew's Speed changed by +1 (-1 -> 0)
+"Sandshrew's Speed rose!"
+"Sandshrew blew away sticky webs!"
+
+[End of round 4]
+[HP change] The opposing Carbink gained 3 HP (46 -> 49)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Sandshrew (0)...
+      + 20 for fast kill
+[AI] Carbink (1) is considering using Fairy Wind (1) against Sandshrew (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Sandshrew (0)...
+      + 20 for fast kill
+[AI] Move choices for Carbink (1):
+   *  50.0% to use Ancient Power (target 0): score 21
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *  50.0% to use Hidden Power (target 0): score 21
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Sandshrew (0)
+
+"OK, Sandshrew! Come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Prinplup lost 12 HP (55 -> 43)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carbink (1)
+
+[Use move] Prinplup (0) used Metal Claw
+"Prinplup used Metal Claw!"
+[HP change] The opposing Carbink lost 24 HP (49 -> 25)
+"It's super effective!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Prinplup lost 13 HP (43 -> 30)
+
+[End of round 6]
+[HP change] The opposing Carbink gained 3 HP (25 -> 28)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carbink (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Carbink lost 25 HP (28 -> 3)
+"It's super effective!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Prinplup lost 11 HP (30 -> 19)
+[HP change] Prinplup gained 10 HP (19 -> 29)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 7]
+[HP change] The opposing Carbink gained 3 HP (3 -> 6)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Prinplup (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carbink (1)
+
+[Use move] Prinplup (0) used Metal Claw
+"Prinplup used Metal Claw!"
+[HP change] The opposing Carbink lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Carbink fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] + 4 because we have 2HKO
+     [Carkol] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (39)
+"Youngster Darius sent out Carkol!"
+
+===== Round 9 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Prinplup (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carkol (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Carkol lost 44 HP (62 -> 18)
+"It's super effective!"
+"The Passho Berry weakened the damage to the opposing Carkol!"
+[Item consumed] The opposing Carkol consumed its held Passho Berry
+[Use move] The opposing Carkol (1) used Hidden Power
+"The opposing Carkol used Hidden Power!"
+[HP change] Prinplup lost 21 HP (29 -> 8)
+"It's super effective!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+      + 17 for slow kill
+[AI] Carkol (1) is considering using Ancient Power (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Carkol (1) is considering using Hidden Power (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Move choices for Carkol (1):
+   *  33.3% to use Incinerate: score 18
+   *  33.3% to use Ancient Power (target 0): score 18
+   *  33.3% to use Hidden Power (target 0): score 18
+   => will use Hidden Power (target 0)
+
+[Round order] Prinplup (0), the opposing Carkol (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Carkol lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Carkol fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     [Amaura] - 12 because they have kill with their highest damaging move against the current battler
+     [Amaura] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (32)
+"Youngster Darius sent out Amaura!"
+
+===== Round 11 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Amaura (1) is considering using Mud Shot (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Amaura (1) is considering using Ancient Power (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Amaura (1) is considering using Shock Wave (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Move choices for Amaura (1):
+   *  25.0% to use Echoed Voice (target 0): score 18
+   *  25.0% to use Mud Shot (target 0): score 18
+   *  25.0% to use Ancient Power (target 0): score 18
+   *  25.0% to use Shock Wave (target 0): score 18
+   => will use Mud Shot (target 0)
+
+[Round order] Prinplup (0), the opposing Amaura (1)
+
+"Good job, Prinplup! Come back!"
+"You're in charge, Geodude!"
+[Use move] The opposing Amaura (1) used Mud Shot
+"The opposing Amaura used Mud Shot!"
+[HP change] Geodude lost 45 HP (45 -> 0)
+"It's super effective!"
+"Geodude fainted!"
+
+[End of round 11]
+Trick Room Turns: 0
+"You're in charge, Machop!"
+
+===== Round 12 =====
+
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Machop (0)...
+[AI] Amaura (1) is considering using Mud Shot (1) against Machop (0)...
+[AI] Amaura (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Amaura (1) is considering using Shock Wave (1) against Machop (0)...
+[AI] Move choices for Amaura (1):
+   *  25.0% to use Echoed Voice (target 0): score 1
+   *  25.0% to use Mud Shot (target 0): score 1
+   *  25.0% to use Ancient Power (target 0): score 1
+   *  25.0% to use Shock Wave (target 0): score 1
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Amaura (1), Machop (0)
+
+[Use move] The opposing Amaura (1) used Ancient Power
+"The opposing Amaura used Ancient Power!"
+[HP change] Machop lost 12 HP (48 -> 36)
+"It's not very effective..."
+[Use move] Machop (0) used Low Sweep
+"Machop used Low Sweep!"
+[HP change] The opposing Amaura lost 52 HP (58 -> 6)
+"It's super effective!"
+[Stat change] The opposing Amaura's Speed changed by -1 (0 -> -1)
+"The opposing Amaura's Speed fell!"
+"The Chople Berry weakened the damage to the opposing Amaura!"
+[Item consumed] The opposing Amaura consumed its held Chople Berry
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Machop (0): 0
+     Threat Score for Machop (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Machop (0)...
+[AI] Amaura (1) is considering using Mud Shot (1) against Machop (0)...
+[AI] Amaura (1) is considering using Ancient Power (1) against Machop (0)...
+[AI] Amaura (1) is considering using Shock Wave (1) against Machop (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Amaura (1):
+   *   0.0% to use Echoed Voice (target 0): score 0
+   *   0.0% to use Mud Shot (target 0): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   => will use Shock Wave (target 0)
+
+[Round order] Machop (0), the opposing Amaura (1)
+
+[Use move] Machop (0) used Low Sweep
+"Machop used Low Sweep!"
+[HP change] The opposing Amaura lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Amaura fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Darius!"
+"Wow. You're great!"
+
+"You got $288 for winning!"
+Roles for NOSEPASS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for LILEEP: [:SPECIALBREAKER]
+Roles for ARCHEN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for RELICANTH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for ARCANINE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for CRANIDOS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Roark!"
+"Gym Leader Roark sent out Nosepass!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the opposing Nosepass (1)
+
+===== Round 1 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+     [Switch AI] +5 Party member [Lileep] is immune to strongest move against Nosepass (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Prinplup (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Prinplup (0), the opposing Nosepass (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Nosepass lost 34 HP (44 -> 10)
+"It's super effective!"
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass used Spark!"
+[HP change] Prinplup lost 26 HP (55 -> 29)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Prinplup (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Nosepass (1), Prinplup (0)
+
+"The opposing Nosepass's Custap Berry let it move first!"
+[Item consumed] The opposing Nosepass consumed its held Custap Berry
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass used Spark!"
+[HP change] Prinplup lost 27 HP (29 -> 2)
+"It's super effective!"
+[HP change] Prinplup gained 10 HP (2 -> 12)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Nosepass lost 10 HP (10 -> 0)
+"It's super effective!"
+"The opposing Nosepass fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Lileep] + 3 because we absorb their highest damaging move against the current battler
+     [Lileep] + 9 because we have kill
+     [Archen] - 12 because they have kill with their highest damaging move against the current battler
+     [Archen] + 9 because we have kill
+     [Relicanth] + 2 because we outspeed
+
+**Exception: undefined method `*' for nil:NilClass
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:93:in `block in <main>'
+005_Event_Handlers.rb:195:in `trigger'
+008_Battle_AbilityEffects.rb:189:in `triggerDamageCalcFromUser'
+[Phantombass AI] 03_AI_Moves.rb:495:in `rough_damage'
+[Phantombass AI] 02_AI_Switching.rb:194:in `block (2 levels) in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:192:in `each'
+[Phantombass AI] 02_AI_Switching.rb:192:in `block in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:189:in `each'
+[Phantombass AI] 02_AI_Switching.rb:189:in `rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:125:in `block in choose_best_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each_with_index'
+[Phantombass AI] 02_AI_Switching.rb:124:in `choose_best_replacement_pokemon'
+001_Battle_AI.rb:77:in `pbDefaultChooseNewEnemy'
+005_Battle_ActionSwitching.rb:139:in `pbSwitchInBetween'
+005_Battle_ActionSwitching.rb:163:in `block (2 levels) in pbEORSwitch'
+005_Battle_ActionSwitching.rb:157:in `each'
+005_Battle_ActionSwitching.rb:157:in `block in pbEORSwitch'
+005_Battle_ActionSwitching.rb:155:in `loop'
+005_Battle_ActionSwitching.rb:155:in `pbEORSwitch'
+011_Battle_EndOfRoundPhase.rb:729:in `pbEndOfRoundPhase'
+006_Battle_Clauses.rb:41:in `pbEndOfRoundPhase'
+[Generation 9 Pack] [001] Battle.rb:186:in `pbEndOfRoundPhase'
+[Deluxe Battle Kit] [001] Midbattle Overwrites.rb:459:in `pbEndOfRoundPhase'
+002_Battle_StartAndEnd.rb:350:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:350:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:143:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):1:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
