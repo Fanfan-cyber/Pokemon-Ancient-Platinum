@@ -6546,3 +6546,1607 @@ Trick Room Turns: 0
 
 ===== Round 5 =====
 
+Roles for CLEFAIRY: [:SPEEDCONTROL]
+Roles for MINCCINO: [:SPEEDCONTROL]
+Roles for MUNCHLAX: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Kaitlin!"
+"Lass Kaitlin sent out Clefairy!"
+"Go! Oddish!"
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Clefairy (1): 0
+Set up score for Clefairy (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Clefairy (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Clefairy (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Move choices for Clefairy (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Clefairy lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Clefairy fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Minccino] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Minccino] - 3 because we have no kill
+     [Munchlax] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (39)
+"Lass Kaitlin sent out Munchlax!"
+
+===== Round 2 =====
+
+Set up score for Munchlax (1): 0
+Set up score for Munchlax (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum (4)...
+     + 5 to encourage status move use
+[AI] Munchlax (1) is considering using Headbutt (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Oddish (0)...
+[AI] Move choices for Munchlax (1):
+   * 100.0% to use Belly Drum: score 9
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Belly Drum
+
+[Round order] Oddish (0), the opposing Munchlax (1)
+
+[Use move] Oddish (0) used Sleep Powder
+"Oddish used Sleep Powder!"
+[Move failed] Failed pbAccuracyCheck
+"Oddish's attack missed!"
+[Use move] The opposing Munchlax (1) used Belly Drum
+"The opposing Munchlax used Belly Drum!"
+[HP change] The opposing Munchlax lost 35 HP (70 -> 35)
+"The opposing Munchlax cut its own HP and maximized its Attack!"
+[HP change] The opposing Munchlax gained 35 HP (35 -> 70)
+"The opposing Munchlax restored its health using its Iapapa Berry!"
+[Item consumed] The opposing Munchlax consumed its held Iapapa Berry
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+     [Switch AI] +6 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Oddish (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Oddish (0)...
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 18
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Oddish (0), the opposing Munchlax (1)
+
+[Use move] Oddish (0) used Sleep Powder
+"Oddish used Sleep Powder!"
+"The opposing Munchlax fell asleep!"
+[Status change] The opposing Munchlax's sleep count is 2
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax is fast asleep."
+[Status continues] The opposing Munchlax's sleep count is 1
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+     [Switch AI] +6 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Oddish (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Oddish (0)...
+      + 17 for slow kill
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   *  50.0% to use Headbutt (target 0): score 18
+   *  50.0% to use Bite (target 0): score 18
+   => will use Bite (target 0)
+
+[Round order] Oddish (0), the opposing Munchlax (1)
+
+"Oddish, come back!"
+"You're in charge, Luxio!"
+[Use move] The opposing Munchlax (1) used Bite
+"The opposing Munchlax woke up!"
+"The opposing Munchlax used Bite!"
+[HP change] Luxio lost 43 HP (53 -> 10)
+[HP change] Luxio gained 10 HP (10 -> 20)
+"Luxio restored a little HP using its Oran Berry!"
+[Item consumed] Luxio consumed its held Oran Berry
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+     [Switch AI] +6 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   *  50.0% to use Headbutt (target 0): score 18
+   *  50.0% to use Bite (target 0): score 18
+   => will use Bite (target 0)
+
+[Round order] Luxio (0), the opposing Munchlax (1)
+
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Munchlax lost 36 HP (70 -> 34)
+[Use move] The opposing Munchlax (1) used Bite
+"The opposing Munchlax used Bite!"
+[HP change] Luxio lost 20 HP (20 -> 0)
+"A critical hit!"
+"Luxio fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Zubat!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+     [Switch AI] +6 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Zubat (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Zubat (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Zubat (0)...
+      + 17 for slow kill
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   *  50.0% to use Headbutt (target 0): score 18
+   *  50.0% to use Bite (target 0): score 18
+   => will use Headbutt (target 0)
+
+[Round order] Zubat (0), the opposing Munchlax (1)
+
+[Use move] Zubat (0) used Poison Fang
+"Zubat used Poison Fang!"
+[HP change] The opposing Munchlax lost 15 HP (34 -> 19)
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax used Headbutt!"
+[HP change] Zubat lost 46 HP (46 -> 0)
+"Zubat fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Sewaddle!"
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+Set up score for Munchlax (1): 6
+     [Switch AI] +6 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Sewaddle (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Sewaddle (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Sewaddle (0)...
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 18
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Sewaddle (0), the opposing Munchlax (1)
+
+[Use move] Sewaddle (0) used Bug Bite
+"Sewaddle used Bug Bite!"
+[HP change] The opposing Munchlax lost 19 HP (19 -> 0)
+"The opposing Munchlax fainted!"
+"Sewaddle got 1 Exp. Points!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Minccino] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Minccino] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Lass Kaitlin sent out Minccino!"
+
+===== Round 8 =====
+
+Set up score for Sewaddle (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Sewaddle (0)...
+     + 1 for being a Speed Control Role
+     + 5 to encourage status move use
+     + 1 for being a Speed Control Role
+     + 5 to encourage status move use
+[AI] Minccino (1) is considering using Double Slap (1) against Sewaddle (0)...
+     + 4 to prioritize highest damaging move
+[AI] Minccino (1) is considering using Covet (1) against Sewaddle (0)...
+[AI] Move choices for Minccino (1):
+   * 100.0% to use Thunder Wave (target 0): score 16
+   *   0.0% to use Double Slap (target 0): score 0
+   *   0.0% to use Covet (target 0): score 0
+   => will use Thunder Wave (target 0)
+
+[Round order] The opposing Minccino (1), Sewaddle (0)
+
+[Use move] The opposing Minccino (1) used Thunder Wave
+"The opposing Minccino used Thunder Wave!"
+"Sewaddle is paralyzed! It may be unable to move!"
+[Use move] Sewaddle (0) used Bug Bite
+"Sewaddle is paralyzed! It can't move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Sewaddle (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Sewaddle (0)...
+     move will not affect Sewaddle (0)
+     -  4: move will fail
+[AI] Minccino (1) is considering using Double Slap (1) against Sewaddle (0)...
+     + 4 to prioritize highest damaging move
+[AI] Minccino (1) is considering using Covet (1) against Sewaddle (0)...
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Double Slap (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   => will use Double Slap (target 0)
+
+[Round order] The opposing Minccino (1), Sewaddle (0)
+
+[Use move] The opposing Minccino (1) used Double Slap
+"The opposing Minccino used Double Slap!"
+[HP change] Sewaddle lost 5 HP (50 -> 45)
+[HP change] Sewaddle lost 5 HP (45 -> 40)
+[HP change] Sewaddle lost 5 HP (40 -> 35)
+[HP change] Sewaddle lost 6 HP (35 -> 29)
+[HP change] Sewaddle lost 5 HP (29 -> 24)
+[HP change] Sewaddle gained 10 HP (24 -> 34)
+"Sewaddle restored a little HP using its Oran Berry!"
+[Item consumed] Sewaddle consumed its held Oran Berry
+"Hit 5 times!"
+[Use move] Sewaddle (0) used Bug Bite
+"Sewaddle used Bug Bite!"
+[HP change] The opposing Minccino lost 23 HP (46 -> 23)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Sewaddle (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Sewaddle (0)...
+     move will not affect Sewaddle (0)
+     -  4: move will fail
+[AI] Minccino (1) is considering using Double Slap (1) against Sewaddle (0)...
+     + 4 to prioritize highest damaging move
+[AI] Minccino (1) is considering using Covet (1) against Sewaddle (0)...
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Double Slap (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   => will use Double Slap (target 0)
+
+[Round order] The opposing Minccino (1), Sewaddle (0)
+
+[Use move] The opposing Minccino (1) used Double Slap
+"The opposing Minccino used Double Slap!"
+[HP change] Sewaddle lost 5 HP (34 -> 29)
+[HP change] Sewaddle lost 5 HP (29 -> 24)
+[HP change] Sewaddle lost 6 HP (24 -> 18)
+[HP change] Sewaddle lost 6 HP (18 -> 12)
+[HP change] Sewaddle lost 6 HP (12 -> 6)
+"Hit 5 times!"
+[Use move] Sewaddle (0) used Bug Bite
+"Sewaddle used Bug Bite!"
+[HP change] The opposing Minccino lost 23 HP (23 -> 0)
+"The opposing Minccino fainted!"
+
+===== Player won =====
+
+"You defeated Lass Kaitlin!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+Roles for CLEFAIRY: [:SPEEDCONTROL]
+Roles for MINCCINO: [:SPEEDCONTROL]
+Roles for MUNCHLAX: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Kaitlin!"
+"Lass Kaitlin sent out Clefairy!"
+"Go! Oddish!"
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Clefairy (1): 0
+Set up score for Clefairy (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Clefairy (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Clefairy (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Move choices for Clefairy (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Clefairy lost 44 HP (50 -> 6)
+"It's super effective!"
+[HP change] The opposing Clefairy gained 20 HP (6 -> 26)
+"The opposing Clefairy restored its health using its Berry Juice!"
+[Item consumed] The opposing Clefairy consumed its held Berry Juice
+[Use move] The opposing Clefairy (1) used Draining Kiss
+"The opposing Clefairy used Draining Kiss!"
+[HP change] Oddish lost 5 HP (50 -> 45)
+"It's not very effective..."
+"Oddish had its energy drained!"
+[HP change] The opposing Clefairy gained 4 HP (26 -> 30)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Clefairy (1): 0
+Set up score for Clefairy (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (1)
+[AI] The AI will try to switch.
+     [Minccino] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Minccino] - 3 because we have no kill
+     [Munchlax] + 4 because we have 2HKO
+[AI] Highest move score (1) vs Switch In Score (39)
+   => will switch with Munchlax
+
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+"Lass Kaitlin withdrew Clefairy!"
+"Lass Kaitlin sent out Munchlax!"
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Munchlax lost 21 HP (70 -> 49)
+"The opposing Munchlax was poisoned!"
+
+[End of round 2]
+[HP change] The opposing Munchlax lost 8 HP (49 -> 41)
+"The opposing Munchlax was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Munchlax (1): 0
+Set up score for Munchlax (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum (4)...
+     - 3 because this will be pointless
+[AI] Munchlax (1) is considering using Headbutt (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Oddish (0)...
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Oddish (0), the opposing Munchlax (1)
+
+"Oddish, come back!"
+"Go for it, Luxio!"
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax used Headbutt!"
+[HP change] Luxio lost 22 HP (53 -> 31)
+
+[End of round 3]
+[HP change] The opposing Munchlax lost 8 HP (41 -> 33)
+"The opposing Munchlax was hurt by poison!"
+[HP change] The opposing Munchlax gained 35 HP (33 -> 68)
+"The opposing Munchlax restored its health using its Iapapa Berry!"
+[Item consumed] The opposing Munchlax consumed its held Iapapa Berry
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Munchlax (1): 0
+Set up score for Munchlax (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum (4)...
+     - 3 because this will be pointless
+[AI] Munchlax (1) is considering using Headbutt (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Luxio (0)...
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Luxio (0), the opposing Munchlax (1)
+
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Munchlax lost 37 HP (68 -> 31)
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax used Headbutt!"
+[HP change] Luxio lost 23 HP (31 -> 8)
+[HP change] Luxio gained 10 HP (8 -> 18)
+"Luxio restored a little HP using its Oran Berry!"
+[Item consumed] Luxio consumed its held Oran Berry
+
+[End of round 4]
+[HP change] The opposing Munchlax lost 8 HP (31 -> 23)
+"The opposing Munchlax was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Munchlax (1): 0
+Set up score for Munchlax (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     -  4: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Munchlax (1) is considering using Bite (1) against Luxio (0)...
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 18
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Luxio (0), the opposing Munchlax (1)
+
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Munchlax lost 23 HP (23 -> 0)
+"The opposing Munchlax fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Clefairy] - 12 because they have kill with their highest damaging move against the current battler
+     [Clefairy] + 4 because we have 2HKO
+     [Minccino] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Minccino] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (38)
+"Lass Kaitlin sent out Minccino!"
+
+===== Round 6 =====
+
+     move will not affect Luxio (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Minccino (1): 0
+Set up score for Minccino (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Luxio (0)...
+     move will not affect Luxio (0)
+     -  4: move will fail
+[AI] Minccino (1) is considering using Double Slap (1) against Luxio (0)...
+      + 20 for fast kill
+[AI] Minccino (1) is considering using Covet (1) against Luxio (0)...
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Double Slap (target 0): score 21
+   *   0.0% to use Covet (target 0): score 0
+   => will use Double Slap (target 0)
+
+[Round order] The opposing Minccino (1), Luxio (0)
+
+"OK, Luxio! Come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Minccino (1) used Double Slap
+"The opposing Minccino used Double Slap!"
+[HP change] Prinplup lost 5 HP (55 -> 50)
+[HP change] Prinplup lost 6 HP (50 -> 44)
+[HP change] Prinplup lost 6 HP (44 -> 38)
+[HP change] Prinplup lost 5 HP (38 -> 33)
+[HP change] Prinplup lost 6 HP (33 -> 27)
+[HP change] Prinplup gained 10 HP (27 -> 37)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+"Hit 5 times!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Minccino (1): 0
+Set up score for Minccino (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Prinplup (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Minccino (1) is considering using Double Slap (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Minccino (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Double Slap (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   => will use Double Slap (target 0)
+
+[Round order] The opposing Minccino (1), Prinplup (0)
+
+[Use move] The opposing Minccino (1) used Double Slap
+"The opposing Minccino used Double Slap!"
+[HP change] Prinplup lost 5 HP (37 -> 32)
+[HP change] Prinplup lost 6 HP (32 -> 26)
+[HP change] Prinplup lost 5 HP (26 -> 21)
+[HP change] Prinplup lost 6 HP (21 -> 15)
+[HP change] Prinplup lost 8 HP (15 -> 7)
+"A critical hit!"
+"Hit 5 times!"
+[Use move] Prinplup (0) used Icy Wind
+"Prinplup used Icy Wind!"
+[HP change] The opposing Minccino lost 19 HP (46 -> 27)
+[Stat change] The opposing Minccino's Speed changed by -1 (0 -> -1)
+"The opposing Minccino's Speed fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Minccino (1): -1
+Set up score for Minccino (1): -1
+Set up score for Minccino (1): -1
+Set up score for Minccino (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-4) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Prinplup (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Minccino (1) is considering using Double Slap (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Minccino (1) is considering using Covet (1) against Prinplup (0)...
+      + 17 for slow kill
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *  50.0% to use Double Slap (target 0): score 18
+   *  50.0% to use Covet (target 0): score 18
+   => will use Covet (target 0)
+
+[Round order] Prinplup (0), the opposing Minccino (1)
+
+"Good job, Prinplup! Come back!"
+"Go for it, Oddish!"
+[Use move] The opposing Minccino (1) used Covet
+"The opposing Minccino used Covet!"
+[HP change] Oddish lost 4 HP (45 -> 41)
+"It's not very effective..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Minccino (1): -1
+Set up score for Minccino (1): -1
+Set up score for Minccino (1): -1
+Set up score for Minccino (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Minccino (1) is considering using Double Slap (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Minccino (1) is considering using Covet (1) against Oddish (0)...
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Double Slap (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   => will use Double Slap (target 0)
+
+[Round order] The opposing Minccino (1), Oddish (0)
+
+[Use move] The opposing Minccino (1) used Double Slap
+"The opposing Minccino used Double Slap!"
+[HP change] Oddish lost 7 HP (41 -> 34)
+[HP change] Oddish lost 7 HP (34 -> 27)
+[HP change] Oddish lost 7 HP (27 -> 20)
+[HP change] Oddish gained 10 HP (20 -> 30)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[HP change] Oddish lost 7 HP (30 -> 23)
+[HP change] Oddish lost 7 HP (23 -> 16)
+"Hit 5 times!"
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Minccino lost 27 HP (27 -> 0)
+"The opposing Minccino fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     [Clefairy] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Clefairy] - 3 because we have no kill
+[AI] Highest move score (18) vs Switch In Score (26)
+"Lass Kaitlin sent out Clefairy!"
+
+===== Round 10 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Clefairy (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Move choices for Clefairy (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Clefairy (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Clefairy lost 30 HP (30 -> 0)
+"It's super effective!"
+"The opposing Clefairy fainted!"
+
+===== Player won =====
+
+"You defeated Lass Kaitlin!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Geodude appeared!"
+"Go! Oddish!"
+[Round order] Oddish (0), the wild Geodude (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Oddish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Geodude (1) is considering using Tackle (1) against Oddish (0)...
+[AI] Geodude (1) is considering using Charge (4)...
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Charge: score 4
+   => will use Charge
+
+[Round order] Oddish (0), the wild Geodude (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Geodude was caught!"
+
+===== Pokémon caught =====
+
+"Geodude's data was added to the Pokédex."
+"Where do you want to send Geodude to?"
+"Where do you want to send Geodude to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Sewaddle has been sent to Box "Box 1"."
+"Geodude has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Toedscool appeared!"
+"Go! Geodude!"
+[Round order] Geodude (0), the wild Toedscool (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for GROWLITHE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PHANTUMP: [:WEATHERTERRAINABUSER]
+Roles for CHINCHOU: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for TRUMBEAK: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Curtis!"
+"Camper Curtis sent out Growlithe!"
+"Go! Geodude!"
+[Round order] The opposing Growlithe (1), Geodude (0)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Geodude's Attack changed by -1 (0 -> -1)
+"Geodude's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Geodude (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Geodude (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Geodude (0)...
+[AI] Growlithe (1) is considering using Bite (1) against Geodude (0)...
+[AI] Growlithe (1) is considering using Rock Tomb (1) against Geodude (0)...
+     + 4 to prioritize highest damaging move
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Geodude (0)...
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Growlithe (1), Geodude (0)
+
+[Use move] The opposing Growlithe (1) used Rock Tomb
+"The opposing Growlithe used Rock Tomb!"
+[HP change] Geodude lost 10 HP (45 -> 35)
+[Stat change] Geodude's Speed changed by -1 (0 -> -1)
+"Geodude's Speed fell!"
+[Use move] Geodude (0) used Rock Tomb
+"Geodude used Rock Tomb!"
+[HP change] The opposing Growlithe lost 45 HP (45 -> 0)
+"It's super effective!"
+"The opposing Growlithe fainted!"
+"Geodude got 1 Exp. Points!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Phantump] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Phantump] + 4 because we have 2HKO
+     [Chinchou] + 2 because we outspeed
+     [Chinchou] + 9 because we have kill
+     [Trumbeak] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Trumbeak] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (46)
+"Camper Curtis sent out Chinchou!"
+
+===== Round 2 =====
+
+     move will not affect Geodude (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Geodude (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Geodude (0)...
+      + 20 for fast kill
+[AI] Chinchou (1) is considering using Shock Wave (1) against Geodude (0)...
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Geodude (0)...
+     move will not affect Geodude (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   * 100.0% to use Bubble Beam (target 0): score 21
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] The opposing Chinchou (1), Geodude (0)
+
+"Geodude, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Chinchou (1) used Bubble Beam
+"The opposing Chinchou used Bubble Beam!"
+[HP change] Oddish lost 6 HP (50 -> 44)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Oddish (0)...
+[AI] Chinchou (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Chinchou (1), Oddish (0)
+
+[Use move] The opposing Chinchou (1) used Icy Wind
+"The opposing Chinchou used Icy Wind!"
+[HP change] Oddish lost 16 HP (44 -> 28)
+"It's super effective!"
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Chinchou lost 46 HP (52 -> 6)
+"It's super effective!"
+[HP change] The opposing Chinchou gained 20 HP (6 -> 26)
+"The opposing Chinchou restored its health using its Berry Juice!"
+[Item consumed] The opposing Chinchou consumed its held Berry Juice
+"The opposing Chinchou had its energy drained!"
+[HP change] Oddish gained 22 HP (28 -> 50)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Oddish (0)...
+[AI] Chinchou (1) is considering using Shock Wave (1) against Oddish (0)...
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Oddish (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Chinchou (1), Oddish (0)
+
+[Use move] The opposing Chinchou (1) used Icy Wind
+"The opposing Chinchou used Icy Wind!"
+[HP change] Oddish lost 15 HP (50 -> 35)
+"It's super effective!"
+[Stat change] Oddish's Speed changed by -1 (-1 -> -2)
+"Oddish's Speed fell!"
+[Use move] Oddish (0) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Chinchou lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Chinchou fainted!"
+"The opposing Chinchou had its energy drained!"
+[HP change] Oddish gained 13 HP (35 -> 48)
+
+[End of round 4]
+Trick Room Turns: 0
+     [Phantump] + 2 because we outspeed
+     [Phantump] - 3 because we have no kill
+     [Trumbeak] + 2 because we outspeed
+     [Trumbeak] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Camper Curtis sent out Trumbeak!"
+[Ability triggered] The opposing Trumbeak's Keen Eye
+"The opposing Trumbeak is getting pumped!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Trumbeak (1): 0
+Set up score for Trumbeak (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-12) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Oddish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trumbeak (1) is considering using Pluck (1) against Oddish (0)...
+      + 20 for fast kill
+[AI] Trumbeak (1) is considering using Quick Attack (1) against Oddish (0)...
+[AI] Trumbeak (1) is considering using Bullet Seed (1) against Oddish (0)...
+[AI] Move choices for Trumbeak (1):
+   * 100.0% to use Pluck (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bullet Seed (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] The opposing Trumbeak (1), Oddish (0)
+
+"Oddish, come back!"
+"You're in charge, Luxio!"
+[Use move] The opposing Trumbeak (1) used Pluck
+"The opposing Trumbeak used Pluck!"
+[HP change] Luxio lost 9 HP (53 -> 44)
+"It's not very effective..."
+"The opposing Trumbeak stole and ate its target's Oran Berry!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Trumbeak (1): 0
+Set up score for Trumbeak (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trumbeak (1) is considering using Pluck (1) against Luxio (0)...
+[AI] Trumbeak (1) is considering using Quick Attack (1) against Luxio (0)...
+[AI] Trumbeak (1) is considering using Bullet Seed (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Trumbeak (1):
+   *   0.0% to use Pluck (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] The opposing Trumbeak (1), Luxio (0)
+
+[Use move] The opposing Trumbeak (1) used Bullet Seed
+"The opposing Trumbeak used Bullet Seed!"
+[HP change] Luxio lost 9 HP (44 -> 35)
+"A critical hit!"
+[HP change] Luxio lost 7 HP (35 -> 28)
+"Hit 2 times!"
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Trumbeak lost 46 HP (46 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Trumbeak fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Phantump] + 4 because we have 2HKO
+[AI] Highest move score (10) vs Switch In Score (39)
+"Camper Curtis sent out Phantump!"
+
+===== Round 7 =====
+
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Phantump (1) is considering using Will-O-Wisp (4) against Luxio (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Phantump (1) is considering using Hex (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Phantump (1) is considering using Branch Poke (1) against Luxio (0)...
+[AI] Phantump (1) is considering using Shadow Sneak (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Phantump (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *  50.0% to use Hex (target 0): score 5
+   *   0.0% to use Branch Poke (target 0): score 0
+   *  50.0% to use Shadow Sneak (target 0): score 5
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Phantump (1), Luxio (0)
+
+[Use move] The opposing Phantump (1) used Shadow Sneak
+"The opposing Phantump used Shadow Sneak!"
+[HP change] Luxio lost 12 HP (28 -> 16)
+[Use move] Luxio (0) used Bite
+"Luxio used Bite!"
+[HP change] The opposing Phantump lost 29 HP (40 -> 11)
+"It's super effective!"
+[HP change] The opposing Phantump gained 10 HP (11 -> 21)
+"The opposing Phantump restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Phantump consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+[Ability triggered] The opposing Phantump's Harvest
+"The opposing Phantump harvested one Oran Berry!"
+
+===== Round 8 =====
+
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Phantump (1) is considering using Will-O-Wisp (4) against Luxio (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Phantump (1) is considering using Hex (1) against Luxio (0)...
+[AI] Phantump (1) is considering using Branch Poke (1) against Luxio (0)...
+[AI] Phantump (1) is considering using Shadow Sneak (1) against Luxio (0)...
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Phantump (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Branch Poke (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Phantump (1), Luxio (0)
+
+[Use move] The opposing Phantump (1) used Shadow Sneak
+"The opposing Phantump used Shadow Sneak!"
+[HP change] Luxio lost 11 HP (16 -> 5)
+[Use move] Luxio (0) used Bite
+"Luxio used Bite!"
+[HP change] The opposing Phantump lost 21 HP (21 -> 0)
+"It's super effective!"
+"The opposing Phantump fainted!"
+
+===== Player won =====
+
+"You defeated Camper Curtis!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+Roles for LITLEO: [:SETUPSWEEPER]
+Roles for SPRITZEE: [:NONE]
+Roles for QWILFISH: [:PHYSICALBREAKER, :TOXICSTALLER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Diana!"
+"Picnicker Diana sent out Litleo!"
+"Go! Geodude!"
+[Round order] The opposing Litleo (1), Geodude (0)
+[Ability triggered] The opposing Litleo's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+Set up score for Litleo (1): 0
+Set up score for Litleo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (14)
+[AI] The AI will not try to switch.
+Set up score for Geodude (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Geodude (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Litleo (1) is considering using Headbutt (1) against Geodude (0)...
+[AI] Litleo (1) is considering using Ember (1) against Geodude (0)...
+[AI] Litleo (1) is considering using Mach Pulse (1) against Geodude (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litleo (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Litleo (1):
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Ember (target 0): score 0
+   * 100.0% to use Mach Pulse (target 0): score 5
+   *   0.0% to use Work Up: score 0
+   => will use Mach Pulse (target 0)
+
+[Round order] The opposing Litleo (1), Geodude (0)
+
+[Use move] The opposing Litleo (1) used Mach Pulse
+"The opposing Litleo used Mach Pulse!"
+[HP change] Geodude lost 11 HP (45 -> 34)
+"It's not very effective..."
+[Use move] Geodude (0) used Rock Tomb
+"Geodude used Rock Tomb!"
+[HP change] The opposing Litleo lost 48 HP (48 -> 0)
+"It's super effective!"
+"The opposing Litleo fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Spritzee] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Spritzee] + 4 because we have 2HKO
+     [Qwilfish] + 2 because we outspeed
+     [Qwilfish] + 4 because we have 2HKO
+[AI] Highest move score (14) vs Switch In Score (41)
+"Picnicker Diana sent out Qwilfish!"
+[Ability triggered] The opposing Qwilfish's Intimidate
+[Stat change] Geodude's Attack changed by -1 (0 -> -1)
+"Geodude's Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Geodude (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Geodude (0)...
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Geodude (0)...
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Geodude (0)...
+[AI] Qwilfish (1) is considering using Toxic (4) against Geodude (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Move choices for Qwilfish (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Poison Tail (target 0): score 0
+   *   0.0% to use Pin Missile (target 0): score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Qwilfish (1), Geodude (0)
+
+"Geodude, come back!"
+"You're in charge, Luxio!"
+[Use move] The opposing Qwilfish (1) used Aqua Jet
+"The opposing Qwilfish used Aqua Jet!"
+[HP change] Luxio lost 14 HP (53 -> 39)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Luxio (0)...
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Luxio (0)...
+[AI] Qwilfish (1) is considering using Toxic (4) against Luxio (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Poison Tail (target 0): score 5
+   *   0.0% to use Pin Missile (target 0): score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Poison Tail (target 0)
+
+[Round order] The opposing Qwilfish (1), Luxio (0)
+
+[Use move] The opposing Qwilfish (1) used Poison Tail
+"The opposing Qwilfish used Poison Tail!"
+[HP change] Luxio lost 18 HP (39 -> 21)
+[HP change] Luxio gained 10 HP (21 -> 31)
+"Luxio restored a little HP using its Oran Berry!"
+[Item consumed] Luxio consumed its held Oran Berry
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Qwilfish lost 41 HP (51 -> 10)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Luxio (0)...
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Luxio (0)...
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Luxio (0)...
+[AI] Qwilfish (1) is considering using Toxic (4) against Luxio (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Poison Tail (target 0): score 5
+   *   0.0% to use Pin Missile (target 0): score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Poison Tail (target 0)
+
+[Round order] The opposing Qwilfish (1), Luxio (0)
+
+[Use move] The opposing Qwilfish (1) used Poison Tail
+"The opposing Qwilfish used Poison Tail!"
+[HP change] Luxio lost 27 HP (31 -> 4)
+"A critical hit!"
+[Use move] Luxio (0) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Qwilfish lost 10 HP (10 -> 0)
+"It's super effective!"
+"The opposing Qwilfish fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Spritzee] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Spritzee] + 9 because we have kill
+[AI] Highest move score (27) vs Switch In Score (38)
+"Picnicker Diana sent out Spritzee!"
+
+===== Round 5 =====
+
+Set up score for Luxio (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spritzee (1) is considering using Draining Kiss (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Spritzee (1) is considering using Charge Beam (1) against Luxio (0)...
+      + 17 for slow kill
+[AI] Move choices for Spritzee (1):
+   *  50.0% to use Draining Kiss (target 0): score 18
+   *  50.0% to use Charge Beam (target 0): score 18
+   => will use Charge Beam (target 0)
+
+[Round order] Luxio (0), the opposing Spritzee (1)
+
+"Good job, Luxio! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Spritzee (1) used Charge Beam
+"The opposing Spritzee used Charge Beam!"
+[HP change] Oddish lost 4 HP (50 -> 46)
+"It's not very effective..."
+[Stat change] The opposing Spritzee's Special Attack changed by +1 (0 -> 1)
+"The opposing Spritzee's Special Attack rose!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spritzee (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Spritzee (1) is considering using Charge Beam (1) against Oddish (0)...
+[AI] Move choices for Spritzee (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Charge Beam (target 0): score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Spritzee (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Spritzee lost 44 HP (53 -> 9)
+"It's super effective!"
+[HP change] The opposing Spritzee gained 20 HP (9 -> 29)
+"The opposing Spritzee restored its health using its Berry Juice!"
+[Item consumed] The opposing Spritzee consumed its held Berry Juice
+[Use move] The opposing Spritzee (1) used Draining Kiss
+"The opposing Spritzee used Draining Kiss!"
+[HP change] Oddish lost 9 HP (46 -> 37)
+"It's not very effective..."
+"Oddish had its energy drained!"
+[HP change] The opposing Spritzee gained 7 HP (29 -> 36)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Oddish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spritzee (1) is considering using Draining Kiss (1) against Oddish (0)...
+     + 4 to prioritize highest damaging move
+[AI] Spritzee (1) is considering using Charge Beam (1) against Oddish (0)...
+[AI] Move choices for Spritzee (1):
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Charge Beam (target 0): score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Oddish (0), the opposing Spritzee (1)
+
+[Use move] Oddish (0) used Sludge
+"Oddish used Sludge!"
+[HP change] The opposing Spritzee lost 36 HP (36 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Spritzee fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Diana!"
+"Wow. You're great!"
+
+"You got $256 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Fidough appeared!"
+"Go! Geodude!"
+[Round order] Geodude (0), the wild Fidough (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Geodude (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Fidough (1) is considering using Growl (4)...
+[AI] Fidough (1) is considering using Tackle (1) against Geodude (0)...
+[AI] Fidough (1) is considering using Lick (1) against Geodude (0)...
+[AI] Move choices for Fidough (1):
+   * 100.0% to use Growl: score 4
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Lick (target 0): score 0
+   *   0.0% to use Lick (target 0): score 0
+   => will use Growl
+
+[Round order] Geodude (0), the wild Fidough (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Fidough was caught!"
+
+===== Pokémon caught =====
+
+"Fidough's data was added to the Pokédex."
+"Where do you want to send Fidough to?"
+"Where do you want to send Fidough to?"
+"Fidough has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Machop appeared!"
+"Go! Geodude!"
+[Round order] Geodude (0), the wild Machop (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Geodude (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Machop (1) is considering using Low Kick (1) against Geodude (0)...
+[AI] Machop (1) is considering using Leer (4)...
+[AI] Move choices for Machop (1):
+   *   0.0% to use Low Kick (target 0): score 0
+   *  50.0% to use Leer: score 4
+   *  50.0% to use Leer: score 4
+   => will use Leer
+
+[Round order] Geodude (0), the wild Machop (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Machop was caught!"
+
+===== Pokémon caught =====
+
+"Machop's data was added to the Pokédex."
+"Where do you want to send Machop to?"
+"Where do you want to send Machop to?"
+"Machop has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sandshrew appeared!"
+"Go! Geodude!"
+[Round order] Geodude (0), the wild Sandshrew (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Geodude (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sandshrew (1) is considering using Scratch (1) against Geodude (0)...
+[AI] Sandshrew (1) is considering using Defense Curl (4)...
+[AI] Sandshrew (1) is considering using Bide (1)...
+[AI] Move choices for Sandshrew (1):
+   *   0.0% to use Scratch (target 0): score 0
+   *  50.0% to use Defense Curl: score 4
+   *  50.0% to use Defense Curl: score 4
+   *   0.0% to use Bide: score 0
+   => will use Defense Curl
+
+[Round order] Geodude (0), the wild Sandshrew (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Sandshrew was caught!"
+
+===== Pokémon caught =====
+
+"Sandshrew's data was added to the Pokédex."
+"Where do you want to send Sandshrew to?"
+"Where do you want to send Sandshrew to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Geodude has been sent to Box "Box 1"."
+"Sandshrew has been added to your party."
