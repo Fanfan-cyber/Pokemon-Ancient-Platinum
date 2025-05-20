@@ -8150,3 +8150,697 @@ Set up score for Oddish (0): 0
 "Choose a Pokémon in your party to send to your Boxes."
 "Geodude has been sent to Box "Box 1"."
 "Sandshrew has been added to your party."
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Prinplup and Ralts!"
+[Round order] The opposing Aipom (1), Prinplup (0), the opposing Timburr (3), Ralts (2)
+
+===== Round 1 =====
+
+Set up score for Prinplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Ralts (2): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Ralts (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Prinplup (0)...
+     + 18 for using Fake Out turn 1
+[AI] Aipom (1) is considering using Fake Out (1) against Ralts (2)...
+     + 18 for using Fake Out turn 1
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Ralts (2)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Ralts (2)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Ralts (2)...
+[AI] Move choices for Aipom (1):
+   *  50.0% to use Fake Out (target 0): score 19
+   *  50.0% to use Fake Out (target 2): score 19
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 0)
+
+
+**Exception: undefined method `each' for #<Battle::AI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:265:in `either_target_can_2hko?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:231:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:67:in `trigger_status_moves'
+[Phantombass AI] 03_AI_Moves.rb:232:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:103:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+
+**Exception: undefined method `each' for #<Battle::AI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:265:in `either_target_can_2hko?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:231:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:67:in `trigger_status_moves'
+[Phantombass AI] 03_AI_Moves.rb:232:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:103:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Prinplup and Ralts!"
+[Round order] The opposing Aipom (1), Prinplup (0), the opposing Timburr (3), Ralts (2)
+
+===== Round 1 =====
+
+Set up score for Prinplup (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Ralts (2): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Ralts (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Prinplup (0)...
+     + 18 for using Fake Out turn 1
+[AI] Aipom (1) is considering using Fake Out (1) against Ralts (2)...
+     + 18 for using Fake Out turn 1
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Ralts (2)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Ralts (2)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Ralts (2)...
+[AI] Move choices for Aipom (1):
+   *  50.0% to use Fake Out (target 0): score 19
+   *  50.0% to use Fake Out (target 2): score 19
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 0)
+
+Set up score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     - 3 because this will be pointless
+[AI] Timburr (3) is considering using Mach Punch (1) against Prinplup (0)...
+[AI] Timburr (3) is considering using Mach Punch (1) against Ralts (2)...
+[AI] Timburr (3) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Rock Tomb (1) against Ralts (2)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *  50.0% to use Rock Tomb (target 0): score 5
+   *  50.0% to use Rock Tomb (target 2): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Aipom (1), Prinplup (0), the opposing Timburr (3), Ralts (2)
+
+[Use move] The opposing Aipom (1) used Fake Out
+"The opposing Aipom used Fake Out!"
+[HP change] Prinplup lost 10 HP (55 -> 45)
+[Use move] Prinplup (0) used Icy Wind
+"Prinplup flinched and couldn't move!"
+[Use move] The opposing Timburr (3) used Rock Tomb
+"The opposing Timburr used Rock Tomb!"
+[HP change] Prinplup lost 10 HP (45 -> 35)
+[Stat change] Prinplup's Speed changed by -1 (0 -> -1)
+"Prinplup's Speed fell!"
+[Use move] Ralts (2) used Draining Kiss
+"Ralts used Draining Kiss!"
+[HP change] The opposing Timburr lost 35 HP (52 -> 17)
+"It's super effective!"
+"The opposing Timburr had its energy drained!"
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Timburr was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Ralts (2)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Ralts (2)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Ralts (2)...
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   *  50.0% to use Fury Swipes (target 2): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fury Swipes (target 2)
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     - 3 because this will be pointless
+[AI] Timburr (3) is considering using Mach Punch (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Ralts (2)...
+[AI] Timburr (3) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Rock Tomb (1) against Ralts (2)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  33.3% to use Mach Punch (target 0): score 5
+   *   0.0% to use Mach Punch (target 2): score 0
+   *  33.3% to use Rock Tomb (target 0): score 5
+   *  33.3% to use Rock Tomb (target 2): score 5
+   => will use Rock Tomb (target 2)
+
+[Round order] The opposing Aipom (1), Prinplup (0), the opposing Timburr (3), Ralts (2)
+
+[Use move] The opposing Aipom (1) used Fury Swipes
+"The opposing Aipom used Fury Swipes!"
+[HP change] Ralts lost 9 HP (42 -> 33)
+[HP change] Ralts lost 9 HP (33 -> 24)
+[HP change] Ralts lost 10 HP (24 -> 14)
+[HP change] Ralts gained 10 HP (14 -> 24)
+"Ralts restored a little HP using its Oran Berry!"
+[Item consumed] Ralts consumed its held Oran Berry
+[HP change] Ralts lost 10 HP (24 -> 14)
+[HP change] Ralts lost 10 HP (14 -> 4)
+"Hit 5 times!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Timburr lost 17 HP (17 -> 0)
+"The opposing Timburr fainted!"
+[Use move] Ralts (2) used Psybeam
+"Ralts used Psybeam!"
+[HP change] The opposing Aipom lost 17 HP (46 -> 29)
+
+[End of round 2]
+Trick Room Turns: 0
+     [Solrock] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Solrock] + 2 because we outspeed
+     [Solrock] + 9 because we have kill
+[AI] Highest move score (27) vs Switch In Score (40)
+"Worker Steve sent out Solrock!"
+
+===== Round 3 =====
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Ralts (2)...
+      + 20 for fast kill
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Ralts (2)...
+      + 20 for fast kill
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Ralts (2)...
+      + 20 for fast kill
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *  33.3% to use Fury Swipes (target 2): score 21
+   *   0.0% to use Covet (target 0): score 0
+   *  33.3% to use Covet (target 2): score 21
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *  33.3% to use Aerial Ace (target 2): score 21
+   => will use Aerial Ace (target 2)
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (3) is considering using Confusion (1) against Prinplup (0)...
+[AI] Solrock (3) is considering using Confusion (1) against Ralts (2)...
+      + 20 for fast kill
+[AI] Solrock (3) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Solrock (3) is considering using Rock Tomb (1) against Ralts (2)...
+      + 20 for fast kill
+[AI] Solrock (3) is considering using Flame Wheel (1) against Prinplup (0)...
+[AI] Solrock (3) is considering using Flame Wheel (1) against Ralts (2)...
+      + 20 for fast kill
+[AI] Move choices for Solrock (3):
+   *   0.0% to use Confusion (target 0): score 0
+   *  33.3% to use Confusion (target 2): score 21
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  33.3% to use Rock Tomb (target 2): score 21
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *  33.3% to use Flame Wheel (target 2): score 21
+   => will use Confusion (target 2)
+
+[Round order] The opposing Aipom (1), the opposing Solrock (3), Prinplup (0), Ralts (2)
+
+"Good job, Ralts! Come back!"
+"Go for it, Corphish!"
+[Use move] The opposing Aipom (1) used Aerial Ace
+"The opposing Aipom used Aerial Ace!"
+[HP change] Corphish lost 10 HP (48 -> 38)
+[Use move] The opposing Solrock (3) used Confusion
+"The opposing Solrock used Confusion!"
+[HP change] Corphish lost 16 HP (38 -> 22)
+[HP change] Corphish gained 10 HP (22 -> 32)
+"Corphish restored a little HP using its Oran Berry!"
+[Item consumed] Corphish consumed its held Oran Berry
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Solrock lost 48 HP (59 -> 11)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Corphish (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Corphish (2)...
+      + 20 for fast kill
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Corphish (2)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Corphish (2)...
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   * 100.0% to use Fury Swipes (target 2): score 21
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fury Swipes (target 2)
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Corphish (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (3) is considering using Confusion (1) against Prinplup (0)...
+[AI] Solrock (3) is considering using Confusion (1) against Corphish (2)...
+[AI] Solrock (3) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Solrock (3) is considering using Rock Tomb (1) against Corphish (2)...
+      + 20 for fast kill
+[AI] Solrock (3) is considering using Flame Wheel (1) against Prinplup (0)...
+[AI] Solrock (3) is considering using Flame Wheel (1) against Corphish (2)...
+[AI] Move choices for Solrock (3):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Confusion (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Rock Tomb (target 2): score 21
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Rock Tomb (target 2)
+
+[Round order] Corphish (2), the opposing Aipom (1), the opposing Solrock (3), Prinplup (0)
+
+[Use move] Corphish (2) used Aqua Jet
+"Corphish used Aqua Jet!"
+[HP change] The opposing Solrock lost 11 HP (11 -> 0)
+"It's super effective!"
+"The opposing Solrock fainted!"
+"Corphish got 1 Exp. Points!"
+[Use move] The opposing Aipom (1) used Fury Swipes
+"The opposing Aipom used Fury Swipes!"
+[HP change] Corphish lost 7 HP (32 -> 25)
+[HP change] Corphish lost 7 HP (25 -> 18)
+[HP change] Corphish lost 7 HP (18 -> 11)
+[HP change] Corphish lost 7 HP (11 -> 4)
+[HP change] Corphish lost 4 HP (4 -> 0)
+"Corphish fainted!"
+"Hit 5 times!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Aipom lost 26 HP (29 -> 3)
+
+[End of round 4]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Luxio!"
+
+===== Round 5 =====
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Luxio (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Luxio (2)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Luxio (2)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Luxio (2)...
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   *  50.0% to use Fury Swipes (target 2): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fury Swipes (target 2)
+
+[Command phase] The opposing Solrock (3) is forced to use a multi-turn move
+[Round order] The opposing Aipom (1), Luxio (2), Prinplup (0), the opposing Solrock (3)
+
+[Use move] The opposing Aipom (1) used Fury Swipes
+"The opposing Aipom used Fury Swipes!"
+[HP change] Luxio lost 7 HP (53 -> 46)
+[HP change] Luxio lost 7 HP (46 -> 39)
+[HP change] Luxio lost 7 HP (39 -> 32)
+[HP change] Luxio lost 7 HP (32 -> 25)
+[HP change] Luxio gained 10 HP (25 -> 35)
+"Luxio restored a little HP using its Oran Berry!"
+[Item consumed] Luxio consumed its held Oran Berry
+[HP change] Luxio lost 6 HP (35 -> 29)
+"Hit 5 times!"
+[Use move] Luxio (2) used Spark
+"Luxio used Spark!"
+[HP change] The opposing Aipom lost 3 HP (3 -> 0)
+"The opposing Aipom fainted!"
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+"But there was no target..."
+
+[End of round 5]
+Trick Room Turns: 0
+     [Barboach] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Barboach] + 3 because we absorb their highest damaging move against the current battler
+     [Barboach] + 9 because we have kill
+[AI] Highest move score (28) vs Switch In Score (41)
+"Worker Joe sent out Barboach!"
+
+===== Round 6 =====
+
+Set up score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Luxio (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+      + 17 for slow kill
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Barboach (1) is considering using Water Pulse (1) against Luxio (2)...
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   * 100.0% to use Bulldoze: score 13
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bulldoze
+
+[Command phase] The opposing Solrock (3) is forced to use a multi-turn move
+[Round order] Luxio (2), the opposing Barboach (1), Prinplup (0), the opposing Solrock (3)
+
+"Luxio, come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Barboach (1) used Bulldoze
+"The opposing Barboach used Bulldoze!"
+[HP change] Prinplup lost 21 HP (35 -> 14)
+[HP change] Oddish lost 21 HP (50 -> 29)
+"A critical hit!"
+[HP change] Prinplup gained 10 HP (14 -> 24)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[Stat change] Prinplup's Speed changed by -1 (-1 -> -2)
+"Prinplup's Speed fell!"
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Barboach lost 30 HP (46 -> 16)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Prinplup (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Oddish (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Prinplup (0)...
+[AI] Barboach (1) is considering using Water Pulse (1) against Oddish (2)...
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   * 100.0% to use Bulldoze: score 7
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bulldoze
+
+[Command phase] The opposing Solrock (3) is forced to use a multi-turn move
+[Round order] The opposing Barboach (1), Prinplup (0), Oddish (2), the opposing Solrock (3)
+
+[Use move] The opposing Barboach (1) used Bulldoze
+"The opposing Barboach used Bulldoze!"
+[HP change] Prinplup lost 16 HP (24 -> 8)
+[HP change] Oddish lost 18 HP (29 -> 11)
+[HP change] Oddish gained 10 HP (11 -> 21)
+"Oddish restored a little HP using its Oran Berry!"
+[Item consumed] Oddish consumed its held Oran Berry
+[Stat change] Prinplup's Speed changed by -1 (-2 -> -3)
+"Prinplup's Speed fell!"
+[Stat change] Oddish's Speed changed by -1 (-1 -> -2)
+"Oddish's Speed fell!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Barboach lost 16 HP (16 -> 0)
+"The opposing Barboach fainted!"
+
+===== Player won =====
+
+"You defeated Worker Joe and Worker Steve!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $2,816 for winning!"
