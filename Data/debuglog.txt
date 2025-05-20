@@ -15723,3 +15723,1635 @@ Set up score for Prinplup (0): 0
 "You lost against Gym Leader Roark!"
 "You gave $152 to the winner..."
 "You blacked out!"
+Roles for PIPLUP: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Piplup!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+===== Round 1 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 5 HP (21 -> 16)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 4 HP (16 -> 12)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-1 -> -2)
+"Chimchar's Attack fell!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 3 HP (12 -> 9)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-2 -> -3)
+"Chimchar's Attack fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 3 HP (9 -> 6)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-3 -> -4)
+"Chimchar's Attack fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (6 -> 4)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-4 -> -5)
+"Chimchar's Attack fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Piplup (1):
+   * 100.0% to use Pound (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Pound (target 0)
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (4 -> 2)
+[Use move] The opposing Piplup (1) used Pound
+"The opposing Piplup used Pound!"
+[HP change] Chimchar lost 4 HP (20 -> 16)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Piplup (1):
+   * 100.0% to use Pound (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Pound (target 0)
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (2 -> 0)
+"The opposing Piplup fainted!"
+"Chimchar got 95 Exp. Points!"
+"Chimchar grew to Lv. 6!"
+"Chimchar learned Ember!"
+
+===== Player won =====
+
+"You defeated Rival Barry!"
+"What?! How did I lose?"
+
+"You got $80 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wattrel appeared!"
+"Go! Chimchar!"
+[Round order] The wild Wattrel (1), Chimchar (0)
+
+===== Round 1 =====
+
+"You couldn't get away!"
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Wattrel (1) is considering using Peck (1) against Chimchar (0)...
+[AI] Wattrel (1) is considering using Growl (4)...
+[AI] Wattrel (1) is considering using Thunder Shock (1) against Chimchar (0)...
+[AI] Move choices for Wattrel (1):
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Growl: score 4
+   *   0.0% to use Thunder Shock (target 0): score 0
+   *   0.0% to use Thunder Shock (target 0): score 0
+   => will use Growl
+
+[Round order] The wild Wattrel (1), Chimchar (0)
+
+[Use move] The wild Wattrel (1) used Growl
+"The wild Wattrel used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Helioptile appeared!"
+"Go! Chimchar!"
+[Round order] The wild Helioptile (1), Chimchar (0)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Helioptile (1) is considering using Mud-Slap (1) against Chimchar (0)...
+[AI] Helioptile (1) is considering using Tail Whip (4)...
+[AI] Helioptile (1) is considering using Pound (1) against Chimchar (0)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Mud-Slap (target 0): score 0
+   *  50.0% to use Tail Whip: score 4
+   *  50.0% to use Tail Whip: score 4
+   *   0.0% to use Pound (target 0): score 0
+   => will use Tail Whip
+
+[Round order] The wild Helioptile (1), Chimchar (0)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Helioptile was caught!"
+"Chimchar got 52 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Helioptile's data was added to the Pokédex."
+"Helioptile has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Starly appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Starly (1)
+[Ability triggered] The wild Starly's Keen Eye
+"The wild Starly is getting pumped!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Starly (1) is considering using Tackle (1) against Chimchar (0)...
+[AI] Starly (1) is considering using Growl (4)...
+[AI] Move choices for Starly (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] Chimchar (0), the wild Starly (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Starly was caught!"
+"Chimchar got 19 Exp. Points!"
+"Chimchar grew to Lv. 7!"
+
+===== Pokémon caught =====
+
+"Starly's data was added to the Pokédex."
+"Starly has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Slugma appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Slugma (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Slugma (1) is considering using Yawn (4) against Chimchar (0)...
+[AI] Slugma (1) is considering using Smog (1) against Chimchar (0)...
+[AI] Move choices for Slugma (1):
+   *  50.0% to use Yawn (target 0): score 4
+   *  50.0% to use Yawn (target 0): score 4
+   *   0.0% to use Smog (target 0): score 0
+   => will use Yawn (target 0)
+
+[Round order] Chimchar (0), the wild Slugma (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Slugma was caught!"
+"Chimchar got 18 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Slugma's data was added to the Pokédex."
+"Slugma has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Capsakid appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Capsakid (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Capsakid (1) is considering using Leafage (1) against Chimchar (0)...
+[AI] Capsakid (1) is considering using Leer (4)...
+[AI] Move choices for Capsakid (1):
+   *   0.0% to use Leafage (target 0): score 0
+   *  50.0% to use Leer: score 4
+   *  50.0% to use Leer: score 4
+   => will use Leer
+
+[Round order] Chimchar (0), the wild Capsakid (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Capsakid was caught!"
+"Chimchar got 21 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Capsakid's data was added to the Pokédex."
+"Capsakid has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Lotad appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Lotad (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Lotad (1) is considering using Astonish (1) against Chimchar (0)...
+[AI] Lotad (1) is considering using Growl (4)...
+[AI] Move choices for Lotad (1):
+   *   0.0% to use Astonish (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] Chimchar (0), the wild Lotad (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Lotad was caught!"
+"Chimchar got 8 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Lotad's data was added to the Pokédex."
+"Lotad has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Shinx appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Shinx (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Shinx (1) is considering using Tackle (1) against Chimchar (0)...
+[AI] Shinx (1) is considering using Leer (4)...
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Leer: score 4
+   => will use Leer
+
+[Round order] Chimchar (0), the wild Shinx (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Shinx was caught!"
+"Chimchar got 18 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Shinx's data was added to the Pokédex."
+"Where do you want to send Shinx to?"
+"Shinx has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Magikarp appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Magikarp (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Magikarp (1) is considering using Splash (4)...
+[AI] Move choices for Magikarp (1):
+   *  50.0% to use Splash: score 4
+   *  50.0% to use Splash: score 4
+   => will use Splash
+
+[Round order] Chimchar (0), the wild Magikarp (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Magikarp was caught!"
+"Chimchar got 8 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Magikarp's data was added to the Pokédex."
+"Where do you want to send Magikarp to?"
+"Magikarp has been sent to Box "Box 1"!"
+Roles for STARLY: [:NONE]
+Roles for SHINX: [:NONE]
+Roles for BIDOOF: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tristan!"
+"Youngster Tristan sent out Starly!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the opposing Starly (1)
+[Ability triggered] The opposing Starly's Keen Eye
+"The opposing Starly is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Starly (1) is considering using Wing Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Chimchar (0)...
+[AI] Starly (1) is considering using Swagger (4) against Chimchar (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Starly (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Starly lost 17 HP (26 -> 9)
+[HP change] The opposing Starly gained 10 HP (9 -> 19)
+"The opposing Starly restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Starly consumed its held Oran Berry
+[Use move] The opposing Starly (1) used Wing Attack
+"The opposing Starly used Wing Attack!"
+[HP change] Chimchar lost 12 HP (37 -> 25)
+"A critical hit!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starly (1) is considering using Wing Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Chimchar (0)...
+[AI] Starly (1) is considering using Swagger (4) against Chimchar (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Starly (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Starly lost 16 HP (19 -> 3)
+[Use move] The opposing Starly (1) used Wing Attack
+"The opposing Starly used Wing Attack!"
+[HP change] Chimchar lost 8 HP (25 -> 17)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starly (1) is considering using Wing Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Chimchar (0)...
+[AI] Starly (1) is considering using Swagger (4) against Chimchar (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Starly (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Starly lost 3 HP (3 -> 0)
+"The opposing Starly fainted!"
+"Chimchar got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Shinx] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Shinx] + 4 because we have 2HKO
+     [Bidoof] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Bidoof] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Youngster Tristan sent out Bidoof!"
+
+===== Round 4 =====
+
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Bidoof (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Bidoof lost 19 HP (32 -> 13)
+"It's super effective!"
+[HP change] The opposing Bidoof gained 10 HP (13 -> 23)
+"The opposing Bidoof restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Bidoof consumed its held Oran Berry
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Chimchar lost 7 HP (17 -> 10)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Bidoof (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Bidoof lost 21 HP (23 -> 2)
+"It's super effective!"
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Chimchar lost 7 HP (10 -> 3)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Chimchar (0)...
+      + 17 for slow kill
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 18
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Bidoof (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Bidoof lost 2 HP (2 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Bidoof fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Shinx] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Shinx] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (38)
+"Youngster Tristan sent out Shinx!"
+[Ability triggered] The opposing Shinx's Intimidate
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+===== Round 7 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Chimchar (0)...
+      + 17 for slow kill
+[AI] Shinx (1) is considering using Bite (1) against Chimchar (0)...
+      + 17 for slow kill
+[AI] Move choices for Shinx (1):
+   *  50.0% to use Spark (target 0): score 18
+   *  50.0% to use Bite (target 0): score 18
+   => will use Bite (target 0)
+
+[Round order] Chimchar (0), the opposing Shinx (1)
+
+"Good job, Chimchar! Come back!"
+"You're in charge, Capsakid!"
+[Use move] The opposing Shinx (1) used Bite
+"The opposing Shinx used Bite!"
+[HP change] Capsakid lost 7 HP (39 -> 32)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Capsakid (0)...
+[AI] Shinx (1) is considering using Bite (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Capsakid (0), the opposing Shinx (1)
+
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Shinx lost 27 HP (27 -> 0)
+"The opposing Shinx fainted!"
+"The opposing Shinx had its energy drained!"
+[HP change] Capsakid gained 7 HP (32 -> 39)
+"Capsakid got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Youngster Tristan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for MEOWTH: [:PHYSICALBREAKER]
+Roles for SPRIGATITO: [:NONE]
+Roles for LITTEN: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Natalie!"
+"Lass Natalie sent out Meowth!"
+"Go! Chimchar!"
+[Round order] The opposing Meowth (1), Chimchar (0)
+
+===== Round 1 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Meowth (1) is considering using Fake Out (1) against Chimchar (0)...
+     + 18 for using Fake Out turn 1
+[AI] Meowth (1) is considering using Pay Day (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Meowth (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Pay Day (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Meowth (1), Chimchar (0)
+
+[Use move] The opposing Meowth (1) used Fake Out
+"The opposing Meowth used Fake Out!"
+"The Normal Gem strengthened Fake Out's power!"
+[HP change] Chimchar lost 9 HP (37 -> 28)
+[Item consumed] The opposing Meowth consumed its held Normal Gem
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Pay Day (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Pay Day (target 0)
+
+[Round order] Chimchar (0), the opposing Meowth (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Meowth lost 20 HP (26 -> 6)
+"It's super effective!"
+[Use move] The opposing Meowth (1) used Pay Day
+"The opposing Meowth used Pay Day!"
+[HP change] Chimchar lost 8 HP (28 -> 20)
+"Coins were scattered everywhere!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Pay Day (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Pay Day (target 0)
+
+[Round order] Chimchar (0), the opposing Meowth (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Meowth lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Meowth fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Sprigatito] + 2 because we outspeed
+     [Sprigatito] - 3 because we have no kill
+     [Litten] + 2 because we outspeed
+     [Litten] - 3 because we have no kill
+[AI] Highest move score (19) vs Switch In Score (34)
+"Lass Natalie sent out Litten!"
+[Ability triggered] The opposing Litten's Intimidate
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+===== Round 4 =====
+
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out (1) against Chimchar (0)...
+     + 18 for using Fake Out turn 1
+[AI] Litten (1) is considering using Bite (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Chimchar (0)...
+[AI] Move choices for Litten (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Litten (1), Chimchar (0)
+
+"Chimchar, come back!"
+"You're in charge, Slugma!"
+[Use move] The opposing Litten (1) used Fake Out
+"The opposing Litten used Fake Out!"
+[HP change] Slugma lost 6 HP (35 -> 29)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Slugma (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Slugma (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Slugma lost 8 HP (29 -> 21)
+[Use move] Slugma (0) used Rock Throw
+"Slugma used Rock Throw!"
+[HP change] The opposing Litten lost 18 HP (29 -> 11)
+"It's super effective!"
+[HP change] The opposing Litten gained 10 HP (11 -> 21)
+"The opposing Litten restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Litten consumed its held Oran Berry
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Slugma (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Slugma (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Slugma lost 9 HP (21 -> 12)
+[HP change] Slugma gained 10 HP (12 -> 22)
+"Slugma restored a little HP using its Oran Berry!"
+[Item consumed] Slugma consumed its held Oran Berry
+[Use move] Slugma (0) used Rock Throw
+"Slugma flinched and couldn't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Slugma (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Slugma (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Slugma lost 8 HP (22 -> 14)
+[Use move] Slugma (0) used Rock Throw
+"Slugma used Rock Throw!"
+[HP change] The opposing Litten lost 20 HP (21 -> 1)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Slugma (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Slugma (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Slugma lost 9 HP (14 -> 5)
+[Use move] Slugma (0) used Rock Throw
+"Slugma used Rock Throw!"
+[HP change] The opposing Litten lost 1 HP (1 -> 0)
+"It's super effective!"
+"The opposing Litten fainted!"
+"Slugma got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Sprigatito] + 2 because we outspeed
+     [Sprigatito] + 9 because we have kill
+[AI] Highest move score (36) vs Switch In Score (46)
+"Lass Natalie sent out Sprigatito!"
+
+===== Round 9 =====
+
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+      + 20 for fast kill
+[AI] Sprigatito (1) is considering using Bite (1) against Slugma (0)...
+      + 20 for fast kill
+[AI] Move choices for Sprigatito (1):
+   *  50.0% to use Razor Leaf: score 21
+   *  50.0% to use Bite (target 0): score 21
+   => will use Razor Leaf
+
+[Round order] The opposing Sprigatito (1), Slugma (0)
+
+"Good job, Slugma! Come back!"
+"You're in charge, Chimchar!"
+[Use move] The opposing Sprigatito (1) used Razor Leaf
+"The opposing Sprigatito used Razor Leaf!"
+[HP change] Chimchar lost 4 HP (20 -> 16)
+"It's not very effective..."
+[HP change] Chimchar gained 10 HP (16 -> 26)
+"Chimchar restored a little HP using its Oran Berry!"
+[Item consumed] Chimchar consumed its held Oran Berry
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+[AI] Sprigatito (1) is considering using Bite (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sprigatito (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Sprigatito (1), Chimchar (0)
+
+[Use move] The opposing Sprigatito (1) used Bite
+"The opposing Sprigatito used Bite!"
+[Ability triggered] The opposing Sprigatito's Protean
+"The opposing Sprigatito's type changed to Dark!"
+[HP change] Chimchar lost 9 HP (26 -> 17)
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Sprigatito lost 14 HP (28 -> 14)
+[HP change] The opposing Sprigatito gained 10 HP (14 -> 24)
+"The opposing Sprigatito restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Sprigatito consumed its held Oran Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+[AI] Sprigatito (1) is considering using Bite (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sprigatito (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Chimchar (0), the opposing Sprigatito (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Sprigatito lost 15 HP (24 -> 9)
+"It's super effective!"
+[Use move] The opposing Sprigatito (1) used Bite
+"The opposing Sprigatito used Bite!"
+[HP change] Chimchar lost 10 HP (17 -> 7)
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+[AI] Sprigatito (1) is considering using Bite (1) against Chimchar (0)...
+      + 17 for slow kill
+[AI] Move choices for Sprigatito (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bite (target 0): score 18
+   => will use Bite (target 0)
+
+[Round order] Chimchar (0), the opposing Sprigatito (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Sprigatito lost 9 HP (9 -> 0)
+"It's super effective!"
+"The opposing Sprigatito fainted!"
+
+===== Player won =====
+
+"You defeated Lass Natalie!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for GROWLITHE: [:PHYSICALBREAKER]
+Roles for YAMPER: [:SPEEDCONTROL]
+Roles for FIDOUGH: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Logan!"
+"Youngster Logan sent out Growlithe!"
+"Go! Lotad!"
+[Round order] The opposing Growlithe (1), Lotad (0)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Lotad's Attack changed by -1 (0 -> -1)
+"Lotad's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Lotad (0): 0
+     Threat Score for Lotad (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Lotad (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Lotad (0)...
+     + 4 to prioritize highest damaging move
+[AI] Growlithe (1) is considering using Bite (1) against Lotad (0)...
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Lotad (0)...
+[AI] Move choices for Growlithe (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Growlithe (1), Lotad (0)
+
+[Use move] The opposing Growlithe (1) used Flame Wheel
+"The opposing Growlithe used Flame Wheel!"
+[HP change] Lotad lost 15 HP (34 -> 19)
+[Use move] Lotad (0) used Water Gun
+"Lotad used Water Gun!"
+[HP change] The opposing Growlithe lost 20 HP (31 -> 11)
+"It's super effective!"
+[HP change] The opposing Growlithe gained 10 HP (11 -> 21)
+"The opposing Growlithe restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Growlithe consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Lotad (0): 0
+     Threat Score for Lotad (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Lotad (0)...
+     + 4 to prioritize highest damaging move
+[AI] Growlithe (1) is considering using Bite (1) against Lotad (0)...
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Lotad (0)...
+[AI] Move choices for Growlithe (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Growlithe (1), Lotad (0)
+
+[Use move] The opposing Growlithe (1) used Flame Wheel
+"The opposing Growlithe used Flame Wheel!"
+[HP change] Lotad lost 14 HP (19 -> 5)
+[HP change] Lotad gained 10 HP (5 -> 15)
+"Lotad restored a little HP using its Oran Berry!"
+[Item consumed] Lotad consumed its held Oran Berry
+[Use move] Lotad (0) used Water Gun
+"Lotad used Water Gun!"
+[HP change] The opposing Growlithe lost 21 HP (21 -> 0)
+"It's super effective!"
+"The opposing Growlithe fainted!"
+"Lotad got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Yamper] + 9 because we have kill
+     [Fidough] + 2 because we outspeed
+     [Fidough] + 4 because we have 2HKO
+[AI] Highest move score (18) vs Switch In Score (44)
+"Youngster Logan sent out Yamper!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Lotad (0): 0
+     Threat Score for Lotad (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Lotad (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Bite (1) against Lotad (0)...
+[AI] Yamper (1) is considering using Thunder Wave (4) against Lotad (0)...
+     + 1 for being a Speed Control Role
+     + 5 to encourage status move use
+     - 9 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     + 5 to encourage status move use
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Wave (target 0): score 7
+   => will use Thunder Wave (target 0)
+
+[Round order] Lotad (0), the opposing Yamper (1)
+
+"OK, Lotad! Come back!"
+"You're in charge, Capsakid!"
+[Use move] The opposing Yamper (1) used Thunder Wave
+"The opposing Yamper used Thunder Wave!"
+"Capsakid is paralyzed! It may be unable to move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Capsakid (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Capsakid (0)...
+[AI] Yamper (1) is considering using Bite (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Capsakid (0)...
+     move will not affect Capsakid (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Capsakid (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Capsakid lost 6 HP (39 -> 33)
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Yamper lost 20 HP (32 -> 12)
+[HP change] The opposing Yamper gained 10 HP (12 -> 22)
+"The opposing Yamper restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Yamper consumed its held Oran Berry
+"The opposing Yamper had its energy drained!"
+[HP change] Capsakid gained 6 HP (33 -> 39)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Capsakid (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Capsakid (0)...
+[AI] Yamper (1) is considering using Bite (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Capsakid (0)...
+     move will not affect Capsakid (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Capsakid (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Capsakid lost 7 HP (39 -> 32)
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Yamper lost 20 HP (22 -> 2)
+"The opposing Yamper had its energy drained!"
+[HP change] Capsakid gained 7 HP (32 -> 39)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Capsakid (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Capsakid (0)...
+[AI] Yamper (1) is considering using Bite (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Capsakid (0)...
+     move will not affect Capsakid (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Capsakid (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Capsakid lost 6 HP (39 -> 33)
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Yamper lost 2 HP (2 -> 0)
+"The opposing Yamper fainted!"
+"The opposing Yamper had its energy drained!"
+[HP change] Capsakid gained 1 HP (33 -> 34)
+
+[End of round 6]
+Trick Room Turns: 0
+     move will not affect Capsakid (0)
+     [Fidough] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Fidough] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Youngster Logan sent out Fidough!"
+
+===== Round 7 =====
+
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Bite (1) against Capsakid (0)...
+[AI] Fidough (1) is considering using Headbutt (1) against Capsakid (0)...
+[AI] Move choices for Fidough (1):
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Fidough (1), Capsakid (0)
+
+"Capsakid, come back!"
+"You're in charge, Slugma!"
+[Use move] The opposing Fidough (1) used Covet
+"The opposing Fidough used Covet!"
+[HP change] Slugma lost 5 HP (35 -> 30)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Slugma (0)...
+[AI] Fidough (1) is considering using Bite (1) against Slugma (0)...
+[AI] Fidough (1) is considering using Headbutt (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Fidough (1), Slugma (0)
+
+[Use move] The opposing Fidough (1) used Headbutt
+"The opposing Fidough used Headbutt!"
+[HP change] Slugma lost 8 HP (30 -> 22)
+[Use move] Slugma (0) used Acid
+"Slugma used Acid!"
+[HP change] The opposing Fidough lost 20 HP (28 -> 8)
+"It's super effective!"
+[HP change] The opposing Fidough gained 10 HP (8 -> 18)
+"The opposing Fidough restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Fidough consumed its held Oran Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Slugma (0)...
+[AI] Fidough (1) is considering using Bite (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Headbutt (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   *  50.0% to use Bite (target 0): score 5
+   *  50.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Fidough (1), Slugma (0)
+
+[Use move] The opposing Fidough (1) used Headbutt
+"The opposing Fidough used Headbutt!"
+[HP change] Slugma lost 8 HP (22 -> 14)
+[HP change] Slugma gained 10 HP (14 -> 24)
+"Slugma restored a little HP using its Oran Berry!"
+[Item consumed] Slugma consumed its held Oran Berry
+[Use move] Slugma (0) used Acid
+"Slugma flinched and couldn't move!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Slugma (0): 0
+     Threat Score for Slugma (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Slugma (0)...
+[AI] Fidough (1) is considering using Bite (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Headbutt (1) against Slugma (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   *  50.0% to use Bite (target 0): score 5
+   *  50.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Fidough (1), Slugma (0)
+
+[Use move] The opposing Fidough (1) used Headbutt
+"The opposing Fidough used Headbutt!"
+[HP change] Slugma lost 8 HP (24 -> 16)
+[Use move] Slugma (0) used Acid
+"Slugma used Acid!"
+[HP change] The opposing Fidough lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Fidough fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Logan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
