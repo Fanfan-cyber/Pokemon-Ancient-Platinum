@@ -8844,3 +8844,772 @@ Set up score for Oddish (2): -1
 "Wow. You're great!"
 
 "You got $2,816 for winning!"
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Steve and Worker Joe!"
+"Worker Steve sent out Timburr!
+Worker Joe sent out Aipom!"
+"Go! Prinplup and Ralts!"
+[Round order] The opposing Aipom (3), Prinplup (0), the opposing Timburr (1), Ralts (2)
+
+===== Round 1 =====
+
+
+**Exception: undefined method `threat_score' for #<Battle::AI::AIBattler>
+[Phantombass AI] 01_AI_Move_Scoring.rb:336:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:75:in `trigger_final'
+[Phantombass AI] 03_AI_Moves.rb:257:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:199:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:196:in `each'
+[Phantombass AI] 03_AI_Moves.rb:196:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (3 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:65:in `each'
+[Phantombass AI] 03_AI_Moves.rb:65:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:94:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+
+**Exception: undefined method `threat_score' for #<Battle::AI::AIBattler>
+[Phantombass AI] 01_AI_Move_Scoring.rb:336:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:75:in `trigger_final'
+[Phantombass AI] 03_AI_Moves.rb:257:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:199:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:196:in `each'
+[Phantombass AI] 03_AI_Moves.rb:196:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (3 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:65:in `each'
+[Phantombass AI] 03_AI_Moves.rb:65:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:94:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+
+**Exception: undefined method `threat_score' for #<Battle::AI::AIBattler>
+[Phantombass AI] 01_AI_Move_Scoring.rb:336:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:75:in `trigger_final'
+[Phantombass AI] 03_AI_Moves.rb:257:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:199:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:196:in `each'
+[Phantombass AI] 03_AI_Moves.rb:196:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (3 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:65:in `each'
+[Phantombass AI] 03_AI_Moves.rb:65:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:94:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:87:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:58:in `each'
+[Custom Scripts] 01_Dialogue.rb:58:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Steve and Worker Joe!"
+"Worker Steve sent out Timburr!
+Worker Joe sent out Aipom!"
+"Go! Prinplup and Ralts!"
+[Round order] The opposing Aipom (3), Prinplup (0), the opposing Timburr (1), Ralts (2)
+
+===== Round 1 =====
+
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Ralts (2): 0
+     Threat Score for Ralts (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Ralts (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Timburr (1) is considering using Protect (4)...
+     - 3 because this will be pointless
+[AI] Timburr (1) is considering using Mach Punch (1) against Prinplup (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (1) is considering using Mach Punch (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+[AI] Timburr (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (1) is considering using Rock Tomb (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (1):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *  50.0% to use Rock Tomb (target 0): score 9
+   *   0.0% to use Rock Tomb (target 2): score 0
+   => will use Rock Tomb (target 0)
+
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Threat Score for Ralts (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (3) is considering using Fake Out (1) against Prinplup (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Fake Out (1) against Ralts (2)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Fury Swipes (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (3) is considering using Fury Swipes (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (3) is considering using Covet (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Covet (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Aerial Ace (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Aerial Ace (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+[AI] Move choices for Aipom (3):
+   *  50.0% to use Fake Out (target 0): score 18
+   *  50.0% to use Fake Out (target 2): score 18
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+[Round order] The opposing Aipom (3), Prinplup (0), the opposing Timburr (1), Ralts (2)
+
+[Use move] The opposing Aipom (3) used Fake Out
+"The opposing Aipom used Fake Out!"
+[HP change] Ralts lost 16 HP (42 -> 26)
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Aipom lost 26 HP (46 -> 20)
+[Use move] The opposing Timburr (1) used Rock Tomb
+"The opposing Timburr used Rock Tomb!"
+[HP change] Prinplup lost 10 HP (55 -> 45)
+[Stat change] Prinplup's Speed changed by -1 (0 -> -1)
+"Prinplup's Speed fell!"
+[Use move] Ralts (2) used Draining Kiss
+"Ralts flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Timburr was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+     + 4 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Threat Score for Ralts (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (1) is considering using Protect (4)...
+     - 3 because this will be pointless
+[AI] Timburr (1) is considering using Mach Punch (1) against Prinplup (0)...
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (1) is considering using Mach Punch (1) against Ralts (2)...
+     + -3 to factor in threat scoring.
+     -  1: move will fail
+[AI] Timburr (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 3 to factor in threat scoring.
+[AI] Timburr (1) is considering using Rock Tomb (1) against Ralts (2)...
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Move choices for Timburr (1):
+   *   0.0% to use Protect: score 0
+   *  30.8% to use Mach Punch (target 0): score 8
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  69.2% to use Rock Tomb (target 2): score 18
+   => will use Rock Tomb (target 2)
+
+     + -1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Ralts (2): 0
+     Threat Score for Ralts (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (3) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (3) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (3) is considering using Fury Swipes (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Aipom (3) is considering using Covet (1) against Prinplup (0)...
+     + 1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Covet (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Aerial Ace (1) against Prinplup (0)...
+     + 1 to factor in threat scoring.
+[AI] Aipom (3) is considering using Aerial Ace (1) against Ralts (2)...
+     + -1 to factor in threat scoring.
+[AI] Move choices for Aipom (3):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   * 100.0% to use Fury Swipes (target 2): score 20
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fury Swipes (target 2)
+
+[Round order] The opposing Aipom (3), the opposing Timburr (1), Prinplup (0), Ralts (2)
+
+[Use move] The opposing Aipom (3) used Fury Swipes
+"The opposing Aipom used Fury Swipes!"
+[HP change] Ralts lost 9 HP (26 -> 17)
+[HP change] Ralts lost 9 HP (17 -> 8)
+[HP change] Ralts lost 8 HP (8 -> 0)
+"Ralts fainted!"
+"Hit 3 times!"
+[Use move] The opposing Timburr (1) used Rock Tomb
+"The opposing Timburr used Rock Tomb!"
+[HP change] Prinplup lost 14 HP (45 -> 31)
+[Stat change] Prinplup's Speed changed by -1 (-1 -> -2)
+"Prinplup's Speed fell!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Aipom lost 20 HP (20 -> 0)
+"The opposing Aipom fainted!"
+
+[End of round 2]
+[HP change] The opposing Timburr lost 3 HP (52 -> 49)
+"The opposing Timburr was hurt by its burn!"
+Trick Room Turns: 0
+"Go for it, Oddish!"
+     + 1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + 1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + 1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     + 1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     [Barboach] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Barboach] + 2 because we outspeed
+     [Barboach] + 4 because we have 2HKO
+[AI] Highest move score (29) vs Switch In Score (35)
+"Worker Joe sent out Barboach!"
+
+===== Round 3 =====
+
+     + 3 to factor in threat scoring.
+     + -3 to factor in threat scoring.
+     + 3 to factor in threat scoring.
+     + -3 to factor in threat scoring.
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Oddish (2): 0
+     Threat Score for Oddish (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (1) is considering using Protect (4)...
+     - 3 because this will be pointless
+[AI] Timburr (1) is considering using Mach Punch (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     -  1: move will fail
+[AI] Timburr (1) is considering using Mach Punch (1) against Oddish (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (1) is considering using Rock Tomb (1) against Oddish (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Rock Tomb (target 2): score 9
+   => will use Rock Tomb (target 2)
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Oddish (2): 0
+     Threat Score for Oddish (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (3) is considering using Bulldoze (1)...
+     + -3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     + 0 to factor in threat scoring.
+     move is useless against Timburr (1)
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Barboach (3) is considering using Water Pulse (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     -  1: move will fail
+[AI] Barboach (3) is considering using Water Pulse (1) against Oddish (2)...
+     + 2 to factor in threat scoring.
+[AI] Barboach (3) is considering using Icy Wind (1)...
+     + -3 to factor in threat scoring.
+     + 2 to factor in threat scoring.
+[AI] Move choices for Barboach (3):
+   * 100.0% to use Bulldoze: score 6
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bulldoze
+
+[Round order] The opposing Barboach (3), Oddish (2), the opposing Timburr (1), Prinplup (0)
+
+[Use move] The opposing Barboach (3) used Bulldoze
+"The opposing Barboach used Bulldoze!"
+[HP change] Prinplup lost 15 HP (31 -> 16)
+[HP change] The opposing Timburr lost 19 HP (49 -> 30)
+[HP change] Oddish lost 19 HP (50 -> 31)
+[Stat change] Prinplup's Speed changed by -1 (-2 -> -3)
+"Prinplup's Speed fell!"
+[Stat change] The opposing Timburr's Speed changed by -1 (0 -> -1)
+"The opposing Timburr's Speed fell!"
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+[Use move] Oddish (2) used Mega Drain
+"Oddish used Mega Drain!"
+[HP change] The opposing Barboach lost 46 HP (46 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Barboach fainted!"
+"The opposing Barboach had its energy drained!"
+[HP change] Oddish gained 19 HP (31 -> 50)
+"The Rindo Berry weakened the damage to the opposing Barboach!"
+[Item consumed] The opposing Barboach consumed its held Rindo Berry
+[Use move] The opposing Timburr (1) used Rock Tomb
+"The opposing Timburr used Rock Tomb!"
+[HP change] Oddish lost 19 HP (50 -> 31)
+[Stat change] Oddish's Speed changed by -1 (-1 -> -2)
+"Oddish's Speed fell!"
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Timburr lost 28 HP (30 -> 2)
+"It's super effective!"
+
+[End of round 3]
+[HP change] The opposing Timburr lost 2 HP (2 -> 0)
+"The opposing Timburr was hurt by its burn!"
+"The opposing Timburr fainted!"
+Trick Room Turns: 0
+     + -3 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     + -3 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     [Solrock] - 12 because they have kill with their highest damaging move against the current battler
+     [Solrock] + 2 because we outspeed
+     [Solrock] + 9 because we have kill
+[AI] Highest move score (14) vs Switch In Score (34)
+"Worker Steve sent out Solrock!"
+
+===== Round 4 =====
+
+Set up score for Prinplup (0): -3
+     Threat Score for Prinplup (0): -4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Oddish (2): -2
+     Threat Score for Oddish (2): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Confusion (1) against Prinplup (0)...
+     + -4 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Confusion (1) against Oddish (2)...
+     + -5 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + -4 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Rock Tomb (1) against Oddish (2)...
+     + -5 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Flame Wheel (1) against Prinplup (0)...
+     + -4 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Flame Wheel (1) against Oddish (2)...
+     + -5 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Confusion (target 2): score 0
+   * 100.0% to use Rock Tomb (target 0): score 17
+   *   0.0% to use Rock Tomb (target 2): score 0
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Rock Tomb (target 0)
+
+[Command phase] The opposing Barboach (3) is forced to use a multi-turn move
+[Round order] The opposing Solrock (1), Prinplup (0), Oddish (2), the opposing Barboach (3)
+
+"Oddish, come back!"
+"You're in charge, Luxio!"
+[Use move] The opposing Solrock (1) used Rock Tomb
+"The opposing Solrock used Rock Tomb!"
+[HP change] Prinplup lost 16 HP (16 -> 0)
+"Prinplup fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+"You're in charge, Oddish!"
+
+===== Round 5 =====
+
+Set up score for Oddish (0): 0
+     Threat Score for Oddish (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Luxio (2): 0
+     Threat Score for Luxio (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Confusion (1) against Oddish (0)...
+     + -3 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Confusion (1) against Luxio (2)...
+     + -1 to factor in threat scoring.
+[AI] Solrock (1) is considering using Rock Tomb (1) against Oddish (0)...
+     + -3 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Rock Tomb (1) against Luxio (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Solrock (1) is considering using Flame Wheel (1) against Oddish (0)...
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Flame Wheel (1) against Luxio (2)...
+     + -1 to factor in threat scoring.
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Confusion (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   * 100.0% to use Flame Wheel (target 0): score 18
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Flame Wheel (target 0)
+
+[Command phase] The opposing Barboach (3) is forced to use a multi-turn move
+[Round order] The opposing Solrock (1), Luxio (2), Oddish (0), the opposing Barboach (3)
+
+[Use move] The opposing Solrock (1) used Flame Wheel
+"The opposing Solrock used Flame Wheel!"
+[HP change] Oddish lost 31 HP (31 -> 0)
+"It's super effective!"
+"Oddish fainted!"
+[Use move] Luxio (2) used Bite
+"Luxio used Bite!"
+[HP change] The opposing Solrock lost 24 HP (59 -> 35)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Zubat!"
+
+===== Round 6 =====
+
+Set up score for Zubat (0): 0
+     Threat Score for Zubat (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Luxio (2): 0
+     Threat Score for Luxio (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Confusion (1) against Zubat (0)...
+     + -2 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Confusion (1) against Luxio (2)...
+     + -1 to factor in threat scoring.
+[AI] Solrock (1) is considering using Rock Tomb (1) against Zubat (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Solrock (1) is considering using Rock Tomb (1) against Luxio (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Solrock (1) is considering using Flame Wheel (1) against Zubat (0)...
+     + -2 to factor in threat scoring.
+     -  1: move will fail
+[AI] Solrock (1) is considering using Flame Wheel (1) against Luxio (2)...
+     + -1 to factor in threat scoring.
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Confusion (target 2): score 0
+   * 100.0% to use Rock Tomb (target 0): score 16
+   *   0.0% to use Rock Tomb (target 2): score 0
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Rock Tomb (target 0)
+
+[Command phase] The opposing Barboach (3) is forced to use a multi-turn move
+[Round order] Zubat (0), the opposing Solrock (1), Luxio (2), the opposing Barboach (3)
+
+[Use move] Zubat (0) used Astonish
+"Zubat used Astonish!"
+[HP change] The opposing Solrock lost 9 HP (35 -> 26)
+"It's super effective!"
+[Use move] The opposing Solrock (1) used Rock Tomb
+"The opposing Solrock used Rock Tomb!"
+[HP change] Zubat lost 46 HP (46 -> 0)
+"It's super effective!"
+"Zubat fainted!"
+[Use move] Luxio (2) used Bite
+"Luxio used Bite!"
+[HP change] The opposing Solrock lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Solrock fainted!"
+
+===== Player won =====
+
+"You defeated Worker Steve and Worker Joe!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $2,816 for winning!"
