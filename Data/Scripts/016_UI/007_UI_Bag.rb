@@ -181,6 +181,7 @@ class UI::BagVisuals < UI::BaseVisuals
     @mode = mode
     @show_move_details = false
     @pocket = @bag.last_viewed_pocket
+    $pocket = @pocket
     super()
   end
 
@@ -308,6 +309,7 @@ class UI::BagVisuals < UI::BaseVisuals
   end
 
   def set_pocket(new_pocket)
+    $pocket = new_pocket
     @pocket = new_pocket
     @bag.last_viewed_pocket = @pocket if @mode != :choose_item
     @sprites[:item_list].disable_sorting = !pocket_sortable?

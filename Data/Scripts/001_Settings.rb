@@ -405,7 +405,7 @@ module Settings
   DUST_ANIMATION_ID            = 2
   # ID of the animation played when the player finishes taking a step onto still
   # water (shows a water ripple).
-  WATER_RIPPLE_ANIMATION_ID    = 8
+  WATER_RIPPLE_ANIMATION_ID    = 9
   # ID of the animation played when a trainer notices the player (an exclamation
   # bubble).
   EXCLAMATION_ANIMATION_ID     = 3

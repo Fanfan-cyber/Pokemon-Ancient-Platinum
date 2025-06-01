@@ -61,8 +61,10 @@ module ItemHandlers
   # 0 - Item not used
   # 1 - Item used, don't end screen
   # 2 - Item used, end screen
-  def self.triggerUseFromBag(item)
-    return UseFromBag.trigger(item) if UseFromBag[item]
+  def self.triggerUseFromBag(item, bag_screen = nil)
+    if UseFromBag[item]
+      return UseFromBag.trigger(item, bag_screen)
+    end
     # No UseFromBag handler exists; check the UseInField handler if present
     if UseInField[item]
       return (UseInField.trigger(item)) ? 1 : 0
@@ -715,6 +717,7 @@ def pbUseItem(bag, item, bagscene = nil)
   return 0
 end
 
+
 # Only called when in the party screen and having chosen an item to be used on
 # the selected Pokémon
 def pbUseItemOnPokemon(item, pkmn, scene)
@@ -866,6 +869,7 @@ end
 #===============================================================================
 # Choose an item from the Bag
 #===============================================================================
+=begin
 def pbChooseItem(var = 0, *args)
   ret = nil
   pbFadeOutIn do
@@ -898,7 +902,7 @@ def pbChooseFossil(var = 0)
   $game_variables[var] = ret || :NONE if var > 0
   return ret
 end
-
+=end
 # Shows a list of items to choose from, with the chosen item's ID being stored
 # in the given Game Variable. Only items which the player has are listed.
 def pbChooseItemFromList(message, variable, *args)
@@ -945,3 +949,69 @@ end
 def pbCanPokemonHaveItemUsedOnIt?(pkmn, item)
   return pkmn && !pkmn.egg? && (!pkmn.hyper_mode || GameData::Item.get(item)&.is_scent?)
 end
+
+=begin
+def pbUseItem(bag, item, bagscene = nil)
+  itm = GameData::Item.get(item)
+  useType = itm.field_use
+  if useType == 1   # Item is usable on a Pokémon
+    if $player.pokemon_count == 0
+      pbMessage(_INTL("There is no Pokémon."))
+      return 0
+    end
+    ret = false
+    annot = nil
+    if itm.is_evolution_stone?
+      annot = []
+      $player.party.each do |pkmn|
+        elig = pkmn.check_evolution_on_use_item(item)
+        annot.push((elig) ? _INTL("ABLE") : _INTL("NOT ABLE"))
+      end
+    end
+    pbFadeOutIn do
+      scene = PokemonParty_Scene.new
+      screen = PokemonPartyScreen.new(scene, $player.party)
+      screen.pbStartScene(_INTL("Use on which Pokémon?"), false, annot)
+      loop do
+        scene.pbSetHelpText(_INTL("Use on which Pokémon?"))
+        chosen = screen.pbChoosePokemon
+        if chosen < 0
+          ret = false
+          break
+        end
+        pkmn = $player.party[chosen]
+        next if !pbCheckUseOnPokemon(item, pkmn, screen)
+        qty = 1
+        max_at_once = ItemHandlers.triggerUseOnPokemonMaximum(item, pkmn)
+        max_at_once = [max_at_once, $bag.quantity(item)].min
+        if max_at_once > 1
+          qty = screen.scene.pbChooseNumber(
+            _INTL("How many {1} do you want to use?", GameData::Item.get(item).portion_name_plural), max_at_once
+          )
+          screen.scene.pbSetHelpText("") if screen.is_a?(PokemonPartyScreen)
+        end
+        next if qty <= 0
+        ret = ItemHandlers.triggerUseOnPokemon(item, qty, pkmn, screen)
+        next unless ret && itm.consumed_after_use?
+        bag.remove(item, qty)
+        next if bag.has?(item)
+        pbMessage(_INTL("You used your last {1}.", itm.portion_name)) { screen.pbUpdate }
+        break
+      end
+      screen.pbEndScene
+      bagscene&.pbRefresh
+    end
+    return (ret) ? 1 : 0
+  elsif useType == 2 || itm.is_machine?   # Item is usable from Bag or teaches a move
+    intret = ItemHandlers.triggerUseFromBag(item)
+    if intret >= 0
+      bag.remove(item) if intret == 1 && itm.consumed_after_use?
+      return intret
+    end
+    pbMessage(_INTL("Can't use that here."))
+    return 0
+  end
+  pbMessage(_INTL("Can't use that here."))
+  return 0
+end
+=end
