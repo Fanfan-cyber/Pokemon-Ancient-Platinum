@@ -53127,3 +53127,33 @@ Roles for TOGETIC: [:SPEEDCONTROL, :SUPPORT]
 Roles for CHIMECHO: [:SPECIALBREAKER, :SETUPSWEEPER]
 Roles for BRUXISH: [:PHYSICALBREAKER]
 Roles for XATU: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Arrokuda appeared!"
+"Go! Gyarados!"
+[Round order] Gyarados (0), the wild Arrokuda (1)
+[Ability triggered] Gyarados's Intimidate
+[Stat change] The wild Arrokuda's Attack changed by -1 (0 -> -1)
+"The wild Arrokuda's Attack fell!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Burmy appeared!"
+"Go! Gyarados!"
+[Round order] Gyarados (0), the wild Burmy (1)
+[Ability triggered] Gyarados's Intimidate
+[Stat change] The wild Burmy's Attack changed by -1 (0 -> -1)
+"The wild Burmy's Attack fell!"
+
+===== Round 1 =====
+
