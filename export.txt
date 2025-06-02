@@ -1,0 +1,75 @@
+
+Piplup @ Oran Berry
+Level: 13
+Jolly Nature
+Ability: Torrent
+IVs: 31 HP / 19 Atk / 31 Def / 31 SpA / 7 SpD / 21 Spe
+- Pound
+- Growl
+- Water Gun
+- Icy Wind
+
+Starly @ Oran Berry
+Level: 13
+Lonely Nature
+Ability: Keen Eye
+IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
+- Tackle
+- Flash
+- Quick Attack
+- Wing Attack
+
+Sizzlipede @ Oran Berry
+Level: 13
+Quiet Nature
+Ability: White Smoke
+IVs: 19 HP / 10 Atk / 5 Def / 17 SpA / 15 SpD / 31 Spe
+- Ember
+- Smokescreen
+- Wrap
+- Bite
+
+Oddish @ Oran Berry
+Level: 13
+Sassy Nature
+Ability: Chlorophyll
+IVs: 16 HP / 26 Atk / 9 Def / 3 SpA / 11 SpD / 11 Spe
+- Mega Drain
+- Acid
+- Sweet Scent
+- Sludge
+
+Panpour @ Oran Berry
+Level: 13
+Hasty Nature
+Ability: Gluttony
+IVs: 27 HP / 19 Atk / 16 Def / 19 SpA / 3 SpD / 3 Spe
+- Fury Swipes
+- Play Nice
+- Water Gun
+- Lick
+
+Yamper @ Oran Berry
+Level: 13
+Adamant Nature
+Ability: Ball Fetch
+IVs: 28 HP / 18 Atk / 27 Def / 20 SpA / 18 SpD / 15 Spe
+- Tackle
+- Tail Whip
+- Nuzzle
+- Bite
+
+Magikarp
+Level: 4
+Calm Nature
+Ability: Swift Swim
+IVs: 18 HP / 0 Atk / 10 Def / 20 SpA / 9 SpD / 19 Spe
+- Splash
+
+Smoliv
+Level: 2
+Calm Nature
+Ability: Harvest
+IVs: 23 HP / 1 Atk / 22 Def / 28 SpA / 4 SpD / 31 Spe
+- Sweet Scent
+- Tackle
