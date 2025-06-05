@@ -1,75 +1,161 @@
 
-Piplup @ Oran Berry
-Level: 13
+Prinplup @ Oran Berry
+Level: 19
 Jolly Nature
 Ability: Torrent
 IVs: 31 HP / 19 Atk / 31 Def / 31 SpA / 7 SpD / 21 Spe
-- Pound
-- Growl
-- Water Gun
+- Bubble Beam
 - Icy Wind
-
-Starly @ Oran Berry
-Level: 13
-Lonely Nature
-Ability: Keen Eye
-IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
-- Tackle
-- Flash
-- Quick Attack
-- Wing Attack
+- Metal Claw
+- Pluck
 
 Sizzlipede @ Oran Berry
-Level: 13
+Level: 19
 Quiet Nature
 Ability: White Smoke
 IVs: 19 HP / 10 Atk / 5 Def / 17 SpA / 15 SpD / 31 Spe
-- Ember
-- Smokescreen
-- Wrap
+- Flame Wheel
 - Bite
+- Wrap
+- Smokescreen
 
 Oddish @ Oran Berry
-Level: 13
+Level: 19
 Sassy Nature
 Ability: Chlorophyll
 IVs: 16 HP / 26 Atk / 9 Def / 3 SpA / 11 SpD / 11 Spe
 - Mega Drain
-- Acid
-- Sweet Scent
 - Sludge
+- Sweet Scent
+- Sleep Powder
 
-Panpour @ Oran Berry
-Level: 13
-Hasty Nature
-Ability: Gluttony
-IVs: 27 HP / 19 Atk / 16 Def / 19 SpA / 3 SpD / 3 Spe
-- Fury Swipes
-- Play Nice
-- Water Gun
-- Lick
+Staravia @ Oran Berry
+Level: 19
+Lonely Nature
+Ability: Intimidate
+IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
+- Wing Attack
+- Flash
+- Quick Attack
+- Endeavor
 
 Yamper @ Oran Berry
-Level: 13
+Level: 19
 Adamant Nature
 Ability: Ball Fetch
 IVs: 28 HP / 18 Atk / 27 Def / 20 SpA / 18 SpD / 15 Spe
-- Tackle
-- Tail Whip
 - Nuzzle
 - Bite
+- Tackle
+- Roar
+
+Falinks @ Oran Berry
+Level: 19
+Naughty Nature
+Ability: Skill Link
+IVs: 1 HP / 18 Atk / 8 Def / 27 SpA / 29 SpD / 23 Spe
+- Headbutt
+- Rock Smash
+- Focus Energy
+- Protect
 
 Magikarp
-Level: 4
+Level: 19
 Calm Nature
 Ability: Swift Swim
 IVs: 18 HP / 0 Atk / 10 Def / 20 SpA / 9 SpD / 19 Spe
 - Splash
+- Tackle
 
 Smoliv
-Level: 2
+Level: 19
 Calm Nature
 Ability: Harvest
 IVs: 23 HP / 1 Atk / 22 Def / 28 SpA / 4 SpD / 31 Spe
-- Sweet Scent
+- Razor Leaf
+- Mach Pulse
+- Absorb
+- Helping Hand
+
+Shroodle
+Level: 19
+Lax Nature
+Ability: Pickpocket
+IVs: 13 HP / 21 Atk / 29 Def / 11 SpA / 29 SpD / 24 Spe
+- Poison Fang
+- Fury Swipes
+- Acid Spray
+- Bite
+
+Staryu
+Level: 19
+Adamant Nature
+Ability: Illuminate
+IVs: 17 HP / 8 Atk / 24 Def / 27 SpA / 12 SpD / 22 Spe
+- Flash
+- Water Gun
+- Confuse Ray
+- Rapid Spin
+
+Venipede
+Level: 19
+Naughty Nature
+Ability: Swarm
+IVs: 14 HP / 24 Atk / 4 Def / 14 SpA / 12 SpD / 8 Spe
+- Poison Tail
+- Bite
+- Rollout
+- Protect
+
+Zubat
+Level: 19
+Lonely Nature
+Ability: Inner Focus
+IVs: 8 HP / 27 Atk / 26 Def / 7 SpA / 12 SpD / 22 Spe
+- Poison Fang
+- Astonish
+- Absorb
+- Supersonic
+
+Drowzee
+Level: 19
+Brave Nature
+Ability: Forewarn
+IVs: 3 HP / 15 Atk / 9 Def / 14 SpA / 27 SpD / 21 Spe
+- Confusion
+- Headbutt
+- Hypnosis
+- Disable
+
+Geodude-Alolan
+Level: 4
+Hasty Nature
+Ability: Sturdy
+IVs: 27 HP / 29 Atk / 11 Def / 3 SpA / 14 SpD / 5 Spe
+- Tackle
+- Charge
+
+Morelull @ Tiny Mushroom
+Level: 3
+Lonely Nature
+Ability: Effect Spore
+IVs: 10 HP / 31 Atk / 23 Def / 20 SpA / 6 SpD / 18 Spe
+- Absorb
+- Astonish
+
+Panpour @ Oran Berry
+Level: 19
+Hasty Nature
+Ability: Gluttony
+IVs: 27 HP / 19 Atk / 16 Def / 19 SpA / 3 SpD / 3 Spe
+- Water Gun
+- Lick
+- Fury Swipes
+- Bite
+
+Nosepass
+Level: 2
+Quiet Nature
+Ability: Sturdy
+IVs: 6 HP / 12 Atk / 29 Def / 28 SpA / 0 SpD / 31 Spe
 - Tackle
