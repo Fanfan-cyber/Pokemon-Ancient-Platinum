@@ -183,25 +183,32 @@ ItemHandlers::UseInField.add(:SACREDASH, proc { |item|
   if $player.pokemon_count == 0
     pbMessage(_INTL("There is no Pokémon."))
     next false
-  elsif $player.pokemon_party.none? { |pkmn| pkmn.fainted? }
+  end
+  canrevive = false
+  $player.pokemon_party.each do |i|
+    next if !i.fainted?
+    canrevive = true
+    break
+  end
+  if !canrevive
     pbMessage(_INTL("It won't have any effect."))
     next false
   end
   revived = 0
   pbFadeOutIn do
-    screen = UI::Party.new($player.party, mode: :choose_pokemon)
-    screen.set_help_text(_INTL("Using item..."))
-    screen.show_and_hide do
-      $player.party.each_with_index do |pkmn, i|
-        next if !pkmn.fainted?
-        revived += 1
-        pkmn.heal
-        screen.refresh
-        pbSEPlay("Use item in party")
-        screen.show_message(_INTL("{1}'s HP was restored.", pkmn.name))
-      end
-      screen.show_message(_INTL("It won't have any effect.")) if revived == 0
+    scene = PokemonParty_Scene.new
+    screen = PokemonPartyScreen.new(scene, $player.party)
+    screen.pbStartScene(_INTL("Using item..."), false)
+    pbSEPlay("Use item in party")
+    $player.party.each_with_index do |pkmn, i|
+      next if !pkmn.fainted?
+      revived += 1
+      pkmn.heal
+      screen.pbRefreshSingle(i)
+      screen.pbDisplay(_INTL("{1}'s HP was restored.", pkmn.name))
     end
+    screen.pbDisplay(_INTL("It won't have any effect.")) if revived == 0
+    screen.pbEndScene
   end
   next (revived > 0)
 })
@@ -325,14 +332,13 @@ ItemHandlers::UseInField.copy(:ITEMFINDER, :DOWSINGMCHN, :DOWSINGMACHINE)
 
 #-------------------------------------------------------------------------------
 
-ItemHandlers::UseFromBag.add(:TOWNMAP, proc { |item, bag_screen|
-  pbFadeOutInWithUpdate(bag_screen&.sprites) do
-    town_map_screen = UI::TownMap.new
-    town_map_screen.main
-    if town_map_screen.result
-      $game_temp.fly_destination = town_map_screen.result
-      bag_screen&.silent_end_screen
-    end
+ItemHandlers::UseFromBag.add(:TOWNMAP, proc { |item|
+  pbFadeOutIn do
+    scene = PokemonRegionMap_Scene.new(-1, false)
+    screen = PokemonRegionMapScreen.new(scene)
+    ret = screen.pbStartScreen
+    $game_temp.fly_destination = ret if ret
+    next 99999 if ret   # Ugly hack to make Bag scene not reappear if flying
   end
   next ($game_temp.fly_destination) ? 2 : 0
 })
@@ -428,9 +434,9 @@ ItemHandlers::UseOnPokemon.addIf(:evolution_stones,
         evo.pbStartScreen(pkmn, new_species)
         evo.pbEvolution(false)
         evo.pbEndScreen
-        if scene.is_a?(UI::Party)
-          scene.set_able_annotation_proc(proc { |pkmn| !pkmn.check_evolution_on_use_item(item).nil? })
-          scene.refresh
+        if scene.is_a?(PokemonPartyScreen)
+          scene.pbRefreshAnnotations(proc { |p| !p.check_evolution_on_use_item(item).nil? })
+          scene.pbRefresh
         end
       end
       next true
@@ -457,10 +463,10 @@ ItemHandlers::UseOnPokemon.add(:SCROLLOFWATERS, proc { |item, qty, pkmn, scene|
       evo.pbStartScreen(pkmn, new_species)
       evo.pbEvolution(false)
       evo.pbEndScreen
-      if scene.is_a?(UI::Party)
-        scene.set_able_annotation_proc(proc { |p| !p.check_evolution_on_use_item(item).nil? })
-        scene.refresh
-      end
+      if scene.is_a?(PokemonPartyScreen)
+          scene.pbRefreshAnnotations(proc { |p| !p.check_evolution_on_use_item(item).nil? })
+          scene.pbRefresh
+        end
     end
     next true
   end
@@ -481,10 +487,10 @@ ItemHandlers::UseOnPokemon.add(:SCROLLOFDARKNESS, proc { |item, qty, pkmn, scene
       evo.pbStartScreen(pkmn, new_species)
       evo.pbEvolution(false)
       evo.pbEndScreen
-      if scene.is_a?(UI::Party)
-        scene.set_able_annotation_proc(proc { |pkmn| !pkmn.check_evolution_on_use_item(item).nil? })
-        scene.refresh
-      end
+      if scene.is_a?(PokemonPartyScreen)
+          scene.pbRefreshAnnotations(proc { |p| !p.check_evolution_on_use_item(item).nil? })
+          scene.pbRefresh
+        end
     end
     next true
   end
@@ -1230,7 +1236,7 @@ ItemHandlers::UseOnPokemon.add(:RARECANDY, proc { |item, qty, pkmn, scene|
       evo.pbStartScreen(pkmn, new_species)
       evo.pbEvolution
       evo.pbEndScreen
-      scene.refresh if scene.is_a?(UI::Party)
+      scene.refresh if scene.is_a?(PokemonPartyScreen)
     end
     next true
   end
