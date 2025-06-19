@@ -61948,3 +61948,2105 @@ Set up score for Oddish (0): 0
 "Where do you want to send Nosepass to?"
 "Where do you want to send Nosepass to?"
 "Nosepass has been sent to Box "Box 1"!"
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Prinplup and Sizzlipede!"
+[Round order] The opposing Aipom (1), Prinplup (0), Sizzlipede (2), the opposing Timburr (3)
+
+===== Round 1 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Sizzlipede (2): 0
+     Threat Score for Sizzlipede (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sizzlipede (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Prinplup (0)...
+     + 18 for using Fake Out turn 1
+[AI] Aipom (1) is considering using Fake Out (1) against Sizzlipede (2)...
+     + 18 for using Fake Out turn 1
+[AI] Aipom (1) is considering using Fury Swipes (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Sizzlipede (2)...
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Covet (1) against Sizzlipede (2)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Prinplup (0)...
+[AI] Aipom (1) is considering using Aerial Ace (1) against Sizzlipede (2)...
+[AI] Move choices for Aipom (1):
+   *  50.0% to use Fake Out (target 0): score 19
+   *  50.0% to use Fake Out (target 2): score 19
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 0)
+
+     - 5 to prevent Protect failure
+     + 5 to activate Guts/Flare Boost
+
+**Exception: wrong number of arguments (given 0, expected 1)
+[Phantombass AI] 04_AI_Battler.rb:298:in `either_target_can_2hko?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:371:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:67:in `trigger_status_moves'
+[Phantombass AI] 03_AI_Moves.rb:232:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:443:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:102:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:73:in `each'
+[Custom Scripts] 01_Dialogue.rb:73:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Falinks and Staravia!"
+[Round order] Staravia (2), the opposing Aipom (1), Falinks (0), the opposing Timburr (3)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Aipom's Attack changed by -1 (0 -> -1)
+"The opposing Aipom's Attack fell!"
+[Stat change] The opposing Timburr's Attack changed by -1 (0 -> -1)
+"The opposing Timburr's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Falinks (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+     - 5 to prevent Protect failure
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+
+**Exception: undefined local variable or method `user' for #<Battle::AI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:271:in `has_passive_healing?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:375:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:67:in `trigger_status_moves'
+[Phantombass AI] 03_AI_Moves.rb:232:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:443:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:102:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:73:in `each'
+[Custom Scripts] 01_Dialogue.rb:73:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Falinks and Staravia!"
+[Round order] Staravia (2), the opposing Aipom (1), Falinks (0), the opposing Timburr (3)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Aipom's Attack changed by -1 (0 -> -1)
+"The opposing Aipom's Attack fell!"
+[Stat change] The opposing Timburr's Attack changed by -1 (0 -> -1)
+"The opposing Timburr's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Falinks (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+     - 5 to prevent Protect failure
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+
+**Exception: undefined method `hasType?' for #<Battle::AI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:272:in `has_passive_healing?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:375:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:56:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:54:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:67:in `trigger_status_moves'
+[Phantombass AI] 03_AI_Moves.rb:232:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:59:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:443:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:102:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:73:in `each'
+[Custom Scripts] 01_Dialogue.rb:73:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Falinks and Staravia!"
+[Round order] Staravia (2), the opposing Aipom (1), Falinks (0), the opposing Timburr (3)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Aipom's Attack changed by -1 (0 -> -1)
+"The opposing Aipom's Attack fell!"
+[Stat change] The opposing Timburr's Attack changed by -1 (0 -> -1)
+"The opposing Timburr's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Falinks (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+     - 5 to prevent Protect failure
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     - 5 to prevent Protect failure
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+     - 7 because this will be pointless
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 9
+   => will use Rock Tomb (target 2)
+
+[Round order] Falinks (0), the opposing Aipom (1), Staravia (2), the opposing Timburr (3)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Aipom (1) used Fake Out
+"The opposing Aipom used Fake Out!"
+[HP change] Staravia lost 11 HP (53 -> 42)
+[Use move] Staravia (2) used Wing Attack
+"Staravia flinched and couldn't move!"
+[Use move] The opposing Timburr (3) used Rock Tomb
+"The opposing Timburr used Rock Tomb!"
+[HP change] Staravia lost 21 HP (42 -> 21)
+"It's super effective!"
+[HP change] Staravia gained 10 HP (21 -> 31)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+[Stat change] Staravia's Speed changed by -1 (0 -> -1)
+"Staravia's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Timburr was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Falinks and Staravia!"
+[Round order] Staravia (2), the opposing Aipom (1), Falinks (0), the opposing Timburr (3)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Aipom's Attack changed by -1 (0 -> -1)
+"The opposing Aipom's Attack fell!"
+[Stat change] The opposing Timburr's Attack changed by -1 (0 -> -1)
+"The opposing Timburr's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Falinks (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+     - 12 because this will be pointless
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 9
+   => will use Rock Tomb (target 2)
+
+[Round order] The opposing Aipom (1), Staravia (2), Falinks (0), the opposing Timburr (3)
+
+[Use move] The opposing Aipom (1) used Fake Out
+"The opposing Aipom used Fake Out!"
+[HP change] Staravia lost 11 HP (53 -> 42)
+[Use move] Staravia (2) used Wing Attack
+"Staravia flinched and couldn't move!"
+[Use move] Falinks (0) used Rock Smash
+"Falinks used Rock Smash!"
+[HP change] The opposing Aipom lost 40 HP (46 -> 6)
+"It's super effective!"
+[Stat change] The opposing Aipom's Defense changed by -1 (0 -> -1)
+"The opposing Aipom's Defense fell!"
+[Use move] The opposing Timburr (3) used Rock Tomb
+"The opposing Timburr used Rock Tomb!"
+[HP change] Staravia lost 24 HP (42 -> 18)
+"It's super effective!"
+[HP change] Staravia gained 10 HP (18 -> 28)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+[Stat change] Staravia's Speed changed by -1 (0 -> -1)
+"Staravia's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Timburr was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Falinks and Staravia!"
+[Round order] Staravia (2), the opposing Aipom (1), Falinks (0), the opposing Timburr (3)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Aipom's Attack changed by -1 (0 -> -1)
+"The opposing Aipom's Attack fell!"
+[Stat change] The opposing Timburr's Attack changed by -1 (0 -> -1)
+"The opposing Timburr's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Falinks (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   * 100.0% to use Protect: score 13
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   => will use Protect
+
+[Round order] The opposing Timburr (3), the opposing Aipom (1), Staravia (2), Falinks (0)
+
+[Use move] The opposing Timburr (3) used Protect
+"The opposing Timburr used Protect!"
+"The opposing Timburr protected itself!"
+[Use move] The opposing Aipom (1) used Fake Out
+"The opposing Aipom used Fake Out!"
+[HP change] Staravia lost 11 HP (53 -> 42)
+[Use move] Staravia (2) used Wing Attack
+"Staravia flinched and couldn't move!"
+[Use move] Falinks (0) used Rock Smash
+"Falinks used Rock Smash!"
+[HP change] The opposing Aipom lost 41 HP (46 -> 5)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Timburr was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + 2 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + 2 to factor in threat scoring.
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 5 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + 2 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   * 100.0% to use Fury Swipes (target 2): score 10
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fury Swipes (target 2)
+
+     - 15 to prevent Protect failure
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+     + 4 to avoid a strong hit
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 9
+   => will use Mach Punch (target 0)
+
+[Round order] Falinks (0), Staravia (2), the opposing Timburr (3), the opposing Aipom (1)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] Staravia (2) used Quick Attack
+"Staravia used Quick Attack!"
+[HP change] The opposing Aipom lost 5 HP (5 -> 0)
+"The opposing Aipom fainted!"
+"Falinks got 1 Exp. Points!"
+[Use move] The opposing Timburr (3) used Mach Punch
+"The opposing Timburr used Mach Punch!"
+"Falinks protected itself!"
+
+[End of round 2]
+[HP change] The opposing Timburr lost 3 HP (52 -> 49)
+"The opposing Timburr was hurt by its burn!"
+Trick Room Turns: 0
+     [Barboach] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Barboach] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Barboach] - 3 because we have no kill
+[AI] Highest move score (24) vs Switch In Score (20)
+"Worker Joe sent out Barboach!"
+
+===== Round 3 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 12
+     Predicted damage to Timburr (3): 18
+     + 4 to factor in threat scoring.
+     move will not affect Staravia (2)
+     Predicted damage to Barboach (1): 13
+     Predicted damage to Timburr (3): 19
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     + 93: score inverted (move targets ally but can target foe)
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Barboach (1) is considering using Water Pulse (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     + 4 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   * 100.0% to use Bulldoze: score 53
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bulldoze
+
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     + 4 to avoid a strong hit
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 9
+   => will use Rock Tomb (target 2)
+
+[Round order] Staravia (2), Falinks (0), the opposing Barboach (1), the opposing Timburr (3)
+
+"Falinks, come back!"
+"Go for it, Oddish!"
+[Use move] Staravia (2) used Wing Attack
+"Staravia used Wing Attack!"
+[HP change] The opposing Timburr lost 46 HP (49 -> 3)
+"It's super effective!"
+[Use move] The opposing Barboach (1) used Bulldoze
+"The opposing Barboach used Bulldoze!"
+[Target immune] Staravia's type immunity
+"It doesn't affect Staravia..."
+[HP change] Oddish lost 20 HP (49 -> 29)
+[HP change] The opposing Timburr lost 3 HP (3 -> 0)
+"The opposing Timburr fainted!"
+[Stat change] Oddish's Speed changed by -1 (0 -> -1)
+"Oddish's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+     + 4 to avoid a strong hit
+     [Solrock] + 2 because we outspeed
+     [Solrock] + 9 because we have kill
+[AI] Highest move score (9) vs Switch In Score (46)
+"Worker Steve sent out Solrock!"
+
+===== Round 4 =====
+
+Set up score for Oddish (0): -1
+     Threat Score for Oddish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 18
+     Predicted damage to Solrock (3): 0
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     move will not affect Staravia (2)
+     move will not affect Solrock (3)
+[AI] Barboach (1) is considering using Water Pulse (1) against Oddish (0)...
+     + 1 to factor in threat scoring.
+[AI] Barboach (1) is considering using Water Pulse (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     + 1 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Water Pulse (target 2): score 9
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 2)
+
+Set up score for Oddish (0): -1
+     Threat Score for Oddish (0): -4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (3) is considering using Confusion (1) against Oddish (0)...
+[AI] Solrock (3) is considering using Confusion (1) against Staravia (2)...
+[AI] Solrock (3) is considering using Rock Tomb (1) against Oddish (0)...
+[AI] Solrock (3) is considering using Rock Tomb (1) against Staravia (2)...
+      + 17 for slow kill
+[AI] Solrock (3) is considering using Flame Wheel (1) against Oddish (0)...
+      + 20 for fast kill
+[AI] Solrock (3) is considering using Flame Wheel (1) against Staravia (2)...
+[AI] Move choices for Solrock (3):
+   *   4.5% to use Confusion (target 0): score 1
+   *   0.0% to use Confusion (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   *  95.5% to use Flame Wheel (target 0): score 21
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] Staravia (2), the opposing Solrock (3), the opposing Barboach (1), Oddish (0)
+
+"Staravia, come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Solrock (3) used Flame Wheel
+"The opposing Solrock used Flame Wheel!"
+[HP change] Oddish lost 29 HP (29 -> 0)
+"It's super effective!"
+"Oddish fainted!"
+[Use move] The opposing Barboach (1) used Water Pulse
+"The opposing Barboach used Water Pulse!"
+[HP change] Prinplup lost 6 HP (59 -> 53)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+"You're in charge, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Barboach's Attack changed by -1 (0 -> -1)
+"The opposing Barboach's Attack fell!"
+[Stat change] The opposing Solrock's Attack changed by -1 (0 -> -1)
+"The opposing Solrock's Attack fell!"
+
+===== Round 5 =====
+
+Roles for TIMBURR: [:SPEEDCONTROL, :STATUSABSORBER]
+Roles for SOLROCK: [:SPEEDCONTROL]
+Roles for AIPOM: [:PHYSICALBREAKER]
+Roles for BARBOACH: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Worker Joe and Worker Steve!"
+"Worker Joe sent out Aipom!
+Worker Steve sent out Timburr!"
+"Go! Falinks and Staravia!"
+[Round order] Staravia (2), the opposing Aipom (1), Falinks (0), the opposing Timburr (3)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Aipom's Attack changed by -1 (0 -> -1)
+"The opposing Aipom's Attack fell!"
+[Stat change] The opposing Timburr's Attack changed by -1 (0 -> -1)
+"The opposing Timburr's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Aipom (1) is considering using Fake Out (1) against Falinks (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Fury Swipes (target 0): score 0
+   *   0.0% to use Fury Swipes (target 2): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fake Out (target 2)
+
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost
+     + 4 to avoid a strong hit
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   * 100.0% to use Protect: score 13
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   => will use Protect
+
+[Round order] The opposing Timburr (3), the opposing Aipom (1), Staravia (2), Falinks (0)
+
+[Use move] The opposing Timburr (3) used Protect
+"The opposing Timburr used Protect!"
+"The opposing Timburr protected itself!"
+[Use move] The opposing Aipom (1) used Fake Out
+"The opposing Aipom used Fake Out!"
+[HP change] Staravia lost 11 HP (53 -> 42)
+[Use move] Staravia (2) used Wing Attack
+"Staravia flinched and couldn't move!"
+[Use move] Falinks (0) used Rock Smash
+"Falinks used Rock Smash!"
+[HP change] The opposing Aipom lost 45 HP (46 -> 1)
+"It's super effective!"
+[Stat change] The opposing Aipom's Defense changed by -1 (0 -> -1)
+"The opposing Aipom's Defense fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Timburr was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aipom (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Aipom (1) is considering using Fury Swipes (1) against Falinks (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Fury Swipes (1) against Staravia (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aipom (1) is considering using Covet (1) against Falinks (0)...
+     + 2 to factor in threat scoring.
+[AI] Aipom (1) is considering using Covet (1) against Staravia (2)...
+     + 5 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Falinks (0)...
+     + 2 to factor in threat scoring.
+[AI] Aipom (1) is considering using Aerial Ace (1) against Staravia (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Aipom (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   * 100.0% to use Fury Swipes (target 2): score 10
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Covet (target 2): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Aerial Ace (target 2): score 0
+   => will use Fury Swipes (target 2)
+
+     - 15 to prevent Protect failure
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+     + 4 to avoid a strong hit
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 9
+   => will use Mach Punch (target 0)
+
+[Round order] Falinks (0), Staravia (2), the opposing Timburr (3), the opposing Aipom (1)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] Staravia (2) used Quick Attack
+"Staravia used Quick Attack!"
+[HP change] The opposing Aipom lost 1 HP (1 -> 0)
+"The opposing Aipom fainted!"
+"Falinks got 1 Exp. Points!"
+[Use move] The opposing Timburr (3) used Mach Punch
+"The opposing Timburr used Mach Punch!"
+"Falinks protected itself!"
+
+[End of round 2]
+[HP change] The opposing Timburr lost 3 HP (52 -> 49)
+"The opposing Timburr was hurt by its burn!"
+Trick Room Turns: 0
+     [Barboach] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Barboach] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Barboach] - 3 because we have no kill
+[AI] Highest move score (24) vs Switch In Score (20)
+"Worker Joe sent out Barboach!"
+
+===== Round 3 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 6
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 12
+     Predicted damage to Timburr (3): 19
+     + 6 to factor in threat scoring.
+     move will not affect Staravia (2)
+     Predicted damage to Barboach (1): 11
+     Predicted damage to Timburr (3): 19
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     + 93: score inverted (move targets ally but can target foe)
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Falinks (0)...
+     + 6 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Barboach (1) is considering using Water Pulse (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     + 6 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   * 100.0% to use Bulldoze: score 54
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bulldoze
+
+     + 4 to avoid a strong hit
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Timburr (3) is considering using Protect (4)...
+     + 4 to avoid a strong hit
+[AI] Timburr (3) is considering using Mach Punch (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Timburr (3) is considering using Mach Punch (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Timburr (3) is considering using Rock Tomb (1) against Staravia (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Timburr (3):
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Mach Punch (target 0): score 9
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 9
+   => will use Mach Punch (target 0)
+
+[Round order] The opposing Timburr (3), Staravia (2), Falinks (0), the opposing Barboach (1)
+
+"Staravia, come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Timburr (3) used Mach Punch
+"The opposing Timburr used Mach Punch!"
+[HP change] Falinks lost 21 HP (53 -> 32)
+"It's super effective!"
+[Use move] Falinks (0) used Headbutt
+"Falinks used Headbutt!"
+[HP change] The opposing Timburr lost 37 HP (49 -> 12)
+[Use move] The opposing Barboach (1) used Bulldoze
+"The opposing Barboach used Bulldoze!"
+[HP change] Falinks lost 12 HP (32 -> 20)
+[HP change] Prinplup lost 14 HP (59 -> 45)
+[HP change] The opposing Timburr lost 12 HP (12 -> 0)
+[HP change] Falinks gained 10 HP (20 -> 30)
+"Falinks restored a little HP using its Oran Berry!"
+[Item consumed] Falinks consumed its held Oran Berry
+"The opposing Timburr fainted!"
+[Stat change] Falinks's Speed changed by -1 (0 -> -1)
+"Falinks's Speed fell!"
+[Stat change] Prinplup's Speed changed by -1 (0 -> -1)
+"Prinplup's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+     + 4 to avoid a strong hit
+     [Solrock] + 2 because we outspeed
+     [Solrock] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Solrock] + 4 because we have 2HKO
+[AI] Highest move score (9) vs Switch In Score (35)
+"Worker Steve sent out Solrock!"
+
+===== Round 4 =====
+
+Set up score for Falinks (0): -1
+     Threat Score for Falinks (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): -1
+     Threat Score for Prinplup (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 13
+     Predicted damage to Solrock (3): 0
+     Predicted damage to Barboach (1): 11
+     Predicted damage to Solrock (3): 0
+     + 4 to prioritize highest damaging move
+     move will not affect Solrock (3)
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Falinks (0)...
+     + 4 to prioritize highest damaging move
+[AI] Barboach (1) is considering using Water Pulse (1) against Prinplup (2)...
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   *  50.0% to use Bulldoze: score 5
+   *  50.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+Set up score for Falinks (0): -1
+     Threat Score for Falinks (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): -1
+     Threat Score for Prinplup (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (3) is considering using Confusion (1) against Falinks (0)...
+     + 4 to prioritize highest damaging move
+[AI] Solrock (3) is considering using Confusion (1) against Prinplup (2)...
+[AI] Solrock (3) is considering using Rock Tomb (1) against Falinks (0)...
+[AI] Solrock (3) is considering using Rock Tomb (1) against Prinplup (2)...
+     + 4 to prioritize highest damaging move
+[AI] Solrock (3) is considering using Flame Wheel (1) against Falinks (0)...
+[AI] Solrock (3) is considering using Flame Wheel (1) against Prinplup (2)...
+[AI] Move choices for Solrock (3):
+   *  50.0% to use Confusion (target 0): score 5
+   *   0.0% to use Confusion (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  50.0% to use Rock Tomb (target 2): score 5
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Confusion (target 0)
+
+[Round order] The opposing Solrock (3), the opposing Barboach (1), Falinks (0), Prinplup (2)
+
+"Falinks, come back!"
+"You're in charge, Yamper!"
+[Use move] The opposing Solrock (3) used Confusion
+"The opposing Solrock used Confusion!"
+[HP change] Yamper lost 12 HP (56 -> 44)
+[Use move] The opposing Barboach (1) used Water Pulse
+"The opposing Barboach used Water Pulse!"
+[HP change] Yamper lost 14 HP (44 -> 30)
+[Use move] Prinplup (2) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Solrock lost 46 HP (59 -> 13)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Yamper (0): 0
+     Threat Score for Yamper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): -1
+     Threat Score for Prinplup (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 34
+     - 6 to avoid 2HKOing our ally
+     Predicted damage to Solrock (3): 0
+      + 20 for fast kill
+     Predicted damage to Barboach (1): 34
+     - 6 to avoid 2HKOing our ally
+     Predicted damage to Solrock (3): 0
+     + 4 to prioritize highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+     move will not affect Solrock (3)
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Yamper (0)...
+[AI] Barboach (1) is considering using Water Pulse (1) against Prinplup (2)...
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   * 100.0% to use Bulldoze: score 10
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Bulldoze
+
+Set up score for Yamper (0): 0
+     Threat Score for Yamper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): -1
+     Threat Score for Prinplup (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (3) is considering using Confusion (1) against Yamper (0)...
+     + 2 to factor in threat scoring.
+[AI] Solrock (3) is considering using Confusion (1) against Prinplup (2)...
+     + 1 to factor in threat scoring.
+[AI] Solrock (3) is considering using Rock Tomb (1) against Yamper (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Solrock (3) is considering using Rock Tomb (1) against Prinplup (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Solrock (3) is considering using Flame Wheel (1) against Yamper (0)...
+     + 2 to factor in threat scoring.
+[AI] Solrock (3) is considering using Flame Wheel (1) against Prinplup (2)...
+     + 1 to factor in threat scoring.
+[AI] Move choices for Solrock (3):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Confusion (target 2): score 0
+   * 100.0% to use Rock Tomb (target 0): score 7
+   *   0.0% to use Rock Tomb (target 2): score 0
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Flame Wheel (target 2): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Solrock (3), the opposing Barboach (1), Prinplup (2), Yamper (0)
+
+"Yamper, switch out! Come back!"
+"Your opponent's weak! Get 'em, Falinks!"
+[Use move] The opposing Solrock (3) used Rock Tomb
+"The opposing Solrock used Rock Tomb!"
+[HP change] Falinks lost 7 HP (30 -> 23)
+"It's not very effective..."
+[Stat change] Falinks's Speed changed by -1 (0 -> -1)
+"Falinks's Speed fell!"
+[Use move] The opposing Barboach (1) used Bulldoze
+"The opposing Barboach used Bulldoze!"
+[Ability triggered] The opposing Solrock's Levitate
+"The opposing Solrock avoided the attack!"
+[HP change] Falinks lost 13 HP (23 -> 10)
+[HP change] Prinplup lost 13 HP (45 -> 32)
+[Stat change] Falinks's Speed changed by -1 (-1 -> -2)
+"Falinks's Speed fell!"
+[Stat change] Prinplup's Speed changed by -1 (-1 -> -2)
+"Prinplup's Speed fell!"
+[Use move] Prinplup (2) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Solrock lost 13 HP (13 -> 0)
+"It's super effective!"
+"The opposing Solrock fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Falinks (0): -2
+     Threat Score for Falinks (0): -5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): -2
+     Threat Score for Prinplup (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 12
+      + 20 for fast kill
+     Predicted damage to Barboach (1): 13
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Falinks (0)...
+      + 20 for fast kill
+[AI] Barboach (1) is considering using Water Pulse (1) against Prinplup (2)...
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Water Pulse (target 0): score 21
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+[Command phase] The opposing Solrock (3) is forced to use a multi-turn move
+[Round order] Falinks (0), the opposing Barboach (1), Prinplup (2), the opposing Solrock (3)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Barboach (1) used Water Pulse
+"The opposing Barboach used Water Pulse!"
+"Falinks protected itself!"
+[Use move] Prinplup (2) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Barboach lost 29 HP (46 -> 17)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Falinks (0): -2
+     Threat Score for Falinks (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): -2
+     Threat Score for Prinplup (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barboach (1) is considering using Bulldoze (1)...
+     Predicted damage to Barboach (1): 13
+     - 6 to avoid 2HKOing our ally
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+     Predicted damage to Barboach (1): 14
+     - 6 to avoid 2HKOing our ally
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Barboach (1) is considering using Water Pulse (1) against Falinks (0)...
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Barboach (1) is considering using Water Pulse (1) against Prinplup (2)...
+     + 0 to factor in threat scoring.
+[AI] Barboach (1) is considering using Icy Wind (1)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Barboach (1):
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Water Pulse (target 0): score 18
+   *   0.0% to use Water Pulse (target 2): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Water Pulse (target 0)
+
+[Command phase] The opposing Solrock (3) is forced to use a multi-turn move
+[Round order] The opposing Barboach (1), Falinks (0), Prinplup (2), the opposing Solrock (3)
+
+"Good job, Falinks! Come back!"
+"You're in charge, Oddish!"
+[Use move] The opposing Barboach (1) used Water Pulse
+"The opposing Barboach used Water Pulse!"
+[HP change] Oddish lost 6 HP (49 -> 43)
+"It's not very effective..."
+[Use move] Prinplup (2) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Barboach lost 17 HP (17 -> 0)
+"The opposing Barboach fainted!"
+
+===== Player won =====
+
+"You defeated Worker Joe and Worker Steve!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $2,816 for winning!"
+Roles for SHIFTRY: [:WEATHERTERRAIN]
+Roles for TORTERRA: [:PHYSICALBREAKER, :LEAD]
+Roles for BELLOSSOM: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for SUNFLORA: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for CELEBI: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :STATUSABSORBER]
+Roles for ROSERADE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Gardenia!"
+"Gym Leader Gardenia sent out Shiftry!"
+"Go! Falinks!"
+[Round order] The opposing Shiftry (1), Falinks (0)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Gym Leader Gardenia!"
+"Wow. You're great!"
+
+"You got $3,500 for winning!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Falinks and Staravia!"
+[Round order] The opposing Luxray (3), the opposing Kecleon (1), Staravia (2), Falinks (0)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Falinks's Attack changed by -1 (0 -> -1)
+"Falinks's Attack fell!"
+[Stat change] Staravia's Attack changed by -1 (0 -> -1)
+"Staravia's Attack fell!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Kecleon's Attack changed by -1 (0 -> -1)
+"The opposing Kecleon's Attack fell!"
+[Stat change] The opposing Luxray's Attack changed by -1 (0 -> -1)
+"The opposing Luxray's Attack fell!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt and Team Galactic Grunt!"
+"Ugh."
+"Ugh."
+
+"You got $2,304 for winning!"
+Roles for BRONZONG: [:PHYSICALBREAKER, :LEAD]
+Roles for SWANNA: [:SPECIALBREAKER, :TANK]
+Roles for MAROWAK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for RILLABOOM: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SKUNTANK: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Admin Jupiter!"
+"Galactic Admin Jupiter sent out Bronzong!"
+"Go! Falinks!"
+[Round order] Falinks (0), the opposing Bronzong (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Galactic Admin Jupiter!"
+"Ugh."
+
+"You got $3,800 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wattrel appeared!"
+"Go! Falinks!"
+[Round order] The wild Wattrel (1), Falinks (0)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Mareep appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Mareep (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Hatenna appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Hatenna (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Budew appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Budew (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Applin appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Applin (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+Roles for GOTHITELLE: [:SUPPORT, :SPEEDCONTROL]
+Roles for FLORGES: [:SPECIALBREAKER, :TANK]
+Roles for DURALUDON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Cleffa appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Cleffa (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+Roles for AMPHAROS: [:SPECIALBREAKER]
+Roles for DRAGALGE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Croagunk appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Croagunk (1)
+
+===== Round 1 =====
+
+Roles for MRMIME: [:SCREENS]
+Roles for ZOROARK: [:SPECIALBREAKER]
+Roles for SLOWBRO: [:SPECIALBREAKER]
+Roles for HAWLUCHA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Mr. Mime!"
+"Go! Falinks!"
+[Round order] The opposing Mr. Mime (1), Falinks (0)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,600 for winning!"
+Roles for PYROAR: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for KINGAMBIT: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SLOWKING: [:SPECIALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Pyroar!"
+"Go! Falinks!"
+[Round order] The opposing Pyroar (1), Falinks (0)
+[Ability triggered] The opposing Pyroar's Lion's Pride
+"Your team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,600 for winning!"
+Roles for METAGROSS: [:PHYSICALBREAKER]
+Roles for SWAMPERT: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :LEAD]
+Roles for MANDIBUZZ: [:TOXICSTALLER, :TANK, :OFFENSIVEPIVOT]
+Roles for CINDERACE: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SERPERIOR: [:SPECIALBREAKER, :SPEEDCONTROL, :SETUPSWEEPER]
+Roles for TOXICROAK: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Admin Saturn!"
+"Galactic Admin Saturn sent out Metagross!"
+"Go! Falinks!"
+[Round order] The opposing Metagross (1), Falinks (0)
+"The opposing Metagross floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Galactic Admin Saturn!"
+"Ugh."
+
+"You got $5,100 for winning!"
+Roles for METAGROSS: [:PHYSICALBREAKER]
+Roles for SWAMPERT: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :LEAD]
+Roles for MANDIBUZZ: [:TOXICSTALLER, :TANK, :OFFENSIVEPIVOT]
+Roles for CINDERACE: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SERPERIOR: [:SPECIALBREAKER, :SPEEDCONTROL, :SETUPSWEEPER]
+Roles for TOXICROAK: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Admin Saturn!"
+"Galactic Admin Saturn sent out Metagross!"
+"Go! Falinks!"
+[Round order] The opposing Metagross (1), Falinks (0)
+"The opposing Metagross floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Galactic Admin Saturn!"
+"Ugh."
+
+"You got $5,100 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wooper appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Wooper (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Croagunk appeared!"
+"Go! Falinks!"
+[Round order] The wild Croagunk (1), Falinks (0)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Shellos appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Shellos (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+Roles for AMPHAROS: [:SPECIALBREAKER]
+Roles for DRAGALGE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Tympole appeared!"
+"Go! Falinks!"
+[Round order] The wild Tympole (1), Falinks (0)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wooper appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Wooper (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Shellos appeared!"
+"Go! Falinks!"
+[Round order] Falinks (0), the wild Shellos (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+Roles for TYRANITAR: [:PHYSICALBREAKER, :LEAD, :WEATHERTERRAIN]
+Roles for HOUNDSTONE: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for SIGILYPH: [:SPECIALBREAKER]
+Roles for RAGINGBOLT: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAINABUSER]
+Roles for LUCARIO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Tyranitar!"
+"Go! Falinks!"
+[Round order] The opposing Tyranitar (1), Falinks (0)
+[Ability triggered] The opposing Tyranitar's Sand Stream
+Roles for TYRANITAR: [:PHYSICALBREAKER, :LEAD, :WEATHERTERRAIN]
+Roles for HOUNDSTONE: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for SIGILYPH: [:SPECIALBREAKER]
+Roles for RAGINGBOLT: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAINABUSER]
+Roles for LUCARIO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Tyranitar!"
+"Go! Falinks!"
+[Round order] The opposing Tyranitar (1), Falinks (0)
+[Ability triggered] The opposing Tyranitar's Sand Stream
+"A sandstorm brewed!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Rival Barry!"
+"Ugh."
+
+"You got $880 for winning!"
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Falinks!"
+[Round order] The opposing Pelipper (1), Falinks (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Gym Leader Crasher Wake!"
+"Wow. You're great!"
+
+"You got $5,600 for winning!"
