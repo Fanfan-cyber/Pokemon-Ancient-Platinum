@@ -76024,3 +76024,1971 @@ Set up score for Staravia (2): 0
 "Where do you want to send Seedot to?"
 "Where do you want to send Seedot to?"
 "Seedot has been sent to Box "Box 1"!"
+Roles for GRIMER: [:PHYSICALBREAKER]
+Roles for ORTHWORM: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for DROWZEE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Grimer!"
+"Go! Hariyama!"
+[Round order] Hariyama (0), the opposing Grimer (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Grimer (1): 0
+Set up score for Grimer (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 6
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Grimer (1) is considering using Poison Fang (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Grimer (1) is considering using Bite (1) against Hariyama (0)...
+[AI] Grimer (1) is considering using Fire Punch (1) against Hariyama (0)...
+[AI] Move choices for Grimer (1):
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Hariyama (0), the opposing Grimer (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Grimer lost 29 HP (74 -> 45)
+[Use move] The opposing Grimer (1) used Poison Fang
+"The opposing Grimer flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Hariyama lost 6 HP (109 -> 103)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Grimer (1): 0
+Set up score for Grimer (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (1) is considering using Poison Fang (1) against Hariyama (0)...
+[AI] Grimer (1) is considering using Bite (1) against Hariyama (0)...
+[AI] Grimer (1) is considering using Fire Punch (1) against Hariyama (0)...
+[AI] Move choices for Grimer (1):
+   *  33.3% to use Poison Fang (target 0): score 1
+   *  33.3% to use Bite (target 0): score 1
+   *  33.3% to use Fire Punch (target 0): score 1
+   => will use Bite (target 0)
+
+[Round order] Hariyama (0), the opposing Grimer (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Grimer lost 45 HP (45 -> 0)
+"The opposing Grimer fainted!"
+"Hariyama got 1 Exp. Points!"
+
+[End of round 2]
+[HP change] Hariyama lost 6 HP (103 -> 97)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Orthworm] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Orthworm] - 3 because we have no kill
+     [Drowzee] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Drowzee] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Team Galactic Grunt sent out Drowzee!"
+[Ability triggered] The opposing Drowzee's Forewarn
+"The opposing Drowzee was alerted to Knock Off!"
+[Ability triggered] The opposing Drowzee's Forewarn
+[Stat change] The opposing Drowzee's Defense changed by +1 (0 -> 1)
+"The opposing Drowzee's Defense rose!"
+
+===== Round 3 =====
+
+     move will not affect Hariyama (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Psybeam (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Sludge (1) against Hariyama (0)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Drowzee (1) is considering using Hypnosis (4) against Hariyama (0)...
+     move will not affect Hariyama (0)
+     -  4: move will fail
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Psybeam (target 0): score 5
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] Hariyama (0), the opposing Drowzee (1)
+
+"Hariyama, come back!"
+"You're in charge, Sizzlipede!"
+[Use move] The opposing Drowzee (1) used Psybeam
+"The opposing Drowzee used Psybeam!"
+[HP change] Sizzlipede lost 24 HP (64 -> 40)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Psybeam (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Sludge (1) against Sizzlipede (0)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Sizzlipede (0)...
+[AI] Drowzee (1) is considering using Hypnosis (4) against Sizzlipede (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Psybeam (target 0): score 5
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] The opposing Drowzee (1), Sizzlipede (0)
+
+[Use move] The opposing Drowzee (1) used Psybeam
+"The opposing Drowzee used Psybeam!"
+[HP change] Sizzlipede lost 21 HP (40 -> 19)
+[HP change] Sizzlipede gained 10 HP (19 -> 29)
+"Sizzlipede restored a little HP using its Oran Berry!"
+[Item consumed] Sizzlipede consumed its held Oran Berry
+[Use move] Sizzlipede (0) used Leech Life
+"Sizzlipede used Leech Life!"
+[HP change] The opposing Drowzee lost 25 HP (67 -> 42)
+"It's super effective!"
+"The opposing Drowzee had its energy drained!"
+[HP change] Sizzlipede gained 13 HP (29 -> 42)
+"The Tanga Berry weakened the damage to the opposing Drowzee!"
+[Item consumed] The opposing Drowzee consumed its held Tanga Berry
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Psybeam (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Sludge (1) against Sizzlipede (0)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Sizzlipede (0)...
+[AI] Drowzee (1) is considering using Hypnosis (4) against Sizzlipede (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Psybeam (target 0): score 5
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] Sizzlipede (0), the opposing Drowzee (1)
+
+[Use move] Sizzlipede (0) used Leech Life
+"Sizzlipede used Leech Life!"
+[HP change] The opposing Drowzee lost 42 HP (42 -> 0)
+"It's super effective!"
+"The opposing Drowzee fainted!"
+"The opposing Drowzee had its energy drained!"
+[HP change] Sizzlipede gained 21 HP (42 -> 63)
+
+[End of round 5]
+Trick Room Turns: 0
+     [Orthworm] + 2 because we outspeed
+     [Orthworm] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (34)
+"Team Galactic Grunt sent out Orthworm!"
+
+===== Round 6 =====
+
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Fangs (1) against Sizzlipede (0)...
+[AI] Orthworm (1) is considering using Bite (1) against Sizzlipede (0)...
+[AI] Orthworm (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Orthworm (1):
+   *   0.0% to use Iron Fangs (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   => will use Bulldoze
+
+[Round order] The opposing Orthworm (1), Sizzlipede (0)
+
+[Use move] The opposing Orthworm (1) used Bulldoze
+"The opposing Orthworm used Bulldoze!"
+[HP change] Sizzlipede lost 21 HP (63 -> 42)
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Orthworm lost 24 HP (69 -> 45)
+"It's super effective!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Fangs (1) against Sizzlipede (0)...
+[AI] Orthworm (1) is considering using Bite (1) against Sizzlipede (0)...
+[AI] Orthworm (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Orthworm (1):
+   *   0.0% to use Iron Fangs (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   => will use Bulldoze
+
+[Round order] The opposing Orthworm (1), Sizzlipede (0)
+
+"Sizzlipede, come back!"
+"Go for it, Hariyama!"
+[Use move] The opposing Orthworm (1) used Bulldoze
+"The opposing Orthworm used Bulldoze!"
+[HP change] Hariyama lost 30 HP (97 -> 67)
+"A critical hit!"
+[Stat change] Hariyama's Speed changed by -1 (0 -> -1)
+"Hariyama's Speed fell!"
+
+[End of round 7]
+[HP change] Hariyama lost 6 HP (67 -> 61)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Hariyama (0): -1
+     Threat Score for Hariyama (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Fangs (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Orthworm (1) is considering using Bite (1) against Hariyama (0)...
+[AI] Orthworm (1) is considering using Bulldoze (1)...
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Iron Fangs (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Iron Fangs (target 0)
+
+[Round order] The opposing Orthworm (1), Hariyama (0)
+
+[Use move] The opposing Orthworm (1) used Iron Fangs
+"The opposing Orthworm used Iron Fangs!"
+[HP change] Hariyama lost 29 HP (61 -> 32)
+[HP change] Hariyama gained 10 HP (32 -> 42)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+[Use move] Hariyama (0) used Arm Thrust
+"Hariyama used Arm Thrust!"
+[HP change] The opposing Orthworm lost 18 HP (45 -> 27)
+[HP change] The opposing Orthworm gained 17 HP (27 -> 44)
+"The opposing Orthworm restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Orthworm consumed its held Sitrus Berry
+[HP change] The opposing Orthworm lost 20 HP (44 -> 24)
+[HP change] The opposing Orthworm lost 19 HP (24 -> 5)
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 8]
+[HP change] Hariyama lost 6 HP (42 -> 36)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Hariyama (0): -1
+     Threat Score for Hariyama (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Fangs (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Orthworm (1) is considering using Bite (1) against Hariyama (0)...
+[AI] Orthworm (1) is considering using Bulldoze (1)...
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Iron Fangs (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Iron Fangs (target 0)
+
+[Round order] The opposing Orthworm (1), Hariyama (0)
+
+"OK, Hariyama! Come back!"
+"Your opponent's weak! Get 'em, Gloom!"
+[Use move] The opposing Orthworm (1) used Iron Fangs
+"The opposing Orthworm used Iron Fangs!"
+[HP change] Gloom lost 25 HP (69 -> 44)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Fangs (1) against Gloom (0)...
+     + 4 to prioritize highest damaging move
+[AI] Orthworm (1) is considering using Bite (1) against Gloom (0)...
+[AI] Orthworm (1) is considering using Bulldoze (1)...
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Iron Fangs (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Iron Fangs (target 0)
+
+[Round order] The opposing Orthworm (1), Gloom (0)
+
+[Use move] The opposing Orthworm (1) used Iron Fangs
+"The opposing Orthworm used Iron Fangs!"
+[HP change] Gloom lost 36 HP (44 -> 8)
+"A critical hit!"
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[HP change] The opposing Orthworm lost 5 HP (5 -> 0)
+"It's not very effective..."
+"The opposing Orthworm fainted!"
+"The opposing Orthworm had its energy drained!"
+[HP change] Gloom gained 3 HP (8 -> 11)
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $736 for winning!"
+Roles for COMBUSKEN: [:PHYSICALBREAKER]
+Roles for MARSHTOMP: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :SPEEDCONTROL]
+Roles for GROVYLE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Combusken!"
+"Go! Hariyama!"
+[Round order] The opposing Combusken (1), Hariyama (0)
+
+===== Round 1 =====
+
+Set up score for Combusken (1): 0
+Set up score for Combusken (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Combusken (1) is considering using Double Kick (1) against Hariyama (0)...
+[AI] Combusken (1) is considering using Fire Punch (1) against Hariyama (0)...
+[AI] Combusken (1) is considering using Aerial Ace (1) against Hariyama (0)...
+[AI] Combusken (1) is considering using Thunder Punch (1) against Hariyama (0)...
+[AI] Move choices for Combusken (1):
+   *  25.0% to use Double Kick (target 0): score 1
+   *  25.0% to use Fire Punch (target 0): score 1
+   *  25.0% to use Aerial Ace (target 0): score 1
+   *  25.0% to use Thunder Punch (target 0): score 1
+   => will use Double Kick (target 0)
+
+[Round order] The opposing Combusken (1), Hariyama (0)
+
+[Use move] The opposing Combusken (1) used Double Kick
+"The opposing Combusken used Double Kick!"
+[HP change] Hariyama lost 15 HP (109 -> 94)
+[HP change] Hariyama lost 21 HP (94 -> 73)
+"A critical hit!"
+"Hit 2 times!"
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Combusken lost 57 HP (65 -> 8)
+
+[End of round 1]
+[HP change] Hariyama lost 6 HP (73 -> 67)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+[Ability triggered] The opposing Combusken's Speed Boost
+[Stat change] The opposing Combusken's Speed changed by +1 (0 -> 1)
+"The opposing Combusken's Speed rose!"
+
+===== Round 2 =====
+
+Set up score for Combusken (1): 1
+Set up score for Combusken (1): 1
+Set up score for Combusken (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Combusken (1) is considering using Double Kick (1) against Hariyama (0)...
+[AI] Combusken (1) is considering using Fire Punch (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Combusken (1) is considering using Aerial Ace (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Combusken (1) is considering using Thunder Punch (1) against Hariyama (0)...
+[AI] Move choices for Combusken (1):
+   *   0.0% to use Double Kick (target 0): score 0
+   *  50.0% to use Fire Punch (target 0): score 5
+   *  50.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Thunder Punch (target 0): score 0
+   => will use Fire Punch (target 0)
+
+[Round order] The opposing Combusken (1), Hariyama (0)
+
+"Hariyama, come back!"
+"Your opponent's weak! Get 'em, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Combusken's Attack changed by -1 (0 -> -1)
+"The opposing Combusken's Attack fell!"
+[Use move] The opposing Combusken (1) used Fire Punch
+"The opposing Combusken used Fire Punch!"
+[HP change] Staravia lost 30 HP (66 -> 36)
+
+[End of round 2]
+Trick Room Turns: 0
+[Ability triggered] The opposing Combusken's Speed Boost
+[Stat change] The opposing Combusken's Speed changed by +1 (1 -> 2)
+"The opposing Combusken's Speed rose!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Combusken (1): 0
+Set up score for Combusken (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Combusken (1) is considering using Double Kick (1) against Staravia (0)...
+[AI] Combusken (1) is considering using Fire Punch (1) against Staravia (0)...
+[AI] Combusken (1) is considering using Aerial Ace (1) against Staravia (0)...
+[AI] Combusken (1) is considering using Thunder Punch (1) against Staravia (0)...
+      + 20 for fast kill
+[AI] Move choices for Combusken (1):
+   *   0.0% to use Double Kick (target 0): score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Thunder Punch (target 0): score 21
+   => will use Thunder Punch (target 0)
+
+[Round order] Staravia (0), the opposing Combusken (1)
+
+[Use move] Staravia (0) used Quick Attack
+"Staravia used Quick Attack!"
+[HP change] The opposing Combusken lost 8 HP (8 -> 0)
+"The opposing Combusken fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Marshtomp] + 9 because we have kill
+     [Grovyle] - 12 because they have kill with their highest damaging move against the current battler
+     [Grovyle] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Team Galactic Grunt sent out Marshtomp!"
+
+===== Round 4 =====
+
+     move will not affect Staravia (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Marshtomp (1): 0
+Set up score for Marshtomp (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marshtomp (1) is considering using Flip Turn (1) against Staravia (0)...
+      + 17 for slow kill
+[AI] Marshtomp (1) is considering using Bulldoze (1)...
+     move will not affect Staravia (0)
+     -  1: move will fail
+[AI] Marshtomp (1) is considering using Rock Tomb (1) against Staravia (0)...
+      + 17 for slow kill
+[AI] Marshtomp (1) is considering using Avalanche (1) against Staravia (0)...
+      + 17 for slow kill
+[AI] Move choices for Marshtomp (1):
+   *  33.3% to use Flip Turn (target 0): score 18
+   *   0.0% to use Bulldoze: score 0
+   *  33.3% to use Rock Tomb (target 0): score 18
+   *  33.3% to use Avalanche (target 0): score 18
+   => will use Flip Turn (target 0)
+
+[Round order] Staravia (0), the opposing Marshtomp (1)
+
+"Staravia, come back!"
+"You're in charge, Gloom!"
+[Use move] The opposing Marshtomp (1) used Flip Turn
+"The opposing Marshtomp used Flip Turn!"
+[HP change] Gloom lost 13 HP (69 -> 56)
+"It's not very effective..."
+"The opposing Marshtomp went back to Team Galactic Grunt!"
+     [Grovyle] + 2 because we outspeed
+     [Grovyle] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Team Galactic Grunt sent out Grovyle!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Grovyle (1): 0
+Set up score for Grovyle (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grovyle (1) is considering using Bullet Seed (1) against Gloom (0)...
+[AI] Grovyle (1) is considering using Rock Tomb (1) against Gloom (0)...
+[AI] Grovyle (1) is considering using Acrobatics (1) against Gloom (0)...
+      + 20 for fast kill
+[AI] Grovyle (1) is considering using Brick Break (1) against Gloom (0)...
+[AI] Move choices for Grovyle (1):
+   *   0.0% to use Bullet Seed (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Acrobatics (target 0): score 21
+   *   0.0% to use Brick Break (target 0): score 0
+   => will use Acrobatics (target 0)
+
+[Round order] The opposing Grovyle (1), Gloom (0)
+
+[Use move] The opposing Grovyle (1) used Acrobatics
+"The opposing Grovyle used Acrobatics!"
+"The Flying Gem strengthened Acrobatics's power!"
+[HP change] Gloom lost 56 HP (56 -> 0)
+"It's super effective!"
+"Gloom fainted!"
+[Item consumed] The opposing Grovyle consumed its held Flying Gem
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Sizzlipede!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Grovyle (1): 0
+Set up score for Grovyle (1): 0
+     [Switch AI] -10 Not wasting Unburden
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grovyle (1) is considering using Bullet Seed (1) against Sizzlipede (0)...
+[AI] Grovyle (1) is considering using Rock Tomb (1) against Sizzlipede (0)...
+      + 20 for fast kill
+[AI] Grovyle (1) is considering using Acrobatics (1) against Sizzlipede (0)...
+      + 20 for fast kill
+[AI] Grovyle (1) is considering using Brick Break (1) against Sizzlipede (0)...
+[AI] Move choices for Grovyle (1):
+   *   0.0% to use Bullet Seed (target 0): score 0
+   *  50.0% to use Rock Tomb (target 0): score 21
+   *  50.0% to use Acrobatics (target 0): score 21
+   *   0.0% to use Brick Break (target 0): score 0
+   => will use Acrobatics (target 0)
+
+[Round order] The opposing Grovyle (1), Sizzlipede (0)
+
+[Use move] The opposing Grovyle (1) used Acrobatics
+"The opposing Grovyle used Acrobatics!"
+[HP change] Sizzlipede lost 64 HP (64 -> 0)
+"It's super effective!"
+"Sizzlipede fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"You're in charge, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Grovyle's Attack changed by -1 (0 -> -1)
+"The opposing Grovyle's Attack fell!"
+
+===== Round 7 =====
+
+Set up score for Grovyle (1): 0
+Set up score for Grovyle (1): 0
+     [Switch AI] -10 Not wasting Unburden
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grovyle (1) is considering using Bullet Seed (1) against Staravia (0)...
+[AI] Grovyle (1) is considering using Rock Tomb (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Grovyle (1) is considering using Acrobatics (1) against Staravia (0)...
+[AI] Grovyle (1) is considering using Brick Break (1) against Staravia (0)...
+[AI] Move choices for Grovyle (1):
+   *   0.0% to use Bullet Seed (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Grovyle (1), Staravia (0)
+
+[Use move] The opposing Grovyle (1) used Rock Tomb
+"The opposing Grovyle used Rock Tomb!"
+[HP change] Staravia lost 31 HP (36 -> 5)
+"It's super effective!"
+[HP change] Staravia gained 10 HP (5 -> 15)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+[Stat change] Staravia's Speed changed by -1 (0 -> -1)
+"Staravia's Speed fell!"
+[Use move] Staravia (0) used Wing Attack
+"Staravia used Wing Attack!"
+[HP change] The opposing Grovyle lost 63 HP (63 -> 0)
+"It's super effective!"
+"The opposing Grovyle fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Marshtomp] + 2 because we outspeed
+     [Marshtomp] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (46)
+"Team Galactic Grunt sent out Marshtomp!"
+
+===== Round 8 =====
+
+Set up score for Staravia (0): -1
+     Threat Score for Staravia (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marshtomp (1) is considering using Flip Turn (1) against Staravia (0)...
+      + 20 for fast kill
+[AI] Marshtomp (1) is considering using Bulldoze (1)...
+     move will not affect Staravia (0)
+     -  1: move will fail
+[AI] Marshtomp (1) is considering using Rock Tomb (1) against Staravia (0)...
+      + 20 for fast kill
+[AI] Marshtomp (1) is considering using Avalanche (1) against Staravia (0)...
+      + 20 for fast kill
+[AI] Move choices for Marshtomp (1):
+   *  33.3% to use Flip Turn (target 0): score 21
+   *   0.0% to use Bulldoze: score 0
+   *  33.3% to use Rock Tomb (target 0): score 21
+   *  33.3% to use Avalanche (target 0): score 21
+   => will use Flip Turn (target 0)
+
+[Round order] The opposing Marshtomp (1), Staravia (0)
+
+"Good job, Staravia! Come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Marshtomp (1) used Flip Turn
+"The opposing Marshtomp used Flip Turn!"
+[HP change] Hariyama lost 32 HP (67 -> 35)
+[HP change] Hariyama gained 10 HP (35 -> 45)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+
+[End of round 8]
+[HP change] Hariyama lost 6 HP (45 -> 39)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marshtomp (1) is considering using Flip Turn (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Marshtomp (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Marshtomp (1) is considering using Rock Tomb (1) against Hariyama (0)...
+[AI] Marshtomp (1) is considering using Avalanche (1) against Hariyama (0)...
+[AI] Move choices for Marshtomp (1):
+   *  50.0% to use Flip Turn (target 0): score 5
+   *  50.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Avalanche (target 0): score 0
+   => will use Flip Turn (target 0)
+
+[Round order] The opposing Marshtomp (1), Hariyama (0)
+
+[Use move] The opposing Marshtomp (1) used Flip Turn
+"The opposing Marshtomp used Flip Turn!"
+[HP change] Hariyama lost 29 HP (39 -> 10)
+[Use move] Hariyama (0) used Knock Off
+"Hariyama used Knock Off!"
+[HP change] The opposing Marshtomp lost 51 HP (72 -> 21)
+"The opposing Marshtomp dropped its Rindo Berry!"
+
+[End of round 9]
+[Ability triggered] The opposing Marshtomp's Resurgence
+[HP change] The opposing Marshtomp gained 4 HP (21 -> 25)
+"The opposing Marshtomp's HP was restored."
+[HP change] Hariyama lost 6 HP (10 -> 4)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marshtomp (1) is considering using Flip Turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Marshtomp (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Marshtomp (1) is considering using Rock Tomb (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Marshtomp (1) is considering using Avalanche (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Marshtomp (1):
+   *  25.0% to use Flip Turn (target 0): score 21
+   *  25.0% to use Bulldoze: score 21
+   *  25.0% to use Rock Tomb (target 0): score 21
+   *  25.0% to use Avalanche (target 0): score 21
+   => will use Bulldoze
+
+[Round order] The opposing Marshtomp (1), Hariyama (0)
+
+"Good job, Hariyama! Come back!"
+"Just a little more! Hang in there, Prinplup!"
+[Use move] The opposing Marshtomp (1) used Bulldoze
+"The opposing Marshtomp used Bulldoze!"
+[HP change] Prinplup lost 23 HP (74 -> 51)
+[Stat change] Prinplup's Speed changed by -1 (0 -> -1)
+"Prinplup's Speed fell!"
+
+[End of round 10]
+[Ability triggered] The opposing Marshtomp's Resurgence
+[HP change] The opposing Marshtomp gained 4 HP (25 -> 29)
+"The opposing Marshtomp's HP was restored."
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marshtomp (1) is considering using Flip Turn (1) against Prinplup (0)...
+[AI] Marshtomp (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Marshtomp (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Marshtomp (1) is considering using Avalanche (1) against Prinplup (0)...
+[AI] Move choices for Marshtomp (1):
+   *   0.0% to use Flip Turn (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Avalanche (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Marshtomp (1), Prinplup (0)
+
+[Use move] The opposing Marshtomp (1) used Bulldoze
+"The opposing Marshtomp used Bulldoze!"
+[HP change] Prinplup lost 25 HP (51 -> 26)
+[HP change] Prinplup gained 10 HP (26 -> 36)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[Stat change] Prinplup's Speed changed by -1 (-1 -> -2)
+"Prinplup's Speed fell!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Marshtomp lost 27 HP (29 -> 2)
+
+[End of round 11]
+[Ability triggered] The opposing Marshtomp's Resurgence
+[HP change] The opposing Marshtomp gained 4 HP (2 -> 6)
+"The opposing Marshtomp's HP was restored."
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marshtomp (1) is considering using Flip Turn (1) against Prinplup (0)...
+[AI] Marshtomp (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Marshtomp (1) is considering using Rock Tomb (1) against Prinplup (0)...
+[AI] Marshtomp (1) is considering using Avalanche (1) against Prinplup (0)...
+[AI] Move choices for Marshtomp (1):
+   *   0.0% to use Flip Turn (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Avalanche (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Marshtomp (1), Prinplup (0)
+
+[Use move] The opposing Marshtomp (1) used Bulldoze
+"The opposing Marshtomp used Bulldoze!"
+[HP change] Prinplup lost 25 HP (36 -> 11)
+[Stat change] Prinplup's Speed changed by -1 (-2 -> -3)
+"Prinplup's Speed fell!"
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Marshtomp lost 6 HP (6 -> 0)
+"A critical hit!"
+"The opposing Marshtomp fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $736 for winning!"
+Roles for MIGHTYENA: [:PHYSICALBREAKER]
+Roles for SNEASEL: [:PHYSICALBREAKER]
+Roles for STARAVIA: [:PHYSICALBREAKER]
+Roles for TINKATUFF: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Mightyena!"
+"Go! Hariyama!"
+[Round order] The opposing Mightyena (1), Hariyama (0)
+
+===== Round 1 =====
+
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Bite (1) against Hariyama (0)...
+[AI] Mightyena (1) is considering using Fire Fang (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Poison Fang (1) against Hariyama (0)...
+[AI] Mightyena (1) is considering using Thunder Fang (1) against Hariyama (0)...
+[AI] Move choices for Mightyena (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Fire Fang (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Fire Fang (target 0)
+
+[Round order] The opposing Mightyena (1), Hariyama (0)
+
+[Use move] The opposing Mightyena (1) used Fire Fang
+"The opposing Mightyena used Fire Fang!"
+[HP change] Hariyama lost 29 HP (109 -> 80)
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Mightyena lost 69 HP (69 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+[HP change] Hariyama lost 6 HP (80 -> 74)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Sneasel] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Sneasel] - 3 because we have no kill
+     [Staravia] - 12 because they have kill with their highest damaging move against the current battler
+     [Staravia] + 9 because we have kill
+     [Tinkatuff] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tinkatuff] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Team Galactic Grunt sent out Tinkatuff!"
+[Ability triggered] The opposing Tinkatuff's Mold Breaker
+"The opposing Tinkatuff breaks the mold!"
+
+===== Round 2 =====
+
+Set up score for Tinkatuff (1): 0
+Set up score for Tinkatuff (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkatuff (1) is considering using Fake Out (1) against Hariyama (0)...
+     + 18 for using Fake Out turn 1
+[AI] Tinkatuff (1) is considering using Covet (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tinkatuff (1) is considering using Metal Claw (1) against Hariyama (0)...
+[AI] Tinkatuff (1) is considering using Rock Smash (1) against Hariyama (0)...
+[AI] Move choices for Tinkatuff (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Rock Smash (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Tinkatuff (1), Hariyama (0)
+
+"Hariyama, come back!"
+"You're in charge, Sizzlipede!"
+[Use move] The opposing Tinkatuff (1) used Fake Out
+"The opposing Tinkatuff used Fake Out!"
+[HP change] Sizzlipede lost 12 HP (64 -> 52)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Tinkatuff (1): 0
+Set up score for Tinkatuff (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkatuff (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Tinkatuff (1) is considering using Covet (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tinkatuff (1) is considering using Metal Claw (1) against Sizzlipede (0)...
+[AI] Tinkatuff (1) is considering using Rock Smash (1) against Sizzlipede (0)...
+[AI] Move choices for Tinkatuff (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Rock Smash (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Tinkatuff (1), Sizzlipede (0)
+
+[Use move] The opposing Tinkatuff (1) used Covet
+"The opposing Tinkatuff used Covet!"
+[HP change] Sizzlipede lost 13 HP (52 -> 39)
+"It's not very effective..."
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Tinkatuff lost 49 HP (72 -> 23)
+"It's super effective!"
+[HP change] The opposing Tinkatuff gained 20 HP (23 -> 43)
+"The opposing Tinkatuff restored its health using its Berry Juice!"
+[Item consumed] The opposing Tinkatuff consumed its held Berry Juice
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Tinkatuff (1): 0
+Set up score for Tinkatuff (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkatuff (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Tinkatuff (1) is considering using Covet (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tinkatuff (1) is considering using Metal Claw (1) against Sizzlipede (0)...
+[AI] Tinkatuff (1) is considering using Rock Smash (1) against Sizzlipede (0)...
+[AI] Move choices for Tinkatuff (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Rock Smash (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Tinkatuff (1), Sizzlipede (0)
+
+[Use move] The opposing Tinkatuff (1) used Covet
+"The opposing Tinkatuff used Covet!"
+[HP change] Sizzlipede lost 13 HP (39 -> 26)
+"It's not very effective..."
+"The opposing Tinkatuff stole Sizzlipede's Oran Berry!"
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Tinkatuff lost 43 HP (43 -> 0)
+"It's super effective!"
+"The opposing Tinkatuff fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Sneasel] + 2 because we outspeed
+     [Sneasel] + 9 because we have kill
+     [Staravia] + 2 because we outspeed
+     [Staravia] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (46)
+"Team Galactic Grunt sent out Staravia!"
+[Ability triggered] The opposing Staravia's Intimidate
+[Ability triggered] Sizzlipede's White Smoke
+"Sizzlipede's stats cannot be lowered!"
+
+===== Round 5 =====
+
+     move will not affect Sizzlipede (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Staravia (1): 0
+Set up score for Staravia (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Staravia (1) is considering using Aerial Ace (1) against Sizzlipede (0)...
+      + 20 for fast kill
+[AI] Staravia (1) is considering using Quick Attack (1) against Sizzlipede (0)...
+[AI] Staravia (1) is considering using Steel Wing (1) against Sizzlipede (0)...
+[AI] Staravia (1) is considering using Endeavor (1) against Sizzlipede (0)...
+     move will not affect Sizzlipede (0)
+     -  1: move will fail
+[AI] Move choices for Staravia (1):
+   * 100.0% to use Aerial Ace (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Endeavor (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Staravia (1), Sizzlipede (0)
+
+"OK, Sizzlipede! Come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Staravia (1) used Aerial Ace
+"The opposing Staravia used Aerial Ace!"
+[HP change] Boltund lost 17 HP (76 -> 59)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Boltund (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Staravia (1): 0
+Set up score for Staravia (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Staravia (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Staravia (1) is considering using Quick Attack (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Staravia (1) is considering using Steel Wing (1) against Boltund (0)...
+[AI] Staravia (1) is considering using Endeavor (1) against Boltund (0)...
+     move will not affect Boltund (0)
+     -  1: move will fail
+[AI] Move choices for Staravia (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Endeavor (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Staravia (1), Boltund (0)
+
+[Use move] The opposing Staravia (1) used Quick Attack
+"The opposing Staravia used Quick Attack!"
+[HP change] Boltund lost 15 HP (59 -> 44)
+[Use move] Boltund (0) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Staravia lost 65 HP (65 -> 0)
+"It's super effective!"
+"The opposing Staravia fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Sneasel] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Sneasel] + 4 because we have 2HKO
+[AI] Highest move score (18) vs Switch In Score (33)
+"Team Galactic Grunt sent out Sneasel!"
+
+===== Round 7 =====
+
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sneasel (1) is considering using Poison Tail (1) against Boltund (0)...
+[AI] Sneasel (1) is considering using Brick Break (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sneasel (1) is considering using Feint Attack (1) against Boltund (0)...
+[AI] Sneasel (1) is considering using Septic Shot (1) against Boltund (0)...
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] Boltund (0), the opposing Sneasel (1)
+
+"Boltund, come back!"
+"You're in charge, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Sneasel's Attack changed by -1 (0 -> -1)
+"The opposing Sneasel's Attack fell!"
+[Use move] The opposing Sneasel (1) used Brick Break
+"The opposing Sneasel used Brick Break!"
+[HP change] Staravia lost 31 HP (66 -> 35)
+[Ability triggered] The opposing Sneasel's Poison Touch
+"Staravia was poisoned!"
+
+[End of round 7]
+[HP change] Staravia lost 8 HP (35 -> 27)
+"Staravia was hurt by poison!"
+[HP change] Staravia gained 10 HP (27 -> 37)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sneasel (1) is considering using Poison Tail (1) against Staravia (0)...
+[AI] Sneasel (1) is considering using Brick Break (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sneasel (1) is considering using Feint Attack (1) against Staravia (0)...
+[AI] Sneasel (1) is considering using Septic Shot (1) against Staravia (0)...
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Sneasel (1), Staravia (0)
+
+[Use move] The opposing Sneasel (1) used Brick Break
+"The opposing Sneasel used Brick Break!"
+[HP change] Staravia lost 37 HP (37 -> 0)
+"A critical hit!"
+"Staravia fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+"You're in charge, Hariyama!"
+
+===== Round 9 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sneasel (1) is considering using Poison Tail (1) against Hariyama (0)...
+[AI] Sneasel (1) is considering using Brick Break (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sneasel (1) is considering using Feint Attack (1) against Hariyama (0)...
+[AI] Sneasel (1) is considering using Septic Shot (1) against Hariyama (0)...
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] Hariyama (0), the opposing Sneasel (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Sneasel lost 29 HP (63 -> 34)
+[Use move] The opposing Sneasel (1) used Brick Break
+"The opposing Sneasel flinched and couldn't move!"
+
+[End of round 9]
+[HP change] Hariyama lost 6 HP (74 -> 68)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sneasel (1) is considering using Poison Tail (1) against Hariyama (0)...
+[AI] Sneasel (1) is considering using Brick Break (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sneasel (1) is considering using Feint Attack (1) against Hariyama (0)...
+[AI] Sneasel (1) is considering using Septic Shot (1) against Hariyama (0)...
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Sneasel (1), Hariyama (0)
+
+[Use move] The opposing Sneasel (1) used Brick Break
+"The opposing Sneasel used Brick Break!"
+[HP change] Hariyama lost 22 HP (68 -> 46)
+[Ability triggered] The opposing Sneasel's Poison Touch
+"It doesn't affect Hariyama..."
+[HP change] Hariyama gained 10 HP (46 -> 56)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Sneasel lost 29 HP (34 -> 5)
+"It's not very effective..."
+
+[End of round 10]
+[HP change] Hariyama lost 6 HP (56 -> 50)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sneasel (1) is considering using Poison Tail (1) against Hariyama (0)...
+[AI] Sneasel (1) is considering using Brick Break (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sneasel (1) is considering using Feint Attack (1) against Hariyama (0)...
+[AI] Sneasel (1) is considering using Septic Shot (1) against Hariyama (0)...
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Poison Tail (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   * 100.0% to use Septic Shot (target 0): score 10
+   => will use Septic Shot (target 0)
+
+[Round order] The opposing Sneasel (1), Hariyama (0)
+
+[Use move] The opposing Sneasel (1) used Septic Shot
+"The opposing Sneasel used Septic Shot!"
+[HP change] Hariyama lost 14 HP (50 -> 36)
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Sneasel lost 5 HP (5 -> 0)
+"It's not very effective..."
+"The opposing Sneasel fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $768 for winning!"
+Roles for PURUGLY: [:PHYSICALBREAKER]
+Roles for GOLBAT: [:NONE]
+Roles for BRONZOR: [:SPECIALBREAKER]
+Roles for ABSOL: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Admin Mars!"
+"Galactic Admin Mars sent out Purugly!"
+"Go! Staravia!"
+[Round order] The opposing Purugly (1), Staravia (0)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Purugly's Attack changed by -1 (0 -> -1)
+"The opposing Purugly's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Purugly (1): 0
+Set up score for Purugly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Purugly (1) is considering using Fake Out (1) against Staravia (0)...
+     + 18 for using Fake Out turn 1
+[AI] Purugly (1) is considering using Feint Attack (1) against Staravia (0)...
+[AI] Purugly (1) is considering using Aerial Ace (1) against Staravia (0)...
+[AI] Purugly (1) is considering using Fury Swipes (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Purugly (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Purugly (1), Staravia (0)
+
+"Staravia, switch out! Come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Purugly (1) used Fake Out
+"The opposing Purugly used Fake Out!"
+[HP change] Hariyama lost 13 HP (109 -> 96)
+
+[End of round 1]
+[HP change] Hariyama lost 6 HP (96 -> 90)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Purugly (1): 0
+Set up score for Purugly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Purugly (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Purugly (1) is considering using Feint Attack (1) against Hariyama (0)...
+[AI] Purugly (1) is considering using Aerial Ace (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Purugly (1) is considering using Fury Swipes (1) against Hariyama (0)...
+[AI] Move choices for Purugly (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] Hariyama (0), the opposing Purugly (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Purugly lost 25 HP (75 -> 50)
+[Use move] The opposing Purugly (1) used Aerial Ace
+"The opposing Purugly flinched and couldn't move!"
+
+[End of round 2]
+[HP change] Hariyama lost 6 HP (90 -> 84)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Purugly (1): 0
+Set up score for Purugly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Purugly (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Purugly (1) is considering using Feint Attack (1) against Hariyama (0)...
+[AI] Purugly (1) is considering using Aerial Ace (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Purugly (1) is considering using Fury Swipes (1) against Hariyama (0)...
+[AI] Move choices for Purugly (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Purugly (1), Hariyama (0)
+
+[Use move] The opposing Purugly (1) used Aerial Ace
+"The opposing Purugly used Aerial Ace!"
+[HP change] Hariyama lost 24 HP (84 -> 60)
+"It's super effective!"
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Purugly lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Purugly fainted!"
+
+[End of round 3]
+[HP change] Hariyama lost 6 HP (60 -> 54)
+"Hariyama was hurt by its burn!"
+[HP change] Hariyama gained 10 HP (54 -> 64)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+Trick Room Turns: 0
+     [Golbat] + 2 because we outspeed
+     [Golbat] + 4 because we have 2HKO
+     [Bronzor] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Bronzor] + 4 because we have 2HKO
+     [Absol] - 12 because they have kill with their highest damaging move against the current battler
+     [Absol] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (41)
+"Galactic Admin Mars sent out Golbat!"
+
+===== Round 4 =====
+
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Poison Fang (1) against Hariyama (0)...
+[AI] Golbat (1) is considering using Mega Drain (1) against Hariyama (0)...
+[AI] Move choices for Golbat (1):
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Golbat (1), Hariyama (0)
+
+"Hariyama, come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Golbat (1) used Aerial Ace
+"The opposing Golbat used Aerial Ace!"
+[HP change] Boltund lost 12 HP (76 -> 64)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Golbat (1) is considering using Poison Fang (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Mega Drain (1) against Boltund (0)...
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Boltund (0), the opposing Golbat (1)
+
+[Use move] Boltund (0) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Golbat lost 56 HP (77 -> 21)
+"It's super effective!"
+"The opposing Golbat is paralyzed! It may be unable to move!"
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat used Poison Fang!"
+[HP change] Boltund lost 20 HP (64 -> 44)
+"Boltund was badly poisoned!"
+
+[End of round 5]
+[HP change] The opposing Golbat gained 4 HP (21 -> 25)
+"The opposing Golbat restored a little HP using its Black Sludge!"
+[HP change] Boltund lost 4 HP (44 -> 40)
+"Boltund was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Golbat (1) is considering using Poison Fang (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Mega Drain (1) against Boltund (0)...
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Boltund (0), the opposing Golbat (1)
+
+[Use move] Boltund (0) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Golbat lost 25 HP (25 -> 0)
+"It's super effective!"
+"The opposing Golbat fainted!"
+
+[End of round 6]
+[HP change] Boltund lost 9 HP (40 -> 31)
+"Boltund was hurt by poison!"
+[HP change] Boltund gained 10 HP (31 -> 41)
+"Boltund restored a little HP using its Oran Berry!"
+[Item consumed] Boltund consumed its held Oran Berry
+Trick Room Turns: 0
+     [Bronzor] + 4 because we have 2HKO
+     [Absol] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Galactic Admin Mars sent out Absol!"
+[Ability triggered] The opposing Absol's Pressure
+"The opposing Absol is exerting its pressure!"
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Absol (1): 0
+Set up score for Absol (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Absol (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Absol (1) is considering using Psycho Cut (1) against Boltund (0)...
+[AI] Absol (1) is considering using Cut (1) against Boltund (0)...
+[AI] Move choices for Absol (1):
+   * 100.0% to use Bite (target 0): score 18
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Boltund (0), the opposing Absol (1)
+
+"Boltund, come back!"
+"You're in charge, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Absol's Attack changed by -1 (0 -> -1)
+"The opposing Absol's Attack fell!"
+[Use move] The opposing Absol (1) used Bite
+"The opposing Absol used Bite!"
+[HP change] Staravia lost 40 HP (66 -> 26)
+[HP change] Staravia gained 10 HP (26 -> 36)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Staravia (0)...
+      + 20 for fast kill
+[AI] Absol (1) is considering using Aerial Ace (1) against Staravia (0)...
+[AI] Absol (1) is considering using Psycho Cut (1) against Staravia (0)...
+[AI] Absol (1) is considering using Cut (1) against Staravia (0)...
+[AI] Move choices for Absol (1):
+   * 100.0% to use Bite (target 0): score 21
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Absol (1), Staravia (0)
+
+"Staravia, switch out! Come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Absol (1) used Bite
+"The opposing Absol used Bite!"
+[HP change] Hariyama lost 14 HP (64 -> 50)
+"It's not very effective..."
+
+[End of round 8]
+[HP change] Hariyama lost 6 HP (50 -> 44)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Hariyama (0)...
+[AI] Absol (1) is considering using Aerial Ace (1) against Hariyama (0)...
+[AI] Absol (1) is considering using Psycho Cut (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Absol (1) is considering using Cut (1) against Hariyama (0)...
+[AI] Move choices for Absol (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Psycho Cut (target 0): score 21
+   *   0.0% to use Cut (target 0): score 0
+   => will use Psycho Cut (target 0)
+
+[Round order] The opposing Absol (1), Hariyama (0)
+
+[Use move] The opposing Absol (1) used Psycho Cut
+"The opposing Absol used Psycho Cut!"
+[HP change] Hariyama lost 44 HP (44 -> 0)
+"It's super effective!"
+"Hariyama fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"You're in charge, Sizzlipede!"
+
+===== Round 10 =====
+
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Sizzlipede (0)...
+[AI] Absol (1) is considering using Aerial Ace (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Absol (1) is considering using Psycho Cut (1) against Sizzlipede (0)...
+[AI] Absol (1) is considering using Cut (1) against Sizzlipede (0)...
+[AI] Move choices for Absol (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Absol (1), Sizzlipede (0)
+
+[Use move] The opposing Absol (1) used Aerial Ace
+"The opposing Absol used Aerial Ace!"
+[HP change] Sizzlipede lost 52 HP (64 -> 12)
+"It's super effective!"
+[HP change] Sizzlipede gained 10 HP (12 -> 22)
+"Sizzlipede restored a little HP using its Oran Berry!"
+[Item consumed] Sizzlipede consumed its held Oran Berry
+[Use move] Sizzlipede (0) used Leech Life
+[Ability triggered] The opposing Absol's Pressure
+"Sizzlipede used Leech Life!"
+[HP change] The opposing Absol lost 54 HP (75 -> 21)
+"It's super effective!"
+"The opposing Absol had its energy drained!"
+[HP change] Sizzlipede gained 27 HP (22 -> 49)
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Sizzlipede (0)...
+[AI] Absol (1) is considering using Aerial Ace (1) against Sizzlipede (0)...
+      + 20 for fast kill
+[AI] Absol (1) is considering using Psycho Cut (1) against Sizzlipede (0)...
+[AI] Absol (1) is considering using Cut (1) against Sizzlipede (0)...
+[AI] Move choices for Absol (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 21
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Absol (1), Sizzlipede (0)
+
+"Sizzlipede, come back!"
+"Just a little more! Hang in there, Boltund!"
+[Use move] The opposing Absol (1) used Aerial Ace
+"The opposing Absol used Aerial Ace!"
+[HP change] Boltund lost 9 HP (41 -> 32)
+"It's not very effective..."
+
+[End of round 11]
+[HP change] Boltund lost 4 HP (32 -> 28)
+"Boltund was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+Set up score for Absol (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Absol (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Absol (1) is considering using Psycho Cut (1) against Boltund (0)...
+[AI] Absol (1) is considering using Cut (1) against Boltund (0)...
+[AI] Move choices for Absol (1):
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Boltund (0), the opposing Absol (1)
+
+[Use move] Boltund (0) used Spark
+[Ability triggered] The opposing Absol's Pressure
+"Boltund used Spark!"
+[HP change] The opposing Absol lost 21 HP (21 -> 0)
+"The opposing Absol fainted!"
+
+[End of round 12]
+[HP change] Boltund lost 9 HP (28 -> 19)
+"Boltund was hurt by poison!"
+Trick Room Turns: 0
+     [Bronzor] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Galactic Admin Mars sent out Bronzor!"
+
+===== Round 13 =====
+
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzor (1) is considering using Mirror Shot (1) against Boltund (0)...
+[AI] Bronzor (1) is considering using Psybeam (1) against Boltund (0)...
+[AI] Bronzor (1) is considering using Hidden Power (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Move choices for Bronzor (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Psybeam (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 18
+   => will use Hidden Power (target 0)
+
+[Round order] Boltund (0), the opposing Bronzor (1)
+
+"Good job, Boltund! Come back!"
+"You're in charge, Sizzlipede!"
+[Use move] The opposing Bronzor (1) used Hidden Power
+"The opposing Bronzor used Hidden Power!"
+[HP change] Sizzlipede lost 12 HP (49 -> 37)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzor (1) is considering using Mirror Shot (1) against Sizzlipede (0)...
+[AI] Bronzor (1) is considering using Psybeam (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzor (1) is considering using Hidden Power (1) against Sizzlipede (0)...
+[AI] Move choices for Bronzor (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   * 100.0% to use Psybeam (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] Sizzlipede (0), the opposing Bronzor (1)
+
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Bronzor lost 31 HP (71 -> 40)
+"It's super effective!"
+[Use move] The opposing Bronzor (1) used Psybeam
+"The opposing Bronzor used Psybeam!"
+[HP change] Sizzlipede lost 19 HP (37 -> 18)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzor (1) is considering using Mirror Shot (1) against Sizzlipede (0)...
+[AI] Bronzor (1) is considering using Psybeam (1) against Sizzlipede (0)...
+      + 17 for slow kill
+[AI] Bronzor (1) is considering using Hidden Power (1) against Sizzlipede (0)...
+[AI] Move choices for Bronzor (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   * 100.0% to use Psybeam (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] Sizzlipede (0), the opposing Bronzor (1)
+
+"OK, Sizzlipede! Come back!"
+"Go for it, Prinplup!"
+[Use move] The opposing Bronzor (1) used Psybeam
+"The opposing Bronzor used Psybeam!"
+[HP change] Prinplup lost 17 HP (74 -> 57)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzor (1) is considering using Mirror Shot (1) against Prinplup (0)...
+[AI] Bronzor (1) is considering using Psybeam (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzor (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Bronzor (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   * 100.0% to use Psybeam (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] Prinplup (0), the opposing Bronzor (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Bronzor lost 21 HP (40 -> 19)
+[Use move] The opposing Bronzor (1) used Psybeam
+"The opposing Bronzor used Psybeam!"
+[HP change] Prinplup lost 15 HP (57 -> 42)
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzor (1) is considering using Mirror Shot (1) against Prinplup (0)...
+[AI] Bronzor (1) is considering using Psybeam (1) against Prinplup (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzor (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Bronzor (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   * 100.0% to use Psybeam (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Psybeam (target 0)
+
+[Round order] Prinplup (0), the opposing Bronzor (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Bronzor lost 19 HP (19 -> 0)
+"The opposing Bronzor fainted!"
+
+===== Player won =====
+
+"You defeated Galactic Admin Mars!"
+"Ugh."
+
+"You got $2,500 for winning!"
