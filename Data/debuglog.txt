@@ -72785,3 +72785,3242 @@ Set up score for Prinplup (0): 0
 "Wow. You're great!"
 
 "You got $1,900 for winning!"
+Roles for CLEFAIRY: [:SPEEDCONTROL, :SUPPORT]
+Roles for SWINUB: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PRINPLUP: [:SPECIALBREAKER, :SPEEDCONTROL, :SETUPSWEEPER]
+Roles for CROAGUNK: [:PHYSICALBREAKER]
+Roles for EELEKTRIK: [:SPECIALBREAKER]
+Roles for STUNKY: [:SPECIALBREAKER]
+Roles for KROKOROK: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (2 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Croagunk!
+Team Galactic Grunt sent out Stunky!"
+"Rival Dawn sent out Clefairy!
+Go! Staravia!"
+[Round order] Staravia (0), the opposing Stunky (3), the opposing Croagunk (1), the ally Clefairy (2)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Croagunk's Attack changed by -1 (0 -> -1)
+"The opposing Croagunk's Attack fell!"
+[Stat change] The opposing Stunky's Attack changed by -1 (0 -> -1)
+"The opposing Stunky's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Croagunk (1) is considering using Fake Out (1) against Staravia (0)...
+     + 18 for using Fake Out turn 1
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Fake Out (1) against Clefairy (2)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Septic Shot (1) against Staravia (0)...
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Septic Shot (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Karate Chop (1) against Staravia (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Karate Chop (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Croagunk (1) is considering using Feint Attack (1) against Staravia (0)...
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Feint Attack (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Croagunk (1):
+   * 100.0% to use Fake Out (target 0): score 24
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Septic Shot (target 2): score 0
+   *   0.0% to use Karate Chop (target 0): score 0
+   *   0.0% to use Karate Chop (target 2): score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Feint Attack (target 2): score 0
+   => will use Fake Out (target 0)
+
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Croagunk (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Staravia (0)...
+     + 9 to give the boost ally needs to kill the target
+     + 5 to encourage status move use
+     + 1 to factor in threat scoring.
+     + 9 to give the boost ally needs to kill the target
+     + 5 to encourage status move use
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Draining Kiss (target 1): score 0
+   *   0.0% to use Draining Kiss (target 3): score 0
+   * 100.0% to use Helping Hand (target 0): score 33
+   => will use Helping Hand (target 0)
+
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 4 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     - 3 because this will be pointless
+     + 4 to factor in threat scoring.
+     - 4 because we see kill or target sees 2HKO
+     - 3 because this will be pointless
+     + -1 to factor in threat scoring.
+     - -1 because we see kill or target sees 2HKO
+     +  2: affects multiple battlers
+     - 2 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Staravia (0)...
+     + 4 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunky (3) is considering using Sludge (1) against Staravia (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *  35.7% to use Snarl: score 5
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *  64.3% to use Sludge (target 0): score 9
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Sludge (target 0)
+
+[Round order] The ally Clefairy (2), the opposing Croagunk (1), Staravia (0), the opposing Stunky (3)
+
+[Use move] The ally Clefairy (2) used Helping Hand
+"The ally Clefairy used Helping Hand!"
+"The ally Clefairy is ready to help Staravia!"
+[Use move] The opposing Croagunk (1) used Fake Out
+"The opposing Croagunk used Fake Out!"
+[HP change] Staravia lost 5 HP (66 -> 61)
+[Use move] Staravia (0) used Wing Attack
+"Staravia flinched and couldn't move!"
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] Staravia lost 13 HP (61 -> 48)
+"Staravia was poisoned!"
+
+[End of round 1]
+[HP change] Staravia lost 8 HP (48 -> 40)
+"Staravia was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Croagunk (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Croagunk (1) is considering using Septic Shot (1) against Staravia (0)...
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Septic Shot (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Karate Chop (1) against Staravia (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Karate Chop (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Croagunk (1) is considering using Feint Attack (1) against Staravia (0)...
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Feint Attack (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Croagunk (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Septic Shot (target 2): score 0
+   * 100.0% to use Karate Chop (target 0): score 10
+   *   0.0% to use Karate Chop (target 2): score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Feint Attack (target 2): score 0
+   => will use Karate Chop (target 0)
+
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Croagunk (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Staravia (0)...
+     + 9 to give the boost ally needs to kill the target
+     + 5 to encourage status move use
+     + 1 to factor in threat scoring.
+     + 9 to give the boost ally needs to kill the target
+     + 5 to encourage status move use
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Draining Kiss (target 1): score 0
+   *   0.0% to use Draining Kiss (target 3): score 0
+   * 100.0% to use Helping Hand (target 0): score 33
+   => will use Helping Hand (target 0)
+
+     set score to 1 if lower than 1 to prevent not using a move
+     move will not affect Staravia (0)
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 4 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Staravia (0)
+     - 3 because this will be pointless
+     + -1 to factor in threat scoring.
+     - -1 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Staravia (0)...
+     + 4 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunky (3) is considering using Sludge (1) against Staravia (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *  35.7% to use Snarl: score 5
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *  64.3% to use Sludge (target 0): score 9
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Snarl
+
+[Round order] The ally Clefairy (2), Staravia (0), the opposing Stunky (3), the opposing Croagunk (1)
+
+[Use move] The ally Clefairy (2) used Helping Hand
+"The ally Clefairy used Helping Hand!"
+"The ally Clefairy is ready to help Staravia!"
+[Use move] Staravia (0) used Wing Attack
+"Staravia used Wing Attack!"
+[HP change] The opposing Croagunk lost 53 HP (53 -> 0)
+"It's super effective!"
+"The opposing Croagunk fainted!"
+"Staravia got 1 Exp. Points!"
+[Use move] The opposing Stunky (3) used Snarl
+"The opposing Stunky used Snarl!"
+[HP change] Staravia lost 8 HP (40 -> 32)
+[HP change] The ally Clefairy lost 3 HP (64 -> 61)
+"It's not very effective..."
+[HP change] Staravia gained 10 HP (32 -> 42)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+[Stat change] Staravia's Special Attack changed by -1 (0 -> -1)
+"Staravia's Special Attack fell!"
+[Stat change] The ally Clefairy's Special Attack changed by -1 (0 -> -1)
+"The ally Clefairy's Special Attack fell!"
+
+[End of round 2]
+[HP change] Staravia lost 8 HP (42 -> 34)
+"Staravia was hurt by poison!"
+Trick Room Turns: 0
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     [Eelektrik] + 2 because we outspeed
+     [Eelektrik] + 9 because we have kill
+[AI] Highest move score (24) vs Switch In Score (46)
+"Team Galactic Grunt sent out Eelektrik!"
+
+===== Round 3 =====
+
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Staravia (0)...
+      + 17 for slow kill
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Clefairy (2)...
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Staravia (0)...
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Clefairy (2)...
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Staravia (0)...
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Clefairy (2)...
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Staravia (0)...
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Clefairy (2)...
+[AI] Move choices for Eelektrik (1):
+   * 100.0% to use Shock Wave (target 0): score 18
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Acid Spray (target 0): score 0
+   *   0.0% to use Acid Spray (target 2): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Giga Drain (target 2): score 0
+   => will use Shock Wave (target 0)
+
+     - 9 to prevent use since player is switching
+     - 9 to prevent use since player is switching
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Eelektrik (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Staravia (0)...
+     - 9 to prevent use since player is switching
+     + 5 to encourage status move use
+     + 1 to factor in threat scoring.
+     - 9 to prevent use since player is switching
+     + 5 to encourage status move use
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *  50.0% to use Draining Kiss (target 1): score 5
+   *  50.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 3)
+
+     set score to 1 if lower than 1 to prevent not using a move
+     move will not affect Staravia (0)
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 4 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Staravia (0)
+     - 3 because this will be pointless
+     + -1 to factor in threat scoring.
+     - -1 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Staravia (0)...
+     + 4 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunky (3) is considering using Sludge (1) against Staravia (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *  35.7% to use Snarl: score 5
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *  64.3% to use Sludge (target 0): score 9
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Sludge (target 0)
+
+[Round order] Staravia (0), the opposing Stunky (3), the opposing Eelektrik (1), the ally Clefairy (2)
+
+"Staravia, come back!"
+"You're in charge, Gloom!"
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] Gloom lost 8 HP (69 -> 61)
+[Use move] The opposing Eelektrik (1) used Shock Wave
+"The opposing Eelektrik used Shock Wave!"
+[HP change] Gloom lost 7 HP (61 -> 54)
+"It's not very effective..."
+[Use move] The ally Clefairy (2) used Draining Kiss
+"The ally Clefairy used Draining Kiss!"
+[HP change] The opposing Stunky lost 13 HP (58 -> 45)
+"The opposing Stunky had its energy drained!"
+[HP change] The ally Clefairy gained 3 HP (61 -> 64)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Gloom (0)...
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Clefairy (2)...
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Gloom (0)...
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Clefairy (2)...
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Gloom (0)...
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Clefairy (2)...
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Gloom (0)...
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Clefairy (2)...
+[AI] Move choices for Eelektrik (1):
+   *   9.1% to use Shock Wave (target 0): score 1
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Acid Spray (target 0): score 0
+   *  45.5% to use Acid Spray (target 2): score 5
+   *  45.5% to use Flame Burst (target 0): score 5
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Giga Drain (target 2): score 0
+   => will use Acid Spray (target 2)
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Eelektrik (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Gloom (0)...
+     - 3 because this will be pointless
+     + -1 to factor in threat scoring.
+     - -1 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *  50.0% to use Draining Kiss (target 1): score 5
+   *  50.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 1)
+
+     set score to 1 if lower than 1 to prevent not using a move
+     move will not affect Gloom (0)
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Gloom (0)
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Gloom (0)...
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+[AI] Stunky (3) is considering using Sludge (1) against Gloom (0)...
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Poison Gas: score 0
+   *  50.0% to use Flame Burst (target 0): score 5
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *  50.0% to use Sludge (target 2): score 5
+   => will use Sludge (target 2)
+
+[Round order] The opposing Stunky (3), the opposing Eelektrik (1), the ally Clefairy (2), Gloom (0)
+
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] The ally Clefairy lost 19 HP (64 -> 45)
+"It's super effective!"
+"The ally Clefairy was poisoned!"
+[Use move] The opposing Eelektrik (1) used Acid Spray
+"The opposing Eelektrik used Acid Spray!"
+[HP change] The ally Clefairy lost 16 HP (45 -> 29)
+"It's super effective!"
+[Stat change] The ally Clefairy's Special Defense changed by -2 (0 -> -2)
+"The ally Clefairy's Special Defense harshly fell!"
+[Use move] The ally Clefairy (2) used Draining Kiss
+"The ally Clefairy used Draining Kiss!"
+[HP change] The opposing Eelektrik lost 10 HP (62 -> 52)
+"The opposing Eelektrik had its energy drained!"
+[HP change] The ally Clefairy gained 8 HP (29 -> 37)
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[HP change] The opposing Eelektrik lost 33 HP (52 -> 19)
+"The opposing Eelektrik had its energy drained!"
+[HP change] Gloom gained 15 HP (54 -> 69)
+
+[End of round 4]
+[HP change] The ally Clefairy lost 8 HP (37 -> 29)
+"The ally Clefairy was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Clefairy (2)...
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Clefairy (2)...
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Clefairy (2)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Clefairy (2)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Eelektrik (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *  50.0% to use Shock Wave (target 2): score 18
+   *   0.0% to use Acid Spray (target 0): score 0
+   *  50.0% to use Acid Spray (target 2): score 18
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Giga Drain (target 2): score 0
+   => will use Shock Wave (target 2)
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Eelektrik (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Gloom (0)...
+     - 3 because this will be pointless
+     + 2 to factor in threat scoring.
+     - 2 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *  50.0% to use Draining Kiss (target 1): score 5
+   *  50.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 3)
+
+     move will not affect Gloom (0)
+     move will not affect Clefairy (2)
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Gloom (0)
+     move will not affect Clefairy (2)
+     -  4: move will fail
+[AI] Stunky (3) is considering using Flame Burst (1) against Gloom (0)...
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+[AI] Stunky (3) is considering using Sludge (1) against Gloom (0)...
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+      + 20 for fast kill
+[AI] Move choices for Stunky (3):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Poison Gas: score 0
+   *  19.2% to use Flame Burst (target 0): score 5
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *  80.8% to use Sludge (target 2): score 21
+   => will use Sludge (target 2)
+
+[Round order] The opposing Stunky (3), the opposing Eelektrik (1), the ally Clefairy (2), Gloom (0)
+
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] The ally Clefairy lost 29 HP (29 -> 0)
+"It's super effective!"
+"The ally Clefairy fainted!"
+[Use move] The opposing Eelektrik (1) used Shock Wave
+"The opposing Eelektrik used Shock Wave!"
+[HP change] Gloom lost 9 HP (69 -> 60)
+"It's not very effective..."
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[HP change] The opposing Eelektrik lost 19 HP (19 -> 0)
+"The opposing Eelektrik fainted!"
+"The opposing Eelektrik had its energy drained!"
+[HP change] Gloom gained 9 HP (60 -> 69)
+"Gloom got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Swinub] + 9 because we have kill
+     [Prinplup] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Rival Dawn sent out Prinplup!"
+
+===== Round 6 =====
+
+[Command phase] The opposing Eelektrik (1) is forced to use a multi-turn move
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): 0
+     Threat Score for Prinplup (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (2) is considering using Bubble Beam (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+[AI] Prinplup (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+[AI] Prinplup (2) is considering using Hidden Power (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Prinplup (2) is considering using Pluck (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+[AI] Move choices for Prinplup (2):
+   *   0.0% to use Bubble Beam (target 3): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Hidden Power (target 3): score 18
+   *   0.0% to use Pluck (target 3): score 0
+   => will use Hidden Power (target 3)
+
+     move will not affect Gloom (0)
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): 0
+     Threat Score for Prinplup (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 2 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Gloom (0)
+     - 3 because this will be pointless
+     + 2 to factor in threat scoring.
+     - 2 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Flame Burst (1) against Prinplup (2)...
+     + 2 to factor in threat scoring.
+[AI] Stunky (3) is considering using Sludge (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunky (3) is considering using Sludge (1) against Prinplup (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Poison Gas: score 0
+   *  36.4% to use Flame Burst (target 0): score 4
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *  63.6% to use Sludge (target 2): score 7
+   => will use Sludge (target 2)
+
+[Round order] The opposing Stunky (3), the ally Prinplup (2), Gloom (0), the opposing Eelektrik (1)
+
+"Gloom, come back!"
+"Go for it, Falinks!"
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] The ally Prinplup lost 13 HP (64 -> 51)
+[Use move] The ally Prinplup (2) used Hidden Power
+"The ally Prinplup used Hidden Power!"
+[HP change] The opposing Stunky lost 35 HP (45 -> 10)
+"A critical hit!"
+"It's super effective!"
+"The Shuca Berry weakened the damage to the opposing Stunky!"
+[Item consumed] The opposing Stunky consumed its held Shuca Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+[Command phase] The opposing Eelektrik (1) is forced to use a multi-turn move
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): 0
+     Threat Score for Prinplup (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (2) is considering using Bubble Beam (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Prinplup (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Prinplup (2) is considering using Hidden Power (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Prinplup (2) is considering using Pluck (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Move choices for Prinplup (2):
+   *  25.0% to use Bubble Beam (target 3): score 18
+   *  25.0% to use Icy Wind: score 18
+   *  25.0% to use Hidden Power (target 3): score 18
+   *  25.0% to use Pluck (target 3): score 18
+   => will use Icy Wind
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): 0
+     Threat Score for Prinplup (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 5 to factor in threat scoring.
+     + 2 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     - 3 because this will be pointless
+     + 5 to factor in threat scoring.
+     - 5 because we see kill or target sees 2HKO
+     - 3 because this will be pointless
+     + 2 to factor in threat scoring.
+     - 2 because we see kill or target sees 2HKO
+     +  2: affects multiple battlers
+     - 2 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Falinks (0)...
+     + 5 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Prinplup (2)...
+     + 2 to factor in threat scoring.
+[AI] Stunky (3) is considering using Sludge (1) against Falinks (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Prinplup (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *  37.5% to use Snarl: score 6
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *  62.5% to use Sludge (target 0): score 10
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Snarl
+
+[Round order] Falinks (0), the opposing Stunky (3), the ally Prinplup (2), the opposing Eelektrik (1)
+
+[Use move] Falinks (0) used Arm Thrust
+"Falinks used Arm Thrust!"
+[HP change] The opposing Stunky lost 10 HP (10 -> 0)
+[Ability triggered] The opposing Stunky's Aftermath
+[HP change] Falinks lost 16 HP (67 -> 51)
+"Falinks was caught in the aftermath!"
+"The opposing Stunky fainted!"
+"Hit 1 time!"
+"Falinks got 1 Exp. Points!"
+[Use move] The ally Prinplup (2) used Icy Wind
+"The ally Prinplup used Icy Wind!"
+"But there was no target..."
+
+[End of round 7]
+Trick Room Turns: 0
+     [Krokorok] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Krokorok] + 2 because we outspeed
+     [Krokorok] + 4 because we have 2HKO
+[AI] Highest move score (10) vs Switch In Score (35)
+"Team Galactic Grunt sent out Krokorok!"
+[Ability triggered] The opposing Krokorok's Intimidate
+[Stat change] Falinks's Attack changed by -1 (0 -> -1)
+"Falinks's Attack fell!"
+[Stat change] The ally Prinplup's Attack changed by -1 (0 -> -1)
+"The ally Prinplup's Attack fell!"
+[Ability triggered] The ally Prinplup's Competitive
+[Stat change] The ally Prinplup's Special Attack changed by +2 (0 -> 2)
+"The ally Prinplup's Special Attack rose sharply!"
+
+===== Round 8 =====
+
+[Command phase] The opposing Eelektrik (1) is forced to use a multi-turn move
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): 2
+     Threat Score for Prinplup (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (2) is considering using Bubble Beam (1) against Krokorok (3)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Prinplup (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Prinplup (2) is considering using Hidden Power (1) against Krokorok (3)...
+     + 0 to factor in threat scoring.
+[AI] Prinplup (2) is considering using Pluck (1) against Krokorok (3)...
+     + 0 to factor in threat scoring.
+[AI] Move choices for Prinplup (2):
+   *  50.0% to use Bubble Beam (target 3): score 18
+   *  50.0% to use Icy Wind: score 18
+   *   0.0% to use Hidden Power (target 3): score 0
+   *   0.0% to use Pluck (target 3): score 0
+   => will use Bubble Beam (target 3)
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Prinplup (2): 2
+     Threat Score for Prinplup (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Krokorok (3) is considering using Stomping Tantrum (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Krokorok (3) is considering using Stomping Tantrum (1) against Prinplup (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Krokorok (3) is considering using Bite (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Bite (1) against Prinplup (2)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Rock Tomb (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Rock Tomb (1) against Prinplup (2)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Fire Fang (1) against Falinks (0)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Fire Fang (1) against Prinplup (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Krokorok (3):
+   *  50.0% to use Stomping Tantrum (target 0): score 9
+   *  50.0% to use Stomping Tantrum (target 2): score 9
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Bite (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   *   0.0% to use Fire Fang (target 0): score 0
+   *   0.0% to use Fire Fang (target 2): score 0
+   => will use Stomping Tantrum (target 2)
+
+[Round order] Falinks (0), the opposing Krokorok (3), the ally Prinplup (2), the opposing Eelektrik (1)
+
+[Use move] Falinks (0) used Arm Thrust
+"Falinks used Arm Thrust!"
+[HP change] The opposing Krokorok lost 20 HP (60 -> 40)
+[HP change] The opposing Krokorok lost 18 HP (40 -> 22)
+[HP change] The opposing Krokorok lost 20 HP (22 -> 2)
+[HP change] The opposing Krokorok lost 2 HP (2 -> 0)
+"The opposing Krokorok fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt and Team Galactic Grunt!"
+"Ugh."
+"Ugh."
+
+"You got $1,280 for winning!"
+Roles for SKIPLOOM: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for LOMBRE: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for VOLTORB: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Taylor!"
+"Aroma Lady Taylor sent out Skiploom!"
+"Go! Staravia!"
+[Round order] Staravia (0), the opposing Skiploom (1)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Skiploom's Attack changed by -1 (0 -> -1)
+"The opposing Skiploom's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Skiploom (1): 0
+Set up score for Skiploom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Skiploom (1) is considering using Quick Attack (1) against Staravia (0)...
+[AI] Skiploom (1) is considering using Bullet Seed (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skiploom (1) is considering using U-turn (1) against Staravia (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Skiploom (1):
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Bullet Seed (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Staravia (0), the opposing Skiploom (1)
+
+[Use move] Staravia (0) used Wing Attack
+"Staravia used Wing Attack!"
+[HP change] The opposing Skiploom lost 58 HP (58 -> 0)
+"It's super effective!"
+"The opposing Skiploom fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Lombre] - 12 because they have kill with their highest damaging move against the current battler
+     [Lombre] - 3 because we have no kill
+     [Voltorb] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Voltorb] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Aroma Lady Taylor sent out Voltorb!"
+
+===== Round 2 =====
+
+Set up score for Voltorb (1): 0
+Set up score for Voltorb (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Voltorb (1) is considering using Mega Drain (1) against Staravia (0)...
+[AI] Voltorb (1) is considering using Hidden Power (1) against Staravia (0)...
+[AI] Voltorb (1) is considering using Self-Destruct (1)...
+[AI] Move choices for Voltorb (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Self-Destruct: score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Staravia (0), the opposing Voltorb (1)
+
+"Staravia, come back!"
+"You're in charge, Gloom!"
+[Use move] The opposing Voltorb (1) used Shock Wave
+"The opposing Voltorb used Shock Wave!"
+[HP change] Gloom lost 7 HP (69 -> 62)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Voltorb (1): 0
+Set up score for Voltorb (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Gloom (0)...
+[AI] Voltorb (1) is considering using Mega Drain (1) against Gloom (0)...
+[AI] Voltorb (1) is considering using Hidden Power (1) against Gloom (0)...
+     + 4 to prioritize highest damaging move
+[AI] Voltorb (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Voltorb (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   *  50.0% to use Hidden Power (target 0): score 5
+   *  50.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] The opposing Voltorb (1), Gloom (0)
+
+[Use move] The opposing Voltorb (1) used Self-Destruct
+"The opposing Voltorb used Self-Destruct!"
+[HP change] Gloom lost 21 HP (62 -> 41)
+[HP change] The opposing Voltorb lost 52 HP (52 -> 0)
+"The opposing Voltorb fainted!"
+[Use move] Gloom (0) used Sludge
+"Gloom used Sludge!"
+"But there was no target..."
+
+[End of round 3]
+Trick Room Turns: 0
+     set score to 1 if lower than 1 to prevent not using a move
+     [Lombre] - 12 because they have kill with their highest damaging move against the current battler
+     [Lombre] - 3 because we have no kill
+[AI] Highest move score (1) vs Switch In Score (20)
+"Aroma Lady Taylor sent out Lombre!"
+
+===== Round 4 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lombre (1) is considering using Fake Out (1) against Gloom (0)...
+     + 18 for using Fake Out turn 1
+[AI] Lombre (1) is considering using Mega Drain (1) against Gloom (0)...
+[AI] Lombre (1) is considering using Bubble Beam (1) against Gloom (0)...
+[AI] Lombre (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Lombre (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Lombre (1), Gloom (0)
+
+[Use move] The opposing Lombre (1) used Fake Out
+"The opposing Lombre used Fake Out!"
+[HP change] Gloom lost 7 HP (41 -> 34)
+[Use move] Gloom (0) used Sludge
+"Gloom flinched and couldn't move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lombre (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Lombre (1) is considering using Mega Drain (1) against Gloom (0)...
+[AI] Lombre (1) is considering using Bubble Beam (1) against Gloom (0)...
+[AI] Lombre (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Lombre (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Lombre (1), Gloom (0)
+
+[Use move] The opposing Lombre (1) used Icy Wind
+"The opposing Lombre used Icy Wind!"
+[HP change] Gloom lost 17 HP (34 -> 17)
+"It's super effective!"
+[Stat change] Gloom's Speed changed by -1 (0 -> -1)
+"Gloom's Speed fell!"
+[Use move] Gloom (0) used Sludge
+"Gloom used Sludge!"
+[HP change] The opposing Lombre lost 58 HP (60 -> 2)
+"It's super effective!"
+"The opposing Lombre was poisoned!"
+
+[End of round 5]
+[HP change] The opposing Lombre lost 2 HP (2 -> 0)
+"The opposing Lombre was hurt by poison!"
+"The opposing Lombre fainted!"
+Trick Room Turns: 0
+
+===== Player won =====
+
+"You defeated Aroma Lady Taylor!"
+"Wow. You're great!"
+
+"You got $640 for winning!"
+Roles for WORMADAM: [:SPECIALBREAKER]
+Roles for JOLTIK: [:SPECIALBREAKER]
+Roles for SIZZLIPEDE: [:PHYSICALBREAKER]
+Roles for SCYTHER: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Brandon!"
+"Bug Catcher Brandon sent out Wormadam!"
+"Go! Staravia!"
+[Round order] Staravia (0), the opposing Wormadam (1)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Wormadam's Attack changed by -1 (0 -> -1)
+"The opposing Wormadam's Attack fell!"
+
+===== Round 1 =====
+
+     move will not affect Staravia (0)
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Staravia (0)...
+     move will not affect Staravia (0)
+     -  1: move will fail
+[AI] Move choices for Wormadam (1):
+   * 100.0% to use Mirror Shot (target 0): score 5
+   *   0.0% to use Struggle Bug: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mirror Shot (target 0)
+
+[Round order] Staravia (0), the opposing Wormadam (1)
+
+"Staravia, switch out! Come back!"
+"You're in charge, Sizzlipede!"
+[Use move] The opposing Wormadam (1) used Mirror Shot
+"The opposing Wormadam used Mirror Shot!"
+[HP change] Sizzlipede lost 11 HP (64 -> 53)
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+     [Switch AI] +5 Party member [Sizzlipede] is immune to strongest move against Wormadam (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Sizzlipede (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Sizzlipede (0), the opposing Wormadam (1)
+
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Wormadam lost 27 HP (60 -> 33)
+"It's super effective!"
+"The Occa Berry weakened the damage to the opposing Wormadam!"
+[Item consumed] The opposing Wormadam consumed its held Occa Berry
+[Use move] The opposing Wormadam (1) used Hidden Power
+"The opposing Wormadam used Hidden Power!"
+[HP change] Sizzlipede lost 15 HP (53 -> 38)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+     [Switch AI] +5 Party member [Sizzlipede] is immune to strongest move against Wormadam (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     [Joltik] - 12 because they have kill with their highest damaging move against the current battler
+     [Joltik] + 4 because we have 2HKO
+     [Sizzlipede] + 3 because we absorb their highest damaging move against the current battler
+     [Sizzlipede] + 4 because we have 2HKO
+     [Scyther] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scyther] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (42)
+   => will switch with Sizzlipede
+
+[Round order] Sizzlipede (0), the opposing Wormadam (1)
+
+"Bug Catcher Brandon withdrew Wormadam!"
+"Bug Catcher Brandon sent out Sizzlipede!"
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[Ability triggered] The opposing Sizzlipede's Flash Fire
+"The power of the opposing Sizzlipede's Fire-type moves rose!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Sizzlipede (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Sizzlipede (1): 0
+Set up score for Sizzlipede (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sizzlipede (1) is considering using Flame Wheel (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sizzlipede (1) is considering using Bite (1) against Sizzlipede (0)...
+[AI] Sizzlipede (1) is considering using Leech Life (1) against Sizzlipede (0)...
+[AI] Sizzlipede (1) is considering using Will-O-Wisp (4) against Sizzlipede (0)...
+     move will not affect Sizzlipede (0)
+     -  4: move will fail
+[AI] Move choices for Sizzlipede (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Leech Life (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Sizzlipede (1), Sizzlipede (0)
+
+"Sizzlipede, come back!"
+"You're in charge, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Sizzlipede's Attack changed by -1 (0 -> -1)
+"The opposing Sizzlipede's Attack fell!"
+[Use move] The opposing Sizzlipede (1) used Flame Wheel
+"The opposing Sizzlipede used Flame Wheel!"
+[HP change] Staravia lost 24 HP (66 -> 42)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sizzlipede (1): 0
+Set up score for Sizzlipede (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sizzlipede (1) is considering using Flame Wheel (1) against Staravia (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sizzlipede (1) is considering using Bite (1) against Staravia (0)...
+[AI] Sizzlipede (1) is considering using Leech Life (1) against Staravia (0)...
+[AI] Sizzlipede (1) is considering using Will-O-Wisp (4) against Staravia (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Sizzlipede (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Leech Life (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] Staravia (0), the opposing Sizzlipede (1)
+
+[Use move] Staravia (0) used Wing Attack
+"Staravia used Wing Attack!"
+[HP change] The opposing Sizzlipede lost 56 HP (56 -> 0)
+"It's super effective!"
+"The opposing Sizzlipede fainted!"
+"Sizzlipede got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Wormadam] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Wormadam] + 4 because we have 2HKO
+     [Joltik] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Joltik] + 9 because we have kill
+     [Scyther] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scyther] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (38)
+"Bug Catcher Brandon sent out Joltik!"
+[Ability triggered] The opposing Joltik's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Joltik (1): 0
+Set up score for Joltik (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staravia (0): 0
+     Threat Score for Staravia (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Joltik (1) is considering using Shock Wave (1) against Staravia (0)...
+      + 17 for slow kill
+[AI] Joltik (1) is considering using Struggle Bug (1)...
+[AI] Joltik (1) is considering using Mega Drain (1) against Staravia (0)...
+[AI] Move choices for Joltik (1):
+   * 100.0% to use Shock Wave (target 0): score 18
+   *   0.0% to use Struggle Bug: score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Staravia (0), the opposing Joltik (1)
+
+"Staravia, come back!"
+"You're in charge, Gloom!"
+[Use move] The opposing Joltik (1) used Shock Wave
+"The opposing Joltik used Shock Wave!"
+[HP change] Gloom lost 7 HP (69 -> 62)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Joltik (1): 0
+Set up score for Joltik (1): 0
+     [Switch AI] +5 Party member [Wormadam] is immune to strongest move against Joltik (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Joltik (1) is considering using Shock Wave (1) against Gloom (0)...
+[AI] Joltik (1) is considering using Struggle Bug (1)...
+     + 4 to prioritize highest damaging move
+[AI] Joltik (1) is considering using Mega Drain (1) against Gloom (0)...
+[AI] Move choices for Joltik (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Struggle Bug: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Struggle Bug
+
+[Round order] The opposing Joltik (1), Gloom (0)
+
+[Use move] The opposing Joltik (1) used Struggle Bug
+"The opposing Joltik used Struggle Bug!"
+[HP change] Gloom lost 13 HP (62 -> 49)
+[Stat change] Gloom's Special Attack changed by -1 (0 -> -1)
+"Gloom's Special Attack fell!"
+[Use move] Gloom (0) used Sludge
+"Gloom used Sludge!"
+[HP change] The opposing Joltik lost 23 HP (58 -> 35)
+"The opposing Joltik was poisoned!"
+
+[End of round 7]
+[HP change] The opposing Joltik lost 7 HP (35 -> 28)
+"The opposing Joltik was hurt by poison!"
+[HP change] The opposing Joltik gained 20 HP (28 -> 48)
+"The opposing Joltik restored its health using its Berry Juice!"
+[Item consumed] The opposing Joltik consumed its held Berry Juice
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Joltik (1): 0
+Set up score for Joltik (1): 0
+     [Switch AI] +5 Party member [Wormadam] is immune to strongest move against Joltik (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Joltik (1) is considering using Shock Wave (1) against Gloom (0)...
+[AI] Joltik (1) is considering using Struggle Bug (1)...
+     + 4 to prioritize highest damaging move
+[AI] Joltik (1) is considering using Mega Drain (1) against Gloom (0)...
+[AI] Move choices for Joltik (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Struggle Bug: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Struggle Bug
+
+[Round order] The opposing Joltik (1), Gloom (0)
+
+"Gloom, come back!"
+"Go for it, Sizzlipede!"
+[Use move] The opposing Joltik (1) used Struggle Bug
+"The opposing Joltik used Struggle Bug!"
+[HP change] Sizzlipede lost 9 HP (38 -> 29)
+"It's not very effective..."
+
+[End of round 8]
+[HP change] The opposing Joltik lost 7 HP (48 -> 41)
+"The opposing Joltik was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Joltik (1): 0
+Set up score for Joltik (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Joltik (1) is considering using Shock Wave (1) against Sizzlipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Joltik (1) is considering using Struggle Bug (1)...
+[AI] Joltik (1) is considering using Mega Drain (1) against Sizzlipede (0)...
+[AI] Move choices for Joltik (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Struggle Bug: score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Joltik (1), Sizzlipede (0)
+
+[Use move] The opposing Joltik (1) used Shock Wave
+"The opposing Joltik used Shock Wave!"
+[HP change] Sizzlipede lost 21 HP (29 -> 8)
+[Use move] Sizzlipede (0) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Joltik lost 41 HP (41 -> 0)
+"It's super effective!"
+[HP change] Sizzlipede gained 10 HP (8 -> 18)
+"Sizzlipede restored a little HP using its Oran Berry!"
+[Item consumed] Sizzlipede consumed its held Oran Berry
+"The opposing Joltik fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     [Wormadam] - 12 because they have kill with their highest damaging move against the current battler
+     [Wormadam] + 4 because we have 2HKO
+     [Scyther] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scyther] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (38)
+"Bug Catcher Brandon sent out Scyther!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sizzlipede (0): 0
+     Threat Score for Sizzlipede (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Wing Attack (1) against Sizzlipede (0)...
+      + 20 for fast kill
+[AI] Scyther (1) is considering using Quick Attack (1) against Sizzlipede (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Sizzlipede (0)...
+      + 20 for fast kill
+[AI] Move choices for Scyther (1):
+   *  50.0% to use Wing Attack (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 21
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Scyther (1), Sizzlipede (0)
+
+"OK, Sizzlipede! Come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Scyther (1) used Wing Attack
+"The opposing Scyther used Wing Attack!"
+[HP change] Boltund lost 12 HP (76 -> 64)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Wing Attack (1) against Boltund (0)...
+[AI] Scyther (1) is considering using Quick Attack (1) against Boltund (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Boltund (0), the opposing Scyther (1)
+
+[Use move] Boltund (0) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Scyther lost 61 HP (66 -> 5)
+"It's super effective!"
+[Use move] The opposing Scyther (1) used Bug Bite
+"The opposing Scyther used Bug Bite!"
+[HP change] Boltund lost 37 HP (64 -> 27)
+"The opposing Scyther stole and ate its target's Oran Berry!"
+[HP change] The opposing Scyther gained 10 HP (5 -> 15)
+[Item triggered] Forced consuming of Oran Berry
+"The opposing Scyther's HP was restored."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Wing Attack (1) against Boltund (0)...
+[AI] Scyther (1) is considering using Quick Attack (1) against Boltund (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Bug Bite (target 0): score 18
+   => will use Bug Bite (target 0)
+
+[Round order] Boltund (0), the opposing Scyther (1)
+
+[Use move] Boltund (0) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Scyther lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Scyther fainted!"
+"Boltund got 1 Exp. Points!"
+
+[End of round 12]
+Trick Room Turns: 0
+     [Wormadam] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Wormadam] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+"Bug Catcher Brandon sent out Wormadam!"
+
+===== Round 13 =====
+
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Boltund (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Boltund (0), the opposing Wormadam (1)
+
+"OK, Boltund! Come back!"
+"Go for it, Prinplup!"
+[Use move] The opposing Wormadam (1) used Hidden Power
+"The opposing Wormadam used Hidden Power!"
+[HP change] Prinplup lost 13 HP (74 -> 61)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Prinplup (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+     + 4 to prioritize highest damaging move
+[AI] Wormadam (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   * 100.0% to use Struggle Bug: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Struggle Bug
+
+[Round order] Prinplup (0), the opposing Wormadam (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Wormadam lost 24 HP (33 -> 9)
+[Use move] The opposing Wormadam (1) used Struggle Bug
+"The opposing Wormadam used Struggle Bug!"
+[HP change] Prinplup lost 16 HP (61 -> 45)
+[Stat change] Prinplup's Special Attack changed by -1 (0 -> -1)
+"Prinplup's Special Attack fell!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Prinplup (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+     + 4 to prioritize highest damaging move
+[AI] Wormadam (1) is considering using Hidden Power (1) against Prinplup (0)...
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   * 100.0% to use Struggle Bug: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Struggle Bug
+
+[Round order] Prinplup (0), the opposing Wormadam (1)
+
+[Use move] Prinplup (0) used Aqua Jet
+"Prinplup used Aqua Jet!"
+[HP change] The opposing Wormadam lost 9 HP (9 -> 0)
+"The opposing Wormadam fainted!"
+"Prinplup got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Brandon!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for PLUSLE: [:SPECIALBREAKER]
+Roles for MINUN: [:WEATHERTERRAIN, :SUPPORT]
+Roles for PAWMO: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Twins Liv & Liz!"
+"Twins Liv & Liz sent out Plusle and Minun!"
+"Go! Drowzee and Falinks!"
+[Round order] The opposing Plusle (1), the opposing Minun (3), Falinks (2), Drowzee (0)
+[Ability triggered] Drowzee's Forewarn
+"Drowzee was alerted to Grass Knot!"
+[Ability triggered] Drowzee's Forewarn
+[Stat change] Drowzee's Special Defense changed by +1 (0 -> 1)
+"Drowzee's Special Defense rose!"
+
+===== Round 1 =====
+
+Set up score for Drowzee (0): 1
+     Threat Score for Drowzee (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Drowzee (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Plusle (1) is considering using Shock Wave (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Shock Wave (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Grass Knot (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Hidden Power (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Fake Out (1) against Drowzee (0)...
+     + 18 for using Fake Out turn 1
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Fake Out (1) against Falinks (2)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Move choices for Plusle (1):
+   *  20.8% to use Shock Wave (target 0): score 5
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Grass Knot (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *  79.2% to use Fake Out (target 0): score 19
+   *   0.0% to use Fake Out (target 2): score 0
+   => will use Shock Wave (target 0)
+
+Set up score for Drowzee (0): 1
+     Threat Score for Drowzee (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minun (3) is considering using Electric Terrain (4)...
+     - 3 because this will be pointless
+[AI] Minun (3) is considering using Helping Hand (4) against Plusle (1)...
+     + 5 to encourage status move use
+     + 0 to factor in threat scoring.
+     + 5 to encourage status move use
+[AI] Minun (3) is considering using Charge Beam (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Minun (3) is considering using Charge Beam (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Minun (3):
+   *   0.0% to use Electric Terrain: score 0
+   * 100.0% to use Helping Hand (target 1): score 14
+   *   0.0% to use Charge Beam (target 0): score 0
+   *   0.0% to use Charge Beam (target 2): score 0
+   => will use Helping Hand (target 1)
+
+[Round order] The opposing Minun (3), Falinks (2), the opposing Plusle (1), Drowzee (0)
+
+[Use move] The opposing Minun (3) used Helping Hand
+"The opposing Minun used Helping Hand!"
+"The opposing Minun is ready to help the opposing Plusle!"
+[Use move] Falinks (2) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Plusle (1) used Shock Wave
+"The opposing Plusle used Shock Wave!"
+[HP change] Drowzee lost 28 HP (65 -> 37)
+[Use move] Drowzee (0) used Psybeam
+"Drowzee used Psybeam!"
+[HP change] The opposing Minun lost 22 HP (62 -> 40)
+"A critical hit!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Drowzee (0): 1
+     Threat Score for Drowzee (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Shock Wave (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Grass Knot (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Hidden Power (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Grass Knot (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Shock Wave (target 0)
+
+     - 9 to prevent use since player is switching
+     - 9 to prevent use since player is switching
+Set up score for Drowzee (0): 1
+     Threat Score for Drowzee (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minun (3) is considering using Electric Terrain (4)...
+     - 3 because this will be pointless
+[AI] Minun (3) is considering using Helping Hand (4) against Plusle (1)...
+     - 9 to prevent use since player is switching
+     - -6 because this will be pointless
+     + 0 to factor in threat scoring.
+     - 0 because we see kill or target sees 2HKO
+     - 9 to prevent use since player is switching
+     - -9 because this will be pointless
+[AI] Minun (3) is considering using Charge Beam (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Minun (3) is considering using Charge Beam (1) against Falinks (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Minun (3):
+   *   0.0% to use Electric Terrain: score 0
+   *   0.0% to use Helping Hand (target 1): score 0
+   *   0.0% to use Charge Beam (target 0): score 0
+   * 100.0% to use Charge Beam (target 2): score 7
+   => will use Charge Beam (target 2)
+
+[Round order] The opposing Minun (3), the opposing Plusle (1), Falinks (2), Drowzee (0)
+
+"Drowzee, come back!"
+"Go for it, Nosepass!"
+[Use move] The opposing Minun (3) used Charge Beam
+"The opposing Minun used Charge Beam!"
+[HP change] Falinks lost 27 HP (67 -> 40)
+[Use move] The opposing Plusle (1) used Shock Wave
+"The opposing Plusle used Shock Wave!"
+[HP change] Nosepass lost 16 HP (51 -> 35)
+"It's not very effective..."
+[Use move] Falinks (2) used Arm Thrust
+"Falinks used Arm Thrust!"
+[HP change] The opposing Minun lost 13 HP (40 -> 27)
+[HP change] The opposing Minun lost 11 HP (27 -> 16)
+[HP change] The opposing Minun lost 14 HP (16 -> 2)
+[HP change] The opposing Minun lost 2 HP (2 -> 0)
+"The opposing Minun fainted!"
+"Hit 4 times!"
+"Drowzee got 1 Exp. Points!"
+"Nosepass got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     - 9 to prevent use since player is switching
+     - 9 to prevent use since player is switching
+     [Pawmo] + 2 because we outspeed
+     [Pawmo] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Pawmo] + 4 because we have 2HKO
+[AI] Highest move score (7) vs Switch In Score (35)
+"Twins Liv & Liz sent out Pawmo!"
+
+===== Round 3 =====
+
+Set up score for Nosepass (0): 0
+     Threat Score for Nosepass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Nosepass (0)...
+[AI] Plusle (1) is considering using Shock Wave (1) against Falinks (2)...
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Grass Knot (1) against Nosepass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Grass Knot (1) against Falinks (2)...
+[AI] Plusle (1) is considering using Hidden Power (1) against Nosepass (0)...
+[AI] Plusle (1) is considering using Hidden Power (1) against Falinks (2)...
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *  50.0% to use Shock Wave (target 2): score 5
+   *  50.0% to use Grass Knot (target 0): score 5
+   *   0.0% to use Grass Knot (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Shock Wave (target 2)
+
+Set up score for Nosepass (0): 0
+     Threat Score for Nosepass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (3) is considering using Fake Out (1) against Nosepass (0)...
+     + 18 for using Fake Out turn 1
+[AI] Pawmo (3) is considering using Fake Out (1) against Falinks (2)...
+     + 18 for using Fake Out turn 1
+[AI] Pawmo (3) is considering using Spark (1) against Nosepass (0)...
+[AI] Pawmo (3) is considering using Spark (1) against Falinks (2)...
+[AI] Pawmo (3) is considering using Mach Punch (1) against Nosepass (0)...
+[AI] Pawmo (3) is considering using Mach Punch (1) against Falinks (2)...
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Dig (1) against Nosepass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Dig (1) against Falinks (2)...
+[AI] Move choices for Pawmo (3):
+   *  50.0% to use Fake Out (target 0): score 19
+   *  50.0% to use Fake Out (target 2): score 19
+   *   0.0% to use Spark (target 0): score 0
+   *   0.0% to use Spark (target 2): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Dig (target 0): score 0
+   *   0.0% to use Dig (target 2): score 0
+   => will use Fake Out (target 0)
+
+[Round order] Falinks (2), the opposing Pawmo (3), the opposing Plusle (1), Nosepass (0)
+
+"Nosepass, switch out! Come back!"
+"You're in charge, Drowzee!"
+[Ability triggered] Drowzee's Forewarn
+"Drowzee was alerted to Dig!"
+[Ability triggered] Drowzee's Forewarn
+[Stat change] Drowzee's Defense changed by +1 (0 -> 1)
+"Drowzee's Defense rose!"
+[Use move] Falinks (2) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Pawmo (3) used Fake Out
+"The opposing Pawmo used Fake Out!"
+[HP change] Drowzee lost 10 HP (37 -> 27)
+[HP change] Drowzee gained 10 HP (27 -> 37)
+"Drowzee restored a little HP using its Oran Berry!"
+[Item consumed] Drowzee consumed its held Oran Berry
+[Use move] The opposing Plusle (1) used Shock Wave
+"The opposing Plusle used Shock Wave!"
+"Falinks protected itself!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Drowzee (0): 1
+     Threat Score for Drowzee (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Shock Wave (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Grass Knot (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Hidden Power (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Grass Knot (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Shock Wave (target 0)
+
+Set up score for Drowzee (0): 1
+     Threat Score for Drowzee (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Falinks (2): 0
+     Threat Score for Falinks (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (3) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmo (3) is considering using Spark (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Spark (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Pawmo (3) is considering using Mach Punch (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Mach Punch (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Dig (1) against Drowzee (0)...
+     + 0 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Dig (1) against Falinks (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Pawmo (3):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Spark (target 2): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Dig (target 0): score 0
+   *   0.0% to use Dig (target 2): score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Plusle (1), the opposing Pawmo (3), Falinks (2), Drowzee (0)
+
+"Falinks, come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Plusle (1) used Shock Wave
+"The opposing Plusle used Shock Wave!"
+[HP change] Drowzee lost 18 HP (37 -> 19)
+[Use move] The opposing Pawmo (3) used Spark
+"The opposing Pawmo used Spark!"
+[HP change] Drowzee lost 19 HP (19 -> 0)
+"Drowzee fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+"You're in charge, Gloom!"
+
+===== Round 5 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): 0
+     Threat Score for Boltund (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Shock Wave (1) against Boltund (2)...
+     + 4 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Grass Knot (1) against Boltund (2)...
+     + 4 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Boltund (2)...
+     + 4 to factor in threat scoring.
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *  33.3% to use Shock Wave (target 2): score 5
+   *   0.0% to use Grass Knot (target 0): score 0
+   *  33.3% to use Grass Knot (target 2): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  33.3% to use Hidden Power (target 2): score 5
+   *   0.0% to use Fake Out: score 0
+   => will use Grass Knot (target 2)
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): 0
+     Threat Score for Boltund (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (3) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmo (3) is considering using Spark (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Pawmo (3) is considering using Spark (1) against Boltund (2)...
+     + 1 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Mach Punch (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Pawmo (3) is considering using Mach Punch (1) against Boltund (2)...
+     + 1 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Dig (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Dig (1) against Boltund (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pawmo (3):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Spark (target 0): score 0
+   *  25.0% to use Spark (target 2): score 2
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Dig (target 0): score 0
+   *  75.0% to use Dig (target 2): score 6
+   => will use Dig (target 2)
+
+[Round order] Boltund (2), the opposing Plusle (1), the opposing Pawmo (3), Gloom (0)
+
+[Use move] Boltund (2) used Tackle
+"Boltund used Tackle!"
+[HP change] The opposing Pawmo lost 19 HP (62 -> 43)
+[Use move] The opposing Plusle (1) used Grass Knot
+"The opposing Plusle used Grass Knot!"
+[HP change] Boltund lost 16 HP (76 -> 60)
+[Use move] The opposing Pawmo (3) used Dig
+"The opposing Pawmo used Dig!"
+"The opposing Pawmo burrowed its way under the ground!"
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[Move failed] Target is semi-invulnerable
+"The opposing Pawmo avoided the attack!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): 0
+     Threat Score for Boltund (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Shock Wave (1) against Boltund (2)...
+     + 4 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Plusle (1) is considering using Grass Knot (1) against Boltund (2)...
+     + 4 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Gloom (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Boltund (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *  35.7% to use Shock Wave (target 2): score 5
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Grass Knot (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  64.3% to use Hidden Power (target 2): score 9
+   *   0.0% to use Fake Out: score 0
+   => will use Hidden Power (target 2)
+
+[Command phase] The opposing Pawmo (3) is forced to use a multi-turn move
+[Round order] Boltund (2), the opposing Plusle (1), the opposing Pawmo (3), Gloom (0)
+
+"Boltund, come back!"
+"You're in charge, Sizzlipede!"
+[Use move] The opposing Plusle (1) used Hidden Power
+"The opposing Plusle used Hidden Power!"
+[HP change] Sizzlipede lost 8 HP (64 -> 56)
+"It's not very effective..."
+[Use move] The opposing Pawmo (3) used Dig
+"The opposing Pawmo used Dig!"
+[HP change] Sizzlipede lost 25 HP (56 -> 31)
+[HP change] Sizzlipede gained 10 HP (31 -> 41)
+"Sizzlipede restored a little HP using its Oran Berry!"
+[Item consumed] Sizzlipede consumed its held Oran Berry
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[HP change] The opposing Pawmo lost 41 HP (43 -> 2)
+"The opposing Pawmo had its energy drained!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Sizzlipede (2): 0
+     Threat Score for Sizzlipede (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Gloom (0)...
+[AI] Plusle (1) is considering using Shock Wave (1) against Sizzlipede (2)...
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Grass Knot (1) against Gloom (0)...
+[AI] Plusle (1) is considering using Grass Knot (1) against Sizzlipede (2)...
+[AI] Plusle (1) is considering using Hidden Power (1) against Gloom (0)...
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Sizzlipede (2)...
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *  50.0% to use Shock Wave (target 2): score 5
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Grass Knot (target 2): score 0
+   *  50.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Shock Wave (target 2)
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Sizzlipede (2): 0
+     Threat Score for Sizzlipede (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (3) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmo (3) is considering using Spark (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Spark (1) against Sizzlipede (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Mach Punch (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Mach Punch (1) against Sizzlipede (2)...
+     + 2 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Dig (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Dig (1) against Sizzlipede (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Pawmo (3):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Spark (target 0): score 0
+   *  50.0% to use Spark (target 2): score 7
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *  50.0% to use Dig (target 0): score 7
+   *   0.0% to use Dig (target 2): score 0
+   => will use Spark (target 2)
+
+[Round order] The opposing Plusle (1), the opposing Pawmo (3), Sizzlipede (2), Gloom (0)
+
+[Use move] The opposing Plusle (1) used Shock Wave
+"The opposing Plusle used Shock Wave!"
+[HP change] Sizzlipede lost 32 HP (41 -> 9)
+[Use move] The opposing Pawmo (3) used Spark
+"The opposing Pawmo used Spark!"
+[HP change] Sizzlipede lost 9 HP (9 -> 0)
+"Sizzlipede fainted!"
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[HP change] The opposing Plusle lost 32 HP (62 -> 30)
+"The opposing Plusle had its energy drained!"
+
+[End of round 7]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Boltund!"
+
+===== Round 8 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): 0
+     Threat Score for Boltund (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Plusle (1) is considering using Shock Wave (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   * 100.0% to use Grass Knot (target 2): score 10
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Grass Knot (target 2)
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): 0
+     Threat Score for Boltund (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (3) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmo (3) is considering using Spark (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Spark (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Mach Punch (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Mach Punch (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+[AI] Pawmo (3) is considering using Dig (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (3) is considering using Dig (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pawmo (3):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Spark (target 0): score 0
+   *  37.5% to use Spark (target 2): score 6
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Dig (target 0): score 0
+   *  62.5% to use Dig (target 2): score 10
+   => will use Dig (target 2)
+
+[Round order] Boltund (2), the opposing Plusle (1), the opposing Pawmo (3), Gloom (0)
+
+[Use move] Boltund (2) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Pawmo lost 2 HP (2 -> 0)
+"It's not very effective..."
+"The opposing Pawmo fainted!"
+[Use move] The opposing Plusle (1) used Grass Knot
+"The opposing Plusle used Grass Knot!"
+[HP change] Boltund lost 14 HP (60 -> 46)
+[Use move] Gloom (0) used Giga Drain
+"Gloom used Giga Drain!"
+[HP change] The opposing Plusle lost 28 HP (30 -> 2)
+"The opposing Plusle had its energy drained!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Gloom (0): 0
+     Threat Score for Gloom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): 0
+     Threat Score for Boltund (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Plusle (1) is considering using Shock Wave (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Gloom (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Boltund (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   *  50.0% to use Grass Knot (target 2): score 10
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  50.0% to use Hidden Power (target 2): score 10
+   *   0.0% to use Fake Out: score 0
+   => will use Hidden Power (target 2)
+
+[Command phase] The opposing Pawmo (3) is forced to use a multi-turn move
+[Round order] Boltund (2), the opposing Plusle (1), Gloom (0), the opposing Pawmo (3)
+
+[Use move] Boltund (2) used Bite
+"Boltund used Bite!"
+[HP change] The opposing Plusle lost 2 HP (2 -> 0)
+"The opposing Plusle fainted!"
+
+===== Player won =====
+
+"You defeated Twins Liv & Liz!"
+"Wow. You're great!"
+
+"You got $504 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Azurill appeared!"
+"Go! Drowzee!"
+[Round order] Drowzee (0), the wild Azurill (1)
+[Ability triggered] Drowzee's Forewarn
+"Drowzee was alerted to Slam!"
+[Ability triggered] Drowzee's Forewarn
+[Stat change] Drowzee's Defense changed by +1 (0 -> 1)
+"Drowzee's Defense rose!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Drowzee (0) has been assigned No Priority flag
+     End flag assignment.
+     no valid targets
+[AI] Azurill (1) is considering using Bubble Beam (1) against Drowzee (0)...
+[AI] Azurill (1) is considering using Charm (4) against Drowzee (0)...
+[AI] Azurill (1) is considering using Slam (1) against Drowzee (0)...
+[AI] Move choices for Azurill (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *  50.0% to use Charm (target 0): score 4
+   *  50.0% to use Charm (target 0): score 4
+   *   0.0% to use Slam (target 0): score 0
+   => will use Charm (target 0)
+
+[Round order] Drowzee (0), the wild Azurill (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Azurill was caught!"
+
+===== Pokémon caught =====
+
+"Azurill's data was added to the Pokédex."
+"Where do you want to send Azurill to?"
+"Where do you want to send Azurill to?"
+"Azurill has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Makuhita appeared!"
+"Go! Drowzee!"
+[Round order] Drowzee (0), the wild Makuhita (1)
+[Ability triggered] Drowzee's Forewarn
+"Drowzee was alerted to Fake Out!"
+[Ability triggered] Drowzee's Forewarn
+[Stat change] Drowzee's Defense changed by +1 (0 -> 1)
+"Drowzee's Defense rose!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Drowzee (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Makuhita (1) is considering using Focus Energy (4)...
+[AI] Makuhita (1) is considering using Sand Attack (4) against Drowzee (0)...
+[AI] Makuhita (1) is considering using Arm Thrust (1) against Drowzee (0)...
+[AI] Makuhita (1) is considering using Fake Out (1) against Drowzee (0)...
+[AI] Move choices for Makuhita (1):
+   *  50.0% to use Focus Energy: score 4
+   *  50.0% to use Sand Attack (target 0): score 4
+   *   0.0% to use Arm Thrust (target 0): score 0
+   *   0.0% to use Fake Out (target 0): score 0
+   *   0.0% to use Fake Out (target 0): score 0
+   => will use Focus Energy
+
+[Round order] Drowzee (0), the wild Makuhita (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Makuhita was caught!"
+
+===== Pokémon caught =====
+
+"Makuhita's data was added to the Pokédex."
+"Where do you want to send Makuhita to?"
+"Makuhita has been sent to Box "Box 1"!"
+Roles for MEDITITE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for MAGCARGO: [:SPECIALBREAKER]
+Roles for MASQUERAIN: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:TOXICSTALLER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Meditite!
+Team Galactic Grunt sent out Masquerain!"
+"Go! Prinplup and Staravia!"
+[Round order] Staravia (2), the opposing Masquerain (3), the opposing Meditite (1), Prinplup (0)
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Meditite's Attack changed by -1 (0 -> -1)
+"The opposing Meditite's Attack fell!"
+[Stat change] The opposing Masquerain's Attack changed by -1 (0 -> -1)
+"The opposing Masquerain's Attack fell!"
+[Ability triggered] The opposing Masquerain's Intimidate
+[Stat change] Prinplup's Attack changed by -1 (0 -> -1)
+"Prinplup's Attack fell!"
+[Stat change] Staravia's Attack changed by -1 (0 -> -1)
+"Staravia's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Staravia (2): -1
+     Threat Score for Staravia (2): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Meditite (1) is considering using Fake Out (1) against Prinplup (0)...
+     + 18 for using Fake Out turn 1
+     + -1 to factor in threat scoring.
+[AI] Meditite (1) is considering using Fake Out (1) against Staravia (2)...
+     + 18 for using Fake Out turn 1
+     + 3 to factor in threat scoring.
+[AI] Meditite (1) is considering using Psycho Cut (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Meditite (1) is considering using Psycho Cut (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+[AI] Meditite (1) is considering using Force Palm (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Meditite (1) is considering using Force Palm (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+[AI] Meditite (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Meditite (1) is considering using Rock Tomb (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Meditite (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 22
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Psycho Cut (target 2): score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Force Palm (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   => will use Fake Out (target 2)
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): -1
+     Threat Score for Staravia (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Masquerain (3) is considering using Struggle Bug (1)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 3 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Air Cutter (1)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     + 3 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Icy Wind (1)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Bubble Beam (1) against Prinplup (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Masquerain (3) is considering using Bubble Beam (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+[AI] Move choices for Masquerain (3):
+   *   0.0% to use Struggle Bug: score 0
+   *  50.0% to use Air Cutter: score 6
+   *  50.0% to use Icy Wind: score 6
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Bubble Beam (target 2): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Meditite (1), Staravia (2), the opposing Masquerain (3), Prinplup (0)
+
+[Use move] The opposing Meditite (1) used Fake Out
+"The opposing Meditite used Fake Out!"
+[HP change] Staravia lost 7 HP (66 -> 59)
+[Use move] Staravia (2) used Wing Attack
+"Staravia flinched and couldn't move!"
+[Use move] The opposing Masquerain (3) used Icy Wind
+"The opposing Masquerain used Icy Wind!"
+[HP change] Prinplup lost 5 HP (74 -> 69)
+[HP change] Staravia lost 33 HP (59 -> 26)
+"It's not very effective..."
+"It's super effective!"
+[HP change] Staravia gained 10 HP (26 -> 36)
+"Staravia restored a little HP using its Oran Berry!"
+[Item consumed] Staravia consumed its held Oran Berry
+[Stat change] Prinplup's Speed changed by -1 (0 -> -1)
+"Prinplup's Speed fell!"
+[Stat change] Staravia's Speed changed by -1 (0 -> -1)
+"Staravia's Speed fell!"
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Meditite lost 13 HP (50 -> 37)
+"It's super effective!"
+"Prinplup stole and ate its target's Coba Berry!"
+"The  weakened the damage to the opposing Meditite!"
+[Item consumed] The opposing Meditite consumed its held 
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): -2
+     Threat Score for Staravia (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meditite (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meditite (1) is considering using Psycho Cut (1) against Prinplup (0)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Meditite (1) is considering using Psycho Cut (1) against Staravia (2)...
+     + 0 to factor in threat scoring.
+[AI] Meditite (1) is considering using Force Palm (1) against Prinplup (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Meditite (1) is considering using Force Palm (1) against Staravia (2)...
+     + 0 to factor in threat scoring.
+[AI] Meditite (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Meditite (1) is considering using Rock Tomb (1) against Staravia (2)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Meditite (1):
+   *   0.0% to use Fake Out: score 0
+   *  37.5% to use Psycho Cut (target 0): score 3
+   *   0.0% to use Psycho Cut (target 2): score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Force Palm (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  62.5% to use Rock Tomb (target 2): score 5
+   => will use Rock Tomb (target 2)
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Prinplup (0): -1
+     Threat Score for Prinplup (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): -2
+     Threat Score for Staravia (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Masquerain (3) is considering using Struggle Bug (1)...
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Bubble Beam (1) against Prinplup (0)...
+[AI] Masquerain (3) is considering using Bubble Beam (1) against Staravia (2)...
+[AI] Move choices for Masquerain (3):
+   *   0.0% to use Struggle Bug: score 0
+   *  50.0% to use Air Cutter: score 5
+   *  50.0% to use Icy Wind: score 5
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Bubble Beam (target 2): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Masquerain (3), the opposing Meditite (1), Staravia (2), Prinplup (0)
+
+"Staravia, come back!"
+"Go for it, Boltund!"
+[Use move] The opposing Masquerain (3) used Icy Wind
+"The opposing Masquerain used Icy Wind!"
+[HP change] Prinplup lost 5 HP (69 -> 64)
+[HP change] Boltund lost 11 HP (76 -> 65)
+"It's not very effective..."
+[Stat change] Prinplup's Speed changed by -1 (-1 -> -2)
+"Prinplup's Speed fell!"
+[Stat change] Boltund's Speed changed by -1 (0 -> -1)
+"Boltund's Speed fell!"
+[Use move] The opposing Meditite (1) used Rock Tomb
+"The opposing Meditite used Rock Tomb!"
+[HP change] Boltund lost 6 HP (65 -> 59)
+[Stat change] Boltund's Speed changed by -1 (-1 -> -2)
+"Boltund's Speed fell!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Meditite lost 32 HP (37 -> 5)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): -2
+     Threat Score for Boltund (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meditite (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meditite (1) is considering using Psycho Cut (1) against Prinplup (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Meditite (1) is considering using Psycho Cut (1) against Boltund (2)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Meditite (1) is considering using Force Palm (1) against Prinplup (0)...
+     + 0 to factor in threat scoring.
+[AI] Meditite (1) is considering using Force Palm (1) against Boltund (2)...
+     + 0 to factor in threat scoring.
+[AI] Meditite (1) is considering using Rock Tomb (1) against Prinplup (0)...
+     + 0 to factor in threat scoring.
+[AI] Meditite (1) is considering using Rock Tomb (1) against Boltund (2)...
+     + 0 to factor in threat scoring.
+[AI] Move choices for Meditite (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Psycho Cut (target 0): score 5
+   *  50.0% to use Psycho Cut (target 2): score 5
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Force Palm (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   => will use Psycho Cut (target 0)
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): -2
+     Threat Score for Boltund (2): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Masquerain (3) is considering using Struggle Bug (1)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Air Cutter (1)...
+     + -3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Icy Wind (1)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Masquerain (3) is considering using Bubble Beam (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Masquerain (3) is considering using Bubble Beam (1) against Boltund (2)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Masquerain (3):
+   *   0.0% to use Struggle Bug: score 0
+   *  37.5% to use Air Cutter: score 3
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *  62.5% to use Bubble Beam (target 2): score 5
+   => will use Bubble Beam (target 2)
+
+[Round order] Prinplup (0), the opposing Masquerain (3), the opposing Meditite (1), Boltund (2)
+
+[Use move] Prinplup (0) used Aqua Jet
+"Prinplup used Aqua Jet!"
+[HP change] The opposing Meditite lost 5 HP (5 -> 0)
+"The opposing Meditite fainted!"
+[Use move] The opposing Masquerain (3) used Bubble Beam
+"The opposing Masquerain used Bubble Beam!"
+[HP change] Boltund lost 18 HP (59 -> 41)
+[Use move] Boltund (2) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Masquerain lost 66 HP (66 -> 0)
+"It's super effective!"
+"The opposing Masquerain fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Magcargo] + 2 because we outspeed
+     [Magcargo] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Magcargo] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (40)
+"Team Galactic Grunt sent out Magcargo!"
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     [Varoom] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Varoom] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Varoom] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Team Galactic Grunt sent out Varoom!"
+
+===== Round 4 =====
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): -2
+     Threat Score for Boltund (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Bubble Beam (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Magcargo (1) is considering using Bubble Beam (1) against Boltund (2)...
+     + 2 to factor in threat scoring.
+[AI] Magcargo (1) is considering using Flame Burst (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Flame Burst (1) against Boltund (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Magcargo (1) is considering using Ancient Power (1) against Boltund (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Bubble Beam (target 2): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Flame Burst (target 2): score 7
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Ancient Power (target 2): score 0
+   => will use Flame Burst (target 2)
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Boltund (2): -2
+     Threat Score for Boltund (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (3) is considering using Metal Claw (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Varoom (3) is considering using Metal Claw (1) against Boltund (2)...
+     + 2 to factor in threat scoring.
+[AI] Varoom (3) is considering using Poison Fang (1) against Prinplup (0)...
+     + -3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Varoom (3) is considering using Poison Fang (1) against Boltund (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Varoom (3) is considering using Toxic (4) against Prinplup (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     + -3 to factor in threat scoring.
+     - -3 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Varoom (3) is considering using Toxic (4) against Boltund (2)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     + 2 to factor in threat scoring.
+     - 2 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Move choices for Varoom (3):
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Metal Claw (target 2): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Poison Fang (target 2): score 7
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Toxic (target 2): score 0
+   => will use Poison Fang (target 2)
+
+[Round order] Boltund (2), the opposing Varoom (3), the opposing Magcargo (1), Prinplup (0)
+
+[Use move] Boltund (2) used Spark
+"Boltund used Spark!"
+[HP change] The opposing Magcargo lost 42 HP (65 -> 23)
+"It's super effective!"
+[Ability triggered] The opposing Magcargo's Flame Body
+"Boltund was burned!"
+"The opposing Magcargo is paralyzed! It may be unable to move!"
+[Use move] The opposing Varoom (3) used Poison Fang
+"The opposing Varoom used Poison Fang!"
+[HP change] Boltund lost 18 HP (41 -> 23)
+[HP change] Boltund gained 10 HP (23 -> 33)
+"Boltund restored a little HP using its Oran Berry!"
+[Item consumed] Boltund consumed its held Oran Berry
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Varoom lost 35 HP (58 -> 23)
+[Use move] The opposing Magcargo (1) used Flame Burst
+"The opposing Magcargo used Flame Burst!"
+"The Fire Gem strengthened Flame Burst's power!"
+[HP change] Boltund lost 33 HP (33 -> 0)
+[HP change] Prinplup lost 4 HP (64 -> 60)
+"The bursting flame hit Prinplup!"
+"Boltund fainted!"
+[Item consumed] The opposing Magcargo consumed its held Fire Gem
+
+[End of round 4]
+[HP change] The opposing Varoom gained 3 HP (23 -> 26)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+"Just a little more! Hang in there, Sizzlipede!"
+
+===== Round 5 =====
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Sizzlipede (2): 0
+     Threat Score for Sizzlipede (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Bubble Beam (1) against Prinplup (0)...
+     + 4 to factor in threat scoring.
+[AI] Magcargo (1) is considering using Bubble Beam (1) against Sizzlipede (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Magcargo (1) is considering using Flame Burst (1) against Prinplup (0)...
+     + 4 to factor in threat scoring.
+[AI] Magcargo (1) is considering using Flame Burst (1) against Sizzlipede (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Magcargo (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Ancient Power (1) against Sizzlipede (2)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Bubble Beam (target 2): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Ancient Power (target 2): score 16
+   => will use Ancient Power (target 2)
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Sizzlipede (2): 0
+     Threat Score for Sizzlipede (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (3) is considering using Metal Claw (1) against Prinplup (0)...
+     + 0 to factor in threat scoring.
+[AI] Varoom (3) is considering using Metal Claw (1) against Sizzlipede (2)...
+     + 2 to factor in threat scoring.
+[AI] Varoom (3) is considering using Poison Fang (1) against Prinplup (0)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Varoom (3) is considering using Poison Fang (1) against Sizzlipede (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Varoom (3) is considering using Toxic (4) against Prinplup (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     + 0 to factor in threat scoring.
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Varoom (3) is considering using Toxic (4) against Sizzlipede (2)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     + 2 to factor in threat scoring.
+     - 2 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Move choices for Varoom (3):
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Metal Claw (target 2): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Poison Fang (target 2): score 7
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Toxic (target 2): score 0
+   => will use Poison Fang (target 2)
+
+[Round order] The opposing Varoom (3), Sizzlipede (2), Prinplup (0), the opposing Magcargo (1)
+
+[Use move] The opposing Varoom (3) used Poison Fang
+"The opposing Varoom used Poison Fang!"
+[HP change] Sizzlipede lost 25 HP (64 -> 39)
+[Use move] Sizzlipede (2) used Flame Wheel
+"Sizzlipede used Flame Wheel!"
+[HP change] The opposing Varoom lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Varoom fainted!"
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Magcargo lost 22 HP (23 -> 1)
+[Use move] The opposing Magcargo (1) used Ancient Power
+"The opposing Magcargo used Ancient Power!"
+[HP change] Sizzlipede lost 39 HP (39 -> 0)
+"It's super effective!"
+"Sizzlipede fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Staravia!"
+[Ability triggered] Staravia's Intimidate
+[Stat change] The opposing Magcargo's Attack changed by -1 (0 -> -1)
+"The opposing Magcargo's Attack fell!"
+
+===== Round 6 =====
+
+Set up score for Prinplup (0): -2
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Staravia (2): 0
+     Threat Score for Staravia (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Bubble Beam (1) against Prinplup (0)...
+     + 3 to factor in threat scoring.
+[AI] Magcargo (1) is considering using Bubble Beam (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Flame Burst (1) against Prinplup (0)...
+     + 3 to factor in threat scoring.
+[AI] Magcargo (1) is considering using Flame Burst (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Ancient Power (1) against Prinplup (0)...
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Ancient Power (1) against Staravia (2)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *  33.3% to use Bubble Beam (target 2): score 21
+   *   0.0% to use Flame Burst (target 0): score 0
+   *  33.3% to use Flame Burst (target 2): score 21
+   *   0.0% to use Ancient Power (target 0): score 0
+   *  33.3% to use Ancient Power (target 2): score 21
+   => will use Flame Burst (target 2)
+
+[Command phase] The opposing Varoom (3) is forced to use a multi-turn move
+[Round order] Staravia (2), Prinplup (0), the opposing Magcargo (1), the opposing Varoom (3)
+
+[Use move] Staravia (2) used Quick Attack
+"Staravia used Quick Attack!"
+[HP change] The opposing Magcargo lost 1 HP (1 -> 0)
+[Ability triggered] The opposing Magcargo's Flame Body
+"Staravia was burned!"
+"The opposing Magcargo fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt and Team Galactic Grunt!"
+"Ugh."
+"Ugh."
+
+"You got $1,408 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Seedot appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Seedot (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Seedot (1) is considering using Absorb (1) against Prinplup (0)...
+[AI] Seedot (1) is considering using Astonish (1) against Prinplup (0)...
+[AI] Seedot (1) is considering using Mega Drain (1) against Prinplup (0)...
+[AI] Seedot (1) is considering using Rollout (1) against Prinplup (0)...
+[AI] Move choices for Seedot (1):
+   *  20.0% to use Absorb (target 0): score 1
+   *  20.0% to use Astonish (target 0): score 1
+   *  20.0% to use Mega Drain (target 0): score 1
+   *  20.0% to use Mega Drain (target 0): score 1
+   *  20.0% to use Rollout (target 0): score 1
+   => will use Mega Drain (target 0)
+
+[Round order] Prinplup (0), the wild Seedot (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Seedot was caught!"
+
+===== Pokémon caught =====
+
+"Seedot's data was added to the Pokédex."
+"Where do you want to send Seedot to?"
+"Where do you want to send Seedot to?"
+"Seedot has been sent to Box "Box 1"!"
