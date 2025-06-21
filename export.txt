@@ -1,16 +1,86 @@
 
-Gloom @ Cheri Berry
-Level: 25
-Sassy Nature
-Ability: Chlorophyll
-IVs: 16 HP / 26 Atk / 9 Def / 3 SpA / 11 SpD / 11 Spe
-- Giga Drain
-- Sludge
-- Bullet Seed
-- Sleep Powder
+Prinplup @ Oran Berry
+Level: 32
+Jolly Nature
+Ability: Torrent
+IVs: 31 HP / 19 Atk / 31 Def / 31 SpA / 7 SpD / 21 Spe
+- Bubble Beam
+- Icy Wind
+- Aqua Jet
+- Fury Attack
 
-Falinks
-Level: 25
+Hypno
+Level: 32
+Brave Nature
+Ability: Forewarn
+IVs: 3 HP / 15 Atk / 9 Def / 14 SpA / 27 SpD / 21 Spe
+- Psybeam
+- Headbutt
+- Hypnosis
+- Toxoplasm
+
+Crobat
+Level: 32
+Lonely Nature
+Ability: Inner Focus
+IVs: 8 HP / 27 Atk / 26 Def / 7 SpA / 12 SpD / 22 Spe
+- Poison Fang
+- Air Cutter
+- Absorb
+- Cross Poison
+
+Boltund
+Level: 32
+Adamant Nature
+Ability: Strong Jaw
+IVs: 28 HP / 18 Atk / 27 Def / 20 SpA / 18 SpD / 15 Spe
+- Thunder Fang
+- Bite
+- Tackle
+- Roar
+
+Hariyama
+Level: 32
+Quiet Nature
+Ability: Guts
+IVs: 11 HP / 31 Atk / 2 Def / 21 SpA / 6 SpD / 29 Spe
+- Force Palm
+- Knock Off
+- Fake Out
+- Bullet Punch
+
+Dolliv @ Oran Berry
+Level: 32
+Calm Nature
+Ability: Harvest
+IVs: 23 HP / 1 Atk / 22 Def / 28 SpA / 4 SpD / 31 Spe
+- Mega Drain
+- Mach Pulse
+- Hyper Voice
+- Helping Hand
+
+Azumarill
+Level: 32
+Bold Nature
+Ability: Thick Fat
+IVs: 27 HP / 6 Atk / 24 Def / 15 SpA / 3 SpD / 17 Spe
+- Play Rough
+- Aqua Tail
+- Charm
+- Slam
+
+Grafaiai
+Level: 32
+Lax Nature
+Ability: Poison Touch
+IVs: 13 HP / 21 Atk / 29 Def / 11 SpA / 29 SpD / 24 Spe
+- Poison Fang
+- Slash
+- U-turn
+- Bite
+
+Falinks @ Oran Berry
+Level: 32
 Naughty Nature
 Ability: Skill Link
 IVs: 1 HP / 18 Atk / 8 Def / 27 SpA / 29 SpD / 23 Spe
@@ -19,130 +89,92 @@ IVs: 1 HP / 18 Atk / 8 Def / 27 SpA / 29 SpD / 23 Spe
 - Arm Thrust
 - Protect
 
-Prinplup
-Level: 25
-Jolly Nature
-Ability: Torrent
-IVs: 31 HP / 19 Atk / 31 Def / 31 SpA / 7 SpD / 21 Spe
-- Bubble Beam
-- Icy Wind
-- Aqua Jet
-- Pluck
+Scolipede
+Level: 32
+Naughty Nature
+Ability: Swarm
+IVs: 14 HP / 24 Atk / 4 Def / 14 SpA / 12 SpD / 8 Spe
+- Poison Tail
+- Bite
+- Bug Bite
+- Protect
 
-Sizzlipede @ Oran Berry
-Level: 25
+Staravia
+Level: 32
+Lonely Nature
+Ability: Intimidate
+IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
+- Aerial Ace
+- Flash
+- Quick Attack
+- Endeavor
+
+Nosepass @ Oran Berry
+Level: 32
+Quiet Nature
+Ability: Sturdy
+IVs: 6 HP / 12 Atk / 29 Def / 28 SpA / 0 SpD / 31 Spe
+- Rest
+- Discharge
+- Thunder Wave
+- Rock Blast
+
+Graveler-Alolan
+Level: 32
+Hasty Nature
+Ability: Sturdy
+IVs: 27 HP / 29 Atk / 11 Def / 3 SpA / 14 SpD / 5 Spe
+- Thunder Wave
+- Charge
+- Rock Tomb
+- Thunder Punch
+
+Nuzleaf
+Level: 32
+Modest Nature
+Ability: Chlorophyll
+IVs: 7 HP / 4 Atk / 1 Def / 3 SpA / 20 SpD / 13 Spe
+- Nature Power
+- Payback
+- Mega Drain
+- Rollout
+
+Panpour @ Oran Berry
+Level: 32
+Hasty Nature
+Ability: Gluttony
+IVs: 27 HP / 19 Atk / 16 Def / 19 SpA / 3 SpD / 3 Spe
+- Scald
+- Acrobatics
+- Fury Swipes
+- Bite
+
+Staryu @ Oran Berry
+Level: 32
+Adamant Nature
+Ability: Illuminate
+IVs: 17 HP / 8 Atk / 24 Def / 27 SpA / 12 SpD / 22 Spe
+- Flash
+- Brine
+- Psybeam
+- Rapid Spin
+
+Centiskorch
+Level: 32
 Quiet Nature
 Ability: White Smoke
 IVs: 19 HP / 10 Atk / 5 Def / 17 SpA / 15 SpD / 31 Spe
 - Flame Wheel
 - Bite
 - Leech Life
-- Smokescreen
+- Slam
 
-Staravia @ Oran Berry
-Level: 25
-Lonely Nature
-Ability: Intimidate
-IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
-- Wing Attack
-- Flash
-- Quick Attack
-- Endeavor
-
-Boltund @ Oran Berry
-Level: 25
-Adamant Nature
-Ability: Strong Jaw
-IVs: 28 HP / 18 Atk / 27 Def / 20 SpA / 18 SpD / 15 Spe
-- Spark
-- Bite
-- Tackle
-- Roar
-
-Smoliv @ Oran Berry
-Level: 19
-Calm Nature
-Ability: Harvest
-IVs: 23 HP / 1 Atk / 22 Def / 28 SpA / 4 SpD / 31 Spe
-- Razor Leaf
-- Mach Pulse
-- Absorb
-- Helping Hand
-
-Shroodle
-Level: 19
-Lax Nature
-Ability: Pickpocket
-IVs: 13 HP / 21 Atk / 29 Def / 11 SpA / 29 SpD / 24 Spe
-- Poison Fang
-- Fury Swipes
-- Acid Spray
-- Bite
-
-Venipede
-Level: 19
-Naughty Nature
-Ability: Swarm
-IVs: 14 HP / 24 Atk / 4 Def / 14 SpA / 12 SpD / 8 Spe
-- Poison Tail
-- Bite
-- Rollout
-- Protect
-
-Zubat
-Level: 19
-Lonely Nature
-Ability: Inner Focus
-IVs: 8 HP / 27 Atk / 26 Def / 7 SpA / 12 SpD / 22 Spe
-- Poison Fang
-- Astonish
-- Absorb
-- Supersonic
-
-Drowzee
-Level: 19
-Brave Nature
-Ability: Forewarn
-IVs: 3 HP / 15 Atk / 9 Def / 14 SpA / 27 SpD / 21 Spe
-- Confusion
-- Headbutt
-- Hypnosis
-- Disable
-
-Geodude-Alolan
-Level: 4
-Hasty Nature
-Ability: Sturdy
-IVs: 27 HP / 29 Atk / 11 Def / 3 SpA / 14 SpD / 5 Spe
-- Tackle
-- Charge
-
-Nosepass
-Level: 19
-Quiet Nature
-Ability: Sturdy
-IVs: 6 HP / 12 Atk / 29 Def / 28 SpA / 0 SpD / 31 Spe
-- Rest
-- Spark
-- Thunder Wave
-- Rock Throw
-
-Panpour @ Oran Berry
-Level: 19
-Hasty Nature
-Ability: Gluttony
-IVs: 27 HP / 19 Atk / 16 Def / 19 SpA / 3 SpD / 3 Spe
-- Water Gun
-- Lick
-- Fury Swipes
-- Bite
-
-Staryu @ Oran Berry
-Level: 19
-Adamant Nature
-Ability: Illuminate
-IVs: 17 HP / 8 Atk / 24 Def / 27 SpA / 12 SpD / 22 Spe
-- Flash
-- Water Gun
-- Confuse Ray
-- Rapid Spin
+Gloom @ Cheri Berry
+Level: 32
+Sassy Nature
+Ability: Chlorophyll
+IVs: 16 HP / 26 Atk / 9 Def / 3 SpA / 11 SpD / 11 Spe
+- Giga Drain
+- Sludge
+- Moonblast
+- Toxic
