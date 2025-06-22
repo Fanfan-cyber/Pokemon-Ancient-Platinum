@@ -88443,3 +88443,4146 @@ Set up score for Boltund (0): 0
 "Wow. You're great!"
 
 "You got $1,056 for winning!"
+Random number
+-----> 94
+Corresponding Pokémon
+-----> Trapinch
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Trapinch appeared!"
+"Go! Boltund!"
+[Round order] Boltund (0), the wild Trapinch (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Boltund (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Trapinch (1) is considering using Astonish (1) against Boltund (0)...
+[AI] Trapinch (1) is considering using Laser Focus (4)...
+[AI] Trapinch (1) is considering using Bite (1) against Boltund (0)...
+[AI] Trapinch (1) is considering using Mud-Slap (1) against Boltund (0)...
+[AI] Move choices for Trapinch (1):
+   *   0.0% to use Astonish (target 0): score 0
+   *   0.0% to use Astonish (target 0): score 0
+   * 100.0% to use Laser Focus: score 4
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Mud-Slap (target 0): score 0
+   => will use Laser Focus
+
+[Round order] Boltund (0), the wild Trapinch (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Trapinch was caught!"
+
+===== Pokémon caught =====
+
+"Trapinch's data was added to the Pokédex."
+"Where do you want to send Trapinch to?"
+"Where do you want to send Trapinch to?"
+"Trapinch has been sent to Box "Box 1"!"
+Roles for TOXICROAK: [:PHYSICALBREAKER]
+Roles for NINJASK: [:OFFENSIVEPIVOT]
+Roles for WEEZING: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ninja Boy Zach!"
+"Ninja Boy Zach sent out Toxicroak!"
+"Go! Staraptor!"
+[Round order] Staraptor (0), the opposing Toxicroak (1)
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Toxicroak's Attack changed by -1 (0 -> -1)
+"The opposing Toxicroak's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Toxicroak (1) is considering using Drain Punch (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Toxicroak (1) is considering using Poison Jab (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Staraptor (0)...
+     + 2 for Sucker Punch factoring in 0 Status Moves from Staraptor (0)
+[AI] Toxicroak (1) is considering using Fake Out (1) against Staraptor (0)...
+     + 18 for using Fake Out turn 1
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   * 100.0% to use Fake Out (target 0): score 19
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Toxicroak (1), Staraptor (0)
+
+[Use move] The opposing Toxicroak (1) used Fake Out
+"The opposing Toxicroak used Fake Out!"
+[HP change] Staraptor lost 13 HP (110 -> 97)
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (3)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Drain Punch (1) against Staraptor (0)...
+[AI] Toxicroak (1) is considering using Poison Jab (1) against Staraptor (0)...
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Staraptor (0)...
+     + 2 for Sucker Punch factoring in 0 Status Moves from Staraptor (0)
+[AI] Toxicroak (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 3
+   *   0.0% to use Fake Out: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Toxicroak (1), Staraptor (0)
+
+[Use move] The opposing Toxicroak (1) used Sucker Punch
+"The opposing Toxicroak used Sucker Punch!"
+[HP change] Staraptor lost 22 HP (97 -> 75)
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Toxicroak lost 98 HP (105 -> 7)
+"It's super effective!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Drain Punch (1) against Staraptor (0)...
+[AI] Toxicroak (1) is considering using Poison Jab (1) against Staraptor (0)...
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Staraptor (0)...
+     + 2 for Sucker Punch factoring in 0 Status Moves from Staraptor (0)
+[AI] Toxicroak (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 3
+   *   0.0% to use Fake Out: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] Staraptor (0), the opposing Toxicroak (1)
+
+[Use move] Staraptor (0) used Quick Attack
+"Staraptor used Quick Attack!"
+[HP change] The opposing Toxicroak lost 7 HP (7 -> 0)
+"The opposing Toxicroak fainted!"
+"Staraptor got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Ninjask] - 12 because they have kill with their highest damaging move against the current battler
+     [Ninjask] + 4 because we have 2HKO
+     [Weezing] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (44)
+"Ninja Boy Zach sent out Weezing!"
+[Ability triggered] The opposing Weezing's Neutralizing Gas
+"Neutralizing gas filled the area!"
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Weezing (1): 0
+Set up score for Weezing (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weezing (1) is considering using Sludge Bomb (1) against Staraptor (0)...
+[AI] Weezing (1) is considering using Flamethrower (1) against Staraptor (0)...
+[AI] Weezing (1) is considering using Explosion (1)...
+      + 17 for slow kill
+[AI] Move choices for Weezing (1):
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Explosion: score 18
+   => will use Explosion
+
+[Round order] Staraptor (0), the opposing Weezing (1)
+
+"Staraptor, come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Weezing (1) used Explosion
+"The opposing Weezing used Explosion!"
+"The Normal Gem strengthened Explosion's power!"
+[HP change] Hariyama lost 138 HP (149 -> 11)
+[HP change] The opposing Weezing lost 96 HP (96 -> 0)
+"The opposing Weezing fainted!"
+"The effects of the neutralizing gas wore off!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Ninjask] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Ninjask] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (38)
+"The effects of the neutralizing gas wore off!"
+"Ninja Boy Zach sent out Ninjask!"
+
+===== Round 5 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ninjask (1) is considering using U-turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Ninjask (1):
+   * 100.0% to use U-turn (target 0): score 21
+   => will use U-turn (target 0)
+
+[Round order] Hariyama (0), the opposing Ninjask (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Ninjask lost 28 HP (93 -> 65)
+[Use move] The opposing Ninjask (1) used U-turn
+"The opposing Ninjask flinched and couldn't move!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ninjask (1) is considering using U-turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Ninjask (1):
+   * 100.0% to use U-turn (target 0): score 21
+   => will use U-turn (target 0)
+
+[Round order] The opposing Ninjask (1), Hariyama (0)
+
+"Good job, Hariyama! Come back!"
+"Go for it, Crobat!"
+[Use move] The opposing Ninjask (1) used U-turn
+"The opposing Ninjask used U-turn!"
+[HP change] Crobat lost 14 HP (107 -> 93)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ninjask (1) is considering using U-turn (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Ninjask (1):
+   * 100.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Ninjask (1), Crobat (0)
+
+[Use move] The opposing Ninjask (1) used U-turn
+"The opposing Ninjask used U-turn!"
+[HP change] Crobat lost 15 HP (93 -> 78)
+"It's not very effective..."
+[Use move] Crobat (0) used Air Cutter
+"Crobat used Air Cutter!"
+[HP change] The opposing Ninjask lost 61 HP (65 -> 4)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ninjask (1) is considering using U-turn (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Ninjask (1):
+   * 100.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Ninjask (1), Crobat (0)
+
+[Use move] The opposing Ninjask (1) used U-turn
+"The opposing Ninjask used U-turn!"
+[HP change] Crobat lost 23 HP (78 -> 55)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Crobat (0) used Air Cutter
+"Crobat used Air Cutter!"
+[HP change] The opposing Ninjask lost 4 HP (4 -> 0)
+"It's super effective!"
+"The opposing Ninjask fainted!"
+"Crobat got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Ninja Boy Zach!"
+"Wow. You're great!"
+
+"You got $1,056 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Staraptor!"
+[Round order] Staraptor (0), the wild Chingling (1)
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The wild Chingling's Attack changed by -1 (0 -> -1)
+"The wild Chingling's Attack fell!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chingling (1) is considering using Growl (4)...
+[AI] Chingling (1) is considering using Fairy Wind (1) against Staraptor (0)...
+[AI] Chingling (1) is considering using Mach Pulse (1) against Staraptor (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Staraptor (0)...
+[AI] Move choices for Chingling (1):
+   *  50.0% to use Growl: score 4
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *  50.0% to use Yawn (target 0): score 4
+   => will use Growl
+
+[Round order] Staraptor (0), the wild Chingling (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Chingling was caught!"
+
+===== Pokémon caught =====
+
+"Chingling's data was added to the Pokédex."
+"Where do you want to send Chingling to?"
+"Where do you want to send Chingling to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Arboliva has been sent to Box "Box 1"."
+"Chingling has been added to your party."
+Roles for CARRACOSTA: [:OFFENSIVEPIVOT]
+Roles for DUGTRIO: [:PHYSICALBREAKER]
+Roles for SKARMORY: [:LEAD, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Louis!"
+"Hiker Louis sent out Carracosta!"
+"Go! Arboliva!"
+[Round order] Arboliva (0), the opposing Carracosta (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carracosta (1): 0
+Set up score for Carracosta (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Carracosta (1) is considering using Flip Turn (1) against Arboliva (0)...
+     + 4 for switch initiative against a bad matchup
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carracosta (1):
+   * 100.0% to use Flip Turn (target 0): score 9
+   => will use Flip Turn (target 0)
+
+[Round order] Arboliva (0), the opposing Carracosta (1)
+
+[Use move] Arboliva (0) used Mega Drain
+"Arboliva used Mega Drain!"
+[HP change] The opposing Carracosta lost 70 HP (102 -> 32)
+"It's super effective!"
+"The opposing Carracosta had its energy drained!"
+"The Rindo Berry weakened the damage to the opposing Carracosta!"
+[Item consumed] The opposing Carracosta consumed its held Rindo Berry
+[Use move] The opposing Carracosta (1) used Flip Turn
+"The opposing Carracosta used Flip Turn!"
+[HP change] Arboliva lost 16 HP (107 -> 91)
+"It's not very effective..."
+"The opposing Carracosta went back to Hiker Louis!"
+     [Dugtrio] - 12 because they have kill with their highest damaging move against the current battler
+     [Dugtrio] - 3 because we have no kill
+     [Skarmory] + 2 because we outspeed
+     [Skarmory] + 4 because we have 2HKO
+[AI] Highest move score (9) vs Switch In Score (41)
+"Hiker Louis sent out Skarmory!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Arboliva (0)...
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Arboliva (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 5 to encourage status move use
+[AI] Skarmory (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Spikes: score 9
+   *   0.0% to use Roost: score 0
+   => will use Spikes
+
+[Round order] The opposing Skarmory (1), Arboliva (0)
+
+"Arboliva, come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory used Spikes!"
+"Spikes were scattered all around your team's feet!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+     [Switch AI] +5 Party member [Dugtrio] is immune to strongest move against Skarmory (1)
+[AI] Switch out Score (5) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Spikes: score 10
+   *   0.0% to use Roost: score 0
+   => will use Spikes
+
+[Round order] Boltund (0), the opposing Skarmory (1)
+
+[Use move] Boltund (0) used Crunch
+"Boltund used Crunch!"
+[HP change] The opposing Skarmory lost 29 HP (96 -> 67)
+[Stat change] The opposing Skarmory's Defense changed by -1 (0 -> -1)
+"The opposing Skarmory's Defense fell!"
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory used Spikes!"
+"Spikes were scattered all around your team's feet!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Skarmory (1): -1
+Set up score for Skarmory (1): -1
+Set up score for Skarmory (1): -1
+Set up score for Skarmory (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] +5 Party member [Dugtrio] is immune to strongest move against Skarmory (1)
+[AI] Switch out Score (6) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Boltund (0)...
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Spikes: score 10
+   *   0.0% to use Roost: score 0
+   => will use Spikes
+
+[Round order] Boltund (0), the opposing Skarmory (1)
+
+"Boltund, come back!"
+"Go for it, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Skarmory's Attack changed by -1 (0 -> -1)
+"The opposing Skarmory's Attack fell!"
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory used Spikes!"
+"Spikes were scattered all around your team's feet!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Skarmory (1): -2
+Set up score for Skarmory (1): -2
+Set up score for Skarmory (1): -2
+Set up score for Skarmory (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Staraptor (0)...
+[AI] Skarmory (1) is considering using Spikes...
+     -  4: move will fail
+[AI] Skarmory (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Skarmory (1):
+   * 100.0% to use Iron Head (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Roost: score 0
+   => will use Iron Head (target 0)
+
+[Round order] Staraptor (0), the opposing Skarmory (1)
+
+[Use move] Staraptor (0) used Flash
+"Staraptor used Flash!"
+[HP change] The opposing Skarmory lost 32 HP (67 -> 35)
+"It's super effective!"
+[Use move] The opposing Skarmory (1) used Iron Head
+"The opposing Skarmory used Iron Head!"
+[HP change] Staraptor lost 33 HP (110 -> 77)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Skarmory (1): -2
+Set up score for Skarmory (1): -2
+Set up score for Skarmory (1): -2
+Set up score for Skarmory (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Staraptor (0)...
+[AI] Skarmory (1) is considering using Spikes...
+     -  4: move will fail
+[AI] Skarmory (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Skarmory (1):
+   * 100.0% to use Iron Head (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Roost: score 0
+   => will use Iron Head (target 0)
+
+[Round order] Staraptor (0), the opposing Skarmory (1)
+
+[Use move] Staraptor (0) used Close Combat
+"Staraptor used Close Combat!"
+[HP change] The opposing Skarmory lost 35 HP (35 -> 0)
+[Stat change] Staraptor's Defense changed by -1 (0 -> -1)
+"Staraptor's Defense fell!"
+[Stat change] Staraptor's Special Defense changed by -1 (0 -> -1)
+"Staraptor's Special Defense fell!"
+"The opposing Skarmory fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Carracosta] - 12 because they have kill with their highest damaging move against the current battler
+     [Carracosta] + 9 because we have kill
+     [Dugtrio] - 12 because they have kill with their highest damaging move against the current battler
+     [Dugtrio] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (32)
+"Hiker Louis sent out Dugtrio!"
+
+===== Round 7 =====
+
+Set up score for Staraptor (0): -2
+     Threat Score for Staraptor (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Staraptor (0)...
+     + 2 for Sucker Punch factoring in 0 Status Moves from Staraptor (0)
+[AI] Dugtrio (1) is considering using Rock Slide (1)...
+      + 20 for fast kill
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   * 100.0% to use Rock Slide: score 21
+   => will use Rock Slide
+
+[Round order] The opposing Dugtrio (1), Staraptor (0)
+
+"Staraptor, come back!"
+"You're in charge, Arboliva!"
+[HP change] Arboliva lost 26 HP (91 -> 65)
+"Arboliva is hurt by the spikes!"
+[Use move] The opposing Dugtrio (1) used Rock Slide
+"The opposing Dugtrio used Rock Slide!"
+[HP change] Arboliva lost 25 HP (65 -> 40)
+[HP change] Arboliva gained 10 HP (40 -> 50)
+"Arboliva restored a little HP using its Oran Berry!"
+[Item consumed] Arboliva consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+[Ability triggered] Arboliva's Harvest
+"Arboliva harvested one Oran Berry!"
+[HP change] Arboliva gained 10 HP (50 -> 60)
+"Arboliva restored a little HP using its Oran Berry!"
+[Item consumed] Arboliva consumed its held Oran Berry
+
+===== Round 8 =====
+
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     + 4 to prioritize highest damaging move
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Arboliva (0)...
+     + 2 for Sucker Punch factoring in 0 Status Moves from Arboliva (0)
+     + 9 to get a last ditch hit off.
+[AI] Dugtrio (1) is considering using Rock Slide (1)...
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Sucker Punch (target 0): score 12
+   *   0.0% to use Rock Slide: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Dugtrio (1), Arboliva (0)
+
+[Use move] The opposing Dugtrio (1) used Sucker Punch
+"The opposing Dugtrio used Sucker Punch!"
+[HP change] Arboliva lost 22 HP (60 -> 38)
+[Use move] Arboliva (0) used Mega Drain
+"Arboliva used Mega Drain!"
+[HP change] The opposing Dugtrio lost 76 HP (76 -> 0)
+"It's super effective!"
+"The opposing Dugtrio fainted!"
+"The opposing Dugtrio had its energy drained!"
+[HP change] Arboliva gained 38 HP (38 -> 76)
+
+[End of round 8]
+Trick Room Turns: 0
+[Ability triggered] Arboliva's Harvest
+"Arboliva harvested one Oran Berry!"
+     [Carracosta] - 12 because they have kill with their highest damaging move against the current battler
+     [Carracosta] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (20)
+"Hiker Louis sent out Carracosta!"
+
+===== Round 9 =====
+
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carracosta (1) is considering using Flip Turn (1) against Arboliva (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carracosta (1):
+   * 100.0% to use Flip Turn (target 0): score 5
+   => will use Flip Turn (target 0)
+
+[Round order] Arboliva (0), the opposing Carracosta (1)
+
+[Use move] Arboliva (0) used Mega Drain
+"Arboliva used Mega Drain!"
+[HP change] The opposing Carracosta lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Carracosta fainted!"
+"The opposing Carracosta had its energy drained!"
+[HP change] Arboliva gained 16 HP (76 -> 92)
+
+===== Player won =====
+
+"You defeated Hiker Louis!"
+"Wow. You're great!"
+
+"You got $1,056 for winning!"
+Roles for KILOWATTREL: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for JUMPLUFF: [:PHYSICALBREAKER]
+Roles for TALONFLAME: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SIGILYPH: [:SPECIALBREAKER, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bird Keeper Alexandra!"
+"Bird Keeper Alexandra sent out Kilowattrel!"
+"Go! Staraptor!"
+[Round order] The opposing Kilowattrel (1), Staraptor (0)
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Kilowattrel's Attack changed by -1 (0 -> -1)
+"The opposing Kilowattrel's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Staraptor (0)...
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Staraptor (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Staraptor (0)...
+[AI] Move choices for Kilowattrel (1):
+   * 100.0% to use Discharge: score 21
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Discharge
+
+[Round order] The opposing Kilowattrel (1), Staraptor (0)
+
+"Staraptor, switch out! Come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Kilowattrel (1) used Discharge
+"The opposing Kilowattrel used Discharge!"
+[HP change] Boltund lost 30 HP (103 -> 73)
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Boltund (0)...
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Boltund (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Boltund (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Kilowattrel (1):
+   *  50.0% to use Discharge: score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Kilowattrel (1), Boltund (0)
+
+[Use move] The opposing Kilowattrel (1) used U-turn
+"The opposing Kilowattrel used U-turn!"
+[HP change] Boltund lost 13 HP (73 -> 60)
+"The opposing Kilowattrel went back to Bird Keeper Alexandra!"
+     [Jumpluff] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Jumpluff] + 4 because we have 2HKO
+     [Talonflame] + 2 because we outspeed
+     [Talonflame] + 9 because we have kill
+     [Sigilyph] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Sigilyph] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Bird Keeper Alexandra sent out Talonflame!"
+[Use move] Boltund (0) used Crunch
+"Boltund used Crunch!"
+[HP change] The opposing Talonflame lost 45 HP (107 -> 62)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Talonflame (1): 0
+Set up score for Talonflame (1): 0
+     [Switch AI] +5 Party member [Kilowattrel] is immune to strongest move against Talonflame (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Talonflame (1) is considering using Dual Wingbeat (1) against Boltund (0)...
+[AI] Talonflame (1) is considering using Solar Wings (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Talonflame (1) is considering using Steel Wing (1) against Boltund (0)...
+[AI] Talonflame (1) is considering using U-turn (1) against Boltund (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Talonflame (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  50.0% to use Solar Wings (target 0): score 5
+   *   0.0% to use Steel Wing (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Solar Wings (target 0)
+
+[Round order] The opposing Talonflame (1), Boltund (0)
+
+[Use move] The opposing Talonflame (1) used Solar Wings
+"The opposing Talonflame used Solar Wings!"
+[HP change] Boltund lost 55 HP (60 -> 5)
+[HP change] Boltund gained 10 HP (5 -> 15)
+"Boltund restored a little HP using its Oran Berry!"
+[Item consumed] Boltund consumed its held Oran Berry
+[Use move] Boltund (0) used Thunder Fang
+"Boltund used Thunder Fang!"
+[HP change] The opposing Talonflame lost 62 HP (62 -> 0)
+"It's super effective!"
+"The opposing Talonflame fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Kilowattrel] + 3 because we absorb their highest damaging move against the current battler
+     [Kilowattrel] + 9 because we have kill
+     [Jumpluff] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Jumpluff] + 9 because we have kill
+     [Sigilyph] - 12 because they have kill with their highest damaging move against the current battler
+     [Sigilyph] + 9 because we have kill
+[AI] Highest move score (22) vs Switch In Score (47)
+"Bird Keeper Alexandra sent out Kilowattrel!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (25)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Boltund (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Boltund (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using U-turn (1) against Boltund (0)...
+     + 4 for switch initiative against a bad matchup
+      + 20 for fast kill
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use U-turn (target 0): score 25
+   => will use U-turn (target 0)
+
+[Round order] The opposing Kilowattrel (1), Boltund (0)
+
+"Good job, Boltund! Come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Kilowattrel (1) used U-turn
+"The opposing Kilowattrel used U-turn!"
+[HP change] Hariyama lost 10 HP (149 -> 139)
+"It's not very effective..."
+"The opposing Kilowattrel went back to Bird Keeper Alexandra!"
+     [Jumpluff] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Jumpluff] - 3 because we have no kill
+     [Sigilyph] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Sigilyph] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+"Bird Keeper Alexandra sent out Sigilyph!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Sigilyph (1): 0
+Set up score for Sigilyph (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Hariyama (0)...
+[AI] Sigilyph (1) is considering using Air Slash (1) against Hariyama (0)...
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Hariyama (0)...
+[AI] Sigilyph (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Sigilyph (1):
+   *  33.3% to use Psychic (target 0): score 1
+   *  33.3% to use Air Slash (target 0): score 1
+   *  33.3% to use Charge Beam (target 0): score 1
+   *   0.0% to use Roost: score 0
+   => will use Psychic (target 0)
+
+[Round order] Hariyama (0), the opposing Sigilyph (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Sigilyph lost 18 HP (100 -> 82)
+[Use move] The opposing Sigilyph (1) used Psychic
+"The opposing Sigilyph flinched and couldn't move!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     + 3 because we will heal more than the damage taken
+     [Switch AI] -7 We have fast kill
+Set up score for Sigilyph (1): 0
+Set up score for Sigilyph (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sigilyph (1) is considering using Air Slash (1) against Hariyama (0)...
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Hariyama (0)...
+[AI] Sigilyph (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Sigilyph (1):
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Charge Beam (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Sigilyph (1), Hariyama (0)
+
+"Hariyama, come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Sigilyph (1) used Psychic
+"The opposing Sigilyph used Psychic!"
+[HP change] Chimecho lost 18 HP (111 -> 93)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Sigilyph (1): 0
+Set up score for Sigilyph (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (12)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Sigilyph (1) is considering using Air Slash (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Chimecho (0)...
+[AI] Sigilyph (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     + 5 to encourage status move use
+[AI] Move choices for Sigilyph (1):
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Charge Beam (target 0): score 0
+   * 100.0% to use Roost: score 12
+   => will use Roost
+
+[Round order] The opposing Sigilyph (1), Chimecho (0)
+
+[Use move] The opposing Sigilyph (1) used Roost
+"The opposing Sigilyph used Roost!"
+[HP change] The opposing Sigilyph gained 18 HP (82 -> 100)
+"The opposing Sigilyph's HP was restored."
+[Use move] Chimecho (0) used Yawn
+"Chimecho used Yawn!"
+"Chimecho made the opposing Sigilyph drowsy!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Sigilyph (1): 0
+Set up score for Sigilyph (1): 0
+     [Switch AI] +3 Try to switch due to being yawned
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Sigilyph (1) is considering using Air Slash (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Chimecho (0)...
+[AI] Sigilyph (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Sigilyph (1):
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Charge Beam (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Sigilyph (1), Chimecho (0)
+
+[Use move] The opposing Sigilyph (1) used Air Slash
+"The opposing Sigilyph used Air Slash!"
+[HP change] Chimecho lost 29 HP (93 -> 64)
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Sigilyph lost 20 HP (100 -> 80)
+"It's not very effective..."
+
+[End of round 8]
+[Lingering effect] The opposing Sigilyph fell asleep because of Yawn
+"The opposing Sigilyph fell asleep!"
+[Status change] The opposing Sigilyph's sleep count is 2
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Sigilyph (1): 0
+Set up score for Sigilyph (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (12)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Sigilyph (1) is considering using Air Slash (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Chimecho (0)...
+[AI] Sigilyph (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     + 5 to encourage status move use
+[AI] Move choices for Sigilyph (1):
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Charge Beam (target 0): score 0
+   * 100.0% to use Roost: score 12
+   => will use Roost
+
+[Round order] The opposing Sigilyph (1), Chimecho (0)
+
+"Chimecho, come back!"
+"Go for it, Boltund!"
+[Use move] The opposing Sigilyph (1) used Roost
+"The opposing Sigilyph is fast asleep."
+[Status continues] The opposing Sigilyph's sleep count is 1
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     - 5 because we will not gain any HP in this exchange
+     [Switch AI] -5 We have slow kill
+Set up score for Sigilyph (1): 0
+Set up score for Sigilyph (1): 0
+     [Switch AI] +5 Party member [Kilowattrel] is immune to strongest move against Sigilyph (1)
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Sigilyph (1) is considering using Air Slash (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Boltund (0)...
+[AI] Sigilyph (1) is considering using Roost (4)...
+     - 5 because we will not gain any HP in this exchange
+     - -2 because this will be pointless
+[AI] Move choices for Sigilyph (1):
+   *  50.0% to use Psychic (target 0): score 18
+   *  50.0% to use Air Slash (target 0): score 18
+   *   0.0% to use Charge Beam (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psychic (target 0)
+
+[Round order] Boltund (0), the opposing Sigilyph (1)
+
+[Use move] Boltund (0) used Thunder Fang
+"Boltund used Thunder Fang!"
+[HP change] The opposing Sigilyph lost 80 HP (80 -> 0)
+"It's super effective!"
+"The opposing Sigilyph fainted!"
+"Chimecho got 1 Exp. Points!"
+
+[End of round 10]
+Trick Room Turns: 0
+     [Kilowattrel] + 3 because we absorb their highest damaging move against the current battler
+     [Kilowattrel] + 9 because we have kill
+     [Jumpluff] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Jumpluff] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (47)
+"Bird Keeper Alexandra sent out Kilowattrel!"
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (25)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Boltund (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Boltund (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using U-turn (1) against Boltund (0)...
+     + 4 for switch initiative against a bad matchup
+      + 20 for fast kill
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use U-turn (target 0): score 25
+   => will use U-turn (target 0)
+
+[Round order] The opposing Kilowattrel (1), Boltund (0)
+
+"Good job, Boltund! Come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Kilowattrel (1) used U-turn
+"The opposing Kilowattrel used U-turn!"
+[HP change] Hariyama lost 12 HP (139 -> 127)
+"It's not very effective..."
+"The opposing Kilowattrel went back to Bird Keeper Alexandra!"
+     [Jumpluff] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Jumpluff] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Bird Keeper Alexandra sent out Jumpluff!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Jumpluff (1): 0
+Set up score for Jumpluff (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jumpluff (1) is considering using Return (1) against Hariyama (0)...
+[AI] Jumpluff (1) is considering using Seed Bomb (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jumpluff (1) is considering using Quick Attack (1) against Hariyama (0)...
+[AI] Jumpluff (1) is considering using Sleep Powder (4) against Hariyama (0)...
+     - 10 for not being able to status
+     + 5 to encourage status move use
+     - -2 because we see kill or target sees 2HKO
+     - 10 for not being able to status
+     + 5 to encourage status move use
+[AI] Move choices for Jumpluff (1):
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] Hariyama (0), the opposing Jumpluff (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Jumpluff lost 20 HP (102 -> 82)
+[Use move] The opposing Jumpluff (1) used Seed Bomb
+"The opposing Jumpluff flinched and couldn't move!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Jumpluff (1): 0
+Set up score for Jumpluff (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jumpluff (1) is considering using Return (1) against Hariyama (0)...
+[AI] Jumpluff (1) is considering using Seed Bomb (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jumpluff (1) is considering using Quick Attack (1) against Hariyama (0)...
+[AI] Jumpluff (1) is considering using Sleep Powder (4) against Hariyama (0)...
+     - 10 for not being able to status
+     - -7 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 10 for not being able to status
+     - -10 because this will be pointless
+[AI] Move choices for Jumpluff (1):
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] The opposing Jumpluff (1), Hariyama (0)
+
+"Hariyama, come back!"
+"Go for it, Crobat!"
+[Use move] The opposing Jumpluff (1) used Seed Bomb
+"The opposing Jumpluff used Seed Bomb!"
+[HP change] Crobat lost 7 HP (107 -> 100)
+"It's not very effective..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Jumpluff (1): 0
+Set up score for Jumpluff (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jumpluff (1) is considering using Return (1) against Crobat (0)...
+[AI] Jumpluff (1) is considering using Seed Bomb (1) against Crobat (0)...
+[AI] Jumpluff (1) is considering using Quick Attack (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jumpluff (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Jumpluff (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Seed Bomb (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Jumpluff (1), Crobat (0)
+
+[Use move] The opposing Jumpluff (1) used Quick Attack
+"The opposing Jumpluff used Quick Attack!"
+[HP change] Crobat lost 23 HP (100 -> 77)
+[Use move] Crobat (0) used Cross Poison
+"Crobat used Cross Poison!"
+[HP change] The opposing Jumpluff lost 82 HP (82 -> 0)
+"It's super effective!"
+"The opposing Jumpluff fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+     [Kilowattrel] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Kilowattrel] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+"Bird Keeper Alexandra sent out Kilowattrel!"
+
+===== Round 15 =====
+
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+      + 17 for slow kill
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Crobat (0)...
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Crobat (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Crobat (0)...
+[AI] Move choices for Kilowattrel (1):
+   * 100.0% to use Discharge: score 18
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Discharge
+
+[Round order] The opposing Kilowattrel (1), Crobat (0)
+
+"Crobat, come back!"
+"You're in charge, Arboliva!"
+[Use move] The opposing Kilowattrel (1) used Discharge
+"The opposing Kilowattrel used Discharge!"
+[HP change] Arboliva lost 25 HP (107 -> 82)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Arboliva (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Arboliva (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Arboliva (0)...
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Kilowattrel (1), Arboliva (0)
+
+[Use move] The opposing Kilowattrel (1) used Air Slash
+"The opposing Kilowattrel used Air Slash!"
+[HP change] Arboliva lost 57 HP (82 -> 25)
+"It's super effective!"
+[HP change] Arboliva gained 10 HP (25 -> 35)
+"Arboliva restored a little HP using its Oran Berry!"
+[Item consumed] Arboliva consumed its held Oran Berry
+[Use move] Arboliva (0) used Hyper Voice
+"Arboliva flinched and couldn't move!"
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Arboliva (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Arboliva (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Arboliva (0)...
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Air Slash (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Kilowattrel (1), Arboliva (0)
+
+"OK, Arboliva! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Kilowattrel (1) used Air Slash
+"The opposing Kilowattrel used Air Slash!"
+[HP change] Chimecho lost 28 HP (64 -> 36)
+[HP change] Chimecho gained 10 HP (36 -> 46)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Chimecho (0)...
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Chimecho (0)...
+[AI] Move choices for Kilowattrel (1):
+   * 100.0% to use Discharge: score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Discharge
+
+[Round order] The opposing Kilowattrel (1), Chimecho (0)
+
+[Use move] The opposing Kilowattrel (1) used Discharge
+"The opposing Kilowattrel used Discharge!"
+[HP change] Chimecho lost 34 HP (46 -> 12)
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Kilowattrel lost 55 HP (96 -> 41)
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using U-turn (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Move choices for Kilowattrel (1):
+   *  25.0% to use Discharge: score 21
+   *  25.0% to use Air Slash (target 0): score 21
+   *  25.0% to use Hidden Power (target 0): score 21
+   *  25.0% to use U-turn (target 0): score 21
+   => will use U-turn (target 0)
+
+[Round order] The opposing Kilowattrel (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"Just a little more! Hang in there, Hariyama!"
+[Use move] The opposing Kilowattrel (1) used U-turn
+"The opposing Kilowattrel used U-turn!"
+[HP change] Hariyama lost 11 HP (127 -> 116)
+"It's not very effective..."
+
+[End of round 19]
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Hariyama (0)...
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] Hariyama (0), the opposing Kilowattrel (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kilowattrel lost 21 HP (41 -> 20)
+[Use move] The opposing Kilowattrel (1) used Air Slash
+"The opposing Kilowattrel flinched and couldn't move!"
+
+[End of round 20]
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Hariyama (0)...
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Kilowattrel (1), Hariyama (0)
+
+[Use move] The opposing Kilowattrel (1) used Air Slash
+"The opposing Kilowattrel used Air Slash!"
+[HP change] Hariyama lost 100 HP (116 -> 16)
+"It's super effective!"
+[HP change] Hariyama gained 10 HP (16 -> 26)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+[Use move] Hariyama (0) used Knock Off
+"Hariyama flinched and couldn't move!"
+
+[End of round 21]
+Trick Room Turns: 0
+
+===== Round 22 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using U-turn (1) against Hariyama (0)...
+[AI] Move choices for Kilowattrel (1):
+   *  33.3% to use Discharge: score 21
+   *  33.3% to use Air Slash (target 0): score 21
+   *  33.3% to use Hidden Power (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Hariyama (0), the opposing Kilowattrel (1)
+
+[Use move] Hariyama (0) used Bullet Punch
+"Hariyama used Bullet Punch!"
+[HP change] The opposing Kilowattrel lost 11 HP (20 -> 9)
+"It's not very effective..."
+[Use move] The opposing Kilowattrel (1) used Hidden Power
+"The opposing Kilowattrel used Hidden Power!"
+[HP change] Hariyama lost 26 HP (26 -> 0)
+"Hariyama fainted!"
+
+[End of round 22]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Arboliva!"
+
+===== Round 23 =====
+
+Set up score for Arboliva (0): 0
+     Threat Score for Arboliva (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Arboliva (0)...
+      + 20 for fast kill
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Arboliva (0)...
+[AI] Kilowattrel (1) is considering using U-turn (1) against Arboliva (0)...
+[AI] Move choices for Kilowattrel (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Air Slash (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] Arboliva (0), the opposing Kilowattrel (1)
+
+[Use move] Arboliva (0) used Mach Pulse
+"Arboliva used Mach Pulse!"
+[HP change] The opposing Kilowattrel lost 9 HP (9 -> 0)
+"The opposing Kilowattrel fainted!"
+
+===== Player won =====
+
+"You defeated Bird Keeper Alexandra!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for ROSELIA: [:SPECIALBREAKER]
+Roles for TSAREENA: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for EXEGGUTOR: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Jenna!"
+"Aroma Lady Jenna sent out Roselia!"
+"Go! Staraptor!"
+[Round order] Staraptor (0), the opposing Roselia (1)
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Roselia's Attack changed by -1 (0 -> -1)
+"The opposing Roselia's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Roselia (1): 0
+Set up score for Roselia (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Roselia (1) is considering using Giga Drain (1) against Staraptor (0)...
+[AI] Roselia (1) is considering using Sludge Bomb (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Roselia (1) is considering using Dazzling Gleam (1)...
+[AI] Roselia (1) is considering using Sleep Powder (4) against Staraptor (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Roselia (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Staraptor (0), the opposing Roselia (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Roselia lost 86 HP (86 -> 0)
+"It's super effective!"
+"The opposing Roselia fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Tsareena] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tsareena] + 9 because we have kill
+     [Exeggutor] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Exeggutor] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (38)
+"Aroma Lady Jenna sent out Tsareena!"
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Tsareena (1): 0
+Set up score for Tsareena (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tsareena (1) is considering using Trop Kick (1) against Staraptor (0)...
+[AI] Tsareena (1) is considering using Triple Axel (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Tsareena (1) is considering using U-turn (1) against Staraptor (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Tsareena (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] Staraptor (0), the opposing Tsareena (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Tsareena lost 68 HP (103 -> 35)
+"It's super effective!"
+[Use move] The opposing Tsareena (1) used Triple Axel
+"The opposing Tsareena used Triple Axel!"
+[HP change] Staraptor lost 28 HP (110 -> 82)
+[HP change] Staraptor lost 55 HP (82 -> 27)
+[HP change] Staraptor gained 10 HP (27 -> 37)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+[HP change] Staraptor lost 37 HP (37 -> 0)
+"A critical hit!"
+"Staraptor fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Scolipede!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Tsareena (1): 0
+Set up score for Tsareena (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Scolipede (0): 0
+     Threat Score for Scolipede (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tsareena (1) is considering using Trop Kick (1) against Scolipede (0)...
+[AI] Tsareena (1) is considering using Triple Axel (1) against Scolipede (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tsareena (1) is considering using U-turn (1) against Scolipede (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Tsareena (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *  50.0% to use Triple Axel (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Scolipede (0), the opposing Tsareena (1)
+
+[Use move] Scolipede (0) used Bug Bite
+"Scolipede used Bug Bite!"
+[HP change] The opposing Tsareena lost 35 HP (35 -> 0)
+"It's super effective!"
+"The opposing Tsareena fainted!"
+"Scolipede got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Exeggutor] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Exeggutor] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+"Aroma Lady Jenna sent out Exeggutor!"
+
+===== Round 4 =====
+
+Set up score for Scolipede (0): 0
+     Threat Score for Scolipede (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Scolipede (0)...
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Scolipede (0)...
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Scolipede (0)...
+      + 17 for slow kill
+[AI] Exeggutor (1) is considering using Hidden Power (1) against Scolipede (0)...
+[AI] Move choices for Exeggutor (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Scolipede (0), the opposing Exeggutor (1)
+
+[Use move] Scolipede (0) used Poison Tail
+"Scolipede used Poison Tail!"
+[HP change] The opposing Exeggutor lost 86 HP (115 -> 29)
+"A critical hit!"
+"It's super effective!"
+[HP change] The opposing Exeggutor gained 28 HP (29 -> 57)
+"The opposing Exeggutor restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Exeggutor consumed its held Sitrus Berry
+[Use move] The opposing Exeggutor (1) used Flamethrower
+"The opposing Exeggutor used Flamethrower!"
+[HP change] Scolipede lost 91 HP (91 -> 0)
+"It's super effective!"
+"Scolipede fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+[Ability triggered] The opposing Exeggutor's Harvest
+"The opposing Exeggutor harvested one Sitrus Berry!"
+[HP change] The opposing Exeggutor gained 28 HP (57 -> 85)
+"The opposing Exeggutor restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Exeggutor consumed its held Sitrus Berry
+"Go for it, Chimecho!"
+
+===== Round 5 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Chimecho (0)...
+[AI] Exeggutor (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Move choices for Exeggutor (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Chimecho (0), the opposing Exeggutor (1)
+
+[Use move] Chimecho (0) used Fairy Wind
+"Chimecho used Fairy Wind!"
+[HP change] The opposing Exeggutor lost 53 HP (85 -> 32)
+"It's super effective!"
+[Use move] The opposing Exeggutor (1) used Giga Drain
+"The opposing Exeggutor used Giga Drain!"
+[HP change] Chimecho lost 39 HP (111 -> 72)
+"Chimecho had its energy drained!"
+[HP change] The opposing Exeggutor gained 20 HP (32 -> 52)
+
+[End of round 5]
+Trick Room Turns: 0
+[Ability triggered] The opposing Exeggutor's Harvest
+"The opposing Exeggutor harvested one Sitrus Berry!"
+[HP change] The opposing Exeggutor gained 28 HP (52 -> 80)
+"The opposing Exeggutor restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Exeggutor consumed its held Sitrus Berry
+
+===== Round 6 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Chimecho (0)...
+[AI] Exeggutor (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Move choices for Exeggutor (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Chimecho (0), the opposing Exeggutor (1)
+
+[Use move] Chimecho (0) used Fairy Wind
+"Chimecho used Fairy Wind!"
+[HP change] The opposing Exeggutor lost 59 HP (80 -> 21)
+"It's super effective!"
+[Use move] The opposing Exeggutor (1) used Giga Drain
+"The opposing Exeggutor used Giga Drain!"
+[HP change] Chimecho lost 36 HP (72 -> 36)
+[HP change] Chimecho gained 10 HP (36 -> 46)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+"Chimecho had its energy drained!"
+[HP change] The opposing Exeggutor gained 18 HP (21 -> 39)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Chimecho (0)...
+[AI] Exeggutor (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Move choices for Exeggutor (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Chimecho (0), the opposing Exeggutor (1)
+
+[Use move] Chimecho (0) used Fairy Wind
+"Chimecho used Fairy Wind!"
+[HP change] The opposing Exeggutor lost 39 HP (39 -> 0)
+"It's super effective!"
+"The opposing Exeggutor fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Jenna!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for MEGANIUM: [:SCREENS]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Caroline!"
+"Picnicker Caroline sent out Venusaur!"
+"Go! Crobat!"
+[Round order] Crobat (0), the opposing Venusaur (1)
+
+===== Round 1 =====
+
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Crobat (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Crobat (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Crobat (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Crobat (0), the opposing Venusaur (1)
+
+[Use move] Crobat (0) used Aerial Ace
+"Crobat used Aerial Ace!"
+[HP change] The opposing Venusaur lost 72 HP (108 -> 36)
+"It's super effective!"
+[Use move] The opposing Venusaur (1) used Sludge Bomb
+"The opposing Venusaur used Sludge Bomb!"
+[HP change] Crobat lost 27 HP (107 -> 80)
+"It's not very effective..."
+
+[End of round 1]
+[HP change] The opposing Venusaur gained 6 HP (36 -> 42)
+"The opposing Venusaur restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Crobat (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Crobat (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Crobat (0), the opposing Venusaur (1)
+
+[Use move] Crobat (0) used Aerial Ace
+"Crobat used Aerial Ace!"
+[HP change] The opposing Venusaur lost 42 HP (42 -> 0)
+"It's super effective!"
+"The opposing Venusaur fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] - 3 because we have no kill
+     [Decidueye] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Decidueye] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Picnicker Caroline sent out Decidueye!"
+
+===== Round 3 =====
+
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Crobat (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Crobat (0)...
+[AI] Decidueye (1) is considering using Smack Down (1) against Crobat (0)...
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Spirit Shackle (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Spirit Shackle (target 0)
+
+[Round order] Crobat (0), the opposing Decidueye (1)
+
+"Crobat, come back!"
+"You're in charge, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Decidueye's Attack changed by -1 (0 -> -1)
+"The opposing Decidueye's Attack fell!"
+[Use move] The opposing Decidueye (1) used Spirit Shackle
+"The opposing Decidueye used Spirit Shackle!"
+[Target immune] Staraptor's type immunity
+"It doesn't affect Staraptor..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Staraptor (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Smack Down (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   * 100.0% to use Smack Down (target 0): score 5
+   => will use Smack Down (target 0)
+
+[Round order] The opposing Decidueye (1), Staraptor (0)
+
+[Use move] The opposing Decidueye (1) used Smack Down
+"The opposing Decidueye used Smack Down!"
+[HP change] Staraptor lost 38 HP (110 -> 72)
+"It's super effective!"
+"Staraptor fell straight down!"
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Decidueye lost 107 HP (107 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Decidueye fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Picnicker Caroline sent out Meganium!"
+
+===== Round 5 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Earth Power (1) against Staraptor (0)...
+
+**Exception: uninitialized constant Effectiveness::NORMAL_EFFECTIVE_ONE
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:828:in `pbCalcTypeModSingle'
+003_Move_UsageCalculations.rb:74:in `block in pbCalcTypeMod'
+003_Move_UsageCalculations.rb:73:in `each'
+003_Move_UsageCalculations.rb:73:in `pbCalcTypeMod'
+[Custom Scripts] 06_Battle_Mechanics_Changes.rb:848:in `pbCalcTypeMod'
+005_AI_ChooseMove.rb:212:in `pbPredictMoveFailureAgainstTarget'
+[Generation 9 Pack] [000] Battle_AI.rb:71:in `pbPredictMoveFailureAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:242:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:199:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:196:in `each'
+[Phantombass AI] 03_AI_Moves.rb:196:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (3 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:71:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:65:in `each'
+[Phantombass AI] 03_AI_Moves.rb:65:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:339:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:102:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:73:in `each'
+[Custom Scripts] 01_Dialogue.rb:73:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for MEGANIUM: [:SCREENS]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Caroline!"
+"Picnicker Caroline sent out Venusaur!"
+"Go! Crobat!"
+[Round order] Crobat (0), the opposing Venusaur (1)
+
+===== Round 1 =====
+
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Crobat (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Crobat (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Crobat (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Crobat (0), the opposing Venusaur (1)
+
+[Use move] Crobat (0) used Aerial Ace
+"Crobat used Aerial Ace!"
+[HP change] The opposing Venusaur lost 62 HP (108 -> 46)
+"It's super effective!"
+[Use move] The opposing Venusaur (1) used Sludge Bomb
+"The opposing Venusaur used Sludge Bomb!"
+[HP change] Crobat lost 28 HP (107 -> 79)
+"It's not very effective..."
+
+[End of round 1]
+[HP change] The opposing Venusaur gained 6 HP (46 -> 52)
+"The opposing Venusaur restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Crobat (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use Sludge Bomb (target 0): score 5
+   *  50.0% to use Hidden Power (target 0): score 5
+   => will use Sludge Bomb (target 0)
+
+[Round order] Crobat (0), the opposing Venusaur (1)
+
+[Use move] Crobat (0) used Aerial Ace
+"Crobat used Aerial Ace!"
+[HP change] The opposing Venusaur lost 52 HP (52 -> 0)
+"It's super effective!"
+"The opposing Venusaur fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] - 3 because we have no kill
+     [Decidueye] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Decidueye] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Picnicker Caroline sent out Decidueye!"
+
+===== Round 3 =====
+
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Crobat (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Crobat (0)...
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Crobat (0)...
+[AI] Decidueye (1) is considering using Smack Down (1) against Crobat (0)...
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Spirit Shackle (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Spirit Shackle (target 0)
+
+[Round order] Crobat (0), the opposing Decidueye (1)
+
+"Crobat, come back!"
+"You're in charge, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Decidueye's Attack changed by -1 (0 -> -1)
+"The opposing Decidueye's Attack fell!"
+[Use move] The opposing Decidueye (1) used Spirit Shackle
+"The opposing Decidueye used Spirit Shackle!"
+[Target immune] Staraptor's type immunity
+"It doesn't affect Staraptor..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Staraptor (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Smack Down (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   * 100.0% to use Smack Down (target 0): score 5
+   => will use Smack Down (target 0)
+
+[Round order] The opposing Decidueye (1), Staraptor (0)
+
+[Use move] The opposing Decidueye (1) used Smack Down
+"The opposing Decidueye used Smack Down!"
+[HP change] Staraptor lost 35 HP (110 -> 75)
+"It's super effective!"
+"Staraptor fell straight down!"
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Decidueye lost 90 HP (107 -> 17)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+Set up score for Decidueye (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Smack Down (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Decidueye (1):
+   *  50.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *  50.0% to use Smack Down (target 0): score 5
+   => will use Smack Down (target 0)
+
+[Round order] The opposing Decidueye (1), Staraptor (0)
+
+[Use move] The opposing Decidueye (1) used Smack Down
+"The opposing Decidueye used Smack Down!"
+[HP change] Staraptor lost 38 HP (75 -> 37)
+"It's super effective!"
+[HP change] Staraptor gained 10 HP (37 -> 47)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Decidueye lost 17 HP (17 -> 0)
+"It's super effective!"
+"The opposing Decidueye fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] + 4 because we have 2HKO
+[AI] Highest move score (18) vs Switch In Score (33)
+"Picnicker Caroline sent out Meganium!"
+
+===== Round 6 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Earth Power (1) against Staraptor (0)...
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 11 based on enemy and physical enemy count
+     - 14 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 7 based on enemy and special enemy count
+     - 10 because this will be pointless
+[AI] Move choices for Meganium (1):
+   * 100.0% to use Energy Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Energy Ball (target 0)
+
+[Round order] Staraptor (0), the opposing Meganium (1)
+
+"OK, Staraptor! Come back!"
+"You're in charge, Centiskorch!"
+[Use move] The opposing Meganium (1) used Energy Ball
+"The opposing Meganium used Energy Ball!"
+[HP change] Centiskorch lost 9 HP (121 -> 112)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Centiskorch (0)...
+[AI] Meganium (1) is considering using Earth Power (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 11 based on enemy and physical enemy count
+     - 14 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 7 based on enemy and special enemy count
+     - 10 because this will be pointless
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Meganium (1), Centiskorch (0)
+
+[Use move] The opposing Meganium (1) used Earth Power
+"The opposing Meganium used Earth Power!"
+[HP change] Centiskorch lost 27 HP (112 -> 85)
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Meganium lost 80 HP (106 -> 26)
+"It's super effective!"
+"The opposing Meganium had its energy drained!"
+[HP change] Centiskorch gained 36 HP (85 -> 121)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Centiskorch (0)...
+[AI] Meganium (1) is considering using Earth Power (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 11 based on enemy and physical enemy count
+     - 14 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 7 based on enemy and special enemy count
+     - 10 because this will be pointless
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Meganium (1), Centiskorch (0)
+
+[Use move] The opposing Meganium (1) used Earth Power
+"The opposing Meganium used Earth Power!"
+[HP change] Centiskorch lost 25 HP (121 -> 96)
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Meganium lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Meganium fainted!"
+"The opposing Meganium had its energy drained!"
+[HP change] Centiskorch gained 13 HP (96 -> 109)
+"Centiskorch got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Picnicker Caroline!"
+"Wow. You're great!"
+
+"You got $544 for winning!"
+Roles for TREVENANT: [:PHYSICALBREAKER, :SPEEDCONTROL, :WEATHERTERRAINABUSER]
+Roles for TROPIUS: [:PHYSICALBREAKER, :SPEEDCONTROL, :TANK, :WEATHERTERRAINABUSER]
+Roles for CRADILY: [:SPECIALBREAKER]
+Roles for LILLIGANT: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Angela!"
+"Aroma Lady Angela sent out Trevenant!"
+"Go! Staraptor!"
+[Round order] Staraptor (0), the opposing Trevenant (1)
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Trevenant's Attack changed by -1 (0 -> -1)
+"The opposing Trevenant's Attack fell!"
+
+===== Round 1 =====
+
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+Set up score for Trevenant (1): -1
+Set up score for Trevenant (1): -1
+Set up score for Trevenant (1): -1
+Set up score for Trevenant (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Staraptor (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Trevenant (1) is considering using Horn Leech (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   * 100.0% to use Horn Leech (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Shadow Claw (target 0): score 0
+   => will use Horn Leech (target 0)
+
+[Round order] Staraptor (0), the opposing Trevenant (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Trevenant lost 82 HP (112 -> 30)
+"It's super effective!"
+[HP change] The opposing Trevenant gained 28 HP (30 -> 58)
+"The opposing Trevenant restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Trevenant consumed its held Sitrus Berry
+[Use move] The opposing Trevenant (1) used Horn Leech
+"The opposing Trevenant used Horn Leech!"
+[HP change] Staraptor lost 24 HP (110 -> 86)
+"It's not very effective..."
+"Staraptor had its energy drained!"
+[HP change] The opposing Trevenant gained 12 HP (58 -> 70)
+
+[End of round 1]
+Trick Room Turns: 0
+[Ability triggered] The opposing Trevenant's Harvest
+"The opposing Trevenant harvested one Sitrus Berry!"
+
+===== Round 2 =====
+
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Trevenant (1): -1
+Set up score for Trevenant (1): -1
+Set up score for Trevenant (1): -1
+Set up score for Trevenant (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Staraptor (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Trevenant (1) is considering using Horn Leech (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   * 100.0% to use Horn Leech (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Shadow Claw (target 0): score 0
+   => will use Horn Leech (target 0)
+
+[Round order] Staraptor (0), the opposing Trevenant (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Trevenant lost 70 HP (70 -> 0)
+"It's super effective!"
+"The opposing Trevenant fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Staraptor (0)
+     move will not affect Staraptor (0)
+     [Tropius] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tropius] + 4 because we have 2HKO
+     [Cradily] + 9 because we have kill
+     [Lilligant] - 12 because they have kill with their highest damaging move against the current battler
+     [Lilligant] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Aroma Lady Angela sent out Cradily!"
+
+===== Round 3 =====
+
+     move will not affect Staraptor (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Staraptor (0)...
+[AI] Cradily (1) is considering using Power Gem (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Cradily (1) is considering using Hidden Power (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Power Gem (target 0)
+
+[Round order] Staraptor (0), the opposing Cradily (1)
+
+"Staraptor, come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Cradily (1) used Power Gem
+"The opposing Cradily used Power Gem!"
+[HP change] Hariyama lost 25 HP (149 -> 124)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Power Gem (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Power Gem (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Hariyama (0), the opposing Cradily (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Cradily lost 8 HP (109 -> 101)
+"It's not very effective..."
+[Use move] The opposing Cradily (1) used Giga Drain
+"The opposing Cradily flinched and couldn't move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Power Gem (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Power Gem (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Hariyama (0), the opposing Cradily (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Cradily lost 52 HP (101 -> 49)
+"A critical hit!"
+"It's super effective!"
+"The Chople Berry weakened the damage to the opposing Cradily!"
+[Item consumed] The opposing Cradily consumed its held Chople Berry
+[Use move] The opposing Cradily (1) used Giga Drain
+"The opposing Cradily used Giga Drain!"
+[HP change] Hariyama lost 46 HP (124 -> 78)
+"Hariyama had its energy drained!"
+[HP change] The opposing Cradily gained 23 HP (49 -> 72)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Power Gem (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Power Gem (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Hariyama (0), the opposing Cradily (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Cradily lost 69 HP (72 -> 3)
+"It's super effective!"
+"The opposing Cradily is paralyzed! It may be unable to move!"
+[Use move] The opposing Cradily (1) used Giga Drain
+"The opposing Cradily used Giga Drain!"
+[HP change] Hariyama lost 50 HP (78 -> 28)
+[HP change] Hariyama gained 10 HP (28 -> 38)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+"Hariyama had its energy drained!"
+[HP change] The opposing Cradily gained 25 HP (3 -> 28)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Hariyama (0)...
+      + 17 for slow kill
+[AI] Cradily (1) is considering using Power Gem (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   * 100.0% to use Giga Drain (target 0): score 18
+   *   0.0% to use Power Gem (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Hariyama (0), the opposing Cradily (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Cradily lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Cradily fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Tropius] + 2 because we outspeed
+     [Tropius] + 9 because we have kill
+     [Lilligant] + 2 because we outspeed
+     [Lilligant] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (46)
+"Aroma Lady Angela sent out Lilligant!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Brick Break (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *  33.3% to use Trop Kick (target 0): score 21
+   *  33.3% to use Brick Break (target 0): score 21
+   *  33.3% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Hariyama (0)
+
+"OK, Hariyama! Come back!"
+"You're in charge, Crobat!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Crobat lost 20 HP (107 -> 87)
+[HP change] Crobat lost 36 HP (87 -> 51)
+[HP change] Crobat gained 10 HP (51 -> 61)
+"Crobat restored a little HP using its Oran Berry!"
+[Item consumed] Crobat consumed its held Oran Berry
+[HP change] Crobat lost 55 HP (61 -> 6)
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Crobat (0)...
+      + 17 for slow kill
+[AI] Lilligant (1) is considering using Brick Break (1) against Crobat (0)...
+      + 17 for slow kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Crobat (0)...
+      + 17 for slow kill
+[AI] Move choices for Lilligant (1):
+   *  33.3% to use Trop Kick (target 0): score 18
+   *  33.3% to use Brick Break (target 0): score 18
+   *  33.3% to use Triple Axel (target 0): score 18
+   => will use Trop Kick (target 0)
+
+[Round order] Crobat (0), the opposing Lilligant (1)
+
+[Use move] Crobat (0) used Aerial Ace
+"Crobat used Aerial Ace!"
+[HP change] The opposing Lilligant lost 77 HP (102 -> 25)
+"It's super effective!"
+"The Coba Berry weakened the damage to the opposing Lilligant!"
+[Item consumed] The opposing Lilligant consumed its held Coba Berry
+[Use move] The opposing Lilligant (1) used Trop Kick
+"The opposing Lilligant used Trop Kick!"
+[HP change] Crobat lost 6 HP (6 -> 0)
+"It's not very effective..."
+"Crobat fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Lilligant's Attack changed by -1 (0 -> -1)
+"The opposing Lilligant's Attack fell!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): -1
+Set up score for Lilligant (1): -1
+Set up score for Lilligant (1): -1
+Set up score for Lilligant (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Staraptor (0)...
+[AI] Lilligant (1) is considering using Brick Break (1) against Staraptor (0)...
+[AI] Lilligant (1) is considering using Triple Axel (1) against Staraptor (0)...
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] Staraptor (0), the opposing Lilligant (1)
+
+[Use move] Staraptor (0) used Quick Attack
+"Staraptor used Quick Attack!"
+[HP change] The opposing Lilligant lost 25 HP (25 -> 0)
+"The opposing Lilligant fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     [Tropius] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tropius] + 4 because we have 2HKO
+[AI] Highest move score (18) vs Switch In Score (33)
+"Aroma Lady Angela sent out Tropius!"
+
+===== Round 11 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Staraptor (0)...
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tropius (1) is considering using Bulldoze (1)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Tropius (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Tropius (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Roost: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Staraptor (0), the opposing Tropius (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Tropius lost 80 HP (118 -> 38)
+"It's super effective!"
+[HP change] The opposing Tropius gained 29 HP (38 -> 67)
+"The opposing Tropius restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Tropius consumed its held Sitrus Berry
+[Use move] The opposing Tropius (1) used Dual Wingbeat
+"The opposing Tropius used Dual Wingbeat!"
+[HP change] Staraptor lost 24 HP (86 -> 62)
+[HP change] Staraptor lost 25 HP (62 -> 37)
+[HP change] Staraptor gained 10 HP (37 -> 47)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+"Hit 2 times!"
+
+[End of round 11]
+Trick Room Turns: 0
+[Ability triggered] The opposing Tropius's Harvest
+"The opposing Tropius harvested one Sitrus Berry!"
+
+===== Round 12 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Staraptor (0)...
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Tropius (1) is considering using Bulldoze (1)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Tropius (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Tropius (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 18
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Roost: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Staraptor (0), the opposing Tropius (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Tropius lost 67 HP (67 -> 0)
+"It's super effective!"
+"The opposing Tropius fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Angela!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for SHIFTRY: [:WEATHERTERRAIN]
+Roles for TORTERRA: [:PHYSICALBREAKER, :LEAD]
+Roles for BELLOSSOM: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for SUNFLORA: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for CELEBI: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :STATUSABSORBER]
+Roles for ROSERADE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Gardenia!"
+"Gym Leader Gardenia sent out Shiftry!"
+"Go! Centiskorch!"
+[Round order] The opposing Shiftry (1), Centiskorch (0)
+
+===== Round 1 =====
+
+Set up score for Shiftry (1): 0
+Set up score for Shiftry (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Centiskorch (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Shiftry (1) is considering using Fake Out (1) against Centiskorch (0)...
+     + 18 for using Fake Out turn 1
+[AI] Shiftry (1) is considering using Night Slash (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shiftry (1) is considering using Giga Drain (1) against Centiskorch (0)...
+[AI] Shiftry (1) is considering using Sunny Day (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Shiftry (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Sunny Day: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Shiftry (1), Centiskorch (0)
+
+[Use move] The opposing Shiftry (1) used Fake Out
+"The opposing Shiftry used Fake Out!"
+[HP change] Centiskorch lost 20 HP (121 -> 101)
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Shiftry (1): 0
+Set up score for Shiftry (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shiftry (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Shiftry (1) is considering using Night Slash (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shiftry (1) is considering using Giga Drain (1) against Centiskorch (0)...
+[AI] Shiftry (1) is considering using Sunny Day (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Shiftry (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Sunny Day: score 0
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Shiftry (1), Centiskorch (0)
+
+[Use move] The opposing Shiftry (1) used Night Slash
+"The opposing Shiftry used Night Slash!"
+[HP change] Centiskorch lost 54 HP (101 -> 47)
+[HP change] Centiskorch gained 10 HP (47 -> 57)
+"Centiskorch restored a little HP using its Oran Berry!"
+[Item consumed] Centiskorch consumed its held Oran Berry
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Shiftry lost 118 HP (118 -> 0)
+"It's super effective!"
+"The opposing Shiftry fainted!"
+"The opposing Shiftry had its energy drained!"
+[HP change] Centiskorch gained 59 HP (57 -> 116)
+
+[End of round 2]
+Trick Room Turns: 0
+     [Torterra] - 12 because they have kill with their highest damaging move against the current battler
+     [Torterra] + 9 because we have kill
+     [Bellossom] - 3 because we have no kill
+     [Sunflora] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Sunflora] + 4 because we have 2HKO
+     [Celebi] - 12 because they have kill with their highest damaging move against the current battler
+     [Celebi] + 4 because we have 2HKO
+     [Roserade] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Roserade] + 9 because we have kill
+[AI] Highest move score (28) vs Switch In Score (38)
+"Gym Leader Gardenia sent out Roserade!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Centiskorch (0)...
+[AI] Roserade (1) is considering using Sludge (1) against Centiskorch (0)...
+[AI] Roserade (1) is considering using Hidden Power (1) against Centiskorch (0)...
+      + 20 for fast kill
+[AI] Roserade (1) is considering using Shadow Ball (1) against Centiskorch (0)...
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Roserade (1), Centiskorch (0)
+
+"Centiskorch, come back!"
+"You're in charge, Probopass!"
+[Use move] The opposing Roserade (1) used Hidden Power
+"The opposing Roserade used Hidden Power!"
+[HP change] Probopass lost 19 HP (89 -> 70)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Probopass (0)
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Sludge (1) against Probopass (0)...
+     move will not affect Probopass (0)
+     -  1: move will fail
+[AI] Roserade (1) is considering using Hidden Power (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Shadow Ball (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Roserade (1), Probopass (0)
+
+[Use move] The opposing Roserade (1) used Shadow Ball
+"The opposing Roserade used Shadow Ball!"
+[HP change] Probopass lost 23 HP (70 -> 47)
+[Use move] Probopass (0) used Thunder Wave
+"Probopass used Thunder Wave!"
+"The opposing Roserade is paralyzed! It may be unable to move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Probopass (0)
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Sludge (1) against Probopass (0)...
+     move will not affect Probopass (0)
+     -  1: move will fail
+[AI] Roserade (1) is considering using Hidden Power (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Shadow Ball (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Roserade (1), Probopass (0)
+
+[Use move] The opposing Roserade (1) used Shadow Ball
+"The opposing Roserade used Shadow Ball!"
+[HP change] Probopass lost 21 HP (47 -> 26)
+[HP change] Probopass gained 10 HP (26 -> 36)
+"Probopass restored a little HP using its Oran Berry!"
+[Item consumed] Probopass consumed its held Oran Berry
+[Use move] Probopass (0) used Flash Cannon
+"Probopass used Flash Cannon!"
+[HP change] The opposing Roserade lost 32 HP (97 -> 65)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Probopass (0)
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Sludge (1) against Probopass (0)...
+     move will not affect Probopass (0)
+     -  1: move will fail
+[AI] Roserade (1) is considering using Hidden Power (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Shadow Ball (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Roserade (1), Probopass (0)
+
+[Use move] The opposing Roserade (1) used Shadow Ball
+"The opposing Roserade used Shadow Ball!"
+[HP change] Probopass lost 25 HP (36 -> 11)
+[Use move] Probopass (0) used Rest
+"Probopass used Rest!"
+"Probopass slept and became healthy!"
+[Status change] Probopass's sleep count is 3
+[HP change] Probopass gained 78 HP (11 -> 89)
+"Probopass's HP was restored."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Sludge (1) against Probopass (0)...
+     move will not affect Probopass (0)
+     -  1: move will fail
+[AI] Roserade (1) is considering using Hidden Power (1) against Probopass (0)...
+[AI] Roserade (1) is considering using Shadow Ball (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Roserade (1), Probopass (0)
+
+"Probopass, come back!"
+"Go for it, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Roserade's Attack changed by -1 (0 -> -1)
+"The opposing Roserade's Attack fell!"
+[Use move] The opposing Roserade (1) used Shadow Ball
+"The opposing Roserade used Shadow Ball!"
+[Target immune] Staraptor's type immunity
+"It doesn't affect Staraptor..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Staraptor (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Staraptor (0)...
+[AI] Roserade (1) is considering using Sludge (1) against Staraptor (0)...
+[AI] Roserade (1) is considering using Hidden Power (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Roserade (1) is considering using Shadow Ball (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 18
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Staraptor (0), the opposing Roserade (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Roserade lost 65 HP (65 -> 0)
+"It's super effective!"
+"The opposing Roserade fainted!"
+"Probopass got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     move will not affect Staraptor (0)
+     [Torterra] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Torterra] + 4 because we have 2HKO
+     [Bellossom] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Bellossom] + 4 because we have 2HKO
+     [Sunflora] - 12 because they have kill with their highest damaging move against the current battler
+     [Sunflora] + 4 because we have 2HKO
+     [Celebi] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Celebi] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Gym Leader Gardenia sent out Bellossom!"
+
+===== Round 9 =====
+
+     move will not affect Staraptor (0)
+Set up score for Bellossom (1): 0
+Set up score for Bellossom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bellossom (1) is considering using Dazzling Gleam (1)...
+     + 4 to prioritize highest damaging move
+[AI] Bellossom (1) is considering using Giga Drain (1) against Staraptor (0)...
+[AI] Bellossom (1) is considering using Hidden Power (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Bellossom (1) is considering using Sleep Powder (4) against Staraptor (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Bellossom (1):
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Staraptor (0), the opposing Bellossom (1)
+
+"Staraptor, come back!"
+"You're in charge, Crobat!"
+[Use move] The opposing Bellossom (1) used Dazzling Gleam
+"The opposing Bellossom used Dazzling Gleam!"
+[HP change] Crobat lost 25 HP (107 -> 82)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Crobat (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Bellossom (1): 0
+Set up score for Bellossom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bellossom (1) is considering using Dazzling Gleam (1)...
+     + 4 to prioritize highest damaging move
+[AI] Bellossom (1) is considering using Giga Drain (1) against Crobat (0)...
+[AI] Bellossom (1) is considering using Hidden Power (1) against Crobat (0)...
+     move will not affect Crobat (0)
+     -  1: move will fail
+[AI] Bellossom (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Bellossom (1):
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Crobat (0), the opposing Bellossom (1)
+
+[Use move] Crobat (0) used Aerial Ace
+"Crobat used Aerial Ace!"
+[HP change] The opposing Bellossom lost 61 HP (108 -> 47)
+"It's super effective!"
+[Use move] The opposing Bellossom (1) used Dazzling Gleam
+"The opposing Bellossom used Dazzling Gleam!"
+[HP change] Crobat lost 23 HP (82 -> 59)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Crobat (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Bellossom (1): 0
+Set up score for Bellossom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bellossom (1) is considering using Dazzling Gleam (1)...
+     + 4 to prioritize highest damaging move
+[AI] Bellossom (1) is considering using Giga Drain (1) against Crobat (0)...
+[AI] Bellossom (1) is considering using Hidden Power (1) against Crobat (0)...
+     move will not affect Crobat (0)
+     -  1: move will fail
+[AI] Bellossom (1) is considering using Sleep Powder (4) against Crobat (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Bellossom (1):
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Crobat (0), the opposing Bellossom (1)
+
+[Use move] Crobat (0) used Cross Poison
+"Crobat used Cross Poison!"
+[HP change] The opposing Bellossom lost 47 HP (47 -> 0)
+"It's super effective!"
+"The opposing Bellossom fainted!"
+"The Kebia Berry weakened the damage to the opposing Bellossom!"
+[Item consumed] The opposing Bellossom consumed its held Kebia Berry
+
+[End of round 11]
+Trick Room Turns: 0
+     move will not affect Crobat (0)
+     [Torterra] + 9 because we have kill
+     [Sunflora] - 12 because they have kill with their highest damaging move against the current battler
+     [Sunflora] + 9 because we have kill
+     [Celebi] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Celebi] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Gym Leader Gardenia sent out Torterra!"
+
+===== Round 12 =====
+
+     move will not affect Crobat (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Torterra (1): 0
+Set up score for Torterra (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Crobat (0): 0
+     Threat Score for Crobat (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Torterra (1) is considering using Seed Bomb (1) against Crobat (0)...
+[AI] Torterra (1) is considering using Stomping Tantrum (1) against Crobat (0)...
+     move will not affect Crobat (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Rock Slide (1)...
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   * 100.0% to use Rock Slide: score 18
+   *   0.0% to use Stealth Rock: score 0
+   => will use Rock Slide
+
+[Round order] Crobat (0), the opposing Torterra (1)
+
+"Crobat, come back!"
+"You're in charge, Probopass!"
+[Use move] The opposing Torterra (1) used Rock Slide
+"The opposing Torterra used Rock Slide!"
+[HP change] Probopass lost 9 HP (89 -> 80)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Torterra (1) is considering using Seed Bomb (1) against Probopass (0)...
+[AI] Torterra (1) is considering using Stomping Tantrum (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Rock Slide (1)...
+[AI] Torterra (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Stealth Rock: score 10
+   => will use Stealth Rock
+
+[Round order] The opposing Torterra (1), Probopass (0)
+
+"Probopass, switch out! Come back!"
+"You're in charge, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Torterra's Attack changed by -1 (0 -> -1)
+"The opposing Torterra's Attack fell!"
+[Use move] The opposing Torterra (1) used Stealth Rock
+"The opposing Torterra used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     move will not affect Staraptor (0)
+Set up score for Torterra (1): -1
+Set up score for Torterra (1): -1
+Set up score for Torterra (1): -1
+Set up score for Torterra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Torterra (1) is considering using Seed Bomb (1) against Staraptor (0)...
+[AI] Torterra (1) is considering using Stomping Tantrum (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Stealth Rock...
+     -  4: move will fail
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   *   0.0% to use Stealth Rock: score 0
+   => will use Rock Slide
+
+[Round order] Staraptor (0), the opposing Torterra (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Torterra lost 67 HP (119 -> 52)
+"It's super effective!"
+"The opposing Torterra is switched out with the Eject Button!"
+[Item consumed] The opposing Torterra consumed its held Eject Button
+     move will not affect Staraptor (0)
+     [Sunflora] - 12 because they have kill with their highest damaging move against the current battler
+     [Sunflora] + 4 because we have 2HKO
+     [Celebi] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Celebi] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Gym Leader Gardenia sent out Celebi!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Celebi (1): 0
+Set up score for Celebi (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Celebi (1) is considering using Giga Drain (1) against Staraptor (0)...
+[AI] Celebi (1) is considering using U-turn (1) against Staraptor (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Celebi (1) is considering using Aura Sphere (1) against Staraptor (0)...
+[AI] Move choices for Celebi (1):
+   *  50.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Celebi (1), Staraptor (0)
+
+[Use move] The opposing Celebi (1) used Psyshock
+"The opposing Celebi used Psyshock!"
+[HP change] Staraptor lost 56 HP (110 -> 54)
+[HP change] Staraptor gained 10 HP (54 -> 64)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Celebi lost 97 HP (122 -> 25)
+"A critical hit!"
+"It's super effective!"
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Celebi (1): 0
+Set up score for Celebi (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Celebi (1) is considering using Giga Drain (1) against Staraptor (0)...
+[AI] Celebi (1) is considering using U-turn (1) against Staraptor (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Celebi (1) is considering using Aura Sphere (1) against Staraptor (0)...
+[AI] Move choices for Celebi (1):
+   *  50.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use U-turn (target 0)
+
+[Round order] Staraptor (0), the opposing Celebi (1)
+
+[Use move] Staraptor (0) used Quick Attack
+"Staraptor used Quick Attack!"
+[HP change] The opposing Celebi lost 24 HP (25 -> 1)
+[Use move] The opposing Celebi (1) used U-turn
+"The opposing Celebi used U-turn!"
+[HP change] Staraptor lost 16 HP (64 -> 48)
+"It's not very effective..."
+"The opposing Celebi went back to Gym Leader Gardenia!"
+     [Torterra] - 12 because they have kill with their highest damaging move against the current battler
+     [Torterra] + 9 because we have kill
+     [Sunflora] - 12 because they have kill with their highest damaging move against the current battler
+     [Sunflora] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (32)
+"Gym Leader Gardenia sent out Sunflora!"
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+     move will not affect Staraptor (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Sunflora (1): 0
+Set up score for Sunflora (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sunflora (1) is considering using Giga Drain (1) against Staraptor (0)...
+[AI] Sunflora (1) is considering using Flame Burst (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Sunflora (1) is considering using Scorching Sands (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Sunflora (1) is considering using Hidden Power (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Move choices for Sunflora (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use Flame Burst (target 0): score 18
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *  50.0% to use Hidden Power (target 0): score 18
+   => will use Hidden Power (target 0)
+
+[Round order] Staraptor (0), the opposing Sunflora (1)
+
+"OK, Staraptor! Come back!"
+"You're in charge, Hypno!"
+[HP change] Hypno lost 13 HP (105 -> 92)
+"Pointed stones dug into Hypno!"
+[Ability triggered] Hypno's Forewarn
+"Hypno was alerted to Giga Drain!"
+[Ability triggered] Hypno's Forewarn
+[Stat change] Hypno's Special Defense changed by +1 (0 -> 1)
+"Hypno's Special Defense rose!"
+[Use move] The opposing Sunflora (1) used Hidden Power
+"The opposing Sunflora used Hidden Power!"
+[HP change] Hypno lost 13 HP (92 -> 79)
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Sunflora (1): 0
+Set up score for Sunflora (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sunflora (1) is considering using Giga Drain (1) against Hypno (0)...
+[AI] Sunflora (1) is considering using Flame Burst (1) against Hypno (0)...
+[AI] Sunflora (1) is considering using Scorching Sands (1) against Hypno (0)...
+[AI] Sunflora (1) is considering using Hidden Power (1) against Hypno (0)...
+[AI] Move choices for Sunflora (1):
+   *  25.0% to use Giga Drain (target 0): score 1
+   *  25.0% to use Flame Burst (target 0): score 1
+   *  25.0% to use Scorching Sands (target 0): score 1
+   *  25.0% to use Hidden Power (target 0): score 1
+   => will use Flame Burst (target 0)
+
+[Round order] Hypno (0), the opposing Sunflora (1)
+
+[Use move] Hypno (0) used Toxoplasm
+"Hypno used Toxoplasm!"
+[HP change] The opposing Sunflora lost 54 HP (108 -> 54)
+"It's super effective!"
+"The opposing Sunflora had its energy drained!"
+[HP change] Hypno gained 26 HP (79 -> 105)
+[Use move] The opposing Sunflora (1) used Flame Burst
+"The opposing Sunflora used Flame Burst!"
+"The Fire Gem strengthened Flame Burst's power!"
+[HP change] Hypno lost 31 HP (105 -> 74)
+[Item consumed] The opposing Sunflora consumed its held Fire Gem
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sunflora (1): 0
+Set up score for Sunflora (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sunflora (1) is considering using Giga Drain (1) against Hypno (0)...
+[AI] Sunflora (1) is considering using Flame Burst (1) against Hypno (0)...
+[AI] Sunflora (1) is considering using Scorching Sands (1) against Hypno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sunflora (1) is considering using Hidden Power (1) against Hypno (0)...
+[AI] Move choices for Sunflora (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Scorching Sands (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Scorching Sands (target 0)
+
+[Round order] Hypno (0), the opposing Sunflora (1)
+
+[Use move] Hypno (0) used Toxoplasm
+"Hypno used Toxoplasm!"
+[HP change] The opposing Sunflora lost 54 HP (54 -> 0)
+"It's super effective!"
+"The opposing Sunflora fainted!"
+"The opposing Sunflora had its energy drained!"
+[HP change] Hypno gained 27 HP (74 -> 101)
+
+[End of round 19]
+Trick Room Turns: 0
+     [Torterra] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Torterra] + 9 because we have kill
+     [Celebi] - 12 because they have kill with their highest damaging move against the current battler
+     [Celebi] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (38)
+"Gym Leader Gardenia sent out Torterra!"
+
+===== Round 20 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Torterra (1): 0
+Set up score for Torterra (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Torterra (1) is considering using Seed Bomb (1) against Hypno (0)...
+[AI] Torterra (1) is considering using Stomping Tantrum (1) against Hypno (0)...
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Rock Slide (1)...
+[AI] Torterra (1) is considering using Stealth Rock...
+     -  4: move will fail
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 18
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Stealth Rock: score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Hypno (0), the opposing Torterra (1)
+
+"Hypno, come back!"
+"Just a little more! Hang in there, Staraptor!"
+[HP change] Staraptor lost 28 HP (48 -> 20)
+"Pointed stones dug into Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Torterra's Attack changed by -1 (0 -> -1)
+"The opposing Torterra's Attack fell!"
+[Use move] The opposing Torterra (1) used Stomping Tantrum
+"The opposing Torterra used Stomping Tantrum!"
+[Target immune] Staraptor's type immunity
+"It doesn't affect Staraptor..."
+
+[End of round 20]
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+     move will not affect Staraptor (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Torterra (1): -1
+Set up score for Torterra (1): -1
+Set up score for Torterra (1): -1
+Set up score for Torterra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-4) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Torterra (1) is considering using Seed Bomb (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Stomping Tantrum (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Rock Slide (1)...
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Stealth Rock...
+     -  4: move will fail
+[AI] Move choices for Torterra (1):
+   *  50.0% to use Seed Bomb (target 0): score 18
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *  50.0% to use Rock Slide: score 18
+   *   0.0% to use Stealth Rock: score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] Staraptor (0), the opposing Torterra (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Torterra lost 52 HP (52 -> 0)
+"It's super effective!"
+"The opposing Torterra fainted!"
+
+[End of round 21]
+Trick Room Turns: 0
+     move will not affect Staraptor (0)
+     [Celebi] - 12 because they have kill with their highest damaging move against the current battler
+     [Celebi] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (32)
+"Gym Leader Gardenia sent out Celebi!"
+
+===== Round 22 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Staraptor (0)...
+      + 20 for fast kill
+[AI] Celebi (1) is considering using Giga Drain (1) against Staraptor (0)...
+      + 20 for fast kill
+[AI] Celebi (1) is considering using U-turn (1) against Staraptor (0)...
+[AI] Celebi (1) is considering using Aura Sphere (1) against Staraptor (0)...
+      + 20 for fast kill
+[AI] Move choices for Celebi (1):
+   *  33.3% to use Psyshock (target 0): score 21
+   *  33.3% to use Giga Drain (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   *  33.3% to use Aura Sphere (target 0): score 21
+   => will use Psyshock (target 0)
+
+[Round order] Staraptor (0), the opposing Celebi (1)
+
+[Use move] Staraptor (0) used Quick Attack
+"Staraptor used Quick Attack!"
+[HP change] The opposing Celebi lost 1 HP (1 -> 0)
+"The opposing Celebi fainted!"
+
+===== Player won =====
+
+"You defeated Gym Leader Gardenia!"
+"Wow. You're great!"
+
+"You got $3,500 for winning!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Probopass!"
+[Round order] Flygon (0), the opposing Luxray (3), the opposing Kecleon (1), Probopass (2)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Probopass's Attack changed by -1 (0 -> -1)
+"Probopass's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Probopass (2): 0
+     Threat Score for Probopass (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Probopass (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+[AI] Kecleon (1) is considering using Fake Out (1) against Probopass (2)...
+     + 18 for using Fake Out turn 1
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Probopass (2)...
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Probopass (2)...
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+[AI] Kecleon (1) is considering using Drain Punch (1) against Probopass (2)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *  50.0% to use Fake Out (target 0): score 19
+   *  50.0% to use Fake Out (target 2): score 19
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Probopass (2): 0
+     Threat Score for Probopass (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Probopass (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Probopass (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Probopass (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Probopass (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   * 100.0% to use Ice Fang (target 0): score 19
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Kecleon (1), Flygon (0), the opposing Luxray (3), Probopass (2)
+
+"Probopass, switch out! Come back!"
+"You're in charge, Centiskorch!"
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon used Fake Out!"
+"The Normal Gem strengthened Fake Out's power!"
+[HP change] Centiskorch lost 36 HP (131 -> 95)
+[Item consumed] The opposing Kecleon consumed its held Normal Gem
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 90 HP (111 -> 21)
+"It's super effective!"
+[Use move] The opposing Luxray (3) used Ice Fang
+"The opposing Luxray used Ice Fang!"
+[HP change] Flygon lost 112 HP (112 -> 0)
+"It's super effective!"
+"Flygon fainted!"
