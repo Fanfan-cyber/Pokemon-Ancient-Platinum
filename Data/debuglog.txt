@@ -92973,3 +92973,1830 @@ Set up score for Hariyama (2): -1
 [HP change] Flygon lost 112 HP (112 -> 0)
 "It's super effective!"
 "Flygon fainted!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Hariyama!"
+[Round order] Flygon (0), the opposing Luxray (3), Hariyama (2), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+     + -2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Hariyama (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   * 100.0% to use Ice Fang (target 0): score 21
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] Hariyama (2), the opposing Kecleon (1), Flygon (0), the opposing Luxray (3)
+
+[Use move] Hariyama (2) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kecleon lost 22 HP (97 -> 75)
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon flinched and couldn't move!"
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Luxray fainted!"
+"Flygon got 1 Exp. Points!"
+"Hariyama got 1 Exp. Points!"
+
+[End of round 1]
+[HP change] Hariyama lost 10 HP (161 -> 151)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Flygon (0)
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     [Unfezant] + 3 because we absorb their highest damaging move against the current battler
+     [Unfezant] + 2 because we outspeed
+     [Unfezant] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (49)
+"Team Galactic Grunt sent out Unfezant!"
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   * 100.0% to use Ice Punch (target 0): score 21
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Ice Punch (target 0)
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Flygon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Hariyama (2)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Flygon (0)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Hariyama (2)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Hariyama (2)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Flygon (0)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Hariyama (2)...
+[AI] Move choices for Unfezant (3):
+   *  50.0% to use Dual Wingbeat (target 0): score 5
+   *  50.0% to use Dual Wingbeat (target 2): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] The opposing Unfezant (3), Flygon (0), Hariyama (2), the opposing Kecleon (1)
+
+"Hariyama, come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Empoleon lost 16 HP (123 -> 107)
+[HP change] Empoleon lost 17 HP (107 -> 90)
+"It's not very effective..."
+"Hit 2 times!"
+[Use move] Flygon (0) used Dragon Claw
+"Flygon used Dragon Claw!"
+[HP change] The opposing Unfezant lost 36 HP (114 -> 78)
+[Use move] The opposing Kecleon (1) used Ice Punch
+"The opposing Kecleon used Ice Punch!"
+[Ability triggered] The opposing Kecleon's Protean
+"The opposing Kecleon's type changed to Ice!"
+[HP change] Flygon lost 112 HP (112 -> 0)
+"It's super effective!"
+"Flygon fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Hariyama!"
+[Round order] Flygon (0), the opposing Luxray (3), Hariyama (2), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+     + -2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Hariyama (2)...
+     + 18 for using Fake Out turn 1
+     + 2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 21
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   * 100.0% to use Ice Fang (target 0): score 21
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] Hariyama (2), the opposing Kecleon (1), Flygon (0), the opposing Luxray (3)
+
+[Use move] Hariyama (2) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kecleon lost 24 HP (97 -> 73)
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon flinched and couldn't move!"
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Luxray fainted!"
+"Flygon got 1 Exp. Points!"
+"Hariyama got 1 Exp. Points!"
+
+[End of round 1]
+[HP change] Hariyama lost 10 HP (161 -> 151)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Flygon (0)
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     [Unfezant] + 3 because we absorb their highest damaging move against the current battler
+     [Unfezant] + 2 because we outspeed
+     [Unfezant] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (49)
+"Team Galactic Grunt sent out Unfezant!"
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   * 100.0% to use Ice Punch (target 0): score 21
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Ice Punch (target 0)
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Flygon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Hariyama (2)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Flygon (0)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Hariyama (2)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Hariyama (2)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Flygon (0)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Hariyama (2)...
+[AI] Move choices for Unfezant (3):
+   *  50.0% to use Dual Wingbeat (target 0): score 5
+   *  50.0% to use Dual Wingbeat (target 2): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Unfezant (3), Flygon (0), Hariyama (2), the opposing Kecleon (1)
+
+"Flygon, come back!"
+"You're in charge, Centiskorch!"
+"Hariyama, come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Centiskorch lost 99 HP (131 -> 32)
+[HP change] Centiskorch gained 10 HP (32 -> 42)
+"Centiskorch restored a little HP using its Oran Berry!"
+[Item consumed] Centiskorch consumed its held Oran Berry
+[HP change] Centiskorch lost 42 HP (42 -> 0)
+"Centiskorch fainted!"
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Kecleon (1) used Ice Punch
+"The opposing Kecleon used Ice Punch!"
+[Ability triggered] The opposing Kecleon's Protean
+"The opposing Kecleon's type changed to Ice!"
+[HP change] Empoleon lost 10 HP (123 -> 113)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Hariyama!"
+[Round order] Flygon (0), the opposing Luxray (3), Hariyama (2), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+     + -2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Hariyama (2)...
+     + 18 for using Fake Out turn 1
+     + 5 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 5 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 5 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 24
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   * 100.0% to use Ice Fang (target 0): score 21
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] Hariyama (2), the opposing Kecleon (1), Flygon (0), the opposing Luxray (3)
+
+[Use move] Hariyama (2) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kecleon lost 22 HP (97 -> 75)
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon flinched and couldn't move!"
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Luxray fainted!"
+"Flygon got 1 Exp. Points!"
+"Hariyama got 1 Exp. Points!"
+
+[End of round 1]
+[HP change] Hariyama lost 10 HP (161 -> 151)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Flygon (0)
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     set score to 1 if lower than 1 to prevent not using a move
+     [Unfezant] + 3 because we absorb their highest damaging move against the current battler
+     [Unfezant] + 2 because we outspeed
+     [Unfezant] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (49)
+"Team Galactic Grunt sent out Unfezant!"
+
+===== Round 2 =====
+
+     set score to 1 if lower than 1 to prevent not using a move
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   * 100.0% to use Ice Punch (target 0): score 21
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Ice Punch (target 0)
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Flygon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Hariyama (2)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Flygon (0)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Hariyama (2)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Hariyama (2)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Flygon (0)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Hariyama (2)...
+[AI] Move choices for Unfezant (3):
+   *  50.0% to use Dual Wingbeat (target 0): score 5
+   *  50.0% to use Dual Wingbeat (target 2): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] The opposing Unfezant (3), Flygon (0), Hariyama (2), the opposing Kecleon (1)
+
+"Flygon, come back!"
+"You're in charge, Chimecho!"
+"Hariyama, come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Empoleon lost 18 HP (123 -> 105)
+[HP change] Empoleon lost 18 HP (105 -> 87)
+"It's not very effective..."
+"Hit 2 times!"
+[Use move] The opposing Kecleon (1) used Ice Punch
+"The opposing Kecleon used Ice Punch!"
+[Ability triggered] The opposing Kecleon's Protean
+"The opposing Kecleon's type changed to Ice!"
+[HP change] Chimecho lost 37 HP (120 -> 83)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Empoleon (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kecleon (1) is considering using Ice Punch (1) against Empoleon (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Empoleon (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *  40.0% to use Ice Punch (target 0): score 6
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  60.0% to use Drain Punch (target 2): score 9
+   => will use Ice Punch (target 0)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Chimecho (0)...
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Empoleon (2)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Chimecho (0)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Empoleon (2)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Empoleon (2)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Empoleon (2)...
+[AI] Move choices for Unfezant (3):
+   *   7.7% to use Dual Wingbeat (target 0): score 1
+   *   7.7% to use Dual Wingbeat (target 2): score 1
+   *   7.7% to use Quick Attack (target 0): score 1
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  38.5% to use Hidden Power (target 2): score 5
+   *  38.5% to use Steel Wing (target 0): score 5
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Unfezant (3), Chimecho (0), Empoleon (2), the opposing Kecleon (1)
+
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Chimecho lost 33 HP (83 -> 50)
+[HP change] Chimecho gained 10 HP (50 -> 60)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+[HP change] Chimecho lost 35 HP (60 -> 25)
+"Hit 2 times!"
+[Use move] Chimecho (0) used Yawn
+"Chimecho used Yawn!"
+"Chimecho made the opposing Unfezant drowsy!"
+[Use move] Empoleon (2) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Kecleon lost 70 HP (75 -> 5)
+"It's super effective!"
+[Use move] The opposing Kecleon (1) used Ice Punch
+"The opposing Kecleon used Ice Punch!"
+[HP change] Chimecho lost 25 HP (25 -> 0)
+"Chimecho fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+"You're in charge, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Kecleon's Attack changed by -1 (0 -> -1)
+"The opposing Kecleon's Attack fell!"
+[Stat change] The opposing Unfezant's Attack changed by -1 (0 -> -1)
+"The opposing Unfezant's Attack fell!"
+
+===== Round 4 =====
+
+     move will not affect Staraptor (0)
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Staraptor (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kecleon (1) is considering using Ice Punch (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Staraptor (0)...
+     + 5 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *  50.0% to use Ice Punch (target 0): score 10
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  50.0% to use Drain Punch (target 2): score 10
+   => will use Drain Punch (target 2)
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Staraptor (0)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Empoleon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Staraptor (0)...
+     + 1 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Empoleon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Hidden Power (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Empoleon (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Staraptor (0)...
+     + 1 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Empoleon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Unfezant (3):
+   * 100.0% to use Dual Wingbeat (target 0): score 6
+   *   0.0% to use Dual Wingbeat (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Staraptor (0), the opposing Unfezant (3), Empoleon (2), the opposing Kecleon (1)
+
+[Use move] Staraptor (0) used Quick Attack
+"Staraptor used Quick Attack!"
+[HP change] The opposing Kecleon lost 5 HP (5 -> 0)
+"The opposing Kecleon fainted!"
+"Staraptor got 1 Exp. Points!"
+"Empoleon got 1 Exp. Points!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Staraptor lost 35 HP (119 -> 84)
+[HP change] Staraptor lost 33 HP (84 -> 51)
+[HP change] Staraptor gained 10 HP (51 -> 61)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+"Hit 2 times!"
+[Use move] Empoleon (2) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Unfezant lost 56 HP (114 -> 58)
+"It's super effective!"
+[Stat change] The opposing Unfezant's Speed changed by -1 (0 -> -1)
+"The opposing Unfezant's Speed fell!"
+
+[End of round 4]
+[Lingering effect] The opposing Unfezant fell asleep because of Yawn
+"The opposing Unfezant fell asleep!"
+[Status change] The opposing Unfezant's sleep count is 4
+Trick Room Turns: 0
+     move will not affect Staraptor (0)
+     [Hypno] + 2 because we outspeed
+     [Hypno] + 4 because we have 2HKO
+[AI] Highest move score (33) vs Switch In Score (41)
+"Team Galactic Grunt sent out Hypno!"
+[Ability triggered] The opposing Hypno's Forewarn
+"The opposing Hypno was alerted to Close Combat!"
+[Ability triggered] The opposing Hypno's Forewarn
+[Stat change] The opposing Hypno's Defense changed by +1 (0 -> 1)
+"The opposing Hypno's Defense rose!"
+
+===== Round 5 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Staraptor (0)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Toxoplasm (1) against Empoleon (2)...
+     move will not affect Empoleon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Psyshock (1) against Staraptor (0)...
+     + 1 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Empoleon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Empoleon (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 1 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   * 100.0% to use Toxoplasm (target 0): score 6
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Toxoplasm (target 0)
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Staraptor (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Staraptor (0)...
+     + 4 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Staraptor (0)...
+     + 4 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *  47.4% to use Dual Wingbeat (target 0): score 9
+   *   0.0% to use Dual Wingbeat (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  52.6% to use Hidden Power (target 2): score 10
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Staraptor (0), the opposing Hypno (1), Empoleon (2), the opposing Unfezant (3)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Unfezant lost 45 HP (58 -> 13)
+[Use move] The opposing Hypno (1) used Toxoplasm
+"The opposing Hypno used Toxoplasm!"
+[HP change] Staraptor lost 44 HP (61 -> 17)
+"Staraptor had its energy drained!"
+[Use move] Empoleon (2) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Hypno lost 34 HP (118 -> 84)
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant is fast asleep."
+[Status continues] The opposing Unfezant's sleep count is 3
+
+[End of round 5]
+[HP change] The opposing Hypno gained 7 HP (84 -> 91)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Hypno (1) is considering using Toxoplasm (1) against Empoleon (2)...
+     move will not affect Empoleon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Psyshock (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Hypno (1) is considering using Psyshock (1) against Empoleon (2)...
+[AI] Hypno (1) is considering using Shadow Ball (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Empoleon (2)...
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+      + 17 for slow kill
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *  50.0% to use Toxoplasm (target 0): score 18
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *  50.0% to use Psyshock (target 0): score 18
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psyshock (target 0)
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Staraptor (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Staraptor (0)...
+     + 9 to get a last ditch hit off.
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Unfezant (3) is considering using Quick Attack (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Staraptor (0)...
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Unfezant (3) is considering using Steel Wing (1) against Empoleon (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dual Wingbeat (target 2): score 0
+   * 100.0% to use Quick Attack (target 0): score 30
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] Empoleon (2), the opposing Unfezant (3), Staraptor (0), the opposing Hypno (1)
+
+"Good job, Staraptor! Come back!"
+"Your opponent's weak! Get 'em, Centiskorch!"
+[Use move] Empoleon (2) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[HP change] The opposing Unfezant lost 13 HP (13 -> 0)
+"The opposing Unfezant fainted!"
+"Centiskorch got 1 Exp. Points!"
+[Use move] The opposing Hypno (1) used Psyshock
+"The opposing Hypno used Psyshock!"
+[HP change] Centiskorch lost 51 HP (131 -> 80)
+
+[End of round 6]
+[HP change] The opposing Hypno gained 7 HP (91 -> 98)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Centiskorch (0)...
+[AI] Hypno (1) is considering using Toxoplasm (1) against Empoleon (2)...
+     move will not affect Empoleon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Psyshock (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Empoleon (2)...
+[AI] Hypno (1) is considering using Shadow Ball (1) against Centiskorch (0)...
+[AI] Hypno (1) is considering using Shadow Ball (1) against Empoleon (2)...
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *  50.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  50.0% to use Shadow Ball (target 2): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Shadow Ball (target 2)
+
+[Command phase] The opposing Unfezant (3) is forced to use a multi-turn move
+[Round order] The opposing Hypno (1), Empoleon (2), Centiskorch (0), the opposing Unfezant (3)
+
+[Use move] The opposing Hypno (1) used Shadow Ball
+"The opposing Hypno used Shadow Ball!"
+[HP change] Empoleon lost 23 HP (87 -> 64)
+[Use move] Empoleon (2) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Hypno lost 32 HP (98 -> 66)
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Hypno lost 38 HP (66 -> 28)
+"The opposing Hypno had its energy drained!"
+[HP change] Centiskorch gained 19 HP (80 -> 99)
+
+[End of round 7]
+[HP change] The opposing Hypno gained 7 HP (28 -> 35)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Centiskorch (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Toxoplasm (1) against Empoleon (2)...
+     move will not affect Empoleon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Psyshock (1) against Centiskorch (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Empoleon (2)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Centiskorch (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Empoleon (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 2 to factor in threat scoring.
+     + 2 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *  50.0% to use Psyshock (target 0): score 7
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  50.0% to use Shadow Ball (target 2): score 7
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Shadow Ball (target 2)
+
+[Command phase] The opposing Unfezant (3) is forced to use a multi-turn move
+[Round order] Empoleon (2), the opposing Hypno (1), Centiskorch (0), the opposing Unfezant (3)
+
+[Use move] Empoleon (2) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[HP change] The opposing Hypno lost 16 HP (35 -> 19)
+[Use move] The opposing Hypno (1) used Shadow Ball
+"The opposing Hypno used Shadow Ball!"
+[HP change] Empoleon lost 20 HP (64 -> 44)
+[HP change] Empoleon gained 10 HP (44 -> 54)
+"Empoleon restored a little HP using its Oran Berry!"
+[Item consumed] Empoleon consumed its held Oran Berry
+[Stat change] Empoleon's Special Defense changed by -1 (0 -> -1)
+"Empoleon's Special Defense fell!"
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Hypno lost 19 HP (19 -> 0)
+"The opposing Hypno fainted!"
+"The opposing Hypno had its energy drained!"
+[HP change] Centiskorch gained 10 HP (99 -> 109)
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt and Team Galactic Grunt!"
+"Ugh."
+"Ugh."
+
+"You got $2,304 for winning!"
+Roles for SCYTHER: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for DIPPLIN: [:SPECIALBREAKER]
+Roles for BISHARP: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for PRIMEAPE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Scyther!"
+"Go! Probopass!"
+[Round order] The opposing Scyther (1), Probopass (0)
+
+===== Round 1 =====
+
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Probopass (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Probopass (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Quick Attack (1) against Probopass (0)...
+[AI] Scyther (1) is considering using U-turn (1) against Probopass (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Scyther (1), Probopass (0)
+
+[Use move] The opposing Scyther (1) used U-turn
+"The opposing Scyther used U-turn!"
+[HP change] Probopass lost 13 HP (95 -> 82)
+"It's not very effective..."
+"The opposing Scyther went back to Team Galactic Grunt!"
+     [Dipplin] + 2 because we outspeed
+     [Dipplin] - 3 because we have no kill
+     [Bisharp] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Bisharp] + 4 because we have 2HKO
+     [Primeape] + 2 because we outspeed
+     [Primeape] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Team Galactic Grunt sent out Primeape!"
+[Use move] Probopass (0) used Thunder Wave
+"Probopass used Thunder Wave!"
+"The opposing Primeape is paralyzed! It may be unable to move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Primeape (1): 0
+Set up score for Primeape (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Primeape (1) is considering using Drain Punch (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Primeape (1) is considering using Shadow Punch (1) against Probopass (0)...
+[AI] Primeape (1) is considering using Ice Punch (1) against Probopass (0)...
+[AI] Primeape (1) is considering using Rock Slide (1)...
+[AI] Move choices for Primeape (1):
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Shadow Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Drain Punch (target 0)
+
+[Round order] The opposing Primeape (1), Probopass (0)
+
+"Probopass, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Primeape (1) used Drain Punch
+"The opposing Primeape used Drain Punch!"
+[HP change] Chimecho lost 9 HP (120 -> 111)
+"It's not very effective..."
+"Chimecho had its energy drained!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Primeape (1): 0
+Set up score for Primeape (1): 0
+     [Switch AI] +5 Party member [Bisharp] is immune to strongest move against Primeape (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Primeape (1) is considering using Drain Punch (1) against Chimecho (0)...
+[AI] Primeape (1) is considering using Shadow Punch (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Primeape (1) is considering using Ice Punch (1) against Chimecho (0)...
+[AI] Primeape (1) is considering using Rock Slide (1)...
+[AI] Move choices for Primeape (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Shadow Punch (target 0): score 5
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Shadow Punch (target 0)
+
+[Round order] Chimecho (0), the opposing Primeape (1)
+
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Primeape lost 68 HP (103 -> 35)
+"It's super effective!"
+"The opposing Primeape became confused!"
+[Lingering effect] The opposing Primeape's confusion count is 4
+[Use move] The opposing Primeape (1) used Shadow Punch
+"The opposing Primeape is confused!"
+"It hurt itself in its confusion!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Primeape (1): 0
+Set up score for Primeape (1): 0
+     [Switch AI] +5 Party member [Bisharp] is immune to strongest move against Primeape (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     [Scyther] + 2 because we outspeed
+     [Scyther] - 3 because we have no kill
+     [Dipplin] - 3 because we have no kill
+     [Bisharp] + 3 because we absorb their highest damaging move against the current battler
+     [Bisharp] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (42)
+   => will switch with Bisharp
+
+[Round order] Chimecho (0), the opposing Primeape (1)
+
+"Team Galactic Grunt withdrew Primeape!"
+"Team Galactic Grunt sent out Bisharp!"
+[Use move] Chimecho (0) used Fairy Wind
+"Chimecho used Fairy Wind!"
+[HP change] The opposing Bisharp lost 32 HP (101 -> 69)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Bisharp (1): 0
+Set up score for Bisharp (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bisharp (1) is considering using Cut (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bisharp (1) is considering using Night Slash (1) against Chimecho (0)...
+[AI] Bisharp (1) is considering using Low Kick (1) against Chimecho (0)...
+[AI] Bisharp (1) is considering using Psycho Cut (1) against Chimecho (0)...
+[AI] Move choices for Bisharp (1):
+   * 100.0% to use Cut (target 0): score 5
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   => will use Cut (target 0)
+
+[Round order] Chimecho (0), the opposing Bisharp (1)
+
+"Chimecho, come back!"
+"Go for it, Hariyama!"
+[Use move] The opposing Bisharp (1) used Cut
+"The opposing Bisharp used Cut!"
+[HP change] Hariyama lost 82 HP (161 -> 79)
+[HP change] Hariyama gained 40 HP (79 -> 119)
+"Hariyama restored its health using its Sitrus Berry!"
+[Item consumed] Hariyama consumed its held Sitrus Berry
+
+[End of round 5]
+[HP change] Hariyama lost 10 HP (119 -> 109)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Bisharp (1): 0
+Set up score for Bisharp (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bisharp (1) is considering using Cut (1) against Hariyama (0)...
+[AI] Bisharp (1) is considering using Night Slash (1) against Hariyama (0)...
+[AI] Bisharp (1) is considering using Low Kick (1) against Hariyama (0)...
+[AI] Bisharp (1) is considering using Psycho Cut (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bisharp (1):
+   *   0.0% to use Cut (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   * 100.0% to use Psycho Cut (target 0): score 5
+   => will use Psycho Cut (target 0)
+
+[Round order] The opposing Bisharp (1), Hariyama (0)
+
+[Use move] The opposing Bisharp (1) used Psycho Cut
+"The opposing Bisharp used Psycho Cut!"
+[HP change] Hariyama lost 88 HP (109 -> 21)
+"It's super effective!"
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Bisharp lost 69 HP (69 -> 0)
+"It's super effective!"
+"The opposing Bisharp fainted!"
+"Chimecho got 1 Exp. Points!"
+
+[End of round 6]
+[HP change] Hariyama lost 10 HP (21 -> 11)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Scyther] + 2 because we outspeed
+     [Scyther] + 9 because we have kill
+     [Dipplin] + 9 because we have kill
+     [Primeape] - 12 because they have kill with their highest damaging move against the current battler
+     [Primeape] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (46)
+"Team Galactic Grunt sent out Scyther!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Scyther (1) is considering using Bug Bite (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Scyther (1) is considering using Quick Attack (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Scyther (1) is considering using U-turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Scyther (1):
+   *  25.0% to use Dual Wingbeat (target 0): score 21
+   *  25.0% to use Bug Bite (target 0): score 21
+   *  25.0% to use Quick Attack (target 0): score 21
+   *  25.0% to use U-turn (target 0): score 21
+   => will use Bug Bite (target 0)
+
+[Round order] The opposing Scyther (1), Hariyama (0)
+
+"Good job, Hariyama! Come back!"
+"You're in charge, Probopass!"
+[Use move] The opposing Scyther (1) used Bug Bite
+"The opposing Scyther used Bug Bite!"
+[HP change] Probopass lost 16 HP (82 -> 66)
+"It's not very effective..."
+"The opposing Scyther stole and ate its target's Sitrus Berry!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Probopass (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Quick Attack (1) against Probopass (0)...
+[AI] Scyther (1) is considering using U-turn (1) against Probopass (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] The opposing Scyther (1), Probopass (0)
+
+[Use move] The opposing Scyther (1) used Bug Bite
+"The opposing Scyther used Bug Bite!"
+[HP change] Probopass lost 17 HP (66 -> 49)
+"It's not very effective..."
+[Use move] Probopass (0) used Discharge
+"Probopass used Discharge!"
+[HP change] The opposing Scyther lost 88 HP (104 -> 16)
+"A critical hit!"
+"It's super effective!"
+"The opposing Scyther is paralyzed! It may be unable to move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Probopass (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Quick Attack (1) against Probopass (0)...
+[AI] Scyther (1) is considering using U-turn (1) against Probopass (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Scyther (1), Probopass (0)
+
+[Use move] The opposing Scyther (1) used U-turn
+"The opposing Scyther is paralyzed! It can't move!"
+[Use move] Probopass (0) used Discharge
+"Probopass used Discharge!"
+[HP change] The opposing Scyther lost 16 HP (16 -> 0)
+"It's super effective!"
+"The opposing Scyther fainted!"
+"Probopass got 1 Exp. Points!"
+
+[End of round 9]
+Trick Room Turns: 0
+     [Dipplin] + 2 because we outspeed
+     [Dipplin] - 3 because we have no kill
+     [Primeape] - 12 because they have kill with their highest damaging move against the current battler
+     [Primeape] + 4 because we have 2HKO
+[AI] Highest move score (10) vs Switch In Score (34)
+"Team Galactic Grunt sent out Dipplin!"
+
+===== Round 10 =====
+
+Set up score for Dipplin (1): 0
+Set up score for Dipplin (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (14)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Probopass (0)...
+[AI] Dipplin (1) is considering using Giga Drain (1) against Probopass (0)...
+[AI] Dipplin (1) is considering using Leech Seed (4) against Probopass (0)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Dipplin (1) is considering using Hidden Power (1) against Probopass (0)...
+[AI] Move choices for Dipplin (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Leech Seed (target 0): score 14
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Leech Seed (target 0)
+
+[Round order] The opposing Dipplin (1), Probopass (0)
+
+"Probopass, come back!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Dipplin (1) used Leech Seed
+"The opposing Dipplin used Leech Seed!"
+"Empoleon was seeded!"
+
+[End of round 10]
+[HP change] Empoleon lost 15 HP (123 -> 108)
+"Empoleon's health is sapped by Leech Seed!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Empoleon (0)
+Set up score for Dipplin (1): 0
+Set up score for Dipplin (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Empoleon (0)...
+[AI] Dipplin (1) is considering using Giga Drain (1) against Empoleon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dipplin (1) is considering using Leech Seed (4) against Empoleon (0)...
+     move will not affect Empoleon (0)
+     -  4: move will fail
+[AI] Dipplin (1) is considering using Hidden Power (1) against Empoleon (0)...
+[AI] Move choices for Dipplin (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Empoleon (0), the opposing Dipplin (1)
+
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Dipplin lost 63 HP (114 -> 51)
+"It's super effective!"
+[Stat change] The opposing Dipplin's Speed changed by -1 (0 -> -1)
+"The opposing Dipplin's Speed fell!"
+[Use move] The opposing Dipplin (1) used Giga Drain
+"The opposing Dipplin used Giga Drain!"
+[HP change] Empoleon lost 39 HP (108 -> 69)
+"Empoleon had its energy drained!"
+[HP change] The opposing Dipplin gained 20 HP (51 -> 71)
+
+[End of round 11]
+[HP change] Empoleon lost 15 HP (69 -> 54)
+"Empoleon's health is sapped by Leech Seed!"
+[HP change] The opposing Dipplin gained 15 HP (71 -> 86)
+[HP change] Empoleon gained 10 HP (54 -> 64)
+"Empoleon restored a little HP using its Oran Berry!"
+[Item consumed] Empoleon consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Empoleon (0)
+Set up score for Dipplin (1): -1
+Set up score for Dipplin (1): -1
+Set up score for Dipplin (1): -1
+Set up score for Dipplin (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Empoleon (0)...
+[AI] Dipplin (1) is considering using Giga Drain (1) against Empoleon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dipplin (1) is considering using Leech Seed (4) against Empoleon (0)...
+     move will not affect Empoleon (0)
+     -  4: move will fail
+[AI] Dipplin (1) is considering using Hidden Power (1) against Empoleon (0)...
+[AI] Move choices for Dipplin (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Empoleon (0), the opposing Dipplin (1)
+
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Dipplin lost 58 HP (86 -> 28)
+"It's super effective!"
+[Stat change] The opposing Dipplin's Speed changed by -1 (-1 -> -2)
+"The opposing Dipplin's Speed fell!"
+[Use move] The opposing Dipplin (1) used Giga Drain
+"The opposing Dipplin used Giga Drain!"
+[HP change] Empoleon lost 53 HP (64 -> 11)
+"A critical hit!"
+"Empoleon had its energy drained!"
+[HP change] The opposing Dipplin gained 27 HP (28 -> 55)
+
+[End of round 12]
+[HP change] Empoleon lost 11 HP (11 -> 0)
+"Empoleon's health is sapped by Leech Seed!"
+[HP change] The opposing Dipplin gained 11 HP (55 -> 66)
+"Empoleon fainted!"
+Trick Room Turns: 0
+"Go for it, Centiskorch!"
+
+===== Round 13 =====
+
+Set up score for Dipplin (1): -2
+Set up score for Dipplin (1): -2
+Set up score for Dipplin (1): -2
+Set up score for Dipplin (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dipplin (1) is considering using Giga Drain (1) against Centiskorch (0)...
+[AI] Dipplin (1) is considering using Leech Seed (4) against Centiskorch (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Dipplin (1) is considering using Hidden Power (1) against Centiskorch (0)...
+[AI] Move choices for Dipplin (1):
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Centiskorch (0), the opposing Dipplin (1)
+
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Dipplin lost 66 HP (66 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Dipplin fainted!"
+"The opposing Dipplin had its energy drained!"
+
+[End of round 13]
+Trick Room Turns: 0
+     [Primeape] - 12 because they have kill with their highest damaging move against the current battler
+     [Primeape] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Team Galactic Grunt sent out Primeape!"
+
+===== Round 14 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Primeape (1) is considering using Drain Punch (1) against Centiskorch (0)...
+[AI] Primeape (1) is considering using Shadow Punch (1) against Centiskorch (0)...
+[AI] Primeape (1) is considering using Ice Punch (1) against Centiskorch (0)...
+[AI] Primeape (1) is considering using Rock Slide (1)...
+      + 17 for slow kill
+[AI] Move choices for Primeape (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Shadow Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Rock Slide: score 18
+   => will use Rock Slide
+
+[Round order] Centiskorch (0), the opposing Primeape (1)
+
+[Use move] Centiskorch (0) used Flame Wheel
+"Centiskorch used Flame Wheel!"
+[HP change] The opposing Primeape lost 20 HP (20 -> 0)
+"The opposing Primeape fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,152 for winning!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Luxray!"
+"Go! Probopass!"
+[Round order] The opposing Luxray (1), Probopass (0)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Probopass's Attack changed by -1 (0 -> -1)
+"Probopass's Attack fell!"
+
+===== Round 1 =====
+
