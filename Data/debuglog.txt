@@ -92586,3 +92586,390 @@ Set up score for Probopass (2): 0
 [HP change] Flygon lost 112 HP (112 -> 0)
 "It's super effective!"
 "Flygon fainted!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Hariyama!"
+[Round order] Flygon (0), the opposing Luxray (3), Hariyama (2), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+     + -2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Hariyama (2)...
+     + 18 for using Fake Out turn 1
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 3 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 3 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 22
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *  13.6% to use Thunder Fang (target 2): score 3
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *  86.4% to use Ice Fang (target 0): score 19
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] Hariyama (2), the opposing Kecleon (1), Flygon (0), the opposing Luxray (3)
+
+[Use move] Hariyama (2) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kecleon lost 24 HP (97 -> 73)
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon flinched and couldn't move!"
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 81 HP (111 -> 30)
+"It's super effective!"
+[Stat change] The opposing Luxray's Special Defense changed by -1 (0 -> -1)
+"The opposing Luxray's Special Defense fell!"
+[Use move] The opposing Luxray (3) used Ice Fang
+"The opposing Luxray used Ice Fang!"
+[HP change] Flygon lost 112 HP (112 -> 0)
+"It's super effective!"
+"Flygon fainted!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Hariyama!"
+[Round order] Flygon (0), the opposing Luxray (3), Hariyama (2), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+     + -2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Hariyama (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *  13.6% to use Thunder Fang (target 2): score 3
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *  86.4% to use Ice Fang (target 0): score 19
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] Hariyama (2), the opposing Kecleon (1), Flygon (0), the opposing Luxray (3)
+
+[Use move] Hariyama (2) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kecleon lost 20 HP (97 -> 77)
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon flinched and couldn't move!"
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 99 HP (111 -> 12)
+"It's super effective!"
+[Use move] The opposing Luxray (3) used Ice Fang
+"The opposing Luxray used Ice Fang!"
+[HP change] Flygon lost 112 HP (112 -> 0)
+"It's super effective!"
+"Flygon fainted!"
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Flygon and Hariyama!"
+[Round order] Flygon (0), the opposing Luxray (3), Hariyama (2), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Flygon's Attack changed by -1 (0 -> -1)
+"Flygon's Attack fell!"
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Flygon (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+     + -2 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Hariyama (2)...
+     + 18 for using Fake Out turn 1
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Kecleon (1) is considering using Ice Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Flygon (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Kecleon (1) is considering using Drain Punch (1) against Hariyama (2)...
+     + 4 to factor in threat scoring.
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 23
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+     move will not affect Flygon (0)
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hariyama (2): -1
+     Threat Score for Hariyama (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Luxray (3) is considering using Thunder Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Crunch (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Ice Fang (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Luxray (3) is considering using Ice Fang (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Luxray (3) is considering using Quick Attack (1) against Flygon (0)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Hariyama (2)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *  13.6% to use Thunder Fang (target 2): score 3
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *  86.4% to use Ice Fang (target 0): score 19
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Ice Fang (target 0)
+
+[Round order] Hariyama (2), the opposing Kecleon (1), Flygon (0), the opposing Luxray (3)
+
+[Use move] Hariyama (2) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kecleon lost 22 HP (97 -> 75)
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon flinched and couldn't move!"
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Luxray lost 97 HP (111 -> 14)
+"It's super effective!"
+[Use move] The opposing Luxray (3) used Ice Fang
+"The opposing Luxray used Ice Fang!"
+[HP change] Flygon lost 112 HP (112 -> 0)
+"It's super effective!"
+"Flygon fainted!"
