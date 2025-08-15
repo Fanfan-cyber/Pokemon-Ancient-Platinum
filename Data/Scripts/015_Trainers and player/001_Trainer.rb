@@ -148,11 +148,12 @@ class Trainer
 
   # Returns whether there is a Pokémon with the given type in the trainer's
   # party.
-  def has_pokemon_of_type?(type)
+  def has_pokemon_of_type?(type, excluded_pokemon = [])
     return false if !GameData::Type.exists?(type)
     type = GameData::Type.get(type).id
-    return pokemon_party.any? { |p| p&.hasType?(type) }
+    return pokemon_party.any? { |pkmn| pkmn&.hasType?(type) && !excluded_pokemon.include?(pkmn) }
   end
+
 
   # Checks whether any Pokémon in the party knows the given move, and returns
   # the first Pokémon it finds with that move, or nil if no Pokémon has that move.

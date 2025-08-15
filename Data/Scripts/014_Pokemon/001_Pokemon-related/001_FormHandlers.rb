@@ -225,7 +225,8 @@ MultipleForms.register(:ROTOM, {
       :HYDROPUMP,   # Wash (washing machine)
       :BLIZZARD,    # Frost (refrigerator)
       :AIRSLASH,    # Fan (electric fan)
-      :LEAFSTORM    # Mow (lawn mower)
+      :LEAFSTORM,    # Mow (lawn mower)
+      :FLASHCANNON,  # Dex (Pokedex)
     ]
     # Find a known move that should be forgotten
     old_move_index = -1

@@ -1,63 +1,13 @@
 
-Chimecho @ Oran Berry
-Level: 38
+Chimecho
+Level: 42
 Sassy Nature
 Ability: Levitate
 IVs: 21 HP / 27 Atk / 30 Def / 23 SpA / 23 SpD / 31 Spe
 - Psybeam
-- Fairy Wind
+- Draining Kiss
 - Mach Pulse
 - Yawn
-
-Empoleon @ Oran Berry
-Level: 38
-Jolly Nature
-Ability: Torrent
-IVs: 31 HP / 19 Atk / 31 Def / 31 SpA / 7 SpD / 21 Spe
-- Brine
-- Icy Wind
-- Aqua Jet
-- Flash Cannon
-
-Centiskorch
-Level: 38
-Quiet Nature
-Ability: White Smoke
-IVs: 19 HP / 10 Atk / 5 Def / 17 SpA / 15 SpD / 31 Spe
-- Flame Wheel
-- Bite
-- Leech Life
-- Slam
-
-Flygon
-Level: 38
-Gentle Nature
-Ability: Levitate
-IVs: 10 HP / 26 Atk / 16 Def / 10 SpA / 24 SpD / 22 Spe
-- Dragon Claw
-- Bug Buzz
-- Earth Power
-- Stomping Tantrum
-
-Staraptor
-Level: 38
-Lonely Nature
-Ability: Intimidate
-IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
-- Aerial Ace
-- Flash
-- Quick Attack
-- Close Combat
-
-Hariyama
-Level: 38
-Quiet Nature
-Ability: Guts
-IVs: 11 HP / 31 Atk / 2 Def / 21 SpA / 6 SpD / 29 Spe
-- Force Palm
-- Knock Off
-- Fake Out
-- Bullet Punch
 
 Gumshoos
 Level: 38
@@ -69,15 +19,15 @@ IVs: 20 HP / 19 Atk / 1 Def / 12 SpA / 9 SpD / 4 Spe
 - Pursuit
 - Super Fang
 
-Azumarill
-Level: 38
-Bold Nature
-Ability: Thick Fat
-IVs: 27 HP / 6 Atk / 24 Def / 15 SpA / 3 SpD / 17 Spe
-- Play Rough
-- Aqua Tail
-- Charm
-- Ice Punch
+Hariyama @ Muscle Band
+Level: 42
+Quiet Nature
+Ability: Guts
+IVs: 11 HP / 31 Atk / 2 Def / 21 SpA / 6 SpD / 29 Spe
+- Force Palm
+- Knock Off
+- Fake Out
+- Bullet Punch
 
 Grafaiai
 Level: 38
@@ -89,17 +39,27 @@ IVs: 13 HP / 21 Atk / 29 Def / 11 SpA / 29 SpD / 24 Spe
 - U-turn
 - Bite
 
-Falinks @ Oran Berry
-Level: 38
-Naughty Nature
-Ability: Skill Link
-IVs: 1 HP / 18 Atk / 8 Def / 27 SpA / 29 SpD / 23 Spe
-- Headbutt
-- First Impression
-- Arm Thrust
-- Protect
+Flygon @ Soft Sand
+Level: 42
+Gentle Nature
+Ability: Levitate
+IVs: 10 HP / 26 Atk / 16 Def / 10 SpA / 24 SpD / 22 Spe
+- Dragon Claw
+- Bug Buzz
+- Earth Power
+- Stomping Tantrum
 
-Boltund
+Gloom
+Level: 38
+Sassy Nature
+Ability: Chlorophyll
+IVs: 16 HP / 26 Atk / 9 Def / 3 SpA / 11 SpD / 11 Spe
+- Giga Drain
+- Sludge
+- Moonblast
+- Toxic
+
+Boltund @ Oran Berry
 Level: 38
 Adamant Nature
 Ability: Strong Jaw
@@ -109,7 +69,17 @@ IVs: 28 HP / 18 Atk / 27 Def / 20 SpA / 18 SpD / 15 Spe
 - Tackle
 - Roar
 
-Graveler-Alolan
+Azumarill @ Oran Berry
+Level: 38
+Bold Nature
+Ability: Thick Fat
+IVs: 27 HP / 6 Atk / 24 Def / 15 SpA / 3 SpD / 17 Spe
+- Play Rough
+- Aqua Tail
+- Charm
+- Ice Punch
+
+Graveler-Alola
 Level: 38
 Hasty Nature
 Ability: Sturdy
@@ -149,15 +119,15 @@ IVs: 17 HP / 8 Atk / 24 Def / 27 SpA / 12 SpD / 22 Spe
 - Psybeam
 - Rapid Spin
 
-Gloom
+Scolipede @ Oran Berry
 Level: 38
-Sassy Nature
-Ability: Chlorophyll
-IVs: 16 HP / 26 Atk / 9 Def / 3 SpA / 11 SpD / 11 Spe
-- Giga Drain
-- Sludge
-- Moonblast
-- Toxic
+Naughty Nature
+Ability: Swarm
+IVs: 14 HP / 24 Atk / 4 Def / 14 SpA / 12 SpD / 8 Spe
+- Poison Tail
+- Bite
+- Bug Bite
+- Protect
 
 Arboliva
 Level: 38
@@ -169,8 +139,28 @@ IVs: 23 HP / 1 Atk / 22 Def / 28 SpA / 4 SpD / 31 Spe
 - Hyper Voice
 - Energy Ball
 
+Staraptor
+Level: 42
+Lonely Nature
+Ability: Intimidate
+IVs: 17 HP / 6 Atk / 4 Def / 23 SpA / 13 SpD / 27 Spe
+- Aerial Ace
+- Flash
+- Quick Attack
+- Close Combat
+
+Empoleon @ Oran Berry
+Level: 42
+Jolly Nature
+Ability: Torrent
+IVs: 31 HP / 19 Atk / 31 Def / 31 SpA / 7 SpD / 21 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Flash Cannon
+
 Crobat @ Oran Berry
-Level: 38
+Level: 42
 Lonely Nature
 Ability: Inner Focus
 IVs: 8 HP / 27 Atk / 26 Def / 7 SpA / 12 SpD / 22 Spe
@@ -179,27 +169,27 @@ IVs: 8 HP / 27 Atk / 26 Def / 7 SpA / 12 SpD / 22 Spe
 - Bite
 - Cross Poison
 
-Scolipede @ Oran Berry
-Level: 38
+Falinks @ Oran Berry
+Level: 42
 Naughty Nature
-Ability: Swarm
-IVs: 14 HP / 24 Atk / 4 Def / 14 SpA / 12 SpD / 8 Spe
-- Poison Tail
-- Bite
-- Bug Bite
+Ability: Skill Link
+IVs: 1 HP / 18 Atk / 8 Def / 27 SpA / 29 SpD / 23 Spe
+- Headbutt
+- First Impression
+- Arm Thrust
 - Protect
 
-Hypno @ Oran Berry
-Level: 38
+Hypno
+Level: 42
 Brave Nature
 Ability: Forewarn
 IVs: 3 HP / 15 Atk / 9 Def / 14 SpA / 27 SpD / 21 Spe
-- Psybeam
+- Zen Headbutt
 - Headbutt
 - Hypnosis
 - Toxoplasm
 
-Probopass
+Probopass @ Oran Berry
 Level: 38
 Quiet Nature
 Ability: Sturdy
@@ -208,3 +198,13 @@ IVs: 6 HP / 12 Atk / 29 Def / 28 SpA / 0 SpD / 31 Spe
 - Discharge
 - Thunder Wave
 - Flash Cannon
+
+Centiskorch
+Level: 42
+Quiet Nature
+Ability: White Smoke
+IVs: 19 HP / 10 Atk / 5 Def / 17 SpA / 15 SpD / 31 Spe
+- Flame Wheel
+- Bite
+- Leech Life
+- Slam

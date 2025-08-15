@@ -1634,6 +1634,7 @@ ItemHandlers::UseOnPokemon.add(:ROTOMCATALOG, proc { |item, qty, pkmn, scene|
     _INTL("Refrigerator"),
     _INTL("Electric fan"),
     _INTL("Lawn mower"),
+    _INTL("Pokédex"),
     _INTL("Cancel")
   ]
   new_form = scene.pbShowCommands(_INTL("Which appliance would you like to order?"), choices, pkmn.form)

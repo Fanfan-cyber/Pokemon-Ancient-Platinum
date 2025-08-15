@@ -94957,3 +94957,3337 @@ Item Chosen: Insect Plate
 Item Chosen: Dusk Stone
 Item Chosen: Dome Fossil
 Item Chosen: Hard Stone
+Roles for KANGASKHAN: [:PHYSICALBREAKER]
+Roles for EXEGGUTOR: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for TAUROS: [:PHYSICALBREAKER]
+Roles for ESPATHRA: [:SPECIALBREAKER, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kangaskhan!"
+"Go! Probopass!"
+[Round order] The opposing Kangaskhan (1), Probopass (0)
+
+===== Round 1 =====
+
+Set up score for Kangaskhan (1): 0
+Set up score for Kangaskhan (1): 0
+     [Switch AI] +5 Party member [Jolteon] is immune to strongest move against Kangaskhan (1)
+[AI] Switch out Score (5) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Probopass (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Kangaskhan (1) is considering using Fake Out (1) against Probopass (0)...
+     + 18 for using Fake Out turn 1
+[AI] Kangaskhan (1) is considering using Power-Up Punch (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kangaskhan (1) is considering using Body Slam (1) against Probopass (0)...
+[AI] Kangaskhan (1) is considering using Aerial Ace (1) against Probopass (0)...
+[AI] Move choices for Kangaskhan (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Kangaskhan (1), Probopass (0)
+
+[Use move] The opposing Kangaskhan (1) used Fake Out
+"The opposing Kangaskhan used Fake Out!"
+[HP change] Probopass lost 7 HP (95 -> 88)
+"It's not very effective..."
+[Use move] Probopass (0) used Thunder Wave
+"Probopass flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Kangaskhan (1): 0
+Set up score for Kangaskhan (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kangaskhan (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kangaskhan (1) is considering using Power-Up Punch (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kangaskhan (1) is considering using Body Slam (1) against Probopass (0)...
+[AI] Kangaskhan (1) is considering using Aerial Ace (1) against Probopass (0)...
+[AI] Move choices for Kangaskhan (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Power-Up Punch (target 0): score 5
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Power-Up Punch (target 0)
+
+[Round order] The opposing Kangaskhan (1), Probopass (0)
+
+[Use move] The opposing Kangaskhan (1) used Power-Up Punch
+"The opposing Kangaskhan used Power-Up Punch!"
+[HP change] Probopass lost 17 HP (88 -> 71)
+"It's super effective!"
+[Stat change] The opposing Kangaskhan's Attack changed by +1 (0 -> 1)
+"The opposing Kangaskhan's Attack rose!"
+[Use move] Probopass (0) used Thunder Wave
+"Probopass used Thunder Wave!"
+"The opposing Kangaskhan is paralyzed! It may be unable to move!"
+[Status change] The opposing Kangaskhan's status was cured
+"The opposing Kangaskhan's Lum Berry cured its paralysis!"
+[Item consumed] The opposing Kangaskhan consumed its held Lum Berry
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Kangaskhan (1): 1
+Set up score for Kangaskhan (1): 1
+Set up score for Kangaskhan (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kangaskhan (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kangaskhan (1) is considering using Power-Up Punch (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kangaskhan (1) is considering using Body Slam (1) against Probopass (0)...
+[AI] Kangaskhan (1) is considering using Aerial Ace (1) against Probopass (0)...
+[AI] Move choices for Kangaskhan (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Power-Up Punch (target 0): score 5
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Power-Up Punch (target 0)
+
+[Round order] The opposing Kangaskhan (1), Probopass (0)
+
+[Use move] The opposing Kangaskhan (1) used Power-Up Punch
+"The opposing Kangaskhan used Power-Up Punch!"
+[HP change] Probopass lost 24 HP (71 -> 47)
+"It's super effective!"
+[HP change] Probopass gained 10 HP (47 -> 57)
+"Probopass restored a little HP using its Oran Berry!"
+[Item consumed] Probopass consumed its held Oran Berry
+[Stat change] The opposing Kangaskhan's Attack changed by +1 (1 -> 2)
+"The opposing Kangaskhan's Attack rose!"
+[Use move] Probopass (0) used Thunder Wave
+"Probopass used Thunder Wave!"
+"The opposing Kangaskhan is paralyzed! It may be unable to move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Kangaskhan (1): 2
+Set up score for Kangaskhan (1): 2
+Set up score for Kangaskhan (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kangaskhan (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kangaskhan (1) is considering using Power-Up Punch (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Kangaskhan (1) is considering using Body Slam (1) against Probopass (0)...
+[AI] Kangaskhan (1) is considering using Aerial Ace (1) against Probopass (0)...
+[AI] Move choices for Kangaskhan (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Power-Up Punch (target 0): score 5
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Power-Up Punch (target 0)
+
+[Round order] The opposing Kangaskhan (1), Probopass (0)
+
+"Probopass, come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Kangaskhan (1) used Power-Up Punch
+"The opposing Kangaskhan used Power-Up Punch!"
+[HP change] Hariyama lost 43 HP (161 -> 118)
+[Stat change] The opposing Kangaskhan's Attack changed by +1 (2 -> 3)
+"The opposing Kangaskhan's Attack rose!"
+
+[End of round 4]
+[HP change] Hariyama lost 10 HP (118 -> 108)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kangaskhan (1): 3
+Set up score for Kangaskhan (1): 3
+Set up score for Kangaskhan (1): 3
+     [Switch AI] +3 Do not reset buffed stats
+[AI] Switch out Score (-8) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kangaskhan (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kangaskhan (1) is considering using Power-Up Punch (1) against Hariyama (0)...
+[AI] Kangaskhan (1) is considering using Body Slam (1) against Hariyama (0)...
+      + 17 for slow kill
+[AI] Kangaskhan (1) is considering using Aerial Ace (1) against Hariyama (0)...
+      + 17 for slow kill
+[AI] Move choices for Kangaskhan (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   *  50.0% to use Body Slam (target 0): score 18
+   *  50.0% to use Aerial Ace (target 0): score 18
+   => will use Body Slam (target 0)
+
+[Round order] Hariyama (0), the opposing Kangaskhan (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Kangaskhan lost 28 HP (132 -> 104)
+[Use move] The opposing Kangaskhan (1) used Body Slam
+"The opposing Kangaskhan flinched and couldn't move!"
+
+[End of round 5]
+[HP change] Hariyama lost 10 HP (108 -> 98)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kangaskhan (1): 3
+Set up score for Kangaskhan (1): 3
+Set up score for Kangaskhan (1): 3
+     [Switch AI] +3 Do not reset buffed stats
+[AI] Switch out Score (-8) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kangaskhan (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kangaskhan (1) is considering using Power-Up Punch (1) against Hariyama (0)...
+[AI] Kangaskhan (1) is considering using Body Slam (1) against Hariyama (0)...
+      + 17 for slow kill
+[AI] Kangaskhan (1) is considering using Aerial Ace (1) against Hariyama (0)...
+      + 17 for slow kill
+[AI] Move choices for Kangaskhan (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   *  50.0% to use Body Slam (target 0): score 18
+   *  50.0% to use Aerial Ace (target 0): score 18
+   => will use Aerial Ace (target 0)
+
+[Round order] Hariyama (0), the opposing Kangaskhan (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Kangaskhan lost 104 HP (104 -> 0)
+"It's super effective!"
+"The opposing Kangaskhan fainted!"
+
+[End of round 6]
+[HP change] Hariyama lost 10 HP (98 -> 88)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Exeggutor] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Exeggutor] + 9 because we have kill
+     [Jolteon] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Jolteon] + 9 because we have kill
+     [Tauros] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tauros] + 9 because we have kill
+     [Espathra] + 2 because we outspeed
+     [Espathra] + 9 because we have kill
+[AI] Highest move score (28) vs Switch In Score (46)
+"Team Galactic Grunt sent out Espathra!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Espathra (1): 0
+Set up score for Espathra (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espathra (1) is considering using Psyshock (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Espathra (1) is considering using Dazzling Gleam (1)...
+      + 20 for fast kill
+[AI] Espathra (1) is considering using Air Slash (1) against Hariyama (0)...
+[AI] Espathra (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Espathra (1):
+   *  50.0% to use Psyshock (target 0): score 21
+   *  50.0% to use Dazzling Gleam: score 21
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Espathra (1), Hariyama (0)
+
+"Hariyama, come back!"
+"You're in charge, Hypno!"
+[Ability triggered] Hypno's Forewarn
+"Hypno was alerted to Psyshock!"
+[Ability triggered] Hypno's Forewarn
+[Stat change] Hypno's Special Defense changed by +1 (0 -> 1)
+"Hypno's Special Defense rose!"
+[Use move] The opposing Espathra (1) used Dazzling Gleam
+"The opposing Espathra used Dazzling Gleam!"
+[HP change] Hypno lost 8 HP (113 -> 105)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+[Ability triggered] The opposing Espathra's Speed Boost
+[Stat change] The opposing Espathra's Speed changed by +1 (0 -> 1)
+"The opposing Espathra's Speed rose!"
+
+===== Round 8 =====
+
+Set up score for Espathra (1): 1
+Set up score for Espathra (1): 1
+Set up score for Espathra (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espathra (1) is considering using Psyshock (1) against Hypno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Espathra (1) is considering using Dazzling Gleam (1)...
+[AI] Espathra (1) is considering using Air Slash (1) against Hypno (0)...
+[AI] Espathra (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Espathra (1):
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Espathra (1), Hypno (0)
+
+[Use move] The opposing Espathra (1) used Psyshock
+"The opposing Espathra used Psyshock!"
+[HP change] Hypno lost 57 HP (105 -> 48)
+[Use move] Hypno (0) used Toxoplasm
+"Hypno used Toxoplasm!"
+[HP change] The opposing Espathra lost 45 HP (122 -> 77)
+"The opposing Espathra had its energy drained!"
+[HP change] Hypno gained 23 HP (48 -> 71)
+
+[End of round 8]
+Trick Room Turns: 0
+[Ability triggered] The opposing Espathra's Speed Boost
+[Stat change] The opposing Espathra's Speed changed by +1 (1 -> 2)
+"The opposing Espathra's Speed rose!"
+
+===== Round 9 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Espathra (1): 2
+Set up score for Espathra (1): 2
+Set up score for Espathra (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espathra (1) is considering using Psyshock (1) against Hypno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Espathra (1) is considering using Dazzling Gleam (1)...
+[AI] Espathra (1) is considering using Air Slash (1) against Hypno (0)...
+[AI] Espathra (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Espathra (1):
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Espathra (1), Hypno (0)
+
+[Use move] The opposing Espathra (1) used Psyshock
+"The opposing Espathra used Psyshock!"
+[HP change] Hypno lost 58 HP (71 -> 13)
+[Use move] Hypno (0) used Toxoplasm
+"Hypno used Toxoplasm!"
+[HP change] The opposing Espathra lost 44 HP (77 -> 33)
+"The opposing Espathra had its energy drained!"
+[HP change] Hypno gained 22 HP (13 -> 35)
+
+[End of round 9]
+Trick Room Turns: 0
+[Ability triggered] The opposing Espathra's Speed Boost
+[Stat change] The opposing Espathra's Speed changed by +1 (2 -> 3)
+"The opposing Espathra's Speed rose!"
+
+===== Round 10 =====
+
+     + 3 because we will heal more than the damage taken
+     [Switch AI] -7 We have fast kill
+Set up score for Espathra (1): 3
+Set up score for Espathra (1): 3
+Set up score for Espathra (1): 3
+     [Switch AI] +3 Do not reset buffed stats
+[AI] Switch out Score (-10) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espathra (1) is considering using Psyshock (1) against Hypno (0)...
+      + 20 for fast kill
+[AI] Espathra (1) is considering using Dazzling Gleam (1)...
+[AI] Espathra (1) is considering using Air Slash (1) against Hypno (0)...
+[AI] Espathra (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Espathra (1):
+   * 100.0% to use Psyshock (target 0): score 21
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Espathra (1), Hypno (0)
+
+"OK, Hypno! Come back!"
+"Just a little more! Hang in there, Probopass!"
+[Use move] The opposing Espathra (1) used Psyshock
+"The opposing Espathra used Psyshock!"
+[HP change] Probopass lost 16 HP (57 -> 41)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+[Ability triggered] The opposing Espathra's Speed Boost
+[Stat change] The opposing Espathra's Speed changed by +1 (3 -> 4)
+"The opposing Espathra's Speed rose!"
+
+===== Round 11 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Espathra (1): 4
+Set up score for Espathra (1): 4
+Set up score for Espathra (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+     [Switch AI] +5 Party member [Jolteon] is immune to strongest move against Espathra (1)
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espathra (1) is considering using Psyshock (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Espathra (1) is considering using Dazzling Gleam (1)...
+[AI] Espathra (1) is considering using Air Slash (1) against Probopass (0)...
+[AI] Espathra (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Espathra (1):
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Espathra (1), Probopass (0)
+
+[Use move] The opposing Espathra (1) used Psyshock
+"The opposing Espathra used Psyshock!"
+[HP change] Probopass lost 14 HP (41 -> 27)
+"It's not very effective..."
+[Use move] Probopass (0) used Thunder Wave
+"Probopass used Thunder Wave!"
+"The opposing Espathra is paralyzed! It may be unable to move!"
+
+[End of round 11]
+Trick Room Turns: 0
+[Ability triggered] The opposing Espathra's Speed Boost
+[Stat change] The opposing Espathra's Speed changed by +1 (4 -> 5)
+"The opposing Espathra's Speed rose!"
+
+===== Round 12 =====
+
+     + 3 because we will heal more than the damage taken
+Set up score for Espathra (1): 5
+Set up score for Espathra (1): 5
+Set up score for Espathra (1): 5
+     [Switch AI] +5 Do not reset buffed stats
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espathra (1) is considering using Psyshock (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Espathra (1) is considering using Dazzling Gleam (1)...
+[AI] Espathra (1) is considering using Air Slash (1) against Probopass (0)...
+[AI] Espathra (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Espathra (1):
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Espathra (1), Probopass (0)
+
+[Use move] The opposing Espathra (1) used Psyshock
+"The opposing Espathra used Psyshock!"
+[HP change] Probopass lost 14 HP (27 -> 13)
+"It's not very effective..."
+[Use move] Probopass (0) used Flash Cannon
+"Probopass used Flash Cannon!"
+[HP change] The opposing Espathra lost 33 HP (33 -> 0)
+"The opposing Espathra fainted!"
+"Hypno got 1 Exp. Points!"
+
+[End of round 12]
+Trick Room Turns: 0
+     [Exeggutor] + 2 because we outspeed
+     [Exeggutor] + 4 because we have 2HKO
+     [Jolteon] + 2 because we outspeed
+     [Jolteon] + 4 because we have 2HKO
+     [Tauros] + 2 because we outspeed
+     [Tauros] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Team Galactic Grunt sent out Jolteon!"
+"The opposing Jolteon floats in the air with its Air Balloon!"
+
+===== Round 13 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Signal Beam (1) against Probopass (0)...
+[AI] Jolteon (1) is considering using Hidden Power (1) against Probopass (0)...
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Probopass (0)...
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Signal Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Probopass (0)
+
+"Good job, Probopass! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Chimecho lost 39 HP (120 -> 81)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Signal Beam (1) against Chimecho (0)...
+[AI] Jolteon (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Chimecho (0)...
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Signal Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Chimecho (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Chimecho lost 41 HP (81 -> 40)
+[HP change] Chimecho gained 10 HP (40 -> 50)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Jolteon lost 41 HP (103 -> 62)
+"The opposing Jolteon's Air Balloon popped!"
+[Item consumed] The opposing Jolteon consumed its held Air Balloon
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Signal Beam (1) against Chimecho (0)...
+[AI] Jolteon (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Chimecho (0)...
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Signal Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Chimecho (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Chimecho lost 40 HP (50 -> 10)
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Jolteon lost 40 HP (62 -> 22)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Jolteon (1) is considering using Signal Beam (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Jolteon (1) is considering using Hidden Power (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Move choices for Jolteon (1):
+   *  25.0% to use Thunderbolt (target 0): score 21
+   *  25.0% to use Signal Beam (target 0): score 21
+   *  25.0% to use Hidden Power (target 0): score 21
+   *  25.0% to use Alluring Voice (target 0): score 21
+   => will use Signal Beam (target 0)
+
+[Round order] Chimecho (0), the opposing Jolteon (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Jolteon lost 17 HP (22 -> 5)
+[Use move] The opposing Jolteon (1) used Signal Beam
+"The opposing Jolteon used Signal Beam!"
+[HP change] Chimecho lost 10 HP (10 -> 0)
+"Chimecho fainted!"
+
+[End of round 16]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Hariyama!"
+
+===== Round 17 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Hariyama (0)...
+[AI] Jolteon (1) is considering using Signal Beam (1) against Hariyama (0)...
+[AI] Jolteon (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Signal Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 5
+   => will use Alluring Voice (target 0)
+
+[Round order] Hariyama (0), the opposing Jolteon (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Jolteon lost 5 HP (5 -> 0)
+"The opposing Jolteon fainted!"
+
+[End of round 17]
+[HP change] Hariyama lost 10 HP (88 -> 78)
+"Hariyama was hurt by its burn!"
+[HP change] Hariyama gained 10 HP (78 -> 88)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+Trick Room Turns: 0
+     [Exeggutor] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Exeggutor] + 9 because we have kill
+     [Tauros] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tauros] + 9 because we have kill
+[AI] Highest move score (6) vs Switch In Score (38)
+"Team Galactic Grunt sent out Tauros!"
+[Ability triggered] The opposing Tauros's Intimidate
+[Stat change] Hariyama's Attack changed by -1 (0 -> -1)
+"Hariyama's Attack fell!"
+
+===== Round 18 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): -1
+     Threat Score for Hariyama (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Hariyama (0)...
+[AI] Tauros (1) is considering using Brick Break (1) against Hariyama (0)...
+[AI] Tauros (1) is considering using Earthquake (1)...
+[AI] Tauros (1) is considering using Zen Headbutt (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Zen Headbutt (target 0): score 5
+   => will use Zen Headbutt (target 0)
+
+[Round order] The opposing Tauros (1), Hariyama (0)
+
+"Hariyama, come back!"
+"You're in charge, Flygon!"
+[Use move] The opposing Tauros (1) used Zen Headbutt
+"The opposing Tauros used Zen Headbutt!"
+[HP change] Flygon lost 36 HP (112 -> 76)
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+     move will not affect Flygon (0)
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Flygon (0)...
+[AI] Tauros (1) is considering using Brick Break (1) against Flygon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Earthquake (1)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Zen Headbutt (1) against Flygon (0)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Zen Headbutt (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Tauros (1), Flygon (0)
+
+[Use move] The opposing Tauros (1) used Brick Break
+"The opposing Tauros used Brick Break!"
+[HP change] Flygon lost 57 HP (76 -> 19)
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Tauros lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Tauros fainted!"
+
+[End of round 19]
+Trick Room Turns: 0
+     move will not affect Flygon (0)
+     [Exeggutor] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Team Galactic Grunt sent out Exeggutor!"
+
+===== Round 20 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Exeggutor (1) is considering using Earth Power (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Move choices for Exeggutor (1):
+   *  33.3% to use Giga Drain (target 0): score 18
+   *  33.3% to use Dragon Pulse (target 0): score 18
+   *  33.3% to use Flamethrower (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Flygon (0), the opposing Exeggutor (1)
+
+"Good job, Flygon! Come back!"
+"You're in charge, Centiskorch!"
+[Use move] The opposing Exeggutor (1) used Flamethrower
+"The opposing Exeggutor used Flamethrower!"
+[HP change] Centiskorch lost 38 HP (131 -> 93)
+
+[End of round 20]
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Centiskorch (0)...
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Centiskorch (0)...
+[AI] Exeggutor (1) is considering using Earth Power (1) against Centiskorch (0)...
+[AI] Move choices for Exeggutor (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Centiskorch (0), the opposing Exeggutor (1)
+
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Exeggutor lost 96 HP (122 -> 26)
+"It's super effective!"
+[Stat change] The opposing Exeggutor's Speed changed by +2 (0 -> 2)
+"The opposing Exeggutor's Starf Berry sharply raised its Speed!"
+[Item consumed] The opposing Exeggutor consumed its held Starf Berry
+"The opposing Exeggutor had its energy drained!"
+[HP change] Centiskorch gained 38 HP (93 -> 131)
+[Use move] The opposing Exeggutor (1) used Dragon Pulse
+"The opposing Exeggutor used Dragon Pulse!"
+[HP change] Centiskorch lost 55 HP (131 -> 76)
+
+[End of round 21]
+Trick Room Turns: 0
+
+===== Round 22 =====
+
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Centiskorch (0)...
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Centiskorch (0)...
+     + 4 to prioritize highest damaging move
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Centiskorch (0)...
+[AI] Exeggutor (1) is considering using Earth Power (1) against Centiskorch (0)...
+[AI] Move choices for Exeggutor (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Exeggutor (1), Centiskorch (0)
+
+[Use move] The opposing Exeggutor (1) used Dragon Pulse
+"The opposing Exeggutor used Dragon Pulse!"
+[HP change] Centiskorch lost 60 HP (76 -> 16)
+[HP change] Centiskorch gained 10 HP (16 -> 26)
+"Centiskorch restored a little HP using its Oran Berry!"
+[Item consumed] Centiskorch consumed its held Oran Berry
+[Use move] Centiskorch (0) used Leech Life
+"Centiskorch used Leech Life!"
+[HP change] The opposing Exeggutor lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Exeggutor fainted!"
+"The opposing Exeggutor had its energy drained!"
+[HP change] Centiskorch gained 13 HP (26 -> 39)
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,152 for winning!"
+Roles for KLINKLANG: [:PHYSICALBREAKER]
+Roles for PAWMOT: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:SPECIALBREAKER, :TANK]
+Roles for MALAMAR: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Scientist Travon!"
+"Scientist Travon sent out Klinklang!"
+"Go! Probopass!"
+[Round order] The opposing Klinklang (1), Probopass (0)
+
+===== Round 1 =====
+
+Set up score for Klinklang (1): 0
+Set up score for Klinklang (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Probopass (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Klinklang (1) is considering using Gear Grind (1) against Probopass (0)...
+[AI] Klinklang (1) is considering using Wild Charge (1) against Probopass (0)...
+[AI] Klinklang (1) is considering using Return (1) against Probopass (0)...
+[AI] Klinklang (1) is considering using Explosion (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Klinklang (1):
+   *   0.0% to use Gear Grind (target 0): score 0
+   *   0.0% to use Wild Charge (target 0): score 0
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Explosion: score 5
+   => will use Explosion
+
+[Round order] The opposing Klinklang (1), Probopass (0)
+
+[Use move] The opposing Klinklang (1) used Explosion
+"The opposing Klinklang used Explosion!"
+[HP change] Probopass lost 28 HP (95 -> 67)
+[HP change] The opposing Klinklang lost 100 HP (100 -> 0)
+"The opposing Klinklang fainted!"
+"It's not very effective..."
+[Use move] Probopass (0) used Thunder Wave
+"Probopass used Thunder Wave!"
+"But there was no target..."
+
+[End of round 1]
+Trick Room Turns: 0
+     [Pawmot] + 2 because we outspeed
+     [Pawmot] + 4 because we have 2HKO
+     [Braviary] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Braviary] + 4 because we have 2HKO
+     [Malamar] + 2 because we outspeed
+     [Malamar] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Scientist Travon sent out Malamar!"
+
+===== Round 2 =====
+
+Set up score for Malamar (1): 0
+Set up score for Malamar (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Malamar (1) is considering using Superpower (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Malamar (1) is considering using Night Slash (1) against Probopass (0)...
+[AI] Malamar (1) is considering using Psycho Cut (1) against Probopass (0)...
+[AI] Malamar (1) is considering using Liquidation (1) against Probopass (0)...
+[AI] Move choices for Malamar (1):
+   * 100.0% to use Superpower (target 0): score 5
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   => will use Superpower (target 0)
+
+[Round order] The opposing Malamar (1), Probopass (0)
+
+"Probopass, come back!"
+"You're in charge, Centiskorch!"
+[Use move] The opposing Malamar (1) used Superpower
+"The opposing Malamar used Superpower!"
+[HP change] Centiskorch lost 27 HP (131 -> 104)
+"It's not very effective..."
+[Stat change] The opposing Malamar's Attack changed by +1 (0 -> 1)
+"The opposing Malamar's Attack rose!"
+[Stat change] The opposing Malamar's Defense changed by +1 (0 -> 1)
+"The opposing Malamar's Defense rose!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Malamar (1): 2
+Set up score for Malamar (1): 2
+Set up score for Malamar (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-9) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Malamar (1) is considering using Superpower (1) against Centiskorch (0)...
+[AI] Malamar (1) is considering using Night Slash (1) against Centiskorch (0)...
+[AI] Malamar (1) is considering using Psycho Cut (1) against Centiskorch (0)...
+[AI] Malamar (1) is considering using Liquidation (1) against Centiskorch (0)...
+      + 20 for fast kill
+[AI] Move choices for Malamar (1):
+   *   0.0% to use Superpower (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   * 100.0% to use Liquidation (target 0): score 21
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Malamar (1), Centiskorch (0)
+
+[Use move] The opposing Malamar (1) used Liquidation
+"The opposing Malamar used Liquidation!"
+[HP change] Centiskorch lost 104 HP (104 -> 0)
+"It's super effective!"
+"Centiskorch fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+"You're in charge, Flygon!"
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Malamar (1): 2
+Set up score for Malamar (1): 2
+Set up score for Malamar (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Malamar (1) is considering using Superpower (1) against Flygon (0)...
+[AI] Malamar (1) is considering using Night Slash (1) against Flygon (0)...
+[AI] Malamar (1) is considering using Psycho Cut (1) against Flygon (0)...
+[AI] Malamar (1) is considering using Liquidation (1) against Flygon (0)...
+[AI] Move choices for Malamar (1):
+   *  25.0% to use Superpower (target 0): score 1
+   *  25.0% to use Night Slash (target 0): score 1
+   *  25.0% to use Psycho Cut (target 0): score 1
+   *  25.0% to use Liquidation (target 0): score 1
+   => will use Liquidation (target 0)
+
+[Round order] Flygon (0), the opposing Malamar (1)
+
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Malamar lost 61 HP (122 -> 61)
+[Use move] The opposing Malamar (1) used Liquidation
+"The opposing Malamar used Liquidation!"
+[HP change] Flygon lost 50 HP (112 -> 62)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Malamar (1): 2
+Set up score for Malamar (1): 2
+Set up score for Malamar (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-7) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Malamar (1) is considering using Superpower (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Malamar (1) is considering using Night Slash (1) against Flygon (0)...
+[AI] Malamar (1) is considering using Psycho Cut (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Malamar (1) is considering using Liquidation (1) against Flygon (0)...
+[AI] Move choices for Malamar (1):
+   *  50.0% to use Superpower (target 0): score 18
+   *   0.0% to use Night Slash (target 0): score 0
+   *  50.0% to use Psycho Cut (target 0): score 18
+   *   0.0% to use Liquidation (target 0): score 0
+   => will use Psycho Cut (target 0)
+
+[Round order] Flygon (0), the opposing Malamar (1)
+
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Malamar lost 61 HP (61 -> 0)
+"The opposing Malamar fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Pawmot] + 2 because we outspeed
+     [Pawmot] + 9 because we have kill
+     [Braviary] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (46)
+"Scientist Travon sent out Pawmot!"
+
+===== Round 6 =====
+
+     move will not affect Flygon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Pawmot (1): 0
+Set up score for Pawmot (1): 0
+     [Switch AI] +5 Party member [Braviary] is immune to strongest move against Pawmot (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmot (1) is considering using Fake Out (1) against Flygon (0)...
+     + 18 for using Fake Out turn 1
+[AI] Pawmot (1) is considering using Drain Punch (1) against Flygon (0)...
+      + 20 for fast kill
+[AI] Pawmot (1) is considering using Thunder Punch (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Pawmot (1) is considering using Ice Punch (1) against Flygon (0)...
+      + 20 for fast kill
+[AI] Move choices for Pawmot (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   *  50.0% to use Drain Punch (target 0): score 21
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *  50.0% to use Ice Punch (target 0): score 21
+   => will use Drain Punch (target 0)
+
+[Round order] The opposing Pawmot (1), Flygon (0)
+
+"Flygon, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Pawmot (1) used Drain Punch
+"The opposing Pawmot used Drain Punch!"
+[HP change] Chimecho lost 14 HP (120 -> 106)
+"It's not very effective..."
+"Chimecho had its energy drained!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Pawmot (1): 0
+Set up score for Pawmot (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmot (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmot (1) is considering using Drain Punch (1) against Chimecho (0)...
+[AI] Pawmot (1) is considering using Thunder Punch (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pawmot (1) is considering using Ice Punch (1) against Chimecho (0)...
+[AI] Move choices for Pawmot (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Thunder Punch (target 0): score 5
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Thunder Punch (target 0)
+
+[Round order] The opposing Pawmot (1), Chimecho (0)
+
+[Use move] The opposing Pawmot (1) used Thunder Punch
+"The opposing Pawmot used Thunder Punch!"
+[HP change] Chimecho lost 52 HP (106 -> 54)
+[HP change] Chimecho gained 10 HP (54 -> 64)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Pawmot lost 85 HP (107 -> 22)
+"It's super effective!"
+"The opposing Pawmot had its energy drained!"
+[HP change] Chimecho gained 56 HP (64 -> 120)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Pawmot (1): 0
+Set up score for Pawmot (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmot (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmot (1) is considering using Drain Punch (1) against Chimecho (0)...
+[AI] Pawmot (1) is considering using Thunder Punch (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pawmot (1) is considering using Ice Punch (1) against Chimecho (0)...
+[AI] Move choices for Pawmot (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Thunder Punch (target 0): score 5
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Thunder Punch (target 0)
+
+[Round order] Chimecho (0), the opposing Pawmot (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Pawmot lost 22 HP (22 -> 0)
+"The opposing Pawmot fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Braviary] - 3 because we have no kill
+[AI] Highest move score (28) vs Switch In Score (32)
+"Scientist Travon sent out Braviary!"
+
+===== Round 9 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Esper Wing (1) against Chimecho (0)...
+[AI] Braviary (1) is considering using Air Slash (1) against Chimecho (0)...
+[AI] Braviary (1) is considering using Heat Wave (1)...
+[AI] Braviary (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Braviary (1):
+   *  33.3% to use Esper Wing (target 0): score 1
+   *  33.3% to use Air Slash (target 0): score 1
+   *  33.3% to use Heat Wave: score 1
+   *   0.0% to use Roost: score 0
+   => will use Heat Wave
+
+[Round order] Chimecho (0), the opposing Braviary (1)
+
+[Use move] Chimecho (0) used Yawn
+"Chimecho used Yawn!"
+"Chimecho made the opposing Braviary drowsy!"
+[Use move] The opposing Braviary (1) used Heat Wave
+"The opposing Braviary used Heat Wave!"
+[HP change] Chimecho lost 28 HP (120 -> 92)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Esper Wing (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Braviary (1) is considering using Air Slash (1) against Chimecho (0)...
+[AI] Braviary (1) is considering using Heat Wave (1)...
+[AI] Braviary (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Braviary (1):
+   * 100.0% to use Esper Wing (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Roost: score 0
+   => will use Esper Wing (target 0)
+
+[Round order] Chimecho (0), the opposing Braviary (1)
+
+"Chimecho, come back!"
+"You're in charge, Probopass!"
+[Use move] The opposing Braviary (1) used Esper Wing
+"The opposing Braviary used Esper Wing!"
+[HP change] Probopass lost 31 HP (67 -> 36)
+"It's not very effective..."
+[HP change] Probopass gained 10 HP (36 -> 46)
+"Probopass restored a little HP using its Oran Berry!"
+[Item consumed] Probopass consumed its held Oran Berry
+[Stat change] The opposing Braviary's Speed changed by +1 (0 -> 1)
+"The opposing Braviary's Speed rose!"
+
+[End of round 10]
+[Lingering effect] The opposing Braviary fell asleep because of Yawn
+"The opposing Braviary fell asleep!"
+[Status change] The opposing Braviary's sleep count is 3
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Esper Wing (1) against Probopass (0)...
+[AI] Braviary (1) is considering using Air Slash (1) against Probopass (0)...
+[AI] Braviary (1) is considering using Heat Wave (1)...
+     + 4 to prioritize highest damaging move
+[AI] Braviary (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Braviary (1):
+   *   0.0% to use Esper Wing (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Heat Wave: score 5
+   *   0.0% to use Roost: score 0
+   => will use Heat Wave
+
+[Round order] The opposing Braviary (1), Probopass (0)
+
+[Use move] The opposing Braviary (1) used Heat Wave
+"The opposing Braviary is fast asleep."
+[Status continues] The opposing Braviary's sleep count is 2
+[Use move] Probopass (0) used Discharge
+"Probopass used Discharge!"
+[HP change] The opposing Braviary lost 95 HP (136 -> 41)
+"It's super effective!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Esper Wing (1) against Probopass (0)...
+[AI] Braviary (1) is considering using Air Slash (1) against Probopass (0)...
+[AI] Braviary (1) is considering using Heat Wave (1)...
+     + 4 to prioritize highest damaging move
+[AI] Braviary (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Braviary (1):
+   *   0.0% to use Esper Wing (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Heat Wave: score 5
+   *   0.0% to use Roost: score 0
+   => will use Heat Wave
+
+[Round order] The opposing Braviary (1), Probopass (0)
+
+[Use move] The opposing Braviary (1) used Heat Wave
+"The opposing Braviary is fast asleep."
+[Status continues] The opposing Braviary's sleep count is 1
+[Use move] Probopass (0) used Discharge
+"Probopass used Discharge!"
+[HP change] The opposing Braviary lost 41 HP (41 -> 0)
+"It's super effective!"
+"The opposing Braviary fainted!"
+
+===== Player won =====
+
+"You defeated Scientist Travon!"
+"Wow. You're great!"
+
+"You got $1,776 for winning!"
+Roles for LOPUNNY: [:PHYSICALBREAKER]
+Roles for SCIZOR: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for ORICORIO: [:SPECIALBREAKER, :TANK]
+Roles for DELPHOX: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for MILOTIC: [:TANK, :OFFENSIVEPIVOT, :SETUPSWEEPER, :SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Lopunny!"
+"Go! Hariyama!"
+[Round order] The opposing Lopunny (1), Hariyama (0)
+
+===== Round 1 =====
+
+Set up score for Lopunny (1): 0
+Set up score for Lopunny (1): 0
+     [Switch AI] +5 Party member [Oricorio] is immune to strongest move against Lopunny (1)
+[AI] Switch out Score (5) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Lopunny (1) is considering using Fake Out (1) against Hariyama (0)...
+     + 18 for using Fake Out turn 1
+     + 9 to get a last ditch hit off.
+[AI] Lopunny (1) is considering using Double Hit (1) against Hariyama (0)...
+[AI] Lopunny (1) is considering using Triple Axel (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lopunny (1) is considering using Double Kick (1) against Hariyama (0)...
+[AI] Move choices for Lopunny (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Double Hit (target 0): score 0
+   *   0.0% to use Triple Axel (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Lopunny (1), Hariyama (0)
+
+[Use move] The opposing Lopunny (1) used Fake Out
+"The opposing Lopunny used Fake Out!"
+[HP change] Hariyama lost 40 HP (161 -> 121)
+[Use move] Hariyama (0) used Force Palm
+"Hariyama flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Hariyama lost 10 HP (121 -> 111)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Lopunny (1): 0
+Set up score for Lopunny (1): 0
+     [Switch AI] +5 Party member [Oricorio] is immune to strongest move against Lopunny (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lopunny (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Lopunny (1) is considering using Double Hit (1) against Hariyama (0)...
+[AI] Lopunny (1) is considering using Triple Axel (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lopunny (1) is considering using Double Kick (1) against Hariyama (0)...
+[AI] Move choices for Lopunny (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Double Hit (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 5
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lopunny (1), Hariyama (0)
+
+[Use move] The opposing Lopunny (1) used Triple Axel
+"The opposing Lopunny used Triple Axel!"
+[HP change] Hariyama lost 14 HP (111 -> 97)
+[HP change] Hariyama lost 26 HP (97 -> 71)
+[HP change] Hariyama gained 40 HP (71 -> 111)
+"Hariyama restored its health using its Sitrus Berry!"
+[Item consumed] Hariyama consumed its held Sitrus Berry
+[HP change] Hariyama lost 58 HP (111 -> 53)
+"A critical hit!"
+"Hit 3 times!"
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Lopunny lost 103 HP (103 -> 0)
+"It's super effective!"
+"The opposing Lopunny fainted!"
+
+[End of round 2]
+[HP change] Hariyama lost 10 HP (53 -> 43)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Scizor] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scizor] + 9 because we have kill
+     [Oricorio] + 3 because we absorb their highest damaging move against the current battler
+     [Oricorio] + 9 because we have kill
+     [Delphox] + 2 because we outspeed
+     [Delphox] + 9 because we have kill
+     [Milotic] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Milotic] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (47)
+"Team Galactic Grunt sent out Oricorio!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Oricorio (1): 0
+Set up score for Oricorio (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oricorio (1) is considering using Revelation Dance (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Oricorio (1) is considering using Air Slash (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Oricorio (1) is considering using Hidden Power (1) against Hariyama (0)...
+[AI] Oricorio (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Oricorio (1):
+   *  50.0% to use Revelation Dance (target 0): score 21
+   *  50.0% to use Air Slash (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Revelation Dance (target 0)
+
+[Round order] The opposing Oricorio (1), Hariyama (0)
+
+"OK, Hariyama! Come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Oricorio (1) used Revelation Dance
+"The opposing Oricorio used Revelation Dance!"
+"The Ghost Gem strengthened Revelation Dance's power!"
+[HP change] Boltund lost 84 HP (111 -> 27)
+[HP change] Boltund gained 10 HP (27 -> 37)
+"Boltund restored a little HP using its Oran Berry!"
+[Item consumed] Boltund consumed its held Oran Berry
+[Item consumed] The opposing Oricorio consumed its held Ghost Gem
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Oricorio (1): 0
+Set up score for Oricorio (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oricorio (1) is considering using Revelation Dance (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Oricorio (1) is considering using Air Slash (1) against Boltund (0)...
+[AI] Oricorio (1) is considering using Hidden Power (1) against Boltund (0)...
+[AI] Oricorio (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Oricorio (1):
+   * 100.0% to use Revelation Dance (target 0): score 18
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Revelation Dance (target 0)
+
+[Round order] Boltund (0), the opposing Oricorio (1)
+
+[Use move] Boltund (0) used Thunder Fang
+"Boltund used Thunder Fang!"
+[HP change] The opposing Oricorio lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Oricorio fainted!"
+"Boltund got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+     [Scizor] + 9 because we have kill
+     [Delphox] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Delphox] + 9 because we have kill
+     [Milotic] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Milotic] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (44)
+"Team Galactic Grunt sent out Scizor!"
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Scizor (1): 0
+Set up score for Scizor (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scizor (1) is considering using Bullet Punch (1) against Boltund (0)...
+[AI] Scizor (1) is considering using Bug Bite (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Scizor (1) is considering using Wing Attack (1) against Boltund (0)...
+[AI] Scizor (1) is considering using U-turn (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Move choices for Scizor (1):
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 18
+   *   0.0% to use Wing Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 18
+   => will use Bug Bite (target 0)
+
+[Round order] Boltund (0), the opposing Scizor (1)
+
+"OK, Boltund! Come back!"
+"You're in charge, Centiskorch!"
+[Use move] The opposing Scizor (1) used Bug Bite
+"The opposing Scizor used Bug Bite!"
+[HP change] Centiskorch lost 45 HP (131 -> 86)
+"It's not very effective..."
+"The opposing Scizor stole and ate its target's Oran Berry!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Scizor (1): 0
+Set up score for Scizor (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Centiskorch (0): 0
+     Threat Score for Centiskorch (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scizor (1) is considering using Bullet Punch (1) against Centiskorch (0)...
+     + 9 to get a last ditch hit off.
+[AI] Scizor (1) is considering using Bug Bite (1) against Centiskorch (0)...
+[AI] Scizor (1) is considering using Wing Attack (1) against Centiskorch (0)...
+      + 20 for fast kill
+[AI] Scizor (1) is considering using U-turn (1) against Centiskorch (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scizor (1):
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Wing Attack (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Scizor (1), Centiskorch (0)
+
+[Use move] The opposing Scizor (1) used Wing Attack
+"The opposing Scizor used Wing Attack!"
+[HP change] Centiskorch lost 86 HP (86 -> 0)
+"It's super effective!"
+"Centiskorch fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"You're in charge, Flygon!"
+
+===== Round 7 =====
+
+Set up score for Scizor (1): 0
+Set up score for Scizor (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scizor (1) is considering using Bullet Punch (1) against Flygon (0)...
+[AI] Scizor (1) is considering using Bug Bite (1) against Flygon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scizor (1) is considering using Wing Attack (1) against Flygon (0)...
+[AI] Scizor (1) is considering using U-turn (1) against Flygon (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scizor (1):
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Wing Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Flygon (0), the opposing Scizor (1)
+
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Scizor lost 56 HP (110 -> 54)
+[Use move] The opposing Scizor (1) used Bug Bite
+"The opposing Scizor used Bug Bite!"
+[HP change] Flygon lost 75 HP (112 -> 37)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Scizor (1): 0
+Set up score for Scizor (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (22)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scizor (1) is considering using Bullet Punch (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Scizor (1) is considering using Bug Bite (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Scizor (1) is considering using Wing Attack (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Scizor (1) is considering using U-turn (1) against Flygon (0)...
+     + 4 for switch initiative against a bad matchup
+      + 17 for slow kill
+[AI] Move choices for Scizor (1):
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use U-turn (target 0): score 22
+   => will use U-turn (target 0)
+
+[Round order] Flygon (0), the opposing Scizor (1)
+
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Scizor lost 54 HP (54 -> 0)
+"The opposing Scizor fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Delphox] - 12 because they have kill with their highest damaging move against the current battler
+     [Delphox] + 9 because we have kill
+     [Milotic] + 9 because we have kill
+[AI] Highest move score (22) vs Switch In Score (44)
+"Team Galactic Grunt sent out Milotic!"
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Milotic (1): 0
+Set up score for Milotic (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Flygon (0)...
+[AI] Move choices for Milotic (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Ice Beam (target 0)
+
+[Round order] Flygon (0), the opposing Milotic (1)
+
+"OK, Flygon! Come back!"
+"You're in charge, Hypno!"
+[Ability triggered] Hypno's Forewarn
+"Hypno was alerted to Ice Beam!"
+[Ability triggered] Hypno's Forewarn
+[Stat change] Hypno's Special Defense changed by +1 (0 -> 1)
+"Hypno's Special Defense rose!"
+[Use move] The opposing Milotic (1) used Ice Beam
+"The opposing Milotic used Ice Beam!"
+[HP change] Hypno lost 19 HP (113 -> 94)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Milotic (1): 0
+Set up score for Milotic (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hypno (0)...
+[AI] Milotic (1) is considering using Ice Beam (1) against Hypno (0)...
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Hypno (0)...
+[AI] Move choices for Milotic (1):
+   *  33.3% to use Scald (target 0): score 1
+   *  33.3% to use Ice Beam (target 0): score 1
+   *   0.0% to use Recover: score 0
+   *  33.3% to use Flip Turn (target 0): score 1
+   => will use Flip Turn (target 0)
+
+[Round order] The opposing Milotic (1), Hypno (0)
+
+[Use move] The opposing Milotic (1) used Flip Turn
+"The opposing Milotic used Flip Turn!"
+[HP change] Hypno lost 27 HP (94 -> 67)
+"The opposing Milotic went back to Team Galactic Grunt!"
+     [Delphox] + 2 because we outspeed
+     [Delphox] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Team Galactic Grunt sent out Delphox!"
+[Use move] Hypno (0) used Toxoplasm
+"Hypno used Toxoplasm!"
+[HP change] The opposing Delphox lost 26 HP (111 -> 85)
+"The opposing Delphox had its energy drained!"
+[HP change] Hypno gained 13 HP (67 -> 80)
+
+[End of round 10]
+[HP change] The opposing Delphox gained 6 HP (85 -> 91)
+"The opposing Delphox restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Delphox (1): 0
+Set up score for Delphox (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delphox (1) is considering using Mystical Fire (1) against Hypno (0)...
+[AI] Delphox (1) is considering using Psyshock (1) against Hypno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Delphox (1) is considering using Grass Knot (1) against Hypno (0)...
+[AI] Delphox (1) is considering using Calm Mind (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Delphox (1):
+   *   0.0% to use Mystical Fire (target 0): score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   * 100.0% to use Calm Mind: score 9
+   => will use Calm Mind
+
+[Round order] The opposing Delphox (1), Hypno (0)
+
+[Use move] The opposing Delphox (1) used Calm Mind
+"The opposing Delphox used Calm Mind!"
+[Stat change] The opposing Delphox's Special Attack changed by +1 (0 -> 1)
+"The opposing Delphox's Special Attack rose!"
+[Stat change] The opposing Delphox's Special Defense changed by +1 (0 -> 1)
+"The opposing Delphox's Special Defense rose!"
+[Use move] Hypno (0) used Hypnosis
+"Hypno used Hypnosis!"
+"The opposing Delphox fell asleep!"
+[Status change] The opposing Delphox's sleep count is 2
+
+[End of round 11]
+[HP change] The opposing Delphox gained 6 HP (91 -> 97)
+"The opposing Delphox restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Delphox (1): 2
+Set up score for Delphox (1): 2
+Set up score for Delphox (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-9) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delphox (1) is considering using Mystical Fire (1) against Hypno (0)...
+[AI] Delphox (1) is considering using Psyshock (1) against Hypno (0)...
+      + 20 for fast kill
+[AI] Delphox (1) is considering using Grass Knot (1) against Hypno (0)...
+[AI] Delphox (1) is considering using Calm Mind (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Delphox (1):
+   *   0.0% to use Mystical Fire (target 0): score 0
+   * 100.0% to use Psyshock (target 0): score 21
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Delphox (1), Hypno (0)
+
+"Hypno, come back!"
+"Go for it, Boltund!"
+[Use move] The opposing Delphox (1) used Psyshock
+"The opposing Delphox is fast asleep."
+[Status continues] The opposing Delphox's sleep count is 1
+
+[End of round 12]
+[HP change] The opposing Delphox gained 6 HP (97 -> 103)
+"The opposing Delphox restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Delphox (1): 2
+Set up score for Delphox (1): 2
+Set up score for Delphox (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-7) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delphox (1) is considering using Mystical Fire (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Delphox (1) is considering using Psyshock (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Delphox (1) is considering using Grass Knot (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Delphox (1) is considering using Calm Mind (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Delphox (1):
+   *  33.3% to use Mystical Fire (target 0): score 18
+   *  33.3% to use Psyshock (target 0): score 18
+   *  33.3% to use Grass Knot (target 0): score 18
+   *   0.0% to use Calm Mind: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Boltund (0), the opposing Delphox (1)
+
+[Use move] Boltund (0) used Crunch
+"Boltund used Crunch!"
+[HP change] The opposing Delphox lost 92 HP (103 -> 11)
+"It's super effective!"
+[Stat change] The opposing Delphox's Defense changed by -1 (0 -> -1)
+"The opposing Delphox's Defense fell!"
+[Use move] The opposing Delphox (1) used Psyshock
+"The opposing Delphox woke up!"
+"The opposing Delphox used Psyshock!"
+[HP change] Boltund lost 37 HP (37 -> 0)
+"A critical hit!"
+"Boltund fainted!"
+
+[End of round 13]
+[HP change] The opposing Delphox gained 6 HP (11 -> 17)
+"The opposing Delphox restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Hariyama!"
+
+===== Round 14 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Delphox (1): 1
+Set up score for Delphox (1): 1
+Set up score for Delphox (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-8) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delphox (1) is considering using Mystical Fire (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Delphox (1) is considering using Psyshock (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Delphox (1) is considering using Grass Knot (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Delphox (1) is considering using Calm Mind (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Delphox (1):
+   *  33.3% to use Mystical Fire (target 0): score 21
+   *  33.3% to use Psyshock (target 0): score 21
+   *  33.3% to use Grass Knot (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Mystical Fire (target 0)
+
+[Round order] Hariyama (0), the opposing Delphox (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Delphox lost 17 HP (17 -> 0)
+"The opposing Delphox fainted!"
+
+[End of round 14]
+[HP change] Hariyama lost 10 HP (43 -> 33)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Milotic] + 2 because we outspeed
+     [Milotic] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (46)
+"Team Galactic Grunt sent out Milotic!"
+
+===== Round 15 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Hariyama (0)...
+[AI] Move choices for Milotic (1):
+   *  50.0% to use Scald (target 0): score 21
+   *  50.0% to use Ice Beam (target 0): score 21
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Milotic (1), Hariyama (0)
+
+"Good job, Hariyama! Come back!"
+"You're in charge, Hypno!"
+[Ability triggered] Hypno's Forewarn
+"Hypno was alerted to Ice Beam!"
+[Ability triggered] Hypno's Forewarn
+[Stat change] Hypno's Special Defense changed by +1 (0 -> 1)
+"Hypno's Special Defense rose!"
+[Use move] The opposing Milotic (1) used Scald
+"The opposing Milotic used Scald!"
+[HP change] Hypno lost 26 HP (80 -> 54)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hypno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Milotic (1) is considering using Ice Beam (1) against Hypno (0)...
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Hypno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Milotic (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Scald (target 0)
+
+[Round order] The opposing Milotic (1), Hypno (0)
+
+[Use move] The opposing Milotic (1) used Scald
+"The opposing Milotic used Scald!"
+[HP change] Hypno lost 26 HP (54 -> 28)
+"Hypno was burned!"
+[Use move] Hypno (0) used Hypnosis
+"Hypno used Hypnosis!"
+"The opposing Milotic fell asleep!"
+[Status change] The opposing Milotic's sleep count is 2
+
+[End of round 16]
+[HP change] Hypno lost 7 HP (28 -> 21)
+"Hypno was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hypno (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Hypno (0)...
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Hypno (0)...
+      + 20 for fast kill
+[AI] Move choices for Milotic (1):
+   *  50.0% to use Scald (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *  50.0% to use Flip Turn (target 0): score 21
+   => will use Flip Turn (target 0)
+
+[Round order] The opposing Milotic (1), Hypno (0)
+
+[Use move] The opposing Milotic (1) used Flip Turn
+"The opposing Milotic is fast asleep."
+[Status continues] The opposing Milotic's sleep count is 1
+[Use move] Hypno (0) used Toxoplasm
+"Hypno used Toxoplasm!"
+[HP change] The opposing Milotic lost 25 HP (128 -> 103)
+"The opposing Milotic had its energy drained!"
+[HP change] Hypno gained 13 HP (21 -> 34)
+
+[End of round 17]
+[HP change] Hypno lost 7 HP (34 -> 27)
+"Hypno was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Hypno (0): 1
+     Threat Score for Hypno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hypno (0)...
+[AI] Milotic (1) is considering using Ice Beam (1) against Hypno (0)...
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     + 5 to encourage status move use
+[AI] Milotic (1) is considering using Flip Turn (1) against Hypno (0)...
+[AI] Move choices for Milotic (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Recover: score 12
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Recover
+
+[Round order] The opposing Milotic (1), Hypno (0)
+
+"Good job, Hypno! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Milotic (1) used Recover
+"The opposing Milotic woke up!"
+"The opposing Milotic used Recover!"
+[HP change] The opposing Milotic gained 25 HP (103 -> 128)
+"The opposing Milotic's HP was restored."
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Milotic (1) is considering using Ice Beam (1) against Chimecho (0)...
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Chimecho (0)...
+[AI] Move choices for Milotic (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Milotic (1), Chimecho (0)
+
+[Use move] The opposing Milotic (1) used Scald
+"The opposing Milotic used Scald!"
+[HP change] Chimecho lost 41 HP (120 -> 79)
+"Chimecho was burned!"
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Milotic lost 26 HP (128 -> 102)
+"The opposing Milotic had its energy drained!"
+[HP change] Chimecho gained 20 HP (79 -> 99)
+
+[End of round 19]
+[HP change] Chimecho lost 7 HP (99 -> 92)
+"Chimecho was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Milotic (1) is considering using Ice Beam (1) against Chimecho (0)...
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     + 5 to encourage status move use
+[AI] Milotic (1) is considering using Flip Turn (1) against Chimecho (0)...
+[AI] Move choices for Milotic (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Recover: score 12
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Recover
+
+[Round order] The opposing Milotic (1), Chimecho (0)
+
+[Use move] The opposing Milotic (1) used Recover
+"The opposing Milotic used Recover!"
+[HP change] The opposing Milotic gained 26 HP (102 -> 128)
+"The opposing Milotic's HP was restored."
+[Use move] Chimecho (0) used Yawn
+"Chimecho used Yawn!"
+"Chimecho made the opposing Milotic drowsy!"
+
+[End of round 20]
+[HP change] Chimecho lost 7 HP (92 -> 85)
+"Chimecho was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Milotic (1) is considering using Ice Beam (1) against Chimecho (0)...
+[AI] Milotic (1) is considering using Recover...
+     -  4: move will fail
+[AI] Milotic (1) is considering using Flip Turn (1) against Chimecho (0)...
+[AI] Move choices for Milotic (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Milotic (1), Chimecho (0)
+
+[Use move] The opposing Milotic (1) used Scald
+"The opposing Milotic used Scald!"
+[HP change] Chimecho lost 41 HP (85 -> 44)
+[HP change] Chimecho gained 10 HP (44 -> 54)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Milotic lost 23 HP (128 -> 105)
+"The opposing Milotic had its energy drained!"
+[HP change] Chimecho gained 17 HP (54 -> 71)
+
+[End of round 21]
+[HP change] Chimecho lost 7 HP (71 -> 64)
+"Chimecho was hurt by its burn!"
+[Lingering effect] The opposing Milotic fell asleep because of Yawn
+"The opposing Milotic fell asleep!"
+[Status change] The opposing Milotic's sleep count is 3
+Trick Room Turns: 0
+
+===== Round 22 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Milotic (1) is considering using Ice Beam (1) against Chimecho (0)...
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     + 5 to encourage status move use
+[AI] Milotic (1) is considering using Flip Turn (1) against Chimecho (0)...
+[AI] Move choices for Milotic (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Recover: score 12
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Recover
+
+[Round order] The opposing Milotic (1), Chimecho (0)
+
+"Chimecho, come back!"
+"Go for it, Flygon!"
+[Use move] The opposing Milotic (1) used Recover
+"The opposing Milotic is fast asleep."
+[Status continues] The opposing Milotic's sleep count is 2
+
+[End of round 22]
+Trick Room Turns: 0
+
+===== Round 23 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Milotic (1) is considering using Flip Turn (1) against Flygon (0)...
+[AI] Move choices for Milotic (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Flygon (0), the opposing Milotic (1)
+
+[Use move] Flygon (0) used Stomping Tantrum
+"Flygon used Stomping Tantrum!"
+[HP change] The opposing Milotic lost 58 HP (105 -> 47)
+[HP change] The opposing Milotic gained 32 HP (47 -> 79)
+"The opposing Milotic restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Milotic consumed its held Sitrus Berry
+[Use move] The opposing Milotic (1) used Scald
+"The opposing Milotic is fast asleep."
+[Status continues] The opposing Milotic's sleep count is 1
+
+[End of round 23]
+Trick Room Turns: 0
+
+===== Round 24 =====
+
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Milotic (1) is considering using Flip Turn (1) against Flygon (0)...
+[AI] Move choices for Milotic (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Ice Beam (target 0)
+
+[Round order] Flygon (0), the opposing Milotic (1)
+
+[Use move] Flygon (0) used Stomping Tantrum
+"Flygon used Stomping Tantrum!"
+[HP change] The opposing Milotic lost 50 HP (79 -> 29)
+[Use move] The opposing Milotic (1) used Ice Beam
+"The opposing Milotic woke up!"
+"The opposing Milotic used Ice Beam!"
+[HP change] Flygon lost 37 HP (37 -> 0)
+"It's super effective!"
+"Flygon fainted!"
+
+[End of round 24]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Hariyama!"
+
+===== Round 25 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Milotic (1) is considering using Flip Turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Milotic (1):
+   *  33.3% to use Scald (target 0): score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *   0.0% to use Recover: score 0
+   *  33.3% to use Flip Turn (target 0): score 21
+   => will use Ice Beam (target 0)
+
+[Round order] Hariyama (0), the opposing Milotic (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Milotic lost 26 HP (29 -> 3)
+[Use move] The opposing Milotic (1) used Ice Beam
+"The opposing Milotic flinched and couldn't move!"
+
+[End of round 25]
+[HP change] Hariyama lost 10 HP (33 -> 23)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 26 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Milotic (1) is considering using Flip Turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Milotic (1):
+   *  33.3% to use Scald (target 0): score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *   0.0% to use Recover: score 0
+   *  33.3% to use Flip Turn (target 0): score 21
+   => will use Scald (target 0)
+
+[Round order] The opposing Milotic (1), Hariyama (0)
+
+"Good job, Hariyama! Come back!"
+"Your opponent's weak! Get 'em, Hypno!"
+[Ability triggered] Hypno's Forewarn
+"Hypno was alerted to Ice Beam!"
+[Ability triggered] Hypno's Forewarn
+[Stat change] Hypno's Special Defense changed by +1 (0 -> 1)
+"Hypno's Special Defense rose!"
+[Use move] The opposing Milotic (1) used Scald
+"The opposing Milotic used Scald!"
+[HP change] Hypno lost 27 HP (27 -> 0)
+"Hypno fainted!"
+
+[End of round 26]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Hariyama!"
+
+===== Round 27 =====
+
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Milotic (1) is considering using Scald (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Ice Beam (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Milotic (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Milotic (1) is considering using Flip Turn (1) against Hariyama (0)...
+      + 20 for fast kill
+[AI] Move choices for Milotic (1):
+   *  33.3% to use Scald (target 0): score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *   0.0% to use Recover: score 0
+   *  33.3% to use Flip Turn (target 0): score 21
+   => will use Ice Beam (target 0)
+
+[Round order] Hariyama (0), the opposing Milotic (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Milotic lost 3 HP (3 -> 0)
+"The opposing Milotic fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,184 for winning!"
+Roles for BRONZONG: [:PHYSICALBREAKER, :LEAD]
+Roles for SWANNA: [:SPECIALBREAKER, :TANK]
+Roles for MAROWAK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for RILLABOOM: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SKUNTANK: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Admin Jupiter!"
+"Galactic Admin Jupiter sent out Bronzong!"
+"Go! Hariyama!"
+[Round order] Hariyama (0), the opposing Bronzong (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bronzong (1): 0
+Set up score for Bronzong (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Bronzong (1) is considering using Heavy Slam (1) against Hariyama (0)...
+[AI] Bronzong (1) is considering using Zen Headbutt (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzong (1) is considering using Earthquake (1)...
+[AI] Bronzong (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Bronzong (1):
+   *   0.0% to use Heavy Slam (target 0): score 0
+   * 100.0% to use Zen Headbutt (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stealth Rock: score 0
+   => will use Zen Headbutt (target 0)
+
+[Round order] Hariyama (0), the opposing Bronzong (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Bronzong lost 13 HP (108 -> 95)
+"It's not very effective..."
+[Use move] The opposing Bronzong (1) used Zen Headbutt
+"The opposing Bronzong flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Hariyama lost 10 HP (161 -> 151)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bronzong (1): 0
+Set up score for Bronzong (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzong (1) is considering using Heavy Slam (1) against Hariyama (0)...
+[AI] Bronzong (1) is considering using Zen Headbutt (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzong (1) is considering using Earthquake (1)...
+[AI] Bronzong (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Bronzong (1):
+   *   0.0% to use Heavy Slam (target 0): score 0
+   * 100.0% to use Zen Headbutt (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stealth Rock: score 0
+   => will use Zen Headbutt (target 0)
+
+[Round order] Hariyama (0), the opposing Bronzong (1)
+
+[Use move] Hariyama (0) used Knock Off
+"Hariyama used Knock Off!"
+[HP change] The opposing Bronzong lost 95 HP (95 -> 0)
+"It's super effective!"
+"The opposing Bronzong dropped its Iapapa Berry!"
+"The opposing Bronzong fainted!"
+
+[End of round 2]
+[HP change] Hariyama lost 10 HP (151 -> 141)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Swanna] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Swanna] + 9 because we have kill
+     [Marowak] - 12 because they have kill with their highest damaging move against the current battler
+     [Marowak] + 4 because we have 2HKO
+     [Rillaboom] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Rillaboom] + 9 because we have kill
+     [Skuntank] + 2 because we outspeed
+     [Skuntank] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Galactic Admin Jupiter sent out Skuntank!"
+[Ability triggered] The opposing Skuntank's Neutralizing Gas
+"Neutralizing gas filled the area!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Skuntank (1): 0
+Set up score for Skuntank (1): 0
+     [Switch AI] +5 Party member [Marowak] is immune to strongest move against Skuntank (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skuntank (1) is considering using Sludge Bomb (1) against Hariyama (0)...
+[AI] Skuntank (1) is considering using Dark Pulse (1) against Hariyama (0)...
+[AI] Skuntank (1) is considering using Flamethrower (1) against Hariyama (0)...
+[AI] Skuntank (1) is considering using Explosion (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Skuntank (1):
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Explosion: score 5
+   => will use Explosion
+
+[Round order] The opposing Skuntank (1), Hariyama (0)
+
+"Hariyama, come back!"
+"You're in charge, Probopass!"
+[Use move] The opposing Skuntank (1) used Explosion
+"The opposing Skuntank used Explosion!"
+[HP change] Probopass lost 29 HP (95 -> 66)
+[HP change] The opposing Skuntank lost 138 HP (138 -> 0)
+"The opposing Skuntank fainted!"
+"The effects of the neutralizing gas wore off!"
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Probopass (0)
+     [Swanna] + 2 because we outspeed
+     [Swanna] + 4 because we have 2HKO
+     [Marowak] + 2 because we outspeed
+     [Marowak] + 4 because we have 2HKO
+     [Rillaboom] + 2 because we outspeed
+     [Rillaboom] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"The effects of the neutralizing gas wore off!"
+"Galactic Admin Jupiter sent out Marowak!"
+
+===== Round 4 =====
+
+Set up score for Marowak (1): 0
+Set up score for Marowak (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marowak (1) is considering using Fire Punch (1) against Probopass (0)...
+[AI] Marowak (1) is considering using Shadow Bone (1) against Probopass (0)...
+[AI] Marowak (1) is considering using Bonemerang (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Marowak (1) is considering using Swords Dance (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Marowak (1):
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Shadow Bone (target 0): score 0
+   *   0.0% to use Bonemerang (target 0): score 0
+   * 100.0% to use Swords Dance: score 9
+   => will use Swords Dance
+
+[Round order] The opposing Marowak (1), Probopass (0)
+
+"Probopass, switch out! Come back!"
+"You're in charge, Flygon!"
+[Use move] The opposing Marowak (1) used Swords Dance
+"The opposing Marowak used Swords Dance!"
+[Stat change] The opposing Marowak's Attack changed by +2 (0 -> 2)
+"The opposing Marowak's Attack rose sharply!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Flygon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Marowak (1): 2
+Set up score for Marowak (1): 2
+Set up score for Marowak (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+     [Switch AI] +5 Party member [Swanna] is immune to strongest move against Marowak (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marowak (1) is considering using Fire Punch (1) against Flygon (0)...
+[AI] Marowak (1) is considering using Shadow Bone (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Marowak (1) is considering using Bonemerang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Marowak (1) is considering using Swords Dance (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Marowak (1):
+   *   0.0% to use Fire Punch (target 0): score 0
+   * 100.0% to use Shadow Bone (target 0): score 18
+   *   0.0% to use Bonemerang (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Bone (target 0)
+
+[Round order] Flygon (0), the opposing Marowak (1)
+
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Marowak lost 94 HP (100 -> 6)
+"It's super effective!"
+[Use move] The opposing Marowak (1) used Shadow Bone
+"The opposing Marowak used Shadow Bone!"
+[HP change] Flygon lost 112 HP (112 -> 0)
+"Flygon fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+Roles for BRONZONG: [:PHYSICALBREAKER, :LEAD]
+Roles for SWANNA: [:SPECIALBREAKER, :TANK]
+Roles for MAROWAK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for RILLABOOM: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SKUNTANK: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Admin Jupiter!"
+"Galactic Admin Jupiter sent out Bronzong!"
+"Go! Hariyama!"
+[Round order] Hariyama (0), the opposing Bronzong (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bronzong (1): 0
+Set up score for Bronzong (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Bronzong (1) is considering using Heavy Slam (1) against Hariyama (0)...
+[AI] Bronzong (1) is considering using Zen Headbutt (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzong (1) is considering using Earthquake (1)...
+[AI] Bronzong (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Bronzong (1):
+   *   0.0% to use Heavy Slam (target 0): score 0
+   *   0.0% to use Zen Headbutt (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stealth Rock: score 10
+   => will use Stealth Rock
+
+[Round order] Hariyama (0), the opposing Bronzong (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Bronzong lost 12 HP (108 -> 96)
+"It's not very effective..."
+[Use move] The opposing Bronzong (1) used Stealth Rock
+"The opposing Bronzong flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Hariyama lost 10 HP (161 -> 151)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bronzong (1): 0
+Set up score for Bronzong (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzong (1) is considering using Heavy Slam (1) against Hariyama (0)...
+[AI] Bronzong (1) is considering using Zen Headbutt (1) against Hariyama (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bronzong (1) is considering using Earthquake (1)...
+[AI] Bronzong (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Bronzong (1):
+   *   0.0% to use Heavy Slam (target 0): score 0
+   * 100.0% to use Zen Headbutt (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stealth Rock: score 0
+   => will use Zen Headbutt (target 0)
+
+[Round order] Hariyama (0), the opposing Bronzong (1)
+
+[Use move] Hariyama (0) used Knock Off
+"Hariyama used Knock Off!"
+[HP change] The opposing Bronzong lost 96 HP (96 -> 0)
+"It's super effective!"
+"The opposing Bronzong dropped its Iapapa Berry!"
+"The opposing Bronzong fainted!"
+
+[End of round 2]
+[HP change] Hariyama lost 10 HP (151 -> 141)
+"Hariyama was hurt by its burn!"
+Trick Room Turns: 0
+     [Swanna] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Swanna] + 9 because we have kill
+     [Marowak] - 12 because they have kill with their highest damaging move against the current battler
+     [Marowak] + 4 because we have 2HKO
+     [Rillaboom] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Rillaboom] + 9 because we have kill
+     [Skuntank] + 2 because we outspeed
+     [Skuntank] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Galactic Admin Jupiter sent out Skuntank!"
+[Ability triggered] The opposing Skuntank's Neutralizing Gas
+"Neutralizing gas filled the area!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Skuntank (1): 0
+Set up score for Skuntank (1): 0
+     [Switch AI] +5 Party member [Marowak] is immune to strongest move against Skuntank (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skuntank (1) is considering using Sludge Bomb (1) against Hariyama (0)...
+[AI] Skuntank (1) is considering using Dark Pulse (1) against Hariyama (0)...
+[AI] Skuntank (1) is considering using Flamethrower (1) against Hariyama (0)...
+[AI] Skuntank (1) is considering using Explosion (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Skuntank (1):
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Explosion: score 5
+   => will use Explosion
+
+[Round order] The opposing Skuntank (1), Hariyama (0)
+
+"Hariyama, come back!"
+"You're in charge, Probopass!"
+[Use move] The opposing Skuntank (1) used Explosion
+"The opposing Skuntank used Explosion!"
+[HP change] Probopass lost 30 HP (95 -> 65)
+[HP change] The opposing Skuntank lost 138 HP (138 -> 0)
+"The opposing Skuntank fainted!"
+"The effects of the neutralizing gas wore off!"
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Probopass (0)
+     [Swanna] + 2 because we outspeed
+     [Swanna] + 4 because we have 2HKO
+     [Marowak] + 2 because we outspeed
+     [Marowak] + 4 because we have 2HKO
+     [Rillaboom] + 2 because we outspeed
+     [Rillaboom] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"The effects of the neutralizing gas wore off!"
+"Galactic Admin Jupiter sent out Marowak!"
+
+===== Round 4 =====
+
+Set up score for Marowak (1): 0
+Set up score for Marowak (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Probopass (0): 0
+     Threat Score for Probopass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marowak (1) is considering using Fire Punch (1) against Probopass (0)...
+[AI] Marowak (1) is considering using Shadow Bone (1) against Probopass (0)...
+[AI] Marowak (1) is considering using Bonemerang (1) against Probopass (0)...
+     + 4 to prioritize highest damaging move
+[AI] Marowak (1) is considering using Swords Dance (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Marowak (1):
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Shadow Bone (target 0): score 0
+   *   0.0% to use Bonemerang (target 0): score 0
+   * 100.0% to use Swords Dance: score 9
+   => will use Swords Dance
+
+[Round order] The opposing Marowak (1), Probopass (0)
+
+"Probopass, switch out! Come back!"
+"You're in charge, Flygon!"
+[Use move] The opposing Marowak (1) used Swords Dance
+"The opposing Marowak used Swords Dance!"
+[Stat change] The opposing Marowak's Attack changed by +2 (0 -> 2)
+"The opposing Marowak's Attack rose sharply!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Flygon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Marowak (1): 2
+Set up score for Marowak (1): 2
+Set up score for Marowak (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+     [Switch AI] +5 Party member [Swanna] is immune to strongest move against Marowak (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marowak (1) is considering using Fire Punch (1) against Flygon (0)...
+[AI] Marowak (1) is considering using Shadow Bone (1) against Flygon (0)...
+      + 17 for slow kill
+[AI] Marowak (1) is considering using Bonemerang (1) against Flygon (0)...
+     move will not affect Flygon (0)
+     -  1: move will fail
+[AI] Marowak (1) is considering using Swords Dance (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Marowak (1):
+   *   0.0% to use Fire Punch (target 0): score 0
+   * 100.0% to use Shadow Bone (target 0): score 18
+   *   0.0% to use Bonemerang (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Bone (target 0)
+
+[Round order] Flygon (0), the opposing Marowak (1)
+
+[Use move] Flygon (0) used Earth Power
+"Flygon used Earth Power!"
+[HP change] The opposing Marowak lost 100 HP (100 -> 0)
+"It's super effective!"
+"The opposing Marowak fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Flygon (0)
+     [Swanna] + 3 because we absorb their highest damaging move against the current battler
+     [Swanna] + 9 because we have kill
+     [Rillaboom] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (47)
+"Galactic Admin Jupiter sent out Swanna!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Swanna (1): 0
+Set up score for Swanna (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flygon (0): 0
+     Threat Score for Flygon (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Swanna (1) is considering using Scald (1) against Flygon (0)...
+[AI] Swanna (1) is considering using Air Slash (1) against Flygon (0)...
+[AI] Swanna (1) is considering using Ice Beam (1) against Flygon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swanna (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Swanna (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Ice Beam (target 0): score 5
+   *   0.0% to use Roost: score 0
+   => will use Ice Beam (target 0)
+
+[Round order] The opposing Swanna (1), Flygon (0)
+
+"Flygon, come back!"
+"You're in charge, Azumarill!"
+[Use move] The opposing Swanna (1) used Ice Beam
+"The opposing Swanna used Ice Beam!"
+[HP change] Azumarill lost 9 HP (134 -> 125)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Swanna (1): 0
+Set up score for Swanna (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Azumarill (0): 0
+     Threat Score for Azumarill (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Swanna (1) is considering using Scald (1) against Azumarill (0)...
+[AI] Swanna (1) is considering using Air Slash (1) against Azumarill (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swanna (1) is considering using Ice Beam (1) against Azumarill (0)...
+[AI] Swanna (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Swanna (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Swanna (1), Azumarill (0)
+
+"Azumarill, switch out! Come back!"
+"You're in charge, Boltund!"
+[Use move] The opposing Swanna (1) used Air Slash
+"The opposing Swanna used Air Slash!"
+[HP change] Boltund lost 32 HP (111 -> 79)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Swanna (1): 0
+Set up score for Swanna (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Swanna (1) is considering using Scald (1) against Boltund (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swanna (1) is considering using Air Slash (1) against Boltund (0)...
+[AI] Swanna (1) is considering using Ice Beam (1) against Boltund (0)...
+[AI] Swanna (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Swanna (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Scald (target 0)
+
+[Round order] Boltund (0), the opposing Swanna (1)
+
+[Use move] Boltund (0) used Thunder Fang
+"Boltund used Thunder Fang!"
+[HP change] The opposing Swanna lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Swanna fainted!"
+"The Wacan Berry weakened the damage to the opposing Swanna!"
+[Item consumed] The opposing Swanna consumed its held Wacan Berry
+"Azumarill got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Rillaboom] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Galactic Admin Jupiter sent out Rillaboom!"
+[Ability triggered] The opposing Rillaboom's Grassy Surge
+"Grass grew to cover the battlefield!"
+[Stat change] The opposing Rillaboom's Defense changed by +1 (0 -> 1)
+"The opposing Rillaboom's Grassy Seed raised its Defense!"
+[Item consumed] The opposing Rillaboom consumed its held Grassy Seed
+
+===== Round 9 =====
+
+Set up score for Boltund (0): 0
+     Threat Score for Boltund (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rillaboom (1) is considering using Grassy Glide (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Rillaboom (1) is considering using Acrobatics (1) against Boltund (0)...
+[AI] Rillaboom (1) is considering using High Horsepower (1) against Boltund (0)...
+      + 17 for slow kill
+[AI] Rillaboom (1) is considering using U-turn (1) against Boltund (0)...
+[AI] Move choices for Rillaboom (1):
+   *  50.0% to use Grassy Glide (target 0): score 18
+   *   0.0% to use Acrobatics (target 0): score 0
+   *  50.0% to use High Horsepower (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use High Horsepower (target 0)
+
+[Round order] Boltund (0), the opposing Rillaboom (1)
+
+"Boltund, come back!"
+"You're in charge, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Rillaboom's Attack changed by -1 (0 -> -1)
+"The opposing Rillaboom's Attack fell!"
+[Use move] The opposing Rillaboom (1) used High Horsepower
+"The opposing Rillaboom used High Horsepower!"
+[Target immune] Staraptor's type immunity
+"It doesn't affect Staraptor..."
+
+[End of round 9]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 10 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rillaboom (1) is considering using Grassy Glide (1) against Staraptor (0)...
+[AI] Rillaboom (1) is considering using Acrobatics (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rillaboom (1) is considering using High Horsepower (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Rillaboom (1) is considering using U-turn (1) against Staraptor (0)...
+[AI] Move choices for Rillaboom (1):
+   *   0.0% to use Grassy Glide (target 0): score 0
+   * 100.0% to use Acrobatics (target 0): score 5
+   *   0.0% to use High Horsepower (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Acrobatics (target 0)
+
+[Round order] Staraptor (0), the opposing Rillaboom (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Rillaboom lost 56 HP (132 -> 76)
+"It's super effective!"
+[Use move] The opposing Rillaboom (1) used Acrobatics
+"The opposing Rillaboom used Acrobatics!"
+[HP change] Staraptor lost 46 HP (119 -> 73)
+
+[End of round 10]
+[Lingering effect] Grassy Terrain heals the opposing Rillaboom
+[HP change] The opposing Rillaboom gained 8 HP (76 -> 84)
+"The opposing Rillaboom's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 11 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rillaboom (1) is considering using Grassy Glide (1) against Staraptor (0)...
+[AI] Rillaboom (1) is considering using Acrobatics (1) against Staraptor (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rillaboom (1) is considering using High Horsepower (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Rillaboom (1) is considering using U-turn (1) against Staraptor (0)...
+[AI] Move choices for Rillaboom (1):
+   *   0.0% to use Grassy Glide (target 0): score 0
+   * 100.0% to use Acrobatics (target 0): score 5
+   *   0.0% to use High Horsepower (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Acrobatics (target 0)
+
+[Round order] Staraptor (0), the opposing Rillaboom (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Rillaboom lost 53 HP (84 -> 31)
+"It's super effective!"
+[Use move] The opposing Rillaboom (1) used Acrobatics
+"The opposing Rillaboom used Acrobatics!"
+[HP change] Staraptor lost 49 HP (73 -> 24)
+[HP change] Staraptor gained 10 HP (24 -> 34)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+
+[End of round 11]
+[Lingering effect] Grassy Terrain heals the opposing Rillaboom
+[HP change] The opposing Rillaboom gained 8 HP (31 -> 39)
+"The opposing Rillaboom's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 12 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rillaboom (1) is considering using Grassy Glide (1) against Staraptor (0)...
+[AI] Rillaboom (1) is considering using Acrobatics (1) against Staraptor (0)...
+      + 17 for slow kill
+[AI] Rillaboom (1) is considering using High Horsepower (1) against Staraptor (0)...
+     move will not affect Staraptor (0)
+     -  1: move will fail
+[AI] Rillaboom (1) is considering using U-turn (1) against Staraptor (0)...
+[AI] Move choices for Rillaboom (1):
+   *   0.0% to use Grassy Glide (target 0): score 0
+   * 100.0% to use Acrobatics (target 0): score 18
+   *   0.0% to use High Horsepower (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Acrobatics (target 0)
+
+[Round order] Staraptor (0), the opposing Rillaboom (1)
+
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Rillaboom lost 39 HP (39 -> 0)
+"It's super effective!"
+"The opposing Rillaboom fainted!"
+
+===== Player won =====
+
+"You defeated Galactic Admin Jupiter!"
+"Ugh."
+
+"You got $3,800 for winning!"
+=============================
+Item Chosen: Everstone
+Item Chosen: Green Shard
+Item Chosen: Draco Plate
+=============================
+Item Chosen: Dawn Stone
+Item Chosen: Blue Shard
+Item Chosen: Iron Ball
+=============================
+Item Chosen: Insect Plate
+Item Chosen: Everstone
+Item Chosen: Heat Rock
+Item Chosen: Iron Ball
+=============================
+Item Chosen: Ice Stone
+Item Chosen: Relic Copper
+=============================
+Item Chosen: Light Clay
+Item Chosen: Star Piece
+=============================
+Item Chosen: Dawn Stone
+Item Chosen: Star Piece
+Item Chosen: Damp Rock
+=============================
+Item Chosen: Heat Rock
+Item Chosen: Root Fossil
+=============================
+Item Chosen: Relic Copper
+Item Chosen: Relic Silver
+Item Chosen: Green Shard
+=============================
+Item Chosen: Ice Stone
+Item Chosen: Iron Ball
+Item Chosen: Comet Shard
+Item Chosen: Hard Stone
+=============================
+Item Chosen: Damp Rock
+Item Chosen: Blue Shard
+Item Chosen: Relic Copper
+Item Chosen: Icy Rock
+=============================
+Item Chosen: Dusk Stone
+Item Chosen: Water Stone
+Roles for OVERQWIL: [:PHYSICALBREAKER, :LEAD]
+Roles for DIALGA: [:SPECIALBREAKER]
+Roles for PALKIA: [:SPECIALBREAKER]
+Roles for WEAVILE: [:PHYSICALBREAKER]
+Roles for CROBAT: [:PHYSICALBREAKER]
+Roles for BLAZIKEN: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Boss Cyrus!"
+"Galactic Boss Cyrus sent out Overqwil!"
+"Go! Chimecho!"
+[Round order] The opposing Overqwil (1), Chimecho (0)
+[Ability triggered] The opposing Overqwil's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Galactic Boss Cyrus!"
+"Ugh."
+
+"You got $8,700 for winning!"
+Roles for OVERQWIL: [:PHYSICALBREAKER, :LEAD]
+Roles for DIALGA: [:SPECIALBREAKER]
+Roles for PALKIA: [:SPECIALBREAKER]
+Roles for WEAVILE: [:PHYSICALBREAKER]
+Roles for CROBAT: [:PHYSICALBREAKER]
+Roles for BLAZIKEN: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Boss Cyrus!"
+"Galactic Boss Cyrus sent out Overqwil!"
+"Go! Chimecho!"
+[Round order] The opposing Overqwil (1), Chimecho (0)
+[Ability triggered] The opposing Overqwil's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Galactic Boss Cyrus!"
+"Ugh."
+
+"You got $8,700 for winning!"
+Roles for OVERQWIL: [:PHYSICALBREAKER, :LEAD]
+Roles for DIALGA: [:SPECIALBREAKER]
+Roles for PALKIA: [:SPECIALBREAKER]
+Roles for WEAVILE: [:PHYSICALBREAKER]
+Roles for CROBAT: [:PHYSICALBREAKER]
+Roles for BLAZIKEN: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Boss Cyrus!"
+"Galactic Boss Cyrus sent out Overqwil!"
+"Go! Chimecho!"
+[Round order] The opposing Overqwil (1), Chimecho (0)
+[Ability triggered] The opposing Overqwil's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Galactic Boss Cyrus!"
+"Ugh."
+
+"You got $8,700 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Giratina appeared!"
+"Go! Chimecho!"
+[Round order] The wild Giratina (1), Chimecho (0)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+

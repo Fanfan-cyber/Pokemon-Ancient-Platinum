@@ -371,3 +371,21 @@ class Sprite
   end
 end
 =end
+#===============================================================================
+# A version of class Sprite that allows its coordinates to be floats rather than
+# integers.
+#===============================================================================
+class FloatSprite < Sprite
+  def x; return @float_x; end
+  def y; return @float_y; end
+
+  def x=(value)
+    @float_x = value
+    super
+  end
+
+  def y=(value)
+    @float_y = value
+    super
+  end
+end

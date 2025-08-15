@@ -121,7 +121,7 @@ class Battle::Move::MultiStatUpMove < Battle::Move
       break
     end
     if failed
-      @battle.pbDisplay(_INTL("{1}'s stats won't go any higher!", user.pbThis))
+      @battle.pbDisplay(_INTL("{1}'s stats won't go any higher!", user.pbThis)) unless user.pbOwnedByPlayer?
       return true
     end
     return false

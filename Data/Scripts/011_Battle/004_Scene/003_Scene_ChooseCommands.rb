@@ -451,8 +451,9 @@ class Battle::Scene
   def pbForgetMove(pkmn, moveToLearn)
     ret = -1
     pbFadeOutIn do
-      screen = UI::PokemonSummary.new([pkmn], 0, mode: :choose_move, new_move: moveToLearn)
-      ret = screen.choose_move
+      scene = PokemonSummary_Scene.new
+      screen = PokemonSummaryScreen.new(scene)
+      ret = screen.pbStartForgetScreen([pkmn], 0, moveToLearn)
     end
     return ret
   end
