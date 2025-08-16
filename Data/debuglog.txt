@@ -102619,3 +102619,1160 @@ Set up score for Litleo (0): 0
 
 [End of round 10]
 Trick Room Turns: 0
+Roles for PIPLUP: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Piplup!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+===== Round 1 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 4 HP (21 -> 17)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 3 HP (17 -> 14)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-1 -> -2)
+"Chimchar's Attack fell!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 3 HP (14 -> 11)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-2 -> -3)
+"Chimchar's Attack fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (11 -> 9)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-3 -> -4)
+"Chimchar's Attack fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (9 -> 7)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-4 -> -5)
+"Chimchar's Attack fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Piplup (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Growl: score 14
+   => will use Growl
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (7 -> 5)
+[Use move] The opposing Piplup (1) used Growl
+"The opposing Piplup used Growl!"
+[Stat change] Chimchar's Attack changed by -1 (-5 -> -6)
+"Chimchar's Attack fell!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     move will not affect Chimchar (0)
+     -  4: move will fail
+[AI] Move choices for Piplup (1):
+   * 100.0% to use Pound (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Pound (target 0)
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (5 -> 3)
+[Use move] The opposing Piplup (1) used Pound
+"The opposing Piplup used Pound!"
+[HP change] Chimchar lost 4 HP (20 -> 16)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     move will not affect Chimchar (0)
+     -  4: move will fail
+[AI] Move choices for Piplup (1):
+   * 100.0% to use Pound (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Pound (target 0)
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 2 HP (3 -> 1)
+[Use move] The opposing Piplup (1) used Pound
+"The opposing Piplup used Pound!"
+[HP change] Chimchar lost 5 HP (16 -> 11)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Piplup (1) is considering using Pound (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Piplup (1) is considering using Growl (4)...
+     move will not affect Chimchar (0)
+     -  4: move will fail
+[AI] Move choices for Piplup (1):
+   * 100.0% to use Pound (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Pound (target 0)
+
+[Round order] Chimchar (0), the opposing Piplup (1)
+
+[Use move] Chimchar (0) used Scratch
+"Chimchar used Scratch!"
+[HP change] The opposing Piplup lost 1 HP (1 -> 0)
+"The opposing Piplup fainted!"
+"Chimchar got 95 Exp. Points!"
+"Chimchar grew to Lv. 6!"
+"Chimchar learned Ember!"
+
+===== Player won =====
+
+"You defeated Rival Barry!"
+"What?! How did I lose?"
+
+"You got $80 for winning!"
+Aaron: Double
+Bertha: Single
+Flint: Double
+Lucian: Single
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Rookidee appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Rookidee (1)
+[Ability triggered] The wild Rookidee's Keen Eye
+"The wild Rookidee is getting pumped!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wingull appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Wingull (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Litleo appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Litleo (1)
+[Ability triggered] The wild Litleo's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Litleo (1) is considering using Tackle (1) against Chimchar (0)...
+[AI] Litleo (1) is considering using Leer (4)...
+[AI] Move choices for Litleo (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  50.0% to use Leer: score 4
+   *  50.0% to use Leer: score 4
+   => will use Leer
+
+[Round order] Chimchar (0), the wild Litleo (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Litleo was caught!"
+"Chimchar got 29 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Litleo's data was added to the Pokédex."
+"Litleo has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wooper appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Wooper (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Wooper (1) is considering using Water Gun (1) against Chimchar (0)...
+[AI] Wooper (1) is considering using Tail Whip (4)...
+[AI] Wooper (1) is considering using Yawn (4) against Chimchar (0)...
+[AI] Move choices for Wooper (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *  33.3% to use Tail Whip: score 4
+   *  33.3% to use Tail Whip: score 4
+   *  33.3% to use Yawn (target 0): score 4
+   => will use Tail Whip
+
+[Round order] Chimchar (0), the wild Wooper (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Wooper was caught!"
+"Chimchar got 38 Exp. Points!"
+"Chimchar grew to Lv. 7!"
+
+===== Pokémon caught =====
+
+"Wooper's data was added to the Pokédex."
+"Wooper has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Fletchling appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Fletchling (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Fletchling (1) is considering using Peck (1) against Chimchar (0)...
+[AI] Fletchling (1) is considering using Growl (4)...
+[AI] Move choices for Fletchling (1):
+   *   0.0% to use Peck (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] Chimchar (0), the wild Fletchling (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Fletchling was caught!"
+"Chimchar got 11 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Fletchling's data was added to the Pokédex."
+"Fletchling has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Slugma appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Slugma (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Slugma (1) is considering using Yawn (4) against Chimchar (0)...
+[AI] Slugma (1) is considering using Smog (1) against Chimchar (0)...
+[AI] Move choices for Slugma (1):
+   *  50.0% to use Yawn (target 0): score 4
+   *  50.0% to use Yawn (target 0): score 4
+   *   0.0% to use Smog (target 0): score 0
+   => will use Yawn (target 0)
+
+[Round order] Chimchar (0), the wild Slugma (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Slugma was caught!"
+"Chimchar got 40 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Slugma's data was added to the Pokédex."
+"Slugma has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Seedot appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Seedot (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seedot (1) is considering using Tackle (1) against Chimchar (0)...
+[AI] Move choices for Seedot (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Chimchar (0), the wild Seedot (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The wild Seedot lost 13 HP (13 -> 0)
+"It's super effective!"
+"The wild Seedot fainted!"
+"Chimchar got 8 Exp. Points!"
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Capsakid appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Capsakid (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Capsakid (1) is considering using Leafage (1) against Chimchar (0)...
+[AI] Capsakid (1) is considering using Leer (4)...
+[AI] Capsakid (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Capsakid (1):
+   *   0.0% to use Leafage (target 0): score 0
+   *  50.0% to use Leer: score 4
+   *  50.0% to use Leer: score 4
+   *   0.0% to use Bite (target 0): score 0
+   => will use Leer
+
+[Round order] Chimchar (0), the wild Capsakid (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Capsakid was caught!"
+"Chimchar got 49 Exp. Points!"
+"Chimchar grew to Lv. 8!"
+
+===== Pokémon caught =====
+
+"Capsakid's data was added to the Pokédex."
+"Capsakid has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wattrel appeared!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the wild Wattrel (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Chimchar (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Wattrel (1) is considering using Peck (1) against Chimchar (0)...
+[AI] Wattrel (1) is considering using Growl (4)...
+[AI] Wattrel (1) is considering using Thunder Shock (1) against Chimchar (0)...
+[AI] Move choices for Wattrel (1):
+   *   0.0% to use Peck (target 0): score 0
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Growl: score 4
+   *   0.0% to use Thunder Shock (target 0): score 0
+   => will use Growl
+
+[Round order] Chimchar (0), the wild Wattrel (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Wattrel was caught!"
+"Chimchar got 27 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Wattrel's data was added to the Pokédex."
+"Where do you want to send Wattrel to?"
+"Wattrel has been sent to Box "Box 1"!"
+Roles for STARLY: [:NONE]
+Roles for SHINX: [:NONE]
+Roles for BIDOOF: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tristan!"
+"Youngster Tristan sent out Starly!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Starly (1)
+[Ability triggered] The opposing Starly's Keen Eye
+"The opposing Starly is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Starly (1) is considering using Wing Attack (1) against Wattrel (0)...
+[AI] Starly (1) is considering using Quick Attack (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Swagger (4) against Wattrel (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Starly (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Starly (1), Wattrel (0)
+
+[Use move] The opposing Starly (1) used Quick Attack
+"The opposing Starly used Quick Attack!"
+[HP change] Wattrel lost 10 HP (37 -> 27)
+[Use move] Wattrel (0) used Thunder Shock
+"Wattrel used Thunder Shock!"
+[HP change] The opposing Starly lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Starly fainted!"
+"Wattrel got 1 Exp. Points!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Shinx] - 3 because we have no kill
+     [Bidoof] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Youngster Tristan sent out Bidoof!"
+
+===== Round 2 =====
+
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Bidoof (1), Wattrel (0)
+
+"Wattrel, come back!"
+"You're in charge, Chimchar!"
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Chimchar lost 7 HP (36 -> 29)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Bidoof (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Bidoof lost 16 HP (32 -> 16)
+"It's super effective!"
+[HP change] The opposing Bidoof gained 10 HP (16 -> 26)
+"The opposing Bidoof restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Bidoof consumed its held Oran Berry
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Chimchar lost 7 HP (29 -> 22)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Bidoof (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Bidoof lost 18 HP (26 -> 8)
+"It's super effective!"
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Chimchar lost 7 HP (22 -> 15)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Bidoof (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Bidoof (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Bidoof lost 8 HP (8 -> 0)
+"It's super effective!"
+"The opposing Bidoof fainted!"
+"Chimchar got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Shinx] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (39)
+"Youngster Tristan sent out Shinx!"
+[Ability triggered] The opposing Shinx's Intimidate
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+===== Round 6 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shinx (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Shinx (1):
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] Chimchar (0), the opposing Shinx (1)
+
+"OK, Chimchar! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Shinx (1) used Spark
+"The opposing Shinx used Spark!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Shinx (1), Wooper (0)
+
+[Use move] The opposing Shinx (1) used Bite
+"The opposing Shinx used Bite!"
+[HP change] Wooper lost 6 HP (41 -> 35)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 25 HP (27 -> 2)
+"It's super effective!"
+[HP change] The opposing Shinx gained 10 HP (2 -> 12)
+"The opposing Shinx restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Shinx consumed its held Oran Berry
+[Stat change] The opposing Shinx's Speed changed by -1 (0 -> -1)
+"The opposing Shinx's Speed fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Shinx (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Wooper (0), the opposing Shinx (1)
+
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Shinx lost 12 HP (12 -> 0)
+"It's super effective!"
+"The opposing Shinx fainted!"
+"Wooper got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Youngster Tristan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for MEOWTH: [:PHYSICALBREAKER]
+Roles for SPRIGATITO: [:NONE]
+Roles for LITTEN: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Natalie!"
+"Lass Natalie sent out Meowth!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the opposing Meowth (1)
+
+===== Round 1 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Meowth (1) is considering using Fake Out (1) against Chimchar (0)...
+     + 18 for using turn 1
+[AI] Meowth (1) is considering using Pay Day (1) against Chimchar (0)...
+[AI] Meowth (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Meowth (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Pay Day (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Meowth (1), Chimchar (0)
+
+[Use move] The opposing Meowth (1) used Fake Out
+"The opposing Meowth used Fake Out!"
+"The Normal Gem strengthened Fake Out's power!"
+[HP change] Chimchar lost 9 HP (36 -> 27)
+[Item consumed] The opposing Meowth consumed its held Normal Gem
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Chimchar (0)...
+[AI] Meowth (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Pay Day (target 0): score 1
+   *  50.0% to use Bite (target 0): score 1
+   => will use Pay Day (target 0)
+
+[Round order] Chimchar (0), the opposing Meowth (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Meowth lost 19 HP (26 -> 7)
+"It's super effective!"
+[Use move] The opposing Meowth (1) used Pay Day
+"The opposing Meowth used Pay Day!"
+[HP change] Chimchar lost 13 HP (27 -> 14)
+"A critical hit!"
+[HP change] Chimchar gained 10 HP (14 -> 24)
+"Chimchar restored a little HP using its Oran Berry!"
+[Item consumed] Chimchar consumed its held Oran Berry
+"Coins were scattered everywhere!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Chimchar (0)...
+[AI] Meowth (1) is considering using Bite (1) against Chimchar (0)...
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Pay Day (target 0): score 1
+   *  50.0% to use Bite (target 0): score 1
+   => will use Pay Day (target 0)
+
+[Round order] Chimchar (0), the opposing Meowth (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Meowth lost 7 HP (7 -> 0)
+"It's super effective!"
+"The opposing Meowth fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Sprigatito] - 3 because we have no kill
+     [Litten] - 3 because we have no kill
+[AI] Highest move score (19) vs Switch In Score (32)
+"Lass Natalie sent out Litten!"
+[Ability triggered] The opposing Litten's Intimidate
+[Stat change] Chimchar's Attack changed by -1 (0 -> -1)
+"Chimchar's Attack fell!"
+
+===== Round 4 =====
+
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out (1) against Chimchar (0)...
+     + 18 for using turn 1
+[AI] Litten (1) is considering using Bite (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Chimchar (0)...
+[AI] Move choices for Litten (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Litten (1), Chimchar (0)
+
+"Chimchar, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Litten (1) used Fake Out
+"The opposing Litten used Fake Out!"
+[HP change] Wooper lost 5 HP (41 -> 36)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Litten (1): 0
+Set up score for Litten (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Wooper (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Wooper (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Wooper lost 8 HP (36 -> 28)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Litten lost 23 HP (29 -> 6)
+"It's super effective!"
+[HP change] The opposing Litten gained 10 HP (6 -> 16)
+"The opposing Litten restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Litten consumed its held Oran Berry
+[Stat change] The opposing Litten's Speed changed by -1 (0 -> -1)
+"The opposing Litten's Speed fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Litten (1): -1
+Set up score for Litten (1): -1
+Set up score for Litten (1): -1
+Set up score for Litten (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Wooper (0)...
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Litten (1), Wooper (0)
+
+[Use move] The opposing Litten (1) used Bite
+"The opposing Litten used Bite!"
+[HP change] Wooper lost 7 HP (28 -> 21)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Litten lost 16 HP (16 -> 0)
+"It's super effective!"
+"The opposing Litten fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Sprigatito] + 2 because we outspeed
+     [Sprigatito] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (46)
+"Lass Natalie sent out Sprigatito!"
+
+===== Round 7 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+      + 20 for fast kill
+[AI] Sprigatito (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Sprigatito (1):
+   * 100.0% to use Razor Leaf: score 21
+   *   0.0% to use Bite (target 0): score 0
+   => will use Razor Leaf
+
+[Round order] The opposing Sprigatito (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Sprigatito (1) used Razor Leaf
+"The opposing Sprigatito used Razor Leaf!"
+[HP change] Litleo lost 4 HP (42 -> 38)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+[AI] Sprigatito (1) is considering using Bite (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sprigatito (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Litleo (0), the opposing Sprigatito (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Sprigatito lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Sprigatito fainted!"
+"Litleo got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Lass Natalie!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
