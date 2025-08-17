@@ -103776,3 +103776,3150 @@ Set up score for Litleo (0): 0
 "Wow. You're great!"
 
 "You got $144 for winning!"
+Roles for GROWLITHE: [:PHYSICALBREAKER]
+Roles for YAMPER: [:SPEEDCONTROL]
+Roles for FIDOUGH: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Logan!"
+"Youngster Logan sent out Growlithe!"
+"Go! Wooper!"
+[Round order] The opposing Growlithe (1), Wooper (0)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Wooper's Attack changed by -1 (0 -> -1)
+"Wooper's Attack fell!"
+
+===== Round 1 =====
+
+     move will not affect Wooper (0)
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Wooper (0) has been assigned Haze flag
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Wooper (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Wooper (0)...
+[AI] Growlithe (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Growlithe (1), Wooper (0)
+
+[Use move] The opposing Growlithe (1) used Bite
+"The opposing Growlithe used Bite!"
+[HP change] Wooper lost 8 HP (41 -> 33)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Growlithe lost 21 HP (31 -> 10)
+"It's super effective!"
+[HP change] The opposing Growlithe gained 10 HP (10 -> 20)
+"The opposing Growlithe restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Growlithe consumed its held Oran Berry
+[Stat change] The opposing Growlithe's Speed changed by -1 (0 -> -1)
+"The opposing Growlithe's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Wooper (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Growlithe (1): -1
+Set up score for Growlithe (1): -1
+Set up score for Growlithe (1): -1
+Set up score for Growlithe (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Wooper (0)...
+[AI] Growlithe (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Wooper (0), the opposing Growlithe (1)
+
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Growlithe lost 20 HP (20 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Growlithe fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Yamper] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Yamper] - 3 because we have no kill
+     [Fidough] + 2 because we outspeed
+     [Fidough] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (34)
+"Youngster Logan sent out Fidough!"
+
+===== Round 3 =====
+
+Set up score for Fidough (1): 0
+Set up score for Fidough (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Bite (1) against Wooper (0)...
+[AI] Fidough (1) is considering using Headbutt (1) against Wooper (0)...
+[AI] Move choices for Fidough (1):
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Fidough (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Fidough (1) used Covet
+"The opposing Fidough used Covet!"
+[HP change] Litleo lost 4 HP (42 -> 38)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Fidough (1): 0
+Set up score for Fidough (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Litleo (0)...
+[AI] Fidough (1) is considering using Bite (1) against Litleo (0)...
+[AI] Fidough (1) is considering using Headbutt (1) against Litleo (0)...
+[AI] Move choices for Fidough (1):
+   *  33.3% to use Covet (target 0): score 1
+   *  33.3% to use Bite (target 0): score 1
+   *  33.3% to use Headbutt (target 0): score 1
+   => will use Headbutt (target 0)
+
+[Round order] Litleo (0), the opposing Fidough (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Fidough lost 14 HP (28 -> 14)
+[Use move] The opposing Fidough (1) used Headbutt
+"The opposing Fidough used Headbutt!"
+[HP change] Litleo lost 6 HP (38 -> 32)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Fidough (1): 0
+Set up score for Fidough (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Litleo (0)...
+[AI] Fidough (1) is considering using Bite (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Headbutt (1) against Litleo (0)...
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Litleo (0), the opposing Fidough (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Fidough lost 13 HP (14 -> 1)
+[Use move] The opposing Fidough (1) used Bite
+"The opposing Fidough used Bite!"
+[HP change] Litleo lost 5 HP (32 -> 27)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Fidough (1): 0
+Set up score for Fidough (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Litleo (0)...
+[AI] Fidough (1) is considering using Bite (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Headbutt (1) against Litleo (0)...
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Litleo (0), the opposing Fidough (1)
+
+[Use move] Litleo (0) used Mach Pulse
+"Litleo used Mach Pulse!"
+[HP change] The opposing Fidough lost 1 HP (1 -> 0)
+"The opposing Fidough fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Yamper] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Yamper] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (26)
+"Youngster Logan sent out Yamper!"
+
+===== Round 7 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Bite (1) against Litleo (0)...
+[AI] Yamper (1) is considering using Thunder Wave (4) against Litleo (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Yamper (1):
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] Litleo (0), the opposing Yamper (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Yamper lost 18 HP (32 -> 14)
+[Use move] The opposing Yamper (1) used Spark
+"The opposing Yamper flinched and couldn't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Bite (1) against Litleo (0)...
+[AI] Yamper (1) is considering using Thunder Wave (4) against Litleo (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Yamper (1):
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] Litleo (0), the opposing Yamper (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Yamper lost 14 HP (14 -> 0)
+"The opposing Yamper fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Logan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Trubbish appeared!"
+"Go! Wooper!"
+[Round order] Wooper (0), the wild Trubbish (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Wooper (0) has been assigned Haze flag
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Wooper (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Trubbish (1) is considering using Pound (1) against Wooper (0)...
+[AI] Trubbish (1) is considering using Poison Gas (4)...
+[AI] Trubbish (1) is considering using Recycle (4)...
+[AI] Trubbish (1) is considering using Acid Spray (1) against Wooper (0)...
+[AI] Move choices for Trubbish (1):
+   *   0.0% to use Pound (target 0): score 0
+   *  50.0% to use Poison Gas: score 4
+   *  50.0% to use Recycle: score 4
+   *   0.0% to use Acid Spray (target 0): score 0
+   *   0.0% to use Acid Spray (target 0): score 0
+   => will use Recycle
+
+[Round order] Wooper (0), the wild Trubbish (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Trubbish was caught!"
+
+===== Pokémon caught =====
+
+"Trubbish's data was added to the Pokédex."
+"Where do you want to send Trubbish to?"
+"Trubbish has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Buizel appeared!"
+"Go! Wooper!"
+[Round order] The wild Buizel (1), Wooper (0)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Wooper (0) has been assigned Haze flag
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Wooper (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Buizel (1) is considering using Tackle (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Growl (4)...
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] The wild Buizel (1), Wooper (0)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Buizel was caught!"
+
+===== Pokémon caught =====
+
+"Buizel's data was added to the Pokédex."
+"Where do you want to send Buizel to?"
+"Where do you want to send Buizel to?"
+"Buizel has been sent to Box "Box 1"!"
+Roles for TYROGUE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for BONSLY: [:NONE]
+Roles for CHINGLING: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by School Kid Harrison!"
+"School Kid Harrison sent out Tyrogue!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Tyrogue (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Tyrogue (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Wattrel (0)...
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tyrogue (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Tyrogue (1), Wattrel (0)
+
+[Use move] The opposing Tyrogue (1) used Fake Out
+"The opposing Tyrogue used Fake Out!"
+[HP change] Wattrel lost 6 HP (37 -> 31)
+[Use move] Wattrel (0) used Pluck
+"Wattrel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tyrogue (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Wattrel (0)...
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tyrogue (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Tyrogue (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Tyrogue lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Tyrogue fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Bonsly] + 9 because we have kill
+     [Chingling] + 4 because we have 2HKO
+[AI] Highest move score (19) vs Switch In Score (44)
+"School Kid Harrison sent out Bonsly!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Bonsly (1): 0
+Set up score for Bonsly (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Bonsly (1) is considering using Payback (1) against Wattrel (0)...
+[AI] Move choices for Bonsly (1):
+   * 100.0% to use Rock Throw (target 0): score 18
+   *   0.0% to use Payback (target 0): score 0
+   => will use Rock Throw (target 0)
+
+[Round order] Wattrel (0), the opposing Bonsly (1)
+
+"Wattrel, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Bonsly (1) used Rock Throw
+"The opposing Bonsly used Rock Throw!"
+[HP change] Wooper lost 5 HP (41 -> 36)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Bonsly (1): 0
+Set up score for Bonsly (1): 0
+     [Switch AI] +5 Party member [Chingling] is immune to strongest move against Bonsly (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Wooper (0)...
+[AI] Bonsly (1) is considering using Payback (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bonsly (1):
+   *   0.0% to use Rock Throw (target 0): score 0
+   * 100.0% to use Payback (target 0): score 5
+   => will use Payback (target 0)
+
+[Round order] Wooper (0), the opposing Bonsly (1)
+
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Bonsly lost 23 HP (30 -> 7)
+"It's super effective!"
+[Stat change] The opposing Bonsly's Speed changed by -1 (0 -> -1)
+"The opposing Bonsly's Speed fell!"
+[Use move] The opposing Bonsly (1) used Payback
+"The opposing Bonsly used Payback!"
+[HP change] Wooper lost 14 HP (36 -> 22)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Bonsly (1): -1
+Set up score for Bonsly (1): -1
+Set up score for Bonsly (1): -1
+Set up score for Bonsly (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] +5 Party member [Chingling] is immune to strongest move against Bonsly (1)
+[AI] Switch out Score (6) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     [Chingling] + 3 because we absorb their highest damaging move against the current battler
+     [Chingling] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (47)
+   => will switch with Chingling
+
+[Round order] Wooper (0), the opposing Bonsly (1)
+
+"School Kid Harrison withdrew Bonsly!"
+"School Kid Harrison sent out Chingling!"
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[Ability triggered] The opposing Chingling's Levitate
+"The opposing Chingling avoided the attack!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Chingling (1): 0
+Set up score for Chingling (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Wooper (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Wooper (0)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Chingling (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Mach Pulse (target 0): score 0
+   * 100.0% to use Yawn (target 0): score 14
+   => will use Yawn (target 0)
+
+[Round order] The opposing Chingling (1), Wooper (0)
+
+"Wooper, come back!"
+"You're in charge, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Chingling (1) used Yawn
+"The opposing Chingling used Yawn!"
+"The opposing Chingling made Litleo drowsy!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Litleo (0)
+Set up score for Chingling (1): 0
+Set up score for Chingling (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Litleo (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Litleo (0)...
+     move will not affect Litleo (0)
+     -  4: move will fail
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Litleo (0), the opposing Chingling (1)
+
+"Litleo, switch out! Come back!"
+"You're in charge, Wattrel!"
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling used Confusion!"
+[HP change] Wattrel lost 16 HP (31 -> 15)
+[HP change] Wattrel gained 10 HP (15 -> 25)
+"Wattrel restored a little HP using its Oran Berry!"
+[Item consumed] Wattrel consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Chingling (1): 0
+Set up score for Chingling (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (14)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Wattrel (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Wattrel (0)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Move choices for Chingling (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Mach Pulse (target 0): score 0
+   * 100.0% to use Yawn (target 0): score 14
+   => will use Yawn (target 0)
+
+[Round order] Wattrel (0), the opposing Chingling (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Chingling lost 11 HP (34 -> 23)
+"Wattrel stole and ate its target's Oran Berry!"
+[HP change] Wattrel gained 10 HP (25 -> 35)
+[Item triggered] Forced consuming of Oran Berry
+"Wattrel's HP was restored."
+[Use move] The opposing Chingling (1) used Yawn
+"The opposing Chingling used Yawn!"
+"The opposing Chingling made Wattrel drowsy!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Wattrel (0)
+Set up score for Chingling (1): 0
+Set up score for Chingling (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Wattrel (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Wattrel (0)...
+     move will not affect Wattrel (0)
+     -  4: move will fail
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Wattrel (0), the opposing Chingling (1)
+
+"Wattrel, come back!"
+"Go for it, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling used Confusion!"
+[HP change] Litleo lost 15 HP (42 -> 27)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chingling (1): 0
+Set up score for Chingling (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Litleo (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Litleo (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Litleo (0), the opposing Chingling (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Chingling lost 14 HP (23 -> 9)
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling flinched and couldn't move!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chingling (1): 0
+Set up score for Chingling (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Litleo (0)...
+[AI] Chingling (1) is considering using Yawn (4) against Litleo (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Litleo (0), the opposing Chingling (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Chingling lost 9 HP (9 -> 0)
+"The opposing Chingling fainted!"
+
+[End of round 11]
+Trick Room Turns: 0
+     [Bonsly] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Bonsly] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"School Kid Harrison sent out Bonsly!"
+
+===== Round 12 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Bonsly (1) is considering using Payback (1) against Litleo (0)...
+[AI] Move choices for Bonsly (1):
+   * 100.0% to use Rock Throw (target 0): score 5
+   *   0.0% to use Payback (target 0): score 0
+   => will use Rock Throw (target 0)
+
+[Round order] Litleo (0), the opposing Bonsly (1)
+
+"Litleo, come back!"
+"Just a little more! Hang in there, Wooper!"
+[Use move] The opposing Bonsly (1) used Rock Throw
+"The opposing Bonsly used Rock Throw!"
+[HP change] Wooper lost 6 HP (22 -> 16)
+"It's not very effective..."
+[HP change] Wooper gained 10 HP (16 -> 26)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Wooper (0)...
+[AI] Bonsly (1) is considering using Payback (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bonsly (1):
+   *   0.0% to use Rock Throw (target 0): score 0
+   * 100.0% to use Payback (target 0): score 5
+   => will use Payback (target 0)
+
+[Round order] The opposing Bonsly (1), Wooper (0)
+
+"The opposing Bonsly's Custap Berry let it move first!"
+[Item consumed] The opposing Bonsly consumed its held Custap Berry
+[Use move] The opposing Bonsly (1) used Payback
+"The opposing Bonsly used Payback!"
+[HP change] Wooper lost 7 HP (26 -> 19)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Bonsly lost 7 HP (7 -> 0)
+"It's super effective!"
+"The opposing Bonsly fainted!"
+
+===== Player won =====
+
+"You defeated School Kid Harrison!"
+"Wow. You're great!"
+
+"You got $320 for winning!"
+Roles for SMOOCHUM: [:SPEEDCONTROL]
+Roles for MAGBY: [:NONE]
+Roles for ELEKID: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by School Kid Christine!"
+"School Kid Christine sent out Smoochum!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Smoochum (1)
+[Ability triggered] The opposing Smoochum's Forewarn
+"The opposing Smoochum was alerted to Pluck!"
+[Ability triggered] The opposing Smoochum's Forewarn
+[Stat change] The opposing Smoochum's Defense changed by +1 (0 -> 1)
+"The opposing Smoochum's Defense rose!"
+
+===== Round 1 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Smoochum (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Smoochum (1) is considering using Confusion (1) against Wattrel (0)...
+[AI] Move choices for Smoochum (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Confusion (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Smoochum (1), Wattrel (0)
+
+"Wattrel, switch out! Come back!"
+"You're in charge, Chimchar!"
+[Use move] The opposing Smoochum (1) used Fake Out
+"The opposing Smoochum used Fake Out!"
+[HP change] Chimchar lost 4 HP (36 -> 32)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+[AI] Smoochum (1) is considering using Confusion (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Confusion (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] Chimchar (0), the opposing Smoochum (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Smoochum lost 24 HP (29 -> 5)
+"It's super effective!"
+[HP change] The opposing Smoochum gained 10 HP (5 -> 15)
+"The opposing Smoochum restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Smoochum consumed its held Oran Berry
+[Use move] The opposing Smoochum (1) used Confusion
+"The opposing Smoochum used Confusion!"
+[HP change] Chimchar lost 10 HP (32 -> 22)
+"Chimchar became confused!"
+[Lingering effect] Chimchar's confusion count is 2
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+[AI] Smoochum (1) is considering using Confusion (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Confusion (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] Chimchar (0), the opposing Smoochum (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar is confused!"
+"Chimchar used Ember!"
+[HP change] The opposing Smoochum lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Smoochum fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Magby] + 2 because we outspeed
+     [Magby] - 3 because we have no kill
+     [Elekid] + 2 because we outspeed
+     [Elekid] + 4 because we have 2HKO
+[AI] Highest move score (19) vs Switch In Score (41)
+"School Kid Christine sent out Elekid!"
+
+===== Round 4 =====
+
+Set up score for Elekid (1): 0
+Set up score for Elekid (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Quick Attack (1) against Chimchar (0)...
+[AI] Elekid (1) is considering using Low Kick (1) against Chimchar (0)...
+[AI] Move choices for Elekid (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Elekid (1), Chimchar (0)
+
+"Chimchar, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Elekid (1) used Shock Wave
+"The opposing Elekid used Shock Wave!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+Set up score for Elekid (1): 0
+Set up score for Elekid (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Elekid (1) is considering using Quick Attack (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Low Kick (1) against Wooper (0)...
+[AI] Move choices for Elekid (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Elekid (1), Wooper (0)
+
+[Use move] The opposing Elekid (1) used Quick Attack
+"The opposing Elekid used Quick Attack!"
+[HP change] Wooper lost 6 HP (19 -> 13)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Elekid lost 19 HP (32 -> 13)
+"It's super effective!"
+[HP change] The opposing Elekid gained 10 HP (13 -> 23)
+"The opposing Elekid restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Elekid consumed its held Oran Berry
+[Stat change] The opposing Elekid's Speed changed by -1 (0 -> -1)
+"The opposing Elekid's Speed fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Wooper (0)
+Set up score for Elekid (1): -1
+Set up score for Elekid (1): -1
+Set up score for Elekid (1): -1
+Set up score for Elekid (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Elekid (1) is considering using Quick Attack (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Low Kick (1) against Wooper (0)...
+[AI] Move choices for Elekid (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Elekid (1), Wooper (0)
+
+[Use move] The opposing Elekid (1) used Quick Attack
+"The opposing Elekid used Quick Attack!"
+[HP change] Wooper lost 6 HP (13 -> 7)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Elekid lost 19 HP (23 -> 4)
+"It's super effective!"
+[Stat change] The opposing Elekid's Speed changed by -1 (-1 -> -2)
+"The opposing Elekid's Speed fell!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Wooper (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Elekid (1): -2
+Set up score for Elekid (1): -2
+Set up score for Elekid (1): -2
+Set up score for Elekid (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (14)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Elekid (1) is considering using Quick Attack (1) against Wooper (0)...
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Low Kick (1) against Wooper (0)...
+[AI] Move choices for Elekid (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 14
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Elekid (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"Your opponent's weak! Get 'em, Chimchar!"
+[Use move] The opposing Elekid (1) used Quick Attack
+"The opposing Elekid used Quick Attack!"
+[HP change] Chimchar lost 6 HP (22 -> 16)
+[HP change] Chimchar gained 10 HP (16 -> 26)
+"Chimchar restored a little HP using its Oran Berry!"
+[Item consumed] Chimchar consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Elekid (1): -2
+Set up score for Elekid (1): -2
+Set up score for Elekid (1): -2
+Set up score for Elekid (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Quick Attack (1) against Chimchar (0)...
+[AI] Elekid (1) is considering using Low Kick (1) against Chimchar (0)...
+[AI] Move choices for Elekid (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Chimchar (0), the opposing Elekid (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Elekid lost 4 HP (4 -> 0)
+[Ability triggered] The opposing Elekid's Static
+"Chimchar is paralyzed! It may be unable to move!"
+"The opposing Elekid fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Magby] + 2 because we outspeed
+     [Magby] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (34)
+"School Kid Christine sent out Magby!"
+
+===== Round 9 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magby (1) is considering using Mach Punch (1) against Chimchar (0)...
+[AI] Magby (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Magby (1) is considering using Hidden Power (1) against Chimchar (0)...
+[AI] Move choices for Magby (1):
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Magby (1), Chimchar (0)
+
+"Chimchar, come back!"
+"You're in charge, Wattrel!"
+[Use move] The opposing Magby (1) used Incinerate
+"The opposing Magby used Incinerate!"
+[HP change] Wattrel lost 13 HP (35 -> 22)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magby (1) is considering using Mach Punch (1) against Wattrel (0)...
+[AI] Magby (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Magby (1) is considering using Hidden Power (1) against Wattrel (0)...
+[AI] Move choices for Magby (1):
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] Wattrel (0), the opposing Magby (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Magby lost 16 HP (29 -> 13)
+"Wattrel stole and ate its target's Oran Berry!"
+[HP change] Wattrel gained 10 HP (22 -> 32)
+[Item triggered] Forced consuming of Oran Berry
+"Wattrel's HP was restored."
+[Ability triggered] The opposing Magby's Flame Body
+"Wattrel was burned!"
+[Use move] The opposing Magby (1) used Incinerate
+"The opposing Magby used Incinerate!"
+[HP change] Wattrel lost 14 HP (32 -> 18)
+
+[End of round 10]
+[HP change] Wattrel lost 2 HP (18 -> 16)
+"Wattrel was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magby (1) is considering using Mach Punch (1) against Wattrel (0)...
+[AI] Magby (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Magby (1) is considering using Hidden Power (1) against Wattrel (0)...
+[AI] Move choices for Magby (1):
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] Wattrel (0), the opposing Magby (1)
+
+[Use move] Wattrel (0) used Thunder Shock
+"Wattrel used Thunder Shock!"
+[HP change] The opposing Magby lost 11 HP (13 -> 2)
+[Use move] The opposing Magby (1) used Incinerate
+"The opposing Magby used Incinerate!"
+[HP change] Wattrel lost 13 HP (16 -> 3)
+
+[End of round 11]
+[HP change] Wattrel lost 2 HP (3 -> 1)
+"Wattrel was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magby (1) is considering using Mach Punch (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Magby (1) is considering using Incinerate (1)...
+      + 17 for slow kill
+[AI] Magby (1) is considering using Hidden Power (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Magby (1):
+   *  33.3% to use Mach Punch (target 0): score 18
+   *  33.3% to use Incinerate: score 18
+   *  33.3% to use Hidden Power (target 0): score 18
+   => will use Hidden Power (target 0)
+
+[Round order] Wattrel (0), the opposing Magby (1)
+
+"Good job, Wattrel! Come back!"
+"Your opponent's weak! Get 'em, Fletchling!"
+[Use move] The opposing Magby (1) used Hidden Power
+"The opposing Magby used Hidden Power!"
+[HP change] Fletchling lost 4 HP (37 -> 33)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Fletchling (0): 0
+     Threat Score for Fletchling (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magby (1) is considering using Mach Punch (1) against Fletchling (0)...
+     + 9 to get a last ditch hit off.
+[AI] Magby (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Magby (1) is considering using Hidden Power (1) against Fletchling (0)...
+[AI] Move choices for Magby (1):
+   * 100.0% to use Mach Punch (target 0): score 10
+   *   0.0% to use Incinerate: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mach Punch (target 0)
+
+[Round order] The opposing Magby (1), Fletchling (0)
+
+[Use move] The opposing Magby (1) used Mach Punch
+"The opposing Magby used Mach Punch!"
+[HP change] Fletchling lost 6 HP (33 -> 27)
+[Use move] Fletchling (0) used Quick Attack
+"Fletchling used Quick Attack!"
+[HP change] The opposing Magby lost 2 HP (2 -> 0)
+[Ability triggered] The opposing Magby's Flame Body
+"Fletchling was burned!"
+"The opposing Magby fainted!"
+"Fletchling got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated School Kid Christine!"
+"Wow. You're great!"
+
+"You got $320 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Grubbin appeared!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the wild Grubbin (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Grubbin (1) is considering using Vise Grip (1) against Wattrel (0)...
+[AI] Grubbin (1) is considering using Mud-Slap (1) against Wattrel (0)...
+[AI] Grubbin (1) is considering using String Shot (4)...
+[AI] Move choices for Grubbin (1):
+   *   0.0% to use Vise Grip (target 0): score 0
+   *   0.0% to use Vise Grip (target 0): score 0
+   *   0.0% to use Mud-Slap (target 0): score 0
+   * 100.0% to use String Shot: score 4
+   => will use String Shot
+
+[Round order] Wattrel (0), the wild Grubbin (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Grubbin was caught!"
+
+===== Pokémon caught =====
+
+"Grubbin's data was added to the Pokédex."
+"Where do you want to send Grubbin to?"
+"Grubbin has been sent to Box "Box 1"!"
+Roles for PIKACHU: [:NONE]
+Roles for ROWLET: [:PHYSICALBREAKER]
+Roles for CYNDAQUIL: [:NONE]
+Roles for OSHAWOTT: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Sarah!"
+"Lass Sarah sent out Pikachu!"
+"Go! Chimchar!"
+[Round order] The opposing Pikachu (1), Chimchar (0)
+
+===== Round 1 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pikachu (1) is considering using Fake Out (1) against Chimchar (0)...
+     + 18 for using turn 1
+[AI] Pikachu (1) is considering using Shock Wave (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pikachu (1) is considering using Hidden Power (1) against Chimchar (0)...
+[AI] Move choices for Pikachu (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Pikachu (1), Chimchar (0)
+
+[Use move] The opposing Pikachu (1) used Fake Out
+"The opposing Pikachu used Fake Out!"
+[HP change] Chimchar lost 4 HP (36 -> 32)
+[Use move] Chimchar (0) used Ember
+"Chimchar flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pikachu (1) is considering using Hidden Power (1) against Chimchar (0)...
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Pikachu (1), Chimchar (0)
+
+[Use move] The opposing Pikachu (1) used Shock Wave
+"The opposing Pikachu used Shock Wave!"
+[HP change] Chimchar lost 8 HP (32 -> 24)
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Pikachu lost 13 HP (28 -> 15)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Pikachu (1) is considering using Hidden Power (1) against Chimchar (0)...
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Pikachu (1), Chimchar (0)
+
+[Use move] The opposing Pikachu (1) used Shock Wave
+"The opposing Pikachu used Shock Wave!"
+[HP change] Chimchar lost 9 HP (24 -> 15)
+[HP change] Chimchar gained 10 HP (15 -> 25)
+"Chimchar restored a little HP using its Oran Berry!"
+[Item consumed] Chimchar consumed its held Oran Berry
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Pikachu lost 15 HP (15 -> 0)
+"The opposing Pikachu fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Rowlet] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Rowlet] + 4 because we have 2HKO
+     [Cyndaquil] - 3 because we have no kill
+     [Oshawott] + 4 because we have 2HKO
+[AI] Highest move score (19) vs Switch In Score (39)
+"Lass Sarah sent out Oshawott!"
+
+===== Round 4 =====
+
+Set up score for Oshawott (1): 0
+Set up score for Oshawott (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oshawott (1) is considering using Water Pulse (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Oshawott (1) is considering using Icy Wind (1)...
+[AI] Oshawott (1) is considering using Aqua Jet (1) against Chimchar (0)...
+[AI] Move choices for Oshawott (1):
+   * 100.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Water Pulse (target 0)
+
+[Round order] Chimchar (0), the opposing Oshawott (1)
+
+"Chimchar, come back!"
+"You're in charge, Capsakid!"
+[Use move] The opposing Oshawott (1) used Water Pulse
+"The opposing Oshawott used Water Pulse!"
+[HP change] Capsakid lost 7 HP (36 -> 29)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Oshawott (1): 0
+Set up score for Oshawott (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oshawott (1) is considering using Water Pulse (1) against Capsakid (0)...
+[AI] Oshawott (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Oshawott (1) is considering using Aqua Jet (1) against Capsakid (0)...
+[AI] Move choices for Oshawott (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Oshawott (1), Capsakid (0)
+
+[Use move] The opposing Oshawott (1) used Icy Wind
+"The opposing Oshawott used Icy Wind!"
+[HP change] Capsakid lost 16 HP (29 -> 13)
+"It's super effective!"
+[HP change] Capsakid gained 10 HP (13 -> 23)
+"Capsakid restored a little HP using its Oran Berry!"
+[Item consumed] Capsakid consumed its held Oran Berry
+[Stat change] Capsakid's Speed changed by -1 (0 -> -1)
+"Capsakid's Speed fell!"
+[Use move] Capsakid (0) used Razor Leaf
+"Capsakid used Razor Leaf!"
+[HP change] The opposing Oshawott lost 34 HP (34 -> 0)
+"It's super effective!"
+"The opposing Oshawott fainted!"
+"Capsakid got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Rowlet] + 2 because we outspeed
+     [Rowlet] + 9 because we have kill
+     [Cyndaquil] + 2 because we outspeed
+     [Cyndaquil] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Lass Sarah sent out Cyndaquil!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): -1
+     Threat Score for Capsakid (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+      + 20 for fast kill
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Capsakid (0)...
+[AI] Move choices for Cyndaquil (1):
+   * 100.0% to use Incinerate: score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Cyndaquil (1), Capsakid (0)
+
+"Capsakid, come back!"
+"You're in charge, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Cyndaquil (1) used Incinerate
+"The opposing Cyndaquil used Incinerate!"
+[HP change] Litleo lost 6 HP (42 -> 36)
+"It's not very effective..."
+"Litleo's Oran Berry was incinerated!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Litleo (0)...
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Litleo (0)...
+[AI] Move choices for Cyndaquil (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Cyndaquil (1), Litleo (0)
+
+[Use move] The opposing Cyndaquil (1) used Incinerate
+"The opposing Cyndaquil used Incinerate!"
+[HP change] Litleo lost 6 HP (36 -> 30)
+"It's not very effective..."
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Cyndaquil lost 18 HP (30 -> 12)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Litleo (0)...
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Litleo (0)...
+[AI] Move choices for Cyndaquil (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Incinerate
+
+[Round order] Litleo (0), the opposing Cyndaquil (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Cyndaquil lost 12 HP (12 -> 0)
+"The opposing Cyndaquil fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Rowlet] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Lass Sarah sent out Rowlet!"
+
+===== Round 9 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+[AI] Rowlet (1) is considering using Pluck (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Litleo (0)...
+     move will not affect Litleo (0)
+     -  1: move will fail
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Litleo (0), the opposing Rowlet (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Rowlet lost 24 HP (36 -> 12)
+"It's super effective!"
+[Use move] The opposing Rowlet (1) used Pluck
+"The opposing Rowlet used Pluck!"
+[HP change] Litleo lost 10 HP (30 -> 20)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+[AI] Rowlet (1) is considering using Pluck (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Litleo (0)...
+     move will not affect Litleo (0)
+     -  1: move will fail
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Litleo (0), the opposing Rowlet (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Rowlet lost 12 HP (12 -> 0)
+"It's super effective!"
+"The opposing Rowlet fainted!"
+
+===== Player won =====
+
+"You defeated Lass Sarah!"
+"Wow. You're great!"
+
+"You got $160 for winning!"
+Roles for CHIKORITA: [:SPECIALBREAKER]
+Roles for TOTODILE: [:NONE]
+Roles for TEPIG: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Samantha!"
+"Lass Samantha sent out Chikorita!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the opposing Chikorita (1)
+
+===== Round 1 =====
+
+Set up score for Chikorita (1): 0
+Set up score for Chikorita (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chikorita (1) is considering using Mega Drain (1) against Chimchar (0)...
+[AI] Chikorita (1) is considering using Fairy Wind (1) against Chimchar (0)...
+[AI] Chikorita (1) is considering using Hidden Power (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Chikorita (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Chimchar (0), the opposing Chikorita (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Chikorita lost 22 HP (32 -> 10)
+"It's super effective!"
+[HP change] The opposing Chikorita gained 10 HP (10 -> 20)
+"The opposing Chikorita restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Chikorita consumed its held Oran Berry
+[Use move] The opposing Chikorita (1) used Hidden Power
+"The opposing Chikorita used Hidden Power!"
+[HP change] Chimchar lost 13 HP (36 -> 23)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chikorita (1): 0
+Set up score for Chikorita (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chikorita (1) is considering using Mega Drain (1) against Chimchar (0)...
+[AI] Chikorita (1) is considering using Fairy Wind (1) against Chimchar (0)...
+[AI] Chikorita (1) is considering using Hidden Power (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Chikorita (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Chimchar (0), the opposing Chikorita (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Chikorita lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Chikorita fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Totodile] + 4 because we have 2HKO
+     [Tepig] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (39)
+"Lass Samantha sent out Tepig!"
+
+===== Round 3 =====
+
+     move will not affect Chimchar (0)
+Set up score for Tepig (1): 0
+Set up score for Tepig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Chimchar (0)...
+     move will not affect Chimchar (0)
+     -  4: move will fail
+[AI] Move choices for Tepig (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Chimchar (0), the opposing Tepig (1)
+
+"Chimchar, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Tepig (1) used Bulldoze
+"The opposing Tepig used Bulldoze!"
+[HP change] Wooper lost 9 HP (41 -> 32)
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Tepig (1): 0
+Set up score for Tepig (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Wooper (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Tepig (1), Wooper (0)
+
+[Use move] The opposing Tepig (1) used Bulldoze
+"The opposing Tepig used Bulldoze!"
+[HP change] Wooper lost 10 HP (32 -> 22)
+[Stat change] Wooper's Speed changed by -1 (-1 -> -2)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Tepig lost 18 HP (36 -> 18)
+"It's super effective!"
+[HP change] The opposing Tepig gained 10 HP (18 -> 28)
+"The opposing Tepig restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Tepig consumed its held Oran Berry
+[Stat change] The opposing Tepig's Speed changed by -1 (0 -> -1)
+"The opposing Tepig's Speed fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Tepig (1): -1
+Set up score for Tepig (1): -1
+Set up score for Tepig (1): -1
+Set up score for Tepig (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Wooper (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Tepig (1), Wooper (0)
+
+[Use move] The opposing Tepig (1) used Bulldoze
+"The opposing Tepig used Bulldoze!"
+[HP change] Wooper lost 9 HP (22 -> 13)
+[HP change] Wooper gained 10 HP (13 -> 23)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Stat change] Wooper's Speed changed by -1 (-2 -> -3)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Tepig lost 20 HP (28 -> 8)
+"It's super effective!"
+[Stat change] The opposing Tepig's Speed changed by -1 (-1 -> -2)
+"The opposing Tepig's Speed fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Tepig (1): -2
+Set up score for Tepig (1): -2
+Set up score for Tepig (1): -2
+Set up score for Tepig (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Wooper (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   *  50.0% to use Incinerate: score 5
+   *  50.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Tepig (1), Wooper (0)
+
+"Wooper, come back!"
+"Your opponent's weak! Get 'em, Wattrel!"
+[Use move] The opposing Tepig (1) used Bulldoze
+"The opposing Tepig used Bulldoze!"
+[Target immune] Wattrel's type immunity
+"It doesn't affect Wattrel..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Wattrel (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Tepig (1): -2
+Set up score for Tepig (1): -2
+Set up score for Tepig (1): -2
+Set up score for Tepig (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     move will not affect Wattrel (0)
+     -  1: move will fail
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Wattrel (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Tepig (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Incinerate
+
+[Round order] Wattrel (0), the opposing Tepig (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Tepig lost 8 HP (8 -> 0)
+"The opposing Tepig fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Wattrel (0)
+     [Totodile] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Lass Samantha sent out Totodile!"
+
+===== Round 8 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Wattrel (0)...
+[AI] Totodile (1) is considering using Bite (1) against Wattrel (0)...
+[AI] Totodile (1) is considering using Water Pulse (1) against Wattrel (0)...
+[AI] Move choices for Totodile (1):
+   *  33.3% to use Aqua Jet (target 0): score 1
+   *  33.3% to use Bite (target 0): score 1
+   *  33.3% to use Water Pulse (target 0): score 1
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Totodile (1), Wattrel (0)
+
+[Use move] The opposing Totodile (1) used Aqua Jet
+"The opposing Totodile used Aqua Jet!"
+[HP change] Wattrel lost 14 HP (37 -> 23)
+[Use move] Wattrel (0) used Thunder Shock
+"Wattrel used Thunder Shock!"
+[HP change] The opposing Totodile lost 23 HP (33 -> 10)
+"It's super effective!"
+[HP change] The opposing Totodile gained 10 HP (10 -> 20)
+"The opposing Totodile restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Totodile consumed its held Oran Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Bite (1) against Wattrel (0)...
+[AI] Totodile (1) is considering using Water Pulse (1) against Wattrel (0)...
+[AI] Move choices for Totodile (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Totodile (1), Wattrel (0)
+
+[Use move] The opposing Totodile (1) used Aqua Jet
+"The opposing Totodile used Aqua Jet!"
+[HP change] Wattrel lost 13 HP (23 -> 10)
+[HP change] Wattrel gained 10 HP (10 -> 20)
+"Wattrel restored a little HP using its Oran Berry!"
+[Item consumed] Wattrel consumed its held Oran Berry
+[Use move] Wattrel (0) used Thunder Shock
+"Wattrel used Thunder Shock!"
+[HP change] The opposing Totodile lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Totodile fainted!"
+
+===== Player won =====
+
+"You defeated Lass Samantha!"
+"Wow. You're great!"
+
+"You got $160 for winning!"
+Roles for EEVEE: [:PHYSICALBREAKER]
+Roles for DROWZEE: [:SPECIALBREAKER]
+Roles for MIENFOO: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tyler!"
+"Youngster Tyler sent out Eevee!"
+"Go! Chimchar!"
+[Round order] Chimchar (0), the opposing Eevee (1)
+
+===== Round 1 =====
+
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Eevee (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Chimchar (0)...
+[AI] Eevee (1) is considering using Double Kick (1) against Chimchar (0)...
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Eevee (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Eevee lost 12 HP (34 -> 22)
+"It's super effective!"
+[Use move] The opposing Eevee (1) used Quick Attack
+"The opposing Eevee used Quick Attack!"
+[HP change] Chimchar lost 12 HP (36 -> 24)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eevee (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Chimchar (0)...
+[AI] Eevee (1) is considering using Double Kick (1) against Chimchar (0)...
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Eevee (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Eevee lost 14 HP (22 -> 8)
+"It's super effective!"
+[Use move] The opposing Eevee (1) used Quick Attack
+"The opposing Eevee used Quick Attack!"
+[HP change] Chimchar lost 13 HP (24 -> 11)
+[HP change] Chimchar gained 10 HP (11 -> 21)
+"Chimchar restored a little HP using its Oran Berry!"
+[Item consumed] Chimchar consumed its held Oran Berry
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eevee (1) is considering using Quick Attack (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Chimchar (0)...
+[AI] Eevee (1) is considering using Double Kick (1) against Chimchar (0)...
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] Chimchar (0), the opposing Eevee (1)
+
+[Use move] Chimchar (0) used Mach Punch
+"Chimchar used Mach Punch!"
+[HP change] The opposing Eevee lost 8 HP (8 -> 0)
+"It's super effective!"
+"The opposing Eevee fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Drowzee] - 3 because we have no kill
+     [Mienfoo] + 2 because we outspeed
+     [Mienfoo] + 9 because we have kill
+[AI] Highest move score (1) vs Switch In Score (46)
+"Youngster Tyler sent out Mienfoo!"
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out (1) against Chimchar (0)...
+     + 18 for using turn 1
+[AI] Mienfoo (1) is considering using Force Palm (1) against Chimchar (0)...
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienfoo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Mienfoo (1), Chimchar (0)
+
+"Chimchar, come back!"
+"You're in charge, Wattrel!"
+[Use move] The opposing Mienfoo (1) used Fake Out
+"The opposing Mienfoo used Fake Out!"
+[HP change] Wattrel lost 10 HP (37 -> 27)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Mienfoo (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Mienfoo lost 23 HP (34 -> 11)
+"It's super effective!"
+"Wattrel stole and ate its target's Lum Berry!"
+[Use move] The opposing Mienfoo (1) used Rock Tomb
+"The opposing Mienfoo used Rock Tomb!"
+[HP change] Wattrel lost 27 HP (27 -> 0)
+"It's super effective!"
+"Wattrel fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Wooper!"
+
+===== Round 6 =====
+
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Force Palm (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Mienfoo (1), Wooper (0)
+
+[Use move] The opposing Mienfoo (1) used Force Palm
+"The opposing Mienfoo used Force Palm!"
+[HP change] Wooper lost 16 HP (41 -> 25)
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Mienfoo lost 8 HP (11 -> 3)
+[Stat change] The opposing Mienfoo's Speed changed by -1 (0 -> -1)
+"The opposing Mienfoo's Speed fell!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Mienfoo (1): -1
+Set up score for Mienfoo (1): -1
+Set up score for Mienfoo (1): -1
+Set up score for Mienfoo (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Force Palm (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Mienfoo (1), Wooper (0)
+
+[Use move] The opposing Mienfoo (1) used Force Palm
+"The opposing Mienfoo used Force Palm!"
+[HP change] Wooper lost 17 HP (25 -> 8)
+[HP change] Wooper gained 10 HP (8 -> 18)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Mienfoo lost 3 HP (3 -> 0)
+"The opposing Mienfoo fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Drowzee] + 2 because we outspeed
+     [Drowzee] + 4 because we have 2HKO
+[AI] Highest move score (19) vs Switch In Score (41)
+"Youngster Tyler sent out Drowzee!"
+[Ability triggered] The opposing Drowzee's Forewarn
+"The opposing Drowzee was alerted to Mud Shot!"
+[Ability triggered] The opposing Drowzee's Forewarn
+[Stat change] The opposing Drowzee's Special Defense changed by +1 (0 -> 1)
+"The opposing Drowzee's Special Defense rose!"
+
+===== Round 8 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Wooper (0)...
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] The opposing Drowzee (1), Wooper (0)
+
+"OK, Wooper! Come back!"
+"You're in charge, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Litleo lost 10 HP (42 -> 32)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Litleo (0)...
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drowzee (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Acid: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Litleo (0), the opposing Drowzee (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Drowzee lost 16 HP (37 -> 21)
+[Use move] The opposing Drowzee (1) used Hidden Power
+"The opposing Drowzee flinched and couldn't move!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Litleo (0)...
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drowzee (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Acid: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Litleo (0), the opposing Drowzee (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Drowzee lost 15 HP (21 -> 6)
+[Use move] The opposing Drowzee (1) used Hidden Power
+"The opposing Drowzee used Hidden Power!"
+[HP change] Litleo lost 14 HP (32 -> 18)
+"It's super effective!"
+[HP change] Litleo gained 10 HP (18 -> 28)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Litleo (0)...
+[AI] Drowzee (1) is considering using Acid (1)...
+[AI] Drowzee (1) is considering using Hidden Power (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drowzee (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Acid: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Litleo (0), the opposing Drowzee (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Drowzee lost 6 HP (6 -> 0)
+"The opposing Drowzee fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Tyler!"
+"Wow. You're great!"
+
+"You got $176 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Rolycoly appeared!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the wild Rolycoly (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Rolycoly (1) is considering using Tackle (1) against Wattrel (0)...
+[AI] Move choices for Rolycoly (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Wattrel (0), the wild Rolycoly (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Rolycoly was caught!"
+
+===== Pokémon caught =====
+
+"Rolycoly's data was added to the Pokédex."
+"Where do you want to send Rolycoly to?"
+"Where do you want to send Rolycoly to?"
+"Rolycoly has been sent to Box "Box 1"!"
+Roles for BEAUTIFLY: [:SPECIALBREAKER]
+Roles for TRAPINCH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for FERROSEED: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Sophia!"
+"Ace Trainer Sophia sent out Beautifly!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Beautifly (1)
+
+===== Round 1 =====
+
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Wattrel (0)...
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Wattrel (0), the opposing Beautifly (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Beautifly lost 26 HP (37 -> 11)
+"It's super effective!"
+"Wattrel stole and ate its target's Oran Berry!"
+[Use move] The opposing Beautifly (1) used Air Cutter
+"The opposing Beautifly used Air Cutter!"
+[HP change] Wattrel lost 17 HP (37 -> 20)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Wattrel (0)...
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Wattrel (0), the opposing Beautifly (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Beautifly lost 11 HP (11 -> 0)
+"It's super effective!"
+"The opposing Beautifly fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Trapinch] + 9 because we have kill
+     [Ferroseed] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (44)
+"Ace Trainer Sophia sent out Trapinch!"
+
+===== Round 3 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     move will not affect Wattrel (0)
+     -  1: move will fail
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wattrel (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Trapinch (1):
+   *   0.0% to use Bulldoze: score 0
+   *  50.0% to use Rock Tomb (target 0): score 18
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Bite (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Trapinch (1)
+
+"Wattrel, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Trapinch (1) used Rock Tomb
+"The opposing Trapinch used Rock Tomb!"
+[HP change] Wooper lost 7 HP (41 -> 34)
+"It's not very effective..."
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[HP change] Wooper lost 18 HP (34 -> 16)
+[HP change] Wooper gained 10 HP (16 -> 26)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Stat change] Wooper's Speed changed by -1 (-1 -> -2)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Trapinch lost 14 HP (34 -> 20)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[HP change] Wooper lost 19 HP (26 -> 7)
+[Stat change] Wooper's Speed changed by -1 (-2 -> -3)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Trapinch lost 14 HP (20 -> 6)
+"It's super effective!"
+[HP change] The opposing Trapinch gained 10 HP (6 -> 16)
+"The opposing Trapinch restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Trapinch consumed its held Oran Berry
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Roles for BEAUTIFLY: [:SPECIALBREAKER]
+Roles for TRAPINCH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for FERROSEED: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Sophia!"
+"Ace Trainer Sophia sent out Beautifly!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Beautifly (1)
+
+===== Round 1 =====
+
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Wattrel (0)...
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Wattrel (0), the opposing Beautifly (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Beautifly lost 23 HP (37 -> 14)
+"It's super effective!"
+"Wattrel stole and ate its target's Oran Berry!"
+[Use move] The opposing Beautifly (1) used Air Cutter
+"The opposing Beautifly used Air Cutter!"
+[HP change] Wattrel lost 11 HP (37 -> 26)
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Wattrel (0)...
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Wattrel (0), the opposing Beautifly (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Beautifly lost 14 HP (14 -> 0)
+"It's super effective!"
+"The opposing Beautifly fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Trapinch] + 9 because we have kill
+     [Ferroseed] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (44)
+"Ace Trainer Sophia sent out Trapinch!"
+
+===== Round 3 =====
+
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     move will not affect Wattrel (0)
+     -  1: move will fail
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wattrel (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wattrel (0)...
+[AI] Move choices for Trapinch (1):
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Trapinch (1)
+
+"Wattrel, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Trapinch (1) used Rock Tomb
+"The opposing Trapinch used Rock Tomb!"
+[HP change] Wooper lost 6 HP (41 -> 35)
+"It's not very effective..."
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[HP change] Wooper lost 18 HP (35 -> 17)
+[HP change] Wooper gained 20 HP (17 -> 37)
+"Wooper restored its health using its Berry Juice!"
+[Item consumed] Wooper consumed its held Berry Juice
+[Stat change] Wooper's Speed changed by -1 (-1 -> -2)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Yawn
+"Wooper used Yawn!"
+"Wooper made the opposing Trapinch drowsy!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[HP change] Wooper lost 21 HP (37 -> 16)
+[Stat change] Wooper's Speed changed by -1 (-2 -> -3)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Trapinch lost 14 HP (34 -> 20)
+"It's super effective!"
+
+[End of round 5]
+[Lingering effect] The opposing Trapinch fell asleep because of Yawn
+"The opposing Trapinch fell asleep!"
+[Status change] The opposing Trapinch's sleep count is 4
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 21
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch is fast asleep."
+[Status continues] The opposing Trapinch's sleep count is 3
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Trapinch lost 15 HP (20 -> 5)
+"It's super effective!"
+[HP change] The opposing Trapinch gained 10 HP (5 -> 15)
+"The opposing Trapinch restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Trapinch consumed its held Oran Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 21
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch is fast asleep."
+[Status continues] The opposing Trapinch's sleep count is 2
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Trapinch lost 13 HP (15 -> 2)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Trapinch (1) is considering using Quick Attack (1) against Wooper (0)...
+     + 9 to get a last ditch hit off.
+[AI] Trapinch (1) is considering using Bite (1) against Wooper (0)...
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 21
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Trapinch (1), Wooper (0)
+
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch is fast asleep."
+[Status continues] The opposing Trapinch's sleep count is 1
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Trapinch lost 2 HP (2 -> 0)
+"It's super effective!"
+"The opposing Trapinch fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Ferroseed] + 2 because we outspeed
+     [Ferroseed] + 9 because we have kill
+[AI] Highest move score (18) vs Switch In Score (46)
+"Ace Trainer Sophia sent out Ferroseed!"
+
+===== Round 9 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 21
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] The opposing Ferroseed (1), Wooper (0)
+
+"OK, Wooper! Come back!"
+"You're in charge, Chimchar!"
+[Use move] The opposing Ferroseed (1) used Bullet Seed
+"The opposing Ferroseed used Bullet Seed!"
+[HP change] Chimchar lost 4 HP (36 -> 32)
+[HP change] Chimchar lost 3 HP (32 -> 29)
+[HP change] Chimchar lost 3 HP (29 -> 26)
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Chimchar (0)...
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Chimchar (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Chimchar (0), the opposing Ferroseed (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Ferroseed lost 16 HP (36 -> 20)
+"It's super effective!"
+"The Occa Berry weakened the damage to the opposing Ferroseed!"
+[Item consumed] The opposing Ferroseed consumed its held Occa Berry
+[Use move] The opposing Ferroseed (1) used Bullet Seed
+"The opposing Ferroseed used Bullet Seed!"
+[HP change] Chimchar lost 3 HP (26 -> 23)
+[HP change] Chimchar lost 4 HP (23 -> 19)
+[HP change] Chimchar lost 4 HP (19 -> 15)
+[HP change] Chimchar gained 10 HP (15 -> 25)
+"Chimchar restored a little HP using its Oran Berry!"
+[Item consumed] Chimchar consumed its held Oran Berry
+[HP change] Chimchar lost 4 HP (25 -> 21)
+[HP change] Chimchar lost 3 HP (21 -> 18)
+"It's not very effective..."
+"Hit 5 times!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Chimchar (0): 0
+     Threat Score for Chimchar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Chimchar (0)...
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Chimchar (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Chimchar (0), the opposing Ferroseed (1)
+
+[Use move] Chimchar (0) used Ember
+"Chimchar used Ember!"
+[HP change] The opposing Ferroseed lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Ferroseed fainted!"
+
+===== Player won =====
+
+"You defeated Ace Trainer Sophia!"
+"Wow. You're great!"
+
+"You got $720 for winning!"
