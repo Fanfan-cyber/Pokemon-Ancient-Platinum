@@ -115220,3 +115220,4880 @@ Trick Room Turns: 0
 
 ===== Round 12 =====
 
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Carkol!"
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): 0
+     Threat Score for Carkol (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Carkol (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Carkol (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Carkol (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because target can remove hazards
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+[Use move] The opposing Dwebble (1) used Rock Tomb
+"The opposing Dwebble used Rock Tomb!"
+[HP change] Carkol lost 36 HP (60 -> 24)
+"It's super effective!"
+[HP change] Carkol gained 10 HP (24 -> 34)
+"Carkol restored a little HP using its Oran Berry!"
+[Item consumed] Carkol consumed its held Oran Berry
+[Stat change] Carkol's Speed changed by -1 (0 -> -1)
+"Carkol's Speed fell!"
+[Use move] Carkol (0) used Rock Tomb
+"Carkol used Rock Tomb!"
+[HP change] The opposing Dwebble lost 29 HP (51 -> 22)
+"It's super effective!"
+[Stat change] The opposing Dwebble's Speed changed by -1 (0 -> -1)
+"The opposing Dwebble's Speed fell!"
+"The opposing Dwebble held up its Red Card against Carkol!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Capsakid was dragged out!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Capsakid (0)...
+      + 17 for slow kill
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Capsakid (0)...
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Dwebble (1):
+   * 100.0% to use Bug Bite (target 0): score 18
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Sticky Web: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Capsakid (0), the opposing Dwebble (1)
+
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Dwebble lost 22 HP (22 -> 0)
+"The opposing Dwebble fainted!"
+"The opposing Dwebble had its energy drained!"
+"Carkol got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] - 3 because we have no kill
+     [Carbink] + 2 because we outspeed
+     [Carbink] - 3 because we have no kill
+     [Carkol] + 3 for outdamaging opponent (1%) vs (0%)
+     [Carkol] + 2 because we outspeed
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (49)
+"Youngster Darius sent out Carkol!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Ancient Power (1) against Capsakid (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carkol (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Capsakid (0)
+
+"Capsakid, come back!"
+"You're in charge, Munna!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Incinerate!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Special Defense changed by +1 (0 -> 1)
+"Munna's Special Defense rose!"
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[HP change] Munna lost 16 HP (59 -> 43)
+"Munna's Oran Berry was incinerated!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Ancient Power (1) against Munna (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carkol (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Munna (0)
+
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[HP change] Munna lost 16 HP (43 -> 27)
+[Use move] Munna (0) used Hypnosis
+"Munna used Hypnosis!"
+"The opposing Carkol fell asleep!"
+[Status change] The opposing Carkol's sleep count is 2
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Munna (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carkol (1):
+   *  33.3% to use Incinerate: score 1
+   *  33.3% to use Ancient Power (target 0): score 1
+   *  33.3% to use Hidden Power (target 0): score 1
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carkol (1), Munna (0)
+
+"OK, Munna! Come back!"
+"You're in charge, Capsakid!"
+[Use move] The opposing Carkol (1) used Ancient Power
+"The opposing Carkol is fast asleep."
+[Status continues] The opposing Carkol's sleep count is 1
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Ancient Power (1) against Capsakid (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carkol (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Capsakid (0)
+
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol woke up!"
+"The opposing Carkol used Incinerate!"
+[HP change] Capsakid lost 49 HP (49 -> 0)
+"It's super effective!"
+"Capsakid's Oran Berry was incinerated!"
+"Capsakid fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Carkol!"
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): 0
+     Threat Score for Carkol (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Carkol (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Carkol (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Carkol (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because target can remove hazards
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+[Use move] The opposing Dwebble (1) used Rock Tomb
+"The opposing Dwebble used Rock Tomb!"
+[HP change] Carkol lost 35 HP (60 -> 25)
+"It's super effective!"
+[HP change] Carkol gained 10 HP (25 -> 35)
+"Carkol restored a little HP using its Oran Berry!"
+[Item consumed] Carkol consumed its held Oran Berry
+[Stat change] Carkol's Speed changed by -1 (0 -> -1)
+"Carkol's Speed fell!"
+[Use move] Carkol (0) used Rock Tomb
+"Carkol used Rock Tomb!"
+[HP change] The opposing Dwebble lost 32 HP (51 -> 19)
+"It's super effective!"
+[Stat change] The opposing Dwebble's Speed changed by -1 (0 -> -1)
+"The opposing Dwebble's Speed fell!"
+"The opposing Dwebble held up its Red Card against Carkol!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Wooper was dragged out!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Sticky Web: score 10
+   => will use Sticky Web
+
+[Round order] The opposing Dwebble (1), Wooper (0)
+
+[Use move] The opposing Dwebble (1) used Sticky Web
+"The opposing Dwebble used Sticky Web!"
+"A sticky web has been laid out beneath your team's feet!"
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Dwebble lost 18 HP (19 -> 1)
+"It's super effective!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] +5 Party member [Dwebble] is immune to strongest move against Dwebble (1)
+[AI] Switch out Score (6) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] - 3 because we have no kill
+     [Carbink] + 2 because we outspeed
+     [Carbink] - 3 because we have no kill
+     [Carkol] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (38)
+   => will switch with Carkol
+
+[Round order] The opposing Dwebble (1), Wooper (0)
+
+"Youngster Darius withdrew Dwebble!"
+"Youngster Darius sent out Carkol!"
+[Use move] Wooper (0) used Water Gun
+"Wooper used Water Gun!"
+[HP change] The opposing Carkol lost 14 HP (62 -> 48)
+"It's super effective!"
+"The Passho Berry weakened the damage to the opposing Carkol!"
+[Item consumed] The opposing Carkol consumed its held Passho Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+     [Switch AI] +5 Party member [Dwebble] is immune to strongest move against Carkol (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Wooper (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Carkol (1), Wooper (0)
+
+[Use move] The opposing Carkol (1) used Hidden Power
+"The opposing Carkol used Hidden Power!"
+[HP change] Wooper lost 55 HP (55 -> 0)
+"It's super effective!"
+"Wooper fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Carkol!"
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): 0
+     Threat Score for Carkol (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Carkol (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Carkol (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Carkol (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because target can remove hazards
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+[Use move] The opposing Dwebble (1) used Rock Tomb
+"The opposing Dwebble used Rock Tomb!"
+[HP change] Carkol lost 34 HP (60 -> 26)
+"It's super effective!"
+[HP change] Carkol gained 10 HP (26 -> 36)
+"Carkol restored a little HP using its Oran Berry!"
+[Item consumed] Carkol consumed its held Oran Berry
+[Stat change] Carkol's Speed changed by -1 (0 -> -1)
+"Carkol's Speed fell!"
+[Use move] Carkol (0) used Rock Tomb
+"Carkol used Rock Tomb!"
+[HP change] The opposing Dwebble lost 29 HP (51 -> 22)
+"It's super effective!"
+[Stat change] The opposing Dwebble's Speed changed by -1 (0 -> -1)
+"The opposing Dwebble's Speed fell!"
+"The opposing Dwebble held up its Red Card against Carkol!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Wooper was dragged out!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Sticky Web: score 10
+   => will use Sticky Web
+
+[Round order] The opposing Dwebble (1), Wooper (0)
+
+"Wooper, switch out! Come back!"
+"Just a little more! Hang in there, Carkol!"
+[Use move] The opposing Dwebble (1) used Sticky Web
+"The opposing Dwebble used Sticky Web!"
+"A sticky web has been laid out beneath your team's feet!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): 0
+     Threat Score for Carkol (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Carkol (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Carkol (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web...
+     -  4: move will fail
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Carkol (0), the opposing Dwebble (1)
+
+[Use move] Carkol (0) used Rock Tomb
+"Carkol used Rock Tomb!"
+[HP change] The opposing Dwebble lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Dwebble fainted!"
+"Carkol got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] + 9 because we have kill
+     [Carbink] + 9 because we have kill
+     [Carkol] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (44)
+"Youngster Darius sent out Carbink!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): 0
+     Threat Score for Carkol (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Carkol (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Carkol (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Carkol (0)...
+      + 20 for fast kill
+[AI] Move choices for Carbink (1):
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] Carkol (0), the opposing Carbink (1)
+
+[Use move] Carkol (0) used Rapid Spin
+"Carkol used Rapid Spin!"
+[HP change] The opposing Carbink lost 3 HP (49 -> 46)
+"It's not very effective..."
+[Stat change] Carkol's Speed changed by +1 (0 -> 1)
+"Carkol's Speed rose!"
+"Carkol blew away sticky webs!"
+[Use move] The opposing Carbink (1) used Hidden Power
+"The opposing Carbink used Hidden Power!"
+[HP change] Carkol lost 36 HP (36 -> 0)
+"It's super effective!"
+"Carkol fainted!"
+
+[End of round 4]
+[HP change] The opposing Carbink gained 3 HP (46 -> 49)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+"You're in charge, Capsakid!"
+
+===== Round 5 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Capsakid (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Capsakid (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Capsakid lost 19 HP (49 -> 30)
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Carbink lost 20 HP (49 -> 29)
+"It's super effective!"
+"The opposing Carbink had its energy drained!"
+[HP change] Capsakid gained 10 HP (30 -> 40)
+
+[End of round 5]
+[HP change] The opposing Carbink gained 3 HP (29 -> 32)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Capsakid (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Capsakid (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Capsakid lost 17 HP (40 -> 23)
+[HP change] Capsakid gained 10 HP (23 -> 33)
+"Capsakid restored a little HP using its Oran Berry!"
+[Item consumed] Capsakid consumed its held Oran Berry
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Carbink lost 20 HP (32 -> 12)
+"It's super effective!"
+"The opposing Carbink had its energy drained!"
+[HP change] Capsakid gained 10 HP (33 -> 43)
+
+[End of round 6]
+[HP change] The opposing Carbink gained 3 HP (12 -> 15)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Capsakid (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Capsakid (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Capsakid lost 19 HP (43 -> 24)
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Carbink lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Carbink fainted!"
+"The opposing Carbink had its energy drained!"
+[HP change] Capsakid gained 8 HP (24 -> 32)
+
+[End of round 7]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] + 4 because we have 2HKO
+     [Carkol] + 2 because we outspeed
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Youngster Darius sent out Carkol!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+      + 20 for fast kill
+[AI] Carkol (1) is considering using Ancient Power (1) against Capsakid (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carkol (1):
+   * 100.0% to use Incinerate: score 21
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Capsakid (0)
+
+"Capsakid, come back!"
+"You're in charge, Munna!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Hidden Power!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Special Defense changed by +1 (0 -> 1)
+"Munna's Special Defense rose!"
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[HP change] Munna lost 14 HP (59 -> 45)
+"Munna's Oran Berry was incinerated!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Ancient Power (1) against Munna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carkol (1):
+   *  50.0% to use Incinerate: score 5
+   *  50.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Munna (0)
+
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[HP change] Munna lost 15 HP (45 -> 30)
+[Use move] Munna (0) used Hypnosis
+"Munna used Hypnosis!"
+"The opposing Carkol fell asleep!"
+[Status change] The opposing Carkol's sleep count is 3
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Munna (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carkol (1):
+   *  33.3% to use Incinerate: score 1
+   *  33.3% to use Ancient Power (target 0): score 1
+   *  33.3% to use Hidden Power (target 0): score 1
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Munna (0)
+
+"Munna, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol is fast asleep."
+[Status continues] The opposing Carkol's sleep count is 2
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Wooper (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Carkol (1), Wooper (0)
+
+[Use move] The opposing Carkol (1) used Hidden Power
+"The opposing Carkol is fast asleep."
+[Status continues] The opposing Carkol's sleep count is 1
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Carkol lost 35 HP (62 -> 27)
+"It's super effective!"
+[Stat change] The opposing Carkol's Speed changed by -1 (0 -> -1)
+"The opposing Carkol's Speed fell!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): -1
+Set up score for Carkol (1): -1
+Set up score for Carkol (1): -1
+Set up score for Carkol (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Wooper (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Carkol (1), Wooper (0)
+
+[Use move] The opposing Carkol (1) used Hidden Power
+"The opposing Carkol woke up!"
+"The opposing Carkol used Hidden Power!"
+[HP change] Wooper lost 55 HP (55 -> 0)
+"It's super effective!"
+"Wooper fainted!"
+
+[End of round 12]
+Trick Room Turns: 0
+Roles for DWEBBLE: [:SPEEDCONTROL, :LEAD]
+Roles for AMAURA: [:SPECIALBREAKER]
+Roles for CARBINK: [:SPECIALBREAKER]
+Roles for CARKOL: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Darius!"
+"Youngster Darius sent out Dwebble!"
+"Go! Carkol!"
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+===== Round 1 =====
+
+Set up score for Dwebble (1): 0
+Set up score for Dwebble (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): 0
+     Threat Score for Carkol (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Carkol (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dwebble (1) is considering using Bug Bite (1) against Carkol (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Carkol (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     - 3 because target can remove hazards
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Dwebble (1), Carkol (0)
+
+[Use move] The opposing Dwebble (1) used Rock Tomb
+"The opposing Dwebble used Rock Tomb!"
+[HP change] Carkol lost 39 HP (60 -> 21)
+"It's super effective!"
+[HP change] Carkol gained 10 HP (21 -> 31)
+"Carkol restored a little HP using its Oran Berry!"
+[Item consumed] Carkol consumed its held Oran Berry
+[Stat change] Carkol's Speed changed by -1 (0 -> -1)
+"Carkol's Speed fell!"
+[Use move] Carkol (0) used Rock Tomb
+"Carkol used Rock Tomb!"
+[HP change] The opposing Dwebble lost 30 HP (51 -> 21)
+"It's super effective!"
+[Stat change] The opposing Dwebble's Speed changed by -1 (0 -> -1)
+"The opposing Dwebble's Speed fell!"
+"The opposing Dwebble held up its Red Card against Carkol!"
+[Item consumed] The opposing Dwebble consumed its held Red Card
+"Monferno was dragged out!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): 0
+     Threat Score for Monferno (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Monferno (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Monferno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Sticky Web: score 10
+   => will use Sticky Web
+
+[Round order] Monferno (0), the opposing Dwebble (1)
+
+[Use move] Monferno (0) used Flame Wheel
+"Monferno used Flame Wheel!"
+[HP change] The opposing Dwebble lost 15 HP (21 -> 6)
+[Use move] The opposing Dwebble (1) used Sticky Web
+"The opposing Dwebble used Sticky Web!"
+"A sticky web has been laid out beneath your team's feet!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+Set up score for Dwebble (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): 0
+     Threat Score for Monferno (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Bug Bite (1) against Monferno (0)...
+[AI] Dwebble (1) is considering using Rock Tomb (1) against Monferno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Sticky Web...
+     -  4: move will fail
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Monferno (0), the opposing Dwebble (1)
+
+[Use move] Monferno (0) used Flame Wheel
+"Monferno used Flame Wheel!"
+[HP change] The opposing Dwebble lost 6 HP (6 -> 0)
+"A critical hit!"
+"The opposing Dwebble fainted!"
+"Carkol got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Amaura] - 3 because we have no kill
+     [Carbink] - 3 because we have no kill
+     [Carkol] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (32)
+"Youngster Darius sent out Carbink!"
+
+===== Round 4 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): 0
+     Threat Score for Monferno (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Monferno (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Monferno (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Monferno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carbink (1):
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Fairy Wind (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Monferno (0), the opposing Carbink (1)
+
+"Monferno, come back!"
+"You're in charge, Munna!"
+"Munna was caught in a sticky web!"
+[Stat change] Munna's Speed changed by -1 (0 -> -1)
+"Munna's Speed fell!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Ancient Power!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Special Defense changed by +1 (0 -> 1)
+"Munna's Special Defense rose!"
+[Use move] The opposing Carbink (1) used Hidden Power
+"The opposing Carbink used Hidden Power!"
+[HP change] Munna lost 9 HP (59 -> 50)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Carbink (1): 0
+Set up score for Carbink (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Munna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Munna (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Munna (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink used Ancient Power!"
+[HP change] Munna lost 12 HP (50 -> 38)
+[Stat change] The opposing Carbink's Attack changed by +1 (0 -> 1)
+"The opposing Carbink's Attack rose!"
+[Stat change] The opposing Carbink's Defense changed by +1 (0 -> 1)
+"The opposing Carbink's Defense rose!"
+[Stat change] The opposing Carbink's Special Attack changed by +1 (0 -> 1)
+"The opposing Carbink's Special Attack rose!"
+[Stat change] The opposing Carbink's Special Defense changed by +1 (0 -> 1)
+"The opposing Carbink's Special Defense rose!"
+[Stat change] The opposing Carbink's Speed changed by +1 (0 -> 1)
+"The opposing Carbink's Speed rose!"
+[Use move] Munna (0) used Hypnosis
+"Munna used Hypnosis!"
+"The opposing Carbink fell asleep!"
+[Status change] The opposing Carbink's sleep count is 3
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Munna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Munna (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Munna (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink is fast asleep."
+[Status continues] The opposing Carbink's sleep count is 2
+[Use move] Munna (0) used Stored Power
+"Munna used Stored Power!"
+[HP change] The opposing Carbink lost 6 HP (49 -> 43)
+
+[End of round 6]
+[HP change] The opposing Carbink gained 3 HP (43 -> 46)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Munna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Munna (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Munna (0)
+
+"Munna, come back!"
+"Go for it, Wooper!"
+"Wooper was caught in a sticky web!"
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink is fast asleep."
+[Status continues] The opposing Carbink's sleep count is 1
+
+[End of round 7]
+[HP change] The opposing Carbink gained 3 HP (46 -> 49)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): -1
+     Threat Score for Wooper (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Wooper (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Hidden Power (1) against Wooper (0)...
+[AI] Move choices for Carbink (1):
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Fairy Wind (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fairy Wind (target 0)
+
+[Round order] The opposing Carbink (1), Wooper (0)
+
+[Use move] The opposing Carbink (1) used Fairy Wind
+"The opposing Carbink woke up!"
+"The opposing Carbink used Fairy Wind!"
+[HP change] Wooper lost 17 HP (55 -> 38)
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Carbink lost 25 HP (49 -> 24)
+"A critical hit!"
+"It's super effective!"
+
+[End of round 8]
+[HP change] The opposing Carbink gained 3 HP (24 -> 27)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): -1
+     Threat Score for Wooper (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Wooper (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Hidden Power (1) against Wooper (0)...
+[AI] Move choices for Carbink (1):
+   *   0.0% to use Ancient Power (target 0): score 0
+   * 100.0% to use Fairy Wind (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fairy Wind (target 0)
+
+[Round order] The opposing Carbink (1), Wooper (0)
+
+[Use move] The opposing Carbink (1) used Fairy Wind
+"The opposing Carbink used Fairy Wind!"
+[HP change] Wooper lost 18 HP (38 -> 20)
+[HP change] Wooper gained 10 HP (20 -> 30)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Carbink lost 16 HP (27 -> 11)
+"It's super effective!"
+
+[End of round 9]
+[HP change] The opposing Carbink gained 3 HP (11 -> 14)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): -1
+     Threat Score for Wooper (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Wooper (0)...
+[AI] Carbink (1) is considering using Fairy Wind (1) against Wooper (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Wooper (0)...
+[AI] Move choices for Carbink (1):
+   *  33.3% to use Ancient Power (target 0): score 1
+   *  33.3% to use Fairy Wind (target 0): score 1
+   *  33.3% to use Hidden Power (target 0): score 1
+   => will use Fairy Wind (target 0)
+
+[Round order] The opposing Carbink (1), Wooper (0)
+
+[Use move] The opposing Carbink (1) used Fairy Wind
+"The opposing Carbink used Fairy Wind!"
+[HP change] Wooper lost 18 HP (30 -> 12)
+[Use move] Wooper (0) used Yawn
+"Wooper used Yawn!"
+"Wooper made the opposing Carbink drowsy!"
+
+[End of round 10]
+[HP change] The opposing Carbink gained 3 HP (14 -> 17)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+     [Switch AI] +3 Try to switch due to being yawned
+[AI] Switch out Score (-8) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): -1
+     Threat Score for Wooper (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Carbink (1) is considering using Fairy Wind (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Carbink (1) is considering using Hidden Power (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Move choices for Carbink (1):
+   *  33.3% to use Ancient Power (target 0): score 21
+   *  33.3% to use Fairy Wind (target 0): score 21
+   *  33.3% to use Hidden Power (target 0): score 21
+   => will use Fairy Wind (target 0)
+
+[Round order] The opposing Carbink (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"Just a little more! Hang in there, Munna!"
+"Munna was caught in a sticky web!"
+[Stat change] Munna's Speed changed by -1 (0 -> -1)
+"Munna's Speed fell!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Ancient Power!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Special Defense changed by +1 (0 -> 1)
+"Munna's Special Defense rose!"
+[Use move] The opposing Carbink (1) used Fairy Wind
+"The opposing Carbink used Fairy Wind!"
+[HP change] Munna lost 12 HP (38 -> 26)
+[HP change] Munna gained 10 HP (26 -> 36)
+"Munna restored a little HP using its Oran Berry!"
+[Item consumed] Munna consumed its held Oran Berry
+
+[End of round 11]
+[HP change] The opposing Carbink gained 3 HP (17 -> 20)
+"The opposing Carbink restored a little HP using its Leftovers!"
+[Lingering effect] The opposing Carbink fell asleep because of Yawn
+"The opposing Carbink fell asleep!"
+[Status change] The opposing Carbink's sleep count is 4
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Munna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Munna (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Munna (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Munna (0)
+
+"Munna, switch out! Come back!"
+"Just a little more! Hang in there, Capsakid!"
+"Capsakid was caught in a sticky web!"
+[Stat change] Capsakid's Speed changed by -1 (0 -> -1)
+"Capsakid's Speed fell!"
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink is fast asleep."
+[Status continues] The opposing Carbink's sleep count is 3
+
+[End of round 12]
+[HP change] The opposing Carbink gained 3 HP (20 -> 23)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): -1
+     Threat Score for Capsakid (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Capsakid (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Capsakid (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink is fast asleep."
+[Status continues] The opposing Carbink's sleep count is 2
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Carbink lost 14 HP (23 -> 9)
+"It's super effective!"
+"The opposing Carbink had its energy drained!"
+
+[End of round 13]
+[HP change] The opposing Carbink gained 3 HP (9 -> 12)
+"The opposing Carbink restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+Set up score for Carbink (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): -1
+     Threat Score for Capsakid (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carbink (1) is considering using Ancient Power (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carbink (1) is considering using Fairy Wind (1) against Capsakid (0)...
+[AI] Carbink (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carbink (1):
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carbink (1), Capsakid (0)
+
+[Use move] The opposing Carbink (1) used Ancient Power
+"The opposing Carbink is fast asleep."
+[Status continues] The opposing Carbink's sleep count is 1
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Carbink lost 12 HP (12 -> 0)
+"It's super effective!"
+"The opposing Carbink fainted!"
+"The opposing Carbink had its energy drained!"
+
+[End of round 14]
+Trick Room Turns: 0
+     [Amaura] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Amaura] - 3 because we have no kill
+     [Carkol] + 2 because we outspeed
+     [Carkol] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (46)
+"Youngster Darius sent out Carkol!"
+
+===== Round 15 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): -1
+     Threat Score for Capsakid (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Ancient Power (1) against Capsakid (0)...
+[AI] Carkol (1) is considering using Hidden Power (1) against Capsakid (0)...
+[AI] Move choices for Carkol (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Carkol (1), Capsakid (0)
+
+"Capsakid, come back!"
+"You're in charge, Carkol!"
+"Carkol was caught in a sticky web!"
+[Stat change] Carkol's Speed changed by -1 (0 -> -1)
+"Carkol's Speed fell!"
+[Use move] The opposing Carkol (1) used Incinerate
+"The opposing Carkol used Incinerate!"
+[Ability triggered] Carkol's Flash Fire
+"The power of Carkol's Fire-type moves rose!"
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+     move will not affect Carkol (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Carkol (0): -1
+     Threat Score for Carkol (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+     move will not affect Carkol (0)
+     -  1: move will fail
+[AI] Carkol (1) is considering using Ancient Power (1) against Carkol (0)...
+      + 20 for fast kill
+[AI] Carkol (1) is considering using Hidden Power (1) against Carkol (0)...
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Ancient Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Carkol (1), Carkol (0)
+
+[Use move] The opposing Carkol (1) used Ancient Power
+"The opposing Carkol used Ancient Power!"
+[HP change] Carkol lost 31 HP (31 -> 0)
+"It's super effective!"
+"Carkol fainted!"
+
+[End of round 16]
+Trick Room Turns: 0
+"You're in charge, Monferno!"
+"Monferno was caught in a sticky web!"
+[Stat change] Monferno's Speed changed by -1 (0 -> -1)
+"Monferno's Speed fell!"
+
+===== Round 17 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): -1
+     Threat Score for Monferno (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Monferno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Hidden Power (1) against Monferno (0)...
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Monferno (0), the opposing Carkol (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Carkol lost 19 HP (62 -> 43)
+"It's super effective!"
+[Use move] The opposing Carkol (1) used Ancient Power
+"The opposing Carkol used Ancient Power!"
+[HP change] Monferno lost 20 HP (56 -> 36)
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): -1
+     Threat Score for Monferno (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Monferno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Hidden Power (1) against Monferno (0)...
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Monferno (0), the opposing Carkol (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Carkol lost 20 HP (43 -> 23)
+"It's super effective!"
+[Use move] The opposing Carkol (1) used Ancient Power
+"The opposing Carkol used Ancient Power!"
+[HP change] Monferno lost 18 HP (36 -> 18)
+[HP change] Monferno gained 10 HP (18 -> 28)
+"Monferno restored a little HP using its Oran Berry!"
+[Item consumed] Monferno consumed its held Oran Berry
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): -1
+     Threat Score for Monferno (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+[AI] Carkol (1) is considering using Ancient Power (1) against Monferno (0)...
+     + 4 to prioritize highest damaging move
+[AI] Carkol (1) is considering using Hidden Power (1) against Monferno (0)...
+[AI] Move choices for Carkol (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Monferno (0), the opposing Carkol (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Carkol lost 20 HP (23 -> 3)
+"It's super effective!"
+[Ability triggered] The opposing Carkol's Flame Body
+"It doesn't affect Monferno..."
+[Use move] The opposing Carkol (1) used Ancient Power
+"The opposing Carkol used Ancient Power!"
+[HP change] Monferno lost 19 HP (28 -> 9)
+
+[End of round 19]
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Carkol (1): 0
+Set up score for Carkol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): -1
+     Threat Score for Monferno (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carkol (1) is considering using Incinerate (1)...
+      + 20 for fast kill
+[AI] Carkol (1) is considering using Ancient Power (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Carkol (1) is considering using Hidden Power (1) against Monferno (0)...
+[AI] Move choices for Carkol (1):
+   *  50.0% to use Incinerate: score 21
+   *  50.0% to use Ancient Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Ancient Power (target 0)
+
+[Round order] Monferno (0), the opposing Carkol (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Carkol lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Carkol fainted!"
+
+[End of round 20]
+Trick Room Turns: 0
+     [Amaura] - 12 because they have kill with their highest damaging move against the current battler
+     [Amaura] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (32)
+"Youngster Darius sent out Amaura!"
+
+===== Round 21 =====
+
+Set up score for Monferno (0): -1
+     Threat Score for Monferno (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Amaura (1) is considering using Mud Shot (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Amaura (1) is considering using Ancient Power (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Amaura (1) is considering using Shock Wave (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Move choices for Amaura (1):
+   *  25.0% to use Echoed Voice (target 0): score 21
+   *  25.0% to use Mud Shot (target 0): score 21
+   *  25.0% to use Ancient Power (target 0): score 21
+   *  25.0% to use Shock Wave (target 0): score 21
+   => will use Echoed Voice (target 0)
+
+[Round order] Monferno (0), the opposing Amaura (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Amaura lost 28 HP (58 -> 30)
+"It's super effective!"
+"The Chople Berry weakened the damage to the opposing Amaura!"
+[Item consumed] The opposing Amaura consumed its held Chople Berry
+[Use move] The opposing Amaura (1) used Echoed Voice
+"The opposing Amaura used Echoed Voice!"
+[HP change] Monferno lost 6 HP (9 -> 3)
+"It's not very effective..."
+
+[End of round 21]
+Trick Room Turns: 0
+
+===== Round 22 =====
+
+Set up score for Monferno (0): -1
+     Threat Score for Monferno (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Amaura (1) is considering using Echoed Voice (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Amaura (1) is considering using Mud Shot (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Amaura (1) is considering using Ancient Power (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Amaura (1) is considering using Shock Wave (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Move choices for Amaura (1):
+   *  25.0% to use Echoed Voice (target 0): score 21
+   *  25.0% to use Mud Shot (target 0): score 21
+   *  25.0% to use Ancient Power (target 0): score 21
+   *  25.0% to use Shock Wave (target 0): score 21
+   => will use Echoed Voice (target 0)
+
+[Round order] Monferno (0), the opposing Amaura (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Amaura lost 30 HP (30 -> 0)
+"It's super effective!"
+"The opposing Amaura fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Darius!"
+"Wow. You're great!"
+
+"You got $288 for winning!"
+Roles for NOSEPASS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for LILEEP: [:SPECIALBREAKER]
+Roles for ARCHEN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for RELICANTH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for ARCANINE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for CRANIDOS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Roark!"
+"Gym Leader Roark sent out Nosepass!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Nosepass lost 5 HP (44 -> 39)
+"A critical hit!"
+"It's not very effective..."
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Nosepass lost 39 HP (39 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Nosepass fainted!"
+"The opposing Nosepass had its energy drained!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Archen] - 12 because they have kill with their highest damaging move against the current battler
+     [Archen] + 4 because we have 2HKO
+     [Relicanth] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Relicanth] - 3 because we have no kill
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] - 3 because we have no kill
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Gym Leader Roark sent out Archen!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Archen (1): 0
+Set up score for Archen (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archen (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Archen (1) is considering using Pluck (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Archen (1) is considering using Bulldoze (1)...
+[AI] Archen (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+[AI] Move choices for Archen (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Hitmonchan (0), the opposing Archen (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Archen lost 44 HP (53 -> 9)
+[HP change] The opposing Archen gained 20 HP (9 -> 29)
+"The opposing Archen restored its health using its Berry Juice!"
+[Item consumed] The opposing Archen consumed its held Berry Juice
+"The opposing Archen had its energy drained!"
+[Use move] The opposing Archen (1) used Pluck
+"The opposing Archen used Pluck!"
+[HP change] Hitmonchan lost 46 HP (54 -> 8)
+"It's super effective!"
+"The opposing Archen stole and ate its target's Cheri Berry!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Archen (1): 0
+Set up score for Archen (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archen (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Archen (1) is considering using Pluck (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Archen (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Archen (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Move choices for Archen (1):
+   *  25.0% to use Rock Tomb (target 0): score 21
+   *  25.0% to use Pluck (target 0): score 21
+   *  25.0% to use Bulldoze: score 21
+   *  25.0% to use Quick Attack (target 0): score 21
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Archen (1), Hitmonchan (0)
+
+[Use move] The opposing Archen (1) used Quick Attack
+"The opposing Archen used Quick Attack!"
+[HP change] Hitmonchan lost 8 HP (8 -> 0)
+"Hitmonchan fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+Roles for NOSEPASS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for LILEEP: [:SPECIALBREAKER]
+Roles for ARCHEN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for RELICANTH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for ARCANINE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for CRANIDOS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Roark!"
+"Gym Leader Roark sent out Nosepass!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Nosepass lost 5 HP (44 -> 39)
+"A critical hit!"
+"It's not very effective..."
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Nosepass lost 39 HP (39 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Nosepass fainted!"
+"The opposing Nosepass had its energy drained!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Archen] - 12 because they have kill with their highest damaging move against the current battler
+     [Archen] + 4 because we have 2HKO
+     [Relicanth] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Relicanth] - 3 because we have no kill
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] - 3 because we have no kill
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Gym Leader Roark sent out Archen!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Archen (1): 0
+Set up score for Archen (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archen (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Archen (1) is considering using Pluck (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Archen (1) is considering using Bulldoze (1)...
+[AI] Archen (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+[AI] Move choices for Archen (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Hitmonchan (0), the opposing Archen (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Archen lost 46 HP (53 -> 7)
+[HP change] The opposing Archen gained 20 HP (7 -> 27)
+"The opposing Archen restored its health using its Berry Juice!"
+[Item consumed] The opposing Archen consumed its held Berry Juice
+"The opposing Archen had its energy drained!"
+[Use move] The opposing Archen (1) used Pluck
+"The opposing Archen used Pluck!"
+[HP change] Hitmonchan lost 44 HP (54 -> 10)
+"It's super effective!"
+"The opposing Archen stole and ate its target's Cheri Berry!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Archen (1): 0
+Set up score for Archen (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archen (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Archen (1) is considering using Pluck (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Archen (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Archen (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Move choices for Archen (1):
+   *  25.0% to use Rock Tomb (target 0): score 21
+   *  25.0% to use Pluck (target 0): score 21
+   *  25.0% to use Bulldoze: score 21
+   *  25.0% to use Quick Attack (target 0): score 21
+   => will use Pluck (target 0)
+
+[Round order] Hitmonchan (0), the opposing Archen (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Archen lost 27 HP (27 -> 0)
+"A critical hit!"
+"The opposing Archen fainted!"
+"The opposing Archen had its energy drained!"
+[HP change] Hitmonchan gained 14 HP (10 -> 24)
+
+[End of round 4]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] + 4 because we have 2HKO
+     [Relicanth] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Relicanth] + 4 because we have 2HKO
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] + 9 because we have kill
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (33)
+"Gym Leader Roark sent out Relicanth!"
+
+===== Round 5 =====
+
+Set up score for Relicanth (1): 0
+Set up score for Relicanth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Relicanth (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Water Pulse (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Bulldoze (1)...
+[AI] Relicanth (1) is considering using Headbutt (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Relicanth (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] Hitmonchan (0), the opposing Relicanth (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Relicanth lost 42 HP (72 -> 30)
+"It's super effective!"
+"The opposing Relicanth had its energy drained!"
+[HP change] Hitmonchan gained 21 HP (24 -> 45)
+[Use move] The opposing Relicanth (1) used Headbutt
+"The opposing Relicanth used Headbutt!"
+[HP change] Hitmonchan lost 17 HP (45 -> 28)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Relicanth (1): 0
+Set up score for Relicanth (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Relicanth (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Water Pulse (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Bulldoze (1)...
+[AI] Relicanth (1) is considering using Headbutt (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Relicanth (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] Hitmonchan (0), the opposing Relicanth (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Relicanth lost 30 HP (30 -> 0)
+"It's super effective!"
+"The opposing Relicanth fainted!"
+"The opposing Relicanth had its energy drained!"
+[HP change] Hitmonchan gained 15 HP (28 -> 43)
+
+[End of round 6]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] + 4 because we have 2HKO
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Gym Leader Roark sent out Arcanine!"
+[Ability triggered] The opposing Arcanine's Intimidate
+[Stat change] Hitmonchan's Attack changed by -1 (0 -> -1)
+"Hitmonchan's Attack fell!"
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Bite (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Hitmonchan (0)...
+[AI] Move choices for Arcanine (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Arcanine (1), Hitmonchan (0)
+
+"Hitmonchan, that's enough! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Arcanine (1) used Flame Wheel
+"The opposing Arcanine used Flame Wheel!"
+[HP change] Wooper lost 16 HP (55 -> 39)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Wooper (0)
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arcanine (1), Wooper (0)
+
+[Use move] The opposing Arcanine (1) used Bite
+"The opposing Arcanine used Bite!"
+[HP change] Wooper lost 22 HP (39 -> 17)
+[HP change] Wooper gained 10 HP (17 -> 27)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Bulldoze
+"Wooper flinched and couldn't move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Wooper (0)
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arcanine (1), Wooper (0)
+
+[Use move] The opposing Arcanine (1) used Bite
+"The opposing Arcanine used Bite!"
+[HP change] Wooper lost 21 HP (27 -> 6)
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Arcanine lost 48 HP (67 -> 19)
+"It's super effective!"
+[Stat change] The opposing Arcanine's Speed changed by -1 (0 -> -1)
+"The opposing Arcanine's Speed fell!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Wooper (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Arcanine (1) is considering using Bite (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Wooper (0)...
+      + 20 for fast kill
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Arcanine (1):
+   *  33.3% to use Flame Wheel (target 0): score 21
+   *  33.3% to use Bite (target 0): score 21
+   *  33.3% to use Rock Tomb (target 0): score 21
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Arcanine (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"Just a little more! Hang in there, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Arcanine (1) used Rock Tomb
+"The opposing Arcanine used Rock Tomb!"
+[HP change] Hitmonchan lost 10 HP (43 -> 33)
+"It's not very effective..."
+[Stat change] Hitmonchan's Speed changed by -1 (0 -> -1)
+"Hitmonchan's Speed fell!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Bite (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Hitmonchan (0)...
+[AI] Move choices for Arcanine (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Arcanine (1), Hitmonchan (0)
+
+[Use move] The opposing Arcanine (1) used Flame Wheel
+"The opposing Arcanine used Flame Wheel!"
+[HP change] Hitmonchan lost 24 HP (33 -> 9)
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Arcanine lost 19 HP (19 -> 0)
+"It's super effective!"
+"The opposing Arcanine fainted!"
+"The opposing Arcanine had its energy drained!"
+[HP change] Hitmonchan gained 10 HP (9 -> 19)
+
+[End of round 11]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] + 4 because we have 2HKO
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (32)
+"Gym Leader Roark sent out Cranidos!"
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cranidos (1): 0
+Set up score for Cranidos (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cranidos (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Cranidos (1) is considering using Headbutt (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Fire Punch (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Move choices for Cranidos (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  33.3% to use Headbutt (target 0): score 21
+   *  33.3% to use Bulldoze: score 21
+   *  33.3% to use Fire Punch (target 0): score 21
+   => will use Fire Punch (target 0)
+
+[Round order] The opposing Cranidos (1), Hitmonchan (0)
+
+"OK, Hitmonchan! Come back!"
+"You're in charge, Munna!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Fire Punch!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Defense changed by +1 (0 -> 1)
+"Munna's Defense rose!"
+[Use move] The opposing Cranidos (1) used Fire Punch
+"The opposing Cranidos used Fire Punch!"
+[HP change] Munna lost 25 HP (59 -> 34)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Cranidos (1): 0
+Set up score for Cranidos (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cranidos (1) is considering using Rock Tomb (1) against Munna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cranidos (1) is considering using Headbutt (1) against Munna (0)...
+[AI] Cranidos (1) is considering using Bulldoze (1)...
+[AI] Cranidos (1) is considering using Fire Punch (1) against Munna (0)...
+[AI] Move choices for Cranidos (1):
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Cranidos (1), Munna (0)
+
+[Use move] The opposing Cranidos (1) used Rock Tomb
+"The opposing Cranidos used Rock Tomb!"
+[HP change] Munna lost 30 HP (34 -> 4)
+[HP change] Munna gained 10 HP (4 -> 14)
+"Munna restored a little HP using its Oran Berry!"
+[Item consumed] Munna consumed its held Oran Berry
+[Use move] Munna (0) used Hypnosis
+"Munna used Hypnosis!"
+"The opposing Cranidos fell asleep!"
+[Status change] The opposing Cranidos's sleep count is 3
+[Status change] The opposing Cranidos's status was cured
+"The opposing Cranidos's Lum Berry woke it up!"
+[Item consumed] The opposing Cranidos consumed its held Lum Berry
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cranidos (1): 0
+Set up score for Cranidos (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cranidos (1) is considering using Rock Tomb (1) against Munna (0)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Headbutt (1) against Munna (0)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Fire Punch (1) against Munna (0)...
+      + 20 for fast kill
+[AI] Move choices for Cranidos (1):
+   *  25.0% to use Rock Tomb (target 0): score 21
+   *  25.0% to use Headbutt (target 0): score 21
+   *  25.0% to use Bulldoze: score 21
+   *  25.0% to use Fire Punch (target 0): score 21
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Cranidos (1), Munna (0)
+
+"Good job, Munna! Come back!"
+"You're in charge, Monferno!"
+[Use move] The opposing Cranidos (1) used Rock Tomb
+"The opposing Cranidos used Rock Tomb!"
+[HP change] Monferno lost 38 HP (56 -> 18)
+[HP change] Monferno gained 10 HP (18 -> 28)
+"Monferno restored a little HP using its Oran Berry!"
+[Item consumed] Monferno consumed its held Oran Berry
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cranidos (1): 0
+Set up score for Cranidos (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Monferno (0): 0
+     Threat Score for Monferno (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cranidos (1) is considering using Rock Tomb (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Headbutt (1) against Monferno (0)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Fire Punch (1) against Monferno (0)...
+[AI] Move choices for Cranidos (1):
+   *  33.3% to use Rock Tomb (target 0): score 21
+   *  33.3% to use Headbutt (target 0): score 21
+   *  33.3% to use Bulldoze: score 21
+   *   0.0% to use Fire Punch (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Monferno (0), the opposing Cranidos (1)
+
+[Use move] Monferno (0) used Mach Punch
+"Monferno used Mach Punch!"
+[HP change] The opposing Cranidos lost 29 HP (60 -> 31)
+"It's super effective!"
+[Use move] The opposing Cranidos (1) used Headbutt
+"The opposing Cranidos used Headbutt!"
+[HP change] Monferno lost 28 HP (28 -> 0)
+"Monferno fainted!"
+
+[End of round 15]
+Trick Room Turns: 0
+"Go for it, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 16 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cranidos (1): 0
+Set up score for Cranidos (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cranidos (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Cranidos (1) is considering using Headbutt (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Cranidos (1) is considering using Fire Punch (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Move choices for Cranidos (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *  33.3% to use Headbutt (target 0): score 21
+   *  33.3% to use Bulldoze: score 21
+   *  33.3% to use Fire Punch (target 0): score 21
+   => will use Bulldoze
+
+[Round order] Hitmonchan (0), the opposing Cranidos (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Cranidos lost 31 HP (31 -> 0)
+"It's super effective!"
+"The opposing Cranidos fainted!"
+"The opposing Cranidos had its energy drained!"
+[HP change] Hitmonchan gained 16 HP (19 -> 35)
+
+[End of round 16]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (20)
+"Gym Leader Roark sent out Lileep!"
+
+===== Round 17 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lileep (1) is considering using Mega Drain (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lileep (1) is considering using Ancient Power (1) against Hitmonchan (0)...
+[AI] Lileep (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+[AI] Move choices for Lileep (1):
+   * 100.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Hitmonchan (0), the opposing Lileep (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Lileep lost 57 HP (57 -> 0)
+"It's super effective!"
+"The opposing Lileep fainted!"
+"The opposing Lileep had its energy drained!"
+[HP change] Hitmonchan gained 19 HP (35 -> 54)
+
+===== Player won =====
+
+"You defeated Gym Leader Roark!"
+"Wow. You're great!"
+
+"You got $1,900 for winning!"
+Roles for NOSEPASS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for LILEEP: [:SPECIALBREAKER]
+Roles for ARCHEN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for RELICANTH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for ARCANINE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for CRANIDOS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Roark!"
+"Gym Leader Roark sent out Nosepass!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Focus Energy
+"Hitmonchan used Focus Energy!"
+"But it failed!"
+[Move failed] In function code RaiseUserCriticalHitRate2's def pbMoveFailed?
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass used Spark!"
+Roles for NOSEPASS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for LILEEP: [:SPECIALBREAKER]
+Roles for ARCHEN: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for RELICANTH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for ARCANINE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for CRANIDOS: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Roark!"
+"Gym Leader Roark sent out Nosepass!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Nosepass lost 5 HP (44 -> 39)
+"A critical hit!"
+"It's not very effective..."
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] Hitmonchan (0), the opposing Nosepass (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Nosepass lost 36 HP (39 -> 3)
+"It's super effective!"
+"The opposing Nosepass had its energy drained!"
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass used Spark!"
+[HP change] Hitmonchan lost 14 HP (54 -> 40)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Nosepass (1): 0
+Set up score for Nosepass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nosepass (1) is considering using Thunder Wave (4) against Hitmonchan (0)...
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 1 for being a Speed Control Role
+     - 1 because this will be pointless
+[AI] Nosepass (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Nosepass (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Nosepass (1) is considering using Bulldoze (1)...
+[AI] Move choices for Nosepass (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Nosepass (1), Hitmonchan (0)
+
+"The opposing Nosepass's Custap Berry let it move first!"
+[Item consumed] The opposing Nosepass consumed its held Custap Berry
+[Use move] The opposing Nosepass (1) used Spark
+"The opposing Nosepass used Spark!"
+[HP change] Hitmonchan lost 14 HP (40 -> 26)
+"Hitmonchan is paralyzed! It may be unable to move!"
+[Status change] Hitmonchan's status was cured
+"Hitmonchan's Cheri Berry cured its paralysis!"
+[Item consumed] Hitmonchan consumed its held Cheri Berry
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Nosepass lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Nosepass fainted!"
+"The opposing Nosepass had its energy drained!"
+[HP change] Hitmonchan gained 2 HP (26 -> 28)
+
+[End of round 3]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Archen] - 12 because they have kill with their highest damaging move against the current battler
+     [Archen] + 9 because we have kill
+     [Relicanth] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Relicanth] + 4 because we have 2HKO
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] + 4 because we have 2HKO
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (33)
+"Gym Leader Roark sent out Relicanth!"
+
+===== Round 4 =====
+
+Set up score for Relicanth (1): 0
+Set up score for Relicanth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Relicanth (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Water Pulse (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Bulldoze (1)...
+[AI] Relicanth (1) is considering using Headbutt (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Relicanth (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] Hitmonchan (0), the opposing Relicanth (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Relicanth lost 61 HP (72 -> 11)
+"A critical hit!"
+"It's super effective!"
+"The opposing Relicanth had its energy drained!"
+[HP change] Hitmonchan gained 26 HP (28 -> 54)
+[Use move] The opposing Relicanth (1) used Headbutt
+"The opposing Relicanth used Headbutt!"
+[HP change] Hitmonchan lost 17 HP (54 -> 37)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Relicanth (1): 0
+Set up score for Relicanth (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Relicanth (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Water Pulse (1) against Hitmonchan (0)...
+[AI] Relicanth (1) is considering using Bulldoze (1)...
+[AI] Relicanth (1) is considering using Headbutt (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Relicanth (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] Hitmonchan (0), the opposing Relicanth (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Relicanth lost 11 HP (11 -> 0)
+"It's super effective!"
+"The opposing Relicanth fainted!"
+"The opposing Relicanth had its energy drained!"
+[HP change] Hitmonchan gained 6 HP (37 -> 43)
+
+[End of round 5]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Archen] - 12 because they have kill with their highest damaging move against the current battler
+     [Archen] + 9 because we have kill
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] + 4 because we have 2HKO
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (32)
+"Gym Leader Roark sent out Archen!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Archen (1): 0
+Set up score for Archen (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archen (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Archen (1) is considering using Pluck (1) against Hitmonchan (0)...
+      + 17 for slow kill
+[AI] Archen (1) is considering using Bulldoze (1)...
+[AI] Archen (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+[AI] Move choices for Archen (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Pluck (target 0): score 18
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Hitmonchan (0), the opposing Archen (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Archen lost 53 HP (53 -> 0)
+"A critical hit!"
+"The opposing Archen fainted!"
+"The opposing Archen had its energy drained!"
+[HP change] Hitmonchan gained 11 HP (43 -> 54)
+
+[End of round 6]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] - 3 because we have no kill
+     [Cranidos] - 12 because they have kill with their highest damaging move against the current battler
+     [Cranidos] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Gym Leader Roark sent out Cranidos!"
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Cranidos (1): 0
+Set up score for Cranidos (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cranidos (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Cranidos (1) is considering using Headbutt (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cranidos (1) is considering using Bulldoze (1)...
+[AI] Cranidos (1) is considering using Fire Punch (1) against Hitmonchan (0)...
+[AI] Move choices for Cranidos (1):
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Hitmonchan (0), the opposing Cranidos (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Cranidos lost 60 HP (60 -> 0)
+"It's super effective!"
+"The opposing Cranidos fainted!"
+"The opposing Cranidos had its energy drained!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+     [Arcanine] - 12 because they have kill with their highest damaging move against the current battler
+     [Arcanine] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (20)
+"Gym Leader Roark sent out Arcanine!"
+[Ability triggered] The opposing Arcanine's Intimidate
+[Stat change] Hitmonchan's Attack changed by -1 (0 -> -1)
+"Hitmonchan's Attack fell!"
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Bite (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Hitmonchan (0)...
+[AI] Move choices for Arcanine (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Arcanine (1), Hitmonchan (0)
+
+"Hitmonchan, that's enough! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Arcanine (1) used Flame Wheel
+"The opposing Arcanine used Flame Wheel!"
+[HP change] Wooper lost 18 HP (55 -> 37)
+"It's not very effective..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Wooper (0)
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arcanine (1), Wooper (0)
+
+[Use move] The opposing Arcanine (1) used Bite
+"The opposing Arcanine used Bite!"
+[HP change] Wooper lost 22 HP (37 -> 15)
+[HP change] Wooper gained 10 HP (15 -> 25)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Arcanine lost 49 HP (67 -> 18)
+"It's super effective!"
+[Stat change] The opposing Arcanine's Speed changed by -1 (0 -> -1)
+"The opposing Arcanine's Speed fell!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Wooper (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Bite (1) against Wooper (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Wooper (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arcanine (1), Wooper (0)
+
+"OK, Wooper! Come back!"
+"Just a little more! Hang in there, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Arcanine (1) used Bite
+"The opposing Arcanine used Bite!"
+[HP change] Hitmonchan lost 7 HP (54 -> 47)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+Set up score for Arcanine (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flame Wheel (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Bite (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Rock Tomb (1) against Hitmonchan (0)...
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Hitmonchan (0)...
+[AI] Move choices for Arcanine (1):
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] Hitmonchan (0), the opposing Arcanine (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Arcanine lost 18 HP (18 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Arcanine fainted!"
+"The opposing Arcanine had its energy drained!"
+[HP change] Hitmonchan gained 7 HP (47 -> 54)
+
+[End of round 11]
+Trick Room Turns: 0
+     [Lileep] - 12 because they have kill with their highest damaging move against the current battler
+     [Lileep] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (20)
+"Gym Leader Roark sent out Lileep!"
+
+===== Round 12 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lileep (1) is considering using Mega Drain (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lileep (1) is considering using Ancient Power (1) against Hitmonchan (0)...
+[AI] Lileep (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+[AI] Move choices for Lileep (1):
+   * 100.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Hitmonchan (0), the opposing Lileep (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Lileep lost 57 HP (57 -> 0)
+"It's super effective!"
+"The opposing Lileep fainted!"
+"The opposing Lileep had its energy drained!"
+
+===== Player won =====
+
+"You defeated Gym Leader Roark!"
+"Wow. You're great!"
+
+"You got $1,900 for winning!"
+Roles for CLEFAIRY: [:SPEEDCONTROL, :SUPPORT]
+Roles for SWINUB: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PRINPLUP: [:SPECIALBREAKER, :SPEEDCONTROL, :SETUPSWEEPER]
+Roles for CROAGUNK: [:PHYSICALBREAKER]
+Roles for EELEKTRIK: [:SPECIALBREAKER]
+Roles for STUNKY: [:SPECIALBREAKER]
+Roles for KROKOROK: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (2 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Croagunk!
+Team Galactic Grunt sent out Stunky!"
+"Rival Dawn sent out Clefairy!
+Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Stunky (3), the opposing Croagunk (1), the ally Clefairy (2)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Croagunk (1) is considering using Fake Out (1) against Hitmonchan (0)...
+     + 18 for using turn 1
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Fake Out (1) against Clefairy (2)...
+     + 18 for using turn 1
+     + -1 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Septic Shot (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Septic Shot (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Karate Chop (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Karate Chop (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Croagunk (1) is considering using Feint Attack (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Croagunk (1) is considering using Feint Attack (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Croagunk (1):
+   * 100.0% to use Fake Out (target 0): score 24
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Septic Shot (target 2): score 0
+   *   0.0% to use Karate Chop (target 0): score 0
+   *   0.0% to use Karate Chop (target 2): score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Feint Attack (target 2): score 0
+   => will use Fake Out (target 0)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Croagunk (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Hitmonchan (0)...
+     + 9 to give the boost ally needs to kill the target
+     - 12 because this will be pointless
+     + 4 to factor in threat scoring.
+     - 4 because we see kill or target sees 2HKO
+     + 9 to give the boost ally needs to kill the target
+     - 9 because this will be pointless
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *  50.0% to use Draining Kiss (target 1): score 5
+   *  50.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 1)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 5 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     - 3 because this will be pointless
+     + 5 to factor in threat scoring.
+     - 5 because we see kill or target sees 2HKO
+     - 3 because this will be pointless
+     + -1 to factor in threat scoring.
+     - -1 because we see kill or target sees 2HKO
+     +  2: affects multiple battlers
+     - 2 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunky (3) is considering using Sludge (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   * 100.0% to use Sludge (target 0): score 10
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Sludge (target 0)
+
+[Round order] Hitmonchan (0), the opposing Croagunk (1), the opposing Stunky (3), the ally Clefairy (2)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Croagunk lost 37 HP (53 -> 16)
+"A critical hit!"
+[Use move] The opposing Croagunk (1) used Fake Out
+"The opposing Croagunk flinched and couldn't move!"
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] Hitmonchan lost 6 HP (65 -> 59)
+"Hitmonchan was poisoned!"
+[Use move] The ally Clefairy (2) used Draining Kiss
+"The ally Clefairy used Draining Kiss!"
+[HP change] The opposing Croagunk lost 16 HP (16 -> 0)
+"The opposing Croagunk fainted!"
+"The opposing Croagunk had its energy drained!"
+"Hitmonchan got 1 Exp. Points!"
+
+[End of round 1]
+[HP change] Hitmonchan lost 8 HP (59 -> 51)
+"Hitmonchan was hurt by poison!"
+Trick Room Turns: 0
+     [Eelektrik] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Eelektrik] + 2 because we outspeed
+     [Eelektrik] - 3 because we have no kill
+[AI] Highest move score (24) vs Switch In Score (28)
+"Team Galactic Grunt sent out Eelektrik!"
+
+===== Round 2 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Hitmonchan (0)...
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Shock Wave (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Hitmonchan (0)...
+     + 3 to factor in threat scoring.
+[AI] Eelektrik (1) is considering using Acid Spray (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Hitmonchan (0)...
+     + 3 to factor in threat scoring.
+[AI] Eelektrik (1) is considering using Flame Burst (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Hitmonchan (0)...
+     + 3 to factor in threat scoring.
+[AI] Eelektrik (1) is considering using Giga Drain (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Eelektrik (1):
+   * 100.0% to use Shock Wave (target 0): score 8
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Acid Spray (target 0): score 0
+   *   0.0% to use Acid Spray (target 2): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Giga Drain (target 2): score 0
+   => will use Shock Wave (target 0)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+     + 0 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Eelektrik (1)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Hitmonchan (0)...
+     + 9 to give the boost ally needs to kill the target
+     - 12 because this will be pointless
+     + 4 to factor in threat scoring.
+     - 4 because we see kill or target sees 2HKO
+     + 9 to give the boost ally needs to kill the target
+     - 9 because this will be pointless
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   *  50.0% to use Draining Kiss (target 1): score 5
+   *  50.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 1)
+
+     move will not affect Hitmonchan (0)
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 5 to factor in threat scoring.
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Hitmonchan (0)
+     - 3 because this will be pointless
+     + -1 to factor in threat scoring.
+     - -1 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunky (3) is considering using Sludge (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   * 100.0% to use Sludge (target 0): score 10
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Sludge (target 0)
+
+[Round order] Hitmonchan (0), the opposing Stunky (3), the opposing Eelektrik (1), the ally Clefairy (2)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Eelektrik lost 62 HP (62 -> 0)
+"A critical hit!"
+"The opposing Eelektrik fainted!"
+"The opposing Eelektrik had its energy drained!"
+[HP change] Hitmonchan gained 14 HP (51 -> 65)
+[Use move] The opposing Stunky (3) used Sludge
+"The opposing Stunky used Sludge!"
+[HP change] Hitmonchan lost 6 HP (65 -> 59)
+[Use move] The ally Clefairy (2) used Draining Kiss
+"The ally Clefairy used Draining Kiss!"
+[HP change] The opposing Stunky lost 20 HP (58 -> 38)
+"The opposing Stunky had its energy drained!"
+
+[End of round 2]
+[HP change] Hitmonchan lost 8 HP (59 -> 51)
+"Hitmonchan was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+[Command phase] The opposing Eelektrik (1) is forced to use a multi-turn move
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Stunky (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Hitmonchan (0)...
+     + 9 to give the boost ally needs to kill the target
+     - 12 because this will be pointless
+     + 4 to factor in threat scoring.
+     - 4 because we see kill or target sees 2HKO
+     + 9 to give the boost ally needs to kill the target
+     - 9 because this will be pointless
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 3)
+
+     move will not affect Hitmonchan (0)
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunky (3) is considering using Snarl (1)...
+     + 5 to factor in threat scoring.
+     + 2 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Stunky (3) is considering using Poison Gas (4)...
+     move will not affect Hitmonchan (0)
+     - 3 because this will be pointless
+     + 2 to factor in threat scoring.
+     - 2 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Stunky (3) is considering using Flame Burst (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Stunky (3) is considering using Flame Burst (1) against Clefairy (2)...
+     + 2 to factor in threat scoring.
+[AI] Stunky (3) is considering using Sludge (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Stunky (3) is considering using Sludge (1) against Clefairy (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunky (3):
+   *  37.5% to use Snarl: score 6
+   *   0.0% to use Poison Gas: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Flame Burst (target 2): score 0
+   *  62.5% to use Sludge (target 0): score 10
+   *   0.0% to use Sludge (target 2): score 0
+   => will use Snarl
+
+[Round order] Hitmonchan (0), the opposing Stunky (3), the ally Clefairy (2), the opposing Eelektrik (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Stunky lost 38 HP (38 -> 0)
+[Ability triggered] The opposing Stunky's Aftermath
+[HP change] Hitmonchan lost 16 HP (51 -> 35)
+"Hitmonchan was caught in the aftermath!"
+"The opposing Stunky fainted!"
+"The opposing Stunky had its energy drained!"
+[HP change] Hitmonchan gained 19 HP (35 -> 54)
+[Use move] The ally Clefairy (2) used Draining Kiss
+"The ally Clefairy used Draining Kiss!"
+"But there was no target..."
+
+[End of round 3]
+[HP change] Hitmonchan lost 8 HP (54 -> 46)
+"Hitmonchan was hurt by poison!"
+Trick Room Turns: 0
+     move will not affect Hitmonchan (0)
+     [Krokorok] - 12 because they have kill with their highest damaging move against the current battler
+     [Krokorok] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Krokorok] - 3 because we have no kill
+[AI] Highest move score (10) vs Switch In Score (14)
+"Team Galactic Grunt sent out Krokorok!"
+[Ability triggered] The opposing Krokorok's Intimidate
+[Stat change] Hitmonchan's Attack changed by -1 (0 -> -1)
+"Hitmonchan's Attack fell!"
+[Stat change] The ally Clefairy's Attack changed by -1 (0 -> -1)
+"The ally Clefairy's Attack fell!"
+
+===== Round 4 =====
+
+[Command phase] The opposing Eelektrik (1) is forced to use a multi-turn move
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (2) is considering using Icy Wind (1)...
+     + 0 to factor in threat scoring.
+[AI] Clefairy (2) is considering using Draining Kiss (1) against Krokorok (3)...
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Clefairy (2) is considering using Helping Hand (4) against Hitmonchan (0)...
+     + 9 to give the boost ally needs to kill the target
+     - 12 because this will be pointless
+     + 3 to factor in threat scoring.
+     - 3 because we see kill or target sees 2HKO
+     + 9 to give the boost ally needs to kill the target
+     - 9 because this will be pointless
+[AI] Move choices for Clefairy (2):
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Draining Kiss (target 3): score 5
+   *   0.0% to use Helping Hand (target 0): score 0
+   => will use Draining Kiss (target 3)
+
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Clefairy (2): 0
+     Threat Score for Clefairy (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Krokorok (3) is considering using Stomping Tantrum (1) against Hitmonchan (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Krokorok (3) is considering using Stomping Tantrum (1) against Clefairy (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Krokorok (3) is considering using Bite (1) against Hitmonchan (0)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Bite (1) against Clefairy (2)...
+     + 2 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Rock Tomb (1) against Hitmonchan (0)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Rock Tomb (1) against Clefairy (2)...
+     + 2 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Fire Fang (1) against Hitmonchan (0)...
+     + 4 to factor in threat scoring.
+[AI] Krokorok (3) is considering using Fire Fang (1) against Clefairy (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Krokorok (3):
+   * 100.0% to use Stomping Tantrum (target 0): score 9
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Bite (target 2): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 2): score 0
+   *   0.0% to use Fire Fang (target 0): score 0
+   *   0.0% to use Fire Fang (target 2): score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Hitmonchan (0), the opposing Krokorok (3), the ally Clefairy (2), the opposing Eelektrik (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Krokorok lost 60 HP (60 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Krokorok fainted!"
+"The opposing Krokorok had its energy drained!"
+[HP change] Hitmonchan gained 19 HP (46 -> 65)
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt and Team Galactic Grunt!"
+"Ugh."
+"Ugh."
+
+"You got $1,280 for winning!"
+Roles for SKIPLOOM: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for LOMBRE: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for VOLTORB: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Taylor!"
+"Aroma Lady Taylor sent out Skiploom!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Skiploom (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Skiploom (1): 0
+Set up score for Skiploom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Skiploom (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+[AI] Skiploom (1) is considering using Bullet Seed (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skiploom (1) is considering using U-turn (1) against Hitmonchan (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Skiploom (1):
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Bullet Seed (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Hitmonchan (0), the opposing Skiploom (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Skiploom lost 29 HP (58 -> 29)
+"A critical hit!"
+[Use move] The opposing Skiploom (1) used Bullet Seed
+"The opposing Skiploom flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Skiploom (1): 0
+Set up score for Skiploom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skiploom (1) is considering using Quick Attack (1) against Hitmonchan (0)...
+[AI] Skiploom (1) is considering using Bullet Seed (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skiploom (1) is considering using U-turn (1) against Hitmonchan (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Skiploom (1):
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Bullet Seed (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] The opposing Skiploom (1), Hitmonchan (0)
+
+[Use move] The opposing Skiploom (1) used Bullet Seed
+"The opposing Skiploom used Bullet Seed!"
+"The Grass Gem strengthened Bullet Seed's power!"
+[HP change] Hitmonchan lost 9 HP (65 -> 56)
+[HP change] Hitmonchan lost 9 HP (56 -> 47)
+[HP change] Hitmonchan lost 8 HP (47 -> 39)
+"Hit 3 times!"
+[Item consumed] The opposing Skiploom consumed its held Grass Gem
+[Use move] Hitmonchan (0) used Ice Punch
+"Hitmonchan used Ice Punch!"
+[HP change] The opposing Skiploom lost 29 HP (29 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Skiploom fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Lombre] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Lombre] - 3 because we have no kill
+     [Voltorb] - 12 because they have kill with their highest damaging move against the current battler
+     [Voltorb] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Aroma Lady Taylor sent out Voltorb!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Voltorb (1): 0
+Set up score for Voltorb (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Hitmonchan (0)...
+[AI] Voltorb (1) is considering using Mega Drain (1) against Hitmonchan (0)...
+[AI] Voltorb (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+[AI] Voltorb (1) is considering using Self-Destruct (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Voltorb (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Self-Destruct: score 5
+   => will use Self-Destruct
+
+[Round order] The opposing Voltorb (1), Hitmonchan (0)
+
+[Use move] The opposing Voltorb (1) used Self-Destruct
+"The opposing Voltorb used Self-Destruct!"
+[HP change] Hitmonchan lost 17 HP (39 -> 22)
+[HP change] The opposing Voltorb lost 52 HP (52 -> 0)
+"The opposing Voltorb fainted!"
+[HP change] Hitmonchan gained 10 HP (22 -> 32)
+"Hitmonchan restored a little HP using its Oran Berry!"
+[Item consumed] Hitmonchan consumed its held Oran Berry
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+"But there was no target..."
+
+[End of round 3]
+Trick Room Turns: 0
+     [Lombre] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Lombre] - 3 because we have no kill
+[AI] Highest move score (1) vs Switch In Score (26)
+"Aroma Lady Taylor sent out Lombre!"
+
+===== Round 4 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lombre (1) is considering using Fake Out (1) against Hitmonchan (0)...
+     + 18 for using turn 1
+[AI] Lombre (1) is considering using Mega Drain (1) against Hitmonchan (0)...
+[AI] Lombre (1) is considering using Bubble Beam (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lombre (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lombre (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Lombre (1), Hitmonchan (0)
+
+[Use move] The opposing Lombre (1) used Fake Out
+"The opposing Lombre used Fake Out!"
+[HP change] Hitmonchan lost 6 HP (32 -> 26)
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan flinched and couldn't move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lombre (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Lombre (1) is considering using Mega Drain (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lombre (1) is considering using Bubble Beam (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lombre (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lombre (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Mega Drain (target 0): score 5
+   *  50.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Hitmonchan (0), the opposing Lombre (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Lombre lost 50 HP (60 -> 10)
+"The opposing Lombre had its energy drained!"
+[HP change] Hitmonchan gained 25 HP (26 -> 51)
+[Use move] The opposing Lombre (1) used Mega Drain
+"The opposing Lombre used Mega Drain!"
+[HP change] Hitmonchan lost 12 HP (51 -> 39)
+"Hitmonchan had its energy drained!"
+[HP change] The opposing Lombre gained 6 HP (10 -> 16)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lombre (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Lombre (1) is considering using Mega Drain (1) against Hitmonchan (0)...
+[AI] Lombre (1) is considering using Bubble Beam (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Lombre (1) is considering using Icy Wind (1)...
+[AI] Move choices for Lombre (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Mega Drain (target 0): score 0
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Hitmonchan (0), the opposing Lombre (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Lombre lost 16 HP (16 -> 0)
+"A critical hit!"
+"The opposing Lombre fainted!"
+"The opposing Lombre had its energy drained!"
+[HP change] Hitmonchan gained 8 HP (39 -> 47)
+
+===== Player won =====
+
+"You defeated Aroma Lady Taylor!"
+"Wow. You're great!"
+
+"You got $640 for winning!"
+Roles for WORMADAM: [:SPECIALBREAKER]
+Roles for JOLTIK: [:SPECIALBREAKER]
+Roles for SIZZLIPEDE: [:PHYSICALBREAKER]
+Roles for SCYTHER: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Brandon!"
+"Bug Catcher Brandon sent out Wormadam!"
+"Go! Litleo!"
+[Round order] Litleo (0), the opposing Wormadam (1)
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+     [Switch AI] +5 Party member [Sizzlipede] is immune to strongest move against Wormadam (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     [Joltik] - 12 because they have kill with their highest damaging move against the current battler
+     [Joltik] - 3 because we have no kill
+     [Sizzlipede] + 3 because we absorb their highest damaging move against the current battler
+     [Sizzlipede] - 3 because we have no kill
+     [Scyther] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scyther] - 3 because we have no kill
+[AI] Highest move score (5) vs Switch In Score (35)
+   => will switch with Sizzlipede
+
+[Round order] Litleo (0), the opposing Wormadam (1)
+
+"Bug Catcher Brandon withdrew Wormadam!"
+"Bug Catcher Brandon sent out Sizzlipede!"
+[Use move] Litleo (0) used Incinerate
+"Litleo used Incinerate!"
+[Ability triggered] The opposing Sizzlipede's Flash Fire
+"The power of the opposing Sizzlipede's Fire-type moves rose!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Litleo (0)
+Set up score for Sizzlipede (1): 0
+Set up score for Sizzlipede (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Sizzlipede (1) is considering using Flame Wheel (1) against Litleo (0)...
+[AI] Sizzlipede (1) is considering using Bite (1) against Litleo (0)...
+[AI] Sizzlipede (1) is considering using Leech Life (1) against Litleo (0)...
+[AI] Sizzlipede (1) is considering using Will-O-Wisp (4) against Litleo (0)...
+     move will not affect Litleo (0)
+     -  4: move will fail
+[AI] Move choices for Sizzlipede (1):
+   *  33.3% to use Flame Wheel (target 0): score 1
+   *  33.3% to use Bite (target 0): score 1
+   *  33.3% to use Leech Life (target 0): score 1
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Litleo (0), the opposing Sizzlipede (1)
+
+"Litleo, come back!"
+"You're in charge, Graveler!"
+[Use move] The opposing Sizzlipede (1) used Bite
+"The opposing Sizzlipede used Bite!"
+[HP change] Graveler lost 8 HP (69 -> 61)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sizzlipede (1): 0
+Set up score for Sizzlipede (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sizzlipede (1) is considering using Flame Wheel (1) against Graveler (0)...
+[AI] Sizzlipede (1) is considering using Bite (1) against Graveler (0)...
+[AI] Sizzlipede (1) is considering using Leech Life (1) against Graveler (0)...
+     + 4 to prioritize highest damaging move
+[AI] Sizzlipede (1) is considering using Will-O-Wisp (4) against Graveler (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Sizzlipede (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Leech Life (target 0): score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Leech Life (target 0)
+
+[Round order] The opposing Sizzlipede (1), Graveler (0)
+
+[Use move] The opposing Sizzlipede (1) used Leech Life
+"The opposing Sizzlipede used Leech Life!"
+[HP change] Graveler lost 18 HP (61 -> 43)
+"Graveler had its energy drained!"
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Sizzlipede lost 56 HP (56 -> 0)
+"It's super effective!"
+"The opposing Sizzlipede fainted!"
+"The Charti Berry weakened the damage to the opposing Sizzlipede!"
+[Item consumed] The opposing Sizzlipede consumed its held Charti Berry
+"Litleo got 1 Exp. Points!"
+"Graveler got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Wormadam] + 2 because we outspeed
+     [Wormadam] + 4 because we have 2HKO
+     [Joltik] - 12 because they have kill with their highest damaging move against the current battler
+     [Joltik] + 4 because we have 2HKO
+     [Scyther] - 12 because they have kill with their highest damaging move against the current battler
+     [Scyther] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Bug Catcher Brandon sent out Wormadam!"
+
+===== Round 4 =====
+
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Graveler (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Graveler (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Wormadam (1), Graveler (0)
+
+"Graveler, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Wormadam (1) used Hidden Power
+"The opposing Wormadam used Hidden Power!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Wormadam (1):
+   * 100.0% to use Mirror Shot (target 0): score 5
+   *   0.0% to use Struggle Bug: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mirror Shot (target 0)
+
+[Round order] Chimecho (0), the opposing Wormadam (1)
+
+"Chimecho, switch out! Come back!"
+"You're in charge, Litleo!"
+[Ability triggered] Litleo's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Wormadam (1) used Mirror Shot
+"The opposing Wormadam used Mirror Shot!"
+[HP change] Litleo lost 12 HP (72 -> 60)
+"It's not very effective..."
+[Stat change] Litleo's Attack changed by -1 (0 -> -1)
+"Litleo's Attack fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Litleo (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Litleo (0), the opposing Wormadam (1)
+
+[Use move] Litleo (0) used Incinerate
+"Litleo used Incinerate!"
+[HP change] The opposing Wormadam lost 59 HP (60 -> 1)
+"It's super effective!"
+"The opposing Wormadam's Occa Berry was incinerated!"
+[Use move] The opposing Wormadam (1) used Hidden Power
+"The opposing Wormadam used Hidden Power!"
+[HP change] Litleo lost 31 HP (60 -> 29)
+"It's super effective!"
+[HP change] Litleo gained 10 HP (29 -> 39)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Wormadam (1): 0
+Set up score for Wormadam (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wormadam (1) is considering using Mirror Shot (1) against Litleo (0)...
+[AI] Wormadam (1) is considering using Struggle Bug (1)...
+[AI] Wormadam (1) is considering using Hidden Power (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wormadam (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Litleo (0), the opposing Wormadam (1)
+
+[Use move] Litleo (0) used Mach Pulse
+"Litleo used Mach Pulse!"
+[HP change] The opposing Wormadam lost 1 HP (1 -> 0)
+"It's not very effective..."
+"The opposing Wormadam fainted!"
+"Chimecho got 1 Exp. Points!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Joltik] - 12 because they have kill with their highest damaging move against the current battler
+     [Joltik] + 4 because we have 2HKO
+     [Scyther] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Scyther] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (33)
+"Bug Catcher Brandon sent out Scyther!"
+
+===== Round 8 =====
+
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Wing Attack (1) against Litleo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Quick Attack (1) against Litleo (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Litleo (0)...
+[AI] Move choices for Scyther (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bug Bite (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Scyther (1), Litleo (0)
+
+[Use move] The opposing Scyther (1) used Wing Attack
+"The opposing Scyther used Wing Attack!"
+[HP change] Litleo lost 24 HP (39 -> 15)
+[Use move] Litleo (0) used Incinerate
+"Litleo used Incinerate!"
+[HP change] The opposing Scyther lost 44 HP (66 -> 22)
+"It's super effective!"
+"The opposing Scyther's Lum Berry was incinerated!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Wing Attack (1) against Litleo (0)...
+      + 20 for fast kill
+[AI] Scyther (1) is considering using Quick Attack (1) against Litleo (0)...
+     + 9 to get a last ditch hit off.
+[AI] Scyther (1) is considering using Bug Bite (1) against Litleo (0)...
+      + 20 for fast kill
+[AI] Move choices for Scyther (1):
+   *  50.0% to use Wing Attack (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 21
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Scyther (1), Litleo (0)
+
+"Good job, Litleo! Come back!"
+"Just a little more! Hang in there, Graveler!"
+[Use move] The opposing Scyther (1) used Wing Attack
+"The opposing Scyther used Wing Attack!"
+[HP change] Graveler lost 8 HP (43 -> 35)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Wing Attack (1) against Graveler (0)...
+[AI] Scyther (1) is considering using Quick Attack (1) against Graveler (0)...
+     + 9 to get a last ditch hit off.
+[AI] Scyther (1) is considering using Bug Bite (1) against Graveler (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   *   0.0% to use Bug Bite (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Scyther (1), Graveler (0)
+
+[Use move] The opposing Scyther (1) used Quick Attack
+"The opposing Scyther used Quick Attack!"
+[HP change] Graveler lost 4 HP (35 -> 31)
+"It's not very effective..."
+[HP change] Graveler gained 10 HP (31 -> 41)
+"Graveler restored a little HP using its Oran Berry!"
+[Item consumed] Graveler consumed its held Oran Berry
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Scyther lost 22 HP (22 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Scyther fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     [Joltik] - 12 because they have kill with their highest damaging move against the current battler
+     [Joltik] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (27)
+"Bug Catcher Brandon sent out Joltik!"
+[Ability triggered] The opposing Joltik's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 11 =====
+
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Joltik (1) is considering using Shock Wave (1) against Graveler (0)...
+[AI] Joltik (1) is considering using Struggle Bug (1)...
+[AI] Joltik (1) is considering using Mega Drain (1) against Graveler (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Joltik (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Mega Drain (target 0): score 5
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Joltik (1), Graveler (0)
+
+[Use move] The opposing Joltik (1) used Mega Drain
+"The opposing Joltik used Mega Drain!"
+[HP change] Graveler lost 26 HP (41 -> 15)
+"It's super effective!"
+"Graveler had its energy drained!"
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Joltik lost 58 HP (58 -> 0)
+"It's super effective!"
+"The opposing Joltik fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Brandon!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for PLUSLE: [:SPECIALBREAKER]
+Roles for MINUN: [:WEATHERTERRAIN, :SUPPORT]
+Roles for PAWMO: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Twins Liv & Liz!"
+"Twins Liv & Liz sent out Plusle and Minun!"
+"Go! Hitmonchan and Graveler!"
+[Round order] The opposing Plusle (1), the opposing Minun (3), Hitmonchan (0), Graveler (2)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+Set up score for Graveler (2): 0
+     Threat Score for Graveler (2): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Graveler (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Plusle (1) is considering using Shock Wave (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Shock Wave (1) against Graveler (2)...
+     + 2 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Graveler (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Graveler (2)...
+     + 2 to factor in threat scoring.
+[AI] Plusle (1) is considering using Fake Out (1) against Hitmonchan (0)...
+     + 18 for using turn 1
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Fake Out (1) against Graveler (2)...
+     + 18 for using turn 1
+     + 2 to factor in threat scoring.
+[AI] Move choices for Plusle (1):
+   *  29.4% to use Shock Wave (target 0): score 10
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   *   0.0% to use Grass Knot (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *  70.6% to use Fake Out (target 0): score 24
+   *   0.0% to use Fake Out (target 2): score 0
+   => will use Shock Wave (target 0)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Graveler (2): 0
+     Threat Score for Graveler (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minun (3) is considering using Electric Terrain (4)...
+     - 3 because this will be pointless
+[AI] Minun (3) is considering using Helping Hand (4) against Plusle (1)...
+     + 5 to encourage status move use
+     + 0 to factor in threat scoring.
+     + 5 to encourage status move use
+[AI] Minun (3) is considering using Charge Beam (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Minun (3) is considering using Charge Beam (1) against Graveler (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Minun (3):
+   *   0.0% to use Electric Terrain: score 0
+   * 100.0% to use Helping Hand (target 1): score 14
+   *   0.0% to use Charge Beam (target 0): score 0
+   *   0.0% to use Charge Beam (target 2): score 0
+   => will use Helping Hand (target 1)
+
+[Round order] The opposing Minun (3), Hitmonchan (0), the opposing Plusle (1), Graveler (2)
+
+[Use move] The opposing Minun (3) used Helping Hand
+"The opposing Minun used Helping Hand!"
+"The opposing Minun is ready to help the opposing Plusle!"
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Minun lost 32 HP (62 -> 30)
+"A critical hit!"
+[Use move] The opposing Plusle (1) used Shock Wave
+"The opposing Plusle used Shock Wave!"
+[HP change] Hitmonchan lost 34 HP (65 -> 31)
+[HP change] Hitmonchan gained 10 HP (31 -> 41)
+"Hitmonchan restored a little HP using its Oran Berry!"
+[Item consumed] Hitmonchan consumed its held Oran Berry
+[Use move] Graveler (2) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Plusle lost 45 HP (62 -> 17)
+[Stat change] The opposing Plusle's Speed changed by -1 (0 -> -1)
+"The opposing Plusle's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Graveler (2): 0
+     Threat Score for Graveler (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Plusle (1) is considering using Shock Wave (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Shock Wave (1) against Graveler (2)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Grass Knot (1) against Graveler (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Plusle (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Hidden Power (1) against Graveler (2)...
+     + 5 to factor in threat scoring.
+[AI] Plusle (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Move choices for Plusle (1):
+   *  50.0% to use Shock Wave (target 0): score 10
+   *   0.0% to use Shock Wave (target 2): score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   *  50.0% to use Grass Knot (target 2): score 10
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Grass Knot (target 2)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Graveler (2): 0
+     Threat Score for Graveler (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minun (3) is considering using Electric Terrain (4)...
+     - 3 because this will be pointless
+[AI] Minun (3) is considering using Helping Hand (4) against Plusle (1)...
+     + 9 to give the boost ally needs to kill the target
+     - 12 because this will be pointless
+     + 0 to factor in threat scoring.
+     - 0 because we see kill or target sees 2HKO
+     + 9 to give the boost ally needs to kill the target
+     - 9 because this will be pointless
+[AI] Minun (3) is considering using Charge Beam (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Minun (3) is considering using Charge Beam (1) against Graveler (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Minun (3):
+   *   0.0% to use Electric Terrain: score 0
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Charge Beam (target 0): score 10
+   *  50.0% to use Charge Beam (target 2): score 10
+   => will use Charge Beam (target 2)
+
+[Round order] The opposing Minun (3), Hitmonchan (0), the opposing Plusle (1), Graveler (2)
+
+[Use move] The opposing Minun (3) used Charge Beam
+"The opposing Minun used Charge Beam!"
+[HP change] Graveler lost 14 HP (69 -> 55)
+"It's not very effective..."
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Plusle lost 17 HP (17 -> 0)
+"The opposing Plusle fainted!"
+"The opposing Plusle had its energy drained!"
+[HP change] Hitmonchan gained 9 HP (41 -> 50)
+[Use move] Graveler (2) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Minun lost 30 HP (30 -> 0)
+"The opposing Minun fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Pawmo] - 12 because they have kill with their highest damaging move against the current battler
+     [Pawmo] + 2 because we outspeed
+     [Pawmo] + 4 because we have 2HKO
+[AI] Highest move score (33) vs Switch In Score (29)
+"Twins Liv & Liz sent out Pawmo!"
+
+===== Round 3 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Graveler (2): 0
+     Threat Score for Graveler (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (1) is considering using Fake Out (1) against Hitmonchan (0)...
+     + 18 for using turn 1
+     + 5 to factor in threat scoring.
+[AI] Pawmo (1) is considering using Fake Out (1) against Graveler (2)...
+     + 18 for using turn 1
+     + -1 to factor in threat scoring.
+[AI] Pawmo (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (1) is considering using Spark (1) against Graveler (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Pawmo (1) is considering using Mach Punch (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Pawmo (1) is considering using Mach Punch (1) against Graveler (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Pawmo (1) is considering using Dig (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Pawmo (1) is considering using Dig (1) against Graveler (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pawmo (1):
+   * 100.0% to use Fake Out (target 0): score 24
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Spark (target 0): score 0
+   *   0.0% to use Spark (target 2): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Dig (target 0): score 0
+   *   0.0% to use Dig (target 2): score 0
+   => will use Fake Out (target 0)
+
+[Command phase] The opposing Minun (3) is forced to use a multi-turn move
+[Round order] The opposing Pawmo (1), Hitmonchan (0), Graveler (2), the opposing Minun (3)
+
+"Graveler, come back!"
+"You're in charge, Quagsire!"
+[Use move] The opposing Pawmo (1) used Fake Out
+"The opposing Pawmo used Fake Out!"
+[HP change] Hitmonchan lost 8 HP (50 -> 42)
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan flinched and couldn't move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Quagsire (2): 0
+     Threat Score for Quagsire (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Pawmo (1) is considering using Spark (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (1) is considering using Spark (1) against Quagsire (2)...
+     move will not affect Quagsire (2)
+     -  1: move will fail
+[AI] Pawmo (1) is considering using Mach Punch (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Pawmo (1) is considering using Mach Punch (1) against Quagsire (2)...
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (1) is considering using Dig (1) against Hitmonchan (0)...
+     + 5 to factor in threat scoring.
+[AI] Pawmo (1) is considering using Dig (1) against Quagsire (2)...
+     + 3 to factor in threat scoring.
+[AI] Move choices for Pawmo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Spark (target 0): score 10
+   *   0.0% to use Spark (target 2): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 2): score 0
+   *   0.0% to use Dig (target 0): score 0
+   *   0.0% to use Dig (target 2): score 0
+   => will use Spark (target 0)
+
+[Command phase] The opposing Minun (3) is forced to use a multi-turn move
+[Round order] The opposing Pawmo (1), Hitmonchan (0), Quagsire (2), the opposing Minun (3)
+
+[Use move] The opposing Pawmo (1) used Spark
+"The opposing Pawmo used Spark!"
+[HP change] Hitmonchan lost 20 HP (42 -> 22)
+"Hitmonchan is paralyzed! It may be unable to move!"
+[Use move] Quagsire (2) used Ice Punch
+"Quagsire used Ice Punch!"
+[HP change] The opposing Pawmo lost 37 HP (62 -> 25)
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Pawmo lost 25 HP (25 -> 0)
+"The opposing Pawmo fainted!"
+"The opposing Pawmo had its energy drained!"
+[HP change] Hitmonchan gained 13 HP (22 -> 35)
+"Quagsire got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Twins Liv & Liz!"
+"Wow. You're great!"
+
+"You got $504 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the wild Chingling (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the wild Chingling (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Ralts appeared!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the wild Ralts (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Ralts (1) is considering using Flash (1) against Hitmonchan (0)...
+[AI] Ralts (1) is considering using Confusion (1) against Hitmonchan (0)...
+[AI] Ralts (1) is considering using Hypnosis (4) against Hitmonchan (0)...
+[AI] Ralts (1) is considering using Draining Kiss (1) against Hitmonchan (0)...
+[AI] Move choices for Ralts (1):
+   *  20.0% to use Flash (target 0): score 1
+   *   0.0% to use Flash (target 0): score 0
+   *   0.0% to use Confusion (target 0): score 0
+   *  80.0% to use Hypnosis (target 0): score 4
+   *   0.0% to use Draining Kiss (target 0): score 0
+   => will use Hypnosis (target 0)
+
+[Round order] Hitmonchan (0), the wild Ralts (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Ralts was caught!"
+
+===== Pokémon caught =====
+
+"Ralts's data was added to the Pokédex."
+"Where do you want to send Ralts to?"
+"Where do you want to send Ralts to?"
+"Ralts has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Falinks appeared!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the wild Falinks (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Falinks (1) is considering using Tackle (1) against Hitmonchan (0)...
+[AI] Falinks (1) is considering using Protect (4)...
+[AI] Falinks (1) is considering using Rock Smash (1) against Hitmonchan (0)...
+[AI] Falinks (1) is considering using Focus Energy (4)...
+[AI] Move choices for Falinks (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  33.3% to use Protect: score 4
+   *  33.3% to use Protect: score 4
+   *   0.0% to use Rock Smash (target 0): score 0
+   *  33.3% to use Focus Energy: score 4
+   => will use Protect
+
+[Round order] The wild Falinks (1), Hitmonchan (0)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Falinks was caught!"
+
+===== Pokémon caught =====
+
+"Falinks's data was added to the Pokédex."
+"Where do you want to send Falinks to?"
+"Where do you want to send Falinks to?"
+"Falinks has been sent to Box "Box 1"!"
