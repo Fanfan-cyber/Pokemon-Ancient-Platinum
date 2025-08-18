@@ -1,6 +1,6 @@
 
 Chimecho @ Oran Berry
-Level: 25
+Level: 32
 Naughty Nature
 Ability: Levitate
 IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
@@ -9,28 +9,18 @@ IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
 - Draining Kiss
 - Mach Pulse
 
-Monferno @ Oran Berry
-Level: 25
-Calm Nature
-Ability: Blaze
-IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
-- Low Sweep
-- Grass Knot
-- Flame Wheel
-- Mach Punch
-
-Quagsire
-Level: 25
+Quagsire @ Oran Berry
+Level: 32
 Jolly Nature
 Ability: Unaware
 IVs: 31 HP / 30 Atk / 19 Def / 21 SpA / 11 SpD / 25 Spe
-- Water Gun
+- Aqua Tail
 - Bulldoze
 - Yawn
 - Ice Punch
 
-Hitmonchan
-Level: 25
+Hitmonchan @ Oran Berry
+Level: 32
 Quirky Nature
 Ability: Keen Eye
 IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
@@ -39,18 +29,38 @@ IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
 - Fake Out
 - Ice Punch
 
-Capsakid @ Oran Berry
-Level: 25
-Sassy Nature
-Ability: Chlorophyll
-IVs: 7 HP / 30 Atk / 28 Def / 15 SpA / 15 SpD / 22 Spe
-- Bullet Seed
-- Weather Ball
-- Bite
-- Mega Drain
+Monferno @ Oran Berry
+Level: 32
+Calm Nature
+Ability: Blaze
+IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
+- Low Sweep
+- Grass Knot
+- Flame Wheel
+- Mach Punch
+
+Dustox @ Oran Berry
+Level: 32
+Impish Nature
+Ability: Shield Dust
+IVs: 5 HP / 18 Atk / 4 Def / 30 SpA / 23 SpD / 1 Spe
+- Moonlight
+- Toxic
+- Venoshock
+- Leech Life
+
+Gardevoir @ Oran Berry
+Level: 32
+Calm Nature
+Ability: Synchronize
+IVs: 10 HP / 22 Atk / 26 Def / 30 SpA / 21 SpD / 3 Spe
+- Flash
+- Psybeam
+- Charm
+- Moonblast
 
 Magcargo @ Oran Berry
-Level: 25
+Level: 32
 Bold Nature
 Ability: Magma Armor
 IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
@@ -59,18 +69,18 @@ IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
 - Incinerate
 - Bubble Beam
 
-Litleo
-Level: 25
-Relaxed Nature
-Ability: Unnerve
-IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
-- Headbutt
-- Leer
-- Incinerate
-- Mach Pulse
+Capsakid @ Oran Berry
+Level: 32
+Sassy Nature
+Ability: Chlorophyll
+IVs: 7 HP / 30 Atk / 28 Def / 15 SpA / 15 SpD / 22 Spe
+- Bullet Seed
+- Weather Ball
+- Bite
+- Mega Drain
 
-Buizel
-Level: 25
+Floatzel
+Level: 32
 Impish Nature
 Ability: Water Veil
 IVs: 7 HP / 5 Atk / 11 Def / 18 SpA / 11 SpD / 23 Spe
@@ -80,51 +90,81 @@ IVs: 7 HP / 5 Atk / 11 Def / 18 SpA / 11 SpD / 23 Spe
 - Quick Attack
 
 Charjabug
-Level: 25
+Level: 32
 Modest Nature
 Ability: Battery
 IVs: 21 HP / 4 Atk / 18 Def / 15 SpA / 15 SpD / 25 Spe
-- Vise Grip
+- Sticky Web
 - Spark
 - Bite
 - Bug Bite
 
-Graveler-Alola @ Oran Berry
-Level: 25
-Hasty Nature
-Ability: Sturdy
-IVs: 27 HP / 20 Atk / 7 Def / 24 SpA / 22 SpD / 4 Spe
-- Tackle
-- Charge
-- Rock Tomb
-- Thunder Punch
+Falinks
+Level: 32
+Jolly Nature
+Ability: Skill Link
+IVs: 1 HP / 17 Atk / 20 Def / 0 SpA / 10 SpD / 6 Spe
+- Headbutt
+- Protect
+- Arm Thrust
+- Reversal
 
 Boldore
-Level: 25
+Level: 32
 Quirky Nature
 Ability: Sand Force
 IVs: 27 HP / 23 Atk / 7 Def / 28 SpA / 2 SpD / 11 Spe
 - Gyro Ball
-- Rock Throw
+- Rock Slide
 - Bulldoze
 - Smack Down
 
+Linoone-Galar @ Potion
+Level: 32
+Rash Nature
+Ability: Gluttony
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Pursuit
+- Pin Missile
+- Night Slash
+- Headbutt
+
 Fletchinder @ Oran Berry
-Level: 25
+Level: 32
 Brave Nature
 Ability: Flame Body
 IVs: 18 HP / 5 Atk / 10 Def / 11 SpA / 29 SpD / 3 Spe
 - Acrobatics
 - Flail
 - Quick Attack
-- Flame Wheel
+- Solar Wings
+
+Graveler-Alola
+Level: 32
+Hasty Nature
+Ability: Sturdy
+IVs: 27 HP / 20 Atk / 7 Def / 24 SpA / 22 SpD / 4 Spe
+- Tackle
+- Thunder Wave
+- Rock Tomb
+- Thunder Punch
+
+Litleo
+Level: 32
+Relaxed Nature
+Ability: Unnerve
+IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
+- Headbutt
+- Endeavor
+- Incinerate
+- Mach Pulse
 
 Munna @ Oran Berry
-Level: 25
+Level: 32
 Modest Nature
 Ability: Forewarn
 IVs: 6 HP / 18 Atk / 23 Def / 14 SpA / 3 SpD / 25 Spe
-- Stored Power
+- Yawn
 - Moonlight
-- Hypnosis
+- Dazzling Gleam
 - Psybeam
