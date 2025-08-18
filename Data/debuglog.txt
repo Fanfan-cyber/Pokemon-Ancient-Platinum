@@ -106923,3 +106923,886 @@ Set up score for Chimchar (0): 0
 "Wow. You're great!"
 
 "You got $720 for winning!"
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Wattrel (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Wattrel lost 11 HP (37 -> 26)
+[Use move] Wattrel (0) used Pluck
+"Wattrel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Makuhita lost 43 HP (43 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Makuhita fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Varoom] + 4 because we have 2HKO
+     [Buizel] + 2 because we outspeed
+     [Buizel] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (46)
+"Ace Trainer Aaron sent out Buizel!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Buizel (1): 0
+Set up score for Buizel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Wattrel (0)...
+[AI] Buizel (1) is considering using Aerial Ace (1) against Wattrel (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+      + 20 for fast kill
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Icy Wind: score 21
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Wattrel (0)
+
+"Wattrel, come back!"
+"You're in charge, Chimchar!"
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Chimchar lost 5 HP (36 -> 31)
+"It's not very effective..."
+[Stat change] Chimchar's Speed changed by -1 (0 -> -1)
+"Chimchar's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Buizel (1): 0
+Set up score for Buizel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimchar (0): -1
+     Threat Score for Chimchar (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Chimchar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Aerial Ace (1) against Chimchar (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Chimchar (0)
+
+"Chimchar, switch out! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Wooper lost 15 HP (41 -> 26)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Buizel (1): 0
+Set up score for Buizel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Aerial Ace (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Wooper (0)
+
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Wooper lost 17 HP (26 -> 9)
+[HP change] Wooper gained 10 HP (9 -> 19)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Yawn
+"Wooper used Yawn!"
+"Wooper made the opposing Buizel drowsy!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Buizel (1): 0
+Set up score for Buizel (1): 0
+     [Switch AI] +3 Try to switch due to being yawned
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Aerial Ace (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Wooper (0)
+
+"OK, Wooper! Come back!"
+"You're in charge, Capsakid!"
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Capsakid lost 24 HP (36 -> 12)
+"It's super effective!"
+[HP change] Capsakid gained 10 HP (12 -> 22)
+"Capsakid restored a little HP using its Oran Berry!"
+[Item consumed] Capsakid consumed its held Oran Berry
+[Stat change] Capsakid's Speed changed by -1 (0 -> -1)
+"Capsakid's Speed fell!"
+
+[End of round 6]
+[Lingering effect] The opposing Buizel fell asleep because of Yawn
+"The opposing Buizel fell asleep!"
+[Status change] The opposing Buizel's sleep count is 2
+[Status change] The opposing Buizel's status was cured
+"The opposing Buizel's Lum Berry woke it up!"
+[Item consumed] The opposing Buizel consumed its held Lum Berry
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Buizel (1): 0
+Set up score for Buizel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Capsakid (0): -1
+     Threat Score for Capsakid (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Capsakid (0)...
+[AI] Buizel (1) is considering using Aerial Ace (1) against Capsakid (0)...
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Icy Wind (1)...
+      + 20 for fast kill
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *  50.0% to use Aerial Ace (target 0): score 21
+   *  50.0% to use Icy Wind: score 21
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Capsakid (0)
+
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Capsakid lost 22 HP (22 -> 0)
+"It's super effective!"
+"Capsakid fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Wattrel (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Wattrel lost 10 HP (37 -> 27)
+[Use move] Wattrel (0) used Pluck
+"Wattrel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Makuhita lost 32 HP (43 -> 11)
+"It's super effective!"
+[HP change] The opposing Makuhita gained 20 HP (11 -> 31)
+"The opposing Makuhita restored its health using its Berry Juice!"
+[Item consumed] The opposing Makuhita consumed its held Berry Juice
+[Use move] The opposing Makuhita (1) used Rock Tomb
+"The opposing Makuhita used Rock Tomb!"
+[HP change] Wattrel lost 27 HP (27 -> 0)
+"It's super effective!"
+"Wattrel fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Wattrel (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Wattrel lost 11 HP (37 -> 26)
+[Use move] Wattrel (0) used Pluck
+"Wattrel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Makuhita lost 29 HP (43 -> 14)
+"It's super effective!"
+[HP change] The opposing Makuhita gained 20 HP (14 -> 34)
+"The opposing Makuhita restored its health using its Berry Juice!"
+[Item consumed] The opposing Makuhita consumed its held Berry Juice
+[Use move] The opposing Makuhita (1) used Rock Tomb
+"The opposing Makuhita used Rock Tomb!"
+[HP change] Wattrel lost 26 HP (26 -> 0)
+"It's super effective!"
+"Wattrel fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Wattrel (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Wattrel lost 11 HP (37 -> 26)
+[Use move] Wattrel (0) used Pluck
+"Wattrel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Makuhita lost 28 HP (43 -> 15)
+"It's super effective!"
+[HP change] The opposing Makuhita gained 20 HP (15 -> 35)
+"The opposing Makuhita restored its health using its Berry Juice!"
+[Item consumed] The opposing Makuhita consumed its held Berry Juice
+[Use move] The opposing Makuhita (1) used Rock Tomb
+"The opposing Makuhita used Rock Tomb!"
+[HP change] Wattrel lost 26 HP (26 -> 0)
+"It's super effective!"
+"Wattrel fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Wattrel!"
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Wattrel (0)...
+     + 18 for using turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Wattrel (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Wattrel lost 11 HP (37 -> 26)
+[Use move] Wattrel (0) used Pluck
+"Wattrel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Wattrel (0)...
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Wattrel (0)...
+      + 17 for slow kill
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 18
+   => will use Rock Tomb (target 0)
+
+[Round order] Wattrel (0), the opposing Makuhita (1)
+
+[Use move] Wattrel (0) used Pluck
+"Wattrel used Pluck!"
+[HP change] The opposing Makuhita lost 43 HP (43 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Makuhita fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Varoom] + 4 because we have 2HKO
+     [Buizel] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Buizel] + 9 because we have kill
+[AI] Highest move score (19) vs Switch In Score (39)
+"Ace Trainer Aaron sent out Varoom!"
+
+===== Round 3 =====
+
+     move will not affect Wattrel (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Wattrel (0): 0
+     Threat Score for Wattrel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wattrel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Metal Claw (1) against Wattrel (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     move will not affect Wattrel (0)
+     -  1: move will fail
+[AI] Varoom (1) is considering using Toxic (4) against Wattrel (0)...
+     + 2 for being a Toxic Staller
+     + 5 to encourage status move use
+     + 2 for being a Toxic Staller
+     + 5 to encourage status move use
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Toxic (target 0): score 18
+   => will use Toxic (target 0)
+
+[Round order] Wattrel (0), the opposing Varoom (1)
+
+"Wattrel, come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Varoom (1) used Toxic
+"The opposing Varoom used Toxic!"
+"Wooper was badly poisoned!"
+
+[End of round 3]
+[HP change] Wooper lost 2 HP (41 -> 39)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Wooper (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Bulldoze
+"The opposing Varoom used Bulldoze!"
+[HP change] Wooper lost 11 HP (39 -> 28)
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Varoom lost 25 HP (36 -> 11)
+"It's super effective!"
+[Stat change] The opposing Varoom's Speed changed by -1 (0 -> -1)
+"The opposing Varoom's Speed fell!"
+
+[End of round 4]
+[HP change] The opposing Varoom gained 2 HP (11 -> 13)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+[HP change] Wooper lost 5 HP (28 -> 23)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Wooper (0)
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+Set up score for Varoom (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Wooper (0)...
+     + 9 to get a last ditch hit off.
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Wooper (0)...
+     move will not affect Wooper (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   * 100.0% to use Septic Shot (target 0): score 10
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Septic Shot (target 0)
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Septic Shot
+"The opposing Varoom used Septic Shot!"
+[HP change] Wooper lost 5 HP (23 -> 18)
+"It's not very effective..."
+[HP change] Wooper gained 10 HP (18 -> 28)
+"Wooper restored a little HP using its Oran Berry!"
+[Item consumed] Wooper consumed its held Oran Berry
+[Use move] Wooper (0) used Mud Shot
+"Wooper used Mud Shot!"
+[HP change] The opposing Varoom lost 13 HP (13 -> 0)
+"It's super effective!"
+"The opposing Varoom fainted!"
+
+[End of round 5]
+[HP change] Wooper lost 7 HP (28 -> 21)
+"Wooper was hurt by poison!"
+Trick Room Turns: 0
+     move will not affect Wooper (0)
+     [Buizel] + 2 because we outspeed
+     [Buizel] + 4 because we have 2HKO
+[AI] Highest move score (5) vs Switch In Score (41)
+"Ace Trainer Aaron sent out Buizel!"
+
+===== Round 6 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Aerial Ace (1) against Wooper (0)...
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Wooper (0)
+
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Wooper lost 18 HP (21 -> 3)
+[Stat change] Wooper's Speed changed by -1 (-1 -> -2)
+"Wooper's Speed fell!"
+[Use move] Wooper (0) used Yawn
+"Wooper used Yawn!"
+"Wooper made the opposing Buizel drowsy!"
+
+[End of round 6]
+[HP change] Wooper lost 3 HP (3 -> 0)
+"Wooper was hurt by poison!"
+"Wooper fainted!"
+Trick Room Turns: 0
+"You're in charge, Capsakid!"
+
+===== Round 7 =====
+
+Set up score for Capsakid (0): 0
+     Threat Score for Capsakid (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Capsakid (0)...
+     + 9 to get a last ditch hit off.
+[AI] Buizel (1) is considering using Aerial Ace (1) against Capsakid (0)...
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Icy Wind (1)...
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 10
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Capsakid (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Capsakid lost 8 HP (36 -> 28)
+"It's not very effective..."
+[Use move] Capsakid (0) used Mega Drain
+"Capsakid used Mega Drain!"
+[HP change] The opposing Buizel lost 38 HP (38 -> 0)
+"It's super effective!"
+"The opposing Buizel fainted!"
+"The opposing Buizel had its energy drained!"
+[HP change] Capsakid gained 8 HP (28 -> 36)
+
+===== Player won =====
+
+"You defeated Ace Trainer Aaron!"
+"Wow. You're great!"
+
+"You got $720 for winning!"
+     => Pokemon Chosen: PINSIR
+Roles for MAGNEZONE: [:SPECIALBREAKER]
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHANDELURE: [:SPECIALBREAKER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Trainer Mira!"
+"Pokémon Trainer Mira sent out Magnezone!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Magnezone (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Pokémon Trainer Mira!"
+"Wow. You're great!"
+
+"You got $2,400 for winning!"
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+Roles for MAGNEZONE: [:SPECIALBREAKER]
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHANDELURE: [:SPECIALBREAKER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Trainer Mira!"
+"Pokémon Trainer Mira sent out Magnezone!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Magnezone (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Pokémon Trainer Mira!"
+"Wow. You're great!"
+
+"You got $2,400 for winning!"
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
