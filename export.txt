@@ -1,68 +1,137 @@
 
-Chimchar
-Level: 13
+Wooper
+Level: 19
+Jolly Nature
+Ability: Unaware
+IVs: 31 HP / 30 Atk / 19 Def / 21 SpA / 11 SpD / 25 Spe
+- Water Gun
+- Bulldoze
+- Yawn
+- Mud Shot
+
+Monferno @ Oran Berry
+Level: 19
 Calm Nature
 Ability: Blaze
 IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
-- Scratch
+- Fury Swipes
 - Grass Knot
-- Ember
+- Flame Wheel
 - Mach Punch
 
+Capsakid @ Oran Berry
+Level: 19
+Sassy Nature
+Ability: Chlorophyll
+IVs: 7 HP / 30 Atk / 28 Def / 15 SpA / 15 SpD / 22 Spe
+- Razor Leaf
+- Weather Ball
+- Bite
+- Mega Drain
+
+Geodude-Alola @ Oran Berry
+Level: 19
+Hasty Nature
+Ability: Sturdy
+IVs: 27 HP / 20 Atk / 7 Def / 24 SpA / 22 SpD / 4 Spe
+- Tackle
+- Charge
+- Rock Tomb
+- Spark
+
+Munna
+Level: 19
+Modest Nature
+Ability: Forewarn
+IVs: 6 HP / 18 Atk / 23 Def / 14 SpA / 3 SpD / 25 Spe
+- Stored Power
+- Moonlight
+- Hypnosis
+- Psybeam
+
+Buizel
+Level: 19
+Impish Nature
+Ability: Water Veil
+IVs: 7 HP / 5 Atk / 11 Def / 18 SpA / 11 SpD / 23 Spe
+- Tackle
+- Water Gun
+- Bite
+- Quick Attack
+
+Slugma @ Oran Berry
+Level: 19
+Bold Nature
+Ability: Magma Armor
+IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
+- Yawn
+- Acid
+- Incinerate
+- Rock Throw
+
 Litleo
-Level: 13
+Level: 19
 Relaxed Nature
 Ability: Unnerve
 IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
 - Headbutt
 - Leer
-- Ember
+- Incinerate
 - Mach Pulse
 
-Wooper
-Level: 13
-Jolly Nature
-Ability: Unaware
-IVs: 31 HP / 30 Atk / 19 Def / 21 SpA / 11 SpD / 25 Spe
-- Water Gun
-- Tail Whip
-- Yawn
-- Mud Shot
+Grubbin
+Level: 19
+Modest Nature
+Ability: Swarm
+IVs: 21 HP / 4 Atk / 18 Def / 15 SpA / 15 SpD / 25 Spe
+- Vise Grip
+- Mud-Slap
+- Bite
+- Bug Bite
 
-Fletchling
-Level: 13
+Carkol
+Level: 19
+Lonely Nature
+Ability: Flash Fire
+IVs: 8 HP / 27 Atk / 0 Def / 26 SpA / 3 SpD / 24 Spe
+- Flame Wheel
+- Rapid Spin
+- Smack Down
+- Rock Tomb
+
+Tyrogue
+Level: 19
+Quirky Nature
+Ability: Guts
+IVs: 22 HP / 0 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
+- Tackle
+- Helping Hand
+- Fake Out
+- Focus Energy
+
+Roggenrola
+Level: 3
+Quirky Nature
+Ability: Sand Force
+IVs: 27 HP / 23 Atk / 7 Def / 28 SpA / 2 SpD / 11 Spe
+- Tackle
+
+Chingling
+Level: 19
+Naughty Nature
+Ability: Levitate
+IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
+- Psybeam
+- Yawn
+- Fairy Wind
+- Mach Pulse
+
+Fletchinder @ Oran Berry
+Level: 19
 Brave Nature
-Ability: Big Pecks
+Ability: Flame Body
 IVs: 18 HP / 5 Atk / 10 Def / 11 SpA / 29 SpD / 3 Spe
 - Peck
-- Growl
+- Flail
 - Quick Attack
-- Ember
-
-Capsakid
-Level: 13
-Sassy Nature
-Ability: Chlorophyll
-IVs: 7 HP / 30 Atk / 28 Def / 15 SpA / 15 SpD / 22 Spe
-- Razor Leaf
-- Leer
-- Bite
-- Mega Drain
-
-Wattrel
-Level: 13
-Hasty Nature
-Ability: Volt Absorb
-IVs: 29 HP / 19 Atk / 0 Def / 6 SpA / 4 SpD / 3 Spe
-- Pluck
-- Growl
-- Thunder Shock
-- Quick Attack
-
-Slugma
-Level: 5
-Bold Nature
-Ability: Magma Armor
-IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
-- Yawn
-- Smog
+- Flame Wheel
