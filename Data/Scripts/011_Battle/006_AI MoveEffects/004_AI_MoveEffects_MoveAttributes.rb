@@ -199,6 +199,8 @@ Battle::AI::Handlers::MoveBasePower.add("PowerHigherWithLessPP",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("PowerHigherWithTargetWeight",
   proc { |power, move, user, target, ai, battle|
+    next 60 if user.battler.nil?
+    next 60 if target.battler.nil?
     next move.move.pbBaseDamage(power, user.battler, target.battler)
   }
 )

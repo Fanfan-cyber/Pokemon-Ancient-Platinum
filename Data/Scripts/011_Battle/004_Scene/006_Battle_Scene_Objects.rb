@@ -44,15 +44,15 @@ class Battle::Scene::PokemonDataBox < Sprite
     onPlayerSide = @battler.index.even?
     # Get the data box graphic and set whether the HP numbers/Exp bar are shown
     if sideSize == 1   # One Pokémon on side, use the regular dara box BG
-      bgFilename = [_INTL("Graphics/UI/Battle/databox_normal"),
-                    _INTL("Graphics/UI/Battle/databox_normal_foe")][@battler.index % 2]
+      bgFilename = [_INTL("Graphics/UI/Battle/2/databox_normal"),
+                    _INTL("Graphics/UI/Battle/2/databox_normal_foe")][@battler.index % 2]
       if onPlayerSide
         @show_hp_numbers = true
         @show_exp_bar    = true
       end
     else   # Multiple Pokémon on side, use the thin dara box BG
-      bgFilename = [_INTL("Graphics/UI/Battle/databox_thin"),
-                    _INTL("Graphics/UI/Battle/databox_thin_foe")][@battler.index % 2]
+      bgFilename = [_INTL("Graphics/UI/Battle/2/databox_thin"),
+                    _INTL("Graphics/UI/Battle/2/databox_thin_foe")][@battler.index % 2]
     end
     @databoxBitmap&.dispose
     @databoxBitmap = AnimatedBitmap.new(bgFilename)
@@ -436,7 +436,7 @@ class Battle::Scene::AbilitySplashBar < Sprite
     @side    = side
     @battler = nil
     # Create sprite wrapper that displays background graphic
-    @bgBitmap = AnimatedBitmap.new("Graphics/UI/Battle/ability_bar")
+    @bgBitmap = AnimatedBitmap.new("Graphics/UI/Battle/2/ability_bar")
     @bgSprite = Sprite.new(viewport)
     @bgSprite.bitmap = @bgBitmap.bitmap
     @bgSprite.src_rect.y      = (side == 0) ? 0 : @bgBitmap.height / 2

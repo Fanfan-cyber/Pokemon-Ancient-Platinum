@@ -12,8 +12,8 @@ class Battle::Scene::MenuBase
 
   # NOTE: Button width is half the width of the graphic containing them all.
   BUTTON_HEIGHT = 46
-  TEXT_BASE_COLOR   = Battle::Scene::MESSAGE_BASE_COLOR
-  TEXT_SHADOW_COLOR = Battle::Scene::MESSAGE_SHADOW_COLOR
+  TEXT_BASE_COLOR   = Color.new(252, 252, 252)
+  TEXT_SHADOW_COLOR = Color.new(160, 160, 168)
 
   def initialize(viewport = nil)
     @x          = 0
@@ -126,10 +126,10 @@ class Battle::Scene::CommandMenu < Battle::Scene::MenuBase
     if USE_GRAPHICS
       # Create background graphic
       background = IconSprite.new(self.x, self.y, viewport)
-      background.setBitmap("Graphics/UI/Battle/overlay_command")
+      background.setBitmap("Graphics/UI/Battle/2/overlay_command")
       addSprite("background", background)
       # Create bitmaps
-      @buttonBitmap = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/cursor_command"))
+      @buttonBitmap = AnimatedBitmap.new("Graphics/UI/Battle/2/cursor_command")
       # Create action buttons
       @buttons = Array.new(4) do |i|   # 4 command options, therefore 4 buttons
         button = Sprite.new(viewport)
@@ -225,13 +225,13 @@ class Battle::Scene::FightMenu < Battle::Scene::MenuBase
     #       0=don't show, 1=show unpressed, 2=show pressed
     if USE_GRAPHICS
       # Create bitmaps
-      @buttonBitmap  = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/cursor_fight"))
+      @buttonBitmap  = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/2/cursor_fight"))
       @typeBitmap    = AnimatedBitmap.new(_INTL("Graphics/UI/types"))
-      @megaEvoBitmap = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/cursor_mega"))
-      @shiftBitmap   = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/cursor_shift"))
+      @megaEvoBitmap = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/2/cursor_mega"))
+      @shiftBitmap   = AnimatedBitmap.new(_INTL("Graphics/UI/Battle/2/cursor_shift"))
       # Create background graphic
       background = IconSprite.new(0, Graphics.height - 96, viewport)
-      background.setBitmap("Graphics/UI/Battle/overlay_fight")
+      background.setBitmap("Graphics/UI/Battle/2/overlay_fight")
       addSprite("background", background)
       # Create move buttons
       @buttons = Array.new(Pokemon::MAX_MOVES) do |i|
@@ -465,7 +465,7 @@ class Battle::Scene::TargetMenu < Battle::Scene::MenuBase
     # NOTE: @mode is for which buttons are shown as selected.
     #       0=select 1 button (@index), 1=select all buttons with text
     # Create bitmaps
-    @buttonBitmap = AnimatedBitmap.new("Graphics/UI/Battle/cursor_target")
+    @buttonBitmap = AnimatedBitmap.new("Graphics/UI/Battle/2/cursor_target")
     # Create target buttons
     @buttons = Array.new(maxIndex + 1) do |i|
       numButtons = @sideSizes[i % 2]
