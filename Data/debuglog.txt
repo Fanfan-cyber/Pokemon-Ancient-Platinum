@@ -138214,3 +138214,1314 @@ Set up score for Infernape (0): 0
 "Wow. You're great!"
 
 "You got $1,088 for winning!"
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for MEGANIUM: [:SCREENS]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Caroline!"
+"Picnicker Caroline sent out Venusaur!"
+"Go! Talonflame!"
+[Round order] Talonflame (0), the opposing Venusaur (1)
+
+===== Round 1 =====
+
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Talonflame (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Talonflame (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Talonflame (0), the opposing Venusaur (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Venusaur lost 104 HP (108 -> 4)
+"It's super effective!"
+[Use move] The opposing Venusaur (1) used Sludge Bomb
+"The opposing Venusaur used Sludge Bomb!"
+[HP change] Talonflame lost 54 HP (105 -> 51)
+
+[End of round 1]
+[HP change] The opposing Venusaur gained 6 HP (4 -> 10)
+"The opposing Venusaur restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Talonflame (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Venusaur (1) is considering using Hidden Power (1) against Talonflame (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Talonflame (0), the opposing Venusaur (1)
+
+[Use move] Talonflame (0) used Quick Attack
+"Talonflame used Quick Attack!"
+[HP change] The opposing Venusaur lost 10 HP (10 -> 0)
+"The opposing Venusaur fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] - 3 because we have no kill
+     [Decidueye] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Decidueye] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (38)
+"Picnicker Caroline sent out Decidueye!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Talonflame (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Talonflame (0)...
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Talonflame (0)...
+[AI] Decidueye (1) is considering using Smack Down (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   * 100.0% to use Smack Down (target 0): score 21
+   => will use Smack Down (target 0)
+
+[Round order] The opposing Decidueye (1), Talonflame (0)
+
+[Use move] The opposing Decidueye (1) used Smack Down
+"The opposing Decidueye used Smack Down!"
+[HP change] Talonflame lost 51 HP (51 -> 0)
+"It's super effective!"
+"Talonflame fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for MEGANIUM: [:SCREENS]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Caroline!"
+"Picnicker Caroline sent out Venusaur!"
+"Go! Talonflame!"
+[Round order] Talonflame (0), the opposing Venusaur (1)
+
+===== Round 1 =====
+
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Talonflame (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Talonflame (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Talonflame (0), the opposing Venusaur (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Venusaur lost 93 HP (108 -> 15)
+"It's super effective!"
+[Use move] The opposing Venusaur (1) used Sludge Bomb
+"The opposing Venusaur used Sludge Bomb!"
+[HP change] Talonflame lost 54 HP (105 -> 51)
+"Talonflame was poisoned!"
+
+[End of round 1]
+[HP change] The opposing Venusaur gained 6 HP (15 -> 21)
+"The opposing Venusaur restored a little HP using its Black Sludge!"
+[HP change] Talonflame lost 13 HP (51 -> 38)
+"Talonflame was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Talonflame (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Talonflame (0)...
+     move will not affect Talonflame (0)
+     -  4: move will fail
+[AI] Venusaur (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Venusaur (1) is considering using Hidden Power (1) against Talonflame (0)...
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Talonflame (0), the opposing Venusaur (1)
+
+[Use move] Talonflame (0) used Solar Wings
+"Talonflame used Solar Wings!"
+[HP change] The opposing Venusaur lost 21 HP (21 -> 0)
+"It's super effective!"
+"The opposing Venusaur fainted!"
+
+[End of round 2]
+[HP change] Talonflame lost 13 HP (38 -> 25)
+"Talonflame was hurt by poison!"
+Trick Room Turns: 0
+     move will not affect Talonflame (0)
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] + 4 because we have 2HKO
+     [Decidueye] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Decidueye] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (38)
+"Picnicker Caroline sent out Decidueye!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Talonflame (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Decidueye (1) is considering using Smack Down (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *  33.3% to use Spirit Shackle (target 0): score 21
+   *  33.3% to use Shadow Sneak (target 0): score 21
+   *  33.3% to use Smack Down (target 0): score 21
+   => will use Spirit Shackle (target 0)
+
+[Round order] The opposing Decidueye (1), Talonflame (0)
+
+"Good job, Talonflame! Come back!"
+"You're in charge, Infernape!"
+[Use move] The opposing Decidueye (1) used Spirit Shackle
+"The opposing Decidueye used Spirit Shackle!"
+[HP change] Infernape lost 42 HP (107 -> 65)
+"Infernape can no longer escape!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Infernape (0)...
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Infernape (0)...
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Infernape (0)...
+[AI] Decidueye (1) is considering using Smack Down (1) against Infernape (0)...
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Spirit Shackle (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Spirit Shackle (target 0)
+
+[Round order] Infernape (0), the opposing Decidueye (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Decidueye lost 70 HP (107 -> 37)
+"It's super effective!"
+"The opposing Decidueye was burned!"
+[Status change] The opposing Decidueye's status was cured
+"The opposing Decidueye's Lum Berry healed its burn!"
+[Item consumed] The opposing Decidueye consumed its held Lum Berry
+[Use move] The opposing Decidueye (1) used Spirit Shackle
+"The opposing Decidueye used Spirit Shackle!"
+[HP change] Infernape lost 48 HP (65 -> 17)
+[HP change] Infernape gained 10 HP (17 -> 27)
+"Infernape restored a little HP using its Oran Berry!"
+[Item consumed] Infernape consumed its held Oran Berry
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Infernape (0)...
+      + 5 for having a kill even if we are killed first
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Infernape (0)...
+[AI] Decidueye (1) is considering using Smack Down (1) against Infernape (0)...
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Spirit Shackle (target 0): score 21
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Spirit Shackle (target 0)
+
+[Round order] Infernape (0), the opposing Decidueye (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Decidueye lost 37 HP (37 -> 0)
+"It's super effective!"
+"The opposing Decidueye fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Meganium] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Meganium] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (38)
+"Picnicker Caroline sent out Meganium!"
+
+===== Round 6 =====
+
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Infernape (0)...
+[AI] Meganium (1) is considering using Earth Power (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+     - 12 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 9 based on enemy and special enemy count
+     - 12 because this will be pointless
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Infernape (0), the opposing Meganium (1)
+
+"OK, Infernape! Come back!"
+"You're in charge, Scovillain!"
+[Use move] The opposing Meganium (1) used Earth Power
+"The opposing Meganium used Earth Power!"
+[HP change] Scovillain lost 33 HP (92 -> 59)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Scovillain (0)...
+[AI] Meganium (1) is considering using Earth Power (1) against Scovillain (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+     - 12 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 9 based on enemy and special enemy count
+     - 12 because this will be pointless
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Meganium (1), Scovillain (0)
+
+[Use move] The opposing Meganium (1) used Earth Power
+"The opposing Meganium used Earth Power!"
+[HP change] Scovillain lost 32 HP (59 -> 27)
+[Use move] Scovillain (0) used Flamethrower
+"Scovillain used Flamethrower!"
+[HP change] The opposing Meganium lost 93 HP (106 -> 13)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Scovillain (0)...
+[AI] Meganium (1) is considering using Earth Power (1) against Scovillain (0)...
+      + 20 for fast kill
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+     - 12 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 9 based on enemy and special enemy count
+     - 12 because this will be pointless
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Meganium (1), Scovillain (0)
+
+"OK, Scovillain! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Meganium (1) used Earth Power
+"The opposing Meganium used Earth Power!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Earth Power (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+     - 12 because this will be pointless
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 9 based on enemy and special enemy count
+     - 12 because this will be pointless
+[AI] Move choices for Meganium (1):
+   * 100.0% to use Energy Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Energy Ball (target 0)
+
+[Round order] Chimecho (0), the opposing Meganium (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Meganium lost 13 HP (13 -> 0)
+"The opposing Meganium fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Caroline!"
+"Wow. You're great!"
+
+"You got $544 for winning!"
+Roles for TREVENANT: [:PHYSICALBREAKER, :SPEEDCONTROL, :WEATHERTERRAINABUSER]
+Roles for TROPIUS: [:PHYSICALBREAKER, :SPEEDCONTROL, :TANK, :WEATHERTERRAINABUSER]
+Roles for CRADILY: [:SPECIALBREAKER]
+Roles for LILLIGANT: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Angela!"
+"Aroma Lady Angela sent out Trevenant!"
+"Go! Talonflame!"
+[Round order] Talonflame (0), the opposing Trevenant (1)
+
+===== Round 1 =====
+
+     move will not affect Talonflame (0)
+     move will not affect Talonflame (0)
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Talonflame (0)...
+     move will not affect Talonflame (0)
+     -  4: move will fail
+[AI] Trevenant (1) is considering using Horn Leech (1) against Talonflame (0)...
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     move will not affect Talonflame (0)
+     -  1: move will fail
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Horn Leech (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Shadow Claw (target 0): score 5
+   => will use Shadow Claw (target 0)
+
+[Round order] Talonflame (0), the opposing Trevenant (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Trevenant lost 107 HP (112 -> 5)
+"It's super effective!"
+[HP change] The opposing Trevenant gained 28 HP (5 -> 33)
+"The opposing Trevenant restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Trevenant consumed its held Sitrus Berry
+[Use move] The opposing Trevenant (1) used Shadow Claw
+"The opposing Trevenant used Shadow Claw!"
+[HP change] Talonflame lost 50 HP (105 -> 55)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Talonflame (0)
+     move will not affect Talonflame (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Talonflame (0)...
+     move will not affect Talonflame (0)
+     -  4: move will fail
+[AI] Trevenant (1) is considering using Horn Leech (1) against Talonflame (0)...
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     move will not affect Talonflame (0)
+     -  1: move will fail
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Horn Leech (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Shadow Claw (target 0): score 5
+   => will use Shadow Claw (target 0)
+
+[Round order] Talonflame (0), the opposing Trevenant (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Trevenant lost 33 HP (33 -> 0)
+"It's super effective!"
+"The opposing Trevenant fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Talonflame (0)
+     move will not affect Talonflame (0)
+     [Tropius] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Tropius] + 4 because we have 2HKO
+     [Cradily] + 9 because we have kill
+     [Lilligant] - 12 because they have kill with their highest damaging move against the current battler
+     [Lilligant] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Aroma Lady Angela sent out Cradily!"
+
+===== Round 3 =====
+
+     move will not affect Talonflame (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Cradily (1) is considering using Power Gem (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Cradily (1) is considering using Hidden Power (1) against Talonflame (0)...
+     move will not affect Talonflame (0)
+     -  1: move will fail
+[AI] Cradily (1) is considering using Stockpile (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Power Gem (target 0)
+
+[Round order] Talonflame (0), the opposing Cradily (1)
+
+"Talonflame, come back!"
+"You're in charge, Infernape!"
+[Use move] The opposing Cradily (1) used Power Gem
+"The opposing Cradily used Power Gem!"
+[HP change] Infernape lost 34 HP (107 -> 73)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Infernape (0)...
+[AI] Cradily (1) is considering using Power Gem (1) against Infernape (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Hidden Power (1) against Infernape (0)...
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use Power Gem (target 0): score 5
+   *  50.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Stockpile: score 0
+   => will use Power Gem (target 0)
+
+[Round order] Infernape (0), the opposing Cradily (1)
+
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Cradily lost 84 HP (109 -> 25)
+"A critical hit!"
+"It's super effective!"
+[Stat change] Infernape's Defense changed by -1 (0 -> -1)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (0 -> -1)
+"Infernape's Special Defense fell!"
+"The Chople Berry weakened the damage to the opposing Cradily!"
+[Item consumed] The opposing Cradily consumed its held Chople Berry
+[Use move] The opposing Cradily (1) used Power Gem
+"The opposing Cradily used Power Gem!"
+[HP change] Infernape lost 50 HP (73 -> 23)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): -2
+     Threat Score for Infernape (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Cradily (1) is considering using Power Gem (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Cradily (1) is considering using Hidden Power (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Cradily (1) is considering using Stockpile (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Cradily (1):
+   *  33.3% to use Giga Drain (target 0): score 21
+   *  33.3% to use Power Gem (target 0): score 21
+   *  33.3% to use Hidden Power (target 0): score 21
+   *   0.0% to use Stockpile: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Infernape (0), the opposing Cradily (1)
+
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Cradily lost 25 HP (25 -> 0)
+"It's super effective!"
+[Stat change] Infernape's Defense changed by -1 (-1 -> -2)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (-1 -> -2)
+"Infernape's Special Defense fell!"
+"The opposing Cradily fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Tropius] + 9 because we have kill
+     [Lilligant] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Lilligant] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (44)
+"Aroma Lady Angela sent out Tropius!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tropius (1): 0
+Set up score for Tropius (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): -4
+     Threat Score for Infernape (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Tropius (1) is considering using Bulldoze (1)...
+      + 20 for fast kill
+[AI] Tropius (1) is considering using Roost...
+     -  4: move will fail
+[AI] Move choices for Tropius (1):
+   *  33.3% to use Leaf Blade (target 0): score 21
+   *  33.3% to use Dual Wingbeat (target 0): score 21
+   *  33.3% to use Bulldoze: score 21
+   *   0.0% to use Roost: score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Infernape (0), the opposing Tropius (1)
+
+"Good job, Infernape! Come back!"
+"You're in charge, Talonflame!"
+[Use move] The opposing Tropius (1) used Leaf Blade
+"The opposing Tropius used Leaf Blade!"
+[HP change] Talonflame lost 11 HP (55 -> 44)
+"It's not very effective..."
+[Ability triggered] Talonflame's Flame Body
+"The opposing Tropius was burned!"
+
+[End of round 6]
+[HP change] The opposing Tropius lost 7 HP (118 -> 111)
+"The opposing Tropius was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Talonflame (0)
+Set up score for Tropius (1): 0
+Set up score for Tropius (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Talonflame (0)...
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tropius (1) is considering using Bulldoze (1)...
+     move will not affect Talonflame (0)
+     -  1: move will fail
+[AI] Tropius (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Tropius (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Roost: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Talonflame (0), the opposing Tropius (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Tropius lost 92 HP (111 -> 19)
+"It's super effective!"
+[HP change] The opposing Tropius gained 29 HP (19 -> 48)
+"The opposing Tropius restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Tropius consumed its held Sitrus Berry
+[Use move] The opposing Tropius (1) used Dual Wingbeat
+"The opposing Tropius used Dual Wingbeat!"
+[HP change] Talonflame lost 11 HP (44 -> 33)
+[HP change] Talonflame lost 11 HP (33 -> 22)
+"Hit 2 times!"
+
+[End of round 7]
+[HP change] The opposing Tropius lost 7 HP (48 -> 41)
+"The opposing Tropius was hurt by its burn!"
+Trick Room Turns: 0
+[Ability triggered] The opposing Tropius's Harvest
+"The opposing Tropius harvested one Sitrus Berry!"
+[HP change] The opposing Tropius gained 29 HP (41 -> 70)
+"The opposing Tropius restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Tropius consumed its held Sitrus Berry
+
+===== Round 8 =====
+
+     move will not affect Talonflame (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Tropius (1): 0
+Set up score for Tropius (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Talonflame (0)...
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tropius (1) is considering using Bulldoze (1)...
+     move will not affect Talonflame (0)
+     -  1: move will fail
+[AI] Tropius (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Tropius (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Roost: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Talonflame (0), the opposing Tropius (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Tropius lost 70 HP (70 -> 0)
+"It's super effective!"
+"The opposing Tropius fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     move will not affect Talonflame (0)
+     [Lilligant] - 12 because they have kill with their highest damaging move against the current battler
+     [Lilligant] + 9 because we have kill
+[AI] Highest move score (21) vs Switch In Score (32)
+"Aroma Lady Angela sent out Lilligant!"
+
+===== Round 9 =====
+
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Talonflame (0)...
+[AI] Lilligant (1) is considering using Brick Break (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *  50.0% to use Brick Break (target 0): score 21
+   *  50.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Talonflame (0)
+
+"Good job, Talonflame! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Chimecho lost 9 HP (106 -> 97)
+[HP change] Chimecho lost 18 HP (97 -> 79)
+[HP change] Chimecho lost 25 HP (79 -> 54)
+"Hit 3 times!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Chimecho (0)...
+[AI] Lilligant (1) is considering using Brick Break (1) against Chimecho (0)...
+[AI] Lilligant (1) is considering using Triple Axel (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 5
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Chimecho (0)
+
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Chimecho lost 9 HP (54 -> 45)
+[HP change] Chimecho lost 19 HP (45 -> 26)
+[HP change] Chimecho lost 26 HP (26 -> 0)
+"Chimecho fainted!"
+"Hit 3 times!"
+
+[End of round 10]
+Trick Room Turns: 0
+"You're in charge, Gardevoir!"
+
+===== Round 11 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Gardevoir (0)...
+[AI] Lilligant (1) is considering using Brick Break (1) against Gardevoir (0)...
+[AI] Lilligant (1) is considering using Triple Axel (1) against Gardevoir (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 5
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Gardevoir (0)
+
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Gardevoir lost 11 HP (96 -> 85)
+[HP change] Gardevoir lost 21 HP (85 -> 64)
+[HP change] Gardevoir lost 31 HP (64 -> 33)
+"Hit 3 times!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Lilligant lost 102 HP (102 -> 0)
+"It's super effective!"
+"The opposing Lilligant fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Angela!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for SHIFTRY: [:WEATHERTERRAIN]
+Roles for TORTERRA: [:PHYSICALBREAKER, :LEAD]
+Roles for GLIMMORA: [:SPECIALBREAKER]
+Roles for FLORGES: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CELEBI: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :STATUSABSORBER]
+Roles for ROSERADE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Gardenia!"
+"Gym Leader Gardenia sent out Shiftry!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Shiftry (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Shiftry (1): 0
+Set up score for Shiftry (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Shiftry (1) is considering using Fake Out (1) against Obstagoon (0)...
+     + 18 for using turn 1
+[AI] Shiftry (1) is considering using Night Slash (1) against Obstagoon (0)...
+[AI] Shiftry (1) is considering using Giga Drain (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shiftry (1) is considering using Sunny Day (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Shiftry (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Sunny Day: score 0
+   => will use Fake Out (target 0)
+
+[Round order] Obstagoon (0), the opposing Shiftry (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Shiftry (1) used Fake Out
+"The opposing Shiftry used Fake Out!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Shiftry's Defense changed by -2 (0 -> -2)
+"The opposing Shiftry's Defense harshly fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Shiftry (1): -2
+Set up score for Shiftry (1): -2
+Set up score for Shiftry (1): -2
+Set up score for Shiftry (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shiftry (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Shiftry (1) is considering using Night Slash (1) against Obstagoon (0)...
+[AI] Shiftry (1) is considering using Giga Drain (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Shiftry (1) is considering using Sunny Day (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Shiftry (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Sunny Day: score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Obstagoon (0), the opposing Shiftry (1)
+
+[Use move] Obstagoon (0) used Pin Missile
+"Obstagoon used Pin Missile!"
+[HP change] The opposing Shiftry lost 92 HP (118 -> 26)
+[HP change] The opposing Shiftry lost 26 HP (26 -> 0)
+"The opposing Shiftry fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Torterra] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Torterra] - 3 because we have no kill
+     [Glimmora] + 4 because we have 2HKO
+     [Florges] + 9 because we have kill
+     [Celebi] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Celebi] + 9 because we have kill
+     [Roserade] + 2 because we outspeed
+     [Roserade] + 4 because we have 2HKO
+[AI] Highest move score (19) vs Switch In Score (44)
+"Gym Leader Gardenia sent out Florges!"
+
+===== Round 3 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Florges (1): 0
+Set up score for Florges (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (1) is considering using Dazzling Gleam (1)...
+      + 20 for fast kill
+[AI] Florges (1) is considering using Psychic (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Florges (1) is considering using Giga Drain (1) against Obstagoon (0)...
+[AI] Florges (1) is considering using Calm Mind (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Florges (1):
+   * 100.0% to use Dazzling Gleam: score 21
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Dazzling Gleam
+
+[Round order] Obstagoon (0), the opposing Florges (1)
+
+"Obstagoon, come back!"
+"You're in charge, Talonflame!"
+[Use move] The opposing Florges (1) used Dazzling Gleam
+"The opposing Florges used Dazzling Gleam!"
+[HP change] Talonflame lost 40 HP (105 -> 65)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Florges (1): 0
+Set up score for Florges (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (1) is considering using Dazzling Gleam (1)...
+[AI] Florges (1) is considering using Psychic (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Florges (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Florges (1) is considering using Calm Mind (4)...
+     + 5 to encourage status move use
+[AI] Move choices for Florges (1):
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Calm Mind: score 9
+   => will use Calm Mind
+
+[Round order] Talonflame (0), the opposing Florges (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Florges lost 80 HP (110 -> 30)
+"A critical hit!"
+[Use move] The opposing Florges (1) used Calm Mind
+"The opposing Florges used Calm Mind!"
+[Stat change] The opposing Florges's Special Attack changed by +1 (0 -> 1)
+"The opposing Florges's Special Attack rose!"
+[Stat change] The opposing Florges's Special Defense changed by +1 (0 -> 1)
+"The opposing Florges's Special Defense rose!"
+
+[End of round 4]
+[HP change] The opposing Florges gained 6 HP (30 -> 36)
+"The opposing Florges restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Florges (1): 2
+Set up score for Florges (1): 2
+Set up score for Florges (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (1) is considering using Dazzling Gleam (1)...
+[AI] Florges (1) is considering using Psychic (1) against Talonflame (0)...
+     + 4 to prioritize highest damaging move
+[AI] Florges (1) is considering using Giga Drain (1) against Talonflame (0)...
+[AI] Florges (1) is considering using Calm Mind (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Florges (1):
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic (target 0)
+
+[Round order] Talonflame (0), the opposing Florges (1)
+
+[Use move] Talonflame (0) used Acrobatics
+"Talonflame used Acrobatics!"
+[HP change] The opposing Florges lost 36 HP (36 -> 0)
+"The opposing Florges fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Torterra] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Torterra] + 9 because we have kill
+     [Glimmora] + 9 because we have kill
+     [Celebi] + 2 because we outspeed
+     [Celebi] + 4 because we have 2HKO
+     [Roserade] - 6 because they have 2HKO with their highest damaging move against the current battler
+     [Roserade] + 9 because we have kill
+[AI] Highest move score (5) vs Switch In Score (44)
+"Gym Leader Gardenia sent out Glimmora!"
+
+===== Round 6 =====
+
+     move will not affect Talonflame (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Talonflame (0): 0
+     Threat Score for Talonflame (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Talonflame (0)...
+[AI] Glimmora (1) is considering using Power Gem (1) against Talonflame (0)...
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Talonflame (0)...
+     move will not affect Talonflame (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Hidden Power (1) against Talonflame (0)...
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Venoshock (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Power Gem (target 0)
+
+[Round order] Talonflame (0), the opposing Glimmora (1)
+
+"Talonflame, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Chimecho lost 54 HP (106 -> 52)
+[HP change] Chimecho gained 26 HP (52 -> 78)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Power Gem (1) against Chimecho (0)...
+[AI] Glimmora (1) is considering using Earth Power (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Hidden Power (1) against Chimecho (0)...
+[AI] Move choices for Glimmora (1):
+   * 100.0% to use Venoshock (target 0): score 21
+   *   0.0% to use Power Gem (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Venoshock (target 0)
+
+[Round order] The opposing Glimmora (1), Chimecho (0)
+
+[Use move] The opposing Glimmora (1) used Venoshock
+"The opposing Glimmora used Venoshock!"
+[HP change] Chimecho lost 78 HP (78 -> 0)
+"It's super effective!"
+"Chimecho fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+"You're in charge, Scovillain!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Scovillain (0)...
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Power Gem (1) against Scovillain (0)...
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Scovillain (0)...
+[AI] Glimmora (1) is considering using Hidden Power (1) against Scovillain (0)...
+[AI] Move choices for Glimmora (1):
+   *  50.0% to use Venoshock (target 0): score 21
+   *  50.0% to use Power Gem (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Venoshock (target 0)
+
+[Round order] The opposing Glimmora (1), Scovillain (0)
+
+[Use move] The opposing Glimmora (1) used Venoshock
+"The opposing Glimmora used Venoshock!"
+[HP change] Scovillain lost 92 HP (92 -> 0)
+"A critical hit!"
+"It's super effective!"
+"Scovillain fainted!"
