@@ -148360,3 +148360,2039 @@ Item Chosen: Relic Copper
 Item Chosen: Iron Ball
 Item Chosen: Icy Rock
 Item Chosen: Everstone
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Chimecho and Obstagoon!"
+[Round order] Obstagoon (2), Chimecho (0), the opposing Luxray (3), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 1 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Chimecho (0)...
+     + 18 for using turn 1
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Obstagoon (2)...
+     + 18 for using turn 1
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Ice Punch (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *  50.0% to use Fake Out (target 0): score 20
+   *  50.0% to use Fake Out (target 2): score 20
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Luxray (3) is considering using Thunder Fang (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 2): score 0
+   * 100.0% to use Crunch (target 0): score 9
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Crunch (target 0)
+
+[Round order] Obstagoon (2), the opposing Kecleon (1), Chimecho (0), the opposing Luxray (3)
+
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon used Fake Out!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Kecleon's Defense changed by -2 (0 -> -2)
+"The opposing Kecleon's Defense harshly fell!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Kecleon lost 30 HP (97 -> 67)
+[HP change] The opposing Luxray lost 86 HP (111 -> 25)
+"It's super effective!"
+[Use move] The opposing Luxray (3) used Crunch
+"The opposing Luxray used Crunch!"
+[HP change] Chimecho lost 53 HP (115 -> 62)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Ice Punch (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Obstagoon (2)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Shadow Sneak (target 0): score 9
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  50.0% to use Drain Punch (target 2): score 9
+   => will use Drain Punch (target 2)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Thunder Fang (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *  50.0% to use Thunder Fang (target 2): score 10
+   *  50.0% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Thunder Fang (target 2)
+
+[Round order] Obstagoon (2), Chimecho (0), the opposing Luxray (3), the opposing Kecleon (1)
+
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Kecleon lost 63 HP (67 -> 4)
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Kecleon lost 4 HP (4 -> 0)
+[HP change] The opposing Luxray lost 25 HP (25 -> 0)
+"It's super effective!"
+"The opposing Luxray fainted!"
+"The opposing Kecleon fainted!"
+"Chimecho got 1 Exp. Points!"
+"Obstagoon got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Obstagoon (2)
+     [Hypno] using Toxoplasm vs Chimecho does a max of 69/62 damage
+     [Hypno] using Toxoplasm vs Obstagoon does a max of 47/124 damage
+     [Hypno] using Psyshock vs Chimecho does a max of 20/62 damage
+     [Hypno] using Shadow Ball vs Chimecho does a max of 50/62 damage
+     [Hypno] using Dazzling Gleam vs Chimecho does a max of 19/62 damage
+     [Hypno] using Dazzling Gleam vs Obstagoon does a max of 50/124 damage
+==============================
+     Chimecho (0)'s best move: Psybeam for 36 damage
+==============================
+     [Hypno] + 12 because we have kill
+==============================
+     Chimecho (0)'s best move: Psybeam for 36 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 66 damage
+==============================
+     [Hypno] - 4 because Obstagoon (2) has 2HKO with Night Slash (66/118)
+     [Hypno] + 12 because we have kill
+     [Hypno] final Switch score: 20
+[AI] Highest move score (23) vs Switch In Score (20)
+"Team Galactic Grunt sent out Hypno!"
+     [Unfezant] using Dual Wingbeat vs Chimecho does a max of 51/62 damage
+     [Unfezant] using Dual Wingbeat vs Obstagoon does a max of 45/124 damage
+     [Unfezant] using Quick Attack vs Chimecho does a max of 39/62 damage
+     [Unfezant] using Quick Attack vs Obstagoon does a max of 35/124 damage
+     [Unfezant] using Hidden Power vs Obstagoon does a max of 27/124 damage
+     [Unfezant] using Steel Wing vs Chimecho does a max of 60/62 damage
+     [Unfezant] using Steel Wing vs Obstagoon does a max of 26/124 damage
+==============================
+     Chimecho (0)'s best move: Psybeam for 62 damage
+==============================
+     [Unfezant] - 4 because Chimecho (0) has 2HKO with Psybeam (62/114)
+     [Unfezant] + 5 because we outspeed
+     [Unfezant] + 6 because we have 2HKO
+==============================
+     Chimecho (0)'s best move: Psybeam for 62 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 30 damage
+==============================
+     [Unfezant] + 5 because we outspeed
+     [Unfezant] + 6 because we have 2HKO
+     [Unfezant] final Switch score: 18
+[AI] Highest move score (10) vs Switch In Score (18)
+"Team Galactic Grunt sent out Unfezant!"
+[Ability triggered] The opposing Hypno's Forewarn
+"The opposing Hypno was alerted to Dazzling Gleam!"
+[Ability triggered] The opposing Hypno's Forewarn
+[Stat change] The opposing Hypno's Special Defense changed by +1 (0 -> 1)
+"The opposing Hypno's Special Defense rose!"
+
+===== Round 3 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Chimecho (0)...
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Chimecho (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Chimecho (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   * 100.0% to use Toxoplasm (target 0): score 19
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Toxoplasm (target 0)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Chimecho (0)...
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Obstagoon (2)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Chimecho (0)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Obstagoon (2)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Obstagoon (2)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Obstagoon (2)...
+[AI] Move choices for Unfezant (3):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  50.0% to use Dual Wingbeat (target 2): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *  50.0% to use Steel Wing (target 0): score 5
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] Obstagoon (2), the opposing Unfezant (3), Chimecho (0), the opposing Hypno (1)
+
+"Chimecho, come back!"
+"You're in charge, Quagsire!"
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Unfezant's Defense changed by -2 (0 -> -2)
+"The opposing Unfezant's Defense harshly fell!"
+[Use move] The opposing Hypno (1) used Toxoplasm
+"The opposing Hypno used Toxoplasm!"
+[HP change] Quagsire lost 22 HP (131 -> 109)
+"It's not very effective..."
+"Quagsire had its energy drained!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 2 to factor in threat scoring.
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   * 100.0% to use Psyshock (target 0): score 7
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psyshock (target 0)
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Hidden Power (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 2): score 7
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] The opposing Unfezant (3), Obstagoon (2), the opposing Hypno (1), Quagsire (0)
+
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Obstagoon lost 30 HP (124 -> 94)
+[HP change] Obstagoon lost 35 HP (94 -> 59)
+"Hit 2 times!"
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Hypno lost 59 HP (118 -> 59)
+"It's super effective!"
+[Use move] The opposing Hypno (1) used Psyshock
+"The opposing Hypno used Psyshock!"
+[HP change] Quagsire lost 35 HP (109 -> 74)
+[Use move] Quagsire (0) used Ice Punch
+"Quagsire used Ice Punch!"
+[HP change] The opposing Unfezant lost 52 HP (114 -> 62)
+"It's super effective!"
+
+[End of round 4]
+[HP change] The opposing Hypno gained 7 HP (59 -> 66)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 4 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 2 to factor in threat scoring.
+     + 4 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   * 100.0% to use Psyshock (target 0): score 7
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psyshock (target 0)
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Obstagoon (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *  50.0% to use Dual Wingbeat (target 0): score 7
+   *  50.0% to use Dual Wingbeat (target 2): score 7
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] The opposing Unfezant (3), Obstagoon (2), the opposing Hypno (1), Quagsire (0)
+
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Obstagoon lost 29 HP (59 -> 30)
+[HP change] Obstagoon lost 30 HP (30 -> 0)
+"Obstagoon fainted!"
+"Hit 2 times!"
+[Use move] The opposing Hypno (1) used Psyshock
+"The opposing Hypno used Psyshock!"
+[HP change] Quagsire lost 37 HP (74 -> 37)
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Hypno lost 55 HP (66 -> 11)
+
+[End of round 5]
+[HP change] The opposing Hypno gained 7 HP (11 -> 18)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 6 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Toxoplasm (1) against Hitmonchan (2)...
+     + 5 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Hitmonchan (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Hitmonchan (2)...
+     + 5 to factor in threat scoring.
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 2 to factor in threat scoring.
+     + 5 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   * 100.0% to use Psyshock (target 2): score 10
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psyshock (target 2)
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Quagsire (0)...
+     + 0 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Hitmonchan (2)...
+     + 2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Unfezant (3) is considering using Quick Attack (1) against Quagsire (0)...
+     + 0 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Hitmonchan (2)...
+     + 9 to get a last ditch hit off.
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Quagsire (0)...
+     + 0 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Hitmonchan (2)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Quagsire (0)...
+     + 0 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Hitmonchan (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 2): score 23
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] The opposing Unfezant (3), Hitmonchan (2), the opposing Hypno (1), Quagsire (0)
+
+"Hitmonchan, switch out! Come back!"
+"Your opponent's weak! Get 'em, Gardevoir!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Gardevoir lost 46 HP (103 -> 57)
+[HP change] Gardevoir lost 44 HP (57 -> 13)
+"Hit 2 times!"
+[Use move] The opposing Hypno (1) used Psyshock
+"The opposing Hypno used Psyshock!"
+[HP change] Gardevoir lost 13 HP (13 -> 0)
+"It's not very effective..."
+"Gardevoir fainted!"
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Unfezant lost 46 HP (62 -> 16)
+
+[End of round 6]
+[HP change] The opposing Hypno gained 7 HP (18 -> 25)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 7 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + 5 to factor in threat scoring.
+[AI] Hypno (1) is considering using Toxoplasm (1) against Hitmonchan (2)...
+     + 5 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + 5 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Hypno (1) is considering using Psyshock (1) against Hitmonchan (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + 5 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Hitmonchan (2)...
+     + 5 to factor in threat scoring.
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 5 to factor in threat scoring.
+     + 5 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   * 100.0% to use Psyshock (target 0): score 26
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psyshock (target 0)
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Hitmonchan (2)...
+     + 2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Unfezant (3) is considering using Quick Attack (1) against Quagsire (0)...
+     + 9 to get a last ditch hit off.
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Hitmonchan (2)...
+     + 9 to get a last ditch hit off.
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Hitmonchan (2)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Quagsire (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Hitmonchan (2)...
+     + 2 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *  50.0% to use Dual Wingbeat (target 0): score 23
+   *  50.0% to use Dual Wingbeat (target 2): score 23
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] Hitmonchan (2), the opposing Unfezant (3), the opposing Hypno (1), Quagsire (0)
+
+[Use move] Hitmonchan (2) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Unfezant lost 16 HP (16 -> 0)
+"The opposing Unfezant fainted!"
+"Hitmonchan got 1 Exp. Points!"
+"Quagsire got 1 Exp. Points!"
+[Use move] The opposing Hypno (1) used Psyshock
+"The opposing Hypno used Psyshock!"
+[HP change] Quagsire lost 37 HP (37 -> 0)
+"Quagsire fainted!"
+
+[End of round 7]
+[HP change] The opposing Hypno gained 7 HP (25 -> 32)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+"You're in charge, Infernape!"
+
+===== Round 8 =====
+
+Roles for LUXRAY: [:PHYSICALBREAKER]
+Roles for UNFEZANT: [:PHYSICALBREAKER]
+Roles for KECLEON: [:PHYSICALBREAKER]
+Roles for HYPNO: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Team Galactic Grunt and Team Galactic Grunt!"
+"Team Galactic Grunt sent out Kecleon!
+Team Galactic Grunt sent out Luxray!"
+"Go! Chimecho and Obstagoon!"
+[Round order] Obstagoon (2), Chimecho (0), the opposing Luxray (3), the opposing Kecleon (1)
+[Ability triggered] The opposing Luxray's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 1 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Kecleon (1) is considering using Fake Out (1) against Chimecho (0)...
+     + 18 for using turn 1
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Fake Out (1) against Obstagoon (2)...
+     + 18 for using turn 1
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Ice Punch (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Chimecho (0)...
+     + 1 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *  50.0% to use Fake Out (target 0): score 20
+   *  50.0% to use Fake Out (target 2): score 20
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   => will use Fake Out (target 2)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Luxray (3) is considering using Thunder Fang (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Thunder Fang (target 2): score 0
+   * 100.0% to use Crunch (target 0): score 9
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Crunch (target 0)
+
+[Round order] Obstagoon (2), the opposing Kecleon (1), Chimecho (0), the opposing Luxray (3)
+
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Kecleon (1) used Fake Out
+"The opposing Kecleon used Fake Out!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Kecleon's Defense changed by -2 (0 -> -2)
+"The opposing Kecleon's Defense harshly fell!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Kecleon lost 33 HP (97 -> 64)
+[HP change] The opposing Luxray lost 84 HP (111 -> 27)
+"It's super effective!"
+[Use move] The opposing Luxray (3) used Crunch
+"The opposing Luxray used Crunch!"
+[HP change] Chimecho lost 52 HP (115 -> 63)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kecleon (1) is considering using Fake Out...
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kecleon (1) is considering using Shadow Sneak (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Kecleon (1) is considering using Ice Punch (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Ice Punch (1) against Obstagoon (2)...
+     + 6 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Chimecho (0)...
+     + 4 to factor in threat scoring.
+[AI] Kecleon (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     + 6 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kecleon (1):
+   *   0.0% to use Fake Out: score 0
+   *  45.0% to use Shadow Sneak (target 0): score 9
+   *   0.0% to use Shadow Sneak (target 2): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  55.0% to use Drain Punch (target 2): score 11
+   => will use Drain Punch (target 2)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luxray (3) is considering using Thunder Fang (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Thunder Fang (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Luxray (3) is considering using Crunch (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Ice Fang (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Chimecho (0)...
+     + 5 to factor in threat scoring.
+[AI] Luxray (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Luxray (3):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *  50.0% to use Thunder Fang (target 2): score 10
+   *  50.0% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   => will use Crunch (target 0)
+
+[Round order] Obstagoon (2), Chimecho (0), the opposing Luxray (3), the opposing Kecleon (1)
+
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Kecleon lost 57 HP (64 -> 7)
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Kecleon lost 7 HP (7 -> 0)
+[HP change] The opposing Luxray lost 27 HP (27 -> 0)
+"It's super effective!"
+"The opposing Luxray fainted!"
+"The opposing Kecleon fainted!"
+"Chimecho got 1 Exp. Points!"
+"Obstagoon got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Obstagoon (2)
+     [Hypno] using Toxoplasm vs Chimecho does a max of 69/63 damage
+     [Hypno] using Toxoplasm vs Obstagoon does a max of 47/124 damage
+     [Hypno] using Psyshock vs Chimecho does a max of 20/63 damage
+     [Hypno] using Shadow Ball vs Chimecho does a max of 50/63 damage
+     [Hypno] using Dazzling Gleam vs Chimecho does a max of 19/63 damage
+     [Hypno] using Dazzling Gleam vs Obstagoon does a max of 50/124 damage
+==============================
+     Chimecho (0)'s best move: Psybeam for 36 damage
+==============================
+     [Hypno] + 12 because we have kill
+==============================
+     Chimecho (0)'s best move: Psybeam for 36 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 66 damage
+==============================
+     [Hypno] - 4 because Obstagoon (2) has 2HKO with Night Slash (66/118)
+     [Hypno] + 12 because we have kill
+     [Hypno] final Switch score: 20
+[AI] Highest move score (25) vs Switch In Score (20)
+"Team Galactic Grunt sent out Hypno!"
+     [Unfezant] using Dual Wingbeat vs Chimecho does a max of 51/63 damage
+     [Unfezant] using Dual Wingbeat vs Obstagoon does a max of 45/124 damage
+     [Unfezant] using Quick Attack vs Chimecho does a max of 39/63 damage
+     [Unfezant] using Quick Attack vs Obstagoon does a max of 35/124 damage
+     [Unfezant] using Hidden Power vs Obstagoon does a max of 27/124 damage
+     [Unfezant] using Steel Wing vs Chimecho does a max of 60/63 damage
+     [Unfezant] using Steel Wing vs Obstagoon does a max of 26/124 damage
+==============================
+     Chimecho (0)'s best move: Psybeam for 62 damage
+==============================
+     [Unfezant] - 4 because Chimecho (0) has 2HKO with Psybeam (62/114)
+     [Unfezant] + 5 because we outspeed
+     [Unfezant] + 6 because we have 2HKO
+==============================
+     Chimecho (0)'s best move: Psybeam for 62 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 30 damage
+==============================
+     [Unfezant] + 5 because we outspeed
+     [Unfezant] + 6 because we have 2HKO
+     [Unfezant] final Switch score: 18
+[AI] Highest move score (10) vs Switch In Score (18)
+"Team Galactic Grunt sent out Unfezant!"
+[Ability triggered] The opposing Hypno's Forewarn
+"The opposing Hypno was alerted to Dazzling Gleam!"
+[Ability triggered] The opposing Hypno's Forewarn
+[Stat change] The opposing Hypno's Special Defense changed by +1 (0 -> 1)
+"The opposing Hypno's Special Defense rose!"
+
+===== Round 3 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Chimecho (0)...
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Chimecho (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Chimecho (0)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   * 100.0% to use Toxoplasm (target 0): score 19
+   *   0.0% to use Toxoplasm (target 2): score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Toxoplasm (target 0)
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Obstagoon (2)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Chimecho (0)...
+     + 2 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Hidden Power (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Unfezant (3) is considering using Hidden Power (1) against Obstagoon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Chimecho (0)...
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Steel Wing (1) against Obstagoon (2)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Unfezant (3):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  36.4% to use Dual Wingbeat (target 2): score 4
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *  63.6% to use Steel Wing (target 0): score 7
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] Obstagoon (2), the opposing Unfezant (3), Chimecho (0), the opposing Hypno (1)
+
+"Chimecho, come back!"
+"You're in charge, Quagsire!"
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Unfezant's Defense changed by -2 (0 -> -2)
+"The opposing Unfezant's Defense harshly fell!"
+[Use move] The opposing Hypno (1) used Toxoplasm
+"The opposing Hypno used Toxoplasm!"
+[HP change] Quagsire lost 23 HP (131 -> 108)
+"It's not very effective..."
+"Quagsire had its energy drained!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 4 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *  41.7% to use Toxoplasm (target 2): score 5
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *  58.3% to use Dazzling Gleam: score 7
+   => will use Toxoplasm (target 2)
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Obstagoon (2)...
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Quagsire (0)...
+[AI] Unfezant (3) is considering using Quick Attack (1) against Obstagoon (2)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Quagsire (0)...
+[AI] Unfezant (3) is considering using Hidden Power (1) against Obstagoon (2)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Quagsire (0)...
+[AI] Unfezant (3) is considering using Steel Wing (1) against Obstagoon (2)...
+[AI] Move choices for Unfezant (3):
+   *  50.0% to use Dual Wingbeat (target 0): score 5
+   *  50.0% to use Dual Wingbeat (target 2): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Quick Attack (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Dual Wingbeat (target 2)
+
+[Round order] The opposing Unfezant (3), Obstagoon (2), the opposing Hypno (1), Quagsire (0)
+
+[Use move] The opposing Unfezant (3) used Dual Wingbeat
+"The opposing Unfezant used Dual Wingbeat!"
+[HP change] Obstagoon lost 29 HP (124 -> 95)
+[HP change] Obstagoon lost 30 HP (95 -> 65)
+"Hit 2 times!"
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Unfezant lost 50 HP (114 -> 64)
+[Use move] The opposing Hypno (1) used Toxoplasm
+"The opposing Hypno used Toxoplasm!"
+[HP change] Obstagoon lost 46 HP (65 -> 19)
+[HP change] Obstagoon gained 31 HP (19 -> 50)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+"Obstagoon had its energy drained!"
+[Use move] Quagsire (0) used Ice Punch
+"Quagsire used Ice Punch!"
+[HP change] The opposing Unfezant lost 59 HP (64 -> 5)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   * 100.0% to use Toxoplasm (target 2): score 6
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Toxoplasm (target 2)
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Quagsire (0)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Dual Wingbeat (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Unfezant (3) is considering using Quick Attack (1) against Quagsire (0)...
+     + 9 to get a last ditch hit off.
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Quick Attack (1) against Obstagoon (2)...
+     + 9 to get a last ditch hit off.
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Quagsire (0)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Hidden Power (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Quagsire (0)...
+     + 5 to factor in threat scoring.
+[AI] Unfezant (3) is considering using Steel Wing (1) against Obstagoon (2)...
+     + 5 to factor in threat scoring.
+[AI] Move choices for Unfezant (3):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dual Wingbeat (target 2): score 0
+   *  50.0% to use Quick Attack (target 0): score 15
+   *  50.0% to use Quick Attack (target 2): score 15
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use Steel Wing (target 2): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] Obstagoon (2), the opposing Unfezant (3), the opposing Hypno (1), Quagsire (0)
+
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Unfezant (3) used Quick Attack
+"The opposing Unfezant used Quick Attack!"
+[HP change] Quagsire lost 37 HP (108 -> 71)
+[Use move] The opposing Hypno (1) used Toxoplasm
+"The opposing Hypno used Toxoplasm!"
+"Obstagoon protected itself!"
+[Use move] Quagsire (0) used Ice Punch
+"Quagsire used Ice Punch!"
+[HP change] The opposing Unfezant lost 5 HP (5 -> 0)
+"It's super effective!"
+"The opposing Unfezant fainted!"
+"Quagsire got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Toxoplasm (1) against Obstagoon (2)...
+     + 3 to factor in threat scoring.
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Hypno (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *  28.6% to use Toxoplasm (target 2): score 4
+   *  28.6% to use Psyshock (target 0): score 4
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *  42.9% to use Dazzling Gleam: score 6
+   => will use Dazzling Gleam
+
+[Command phase] The opposing Unfezant (3) is forced to use a multi-turn move
+[Round order] Obstagoon (2), the opposing Hypno (1), Quagsire (0), the opposing Unfezant (3)
+
+"OK, Obstagoon! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Hypno (1) used Dazzling Gleam
+"The opposing Hypno used Dazzling Gleam!"
+[HP change] Quagsire lost 25 HP (71 -> 46)
+[HP change] Chimecho lost 18 HP (63 -> 45)
+[HP change] Chimecho gained 28 HP (45 -> 73)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[HP change] Quagsire gained 32 HP (46 -> 78)
+"Quagsire restored its health using its Sitrus Berry!"
+[Item consumed] Quagsire consumed its held Sitrus Berry
+[Use move] Quagsire (0) used Bulldoze
+"Quagsire used Bulldoze!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+[HP change] The opposing Hypno lost 58 HP (118 -> 60)
+"It's super effective!"
+[Stat change] The opposing Hypno's Speed changed by -1 (0 -> -1)
+"The opposing Hypno's Speed fell!"
+
+[End of round 6]
+[HP change] The opposing Hypno gained 7 HP (60 -> 67)
+"The opposing Hypno restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chimecho (2): 0
+     Threat Score for Chimecho (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hypno (1) is considering using Toxoplasm (1) against Quagsire (0)...
+     + 4 to factor in threat scoring.
+[AI] Hypno (1) is considering using Toxoplasm (1) against Chimecho (2)...
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Quagsire (0)...
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Hypno (1) is considering using Psyshock (1) against Chimecho (2)...
+     + 1 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Quagsire (0)...
+     + 4 to factor in threat scoring.
+[AI] Hypno (1) is considering using Shadow Ball (1) against Chimecho (2)...
+     + 1 to factor in threat scoring.
+[AI] Hypno (1) is considering using Dazzling Gleam (1)...
+     + 4 to factor in threat scoring.
+     + 1 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Hypno (1):
+   *   0.0% to use Toxoplasm (target 0): score 0
+   *   0.0% to use Toxoplasm (target 2): score 0
+   * 100.0% to use Psyshock (target 0): score 9
+   *   0.0% to use Psyshock (target 2): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psyshock (target 0)
+
+[Command phase] The opposing Unfezant (3) is forced to use a multi-turn move
+[Round order] Chimecho (2), Quagsire (0), the opposing Hypno (1), the opposing Unfezant (3)
+
+[Use move] Chimecho (2) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Hypno lost 22 HP (67 -> 45)
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Hypno lost 45 HP (45 -> 0)
+"The opposing Hypno fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt and Team Galactic Grunt!"
+"Ugh."
+"Ugh."
+
+"You got $2,304 for winning!"
+Roles for SCYTHER: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for DIPPLIN: [:SPECIALBREAKER]
+Roles for BISHARP: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for PRIMEAPE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Scyther!"
+"Go! Chimecho!"
+[Round order] The opposing Scyther (1), Chimecho (0)
+
+===== Round 1 =====
+
+Set up score for Scyther (1): 0
+Set up score for Scyther (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Quick Attack (1) against Chimecho (0)...
+[AI] Scyther (1) is considering using U-turn (1) against Chimecho (0)...
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Bug Bite (target 0)
+
+[Round order] The opposing Scyther (1), Chimecho (0)
+
+[Use move] The opposing Scyther (1) used Bug Bite
+"The opposing Scyther used Bug Bite!"
+[HP change] Chimecho lost 51 HP (115 -> 64)
+[Use move] Chimecho (0) used Icy Wind
+"Chimecho used Icy Wind!"
+[HP change] The opposing Scyther lost 53 HP (104 -> 51)
+"A critical hit!"
+"It's super effective!"
+[Stat change] The opposing Scyther's Speed changed by -1 (0 -> -1)
+"The opposing Scyther's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Scyther (1): -1
+Set up score for Scyther (1): -1
+Set up score for Scyther (1): -1
+Set up score for Scyther (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Quick Attack (1) against Chimecho (0)...
+[AI] Scyther (1) is considering using U-turn (1) against Chimecho (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *  50.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Chimecho (0), the opposing Scyther (1)
+
+"Chimecho, come back!"
+"Just a little more! Hang in there, Infernape!"
+[Use move] The opposing Scyther (1) used Bug Bite
+"The opposing Scyther used Bug Bite!"
+[HP change] Infernape lost 14 HP (112 -> 98)
+"It's not very effective..."
+"The opposing Scyther stole and ate its target's Sitrus Berry!"
+[HP change] The opposing Scyther gained 26 HP (51 -> 77)
+[Item triggered] Forced consuming of Sitrus Berry
+"The opposing Scyther's HP was restored."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Scyther (1): -1
+Set up score for Scyther (1): -1
+Set up score for Scyther (1): -1
+Set up score for Scyther (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Infernape (0)...
+     + 4 to prioritize highest damaging move
+[AI] Scyther (1) is considering using Bug Bite (1) against Infernape (0)...
+[AI] Scyther (1) is considering using Quick Attack (1) against Infernape (0)...
+[AI] Scyther (1) is considering using U-turn (1) against Infernape (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Scyther (1):
+   *  50.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Infernape (0), the opposing Scyther (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Scyther lost 44 HP (77 -> 33)
+"It's super effective!"
+[Use move] The opposing Scyther (1) used U-turn
+"The opposing Scyther used U-turn!"
+[HP change] Infernape lost 10 HP (98 -> 88)
+"It's not very effective..."
+"The opposing Scyther went back to Team Galactic Grunt!"
+     [Dipplin] using Dragon Pulse vs Infernape does a max of 48/88 damage
+     [Dipplin] using Giga Drain vs Infernape does a max of 21/88 damage
+     [Dipplin] using Hidden Power vs Infernape does a max of 12/88 damage
+==============================
+     Infernape (0)'s best move: Close Combat for 35 damage
+==============================
+     [Dipplin] + 6 because we have 2HKO
+     [Dipplin] final Switch score: 6
+     [Bisharp] using Cut vs Infernape does a max of 30/88 damage
+     [Bisharp] using Night Slash vs Infernape does a max of 29/88 damage
+     [Bisharp] using Low Kick vs Infernape does a max of 43/88 damage
+     [Bisharp] using Psycho Cut vs Infernape does a max of 76/88 damage
+==============================
+     Infernape (0)'s best move: Close Combat for 240 damage
+==============================
+     [Bisharp] - 9 because Infernape (0) has kill with Close Combat (240/101)
+     [Bisharp] + 6 because we have 2HKO
+     [Bisharp] final Switch score: -3
+     [Primeape] using Drain Punch vs Infernape does a max of 50/88 damage
+     [Primeape] using Shadow Punch vs Infernape does a max of 26/88 damage
+     [Primeape] using Ice Punch vs Infernape does a max of 17/88 damage
+     [Primeape] using Rock Slide vs Infernape does a max of 33/88 damage
+==============================
+     Infernape (0)'s best move: Close Combat for 59 damage
+==============================
+     [Primeape] - 4 because Infernape (0) has 2HKO with Close Combat (59/103)
+     [Primeape] + 6 because we have 2HKO
+     [Primeape] final Switch score: 2
+[AI] Highest move score (21) vs Switch In Score (6)
+"Team Galactic Grunt sent out Dipplin!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Dipplin (1): 0
+Set up score for Dipplin (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (14)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Infernape (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dipplin (1) is considering using Giga Drain (1) against Infernape (0)...
+[AI] Dipplin (1) is considering using Leech Seed (4) against Infernape (0)...
+     + 5 to encourage status move use
+     + 5 to encourage status move use
+[AI] Dipplin (1) is considering using Hidden Power (1) against Infernape (0)...
+[AI] Move choices for Dipplin (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Leech Seed (target 0): score 14
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Leech Seed (target 0)
+
+[Round order] Infernape (0), the opposing Dipplin (1)
+
+"Infernape, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Dipplin (1) used Leech Seed
+"The opposing Dipplin used Leech Seed!"
+"Chimecho was seeded!"
+
+[End of round 4]
+[HP change] Chimecho lost 14 HP (64 -> 50)
+"Chimecho's health is sapped by Leech Seed!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+Set up score for Dipplin (1): 0
+Set up score for Dipplin (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Dipplin (1) is considering using Giga Drain (1) against Chimecho (0)...
+[AI] Dipplin (1) is considering using Leech Seed (4) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  4: move will fail
+[AI] Dipplin (1) is considering using Hidden Power (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Dipplin (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Leech Seed (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Chimecho (0), the opposing Dipplin (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Dipplin lost 71 HP (114 -> 43)
+"It's super effective!"
+[Use move] The opposing Dipplin (1) used Hidden Power
+"The opposing Dipplin used Hidden Power!"
+[HP change] Chimecho lost 42 HP (50 -> 8)
+"It's super effective!"
+
+[End of round 5]
+[HP change] Chimecho lost 8 HP (8 -> 0)
+"Chimecho's health is sapped by Leech Seed!"
+[HP change] The opposing Dipplin gained 8 HP (43 -> 51)
+"Chimecho fainted!"
+Trick Room Turns: 0
+"Just a little more! Hang in there, Gardevoir!"
+
+===== Round 6 =====
+
+     move will not affect Gardevoir (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Dipplin (1): 0
+Set up score for Dipplin (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dipplin (1) is considering using Dragon Pulse (1) against Gardevoir (0)...
+     move will not affect Gardevoir (0)
+     -  1: move will fail
+[AI] Dipplin (1) is considering using Giga Drain (1) against Gardevoir (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dipplin (1) is considering using Leech Seed (4) against Gardevoir (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Dipplin (1) is considering using Hidden Power (1) against Gardevoir (0)...
+[AI] Move choices for Dipplin (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Gardevoir (0), the opposing Dipplin (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Dipplin lost 51 HP (51 -> 0)
+"It's super effective!"
+"The opposing Dipplin fainted!"
+"Infernape got 1 Exp. Points!"
+"Gardevoir got 1 Exp. Points!"
+
+[End of round 6]
+Trick Room Turns: 0
+     move will not affect Gardevoir (0)
+     [Scyther] using Dual Wingbeat vs Gardevoir does a max of 57/103 damage
+     [Scyther] using Bug Bite vs Gardevoir does a max of 65/103 damage
+     [Scyther] using Quick Attack vs Gardevoir does a max of 29/103 damage
+     [Scyther] using U-turn vs Gardevoir does a max of 51/103 damage
+==============================
+     Gardevoir (0)'s best move: Moonblast for 53 damage
+==============================
+     [Scyther] - 9 because Gardevoir (0) has kill with Moonblast (53/33)
+     [Scyther] + 5 because we outspeed
+     [Scyther] + 6 because we have 2HKO
+     [Scyther] - 20 because we will likely be killed if we switch in
+     [Scyther] final Switch score: -18
+     [Bisharp] using Cut vs Gardevoir does a max of 132/103 damage
+     [Bisharp] using Night Slash vs Gardevoir does a max of 62/103 damage
+     [Bisharp] using Low Kick vs Gardevoir does a max of 9/103 damage
+     [Bisharp] using Psycho Cut vs Gardevoir does a max of 21/103 damage
+==============================
+     Gardevoir (0)'s best move: Moonblast for 87 damage
+==============================
+     [Bisharp] - 4 because Gardevoir (0) has 2HKO with Moonblast (87/101)
+     [Bisharp] + 12 because we have kill
+     [Bisharp] final Switch score: 8
+     [Primeape] using Drain Punch vs Gardevoir does a max of 14/103 damage
+     [Primeape] using Shadow Punch vs Gardevoir does a max of 58/103 damage
+     [Primeape] using Ice Punch vs Gardevoir does a max of 36/103 damage
+     [Primeape] using Rock Slide vs Gardevoir does a max of 36/103 damage
+==============================
+     Gardevoir (0)'s best move: Moonblast for 114 damage
+==============================
+     [Primeape] - 9 because Gardevoir (0) has kill with Moonblast (114/103)
+     [Primeape] + 5 because we outspeed
+     [Primeape] + 6 because we have 2HKO
+     [Primeape] final Switch score: 2
+[AI] Highest move score (5) vs Switch In Score (8)
+"Team Galactic Grunt sent out Bisharp!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Bisharp (1): 0
+Set up score for Bisharp (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bisharp (1) is considering using Cut (1) against Gardevoir (0)...
+      + 20 for fast kill
+[AI] Bisharp (1) is considering using Night Slash (1) against Gardevoir (0)...
+[AI] Bisharp (1) is considering using Low Kick (1) against Gardevoir (0)...
+[AI] Bisharp (1) is considering using Psycho Cut (1) against Gardevoir (0)...
+[AI] Move choices for Bisharp (1):
+   * 100.0% to use Cut (target 0): score 21
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   => will use Cut (target 0)
+
+[Round order] Gardevoir (0), the opposing Bisharp (1)
+
+"Gardevoir, come back!"
+"You're in charge, Infernape!"
+[Use move] The opposing Bisharp (1) used Cut
+"The opposing Bisharp used Cut!"
+[HP change] Infernape lost 28 HP (88 -> 60)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Bisharp (1): 0
+Set up score for Bisharp (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bisharp (1) is considering using Cut (1) against Infernape (0)...
+[AI] Bisharp (1) is considering using Night Slash (1) against Infernape (0)...
+[AI] Bisharp (1) is considering using Low Kick (1) against Infernape (0)...
+[AI] Bisharp (1) is considering using Psycho Cut (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Move choices for Bisharp (1):
+   *   0.0% to use Cut (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   * 100.0% to use Psycho Cut (target 0): score 21
+   => will use Psycho Cut (target 0)
+
+[Round order] Infernape (0), the opposing Bisharp (1)
+
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Bisharp lost 101 HP (101 -> 0)
+"It's super effective!"
+[Stat change] Infernape's Defense changed by -1 (0 -> -1)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (0 -> -1)
+"Infernape's Special Defense fell!"
+"The opposing Bisharp fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Scyther] using Dual Wingbeat vs Infernape does a max of 159/60 damage
+     [Scyther] using Bug Bite vs Infernape does a max of 22/60 damage
+     [Scyther] using Quick Attack vs Infernape does a max of 40/60 damage
+     [Scyther] using U-turn vs Infernape does a max of 17/60 damage
+==============================
+     Infernape (0)'s best move: Flame Wheel for 51 damage
+==============================
+     [Scyther] - 9 because Infernape (0) has kill with Flame Wheel (51/33)
+     [Scyther] + 12 because we have kill
+     [Scyther] - 20 because we will likely be killed if we switch in
+     [Scyther] final Switch score: -17
+     [Primeape] using Drain Punch vs Infernape does a max of 74/60 damage
+     [Primeape] using Shadow Punch vs Infernape does a max of 39/60 damage
+     [Primeape] using Ice Punch vs Infernape does a max of 25/60 damage
+     [Primeape] using Rock Slide vs Infernape does a max of 49/60 damage
+==============================
+     Infernape (0)'s best move: Close Combat for 59 damage
+==============================
+     [Primeape] - 4 because Infernape (0) has 2HKO with Close Combat (59/103)
+     [Primeape] + 12 because we have kill
+     [Primeape] final Switch score: 8
+[AI] Highest move score (21) vs Switch In Score (8)
+"Team Galactic Grunt sent out Primeape!"
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Primeape (1): 0
+Set up score for Primeape (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): -2
+     Threat Score for Infernape (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Primeape (1) is considering using Drain Punch (1) against Infernape (0)...
+      + 20 for fast kill
+[AI] Primeape (1) is considering using Shadow Punch (1) against Infernape (0)...
+[AI] Primeape (1) is considering using Ice Punch (1) against Infernape (0)...
+[AI] Primeape (1) is considering using Rock Slide (1)...
+[AI] Move choices for Primeape (1):
+   * 100.0% to use Drain Punch (target 0): score 21
+   *   0.0% to use Shadow Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Infernape (0), the opposing Primeape (1)
+
+"Infernape, come back!"
+"You're in charge, Gardevoir!"
+[Use move] The opposing Primeape (1) used Drain Punch
+"The opposing Primeape used Drain Punch!"
+[HP change] Gardevoir lost 13 HP (103 -> 90)
+"It's not very effective..."
+"Gardevoir had its energy drained!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Primeape (1): 0
+Set up score for Primeape (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Primeape (1) is considering using Drain Punch (1) against Gardevoir (0)...
+[AI] Primeape (1) is considering using Shadow Punch (1) against Gardevoir (0)...
+     + 4 to prioritize highest damaging move
+[AI] Primeape (1) is considering using Ice Punch (1) against Gardevoir (0)...
+[AI] Primeape (1) is considering using Rock Slide (1)...
+[AI] Move choices for Primeape (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Shadow Punch (target 0): score 5
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Shadow Punch (target 0)
+
+[Round order] The opposing Primeape (1), Gardevoir (0)
+
+[Use move] The opposing Primeape (1) used Shadow Punch
+"The opposing Primeape used Shadow Punch!"
+[HP change] Gardevoir lost 54 HP (90 -> 36)
+"It's super effective!"
+[HP change] Gardevoir gained 25 HP (36 -> 61)
+"Gardevoir restored its health using its Sitrus Berry!"
+[Item consumed] Gardevoir consumed its held Sitrus Berry
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Primeape lost 103 HP (103 -> 0)
+"It's super effective!"
+"The opposing Primeape fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     [Scyther] using Dual Wingbeat vs Gardevoir does a max of 57/61 damage
+     [Scyther] using Bug Bite vs Gardevoir does a max of 65/61 damage
+     [Scyther] using Quick Attack vs Gardevoir does a max of 29/61 damage
+     [Scyther] using U-turn vs Gardevoir does a max of 51/61 damage
+==============================
+     Gardevoir (0)'s best move: Moonblast for 53 damage
+==============================
+     [Scyther] - 9 because Gardevoir (0) has kill with Moonblast (53/33)
+     [Scyther] + 5 because we outspeed
+     [Scyther] + 12 because we have kill
+     [Scyther] - 20 because we will likely be killed if we switch in
+     [Scyther] final Switch score: -12
+[AI] Highest move score (5) vs Switch In Score (-12)
+"Team Galactic Grunt sent out Scyther!"
+
+===== Round 11 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scyther (1) is considering using Dual Wingbeat (1) against Gardevoir (0)...
+[AI] Scyther (1) is considering using Bug Bite (1) against Gardevoir (0)...
+      + 5 for having a kill even if we are killed first
+[AI] Scyther (1) is considering using Quick Attack (1) against Gardevoir (0)...
+     + 9 to get a last ditch hit off.
+[AI] Scyther (1) is considering using U-turn (1) against Gardevoir (0)...
+[AI] Move choices for Scyther (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Bug Bite (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Scyther (1), Gardevoir (0)
+
+[Use move] The opposing Scyther (1) used Quick Attack
+"The opposing Scyther used Quick Attack!"
+[HP change] Gardevoir lost 41 HP (61 -> 20)
+"A critical hit!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Scyther lost 33 HP (33 -> 0)
+"The opposing Scyther fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,152 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Bulbasaur appeared!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the wild Bulbasaur (1)
+
+===== Round 1 =====
+
+"You got away safely!"
