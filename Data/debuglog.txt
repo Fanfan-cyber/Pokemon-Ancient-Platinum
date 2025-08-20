@@ -148328,3 +148328,35 @@ Set up score for Infernape (0): 0
 "Wow. You're great!"
 
 "You got $3,500 for winning!"
+=============================
+Item Chosen: Nugget
+Item Chosen: Root Fossil
+Item Chosen: Fire Stone
+=============================
+Item Chosen: Smooth Rock
+Item Chosen: Heat Rock
+Item Chosen: Green Shard
+=============================
+Item Chosen: Light Clay
+Item Chosen: Relic Copper
+Item Chosen: Blue Shard
+=============================
+Item Chosen: Relic Silver
+Item Chosen: Light Clay
+Item Chosen: Revive
+=============================
+Item Chosen: Relic Silver
+Item Chosen: Meadow Plate
+=============================
+Item Chosen: Ice Stone
+Item Chosen: Iron Ball
+=============================
+Item Chosen: Relic Copper
+Item Chosen: Light Clay
+Item Chosen: Mind Plate
+Item Chosen: Dusk Stone
+=============================
+Item Chosen: Relic Copper
+Item Chosen: Iron Ball
+Item Chosen: Icy Rock
+Item Chosen: Everstone
