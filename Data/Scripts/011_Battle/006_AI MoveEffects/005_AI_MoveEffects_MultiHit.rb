@@ -3,7 +3,7 @@
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("HitTwoTimes",
   proc { |power, move, user, target, ai, battle|
-    next power * move.move.pbNumHits(user.battler, [target.battler])
+    next power * 2 #move.move.pbNumHits(user.battler, [target.battler])
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitTwoTimes",

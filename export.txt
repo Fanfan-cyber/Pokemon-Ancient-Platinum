@@ -1,6 +1,16 @@
 
+Obstagoon @ Sitrus Berry
+Level: 46
+Rash Nature
+Ability: Guts
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Obstruct
+- Pin Missile
+- Night Slash
+- Headbutt
+
 Chimecho
-Level: 42
+Level: 46
 Naughty Nature
 Ability: Levitate
 IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
@@ -9,28 +19,38 @@ IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
 - Dazzling Gleam
 - Mach Pulse
 
-Musharna
-Level: 42
-Modest Nature
-Ability: Forewarn
-IVs: 6 HP / 18 Atk / 23 Def / 14 SpA / 3 SpD / 25 Spe
-- Dazzling Gleam
-- Psybeam
-- Moonlight
-- Yawn
+Skarmory
+Level: 46
+Relaxed Nature
+Ability: Sturdy
+IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
+- Drill Peck
+- Iron Head
+- Fury Attack
+- Spike Cannon
 
-Boldore
-Level: 42
-Quirky Nature
-Ability: Sand Force
-IVs: 27 HP / 23 Atk / 7 Def / 28 SpA / 2 SpD / 11 Spe
-- Shore Up
-- Rock Slide
-- Bulldoze
-- Rock Blast
+Falinks
+Level: 46
+Jolly Nature
+Ability: Skill Link
+IVs: 1 HP / 17 Atk / 20 Def / 0 SpA / 10 SpD / 6 Spe
+- Double Hit
+- Protect
+- Arm Thrust
+- Bullet Seed
+
+Electrode
+Level: 46
+Sassy Nature
+Ability: Static
+IVs: 0 HP / 17 Atk / 18 Def / 9 SpA / 14 SpD / 22 Spe
+- Magnet Rise
+- Discharge
+- Swift
+- Electro Ball
 
 Pyroar
-Level: 42
+Level: 46
 Relaxed Nature
 Ability: Unnerve
 IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
@@ -40,87 +60,57 @@ IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
 - Mach Pulse
 
 Floatzel
-Level: 42
+Level: 46
 Impish Nature
 Ability: Water Veil
 IVs: 7 HP / 5 Atk / 11 Def / 18 SpA / 11 SpD / 23 Spe
 - Aqua Jet
-- Waterfall
+- Aqua Tail
 - Bite
 - Quick Attack
 
-Butterfree
-Level: 42
-Bold Nature
-Ability: Compound Eyes
-IVs: 22 HP / 6 Atk / 26 Def / 22 SpA / 7 SpD / 19 Spe
-- Rage Powder
-- Tailwind
-- Bug Buzz
-- Air Slash
-
-Mismagius
-Level: 42
-Quiet Nature
-Ability: Levitate
-IVs: 29 HP / 31 Atk / 9 Def / 25 SpA / 5 SpD / 13 Spe
+Musharna
+Level: 46
+Modest Nature
+Ability: Forewarn
+IVs: 6 HP / 18 Atk / 23 Def / 14 SpA / 3 SpD / 25 Spe
 - Dazzling Gleam
-- Will-O-Wisp
-- Hex
-- Icy Wind
+- Psybeam
+- Moonlight
+- Yawn
 
 Scovillain
-Level: 42
+Level: 46
 Sassy Nature
 Ability: Chlorophyll
 IVs: 7 HP / 30 Atk / 28 Def / 15 SpA / 15 SpD / 22 Spe
 - Flamethrower
 - Weather Ball
-- Mega Drain
+- Seed Bomb
 - Crunch
 
-Magcargo
-Level: 42
-Bold Nature
-Ability: Magma Armor
-IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
-- Yawn
-- Clear Smog
-- Lava Plume
-- Scald
-
-Quagsire
-Level: 42
-Jolly Nature
-Ability: Unaware
-IVs: 31 HP / 30 Atk / 19 Def / 21 SpA / 11 SpD / 25 Spe
-- Aqua Tail
-- Stomping Tantrum
-- Yawn
+Hitmonchan
+Level: 46
+Quirky Nature
+Ability: Keen Eye
+IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
+- Drain Punch
+- Close Combat
+- Fake Out
 - Ice Punch
 
-Falinks
-Level: 42
-Jolly Nature
-Ability: Skill Link
-IVs: 1 HP / 17 Atk / 20 Def / 0 SpA / 10 SpD / 6 Spe
-- Double Hit
-- Protect
-- Arm Thrust
-- Bullet Seed
-
-Obstagoon @ Sitrus Berry
-Level: 42
-Rash Nature
-Ability: Guts
-IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
-- Obstruct
-- Pin Missile
-- Night Slash
-- Headbutt
+Butterfree
+Level: 46
+Bold Nature
+Ability: Compound Eyes
+IVs: 22 HP / 6 Atk / 26 Def / 22 SpA / 7 SpD / 19 Spe
+- Raging Swarm
+- Tailwind
+- Bug Buzz
+- Air Slash
 
 Gardevoir
-Level: 42
+Level: 46
 Calm Nature
 Ability: Synchronize
 IVs: 10 HP / 22 Atk / 26 Def / 30 SpA / 21 SpD / 3 Spe
@@ -129,18 +119,28 @@ IVs: 10 HP / 22 Atk / 26 Def / 30 SpA / 21 SpD / 3 Spe
 - Charm
 - Moonblast
 
-Sharpedo
-Level: 42
-Calm Nature
-Ability: Rough Skin
-IVs: 18 HP / 6 Atk / 30 Def / 4 SpA / 14 SpD / 26 Spe
-- Aqua Jet
-- Flip Turn
-- Crunch
-- Ice Fang
+Mismagius
+Level: 46
+Quiet Nature
+Ability: Levitate
+IVs: 29 HP / 31 Atk / 9 Def / 25 SpA / 5 SpD / 13 Spe
+- Dazzling Gleam
+- Will-O-Wisp
+- Hex
+- Icy Wind
+
+Quagsire
+Level: 46
+Jolly Nature
+Ability: Unaware
+IVs: 31 HP / 30 Atk / 19 Def / 21 SpA / 11 SpD / 25 Spe
+- Aqua Tail
+- Stomping Tantrum
+- Yawn
+- Ice Punch
 
 Infernape
-Level: 42
+Level: 46
 Calm Nature
 Ability: Blaze
 IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
@@ -149,12 +149,12 @@ IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
 - Mach Punch
 - Grass Knot
 
-Hitmonchan
-Level: 42
-Quirky Nature
-Ability: Keen Eye
-IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
-- Drain Punch
-- Close Combat
-- Fake Out
-- Ice Punch
+Magcargo
+Level: 46
+Bold Nature
+Ability: Magma Armor
+IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
+- Yawn
+- Clear Smog
+- Lava Plume
+- Scald
