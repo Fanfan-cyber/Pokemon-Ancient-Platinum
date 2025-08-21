@@ -155391,3 +155391,164 @@ Set up score for Obstagoon (0): 0
 
 ===== Round 1 =====
 
+Roles for ORICORIO: [:NONE]
+Roles for AUDINO: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Scientist Test!"
+"Scientist Test sent out Oricorio!"
+"Go! Pyroar!"
+[Round order] Pyroar (0), the opposing Oricorio (1)
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+     move will not affect Pyroar (0)
+     [Switch AI] +5 We have no moves that affect the target
+Set up score for Oricorio (1): 0
+Set up score for Oricorio (1): 0
+[AI] Switch out Score (5) vs Highest Moves Score (0)
+[AI] The AI will try to switch.
+     move will not affect Pyroar (0)
+     [Audino] using Hyper Voice vs Pyroar does a max of 47/123 damage
+==============================
+     Pyroar (0)'s best move: Flamethrower for 56 damage
+==============================
+     [Audino] - 3 because we have no kill
+     [Audino] final Switch score: -3
+[AI] Highest move score (0) vs Switch In Score (-3)
+   => no good replacement Pokémon, will not switch after all
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Oricorio (1) is considering using Revelation Dance (1) against Pyroar (0)...
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Move choices for Oricorio (1):
+   * 100.0% to use Revelation Dance (target 0): score 1
+   => will use Revelation Dance (target 0)
+
+[Round order] Pyroar (0), the opposing Oricorio (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Oricorio lost 64 HP (108 -> 44)
+[Use move] The opposing Oricorio (1) used Revelation Dance
+"The opposing Oricorio used Revelation Dance!"
+[Target immune] Pyroar's type immunity
+"It doesn't affect Pyroar..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Pyroar (0)
+     [Switch AI] +2 Target has fast kill
+     [Switch AI] +5 We have no moves that affect the target
+Set up score for Oricorio (1): 0
+Set up score for Oricorio (1): 0
+[AI] Switch out Score (7) vs Highest Moves Score (0)
+[AI] The AI will try to switch.
+     move will not affect Pyroar (0)
+     [Audino] using Hyper Voice vs Pyroar does a max of 47/123 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 79 damage
+==============================
+     [Audino] - 4 because Pyroar (0) has 2HKO with Endeavor (79/127)
+     [Audino] - 3 because we have no kill
+     [Audino] final Switch score: -7
+[AI] Highest move score (0) vs Switch In Score (-7)
+   => no good replacement Pokémon, will not switch after all
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oricorio (1) is considering using Revelation Dance (1) against Pyroar (0)...
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Move choices for Oricorio (1):
+   * 100.0% to use Revelation Dance (target 0): score 1
+   => will use Revelation Dance (target 0)
+
+[Round order] Pyroar (0), the opposing Oricorio (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Oricorio lost 44 HP (44 -> 0)
+"The opposing Oricorio fainted!"
+"Pyroar got 1599 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Pyroar (0)
+     [Audino] using Hyper Voice vs Pyroar does a max of 47/123 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 123 damage
+==============================
+     [Audino] - 4 because Pyroar (0) has 2HKO with Endeavor (123/127)
+     [Audino] - 3 because we have no kill
+     [Audino] final Switch score: -7
+[AI] Highest move score (0) vs Switch In Score (-7)
+"Scientist Test sent out Audino!"
+
+===== Round 3 =====
+
+[AI] Audino (1) will Mega Evolve
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Audino (1) is considering using Hyper Voice (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Audino (1):
+   * 100.0% to use Hyper Voice: score 5
+   => will use Hyper Voice
+
+[Round order] Pyroar (0), the opposing Audino (1)
+
+"The opposing Audino's Audinite is reacting to Scientist Test's Mega Ring!"
+"The opposing Audino has Mega Evolved into Mega Audino!"
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Audino lost 39 HP (127 -> 88)
+[Use move] The opposing Audino (1) used Hyper Voice
+"The opposing Audino used Hyper Voice!"
+[HP change] Pyroar lost 54 HP (123 -> 69)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Audino (1) is considering using Hyper Voice (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Audino (1):
+   * 100.0% to use Hyper Voice: score 5
+   => will use Hyper Voice
+
+[Round order] Pyroar (0), the opposing Audino (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Audino lost 42 HP (88 -> 46)
+[Use move] The opposing Audino (1) used Hyper Voice
+"The opposing Audino used Hyper Voice!"
+[HP change] Pyroar lost 69 HP (69 -> 0)
+"A critical hit!"
+"Pyroar fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
