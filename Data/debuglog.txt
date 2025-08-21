@@ -172243,3 +172243,2901 @@ Set up score for Obstagoon (0): 0
 "Wow. You're great!"
 
 "You got $1,376 for winning!"
+Roles for MORPEKO: [:PHYSICALBREAKER]
+Roles for MAWILE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for JELLICENT: [:SPECIALBREAKER, :TANK]
+Roles for SWELLOW: [:PHYSICALBREAKER, :STATUSABSORBER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Cyclist Rachel!"
+"Cyclist Rachel sent out Morpeko!"
+"Go! Hitmonchan!"
+[Round order] The opposing Morpeko (1), Hitmonchan (0)
+"The opposing Morpeko floats in the air with its Air Balloon!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Morpeko (1): 0
+Set up score for Morpeko (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Morpeko (1) is considering using Aura Wheel (1) against Hitmonchan (0)...
+[AI] Morpeko (1) is considering using Seed Bomb (1) against Hitmonchan (0)...
+[AI] Morpeko (1) is considering using Stomping Tantrum (1) against Hitmonchan (0)...
+[AI] Morpeko (1) is considering using Psychic Fangs (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Morpeko (1):
+   *   0.0% to use Aura Wheel (target 0): score 0
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   * 100.0% to use Psychic Fangs (target 0): score 5
+   => will use Psychic Fangs (target 0)
+
+[Round order] The opposing Morpeko (1), Hitmonchan (0)
+
+[Use move] The opposing Morpeko (1) used Psychic Fangs
+"The opposing Morpeko used Psychic Fangs!"
+[HP change] Hitmonchan lost 77 HP (112 -> 35)
+"It's super effective!"
+[HP change] Hitmonchan gained 28 HP (35 -> 63)
+"Hitmonchan restored its health using its Sitrus Berry!"
+[Item consumed] Hitmonchan consumed its held Sitrus Berry
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Morpeko lost 116 HP (116 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Morpeko's Air Balloon popped!"
+[Item consumed] The opposing Morpeko consumed its held Air Balloon
+"The opposing Morpeko fainted!"
+"The opposing Morpeko had its energy drained!"
+[HP change] Hitmonchan gained 49 HP (63 -> 112)
+
+[End of round 1]
+Trick Room Turns: 0
+     [Mawile] using Iron Head vs Hitmonchan does a max of 59/112 damage
+     [Mawile] using Play Rough vs Hitmonchan does a max of 132/112 damage
+     [Mawile] using Sucker Punch vs Hitmonchan does a max of 17/112 damage
+==============================
+     Hitmonchan (0)'s best move: Close Combat for 93 damage
+==============================
+     [Mawile] - 4 because Hitmonchan (0) has 2HKO with Close Combat (93/109)
+     [Mawile] + 12 because we have kill
+     [Mawile] final Switch score: 8
+     [Jellicent] using Scald vs Hitmonchan does a max of 39/112 damage
+     [Jellicent] using Hex vs Hitmonchan does a max of 33/112 damage
+     [Jellicent] using Ice Beam vs Hitmonchan does a max of 30/112 damage
+==============================
+     Hitmonchan (0)'s best move: Ice Punch for 21 damage
+==============================
+     [Jellicent] + 3 for outdamaging opponent (39) vs (21)
+     [Jellicent] final Switch score: 3
+     [Swellow] using Dual Wingbeat vs Hitmonchan does a max of 108/112 damage
+     [Swellow] using Facade vs Hitmonchan does a max of 48/112 damage
+     [Swellow] using Steel Wing vs Hitmonchan does a max of 32/112 damage
+==============================
+     Hitmonchan (0)'s best move: Close Combat for 119 damage
+==============================
+     [Swellow] - 4 because Hitmonchan (0) has 2HKO with Close Combat (119/120)
+     [Swellow] + 5 because we outspeed
+     [Swellow] + 6 because we have 2HKO
+     [Swellow] final Switch score: 7
+[AI] Highest move score (5) vs Switch In Score (8)
+"Cyclist Rachel sent out Mawile!"
+[Ability triggered] The opposing Mawile's Intimidate
+[Stat change] Hitmonchan's Attack changed by -1 (0 -> -1)
+"Hitmonchan's Attack fell!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Iron Head (1) against Hitmonchan (0)...
+[AI] Mawile (1) is considering using Play Rough (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Mawile (1) is considering using Sucker Punch (1) against Hitmonchan (0)...
+     + 2 for factoring in 0 Status Moves from Hitmonchan (0)
+[AI] Mawile (1) is considering using Swords Dance (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] Hitmonchan (0), the opposing Mawile (1)
+
+"Hitmonchan, come back!"
+"You're in charge, Magcargo!"
+[Use move] The opposing Mawile (1) used Play Rough
+"The opposing Mawile used Play Rough!"
+[HP change] Magcargo lost 20 HP (121 -> 101)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Iron Head (1) against Magcargo (0)...
+[AI] Mawile (1) is considering using Play Rough (1) against Magcargo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mawile (1) is considering using Sucker Punch (1) against Magcargo (0)...
+     - 1 for factoring in 1 Status Moves from Magcargo (0)
+     + 9 to get a last ditch hit off.
+[AI] Mawile (1) is considering using Swords Dance (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 9
+   *   0.0% to use Swords Dance: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Mawile (1), Magcargo (0)
+
+[Use move] The opposing Mawile (1) used Sucker Punch
+"The opposing Mawile used Sucker Punch!"
+[HP change] Magcargo lost 22 HP (101 -> 79)
+[Use move] Magcargo (0) used Lava Plume
+"Magcargo used Lava Plume!"
+[HP change] The opposing Mawile lost 109 HP (109 -> 0)
+"It's super effective!"
+"The opposing Mawile fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Jellicent] using Scald vs Magcargo does a max of 53/79 damage
+     [Jellicent] using Hex vs Magcargo does a max of 44/79 damage
+     [Jellicent] using Ice Beam vs Magcargo does a max of 10/79 damage
+==============================
+     Magcargo (0)'s best move: Lava Plume for 21 damage
+==============================
+     [Jellicent] + 5 because we outspeed
+     [Jellicent] + 6 because we have 2HKO
+     [Jellicent] final Switch score: 11
+     [Swellow] using Dual Wingbeat vs Magcargo does a max of 36/79 damage
+     [Swellow] using Facade vs Magcargo does a max of 32/79 damage
+     [Swellow] using Steel Wing vs Magcargo does a max of 5/79 damage
+==============================
+     Magcargo (0)'s best move: Lava Plume for 71 damage
+==============================
+     [Swellow] - 4 because Magcargo (0) has 2HKO with Lava Plume (71/120)
+     [Swellow] + 5 because we outspeed
+     [Swellow] - 3 because we have no kill
+     [Swellow] final Switch score: -2
+[AI] Highest move score (1) vs Switch In Score (11)
+"Cyclist Rachel sent out Jellicent!"
+
+===== Round 4 =====
+
+Set up score for Jellicent (1): 0
+Set up score for Jellicent (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jellicent (1) is considering using Scald (1) against Magcargo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jellicent (1) is considering using Hex (1) against Magcargo (0)...
+[AI] Jellicent (1) is considering using Ice Beam (1) against Magcargo (0)...
+[AI] Jellicent (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Jellicent (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Jellicent (1), Magcargo (0)
+
+"Magcargo, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Jellicent (1) used Scald
+"The opposing Jellicent used Scald!"
+[HP change] Obstagoon lost 52 HP (148 -> 96)
+
+[End of round 4]
+[HP change] Obstagoon lost 9 HP (96 -> 87)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Jellicent (1): 0
+Set up score for Jellicent (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jellicent (1) is considering using Scald (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jellicent (1) is considering using Hex (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Jellicent (1) is considering using Ice Beam (1) against Obstagoon (0)...
+[AI] Jellicent (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Jellicent (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Jellicent (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Jellicent lost 145 HP (152 -> 7)
+"It's super effective!"
+[Use move] The opposing Jellicent (1) used Scald
+"The opposing Jellicent used Scald!"
+[HP change] Obstagoon lost 56 HP (87 -> 31)
+[HP change] Obstagoon gained 37 HP (31 -> 68)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 5]
+[HP change] The opposing Jellicent gained 9 HP (7 -> 16)
+"The opposing Jellicent restored a little HP using its Leftovers!"
+[HP change] Obstagoon lost 9 HP (68 -> 59)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Jellicent (1): 0
+Set up score for Jellicent (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jellicent (1) is considering using Scald (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Jellicent (1) is considering using Hex (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Jellicent (1) is considering using Ice Beam (1) against Obstagoon (0)...
+[AI] Jellicent (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Jellicent (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Jellicent (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Jellicent lost 16 HP (16 -> 0)
+"It's super effective!"
+"The opposing Jellicent fainted!"
+
+[End of round 6]
+[HP change] Obstagoon lost 9 HP (59 -> 50)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     [Swellow] using Dual Wingbeat vs Obstagoon does a max of 42/50 damage
+     [Swellow] using Facade vs Obstagoon does a max of 38/50 damage
+     [Swellow] using Steel Wing vs Obstagoon does a max of 25/50 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 92 damage
+==============================
+     [Swellow] - 4 because Obstagoon (0) has 2HKO with Night Slash (92/120)
+     [Swellow] + 5 because we outspeed
+     [Swellow] + 6 because we have 2HKO
+     [Swellow] final Switch score: 7
+[AI] Highest move score (21) vs Switch In Score (7)
+"Cyclist Rachel sent out Swellow!"
+
+===== Round 7 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Swellow (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swellow (1) is considering using Facade (1) against Obstagoon (0)...
+[AI] Swellow (1) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Swellow (1) is considering using Steel Wing (1) against Obstagoon (0)...
+[AI] Move choices for Swellow (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Facade (target 0): score 0
+   * 100.0% to use Protect: score 9
+   *   0.0% to use Steel Wing (target 0): score 0
+   => will use Protect
+
+[Round order] The opposing Swellow (1), Obstagoon (0)
+
+"OK, Obstagoon! Come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Swellow (1) used Protect
+"The opposing Swellow used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+
+[End of round 7]
+Trick Room Turns: 0
+"The opposing Swellow was burned by the Flame Orb!"
+
+===== Round 8 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Swellow (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+[AI] Swellow (1) is considering using Facade (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swellow (1) is considering using Protect (4)...
+[AI] Swellow (1) is considering using Steel Wing (1) against Skarmory (0)...
+[AI] Move choices for Swellow (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Facade (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   => will use Facade (target 0)
+
+[Round order] The opposing Swellow (1), Skarmory (0)
+
+[Use move] The opposing Swellow (1) used Facade
+"The opposing Swellow used Facade!"
+[HP change] Skarmory lost 35 HP (127 -> 92)
+"It's not very effective..."
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Swellow lost 60 HP (120 -> 60)
+
+[End of round 8]
+[HP change] The opposing Swellow lost 7 HP (60 -> 53)
+"The opposing Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Swellow (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+[AI] Swellow (1) is considering using Facade (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Swellow (1) is considering using Protect (4)...
+[AI] Swellow (1) is considering using Steel Wing (1) against Skarmory (0)...
+[AI] Move choices for Swellow (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Facade (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Steel Wing (target 0): score 0
+   => will use Facade (target 0)
+
+[Round order] The opposing Swellow (1), Skarmory (0)
+
+[Use move] The opposing Swellow (1) used Facade
+"The opposing Swellow used Facade!"
+[HP change] Skarmory lost 32 HP (92 -> 60)
+"It's not very effective..."
+[HP change] Skarmory gained 31 HP (60 -> 91)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Swellow lost 53 HP (53 -> 0)
+"The opposing Swellow fainted!"
+
+===== Player won =====
+
+"You defeated Cyclist Rachel!"
+"Wow. You're great!"
+
+"You got $1,408 for winning!"
+Roles for SALAZZLE: [:SPECIALBREAKER]
+Roles for MIENSHAO: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SPIRITOMB: [:NONE]
+Roles for NOIVERN: [:SPECIALBREAKER]
+Roles for AGGRON: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Kayla!"
+"Ace Trainer Kayla sent out Salazzle!"
+"Go! Floatzel!"
+[Round order] The opposing Salazzle (1), Floatzel (0)
+"The opposing Salazzle floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Salazzle (1): 0
+Set up score for Salazzle (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Salazzle (1) is considering using Fake Out (1) against Floatzel (0)...
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Salazzle (1) is considering using Flamethrower (1) against Floatzel (0)...
+[AI] Salazzle (1) is considering using Sludge Bomb (1) against Floatzel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Salazzle (1) is considering using Hidden Power (1) against Floatzel (0)...
+[AI] Move choices for Salazzle (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Salazzle (1), Floatzel (0)
+
+[Use move] The opposing Salazzle (1) used Fake Out
+"The opposing Salazzle used Fake Out!"
+[HP change] Floatzel lost 16 HP (137 -> 121)
+[Use move] Floatzel (0) used Aqua Tail
+"Floatzel flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Salazzle (1): 0
+Set up score for Salazzle (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salazzle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Salazzle (1) is considering using Flamethrower (1) against Floatzel (0)...
+[AI] Salazzle (1) is considering using Sludge Bomb (1) against Floatzel (0)...
+     + 4 to prioritize highest damaging move
+[AI] Salazzle (1) is considering using Hidden Power (1) against Floatzel (0)...
+[AI] Move choices for Salazzle (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Salazzle (1), Floatzel (0)
+
+[Use move] The opposing Salazzle (1) used Sludge Bomb
+"The opposing Salazzle used Sludge Bomb!"
+[HP change] Floatzel lost 92 HP (121 -> 29)
+[HP change] Floatzel gained 34 HP (29 -> 63)
+"Floatzel restored its health using its Sitrus Berry!"
+[Item consumed] Floatzel consumed its held Sitrus Berry
+[Use move] Floatzel (0) used Aqua Tail
+"Floatzel used Aqua Tail!"
+[HP change] The opposing Salazzle lost 124 HP (124 -> 0)
+"It's super effective!"
+"The opposing Salazzle's Air Balloon popped!"
+[Item consumed] The opposing Salazzle consumed its held Air Balloon
+"The opposing Salazzle fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Mienshao] using Fake Out vs Floatzel does a max of 30/63 damage
+     [Mienshao] using Close Combat vs Floatzel does a max of 132/63 damage
+     [Mienshao] using U-turn vs Floatzel does a max of 52/63 damage
+     [Mienshao] using Rock Slide vs Floatzel does a max of 55/63 damage
+==============================
+     Floatzel (0)'s best move: Aqua Tail for 83 damage
+==============================
+     [Mienshao] - 4 because Floatzel (0) has 2HKO with Aqua Tail (83/122)
+     [Mienshao] + 12 because we have kill
+     [Mienshao] final Switch score: 8
+     [Spiritomb] using Hex vs Floatzel does a max of 78/63 damage
+     [Spiritomb] using Hidden Power vs Floatzel does a max of 48/63 damage
+     [Spiritomb] using Pursuit vs Floatzel does a max of 45/63 damage
+==============================
+     Floatzel (0)'s best move: Aqua Tail for 53 damage
+==============================
+     [Spiritomb] + 12 because we have kill
+     [Spiritomb] final Switch score: 12
+     [Noivern] using Hyper Voice vs Floatzel does a max of 84/63 damage
+     [Noivern] using Dragon Pulse vs Floatzel does a max of 92/63 damage
+     [Noivern] using Air Slash vs Floatzel does a max of 81/63 damage
+     [Noivern] using Flamethrower vs Floatzel does a max of 33/63 damage
+==============================
+     Floatzel (0)'s best move: Aqua Tail for 32 damage
+==============================
+     [Noivern] + 5 because we outspeed
+     [Noivern] + 12 because we have kill
+     [Noivern] final Switch score: 17
+     [Aggron] using Heavy Slam vs Floatzel does a max of 23/63 damage
+     [Aggron] using Rock Slide vs Floatzel does a max of 84/63 damage
+     [Aggron] using Earthquake vs Floatzel does a max of 74/63 damage
+     [Aggron] using Body Press vs Floatzel does a max of 83/63 damage
+==============================
+     Floatzel (0)'s best move: Aqua Tail for 66 damage
+==============================
+     [Aggron] - 4 because Floatzel (0) has 2HKO with Aqua Tail (66/129)
+     [Aggron] + 12 because we have kill
+     [Aggron] final Switch score: 8
+[AI] Highest move score (21) vs Switch In Score (17)
+"Ace Trainer Kayla sent out Noivern!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Noivern (1): 0
+Set up score for Noivern (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Noivern (1) is considering using Hyper Voice (1)...
+      + 20 for fast kill
+[AI] Noivern (1) is considering using Dragon Pulse (1) against Floatzel (0)...
+      + 20 for fast kill
+[AI] Noivern (1) is considering using Air Slash (1) against Floatzel (0)...
+      + 20 for fast kill
+[AI] Noivern (1) is considering using Flamethrower (1) against Floatzel (0)...
+[AI] Move choices for Noivern (1):
+   *  33.3% to use Hyper Voice: score 21
+   *  33.3% to use Dragon Pulse (target 0): score 21
+   *  33.3% to use Air Slash (target 0): score 21
+   *   0.0% to use Flamethrower (target 0): score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Noivern (1), Floatzel (0)
+
+"OK, Floatzel! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Noivern (1) used Dragon Pulse
+"The opposing Noivern used Dragon Pulse!"
+[Target immune] Chimecho's type immunity
+"It doesn't affect Chimecho..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Chimecho (0)
+Set up score for Noivern (1): 0
+Set up score for Noivern (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Noivern (1) is considering using Hyper Voice (1)...
+[AI] Noivern (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Noivern (1) is considering using Air Slash (1) against Chimecho (0)...
+[AI] Noivern (1) is considering using Flamethrower (1) against Chimecho (0)...
+[AI] Move choices for Noivern (1):
+   *  33.3% to use Hyper Voice: score 1
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *  33.3% to use Air Slash (target 0): score 1
+   *  33.3% to use Flamethrower (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Noivern (1), Chimecho (0)
+
+[Use move] The opposing Noivern (1) used Air Slash
+"The opposing Noivern used Air Slash!"
+[HP change] Chimecho lost 46 HP (137 -> 91)
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Noivern lost 132 HP (142 -> 10)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Noivern (1): 0
+Set up score for Noivern (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Noivern (1) is considering using Hyper Voice (1)...
+[AI] Noivern (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Noivern (1) is considering using Air Slash (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Noivern (1) is considering using Flamethrower (1) against Chimecho (0)...
+[AI] Move choices for Noivern (1):
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] Chimecho (0), the opposing Noivern (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Noivern lost 10 HP (10 -> 0)
+"The opposing Noivern fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+     [Mienshao] using Fake Out vs Chimecho does a max of 22/91 damage
+     [Mienshao] using Close Combat vs Chimecho does a max of 24/91 damage
+     [Mienshao] using U-turn vs Chimecho does a max of 38/91 damage
+     [Mienshao] using Rock Slide vs Chimecho does a max of 40/91 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 114 damage
+==============================
+     [Mienshao] - 4 because Chimecho (0) has 2HKO with Dazzling Gleam (114/122)
+     [Mienshao] + 5 because we outspeed
+     [Mienshao] - 3 because we have no kill
+     [Mienshao] final Switch score: -2
+     [Spiritomb] using Hex vs Chimecho does a max of 93/91 damage
+     [Spiritomb] using Hidden Power vs Chimecho does a max of 56/91 damage
+     [Spiritomb] using Pursuit vs Chimecho does a max of 33/91 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 108 damage
+==============================
+     [Spiritomb] - 4 because Chimecho (0) has 2HKO with Dazzling Gleam (108/117)
+     [Spiritomb] + 12 because we have kill
+     [Spiritomb] final Switch score: 8
+     [Aggron] using Heavy Slam vs Chimecho does a max of 192/91 damage
+     [Aggron] using Rock Slide vs Chimecho does a max of 62/91 damage
+     [Aggron] using Body Press vs Chimecho does a max of 15/91 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 41 damage
+==============================
+     [Aggron] + 12 because we have kill
+     [Aggron] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Ace Trainer Kayla sent out Aggron!"
+
+===== Round 6 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Aggron (1): 0
+Set up score for Aggron (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aggron (1) is considering using Heavy Slam (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Rock Slide (1)...
+[AI] Aggron (1) is considering using Earthquake (1)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Aggron (1) is considering using Body Press (1) against Chimecho (0)...
+[AI] Move choices for Aggron (1):
+   * 100.0% to use Heavy Slam (target 0): score 21
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Body Press (target 0): score 0
+   => will use Heavy Slam (target 0)
+
+[Round order] Chimecho (0), the opposing Aggron (1)
+
+"Chimecho, come back!"
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Aggron (1) used Heavy Slam
+"The opposing Aggron used Heavy Slam!"
+[HP change] Hitmonchan lost 97 HP (112 -> 15)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Aggron (1): 0
+Set up score for Aggron (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aggron (1) is considering using Heavy Slam (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Rock Slide (1)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Earthquake (1)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Body Press (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Move choices for Aggron (1):
+   *  25.0% to use Heavy Slam (target 0): score 21
+   *  25.0% to use Rock Slide: score 21
+   *  25.0% to use Earthquake: score 21
+   *  25.0% to use Body Press (target 0): score 21
+   => will use Body Press (target 0)
+
+[Round order] Hitmonchan (0), the opposing Aggron (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Aggron lost 3 HP (129 -> 126)
+"It's not very effective..."
+[Use move] The opposing Aggron (1) used Body Press
+"The opposing Aggron flinched and couldn't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Aggron (1): 0
+Set up score for Aggron (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aggron (1) is considering using Heavy Slam (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Rock Slide (1)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Earthquake (1)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Body Press (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Move choices for Aggron (1):
+   *  25.0% to use Heavy Slam (target 0): score 21
+   *  25.0% to use Rock Slide: score 21
+   *  25.0% to use Earthquake: score 21
+   *  25.0% to use Body Press (target 0): score 21
+   => will use Heavy Slam (target 0)
+
+[Round order] Hitmonchan (0), the opposing Aggron (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Aggron lost 116 HP (126 -> 10)
+"It's super effective!"
+[Stat change] The opposing Aggron's Speed changed by +2 (0 -> 2)
+"The opposing Aggron's Starf Berry sharply raised its Speed!"
+[Item consumed] The opposing Aggron consumed its held Starf Berry
+"The opposing Aggron had its energy drained!"
+[HP change] Hitmonchan gained 58 HP (15 -> 73)
+[Use move] The opposing Aggron (1) used Heavy Slam
+"The opposing Aggron used Heavy Slam!"
+[HP change] Hitmonchan lost 73 HP (73 -> 0)
+"Hitmonchan fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Floatzel!"
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Aggron (1): 2
+Set up score for Aggron (1): 2
+Set up score for Aggron (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-19) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aggron (1) is considering using Heavy Slam (1) against Floatzel (0)...
+[AI] Aggron (1) is considering using Rock Slide (1)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Earthquake (1)...
+      + 20 for fast kill
+[AI] Aggron (1) is considering using Body Press (1) against Floatzel (0)...
+      + 20 for fast kill
+[AI] Move choices for Aggron (1):
+   *   0.0% to use Heavy Slam (target 0): score 0
+   *  33.3% to use Rock Slide: score 21
+   *  33.3% to use Earthquake: score 21
+   *  33.3% to use Body Press (target 0): score 21
+   => will use Earthquake
+
+[Round order] Floatzel (0), the opposing Aggron (1)
+
+[Use move] Floatzel (0) used Aqua Jet
+"Floatzel used Aqua Jet!"
+[HP change] The opposing Aggron lost 10 HP (10 -> 0)
+"It's super effective!"
+"The opposing Aggron fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     [Mienshao] using Fake Out vs Floatzel does a max of 30/63 damage
+     [Mienshao] using Close Combat vs Floatzel does a max of 132/63 damage
+     [Mienshao] using U-turn vs Floatzel does a max of 52/63 damage
+     [Mienshao] using Rock Slide vs Floatzel does a max of 55/63 damage
+==============================
+     Floatzel (0)'s best move: Aqua Tail for 83 damage
+==============================
+     [Mienshao] - 4 because Floatzel (0) has 2HKO with Aqua Tail (83/122)
+     [Mienshao] + 12 because we have kill
+     [Mienshao] final Switch score: 8
+     [Spiritomb] using Hex vs Floatzel does a max of 78/63 damage
+     [Spiritomb] using Hidden Power vs Floatzel does a max of 48/63 damage
+     [Spiritomb] using Pursuit vs Floatzel does a max of 45/63 damage
+==============================
+     Floatzel (0)'s best move: Aqua Tail for 53 damage
+==============================
+     [Spiritomb] + 12 because we have kill
+     [Spiritomb] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+"Ace Trainer Kayla sent out Spiritomb!"
+[Ability triggered] The opposing Spiritomb's Intimidate
+[Stat change] Floatzel's Attack changed by -1 (0 -> -1)
+"Floatzel's Attack fell!"
+
+===== Round 10 =====
+
+     move will not affect Floatzel (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Spiritomb (1): 0
+Set up score for Spiritomb (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spiritomb (1) is considering using Will-O-Wisp (4) against Floatzel (0)...
+     move will not affect Floatzel (0)
+     -  4: move will fail
+[AI] Spiritomb (1) is considering using Hex (1) against Floatzel (0)...
+      + 20 for fast kill
+[AI] Spiritomb (1) is considering using Hidden Power (1) against Floatzel (0)...
+[AI] Spiritomb (1) is considering using Pursuit (1) against Floatzel (0)...
+     + 2 because we see kill with Pursuit, but only if target switches
+[AI] Move choices for Spiritomb (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   * 100.0% to use Hex (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Pursuit (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] Floatzel (0), the opposing Spiritomb (1)
+
+"OK, Floatzel! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Spiritomb (1) used Hex
+"The opposing Spiritomb used Hex!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 10]
+[HP change] Obstagoon lost 9 HP (148 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Spiritomb (1): 0
+Set up score for Spiritomb (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spiritomb (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Spiritomb (1) is considering using Hex (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Spiritomb (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Spiritomb (1) is considering using Pursuit (1) against Obstagoon (0)...
+[AI] Move choices for Spiritomb (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Pursuit (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Spiritomb (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Spiritomb lost 86 HP (117 -> 31)
+"A critical hit!"
+[Use move] The opposing Spiritomb (1) used Hidden Power
+"The opposing Spiritomb used Hidden Power!"
+[HP change] Obstagoon lost 38 HP (139 -> 101)
+
+[End of round 11]
+[HP change] The opposing Spiritomb gained 7 HP (31 -> 38)
+"The opposing Spiritomb restored a little HP using its Leftovers!"
+[HP change] Obstagoon lost 9 HP (101 -> 92)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Spiritomb (1): 0
+Set up score for Spiritomb (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spiritomb (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Spiritomb (1) is considering using Hex (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Spiritomb (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Spiritomb (1) is considering using Pursuit (1) against Obstagoon (0)...
+[AI] Move choices for Spiritomb (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Pursuit (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Spiritomb (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Spiritomb lost 38 HP (38 -> 0)
+"The opposing Spiritomb fainted!"
+
+[End of round 12]
+[HP change] Obstagoon lost 9 HP (92 -> 83)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Mienshao] using Fake Out vs Obstagoon does a max of 19/83 damage
+     [Mienshao] using Close Combat vs Obstagoon does a max of 330/83 damage
+     [Mienshao] using U-turn vs Obstagoon does a max of 66/83 damage
+     [Mienshao] using Rock Slide vs Obstagoon does a max of 35/83 damage
+==============================
+     Obstagoon (0)'s best move: Headbutt for 95 damage
+==============================
+     [Mienshao] - 4 because Obstagoon (0) has 2HKO with Headbutt (95/122)
+     [Mienshao] + 5 because we outspeed
+     [Mienshao] + 12 because we have kill
+     [Mienshao] final Switch score: 13
+[AI] Highest move score (5) vs Switch In Score (13)
+"Ace Trainer Kayla sent out Mienshao!"
+
+===== Round 13 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienshao (1) is considering using Fake Out (1) against Obstagoon (0)...
+     + 18 for using turn 1
+[AI] Mienshao (1) is considering using Close Combat (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Mienshao (1) is considering using U-turn (1) against Obstagoon (0)...
+[AI] Mienshao (1) is considering using Rock Slide (1)...
+[AI] Move choices for Mienshao (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Mienshao (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Mienshao (1) used Close Combat
+"The opposing Mienshao used Close Combat!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienshao (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienshao (1) is considering using Close Combat (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Mienshao (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Mienshao (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienshao (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   => will use Rock Slide
+
+[Round order] The opposing Mienshao (1), Mismagius (0)
+
+[Use move] The opposing Mienshao (1) used Rock Slide
+"The opposing Mienshao used Rock Slide!"
+[HP change] Mismagius lost 53 HP (124 -> 71)
+[Use move] Mismagius (0) used Will-O-Wisp
+"Mismagius flinched and couldn't move!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienshao (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienshao (1) is considering using Close Combat (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Mienshao (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Mienshao (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienshao (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   => will use Rock Slide
+
+[Round order] The opposing Mienshao (1), Mismagius (0)
+
+[Use move] The opposing Mienshao (1) used Rock Slide
+"The opposing Mienshao used Rock Slide!"
+[HP change] Mismagius lost 50 HP (71 -> 21)
+[HP change] Mismagius gained 31 HP (21 -> 52)
+"Mismagius restored its health using its Sitrus Berry!"
+[Item consumed] Mismagius consumed its held Sitrus Berry
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius flinched and couldn't move!"
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienshao (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienshao (1) is considering using Close Combat (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Mienshao (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Mienshao (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienshao (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   => will use Rock Slide
+
+[Round order] The opposing Mienshao (1), Mismagius (0)
+
+"OK, Mismagius! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Mienshao (1) used Rock Slide
+"The opposing Mienshao used Rock Slide!"
+[HP change] Chimecho lost 39 HP (91 -> 52)
+[HP change] Chimecho gained 34 HP (52 -> 86)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienshao (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienshao (1) is considering using Close Combat (1) against Chimecho (0)...
+[AI] Mienshao (1) is considering using U-turn (1) against Chimecho (0)...
+[AI] Mienshao (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienshao (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   => will use Rock Slide
+
+[Round order] The opposing Mienshao (1), Chimecho (0)
+
+[Use move] The opposing Mienshao (1) used Rock Slide
+"The opposing Mienshao used Rock Slide!"
+[HP change] Chimecho lost 40 HP (86 -> 46)
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mienshao lost 114 HP (122 -> 8)
+"It's super effective!"
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienshao (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienshao (1) is considering using Close Combat (1) against Chimecho (0)...
+[AI] Mienshao (1) is considering using U-turn (1) against Chimecho (0)...
+[AI] Mienshao (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienshao (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   => will use Rock Slide
+
+[Round order] Chimecho (0), the opposing Mienshao (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Mienshao lost 8 HP (8 -> 0)
+"The opposing Mienshao fainted!"
+
+===== Player won =====
+
+"You defeated Ace Trainer Kayla!"
+"Wow. You're great!"
+
+"You got $2,640 for winning!"
+Roles for INFERNAPE: [:PHYSICALBREAKER, :LEAD]
+Roles for ORANGURU: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SIMISAGE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for PASSIMIAN: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Anthony!"
+"Camper Anthony sent out Infernape!"
+"Go! Musharna!"
+[Round order] The opposing Infernape (1), Musharna (0)
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Close Combat!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+
+===== Round 1 =====
+
+Set up score for Infernape (1): 0
+Set up score for Infernape (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Musharna (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Infernape (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Infernape (1) is considering using Fire Punch (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Infernape (1) is considering using Close Combat (1) against Musharna (0)...
+[AI] Infernape (1) is considering using Thunder Punch (1) against Musharna (0)...
+[AI] Move choices for Infernape (1):
+   * 100.0% to use Stealth Rock: score 10
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Infernape (1), Musharna (0)
+
+[Use move] The opposing Infernape (1) used Stealth Rock
+"The opposing Infernape used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+[Use move] Musharna (0) used Psybeam
+"Musharna used Psybeam!"
+[HP change] The opposing Infernape lost 119 HP (134 -> 15)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Infernape (1): 0
+Set up score for Infernape (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Infernape (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Infernape (1) is considering using Fire Punch (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Infernape (1) is considering using Close Combat (1) against Musharna (0)...
+[AI] Infernape (1) is considering using Thunder Punch (1) against Musharna (0)...
+[AI] Move choices for Infernape (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Fire Punch (target 0): score 5
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   => will use Fire Punch (target 0)
+
+[Round order] The opposing Infernape (1), Musharna (0)
+
+[Use move] The opposing Infernape (1) used Fire Punch
+"The opposing Infernape used Fire Punch!"
+[HP change] Musharna lost 40 HP (165 -> 125)
+[Use move] Musharna (0) used Psybeam
+"Musharna used Psybeam!"
+[HP change] The opposing Infernape lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Infernape fainted!"
+"Musharna got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Oranguru] using Psychic vs Musharna does a max of 30/125 damage
+     [Oranguru] using Hyper Voice vs Musharna does a max of 60/125 damage
+     [Oranguru] using Focus Blast vs Musharna does a max of 13/125 damage
+==============================
+     Musharna (0)'s best move: Dazzling Gleam for 54 damage
+==============================
+     [Oranguru] + 5 because we outspeed
+     [Oranguru] + 3 for outdamaging opponent (60) vs (54)
+     [Oranguru] final Switch score: 8
+     [Simisage] using Seed Bomb vs Musharna does a max of 62/125 damage
+     [Simisage] using Acrobatics vs Musharna does a max of 17/125 damage
+     [Simisage] using Crunch vs Musharna does a max of 24/125 damage
+==============================
+     Musharna (0)'s best move: Dazzling Gleam for 80 damage
+==============================
+     [Simisage] - 4 because Musharna (0) has 2HKO with Dazzling Gleam (80/133)
+     [Simisage] + 5 because we outspeed
+     [Simisage] + 6 because we have 2HKO
+     [Simisage] final Switch score: 7
+     [Passimian] using Close Combat vs Musharna does a max of 16/125 damage
+     [Passimian] using Rock Slide vs Musharna does a max of 27/125 damage
+     [Passimian] using Iron Head vs Musharna does a max of 58/125 damage
+     [Passimian] using U-turn vs Musharna does a max of 25/125 damage
+==============================
+     Musharna (0)'s best move: Dazzling Gleam for 111 damage
+==============================
+     [Passimian] - 4 because Musharna (0) has 2HKO with Dazzling Gleam (111/155)
+     [Passimian] + 5 because we outspeed
+     [Passimian] - 3 because we have no kill
+     [Passimian] final Switch score: -2
+[AI] Highest move score (5) vs Switch In Score (8)
+"Camper Anthony sent out Oranguru!"
+
+===== Round 3 =====
+
+Set up score for Oranguru (1): 0
+Set up score for Oranguru (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     + 5 to encourage status move use
+[AI] Oranguru (1) is considering using Psychic (1) against Musharna (0)...
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     + 4 to prioritize highest damaging move
+[AI] Oranguru (1) is considering using Focus Blast (1) against Musharna (0)...
+[AI] Move choices for Oranguru (1):
+   * 100.0% to use Nasty Plot: score 9
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Nasty Plot
+
+[Round order] The opposing Oranguru (1), Musharna (0)
+
+[Use move] The opposing Oranguru (1) used Nasty Plot
+"The opposing Oranguru used Nasty Plot!"
+[Stat change] The opposing Oranguru's Special Attack changed by +2 (0 -> 2)
+"The opposing Oranguru's Special Attack rose sharply!"
+[Use move] Musharna (0) used Dazzling Gleam
+"Musharna used Dazzling Gleam!"
+[HP change] The opposing Oranguru lost 51 HP (143 -> 92)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     - 3 because this will be pointless
+[AI] Oranguru (1) is considering using Psychic (1) against Musharna (0)...
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     + 4 to prioritize highest damaging move
+[AI] Oranguru (1) is considering using Focus Blast (1) against Musharna (0)...
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Oranguru (1), Musharna (0)
+
+[Use move] The opposing Oranguru (1) used Hyper Voice
+"The opposing Oranguru used Hyper Voice!"
+[HP change] Musharna lost 116 HP (125 -> 9)
+[HP change] Musharna gained 41 HP (9 -> 50)
+"Musharna restored its health using its Sitrus Berry!"
+[Item consumed] Musharna consumed its held Sitrus Berry
+[Use move] Musharna (0) used Yawn
+"Musharna used Yawn!"
+"Musharna made the opposing Oranguru drowsy!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-9) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     - 3 because this will be pointless
+[AI] Oranguru (1) is considering using Psychic (1) against Musharna (0)...
+      + 20 for fast kill
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+      + 20 for fast kill
+[AI] Oranguru (1) is considering using Focus Blast (1) against Musharna (0)...
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   *  50.0% to use Psychic (target 0): score 21
+   *  50.0% to use Hyper Voice: score 21
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Oranguru (1), Musharna (0)
+
+"OK, Musharna! Come back!"
+"Go for it, Mismagius!"
+[HP change] Mismagius lost 16 HP (124 -> 108)
+"Pointed stones dug into Mismagius!"
+[Use move] The opposing Oranguru (1) used Hyper Voice
+"The opposing Oranguru used Hyper Voice!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 5]
+[Lingering effect] The opposing Oranguru fell asleep because of Yawn
+"The opposing Oranguru fell asleep!"
+[Status change] The opposing Oranguru's sleep count is 4
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     - 3 because this will be pointless
+[AI] Oranguru (1) is considering using Psychic (1) against Mismagius (0)...
+     + 4 to prioritize highest damaging move
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Oranguru (1) is considering using Focus Blast (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Mismagius (0), the opposing Oranguru (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Oranguru lost 54 HP (92 -> 38)
+[Use move] The opposing Oranguru (1) used Psychic
+"The opposing Oranguru is fast asleep."
+[Status continues] The opposing Oranguru's sleep count is 3
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     - 3 because this will be pointless
+[AI] Oranguru (1) is considering using Psychic (1) against Mismagius (0)...
+     + 4 to prioritize highest damaging move
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Oranguru (1) is considering using Focus Blast (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Mismagius (0), the opposing Oranguru (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Oranguru lost 38 HP (38 -> 0)
+"The opposing Oranguru fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Simisage] using Seed Bomb vs Mismagius does a max of 132/108 damage
+     [Simisage] using Acrobatics vs Mismagius does a max of 35/108 damage
+     [Simisage] using Crunch vs Mismagius does a max of 51/108 damage
+==============================
+     Mismagius (0)'s best move: Dazzling Gleam for 83 damage
+==============================
+     [Simisage] - 4 because Mismagius (0) has 2HKO with Dazzling Gleam (83/133)
+     [Simisage] + 5 because we outspeed
+     [Simisage] + 12 because we have kill
+     [Simisage] final Switch score: 13
+     [Passimian] using Close Combat vs Mismagius does a max of 1/108 damage
+     [Passimian] using Rock Slide vs Mismagius does a max of 57/108 damage
+     [Passimian] using Iron Head vs Mismagius does a max of 120/108 damage
+     [Passimian] using U-turn vs Mismagius does a max of 13/108 damage
+==============================
+     Mismagius (0)'s best move: Dazzling Gleam for 117 damage
+==============================
+     [Passimian] - 4 because Mismagius (0) has 2HKO with Dazzling Gleam (117/155)
+     [Passimian] + 5 because we outspeed
+     [Passimian] + 12 because we have kill
+     [Passimian] final Switch score: 13
+[AI] Highest move score (5) vs Switch In Score (13)
+"Camper Anthony sent out Passimian!"
+
+===== Round 8 =====
+
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): 0
+Set up score for Passimian (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Mismagius (0)...
+     + 4 to prioritize highest damaging move
+[AI] Passimian (1) is considering using U-turn (1) against Mismagius (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Passimian (1):
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   *  50.0% to use Iron Head (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Iron Head (target 0)
+
+[Round order] The opposing Passimian (1), Mismagius (0)
+
+[Use move] The opposing Passimian (1) used Iron Head
+"The opposing Passimian used Iron Head!"
+[HP change] Mismagius lost 108 HP (108 -> 0)
+"It's super effective!"
+"Mismagius fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+"You're in charge, Obstagoon!"
+[HP change] Obstagoon lost 19 HP (148 -> 129)
+"Pointed stones dug into Obstagoon!"
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): 0
+Set up score for Passimian (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Obstagoon (0)...
+[AI] Passimian (1) is considering using U-turn (1) against Obstagoon (0)...
+[AI] Move choices for Passimian (1):
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] Obstagoon (0), the opposing Passimian (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Passimian (1) used Close Combat
+"The opposing Passimian used Close Combat!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Passimian's Defense changed by -2 (0 -> -2)
+"The opposing Passimian's Defense harshly fell!"
+[Ability triggered] The opposing Passimian's Defiant
+[Stat change] The opposing Passimian's Attack changed by +2 (0 -> 2)
+"The opposing Passimian's Attack rose sharply!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): 0
+Set up score for Passimian (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Obstagoon (0)...
+[AI] Passimian (1) is considering using U-turn (1) against Obstagoon (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Passimian (1):
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] Obstagoon (0), the opposing Passimian (1)
+
+[Use move] Obstagoon (0) used Headbutt
+"Obstagoon used Headbutt!"
+[HP change] The opposing Passimian lost 82 HP (155 -> 73)
+[Use move] The opposing Passimian (1) used Close Combat
+"The opposing Passimian used Close Combat!"
+[HP change] Obstagoon lost 129 HP (129 -> 0)
+"It's super effective!"
+[Stat change] The opposing Passimian's Defense changed by -1 (-2 -> -3)
+"The opposing Passimian's Defense fell!"
+[Stat change] The opposing Passimian's Special Defense changed by -1 (0 -> -1)
+"The opposing Passimian's Special Defense fell!"
+"Obstagoon fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+Roles for INFERNAPE: [:PHYSICALBREAKER, :LEAD]
+Roles for ORANGURU: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SIMISAGE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for PASSIMIAN: [:PHYSICALBREAKER, :OFFENSIVEPIVOT, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Anthony!"
+"Camper Anthony sent out Infernape!"
+"Go! Musharna!"
+[Round order] The opposing Infernape (1), Musharna (0)
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Close Combat!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+
+===== Round 1 =====
+
+Set up score for Infernape (1): 0
+Set up score for Infernape (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Musharna (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Infernape (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Infernape (1) is considering using Fire Punch (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Infernape (1) is considering using Close Combat (1) against Musharna (0)...
+[AI] Infernape (1) is considering using Thunder Punch (1) against Musharna (0)...
+[AI] Move choices for Infernape (1):
+   * 100.0% to use Stealth Rock: score 10
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Infernape (1), Musharna (0)
+
+[Use move] The opposing Infernape (1) used Stealth Rock
+"The opposing Infernape used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+[Use move] Musharna (0) used Psybeam
+"Musharna used Psybeam!"
+[HP change] The opposing Infernape lost 108 HP (134 -> 26)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Infernape (1): 0
+Set up score for Infernape (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Infernape (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Infernape (1) is considering using Fire Punch (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Infernape (1) is considering using Close Combat (1) against Musharna (0)...
+[AI] Infernape (1) is considering using Thunder Punch (1) against Musharna (0)...
+[AI] Move choices for Infernape (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Fire Punch (target 0): score 5
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   => will use Fire Punch (target 0)
+
+[Round order] The opposing Infernape (1), Musharna (0)
+
+[Use move] The opposing Infernape (1) used Fire Punch
+"The opposing Infernape used Fire Punch!"
+[HP change] Musharna lost 44 HP (165 -> 121)
+[Use move] Musharna (0) used Psybeam
+"Musharna used Psybeam!"
+[HP change] The opposing Infernape lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Infernape fainted!"
+"Musharna got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Oranguru] using Psychic vs Musharna does a max of 30/121 damage
+     [Oranguru] using Hyper Voice vs Musharna does a max of 60/121 damage
+     [Oranguru] using Focus Blast vs Musharna does a max of 13/121 damage
+==============================
+     Musharna (0)'s best move: Dazzling Gleam for 54 damage
+==============================
+     [Oranguru] + 5 because we outspeed
+     [Oranguru] + 6 because we have 2HKO
+     [Oranguru] final Switch score: 11
+     [Simisage] using Seed Bomb vs Musharna does a max of 62/121 damage
+     [Simisage] using Acrobatics vs Musharna does a max of 17/121 damage
+     [Simisage] using Crunch vs Musharna does a max of 24/121 damage
+==============================
+     Musharna (0)'s best move: Dazzling Gleam for 80 damage
+==============================
+     [Simisage] - 4 because Musharna (0) has 2HKO with Dazzling Gleam (80/133)
+     [Simisage] + 5 because we outspeed
+     [Simisage] + 6 because we have 2HKO
+     [Simisage] final Switch score: 7
+     [Passimian] using Close Combat vs Musharna does a max of 16/121 damage
+     [Passimian] using Rock Slide vs Musharna does a max of 27/121 damage
+     [Passimian] using Iron Head vs Musharna does a max of 58/121 damage
+     [Passimian] using U-turn vs Musharna does a max of 25/121 damage
+==============================
+     Musharna (0)'s best move: Dazzling Gleam for 111 damage
+==============================
+     [Passimian] - 4 because Musharna (0) has 2HKO with Dazzling Gleam (111/155)
+     [Passimian] + 5 because we outspeed
+     [Passimian] - 3 because we have no kill
+     [Passimian] final Switch score: -2
+[AI] Highest move score (5) vs Switch In Score (11)
+"Camper Anthony sent out Oranguru!"
+
+===== Round 3 =====
+
+Set up score for Oranguru (1): 0
+Set up score for Oranguru (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     + 5 to encourage status move use
+[AI] Oranguru (1) is considering using Psychic (1) against Musharna (0)...
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     + 4 to prioritize highest damaging move
+[AI] Oranguru (1) is considering using Focus Blast (1) against Musharna (0)...
+[AI] Move choices for Oranguru (1):
+   * 100.0% to use Nasty Plot: score 9
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Nasty Plot
+
+[Round order] The opposing Oranguru (1), Musharna (0)
+
+[Use move] The opposing Oranguru (1) used Nasty Plot
+"The opposing Oranguru used Nasty Plot!"
+[Stat change] The opposing Oranguru's Special Attack changed by +2 (0 -> 2)
+"The opposing Oranguru's Special Attack rose sharply!"
+[Use move] Musharna (0) used Yawn
+"Musharna used Yawn!"
+"Musharna made the opposing Oranguru drowsy!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+Set up score for Oranguru (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     + 5 to encourage status move use
+[AI] Oranguru (1) is considering using Psychic (1) against Musharna (0)...
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     + 4 to prioritize highest damaging move
+[AI] Oranguru (1) is considering using Focus Blast (1) against Musharna (0)...
+[AI] Move choices for Oranguru (1):
+   * 100.0% to use Nasty Plot: score 9
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Nasty Plot
+
+[Round order] The opposing Oranguru (1), Musharna (0)
+
+"Musharna, come back!"
+"You're in charge, Mismagius!"
+[HP change] Mismagius lost 16 HP (124 -> 108)
+"Pointed stones dug into Mismagius!"
+[Use move] The opposing Oranguru (1) used Nasty Plot
+"The opposing Oranguru used Nasty Plot!"
+[Stat change] The opposing Oranguru's Special Attack changed by +2 (2 -> 4)
+"The opposing Oranguru's Special Attack rose sharply!"
+
+[End of round 4]
+[Lingering effect] The opposing Oranguru fell asleep because of Yawn
+"The opposing Oranguru fell asleep!"
+[Status change] The opposing Oranguru's sleep count is 3
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Oranguru (1): 4
+Set up score for Oranguru (1): 4
+Set up score for Oranguru (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     + 5 to encourage status move use
+[AI] Oranguru (1) is considering using Psychic (1) against Mismagius (0)...
+      + 20 for fast kill
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Oranguru (1) is considering using Focus Blast (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Mismagius (0), the opposing Oranguru (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Oranguru lost 54 HP (143 -> 89)
+[Use move] The opposing Oranguru (1) used Psychic
+"The opposing Oranguru is fast asleep."
+[Status continues] The opposing Oranguru's sleep count is 2
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Oranguru (1): 4
+Set up score for Oranguru (1): 4
+Set up score for Oranguru (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     - 3 because this will be pointless
+[AI] Oranguru (1) is considering using Psychic (1) against Mismagius (0)...
+      + 20 for fast kill
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Oranguru (1) is considering using Focus Blast (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Mismagius (0), the opposing Oranguru (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Oranguru lost 49 HP (89 -> 40)
+[Use move] The opposing Oranguru (1) used Psychic
+"The opposing Oranguru is fast asleep."
+[Status continues] The opposing Oranguru's sleep count is 1
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Oranguru (1): 4
+Set up score for Oranguru (1): 4
+Set up score for Oranguru (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oranguru (1) is considering using Nasty Plot (4)...
+     - 3 because this will be pointless
+[AI] Oranguru (1) is considering using Psychic (1) against Mismagius (0)...
+      + 20 for fast kill
+[AI] Oranguru (1) is considering using Hyper Voice (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Oranguru (1) is considering using Focus Blast (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Oranguru (1):
+   *   0.0% to use Nasty Plot: score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Mismagius (0), the opposing Oranguru (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Oranguru lost 40 HP (40 -> 0)
+"The opposing Oranguru fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Simisage] using Seed Bomb vs Mismagius does a max of 132/108 damage
+     [Simisage] using Acrobatics vs Mismagius does a max of 35/108 damage
+     [Simisage] using Crunch vs Mismagius does a max of 51/108 damage
+==============================
+     Mismagius (0)'s best move: Dazzling Gleam for 83 damage
+==============================
+     [Simisage] - 4 because Mismagius (0) has 2HKO with Dazzling Gleam (83/133)
+     [Simisage] + 5 because we outspeed
+     [Simisage] + 12 because we have kill
+     [Simisage] final Switch score: 13
+     [Passimian] using Close Combat vs Mismagius does a max of 1/108 damage
+     [Passimian] using Rock Slide vs Mismagius does a max of 57/108 damage
+     [Passimian] using Iron Head vs Mismagius does a max of 120/108 damage
+     [Passimian] using U-turn vs Mismagius does a max of 13/108 damage
+==============================
+     Mismagius (0)'s best move: Dazzling Gleam for 117 damage
+==============================
+     [Passimian] - 4 because Mismagius (0) has 2HKO with Dazzling Gleam (117/155)
+     [Passimian] + 5 because we outspeed
+     [Passimian] + 12 because we have kill
+     [Passimian] final Switch score: 13
+[AI] Highest move score (5) vs Switch In Score (13)
+"Camper Anthony sent out Passimian!"
+
+===== Round 8 =====
+
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): 0
+Set up score for Passimian (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Mismagius (0)...
+      + 20 for fast kill
+[AI] Passimian (1) is considering using U-turn (1) against Mismagius (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Passimian (1):
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Iron Head (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Iron Head (target 0)
+
+[Round order] The opposing Passimian (1), Mismagius (0)
+
+"Mismagius, come back!"
+"You're in charge, Infernape!"
+[HP change] Infernape lost 17 HP (134 -> 117)
+"Pointed stones dug into Infernape!"
+[Use move] The opposing Passimian (1) used Iron Head
+"The opposing Passimian used Iron Head!"
+[HP change] Infernape lost 20 HP (117 -> 97)
+"It's not very effective..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): 0
+Set up score for Passimian (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Infernape (0)...
+      + 17 for slow kill
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Infernape (0)...
+[AI] Passimian (1) is considering using U-turn (1) against Infernape (0)...
+[AI] Move choices for Passimian (1):
+   * 100.0% to use Close Combat (target 0): score 18
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] Infernape (0), the opposing Passimian (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Passimian lost 39 HP (155 -> 116)
+[Use move] The opposing Passimian (1) used Close Combat
+"The opposing Passimian used Close Combat!"
+[HP change] Infernape lost 97 HP (97 -> 0)
+[Stat change] The opposing Passimian's Defense changed by -1 (0 -> -1)
+"The opposing Passimian's Defense fell!"
+[Stat change] The opposing Passimian's Special Defense changed by -1 (0 -> -1)
+"The opposing Passimian's Special Defense fell!"
+"Infernape fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"Go for it, Hitmonchan!"
+[HP change] Hitmonchan lost 7 HP (112 -> 105)
+"Pointed stones dug into Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): -2
+Set up score for Passimian (1): -2
+Set up score for Passimian (1): -2
+Set up score for Passimian (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Hitmonchan (0)...
+[AI] Passimian (1) is considering using U-turn (1) against Hitmonchan (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Passimian (1):
+   *  50.0% to use Close Combat (target 0): score 5
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Hitmonchan (0), the opposing Passimian (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Passimian lost 28 HP (116 -> 88)
+[Use move] The opposing Passimian (1) used U-turn
+"The opposing Passimian flinched and couldn't move!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Passimian (1): -2
+Set up score for Passimian (1): -2
+Set up score for Passimian (1): -2
+Set up score for Passimian (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Passimian (1) is considering using Close Combat (1) against Hitmonchan (0)...
+     + 4 to prioritize highest damaging move
+[AI] Passimian (1) is considering using Rock Slide (1)...
+[AI] Passimian (1) is considering using Iron Head (1) against Hitmonchan (0)...
+[AI] Passimian (1) is considering using U-turn (1) against Hitmonchan (0)...
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Passimian (1):
+   *  50.0% to use Close Combat (target 0): score 5
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Passimian (1), Hitmonchan (0)
+
+[Use move] The opposing Passimian (1) used Close Combat
+"The opposing Passimian used Close Combat!"
+[HP change] Hitmonchan lost 93 HP (105 -> 12)
+[Stat change] The opposing Passimian's Defense changed by -1 (-1 -> -2)
+"The opposing Passimian's Defense fell!"
+[Stat change] The opposing Passimian's Special Defense changed by -1 (-1 -> -2)
+"The opposing Passimian's Special Defense fell!"
+[Use move] Hitmonchan (0) used Close Combat
+"Hitmonchan used Close Combat!"
+[HP change] The opposing Passimian lost 88 HP (88 -> 0)
+[Stat change] Hitmonchan's Defense changed by -1 (0 -> -1)
+"Hitmonchan's Defense fell!"
+[Stat change] Hitmonchan's Special Defense changed by -1 (0 -> -1)
+"Hitmonchan's Special Defense fell!"
+"The opposing Passimian fainted!"
+
+[End of round 11]
+Trick Room Turns: 0
+     [Simisage] using Seed Bomb vs Hitmonchan does a max of 156/12 damage
+     [Simisage] using Acrobatics vs Hitmonchan does a max of 84/12 damage
+     [Simisage] using Crunch vs Hitmonchan does a max of 30/12 damage
+==============================
+     Hitmonchan (0)'s best move: Close Combat for 114 damage
+==============================
+     [Simisage] - 4 because Hitmonchan (0) has 2HKO with Close Combat (114/133)
+     [Simisage] + 5 because we outspeed
+     [Simisage] + 12 because we have kill
+     [Simisage] final Switch score: 13
+[AI] Highest move score (21) vs Switch In Score (13)
+"Camper Anthony sent out Simisage!"
+
+===== Round 12 =====
+
+Set up score for Hitmonchan (0): -2
+     Threat Score for Hitmonchan (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Simisage (1) is considering using Seed Bomb (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Simisage (1) is considering using Acrobatics (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Simisage (1) is considering using Crunch (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Simisage (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Simisage (1):
+   *  33.3% to use Seed Bomb (target 0): score 21
+   *  33.3% to use Acrobatics (target 0): score 21
+   *  33.3% to use Crunch (target 0): score 21
+   *   0.0% to use Work Up: score 0
+   => will use Acrobatics (target 0)
+
+[Round order] The opposing Simisage (1), Hitmonchan (0)
+
+"Good job, Hitmonchan! Come back!"
+"You're in charge, Musharna!"
+[HP change] Musharna lost 21 HP (121 -> 100)
+"Pointed stones dug into Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Crunch!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+[Use move] The opposing Simisage (1) used Acrobatics
+"The opposing Simisage used Acrobatics!"
+[HP change] Musharna lost 14 HP (100 -> 86)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Simisage (1) is considering using Seed Bomb (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Simisage (1) is considering using Acrobatics (1) against Musharna (0)...
+[AI] Simisage (1) is considering using Crunch (1) against Musharna (0)...
+[AI] Simisage (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Simisage (1):
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Work Up: score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] The opposing Simisage (1), Musharna (0)
+
+[Use move] The opposing Simisage (1) used Seed Bomb
+"The opposing Simisage used Seed Bomb!"
+"The Grass Gem strengthened Seed Bomb's power!"
+[HP change] Musharna lost 62 HP (86 -> 24)
+[HP change] Musharna gained 41 HP (24 -> 65)
+"Musharna restored its health using its Sitrus Berry!"
+[Item consumed] Musharna consumed its held Sitrus Berry
+[Item consumed] The opposing Simisage consumed its held Grass Gem
+[Use move] Musharna (0) used Moonlight
+"Musharna used Moonlight!"
+[HP change] Musharna gained 83 HP (65 -> 148)
+"Musharna's HP was restored."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Simisage (1) is considering using Seed Bomb (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Simisage (1) is considering using Acrobatics (1) against Musharna (0)...
+[AI] Simisage (1) is considering using Crunch (1) against Musharna (0)...
+[AI] Simisage (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Simisage (1):
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Work Up: score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] The opposing Simisage (1), Musharna (0)
+
+[Use move] The opposing Simisage (1) used Seed Bomb
+"The opposing Simisage used Seed Bomb!"
+[HP change] Musharna lost 44 HP (148 -> 104)
+[Use move] Musharna (0) used Dazzling Gleam
+"Musharna used Dazzling Gleam!"
+[HP change] The opposing Simisage lost 70 HP (133 -> 63)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Simisage (1) is considering using Seed Bomb (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Simisage (1) is considering using Acrobatics (1) against Musharna (0)...
+[AI] Simisage (1) is considering using Crunch (1) against Musharna (0)...
+[AI] Simisage (1) is considering using Work Up (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Simisage (1):
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Work Up: score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] The opposing Simisage (1), Musharna (0)
+
+[Use move] The opposing Simisage (1) used Seed Bomb
+"The opposing Simisage used Seed Bomb!"
+[HP change] Musharna lost 48 HP (104 -> 56)
+[Use move] Musharna (0) used Dazzling Gleam
+"Musharna used Dazzling Gleam!"
+[HP change] The opposing Simisage lost 63 HP (63 -> 0)
+"The opposing Simisage fainted!"
+
+===== Player won =====
+
+"You defeated Camper Anthony!"
+"Wow. You're great!"
+
+"You got $704 for winning!"
+Roles for ARBOK: [:PHYSICALBREAKER, :LEAD]
+Roles for ORTHWORM: [:PHYSICALBREAKER, :TOXICSTALLER]
+Roles for FLAPPLE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Lauren!"
+"Picnicker Lauren sent out Arbok!"
+"Go! Quagsire!"
+[Round order] The opposing Arbok (1), Quagsire (0)
+[Ability triggered] The opposing Arbok's Intimidate
+[Stat change] Quagsire's Attack changed by -1 (0 -> -1)
+"Quagsire's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Arbok (1): 0
+Set up score for Arbok (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (8)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Quagsire (0) has been assigned Haze flag
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Quagsire (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arbok (1) is considering using Toxic Spikes (4)...
+     + 4 to encourage hazards for each able opposing party member
+[AI] Arbok (1) is considering using Poison Jab (1) against Quagsire (0)...
+[AI] Arbok (1) is considering using Crunch (1) against Quagsire (0)...
+[AI] Arbok (1) is considering using Earthquake (1)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Arbok (1):
+   * 100.0% to use Toxic Spikes: score 8
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Toxic Spikes
+
+[Round order] The opposing Arbok (1), Quagsire (0)
+
+[Use move] The opposing Arbok (1) used Toxic Spikes
+"The opposing Arbok used Toxic Spikes!"
+"Poison spikes were scattered all around your team's feet!"
+[Use move] Quagsire (0) used Stomping Tantrum
+"Quagsire used Stomping Tantrum!"
+[HP change] The opposing Arbok lost 117 HP (117 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Arbok fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     [Orthworm] using Iron Head vs Quagsire does a max of 25/157 damage
+     [Orthworm] using Rock Slide vs Quagsire does a max of 16/157 damage
+     [Orthworm] using Body Press vs Quagsire does a max of 50/157 damage
+==============================
+     Quagsire (0)'s best move: Stomping Tantrum for 45 damage
+==============================
+     [Orthworm] + 5 because we outspeed
+     [Orthworm] + 3 for outdamaging opponent (50) vs (45)
+     [Orthworm] final Switch score: 8
+     [Flapple] using Grav Apple vs Quagsire does a max of 320/157 damage
+     [Flapple] using Dragon Claw vs Quagsire does a max of 80/157 damage
+     [Flapple] using Dual Wingbeat vs Quagsire does a max of 40/157 damage
+==============================
+     Quagsire (0)'s best move: Ice Punch for 92 damage
+==============================
+     [Flapple] - 4 because Quagsire (0) has 2HKO with Ice Punch (92/129)
+     [Flapple] + 5 because we outspeed
+     [Flapple] + 12 because we have kill
+     [Flapple] final Switch score: 13
+     [Skeledirge] using Torch Song vs Quagsire does a max of 43/157 damage
+     [Skeledirge] using Shadow Ball vs Quagsire does a max of 86/157 damage
+     [Skeledirge] using Earth Power vs Quagsire does a max of 64/157 damage
+==============================
+     Quagsire (0)'s best move: Aqua Tail for 69 damage
+==============================
+     [Skeledirge] + 5 because we outspeed
+     [Skeledirge] + 6 because we have 2HKO
+     [Skeledirge] final Switch score: 11
+[AI] Highest move score (5) vs Switch In Score (13)
+"Picnicker Lauren sent out Flapple!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Flapple (1): 0
+Set up score for Flapple (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flapple (1) is considering using Grav Apple (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Flapple (1) is considering using Dragon Claw (1) against Quagsire (0)...
+[AI] Flapple (1) is considering using Dual Wingbeat (1) against Quagsire (0)...
+[AI] Flapple (1) is considering using Growth (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Flapple (1):
+   * 100.0% to use Grav Apple (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Growth: score 0
+   => will use Grav Apple (target 0)
+
+[Round order] The opposing Flapple (1), Quagsire (0)
+
+"Quagsire, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Flapple (1) used Grav Apple
+"The opposing Flapple used Grav Apple!"
+[HP change] Skarmory lost 11 HP (127 -> 116)
+"It's not very effective..."
+[Stat change] Skarmory's Defense changed by -1 (0 -> -1)
+"Skarmory's Defense fell!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Flapple (1): 0
+Set up score for Flapple (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flapple (1) is considering using Grav Apple (1) against Skarmory (0)...
+[AI] Flapple (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Flapple (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+[AI] Flapple (1) is considering using Growth (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Flapple (1):
+   *   0.0% to use Grav Apple (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Growth: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Flapple (1), Skarmory (0)
+
+[Use move] The opposing Flapple (1) used Dragon Claw
+"The opposing Flapple used Dragon Claw!"
+[HP change] Skarmory lost 35 HP (116 -> 81)
+"It's not very effective..."
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Flapple lost 91 HP (129 -> 38)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Flapple (1): 0
+Set up score for Flapple (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flapple (1) is considering using Grav Apple (1) against Skarmory (0)...
+[AI] Flapple (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Flapple (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+[AI] Flapple (1) is considering using Growth (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Flapple (1):
+   *   0.0% to use Grav Apple (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Growth: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Flapple (1), Skarmory (0)
+
+[Use move] The opposing Flapple (1) used Dragon Claw
+"The opposing Flapple used Dragon Claw!"
+[HP change] Skarmory lost 34 HP (81 -> 47)
+"It's not very effective..."
+[HP change] Skarmory gained 31 HP (47 -> 78)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Defog
+"Skarmory used Defog!"
+[Stat change] The opposing Flapple's evasiveness changed by -1 (0 -> -1)
+"The opposing Flapple's evasiveness fell!"
+"Skarmory blew away poison spikes!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Flapple (1): 0
+Set up score for Flapple (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flapple (1) is considering using Grav Apple (1) against Skarmory (0)...
+[AI] Flapple (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Flapple (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+[AI] Flapple (1) is considering using Growth (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Flapple (1):
+   *   0.0% to use Grav Apple (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Growth: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Flapple (1), Skarmory (0)
+
+[Use move] The opposing Flapple (1) used Dragon Claw
+"The opposing Flapple used Dragon Claw!"
+[HP change] Skarmory lost 31 HP (78 -> 47)
+"It's not very effective..."
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Flapple lost 38 HP (38 -> 0)
+"It's super effective!"
+"The opposing Flapple fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Orthworm] using Iron Head vs Skarmory does a max of 22/47 damage
+     [Orthworm] using Rock Slide vs Skarmory does a max of 27/47 damage
+     [Orthworm] using Body Press vs Skarmory does a max of 44/47 damage
+==============================
+     Skarmory (0)'s best move: Iron Head for 16 damage
+==============================
+     [Orthworm] + 5 because we outspeed
+     [Orthworm] + 6 because we have 2HKO
+     [Orthworm] final Switch score: 11
+     [Skeledirge] using Torch Song vs Skarmory does a max of 46/47 damage
+     [Skeledirge] using Shadow Ball vs Skarmory does a max of 46/47 damage
+==============================
+     Skarmory (0)'s best move: Drill Peck for 44 damage
+==============================
+     [Skeledirge] + 5 because we outspeed
+     [Skeledirge] + 6 because we have 2HKO
+     [Skeledirge] final Switch score: 11
+[AI] Highest move score (5) vs Switch In Score (11)
+"Picnicker Lauren sent out Skeledirge!"
+
+===== Round 6 =====
+
+     move will not affect Skarmory (0)
+Set up score for Skeledirge (1): 0
+Set up score for Skeledirge (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skeledirge (1) is considering using Torch Song (1) against Skarmory (0)...
+[AI] Skeledirge (1) is considering using Shadow Ball (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skeledirge (1) is considering using Earth Power (1) against Skarmory (0)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Skeledirge (1) is considering using Slack Off...
+     +  1: move will fail
+[AI] Move choices for Skeledirge (1):
+   *   0.0% to use Torch Song (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Slack Off: score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Skeledirge (1), Skarmory (0)
+
+"OK, Skarmory! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Skeledirge (1) used Shadow Ball
+"The opposing Skeledirge used Shadow Ball!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 6]
+[HP change] Obstagoon lost 9 HP (148 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Skeledirge (1): 0
+Set up score for Skeledirge (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skeledirge (1) is considering using Torch Song (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Skeledirge (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Skeledirge (1) is considering using Earth Power (1) against Obstagoon (0)...
+[AI] Skeledirge (1) is considering using Slack Off...
+     +  1: move will fail
+[AI] Move choices for Skeledirge (1):
+   * 100.0% to use Torch Song (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Slack Off: score 0
+   => will use Torch Song (target 0)
+
+[Round order] Obstagoon (0), the opposing Skeledirge (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Skeledirge lost 122 HP (159 -> 37)
+"It's super effective!"
+[Use move] The opposing Skeledirge (1) used Torch Song
+"The opposing Skeledirge used Torch Song!"
+[HP change] Obstagoon lost 122 HP (139 -> 17)
+[HP change] Obstagoon gained 37 HP (17 -> 54)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+[Stat change] The opposing Skeledirge's Special Attack changed by +1 (0 -> 1)
+"The opposing Skeledirge's Special Attack rose!"
+[Stat change] The opposing Skeledirge's Special Attack changed by +1 (1 -> 2)
+"The opposing Skeledirge's Special Attack rose!"
+[Item consumed] The opposing Skeledirge consumed its held Throat Spray
+
+[End of round 7]
+[HP change] Obstagoon lost 9 HP (54 -> 45)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Skeledirge (1): 2
+Set up score for Skeledirge (1): 2
+Set up score for Skeledirge (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-19) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skeledirge (1) is considering using Torch Song (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Skeledirge (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Skeledirge (1) is considering using Earth Power (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Skeledirge (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+     - 6 because this will be pointless
+[AI] Move choices for Skeledirge (1):
+   *  50.0% to use Torch Song (target 0): score 21
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  50.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Slack Off: score 0
+   => will use Torch Song (target 0)
+
+[Round order] Obstagoon (0), the opposing Skeledirge (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Skeledirge lost 37 HP (37 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Skeledirge fainted!"
+
+[End of round 8]
+[HP change] Obstagoon lost 9 HP (45 -> 36)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     [Orthworm] using Iron Head vs Obstagoon does a max of 42/36 damage
+     [Orthworm] using Rock Slide vs Obstagoon does a max of 26/36 damage
+     [Orthworm] using Body Press vs Obstagoon does a max of 172/36 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 47 damage
+==============================
+     [Orthworm] + 12 because we have kill
+     [Orthworm] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+"Picnicker Lauren sent out Orthworm!"
+
+===== Round 9 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Head (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Orthworm (1) is considering using Rock Slide (1)...
+[AI] Orthworm (1) is considering using Body Press (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Orthworm (1) is considering using Toxic (4) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Orthworm (1):
+   *  50.0% to use Iron Head (target 0): score 21
+   *   0.0% to use Rock Slide: score 0
+   *  50.0% to use Body Press (target 0): score 21
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Iron Head (target 0)
+
+[Round order] Obstagoon (0), the opposing Orthworm (1)
+
+"Good job, Obstagoon! Come back!"
+"You're in charge, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Orthworm (1) used Iron Head
+"The opposing Orthworm used Iron Head!"
+[HP change] Pyroar lost 23 HP (147 -> 124)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Iron Head (1) against Pyroar (0)...
+[AI] Orthworm (1) is considering using Rock Slide (1)...
+[AI] Orthworm (1) is considering using Body Press (1) against Pyroar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Orthworm (1) is considering using Toxic (4) against Pyroar (0)...
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     + 2 for being a Toxic Staller
+     - 2 because this will be pointless
+[AI] Move choices for Orthworm (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Body Press (target 0): score 5
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Body Press (target 0)
+
+[Round order] Pyroar (0), the opposing Orthworm (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Orthworm lost 129 HP (129 -> 0)
+"It's super effective!"
+"The opposing Orthworm fainted!"
+"Pyroar got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Picnicker Lauren!"
+"Wow. You're great!"
+
+"You got $704 for winning!"
