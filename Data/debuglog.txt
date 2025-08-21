@@ -155552,3 +155552,1745 @@ Set up score for Pyroar (0): 0
 
 [End of round 4]
 Trick Room Turns: 0
+Roles for PROBOPASS: [:SPECIALBREAKER, :LEAD]
+Roles for SKARMORY: [:PHYSICALBREAKER, :LEAD]
+Roles for MACHAMP: [:PHYSICALBREAKER]
+Roles for OMASTAR: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Theodore!"
+"Hiker Theodore sent out Probopass!"
+"Go! Pyroar!"
+[Round order] Pyroar (0), the opposing Probopass (1)
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Probopass (1) is considering using Discharge (1)...
+[AI] Probopass (1) is considering using Flash Cannon (1) against Pyroar (0)...
+[AI] Probopass (1) is considering using Earth Power (1) against Pyroar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Stealth Rock: score 10
+   => will use Stealth Rock
+
+[Round order] Pyroar (0), the opposing Probopass (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Probopass lost 73 HP (105 -> 32)
+"It's super effective!"
+[Use move] The opposing Probopass (1) used Stealth Rock
+"The opposing Probopass used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Discharge (1)...
+[AI] Probopass (1) is considering using Flash Cannon (1) against Pyroar (0)...
+[AI] Probopass (1) is considering using Earth Power (1) against Pyroar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Stealth Rock: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Pyroar (0), the opposing Probopass (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Probopass lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Probopass fainted!"
+"Pyroar got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Skarmory] using Drill Peck vs Pyroar does a max of 38/135 damage
+     [Skarmory] using Iron Head vs Pyroar does a max of 19/135 damage
+     [Skarmory] using Counter vs Pyroar does a max of 60/135 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 135 damage
+==============================
+     [Skarmory] - 9 because Pyroar (0) has kill with Endeavor (135/106)
+     [Skarmory] - 3 because we have no kill
+     [Skarmory] final Switch score: -12
+     [Machamp] using Dynamic Punch vs Pyroar does a max of 177/135 damage
+     [Machamp] using Stone Edge vs Pyroar does a max of 108/135 damage
+     [Machamp] using Mach Punch vs Pyroar does a max of 72/135 damage
+     [Machamp] using Mega Punch vs Pyroar does a max of 47/135 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 135 damage
+==============================
+     [Machamp] - 9 because Pyroar (0) has kill with Endeavor (135/128)
+     [Machamp] + 12 because we have kill
+     [Machamp] final Switch score: 3
+     [Omastar] using Scald vs Pyroar does a max of 123/135 damage
+     [Omastar] using Ice Beam vs Pyroar does a max of 23/135 damage
+     [Omastar] using Power Gem vs Pyroar does a max of 123/135 damage
+     [Omastar] using Earth Power vs Pyroar does a max of 92/135 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 135 damage
+==============================
+     [Omastar] - 9 because Pyroar (0) has kill with Endeavor (135/110)
+     [Omastar] + 6 because we have 2HKO
+     [Omastar] final Switch score: -3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Hiker Theodore sent out Machamp!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Machamp (1): 0
+Set up score for Machamp (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Machamp (1) is considering using Dynamic Punch (1) against Pyroar (0)...
+      + 20 for fast kill
+[AI] Machamp (1) is considering using Stone Edge (1) against Pyroar (0)...
+[AI] Machamp (1) is considering using Mach Punch (1) against Pyroar (0)...
+[AI] Machamp (1) is considering using Mega Punch (1) against Pyroar (0)...
+[AI] Move choices for Machamp (1):
+   * 100.0% to use Dynamic Punch (target 0): score 21
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mega Punch (target 0): score 0
+   => will use Dynamic Punch (target 0)
+
+[Round order] Pyroar (0), the opposing Machamp (1)
+
+"Pyroar, come back!"
+"You're in charge, Chimecho!"
+[HP change] Chimecho lost 16 HP (126 -> 110)
+"Pointed stones dug into Chimecho!"
+[Use move] The opposing Machamp (1) used Dynamic Punch
+"The opposing Machamp used Dynamic Punch!"
+[HP change] Chimecho lost 21 HP (110 -> 89)
+"It's not very effective..."
+"Chimecho became confused!"
+[Lingering effect] Chimecho's confusion count is 5
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Machamp (1): 0
+Set up score for Machamp (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Machamp (1) is considering using Dynamic Punch (1) against Chimecho (0)...
+[AI] Machamp (1) is considering using Stone Edge (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Machamp (1) is considering using Mach Punch (1) against Chimecho (0)...
+[AI] Machamp (1) is considering using Mega Punch (1) against Chimecho (0)...
+[AI] Move choices for Machamp (1):
+   *   0.0% to use Dynamic Punch (target 0): score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mega Punch (target 0): score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Chimecho (0), the opposing Machamp (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho is confused!"
+"It hurt itself in its confusion!"
+[Use move] The opposing Machamp (1) used Stone Edge
+"The opposing Machamp used Stone Edge!"
+[HP change] Chimecho lost 50 HP (78 -> 28)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Roles for PROBOPASS: [:SPECIALBREAKER, :LEAD]
+Roles for SKARMORY: [:PHYSICALBREAKER, :LEAD]
+Roles for MACHAMP: [:PHYSICALBREAKER]
+Roles for OMASTAR: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Theodore!"
+"Hiker Theodore sent out Probopass!"
+"Go! Pyroar!"
+[Round order] Pyroar (0), the opposing Probopass (1)
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Probopass (1) is considering using Discharge (1)...
+[AI] Probopass (1) is considering using Flash Cannon (1) against Pyroar (0)...
+[AI] Probopass (1) is considering using Earth Power (1) against Pyroar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Stealth Rock: score 10
+   => will use Stealth Rock
+
+[Round order] Pyroar (0), the opposing Probopass (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Probopass lost 74 HP (105 -> 31)
+"It's super effective!"
+[Use move] The opposing Probopass (1) used Stealth Rock
+"The opposing Probopass used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Discharge (1)...
+[AI] Probopass (1) is considering using Flash Cannon (1) against Pyroar (0)...
+[AI] Probopass (1) is considering using Earth Power (1) against Pyroar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Stealth Rock: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Pyroar (0), the opposing Probopass (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Probopass lost 31 HP (31 -> 0)
+"It's super effective!"
+"The opposing Probopass fainted!"
+"Pyroar got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     [Skarmory] using Drill Peck vs Pyroar does a max of 38/135 damage
+     [Skarmory] using Iron Head vs Pyroar does a max of 19/135 damage
+     [Skarmory] using Counter vs Pyroar does a max of 60/135 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 135 damage
+==============================
+     [Skarmory] - 9 because Pyroar (0) has kill with Endeavor (135/106)
+     [Skarmory] - 3 because we have no kill
+     [Skarmory] final Switch score: -12
+     [Machamp] using Dynamic Punch vs Pyroar does a max of 177/135 damage
+     [Machamp] using Stone Edge vs Pyroar does a max of 108/135 damage
+     [Machamp] using Mach Punch vs Pyroar does a max of 72/135 damage
+     [Machamp] using Mega Punch vs Pyroar does a max of 47/135 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 135 damage
+==============================
+     [Machamp] - 9 because Pyroar (0) has kill with Endeavor (135/128)
+     [Machamp] + 12 because we have kill
+     [Machamp] final Switch score: 3
+     [Omastar] using Scald vs Pyroar does a max of 123/135 damage
+     [Omastar] using Ice Beam vs Pyroar does a max of 23/135 damage
+     [Omastar] using Power Gem vs Pyroar does a max of 123/135 damage
+     [Omastar] using Earth Power vs Pyroar does a max of 92/135 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 135 damage
+==============================
+     [Omastar] - 9 because Pyroar (0) has kill with Endeavor (135/110)
+     [Omastar] + 6 because we have 2HKO
+     [Omastar] final Switch score: -3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Hiker Theodore sent out Machamp!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Machamp (1): 0
+Set up score for Machamp (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Machamp (1) is considering using Dynamic Punch (1) against Pyroar (0)...
+      + 20 for fast kill
+[AI] Machamp (1) is considering using Stone Edge (1) against Pyroar (0)...
+[AI] Machamp (1) is considering using Mach Punch (1) against Pyroar (0)...
+[AI] Machamp (1) is considering using Mega Punch (1) against Pyroar (0)...
+[AI] Move choices for Machamp (1):
+   * 100.0% to use Dynamic Punch (target 0): score 21
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mega Punch (target 0): score 0
+   => will use Dynamic Punch (target 0)
+
+[Round order] Pyroar (0), the opposing Machamp (1)
+
+"Pyroar, come back!"
+"You're in charge, Chimecho!"
+[HP change] Chimecho lost 16 HP (126 -> 110)
+"Pointed stones dug into Chimecho!"
+[Use move] The opposing Machamp (1) used Dynamic Punch
+"The opposing Machamp used Dynamic Punch!"
+[HP change] Chimecho lost 20 HP (110 -> 90)
+"It's not very effective..."
+"Chimecho became confused!"
+[Lingering effect] Chimecho's confusion count is 5
+"Chimecho's Persim Berry snapped it out of its confusion!"
+[Item consumed] Chimecho consumed its held Persim Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Machamp (1): 0
+Set up score for Machamp (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Machamp (1) is considering using Dynamic Punch (1) against Chimecho (0)...
+[AI] Machamp (1) is considering using Stone Edge (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Machamp (1) is considering using Mach Punch (1) against Chimecho (0)...
+[AI] Machamp (1) is considering using Mega Punch (1) against Chimecho (0)...
+[AI] Move choices for Machamp (1):
+   *   0.0% to use Dynamic Punch (target 0): score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Mega Punch (target 0): score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Chimecho (0), the opposing Machamp (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Machamp lost 112 HP (128 -> 16)
+"It's super effective!"
+[Use move] The opposing Machamp (1) used Stone Edge
+"The opposing Machamp used Stone Edge!"
+[HP change] Chimecho lost 47 HP (90 -> 43)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Machamp (1): 0
+Set up score for Machamp (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Machamp (1) is considering using Dynamic Punch (1) against Chimecho (0)...
+[AI] Machamp (1) is considering using Stone Edge (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Machamp (1) is considering using Mach Punch (1) against Chimecho (0)...
+[AI] Machamp (1) is considering using Mega Punch (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Move choices for Machamp (1):
+   *   0.0% to use Dynamic Punch (target 0): score 0
+   *  50.0% to use Stone Edge (target 0): score 21
+   *   0.0% to use Mach Punch (target 0): score 0
+   *  50.0% to use Mega Punch (target 0): score 21
+   => will use Stone Edge (target 0)
+
+[Round order] Chimecho (0), the opposing Machamp (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Machamp lost 16 HP (16 -> 0)
+"It's super effective!"
+"The opposing Machamp fainted!"
+"Chimecho got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     [Skarmory] using Drill Peck vs Chimecho does a max of 36/43 damage
+     [Skarmory] using Iron Head vs Chimecho does a max of 72/43 damage
+     [Skarmory] using Counter vs Chimecho does a max of 60/43 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 33 damage
+==============================
+     [Skarmory] + 12 because we have kill
+     [Skarmory] final Switch score: 12
+     [Omastar] using Scald vs Chimecho does a max of 47/43 damage
+     [Omastar] using Ice Beam vs Chimecho does a max of 34/43 damage
+     [Omastar] using Power Gem vs Chimecho does a max of 47/43 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 72 damage
+==============================
+     [Omastar] - 4 because Chimecho (0) has 2HKO with Dazzling Gleam (72/110)
+     [Omastar] + 12 because we have kill
+     [Omastar] final Switch score: 8
+[AI] Highest move score (21) vs Switch In Score (12)
+"Hiker Theodore sent out Skarmory!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 5 to encourage status move use
+[AI] Skarmory (1) is considering using Drill Peck (1) against Chimecho (0)...
+[AI] Skarmory (1) is considering using Iron Head (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Skarmory (1) is considering using Counter (1)...
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Drill Peck (target 0): score 0
+   * 100.0% to use Iron Head (target 0): score 21
+   *   0.0% to use Counter: score 0
+   => will use Iron Head (target 0)
+
+[Round order] Chimecho (0), the opposing Skarmory (1)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Magcargo!"
+[HP change] Magcargo lost 28 HP (111 -> 83)
+"Pointed stones dug into Magcargo!"
+[Use move] The opposing Skarmory (1) used Iron Head
+"The opposing Skarmory used Iron Head!"
+[HP change] Magcargo lost 6 HP (83 -> 77)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Drill Peck (1) against Magcargo (0)...
+[AI] Skarmory (1) is considering using Iron Head (1) against Magcargo (0)...
+[AI] Skarmory (1) is considering using Counter (1)...
+[AI] Move choices for Skarmory (1):
+   * 100.0% to use Spikes: score 10
+   *   0.0% to use Drill Peck (target 0): score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Counter: score 0
+   => will use Spikes
+
+[Round order] The opposing Skarmory (1), Magcargo (0)
+
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory used Spikes!"
+"Spikes were scattered all around your team's feet!"
+[Use move] Magcargo (0) used Lava Plume
+"Magcargo used Lava Plume!"
+[HP change] The opposing Skarmory lost 96 HP (106 -> 10)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Drill Peck (1) against Magcargo (0)...
+[AI] Skarmory (1) is considering using Iron Head (1) against Magcargo (0)...
+[AI] Skarmory (1) is considering using Counter (1)...
+[AI] Move choices for Skarmory (1):
+   * 100.0% to use Spikes: score 10
+   *   0.0% to use Drill Peck (target 0): score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Counter: score 0
+   => will use Spikes
+
+[Round order] The opposing Skarmory (1), Magcargo (0)
+
+"The opposing Skarmory's Custap Berry let it move first!"
+[Item consumed] The opposing Skarmory consumed its held Custap Berry
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory used Spikes!"
+"Spikes were scattered all around your team's feet!"
+[Use move] Magcargo (0) used Scald
+"Magcargo used Scald!"
+[HP change] The opposing Skarmory lost 10 HP (10 -> 0)
+"The opposing Skarmory fainted!"
+"Magcargo got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     [Omastar] using Scald vs Magcargo does a max of 54/77 damage
+     [Omastar] using Ice Beam vs Magcargo does a max of 10/77 damage
+     [Omastar] using Power Gem vs Magcargo does a max of 108/77 damage
+     [Omastar] using Earth Power vs Magcargo does a max of 80/77 damage
+==============================
+     Magcargo (0)'s best move: Scald for 54 damage
+==============================
+     [Omastar] + 5 because we outspeed
+     [Omastar] + 12 because we have kill
+     [Omastar] final Switch score: 17
+[AI] Highest move score (1) vs Switch In Score (17)
+"Hiker Theodore sent out Omastar!"
+
+===== Round 9 =====
+
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omastar (1) is considering using Scald (1) against Magcargo (0)...
+[AI] Omastar (1) is considering using Ice Beam (1) against Magcargo (0)...
+[AI] Omastar (1) is considering using Power Gem (1) against Magcargo (0)...
+      + 20 for fast kill
+[AI] Omastar (1) is considering using Earth Power (1) against Magcargo (0)...
+[AI] Move choices for Omastar (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Omastar (1), Magcargo (0)
+
+"Magcargo, come back!"
+"You're in charge, Falinks!"
+[HP change] Falinks lost 7 HP (107 -> 100)
+"Pointed stones dug into Falinks!"
+[HP change] Falinks lost 17 HP (100 -> 83)
+"Falinks is hurt by the spikes!"
+[Use move] The opposing Omastar (1) used Power Gem
+"The opposing Omastar used Power Gem!"
+[HP change] Falinks lost 32 HP (83 -> 51)
+"It's not very effective..."
+[HP change] Falinks gained 26 HP (51 -> 77)
+"Falinks restored its health using its Sitrus Berry!"
+[Item consumed] Falinks consumed its held Sitrus Berry
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omastar (1) is considering using Scald (1) against Falinks (0)...
+     + 4 to prioritize highest damaging move
+[AI] Omastar (1) is considering using Ice Beam (1) against Falinks (0)...
+[AI] Omastar (1) is considering using Power Gem (1) against Falinks (0)...
+[AI] Omastar (1) is considering using Earth Power (1) against Falinks (0)...
+[AI] Move choices for Omastar (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Falinks (0), the opposing Omastar (1)
+
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Omastar lost 17 HP (110 -> 93)
+[Ability triggered] The opposing Omastar's Weak Armor
+[Stat change] The opposing Omastar's Defense changed by -1 (0 -> -1)
+"The opposing Omastar's Defense fell!"
+[Stat change] The opposing Omastar's Speed changed by +2 (0 -> 2)
+"The opposing Omastar's Speed rose sharply!"
+"The Rindo Berry weakened the damage to the opposing Omastar!"
+[Item consumed] The opposing Omastar consumed its held Rindo Berry
+[HP change] The opposing Omastar lost 52 HP (93 -> 41)
+[Ability triggered] The opposing Omastar's Weak Armor
+[Stat change] The opposing Omastar's Defense changed by -1 (-1 -> -2)
+"The opposing Omastar's Defense fell!"
+[Stat change] The opposing Omastar's Speed changed by +2 (2 -> 4)
+"The opposing Omastar's Speed rose sharply!"
+[HP change] The opposing Omastar lost 41 HP (41 -> 0)
+"The opposing Omastar fainted!"
+"It's super effective!"
+"Hit 3 times!"
+"Falinks got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Hiker Theodore!"
+"Wow. You're great!"
+
+"You got $1,216 for winning!"
+Roles for MEDICHAM: [:SPECIALBREAKER]
+Roles for WHISCASH: [:PHYSICALBREAKER]
+Roles for DIGGERSBY: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for RAPIDASH: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Cyclist Axel!"
+"Cyclist Axel sent out Medicham!"
+"Go! Mismagius!"
+[Round order] Mismagius (0), the opposing Medicham (1)
+
+===== Round 1 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Medicham (1): 0
+Set up score for Medicham (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Mismagius (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Medicham (1) is considering using Fake Out (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Medicham (1) is considering using Psychic Noise (1) against Mismagius (0)...
+[AI] Medicham (1) is considering using Aura Sphere (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Medicham (1) is considering using Shadow Ball (1) against Mismagius (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Medicham (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   => will use Shadow Ball (target 0)
+
+[Round order] Mismagius (0), the opposing Medicham (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Medicham lost 105 HP (105 -> 0)
+"It's super effective!"
+"The opposing Medicham fainted!"
+"Mismagius got 1 Exp. Points!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Whiscash] using Liquidation vs Mismagius does a max of 92/114 damage
+     [Whiscash] using Zen Headbutt vs Mismagius does a max of 57/114 damage
+     [Whiscash] using Rock Slide vs Mismagius does a max of 54/114 damage
+==============================
+     Mismagius (0)'s best move: Dazzling Gleam for 74 damage
+==============================
+     [Whiscash] - 4 because Mismagius (0) has 2HKO with Dazzling Gleam (74/139)
+     [Whiscash] + 6 because we have 2HKO
+     [Whiscash] final Switch score: 2
+     [Diggersby] using Body Slam vs Mismagius does a max of 1/114 damage
+     [Diggersby] using U-turn vs Mismagius does a max of 12/114 damage
+     [Diggersby] using Quick Attack vs Mismagius does a max of 1/114 damage
+==============================
+     Mismagius (0)'s best move: Dazzling Gleam for 68 damage
+==============================
+     [Diggersby] - 4 because Mismagius (0) has 2HKO with Dazzling Gleam (68/124)
+     [Diggersby] - 3 because we have no kill
+     [Diggersby] final Switch score: -7
+     [Rapidash] using Extrasensory vs Mismagius does a max of 53/114 damage
+     [Rapidash] using Dazzling Gleam vs Mismagius does a max of 53/114 damage
+     [Rapidash] using Mystical Fire vs Mismagius does a max of 33/114 damage
+==============================
+     Mismagius (0)'s best move: Hex for 108 damage
+==============================
+     [Rapidash] - 4 because Mismagius (0) has 2HKO with Hex (108/109)
+     [Rapidash] + 5 because we outspeed
+     [Rapidash] - 3 because we have no kill
+     [Rapidash] final Switch score: -2
+[AI] Highest move score (5) vs Switch In Score (2)
+"Cyclist Axel sent out Whiscash!"
+
+===== Round 2 =====
+
+     move will not affect Mismagius (0)
+Set up score for Whiscash (1): 0
+Set up score for Whiscash (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Whiscash (1) is considering using Liquidation (1) against Mismagius (0)...
+[AI] Whiscash (1) is considering using Earthquake (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Whiscash (1) is considering using Zen Headbutt (1) against Mismagius (0)...
+[AI] Whiscash (1) is considering using Rock Slide (1)...
+[AI] Move choices for Whiscash (1):
+   *  33.3% to use Liquidation (target 0): score 1
+   *   0.0% to use Earthquake: score 0
+   *  33.3% to use Zen Headbutt (target 0): score 1
+   *  33.3% to use Rock Slide: score 1
+   => will use Zen Headbutt (target 0)
+
+[Round order] Mismagius (0), the opposing Whiscash (1)
+
+"Mismagius, come back!"
+"You're in charge, Falinks!"
+[Use move] The opposing Whiscash (1) used Zen Headbutt
+"The opposing Whiscash used Zen Headbutt!"
+[HP change] Falinks lost 60 HP (107 -> 47)
+"It's super effective!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Whiscash (1): 0
+Set up score for Whiscash (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Whiscash (1) is considering using Liquidation (1) against Falinks (0)...
+      + 20 for fast kill
+[AI] Whiscash (1) is considering using Earthquake (1)...
+      + 20 for fast kill
+[AI] Whiscash (1) is considering using Zen Headbutt (1) against Falinks (0)...
+      + 20 for fast kill
+[AI] Whiscash (1) is considering using Rock Slide (1)...
+[AI] Move choices for Whiscash (1):
+   *  33.3% to use Liquidation (target 0): score 21
+   *  33.3% to use Earthquake: score 21
+   *  33.3% to use Zen Headbutt (target 0): score 21
+   *   0.0% to use Rock Slide: score 0
+   => will use Earthquake
+
+[Round order] Falinks (0), the opposing Whiscash (1)
+
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Whiscash lost 27 HP (139 -> 112)
+"The Rindo Berry weakened the damage to the opposing Whiscash!"
+[Item consumed] The opposing Whiscash consumed its held Rindo Berry
+[HP change] The opposing Whiscash lost 48 HP (112 -> 64)
+[HP change] The opposing Whiscash lost 49 HP (64 -> 15)
+[HP change] The opposing Whiscash lost 15 HP (15 -> 0)
+"The opposing Whiscash fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Diggersby] using Body Slam vs Falinks does a max of 56/47 damage
+     [Diggersby] using Earthquake vs Falinks does a max of 65/47 damage
+     [Diggersby] using U-turn vs Falinks does a max of 15/47 damage
+     [Diggersby] using Quick Attack vs Falinks does a max of 27/47 damage
+==============================
+     Falinks (0)'s best move: Bullet Seed for 74 damage
+==============================
+     [Diggersby] - 4 because Falinks (0) has 2HKO with Bullet Seed (74/124)
+     [Diggersby] + 5 because we outspeed
+     [Diggersby] + 12 because we have kill
+     [Diggersby] final Switch score: 13
+     [Rapidash] using Extrasensory vs Falinks does a max of 165/47 damage
+     [Rapidash] using Dazzling Gleam vs Falinks does a max of 165/47 damage
+     [Rapidash] using Mystical Fire vs Falinks does a max of 52/47 damage
+==============================
+     Falinks (0)'s best move: Double Hit for 53 damage
+==============================
+     [Rapidash] + 5 because we outspeed
+     [Rapidash] + 12 because we have kill
+     [Rapidash] final Switch score: 17
+[AI] Highest move score (5) vs Switch In Score (17)
+"Cyclist Axel sent out Rapidash!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rapidash (1): 0
+Set up score for Rapidash (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rapidash (1) is considering using Extrasensory (1) against Falinks (0)...
+      + 20 for fast kill
+[AI] Rapidash (1) is considering using Dazzling Gleam (1)...
+      + 20 for fast kill
+[AI] Rapidash (1) is considering using Mystical Fire (1) against Falinks (0)...
+      + 20 for fast kill
+[AI] Rapidash (1) is considering using Hypnosis (4) against Falinks (0)...
+     + 5 to encourage status move use
+     - 8 because we see kill or target sees 2HKO
+     + 5 to encourage status move use
+[AI] Move choices for Rapidash (1):
+   *  33.3% to use Extrasensory (target 0): score 21
+   *  33.3% to use Dazzling Gleam: score 21
+   *  33.3% to use Mystical Fire (target 0): score 21
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Rapidash (1), Falinks (0)
+
+"OK, Falinks! Come back!"
+"You're in charge, Gardevoir!"
+[Use move] The opposing Rapidash (1) used Dazzling Gleam
+"The opposing Rapidash used Dazzling Gleam!"
+[HP change] Gardevoir lost 37 HP (113 -> 76)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Rapidash (1): 0
+Set up score for Rapidash (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rapidash (1) is considering using Extrasensory (1) against Gardevoir (0)...
+[AI] Rapidash (1) is considering using Dazzling Gleam (1)...
+     + 4 to prioritize highest damaging move
+[AI] Rapidash (1) is considering using Mystical Fire (1) against Gardevoir (0)...
+[AI] Rapidash (1) is considering using Hypnosis (4) against Gardevoir (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Rapidash (1):
+   *   0.0% to use Extrasensory (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Mystical Fire (target 0): score 0
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Rapidash (1), Gardevoir (0)
+
+[Use move] The opposing Rapidash (1) used Dazzling Gleam
+"The opposing Rapidash used Dazzling Gleam!"
+[HP change] Gardevoir lost 61 HP (76 -> 15)
+"A critical hit!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Rapidash lost 82 HP (109 -> 27)
+[Stat change] The opposing Rapidash's Special Attack changed by -1 (0 -> -1)
+"The opposing Rapidash's Special Attack fell!"
+
+[End of round 5]
+[HP change] The opposing Rapidash gained 6 HP (27 -> 33)
+"The opposing Rapidash restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rapidash (1): 0
+Set up score for Rapidash (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rapidash (1) is considering using Extrasensory (1) against Gardevoir (0)...
+[AI] Rapidash (1) is considering using Dazzling Gleam (1)...
+      + 20 for fast kill
+[AI] Rapidash (1) is considering using Mystical Fire (1) against Gardevoir (0)...
+      + 20 for fast kill
+[AI] Rapidash (1) is considering using Hypnosis (4) against Gardevoir (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Rapidash (1):
+   *   0.0% to use Extrasensory (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Mystical Fire (target 0): score 21
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Rapidash (1), Gardevoir (0)
+
+"Good job, Gardevoir! Come back!"
+"Just a little more! Hang in there, Chimecho!"
+[Use move] The opposing Rapidash (1) used Dazzling Gleam
+"The opposing Rapidash used Dazzling Gleam!"
+[HP change] Chimecho lost 35 HP (126 -> 91)
+
+[End of round 6]
+[HP change] The opposing Rapidash gained 6 HP (33 -> 39)
+"The opposing Rapidash restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Rapidash (1): 0
+Set up score for Rapidash (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rapidash (1) is considering using Extrasensory (1) against Chimecho (0)...
+[AI] Rapidash (1) is considering using Dazzling Gleam (1)...
+     + 4 to prioritize highest damaging move
+[AI] Rapidash (1) is considering using Mystical Fire (1) against Chimecho (0)...
+[AI] Rapidash (1) is considering using Hypnosis (4) against Chimecho (0)...
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+     - 0 because this will be pointless
+[AI] Move choices for Rapidash (1):
+   *   0.0% to use Extrasensory (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Mystical Fire (target 0): score 0
+   *   0.0% to use Hypnosis (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Rapidash (1), Chimecho (0)
+
+[Use move] The opposing Rapidash (1) used Dazzling Gleam
+"The opposing Rapidash used Dazzling Gleam!"
+[HP change] Chimecho lost 33 HP (91 -> 58)
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Rapidash lost 39 HP (39 -> 0)
+"The opposing Rapidash fainted!"
+"Gardevoir got 1 Exp. Points!"
+
+[End of round 7]
+Trick Room Turns: 0
+     [Diggersby] using Body Slam vs Chimecho does a max of 63/58 damage
+     [Diggersby] using U-turn vs Chimecho does a max of 35/58 damage
+     [Diggersby] using Quick Attack vs Chimecho does a max of 30/58 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 65 damage
+==============================
+     [Diggersby] - 4 because Chimecho (0) has 2HKO with Dazzling Gleam (65/124)
+     [Diggersby] + 5 because we outspeed
+     [Diggersby] + 12 because we have kill
+     [Diggersby] final Switch score: 13
+[AI] Highest move score (5) vs Switch In Score (13)
+"Cyclist Axel sent out Diggersby!"
+
+===== Round 8 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Diggersby (1) is considering using Body Slam (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Diggersby (1) is considering using Earthquake (1)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using U-turn (1) against Chimecho (0)...
+[AI] Diggersby (1) is considering using Quick Attack (1) against Chimecho (0)...
+[AI] Move choices for Diggersby (1):
+   * 100.0% to use Body Slam (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use U-turn (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Body Slam (target 0)
+
+[Round order] The opposing Diggersby (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Diggersby (1) used Body Slam
+"The opposing Diggersby used Body Slam!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Diggersby (1) is considering using Body Slam (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using Earthquake (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Diggersby (1) is considering using Quick Attack (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Diggersby (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use U-turn (target 0): score 1
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use U-turn (target 0)
+
+[Round order] Mismagius (0), the opposing Diggersby (1)
+
+[Use move] Mismagius (0) used Will-O-Wisp
+"Mismagius used Will-O-Wisp!"
+"The opposing Diggersby was burned!"
+[Status change] The opposing Diggersby's status was cured
+"The opposing Diggersby's Lum Berry healed its burn!"
+[Item consumed] The opposing Diggersby consumed its held Lum Berry
+[Use move] The opposing Diggersby (1) used U-turn
+"The opposing Diggersby used U-turn!"
+[HP change] Mismagius lost 12 HP (114 -> 102)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Diggersby (1) is considering using Body Slam (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using Earthquake (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Diggersby (1) is considering using Quick Attack (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Diggersby (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use U-turn (target 0): score 1
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use U-turn (target 0)
+
+[Round order] Mismagius (0), the opposing Diggersby (1)
+
+[Use move] Mismagius (0) used Will-O-Wisp
+"Mismagius used Will-O-Wisp!"
+"The opposing Diggersby was burned!"
+[Use move] The opposing Diggersby (1) used U-turn
+"The opposing Diggersby used U-turn!"
+[HP change] Mismagius lost 5 HP (102 -> 97)
+"It's not very effective..."
+
+[End of round 10]
+[HP change] The opposing Diggersby lost 7 HP (124 -> 117)
+"The opposing Diggersby was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Diggersby (1) is considering using Body Slam (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using Earthquake (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Diggersby (1) is considering using Quick Attack (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Diggersby (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use U-turn (target 0): score 1
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use U-turn (target 0)
+
+[Round order] Mismagius (0), the opposing Diggersby (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Diggersby lost 63 HP (117 -> 54)
+[Use move] The opposing Diggersby (1) used U-turn
+"The opposing Diggersby used U-turn!"
+[HP change] Mismagius lost 5 HP (97 -> 92)
+"It's not very effective..."
+
+[End of round 11]
+[HP change] The opposing Diggersby lost 7 HP (54 -> 47)
+"The opposing Diggersby was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Diggersby (1) is considering using Body Slam (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using Earthquake (1)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Diggersby (1) is considering using U-turn (1) against Mismagius (0)...
+[AI] Diggersby (1) is considering using Quick Attack (1) against Mismagius (0)...
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Diggersby (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use U-turn (target 0): score 1
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use U-turn (target 0)
+
+[Round order] Mismagius (0), the opposing Diggersby (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Diggersby lost 47 HP (47 -> 0)
+"The opposing Diggersby fainted!"
+
+===== Player won =====
+
+"You defeated Cyclist Axel!"
+"Wow. You're great!"
+
+"You got $1,216 for winning!"
+Roles for SPIDOPS: [:PHYSICALBREAKER, :LEAD]
+Roles for VELUZA: [:PHYSICALBREAKER]
+Roles for CERULEDGE: [:PHYSICALBREAKER]
+Roles for GALLADE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker James!"
+"Hiker James sent out Spidops!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Spidops (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Spidops (1): 0
+Set up score for Spidops (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Spidops (1) is considering using First Impression (1) against Hitmonchan (0)...
+     + 18 for using turn 1
+[AI] Spidops (1) is considering using X-Scissor (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Spidops (1) is considering using Cut (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Spidops (1) is considering using Sticky Web (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Spidops (1):
+   *   0.0% to use First Impression (target 0): score 0
+   *  50.0% to use X-Scissor (target 0): score 21
+   *  50.0% to use Cut (target 0): score 21
+   *   0.0% to use Sticky Web: score 0
+   => will use Cut (target 0)
+
+[Round order] Hitmonchan (0), the opposing Spidops (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Spidops lost 13 HP (112 -> 99)
+"A critical hit!"
+"It's not very effective..."
+[Use move] The opposing Spidops (1) used Cut
+"The opposing Spidops flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Spidops (1): 0
+Set up score for Spidops (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spidops (1) is considering using First Impression...
+     +  1: move will fail
+[AI] Spidops (1) is considering using X-Scissor (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Spidops (1) is considering using Cut (1) against Hitmonchan (0)...
+      + 20 for fast kill
+[AI] Spidops (1) is considering using Sticky Web (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Spidops (1):
+   *   0.0% to use First Impression: score 0
+   *  50.0% to use X-Scissor (target 0): score 21
+   *  50.0% to use Cut (target 0): score 21
+   *   0.0% to use Sticky Web: score 0
+   => will use X-Scissor (target 0)
+
+[Round order] Hitmonchan (0), the opposing Spidops (1)
+
+"Good job, Hitmonchan! Come back!"
+"Go for it, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Spidops (1) used X-Scissor
+"The opposing Spidops used X-Scissor!"
+[HP change] Pyroar lost 57 HP (135 -> 78)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Spidops (1): 0
+Set up score for Spidops (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spidops (1) is considering using First Impression...
+     +  1: move will fail
+[AI] Spidops (1) is considering using X-Scissor (1) against Pyroar (0)...
+[AI] Spidops (1) is considering using Cut (1) against Pyroar (0)...
+[AI] Spidops (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Spidops (1):
+   *   0.0% to use First Impression: score 0
+   *  33.3% to use X-Scissor (target 0): score 1
+   *  33.3% to use Cut (target 0): score 1
+   *  33.3% to use Sticky Web: score 1
+   => will use Cut (target 0)
+
+[Round order] Pyroar (0), the opposing Spidops (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Spidops lost 99 HP (99 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Spidops fainted!"
+"Hitmonchan got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+     [Veluza] using Razor Shell vs Pyroar does a max of 108/78 damage
+     [Veluza] using Psycho Cut vs Pyroar does a max of 59/78 damage
+     [Veluza] using Night Slash vs Pyroar does a max of 26/78 damage
+     [Veluza] using Aqua Jet vs Pyroar does a max of 60/78 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 78 damage
+==============================
+     [Veluza] - 4 because Pyroar (0) has 2HKO with Endeavor (78/125)
+     [Veluza] + 12 because we have kill
+     [Veluza] final Switch score: 8
+     [Ceruledge] using Bitter Blade vs Pyroar does a max of 48/78 damage
+     [Ceruledge] using Cut vs Pyroar does a max of 27/78 damage
+     [Ceruledge] using Brick Break vs Pyroar does a max of 108/78 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 78 damage
+==============================
+     [Ceruledge] - 4 because Pyroar (0) has 2HKO with Endeavor (78/116)
+     [Ceruledge] + 12 because we have kill
+     [Ceruledge] final Switch score: 8
+     [Gallade] using Psycho Cut vs Pyroar does a max of 75/78 damage
+     [Gallade] using Brick Break vs Pyroar does a max of 162/78 damage
+     [Gallade] using Leaf Blade vs Pyroar does a max of 32/78 damage
+==============================
+     Pyroar (0)'s best move: Endeavor for 78 damage
+==============================
+     [Gallade] - 4 because Pyroar (0) has 2HKO with Endeavor (78/111)
+     [Gallade] + 12 because we have kill
+     [Gallade] final Switch score: 8
+[AI] Highest move score (23) vs Switch In Score (8)
+"Hiker James sent out Ceruledge!"
+
+===== Round 4 =====
+
+     move will not affect Pyroar (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Ceruledge (1): 0
+Set up score for Ceruledge (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ceruledge (1) is considering using Shadow Claw (1) against Pyroar (0)...
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Ceruledge (1) is considering using Bitter Blade (1) against Pyroar (0)...
+[AI] Ceruledge (1) is considering using Cut (1) against Pyroar (0)...
+[AI] Ceruledge (1) is considering using Brick Break (1) against Pyroar (0)...
+      + 20 for fast kill
+[AI] Move choices for Ceruledge (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   *   0.0% to use Bitter Blade (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   => will use Brick Break (target 0)
+
+[Round order] Pyroar (0), the opposing Ceruledge (1)
+
+"Pyroar, come back!"
+"You're in charge, Quagsire!"
+[Use move] The opposing Ceruledge (1) used Brick Break
+"The opposing Ceruledge used Brick Break!"
+[HP change] Quagsire lost 51 HP (144 -> 93)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ceruledge (1): 0
+Set up score for Ceruledge (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ceruledge (1) is considering using Shadow Claw (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Ceruledge (1) is considering using Bitter Blade (1) against Quagsire (0)...
+[AI] Ceruledge (1) is considering using Cut (1) against Quagsire (0)...
+[AI] Ceruledge (1) is considering using Brick Break (1) against Quagsire (0)...
+[AI] Move choices for Ceruledge (1):
+   * 100.0% to use Shadow Claw (target 0): score 5
+   *   0.0% to use Bitter Blade (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   => will use Shadow Claw (target 0)
+
+[Round order] The opposing Ceruledge (1), Quagsire (0)
+
+[Use move] The opposing Ceruledge (1) used Shadow Claw
+"The opposing Ceruledge used Shadow Claw!"
+[HP change] Quagsire lost 64 HP (93 -> 29)
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Ceruledge lost 110 HP (116 -> 6)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Ceruledge (1): 0
+Set up score for Ceruledge (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ceruledge (1) is considering using Shadow Claw (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Ceruledge (1) is considering using Bitter Blade (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Ceruledge (1) is considering using Cut (1) against Quagsire (0)...
+[AI] Ceruledge (1) is considering using Brick Break (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Move choices for Ceruledge (1):
+   *  33.3% to use Shadow Claw (target 0): score 21
+   *  33.3% to use Bitter Blade (target 0): score 21
+   *   0.0% to use Cut (target 0): score 0
+   *  33.3% to use Brick Break (target 0): score 21
+   => will use Shadow Claw (target 0)
+
+[Round order] The opposing Ceruledge (1), Quagsire (0)
+
+"Good job, Quagsire! Come back!"
+"Your opponent's weak! Get 'em, Sharpedo!"
+[Use move] The opposing Ceruledge (1) used Shadow Claw
+"The opposing Ceruledge used Shadow Claw!"
+[HP change] Sharpedo lost 55 HP (118 -> 63)
+"It's not very effective..."
+[Ability triggered] Sharpedo's Rough Skin
+[HP change] The opposing Ceruledge lost 6 HP (6 -> 0)
+"The opposing Ceruledge is hurt!"
+"The opposing Ceruledge fainted!"
+"Sharpedo got 1 Exp. Points!"
+"Quagsire got 1 Exp. Points!"
+
+[End of round 6]
+Trick Room Turns: 0
+     [Veluza] using Razor Shell vs Sharpedo does a max of 43/63 damage
+     [Veluza] using Night Slash vs Sharpedo does a max of 21/63 damage
+     [Veluza] using Aqua Jet vs Sharpedo does a max of 23/63 damage
+==============================
+     Sharpedo (0)'s best move: Crunch for 123 damage
+==============================
+     [Veluza] - 4 because Sharpedo (0) has 2HKO with Crunch (123/125)
+     [Veluza] + 6 because we have 2HKO
+     [Veluza] final Switch score: 2
+     [Gallade] using Brick Break vs Sharpedo does a max of 255/63 damage
+     [Gallade] using Leaf Blade vs Sharpedo does a max of 202/63 damage
+     [Gallade] using Shadow Sneak vs Sharpedo does a max of 16/63 damage
+==============================
+     Sharpedo (0)'s best move: Crunch for 66 damage
+==============================
+     [Gallade] - 4 because Sharpedo (0) has 2HKO with Crunch (66/111)
+     [Gallade] + 12 because we have kill
+     [Gallade] final Switch score: 8
+[AI] Highest move score (21) vs Switch In Score (8)
+"Hiker James sent out Gallade!"
+
+===== Round 7 =====
+
+     move will not affect Sharpedo (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Gallade (1): 0
+Set up score for Gallade (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sharpedo (0): 0
+     Threat Score for Sharpedo (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gallade (1) is considering using Psycho Cut (1) against Sharpedo (0)...
+     move will not affect Sharpedo (0)
+     -  1: move will fail
+[AI] Gallade (1) is considering using Brick Break (1) against Sharpedo (0)...
+      + 20 for fast kill
+[AI] Gallade (1) is considering using Leaf Blade (1) against Sharpedo (0)...
+      + 20 for fast kill
+[AI] Gallade (1) is considering using Shadow Sneak (1) against Sharpedo (0)...
+[AI] Move choices for Gallade (1):
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *  50.0% to use Brick Break (target 0): score 21
+   *  50.0% to use Leaf Blade (target 0): score 21
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Sharpedo (0), the opposing Gallade (1)
+
+"Sharpedo, switch out! Come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Leaf Blade!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+[Use move] The opposing Gallade (1) used Leaf Blade
+"The opposing Gallade used Leaf Blade!"
+[HP change] Musharna lost 88 HP (151 -> 63)
+"A critical hit!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Gallade (1): 0
+Set up score for Gallade (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gallade (1) is considering using Psycho Cut (1) against Musharna (0)...
+[AI] Gallade (1) is considering using Brick Break (1) against Musharna (0)...
+[AI] Gallade (1) is considering using Leaf Blade (1) against Musharna (0)...
+     + 4 to prioritize highest damaging move
+[AI] Gallade (1) is considering using Shadow Sneak (1) against Musharna (0)...
+[AI] Move choices for Gallade (1):
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Gallade (1), Musharna (0)
+
+[Use move] The opposing Gallade (1) used Leaf Blade
+"The opposing Gallade used Leaf Blade!"
+[HP change] Musharna lost 35 HP (63 -> 28)
+[Use move] Musharna (0) used Dazzling Gleam
+"Musharna used Dazzling Gleam!"
+[HP change] The opposing Gallade lost 84 HP (111 -> 27)
+"It's super effective!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Gallade (1): 0
+Set up score for Gallade (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gallade (1) is considering using Psycho Cut (1) against Musharna (0)...
+[AI] Gallade (1) is considering using Brick Break (1) against Musharna (0)...
+[AI] Gallade (1) is considering using Leaf Blade (1) against Musharna (0)...
+      + 20 for fast kill
+[AI] Gallade (1) is considering using Shadow Sneak (1) against Musharna (0)...
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Gallade (1):
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Leaf Blade (target 0): score 21
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Gallade (1), Musharna (0)
+
+"Good job, Musharna! Come back!"
+"Just a little more! Hang in there, Chimecho!"
+[Use move] The opposing Gallade (1) used Leaf Blade
+"The opposing Gallade used Leaf Blade!"
+[HP change] Chimecho lost 54 HP (126 -> 72)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Gallade (1): 0
+Set up score for Gallade (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gallade (1) is considering using Psycho Cut (1) against Chimecho (0)...
+[AI] Gallade (1) is considering using Brick Break (1) against Chimecho (0)...
+[AI] Gallade (1) is considering using Leaf Blade (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Gallade (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Gallade (1):
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Gallade (1), Chimecho (0)
+
+[Use move] The opposing Gallade (1) used Shadow Sneak
+"The opposing Gallade used Shadow Sneak!"
+[HP change] Chimecho lost 37 HP (72 -> 35)
+"It's super effective!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Gallade lost 27 HP (27 -> 0)
+"It's super effective!"
+"The opposing Gallade fainted!"
+"Musharna got 1 Exp. Points!"
+
+[End of round 10]
+Trick Room Turns: 0
+     [Veluza] using Razor Shell vs Chimecho does a max of 53/35 damage
+     [Veluza] using Psycho Cut vs Chimecho does a max of 28/35 damage
+     [Veluza] using Night Slash vs Chimecho does a max of 25/35 damage
+     [Veluza] using Aqua Jet vs Chimecho does a max of 29/35 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 77 damage
+==============================
+     [Veluza] - 4 because Chimecho (0) has 2HKO with Dazzling Gleam (77/125)
+     [Veluza] + 12 because we have kill
+     [Veluza] final Switch score: 8
+[AI] Highest move score (21) vs Switch In Score (8)
+"Hiker James sent out Veluza!"
+
+===== Round 11 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Veluza (1) is considering using Razor Shell (1) against Chimecho (0)...
+      + 20 for fast kill
+[AI] Veluza (1) is considering using Psycho Cut (1) against Chimecho (0)...
+[AI] Veluza (1) is considering using Night Slash (1) against Chimecho (0)...
+[AI] Veluza (1) is considering using Aqua Jet (1) against Chimecho (0)...
+[AI] Move choices for Veluza (1):
+   * 100.0% to use Razor Shell (target 0): score 21
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] Chimecho (0), the opposing Veluza (1)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Sharpedo!"
+[Use move] The opposing Veluza (1) used Razor Shell
+"The opposing Veluza used Razor Shell!"
+"The Water Gem strengthened Razor Shell's power!"
+[HP change] Sharpedo lost 37 HP (63 -> 26)
+"It's not very effective..."
+[Ability triggered] Sharpedo's Rough Skin
+[HP change] The opposing Veluza lost 15 HP (125 -> 110)
+"The opposing Veluza is hurt!"
+[Item consumed] The opposing Veluza consumed its held Water Gem
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Sharpedo (0): 0
+     Threat Score for Sharpedo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Veluza (1) is considering using Razor Shell (1) against Sharpedo (0)...
+      + 20 for fast kill
+[AI] Veluza (1) is considering using Psycho Cut (1) against Sharpedo (0)...
+     move will not affect Sharpedo (0)
+     -  1: move will fail
+[AI] Veluza (1) is considering using Night Slash (1) against Sharpedo (0)...
+[AI] Veluza (1) is considering using Aqua Jet (1) against Sharpedo (0)...
+[AI] Move choices for Veluza (1):
+   * 100.0% to use Razor Shell (target 0): score 21
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] Sharpedo (0), the opposing Veluza (1)
+
+[Use move] Sharpedo (0) used Crunch
+"Sharpedo used Crunch!"
+[HP change] The opposing Veluza lost 110 HP (110 -> 0)
+"It's super effective!"
+"The opposing Veluza fainted!"
+
+===== Player won =====
+
+"You defeated Hiker James!"
+"Wow. You're great!"
+
+"You got $1,216 for winning!"
