@@ -198411,3 +198411,1172 @@ Set up score for Skarmory (0): 0
 "Wow. You're great!"
 
 "You got $1,504 for winning!"
+Roles for PANGORO: [:PHYSICALBREAKER]
+Roles for FALINKS: [:PHYSICALBREAKER]
+Roles for HERACROSS: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for FLAMIGO: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for TAUROS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Black Belt Kyle!"
+"Black Belt Kyle sent out Pangoro!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Pangoro (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     [Switch AI] +2 Target has fast kill
+Set up score for Pangoro (1): 0
+Set up score for Pangoro (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pangoro (1) is considering using Darkest Lariat (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Drain Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     + 4 to prioritize highest damaging move
+[AI] Pangoro (1) is considering using Bullet Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Ice Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Move choices for Pangoro (1):
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Hitmonchan (0), the opposing Pangoro (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Pangoro lost 24 HP (157 -> 133)
+[Use move] The opposing Pangoro (1) used Drain Punch
+"The opposing Pangoro flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     [Switch AI] +2 Target has fast kill
+Set up score for Pangoro (1): 0
+Set up score for Pangoro (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pangoro (1) is considering using Darkest Lariat (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Drain Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     + 4 to prioritize highest damaging move
+[AI] Pangoro (1) is considering using Bullet Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Ice Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Move choices for Pangoro (1):
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Hitmonchan (0), the opposing Pangoro (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Pangoro lost 133 HP (133 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Pangoro fainted!"
+"The opposing Pangoro had its energy drained!"
+
+[End of round 2]
+Trick Room Turns: 0
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+==============================
+     [Falinks] using Arm Thrust vs Hitmonchan does a max of 59/123 damage
+     [Falinks] using Rock Blast vs Hitmonchan does a max of 32/123 damage
+     [Falinks] using Fury Attack vs Hitmonchan does a max of 78/123 damage
+     Hitmonchan (0)'s best move: Close Combat for 222/130 damage
+==============================
+     [Falinks] -  7: for target slow kill
+     [Falinks] final Switch score: -7
+==============================
+     [Heracross] using Close Combat vs Hitmonchan does a max of 113/123 damage
+     [Heracross] using X-Scissor vs Hitmonchan does a max of 38/123 damage
+     [Heracross] using Stone Edge vs Hitmonchan does a max of 31/123 damage
+     Hitmonchan (0)'s best move: Close Combat for 68/146 damage
+==============================
+     [Heracross] +  6: for fast 2HKO
+     [Heracross] final Switch score: 6
+==============================
+     [Flamigo] using Dual Wingbeat vs Hitmonchan does a max of 138/123 damage
+     [Flamigo] using Close Combat vs Hitmonchan does a max of 102/123 damage
+     [Flamigo] using Throat Chop vs Hitmonchan does a max of 23/123 damage
+     [Flamigo] using U-turn vs Hitmonchan does a max of 20/123 damage
+     Hitmonchan (0)'s best move: Ice Punch for 100/145 damage
+==============================
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Tauros] using Raging Bull vs Hitmonchan does a max of 50/123 damage
+     [Tauros] using Earthquake vs Hitmonchan does a max of 56/123 damage
+     [Tauros] using Throat Chop vs Hitmonchan does a max of 23/123 damage
+     Hitmonchan (0)'s best move: Close Combat for 105/142 damage
+==============================
+     [Tauros] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (12)
+"Black Belt Kyle sent out Flamigo!"
+
+===== Round 3 =====
+
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Dual Wingbeat (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Flamigo (1) is considering using Close Combat (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+[AI] Flamigo (1) is considering using Throat Chop (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+[AI] Flamigo (1) is considering using U-turn (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Flamigo (1), Hitmonchan (0)
+
+"Hitmonchan, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Flamigo (1) used Dual Wingbeat
+"The opposing Flamigo used Dual Wingbeat!"
+[HP change] Skarmory lost 10 HP (140 -> 130)
+[HP change] Skarmory lost 9 HP (130 -> 121)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Flamigo (1) is considering using Close Combat (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Flamigo (1) is considering using Throat Chop (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Flamigo (1) is considering using U-turn (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Move choices for Flamigo (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Skarmory (0)
+
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Skarmory lost 52 HP (121 -> 69)
+[Stat change] The opposing Flamigo's Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Special Defense fell!"
+[HP change] Skarmory gained 35 HP (69 -> 104)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Flamigo lost 145 HP (145 -> 0)
+"It's super effective!"
+"The opposing Flamigo fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+==============================
+     [Falinks] using Arm Thrust vs Skarmory does a max of 32/104 damage
+     [Falinks] using Rock Blast vs Skarmory does a max of 34/104 damage
+     [Falinks] using Fury Attack vs Skarmory does a max of 11/104 damage
+     Skarmory (0)'s best move: Body Press for 112/130 damage
+==============================
+     [Falinks] final Switch score: 0
+==============================
+     [Heracross] using Close Combat vs Skarmory does a max of 60/104 damage
+     [Heracross] using X-Scissor vs Skarmory does a max of 10/104 damage
+     [Heracross] using Stone Edge vs Skarmory does a max of 33/104 damage
+     Skarmory (0)'s best move: Drill Peck for 240/146 damage
+==============================
+     [Heracross] -  7: for target slow kill
+     [Heracross] final Switch score: -7
+==============================
+     [Tauros] using Raging Bull vs Skarmory does a max of 14/104 damage
+     [Tauros] using Throat Chop vs Skarmory does a max of 24/104 damage
+     Skarmory (0)'s best move: Drill Peck for 93/142 damage
+==============================
+     [Tauros] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Black Belt Kyle sent out Tauros!"
+[Ability triggered] The opposing Tauros's Intimidate
+[Stat change] Skarmory's Attack changed by -1 (0 -> -1)
+"Skarmory's Attack fell!"
+
+===== Round 5 =====
+
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     move will not affect Skarmory (0)
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   * 100.0% to use Raging Bull (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Raging Bull (target 0)
+
+[Round order] The opposing Tauros (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Tauros (1) used Raging Bull
+"The opposing Tauros used Raging Bull!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (4)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   * 100.0% to use Bulk Up: score 4
+   => will use Bulk Up
+
+[Round order] The opposing Tauros (1), Mismagius (0)
+
+[Use move] The opposing Tauros (1) used Bulk Up
+"The opposing Tauros used Bulk Up!"
+[Stat change] The opposing Tauros's Attack changed by +1 (0 -> 1)
+"The opposing Tauros's Attack rose!"
+[Stat change] The opposing Tauros's Defense changed by +1 (0 -> 1)
+"The opposing Tauros's Defense rose!"
+[Use move] Mismagius (0) used Will-O-Wisp
+"Mismagius used Will-O-Wisp!"
+"The opposing Tauros was burned!"
+
+[End of round 6]
+[HP change] The opposing Tauros lost 8 HP (142 -> 134)
+"The opposing Tauros was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+Set up score for Tauros (1): 2
+Set up score for Tauros (1): 2
+Set up score for Tauros (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (4)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   * 100.0% to use Bulk Up: score 4
+   => will use Bulk Up
+
+[Round order] The opposing Tauros (1), Mismagius (0)
+
+[Use move] The opposing Tauros (1) used Bulk Up
+"The opposing Tauros used Bulk Up!"
+[Stat change] The opposing Tauros's Attack changed by +1 (1 -> 2)
+"The opposing Tauros's Attack rose!"
+[Stat change] The opposing Tauros's Defense changed by +1 (1 -> 2)
+"The opposing Tauros's Defense rose!"
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Tauros lost 121 HP (134 -> 13)
+
+[End of round 7]
+[HP change] The opposing Tauros lost 8 HP (13 -> 5)
+"The opposing Tauros was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+Set up score for Tauros (1): 4
+Set up score for Tauros (1): 4
+Set up score for Tauros (1): 4
+     [Switch AI] +4 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-14) vs Highest Moves Score (4)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   * 100.0% to use Bulk Up: score 4
+   => will use Bulk Up
+
+[Round order] The opposing Tauros (1), Mismagius (0)
+
+[Use move] The opposing Tauros (1) used Bulk Up
+"The opposing Tauros used Bulk Up!"
+[Stat change] The opposing Tauros's Attack changed by +1 (2 -> 3)
+"The opposing Tauros's Attack rose!"
+[Stat change] The opposing Tauros's Defense changed by +1 (2 -> 3)
+"The opposing Tauros's Defense rose!"
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Tauros lost 5 HP (5 -> 0)
+"The opposing Tauros fainted!"
+"Mismagius got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Earthquake
+==============================
+     [Falinks] using Arm Thrust vs Mismagius does a max of 1/136 damage
+     [Falinks] using Rock Blast vs Mismagius does a max of 81/136 damage
+     [Falinks] using Fury Attack vs Mismagius does a max of 49/136 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 198/130 damage
+==============================
+     [Falinks] -  9: for target fast kill
+     [Falinks] final Switch score: -9
+==============================
+     [Heracross] using Close Combat vs Mismagius does a max of 1/136 damage
+     [Heracross] using X-Scissor vs Mismagius does a max of 24/136 damage
+     [Heracross] using Stone Edge vs Mismagius does a max of 80/136 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 138/146 damage
+==============================
+     [Heracross] +  6: for fast 2HKO
+     [Heracross] final Switch score: 6
+[AI] Highest move score (1) vs Switch In Score (6)
+"Black Belt Kyle sent out Heracross!"
+
+===== Round 9 =====
+
+Roles for PANGORO: [:PHYSICALBREAKER]
+Roles for FALINKS: [:PHYSICALBREAKER]
+Roles for HERACROSS: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for FLAMIGO: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for TAUROS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Black Belt Kyle!"
+"Black Belt Kyle sent out Pangoro!"
+"Go! Hitmonchan!"
+[Round order] Hitmonchan (0), the opposing Pangoro (1)
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 1 =====
+
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     [Switch AI] +2 Target has fast kill
+Set up score for Pangoro (1): 0
+Set up score for Pangoro (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pangoro (1) is considering using Darkest Lariat (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Drain Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     + 4 to prioritize highest damaging move
+[AI] Pangoro (1) is considering using Bullet Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Ice Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Move choices for Pangoro (1):
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Hitmonchan (0), the opposing Pangoro (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Pangoro lost 38 HP (157 -> 119)
+"A critical hit!"
+[Use move] The opposing Pangoro (1) used Drain Punch
+"The opposing Pangoro flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     [Switch AI] +2 Target has fast kill
+Set up score for Pangoro (1): 0
+Set up score for Pangoro (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pangoro (1) is considering using Darkest Lariat (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Drain Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     + 4 to prioritize highest damaging move
+[AI] Pangoro (1) is considering using Bullet Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Pangoro (1) is considering using Ice Punch (1) against Hitmonchan (0)...
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+[AI] Move choices for Pangoro (1):
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Hitmonchan (0), the opposing Pangoro (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Pangoro lost 119 HP (119 -> 0)
+"It's super effective!"
+"The opposing Pangoro fainted!"
+"The opposing Pangoro had its energy drained!"
+
+[End of round 2]
+Trick Room Turns: 0
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+     Pangoro (1)'s highest damaging move vs Hitmonchan: Drain Punch
+==============================
+     [Falinks] using Arm Thrust vs Hitmonchan does a max of 59/123 damage
+     [Falinks] using Rock Blast vs Hitmonchan does a max of 32/123 damage
+     [Falinks] using Fury Attack vs Hitmonchan does a max of 78/123 damage
+     Hitmonchan (0)'s best move: Close Combat for 222/130 damage
+==============================
+     [Falinks] -  7: for target slow kill
+     [Falinks] final Switch score: -7
+==============================
+     [Heracross] using Close Combat vs Hitmonchan does a max of 113/123 damage
+     [Heracross] using X-Scissor vs Hitmonchan does a max of 38/123 damage
+     [Heracross] using Stone Edge vs Hitmonchan does a max of 31/123 damage
+     Hitmonchan (0)'s best move: Close Combat for 68/146 damage
+==============================
+     [Heracross] +  6: for fast 2HKO
+     [Heracross] final Switch score: 6
+==============================
+     [Flamigo] using Dual Wingbeat vs Hitmonchan does a max of 138/123 damage
+     [Flamigo] using Close Combat vs Hitmonchan does a max of 102/123 damage
+     [Flamigo] using Throat Chop vs Hitmonchan does a max of 23/123 damage
+     [Flamigo] using U-turn vs Hitmonchan does a max of 20/123 damage
+     Hitmonchan (0)'s best move: Ice Punch for 100/145 damage
+==============================
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Tauros] using Raging Bull vs Hitmonchan does a max of 50/123 damage
+     [Tauros] using Earthquake vs Hitmonchan does a max of 56/123 damage
+     [Tauros] using Throat Chop vs Hitmonchan does a max of 23/123 damage
+     Hitmonchan (0)'s best move: Close Combat for 105/142 damage
+==============================
+     [Tauros] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (12)
+"Black Belt Kyle sent out Flamigo!"
+
+===== Round 3 =====
+
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Dual Wingbeat (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+      + 20 for fast kill
+[AI] Flamigo (1) is considering using Close Combat (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+[AI] Flamigo (1) is considering using Throat Chop (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+[AI] Flamigo (1) is considering using U-turn (1) against Hitmonchan (0)...
+     Flamigo (1)'s highest damaging move vs Hitmonchan: Dual Wingbeat
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Flamigo (1), Hitmonchan (0)
+
+"Hitmonchan, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Flamigo (1) used Dual Wingbeat
+"The opposing Flamigo used Dual Wingbeat!"
+[HP change] Skarmory lost 10 HP (140 -> 130)
+[HP change] Skarmory lost 8 HP (130 -> 122)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Flamigo (1) is considering using Close Combat (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Flamigo (1) is considering using Throat Chop (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Flamigo (1) is considering using U-turn (1) against Skarmory (0)...
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Move choices for Flamigo (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Skarmory (0)
+
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Skarmory lost 54 HP (122 -> 68)
+[Stat change] The opposing Flamigo's Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Special Defense fell!"
+[HP change] Skarmory gained 35 HP (68 -> 103)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Flamigo lost 145 HP (145 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Flamigo fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+     Flamigo (1)'s highest damaging move vs Skarmory: Close Combat
+==============================
+     [Falinks] using Arm Thrust vs Skarmory does a max of 32/103 damage
+     [Falinks] using Rock Blast vs Skarmory does a max of 34/103 damage
+     [Falinks] using Fury Attack vs Skarmory does a max of 11/103 damage
+     Skarmory (0)'s best move: Body Press for 112/130 damage
+==============================
+     [Falinks] final Switch score: 0
+==============================
+     [Heracross] using Close Combat vs Skarmory does a max of 60/103 damage
+     [Heracross] using X-Scissor vs Skarmory does a max of 10/103 damage
+     [Heracross] using Stone Edge vs Skarmory does a max of 33/103 damage
+     Skarmory (0)'s best move: Drill Peck for 240/146 damage
+==============================
+     [Heracross] -  7: for target slow kill
+     [Heracross] final Switch score: -7
+==============================
+     [Tauros] using Raging Bull vs Skarmory does a max of 14/103 damage
+     [Tauros] using Throat Chop vs Skarmory does a max of 24/103 damage
+     Skarmory (0)'s best move: Drill Peck for 93/142 damage
+==============================
+     [Tauros] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Black Belt Kyle sent out Tauros!"
+[Ability triggered] The opposing Tauros's Intimidate
+[Stat change] Skarmory's Attack changed by -1 (0 -> -1)
+"Skarmory's Attack fell!"
+
+===== Round 5 =====
+
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     move will not affect Skarmory (0)
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Raging Bull
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   * 100.0% to use Raging Bull (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Raging Bull (target 0)
+
+[Round order] The opposing Tauros (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Tauros (1) used Raging Bull
+"The opposing Tauros used Raging Bull!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Throat Chop (target 0): score 5
+   *   0.0% to use Bulk Up: score 0
+   => will use Throat Chop (target 0)
+
+[Round order] The opposing Tauros (1), Mismagius (0)
+
+[Use move] The opposing Tauros (1) used Throat Chop
+"The opposing Tauros used Throat Chop!"
+[HP change] Mismagius lost 55 HP (136 -> 81)
+"The effects of Throat Chop prevent Mismagius from using certain moves!"
+[Use move] Mismagius (0) used Will-O-Wisp
+"Mismagius used Will-O-Wisp!"
+"The opposing Tauros was burned!"
+
+[End of round 6]
+[HP change] The opposing Tauros lost 8 HP (142 -> 134)
+"The opposing Tauros was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Mismagius (0)...
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Throat Chop (target 0): score 5
+   *   0.0% to use Bulk Up: score 0
+   => will use Throat Chop (target 0)
+
+[Round order] The opposing Tauros (1), Mismagius (0)
+
+[Use move] The opposing Tauros (1) used Throat Chop
+"The opposing Tauros used Throat Chop!"
+[HP change] Mismagius lost 24 HP (81 -> 57)
+[HP change] Mismagius gained 34 HP (57 -> 91)
+"Mismagius restored its health using its Sitrus Berry!"
+[Item consumed] Mismagius consumed its held Sitrus Berry
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Tauros lost 128 HP (134 -> 6)
+
+[End of round 7]
+[HP change] The opposing Tauros lost 6 HP (6 -> 0)
+"The opposing Tauros was hurt by its burn!"
+"The opposing Tauros fainted!"
+Trick Room Turns: 0
+"Mismagius got 1 Exp. Points!"
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+     move will not affect Mismagius (0)
+     Tauros (1)'s highest damaging move vs Mismagius: Throat Chop
+==============================
+     [Falinks] using Arm Thrust vs Mismagius does a max of 1/91 damage
+     [Falinks] using Rock Blast vs Mismagius does a max of 81/91 damage
+     [Falinks] using Fury Attack vs Mismagius does a max of 49/91 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 198/130 damage
+==============================
+     [Falinks] -  9: for target fast kill
+     [Falinks] final Switch score: -9
+==============================
+     [Heracross] using Close Combat vs Mismagius does a max of 1/91 damage
+     [Heracross] using X-Scissor vs Mismagius does a max of 24/91 damage
+     [Heracross] using Stone Edge vs Mismagius does a max of 80/91 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 138/146 damage
+==============================
+     [Heracross] +  6: for fast 2HKO
+     [Heracross] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Black Belt Kyle sent out Heracross!"
+
+===== Round 8 =====
+
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     move will not affect Mismagius (0)
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+Set up score for Heracross (1): 0
+Set up score for Heracross (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heracross (1) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Heracross (1) is considering using Close Combat (1) against Mismagius (0)...
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Heracross (1) is considering using X-Scissor (1) against Mismagius (0)...
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+[AI] Heracross (1) is considering using Stone Edge (1) against Mismagius (0)...
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Heracross (1):
+   * 100.0% to use Protect: score 9
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   => will use Protect
+
+[Round order] The opposing Heracross (1), Mismagius (0)
+
+[Use move] The opposing Heracross (1) used Protect
+"The opposing Heracross used Protect!"
+"The opposing Heracross protected itself!"
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+"The opposing Heracross protected itself!"
+
+[End of round 8]
+Trick Room Turns: 0
+"The opposing Heracross was burned by the Flame Orb!"
+
+===== Round 9 =====
+
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     move will not affect Mismagius (0)
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     [Switch AI] -7 We have fast kill
+Set up score for Heracross (1): 0
+Set up score for Heracross (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heracross (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Heracross (1) is considering using Close Combat (1) against Mismagius (0)...
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Heracross (1) is considering using X-Scissor (1) against Mismagius (0)...
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+[AI] Heracross (1) is considering using Stone Edge (1) against Mismagius (0)...
+     Heracross (1)'s highest damaging move vs Mismagius: Stone Edge
+      + 20 for fast kill
+[AI] Move choices for Heracross (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   * 100.0% to use Stone Edge (target 0): score 21
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Heracross (1), Mismagius (0)
+
+[Use move] The opposing Heracross (1) used Stone Edge
+"The opposing Heracross used Stone Edge!"
+[HP change] Mismagius lost 91 HP (91 -> 0)
+"Mismagius fainted!"
+
+[End of round 9]
+[HP change] The opposing Heracross lost 9 HP (146 -> 137)
+"The opposing Heracross was hurt by its burn!"
+Trick Room Turns: 0
+"Go for it, Skarmory!"
+
+===== Round 10 =====
+
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+Set up score for Heracross (1): 0
+Set up score for Heracross (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heracross (1) is considering using Protect (4)...
+[AI] Heracross (1) is considering using Close Combat (1) against Skarmory (0)...
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Heracross (1) is considering using X-Scissor (1) against Skarmory (0)...
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Heracross (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Move choices for Heracross (1):
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Heracross (1), Skarmory (0)
+
+[Use move] The opposing Heracross (1) used Close Combat
+"The opposing Heracross used Close Combat!"
+[HP change] Skarmory lost 80 HP (103 -> 23)
+[Stat change] The opposing Heracross's Defense changed by -1 (0 -> -1)
+"The opposing Heracross's Defense fell!"
+[Stat change] The opposing Heracross's Special Defense changed by -1 (0 -> -1)
+"The opposing Heracross's Special Defense fell!"
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Heracross lost 137 HP (137 -> 0)
+"It's super effective!"
+"The opposing Heracross fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+     Heracross (1)'s highest damaging move vs Skarmory: Close Combat
+==============================
+     [Falinks] using Arm Thrust vs Skarmory does a max of 32/23 damage
+     [Falinks] using Rock Blast vs Skarmory does a max of 34/23 damage
+     [Falinks] using Fury Attack vs Skarmory does a max of 11/23 damage
+     Skarmory (0)'s best move: Body Press for 112/130 damage
+==============================
+     [Falinks] + 12: for fast kill
+     [Falinks] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Black Belt Kyle sent out Falinks!"
+
+===== Round 11 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Falinks (1) is considering using Arm Thrust (1) against Skarmory (0)...
+     Falinks (1)'s highest damaging move vs Skarmory: Rock Blast
+      + 20 for fast kill
+[AI] Falinks (1) is considering using Rock Blast (1) against Skarmory (0)...
+     Falinks (1)'s highest damaging move vs Skarmory: Rock Blast
+      + 20 for fast kill
+[AI] Falinks (1) is considering using Fury Attack (1) against Skarmory (0)...
+     Falinks (1)'s highest damaging move vs Skarmory: Rock Blast
+[AI] Falinks (1) is considering using No Retreat (4)...
+[AI] Move choices for Falinks (1):
+   *  50.0% to use Arm Thrust (target 0): score 21
+   *  50.0% to use Rock Blast (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use No Retreat: score 0
+   => will use Rock Blast (target 0)
+
+[Round order] The opposing Falinks (1), Skarmory (0)
+
+"Good job, Skarmory! Come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Rock Blast!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+[Use move] The opposing Falinks (1) used Rock Blast
+"The opposing Falinks used Rock Blast!"
+[HP change] Musharna lost 9 HP (182 -> 173)
+[HP change] Musharna lost 8 HP (173 -> 165)
+[HP change] Musharna lost 9 HP (165 -> 156)
+[HP change] Musharna lost 9 HP (156 -> 147)
+[HP change] Musharna lost 8 HP (147 -> 139)
+"Hit 5 times!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Falinks (1) is considering using Arm Thrust (1) against Musharna (0)...
+     Falinks (1)'s highest damaging move vs Musharna: Rock Blast
+[AI] Falinks (1) is considering using Rock Blast (1) against Musharna (0)...
+     Falinks (1)'s highest damaging move vs Musharna: Rock Blast
+     + 4 to prioritize highest damaging move
+[AI] Falinks (1) is considering using Fury Attack (1) against Musharna (0)...
+     Falinks (1)'s highest damaging move vs Musharna: Rock Blast
+[AI] Falinks (1) is considering using No Retreat (4)...
+[AI] Move choices for Falinks (1):
+   *   0.0% to use Arm Thrust (target 0): score 0
+   * 100.0% to use Rock Blast (target 0): score 5
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use No Retreat: score 0
+   => will use Rock Blast (target 0)
+
+[Round order] The opposing Falinks (1), Musharna (0)
+
+[Use move] The opposing Falinks (1) used Rock Blast
+"The opposing Falinks used Rock Blast!"
+[HP change] Musharna lost 9 HP (139 -> 130)
+[HP change] Musharna lost 9 HP (130 -> 121)
+[HP change] Musharna lost 8 HP (121 -> 113)
+[HP change] Musharna lost 9 HP (113 -> 104)
+[HP change] Musharna lost 8 HP (104 -> 96)
+"Hit 5 times!"
+[Use move] Musharna (0) used Dazzling Gleam
+"Musharna used Dazzling Gleam!"
+[HP change] The opposing Falinks lost 130 HP (130 -> 0)
+"It's super effective!"
+"The opposing Falinks fainted!"
+"Musharna got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Black Belt Kyle!"
+"Wow. You're great!"
+
+"You got $1,504 for winning!"
