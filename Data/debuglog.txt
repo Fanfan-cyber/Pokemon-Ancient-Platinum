@@ -175141,3 +175141,1642 @@ Set up score for Pyroar (0): 0
 "Wow. You're great!"
 
 "You got $704 for winning!"
+Roles for DUSKNOIR: [:PHYSICALBREAKER]
+Roles for ELECTIVIRE: [:PHYSICALBREAKER]
+Roles for MAGMORTAR: [:SPECIALBREAKER]
+Roles for TANGROWTH: [:PHYSICALBREAKER]
+Roles for MRRIME: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Austin!"
+"Youngster Austin sent out Dusknoir!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+[Ability triggered] The opposing Dusknoir's Pressure
+"The opposing Dusknoir is exerting its pressure!"
+
+===== Round 1 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Dusknoir (1): 0
+Set up score for Dusknoir (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Dusknoir (1) is considering using Shadow Punch (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Dusknoir (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dusknoir (1) is considering using Earthquake (1)...
+[AI] Dusknoir (1) is considering using Power-Up Punch (1) against Obstagoon (0)...
+[AI] Move choices for Dusknoir (1):
+   *   0.0% to use Shadow Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Dusknoir (1) used Drain Punch
+"The opposing Dusknoir used Drain Punch!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Dusknoir's Defense changed by -2 (0 -> -2)
+"The opposing Dusknoir's Defense harshly fell!"
+
+[End of round 1]
+[HP change] Obstagoon lost 9 HP (148 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dusknoir (1) is considering using Shadow Punch (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Dusknoir (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dusknoir (1) is considering using Earthquake (1)...
+[AI] Dusknoir (1) is considering using Power-Up Punch (1) against Obstagoon (0)...
+[AI] Move choices for Dusknoir (1):
+   *   0.0% to use Shadow Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+
+[Use move] Obstagoon (0) used Night Slash
+[Ability triggered] The opposing Dusknoir's Pressure
+"Obstagoon used Night Slash!"
+[HP change] The opposing Dusknoir lost 105 HP (105 -> 0)
+"It's super effective!"
+"The opposing Dusknoir fainted!"
+
+[End of round 2]
+[HP change] Obstagoon lost 9 HP (139 -> 130)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     [Electivire] using Thunder Punch vs Obstagoon does a max of 59/130 damage
+     [Electivire] using Ice Punch vs Obstagoon does a max of 39/130 damage
+     [Electivire] using Earthquake vs Obstagoon does a max of 46/130 damage
+     [Electivire] using Close Combat vs Obstagoon does a max of 220/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 86 damage
+==============================
+     [Electivire] + 12: for fast kill
+     [Electivire] final Switch score: 12
+     [Magmortar] using Flamethrower vs Obstagoon does a max of 93/130 damage
+     [Magmortar] using Thunderbolt vs Obstagoon does a max of 62/130 damage
+     [Magmortar] using Aura Sphere vs Obstagoon does a max of 224/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 86 damage
+==============================
+     [Magmortar] +  9: for slow kill
+     [Magmortar] final Switch score: 9
+     [Tangrowth] using Power Whip vs Obstagoon does a max of 75/130 damage
+     [Tangrowth] using Earthquake vs Obstagoon does a max of 42/130 damage
+     [Tangrowth] using Rock Slide vs Obstagoon does a max of 32/130 damage
+     [Tangrowth] using Poison Jab vs Obstagoon does a max of 34/130 damage
+==============================
+     Obstagoon (0)'s best move: Pin Missile for 78 damage
+==============================
+
+**Exception: undefined local variable or method `target_fast_2hko' for #<Battle::AI>
+[Phantombass AI] 02_AI_Switching.rb:265:in `block in rate_replacement_pokemon'
+008_AI_Utilities.rb:19:in `block in each_foe_battler'
+008_AI_Utilities.rb:17:in `each'
+008_AI_Utilities.rb:17:in `each_with_index'
+008_AI_Utilities.rb:17:in `each_foe_battler'
+[Phantombass AI] 02_AI_Switching.rb:197:in `rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:125:in `block in choose_best_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each_with_index'
+[Phantombass AI] 02_AI_Switching.rb:124:in `choose_best_replacement_pokemon'
+001_Battle_AI.rb:77:in `pbDefaultChooseNewEnemy'
+005_Battle_ActionSwitching.rb:139:in `pbSwitchInBetween'
+005_Battle_ActionSwitching.rb:163:in `block (2 levels) in pbEORSwitch'
+005_Battle_ActionSwitching.rb:157:in `each'
+005_Battle_ActionSwitching.rb:157:in `block in pbEORSwitch'
+005_Battle_ActionSwitching.rb:155:in `loop'
+005_Battle_ActionSwitching.rb:155:in `pbEORSwitch'
+011_Battle_EndOfRoundPhase.rb:729:in `pbEndOfRoundPhase'
+006_Battle_Clauses.rb:41:in `pbEndOfRoundPhase'
+[Generation 9 Pack] [001] Battle.rb:186:in `pbEndOfRoundPhase'
+[Deluxe Battle Kit] [001] Midbattle Overwrites.rb:459:in `pbEndOfRoundPhase'
+002_Battle_StartAndEnd.rb:350:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:350:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:70:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for DUSKNOIR: [:PHYSICALBREAKER]
+Roles for ELECTIVIRE: [:PHYSICALBREAKER]
+Roles for MAGMORTAR: [:SPECIALBREAKER]
+Roles for TANGROWTH: [:PHYSICALBREAKER]
+Roles for MRRIME: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Austin!"
+"Youngster Austin sent out Dusknoir!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+[Ability triggered] The opposing Dusknoir's Pressure
+"The opposing Dusknoir is exerting its pressure!"
+
+===== Round 1 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Dusknoir (1): 0
+Set up score for Dusknoir (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Dusknoir (1) is considering using Shadow Punch (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Dusknoir (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dusknoir (1) is considering using Earthquake (1)...
+[AI] Dusknoir (1) is considering using Power-Up Punch (1) against Obstagoon (0)...
+[AI] Move choices for Dusknoir (1):
+   *   0.0% to use Shadow Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Dusknoir (1) used Drain Punch
+"The opposing Dusknoir used Drain Punch!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Dusknoir's Defense changed by -2 (0 -> -2)
+"The opposing Dusknoir's Defense harshly fell!"
+
+[End of round 1]
+[HP change] Obstagoon lost 9 HP (148 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dusknoir (1) is considering using Shadow Punch (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Dusknoir (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dusknoir (1) is considering using Earthquake (1)...
+[AI] Dusknoir (1) is considering using Power-Up Punch (1) against Obstagoon (0)...
+[AI] Move choices for Dusknoir (1):
+   *   0.0% to use Shadow Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+
+[Use move] Obstagoon (0) used Night Slash
+[Ability triggered] The opposing Dusknoir's Pressure
+"Obstagoon used Night Slash!"
+[HP change] The opposing Dusknoir lost 105 HP (105 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Dusknoir fainted!"
+
+[End of round 2]
+[HP change] Obstagoon lost 9 HP (139 -> 130)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     [Electivire] using Thunder Punch vs Obstagoon does a max of 59/130 damage
+     [Electivire] using Ice Punch vs Obstagoon does a max of 39/130 damage
+     [Electivire] using Earthquake vs Obstagoon does a max of 46/130 damage
+     [Electivire] using Close Combat vs Obstagoon does a max of 220/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 86 damage
+==============================
+     [Electivire] + 12: for fast kill
+     [Electivire] final Switch score: 12
+     [Magmortar] using Flamethrower vs Obstagoon does a max of 93/130 damage
+     [Magmortar] using Thunderbolt vs Obstagoon does a max of 62/130 damage
+     [Magmortar] using Aura Sphere vs Obstagoon does a max of 224/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 86 damage
+==============================
+     [Magmortar] +  9: for slow kill
+     [Magmortar] final Switch score: 9
+     [Tangrowth] using Power Whip vs Obstagoon does a max of 75/130 damage
+     [Tangrowth] using Earthquake vs Obstagoon does a max of 42/130 damage
+     [Tangrowth] using Rock Slide vs Obstagoon does a max of 32/130 damage
+     [Tangrowth] using Poison Jab vs Obstagoon does a max of 34/130 damage
+==============================
+     Obstagoon (0)'s best move: Pin Missile for 78 damage
+==============================
+     [Tangrowth] -  5: for fast kill
+     [Tangrowth] final Switch score: -5
+     [Mr. Rime] using Fake Out vs Obstagoon does a max of 13/130 damage
+     [Mr. Rime] using Freeze-Dry vs Obstagoon does a max of 66/130 damage
+     [Mr. Rime] using Dazzling Gleam vs Obstagoon does a max of 100/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 156 damage
+==============================
+     [Mr. Rime] -  9: for target fast kill
+     [Mr. Rime] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (12)
+"Youngster Austin sent out Electivire!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Obstagoon (0)...
+[AI] Electivire (1) is considering using Ice Punch (1) against Obstagoon (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+[AI] Electivire (1) is considering using Close Combat (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Electivire (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Quagsire!"
+[Use move] The opposing Electivire (1) used Close Combat
+"The opposing Electivire used Close Combat!"
+[HP change] Quagsire lost 56 HP (157 -> 101)
+[Stat change] The opposing Electivire's Defense changed by -1 (0 -> -1)
+"The opposing Electivire's Defense fell!"
+[Stat change] The opposing Electivire's Special Defense changed by -1 (0 -> -1)
+"The opposing Electivire's Special Defense fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Quagsire (0)
+Set up score for Electivire (1): -2
+Set up score for Electivire (1): -2
+Set up score for Electivire (1): -2
+Set up score for Electivire (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Quagsire (0)...
+     move will not affect Quagsire (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Quagsire (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+[AI] Electivire (1) is considering using Close Combat (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Electivire (1), Quagsire (0)
+
+[Use move] The opposing Electivire (1) used Close Combat
+"The opposing Electivire used Close Combat!"
+[HP change] Quagsire lost 61 HP (101 -> 40)
+[Stat change] The opposing Electivire's Defense changed by -1 (-1 -> -2)
+"The opposing Electivire's Defense fell!"
+[Stat change] The opposing Electivire's Special Defense changed by -1 (-1 -> -2)
+"The opposing Electivire's Special Defense fell!"
+[HP change] Quagsire gained 39 HP (40 -> 79)
+"Quagsire restored its health using its Sitrus Berry!"
+[Item consumed] Quagsire consumed its held Sitrus Berry
+[Use move] Quagsire (0) used Stomping Tantrum
+"Quagsire used Stomping Tantrum!"
+[HP change] The opposing Electivire lost 104 HP (133 -> 29)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Quagsire (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Electivire (1): -4
+Set up score for Electivire (1): -4
+Set up score for Electivire (1): -4
+Set up score for Electivire (1): -4
+     [Switch AI] +4 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Quagsire (0)...
+     move will not affect Quagsire (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Quagsire (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+[AI] Electivire (1) is considering using Close Combat (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Electivire (1), Quagsire (0)
+
+"Quagsire, come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Electivire (1) used Close Combat
+"The opposing Electivire used Close Combat!"
+[HP change] Chimecho lost 16 HP (137 -> 121)
+"It's not very effective..."
+[Stat change] The opposing Electivire's Defense changed by -1 (-2 -> -3)
+"The opposing Electivire's Defense fell!"
+[Stat change] The opposing Electivire's Special Defense changed by -1 (-2 -> -3)
+"The opposing Electivire's Special Defense fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Electivire (1): -6
+Set up score for Electivire (1): -6
+Set up score for Electivire (1): -6
+Set up score for Electivire (1): -6
+     [Switch AI] +6 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Ice Punch (1) against Chimecho (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Close Combat (1) against Chimecho (0)...
+[AI] Move choices for Electivire (1):
+   * 100.0% to use Thunder Punch (target 0): score 5
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Thunder Punch (target 0)
+
+[Round order] Chimecho (0), the opposing Electivire (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Electivire lost 29 HP (29 -> 0)
+"The opposing Electivire fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+     [Magmortar] using Flamethrower vs Chimecho does a max of 71/121 damage
+     [Magmortar] using Psychic vs Chimecho does a max of 24/121 damage
+     [Magmortar] using Thunderbolt vs Chimecho does a max of 47/121 damage
+     [Magmortar] using Aura Sphere vs Chimecho does a max of 11/121 damage
+==============================
+     Chimecho (0)'s best move: Psybeam for 48 damage
+==============================
+     [Magmortar] +  6: for fast 2HKO
+     [Magmortar] final Switch score: 6
+     [Tangrowth] using Power Whip vs Chimecho does a max of 87/121 damage
+     [Tangrowth] using Rock Slide vs Chimecho does a max of 37/121 damage
+     [Tangrowth] using Poison Jab vs Chimecho does a max of 78/121 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 65 damage
+==============================
+     [Tangrowth] +  3: for outdamage
+     [Tangrowth] final Switch score: 3
+     [Mr. Rime] using Fake Out vs Chimecho does a max of 15/121 damage
+     [Mr. Rime] using Freeze-Dry vs Chimecho does a max of 50/121 damage
+     [Mr. Rime] using Psychic vs Chimecho does a max of 32/121 damage
+     [Mr. Rime] using Dazzling Gleam vs Chimecho does a max of 38/121 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 56 damage
+==============================
+     [Mr. Rime] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (6)
+"Youngster Austin sent out Magmortar!"
+"The opposing Magmortar floats in the air with its Air Balloon!"
+
+===== Round 7 =====
+
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Chimecho (0)...
+[AI] Move choices for Magmortar (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Magmortar (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Magcargo!"
+[Use move] The opposing Magmortar (1) used Flamethrower
+"The opposing Magmortar used Flamethrower!"
+[HP change] Magcargo lost 20 HP (121 -> 101)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Magcargo (0)...
+[AI] Magmortar (1) is considering using Psychic (1) against Magcargo (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Magcargo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Magcargo (0)...
+[AI] Move choices for Magmortar (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Magmortar (1), Magcargo (0)
+
+[Use move] The opposing Magmortar (1) used Thunderbolt
+"The opposing Magmortar used Thunderbolt!"
+[HP change] Magcargo lost 100 HP (101 -> 1)
+"It's super effective!"
+[HP change] Magcargo gained 30 HP (1 -> 31)
+"Magcargo restored its health using its Sitrus Berry!"
+[Item consumed] Magcargo consumed its held Sitrus Berry
+[Use move] Magcargo (0) used Scald
+"Magcargo used Scald!"
+[HP change] The opposing Magmortar lost 86 HP (133 -> 47)
+"It's super effective!"
+"The opposing Magmortar's Air Balloon popped!"
+[Item consumed] The opposing Magmortar consumed its held Air Balloon
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Magcargo (0)...
+[AI] Magmortar (1) is considering using Psychic (1) against Magcargo (0)...
+      + 20 for fast kill
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Magcargo (0)...
+      + 20 for fast kill
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Magcargo (0)...
+      + 20 for fast kill
+[AI] Move choices for Magmortar (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   *  33.3% to use Psychic (target 0): score 21
+   *  33.3% to use Thunderbolt (target 0): score 21
+   *  33.3% to use Aura Sphere (target 0): score 21
+   => will use Psychic (target 0)
+
+[Round order] The opposing Magmortar (1), Magcargo (0)
+
+"OK, Magcargo! Come back!"
+"Just a little more! Hang in there, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Magmortar (1) used Psychic
+"The opposing Magmortar used Psychic!"
+[HP change] Pyroar lost 56 HP (147 -> 91)
+[Stat change] Pyroar's Special Defense changed by -1 (0 -> -1)
+"Pyroar's Special Defense fell!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): -1
+     Threat Score for Pyroar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Pyroar (0)...
+[AI] Magmortar (1) is considering using Psychic (1) against Pyroar (0)...
+      + 17 for slow kill
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Pyroar (0)...
+      + 17 for slow kill
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Pyroar (0)...
+      + 20 for fast kill
+[AI] Move choices for Magmortar (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Aura Sphere (target 0): score 21
+   => will use Aura Sphere (target 0)
+
+[Round order] Pyroar (0), the opposing Magmortar (1)
+
+"Pyroar, switch out! Come back!"
+"Just a little more! Hang in there, Chimecho!"
+[Use move] The opposing Magmortar (1) used Aura Sphere
+"The opposing Magmortar used Aura Sphere!"
+[HP change] Chimecho lost 9 HP (121 -> 112)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Chimecho (0)...
+[AI] Move choices for Magmortar (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Magmortar (1), Chimecho (0)
+
+[Use move] The opposing Magmortar (1) used Flamethrower
+"The opposing Magmortar used Flamethrower!"
+[HP change] Chimecho lost 69 HP (112 -> 43)
+[HP change] Chimecho gained 34 HP (43 -> 77)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Magmortar lost 42 HP (47 -> 5)
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Chimecho (0)...
+[AI] Move choices for Magmortar (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Magmortar (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Magmortar lost 5 HP (5 -> 0)
+"The opposing Magmortar fainted!"
+
+[End of round 12]
+Trick Room Turns: 0
+     [Tangrowth] using Power Whip vs Chimecho does a max of 87/77 damage
+     [Tangrowth] using Rock Slide vs Chimecho does a max of 37/77 damage
+     [Tangrowth] using Poison Jab vs Chimecho does a max of 78/77 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 65 damage
+==============================
+     [Tangrowth] +  9: for slow kill
+     [Tangrowth] final Switch score: 9
+     [Mr. Rime] using Fake Out vs Chimecho does a max of 15/77 damage
+     [Mr. Rime] using Freeze-Dry vs Chimecho does a max of 50/77 damage
+     [Mr. Rime] using Psychic vs Chimecho does a max of 32/77 damage
+     [Mr. Rime] using Dazzling Gleam vs Chimecho does a max of 38/77 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 56 damage
+==============================
+     [Mr. Rime] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (9)
+"Youngster Austin sent out Tangrowth!"
+
+===== Round 13 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Tangrowth (1): 0
+Set up score for Tangrowth (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangrowth (1) is considering using Power Whip (1) against Chimecho (0)...
+[AI] Tangrowth (1) is considering using Earthquake (1)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Tangrowth (1) is considering using Rock Slide (1)...
+[AI] Tangrowth (1) is considering using Poison Jab (1) against Chimecho (0)...
+[AI] Move choices for Tangrowth (1):
+   *  33.3% to use Power Whip (target 0): score 1
+   *   0.0% to use Earthquake: score 0
+   *  33.3% to use Rock Slide: score 1
+   *  33.3% to use Poison Jab (target 0): score 1
+   => will use Poison Jab (target 0)
+
+[Round order] Chimecho (0), the opposing Tangrowth (1)
+
+"Chimecho, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Tangrowth (1) used Poison Jab
+"The opposing Tangrowth used Poison Jab!"
+[Target immune] Skarmory's type immunity
+"It doesn't affect Skarmory..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Roles for DUSKNOIR: [:PHYSICALBREAKER]
+Roles for ELECTIVIRE: [:PHYSICALBREAKER]
+Roles for MAGMORTAR: [:SPECIALBREAKER]
+Roles for TANGROWTH: [:PHYSICALBREAKER]
+Roles for MRRIME: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Austin!"
+"Youngster Austin sent out Dusknoir!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+[Ability triggered] The opposing Dusknoir's Pressure
+"The opposing Dusknoir is exerting its pressure!"
+
+===== Round 1 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Dusknoir (1): 0
+Set up score for Dusknoir (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Dusknoir (1) is considering using Shadow Punch (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Dusknoir (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dusknoir (1) is considering using Earthquake (1)...
+[AI] Dusknoir (1) is considering using Power-Up Punch (1) against Obstagoon (0)...
+[AI] Move choices for Dusknoir (1):
+   *   0.0% to use Shadow Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Dusknoir (1) used Drain Punch
+"The opposing Dusknoir used Drain Punch!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Dusknoir's Defense changed by -2 (0 -> -2)
+"The opposing Dusknoir's Defense harshly fell!"
+
+[End of round 1]
+[HP change] Obstagoon lost 9 HP (148 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+Set up score for Dusknoir (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dusknoir (1) is considering using Shadow Punch (1) against Obstagoon (0)...
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Dusknoir (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     + 4 to prioritize highest damaging move
+[AI] Dusknoir (1) is considering using Earthquake (1)...
+[AI] Dusknoir (1) is considering using Power-Up Punch (1) against Obstagoon (0)...
+[AI] Move choices for Dusknoir (1):
+   *   0.0% to use Shadow Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Power-Up Punch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Obstagoon (0), the opposing Dusknoir (1)
+
+[Use move] Obstagoon (0) used Night Slash
+[Ability triggered] The opposing Dusknoir's Pressure
+"Obstagoon used Night Slash!"
+[HP change] The opposing Dusknoir lost 105 HP (105 -> 0)
+"It's super effective!"
+"The opposing Dusknoir fainted!"
+
+[End of round 2]
+[HP change] Obstagoon lost 9 HP (139 -> 130)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     [Electivire] using Thunder Punch vs Obstagoon does a max of 59/130 damage
+     [Electivire] using Ice Punch vs Obstagoon does a max of 39/130 damage
+     [Electivire] using Earthquake vs Obstagoon does a max of 46/130 damage
+     [Electivire] using Close Combat vs Obstagoon does a max of 220/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 86 damage
+==============================
+     [Electivire] + 12: for fast kill
+     [Electivire] final Switch score: 12
+     [Magmortar] using Flamethrower vs Obstagoon does a max of 93/130 damage
+     [Magmortar] using Thunderbolt vs Obstagoon does a max of 62/130 damage
+     [Magmortar] using Aura Sphere vs Obstagoon does a max of 224/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 86 damage
+==============================
+     [Magmortar] +  9: for slow kill
+     [Magmortar] final Switch score: 9
+     [Tangrowth] using Power Whip vs Obstagoon does a max of 75/130 damage
+     [Tangrowth] using Earthquake vs Obstagoon does a max of 42/130 damage
+     [Tangrowth] using Rock Slide vs Obstagoon does a max of 32/130 damage
+     [Tangrowth] using Poison Jab vs Obstagoon does a max of 34/130 damage
+==============================
+     Obstagoon (0)'s best move: Pin Missile for 78 damage
+==============================
+     [Tangrowth] -  5: for target having fast 2HKO and us having no kill
+     [Tangrowth] final Switch score: -5
+     [Mr. Rime] using Fake Out vs Obstagoon does a max of 13/130 damage
+     [Mr. Rime] using Freeze-Dry vs Obstagoon does a max of 66/130 damage
+     [Mr. Rime] using Dazzling Gleam vs Obstagoon does a max of 100/130 damage
+==============================
+     Obstagoon (0)'s best move: Night Slash for 156 damage
+==============================
+     [Mr. Rime] -  9: for target fast kill
+     [Mr. Rime] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (12)
+"Youngster Austin sent out Electivire!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Obstagoon (0)...
+[AI] Electivire (1) is considering using Ice Punch (1) against Obstagoon (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+[AI] Electivire (1) is considering using Close Combat (1) against Obstagoon (0)...
+      + 20 for fast kill
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Electivire (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Quagsire!"
+[Use move] The opposing Electivire (1) used Close Combat
+"The opposing Electivire used Close Combat!"
+[HP change] Quagsire lost 57 HP (157 -> 100)
+[Stat change] The opposing Electivire's Defense changed by -1 (0 -> -1)
+"The opposing Electivire's Defense fell!"
+[Stat change] The opposing Electivire's Special Defense changed by -1 (0 -> -1)
+"The opposing Electivire's Special Defense fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Quagsire (0)
+Set up score for Electivire (1): -2
+Set up score for Electivire (1): -2
+Set up score for Electivire (1): -2
+Set up score for Electivire (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Quagsire (0)...
+     move will not affect Quagsire (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Quagsire (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+[AI] Electivire (1) is considering using Close Combat (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Electivire (1), Quagsire (0)
+
+[Use move] The opposing Electivire (1) used Close Combat
+"The opposing Electivire used Close Combat!"
+[HP change] Quagsire lost 59 HP (100 -> 41)
+[Stat change] The opposing Electivire's Defense changed by -1 (-1 -> -2)
+"The opposing Electivire's Defense fell!"
+[Stat change] The opposing Electivire's Special Defense changed by -1 (-1 -> -2)
+"The opposing Electivire's Special Defense fell!"
+[HP change] Quagsire gained 39 HP (41 -> 80)
+"Quagsire restored its health using its Sitrus Berry!"
+[Item consumed] Quagsire consumed its held Sitrus Berry
+[Use move] Quagsire (0) used Stomping Tantrum
+"Quagsire used Stomping Tantrum!"
+[HP change] The opposing Electivire lost 110 HP (133 -> 23)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Quagsire (0)
+Set up score for Electivire (1): -4
+Set up score for Electivire (1): -4
+Set up score for Electivire (1): -4
+Set up score for Electivire (1): -4
+     [Switch AI] +4 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-6) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Quagsire (0)...
+     move will not affect Quagsire (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Quagsire (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+[AI] Electivire (1) is considering using Close Combat (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Electivire (1), Quagsire (0)
+
+"Quagsire, come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Electivire (1) used Close Combat
+"The opposing Electivire used Close Combat!"
+[HP change] Chimecho lost 14 HP (137 -> 123)
+"It's not very effective..."
+[Stat change] The opposing Electivire's Defense changed by -1 (-2 -> -3)
+"The opposing Electivire's Defense fell!"
+[Stat change] The opposing Electivire's Special Defense changed by -1 (-2 -> -3)
+"The opposing Electivire's Special Defense fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Chimecho (0)
+Set up score for Electivire (1): -6
+Set up score for Electivire (1): -6
+Set up score for Electivire (1): -6
+Set up score for Electivire (1): -6
+     [Switch AI] +6 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Ice Punch (1) against Chimecho (0)...
+[AI] Electivire (1) is considering using Earthquake (1)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Close Combat (1) against Chimecho (0)...
+[AI] Move choices for Electivire (1):
+   * 100.0% to use Thunder Punch (target 0): score 5
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Thunder Punch (target 0)
+
+[Round order] Chimecho (0), the opposing Electivire (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Electivire lost 23 HP (23 -> 0)
+"The opposing Electivire fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+     [Magmortar] using Flamethrower vs Chimecho does a max of 71/123 damage
+     [Magmortar] using Psychic vs Chimecho does a max of 24/123 damage
+     [Magmortar] using Thunderbolt vs Chimecho does a max of 47/123 damage
+     [Magmortar] using Aura Sphere vs Chimecho does a max of 11/123 damage
+==============================
+     Chimecho (0)'s best move: Psybeam for 48 damage
+==============================
+     [Magmortar] +  6: for fast 2HKO
+     [Magmortar] final Switch score: 6
+     [Tangrowth] using Power Whip vs Chimecho does a max of 87/123 damage
+     [Tangrowth] using Rock Slide vs Chimecho does a max of 37/123 damage
+     [Tangrowth] using Poison Jab vs Chimecho does a max of 78/123 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 65 damage
+==============================
+     [Tangrowth] +  3: for outdamage
+     [Tangrowth] final Switch score: 3
+     [Mr. Rime] using Fake Out vs Chimecho does a max of 15/123 damage
+     [Mr. Rime] using Freeze-Dry vs Chimecho does a max of 50/123 damage
+     [Mr. Rime] using Psychic vs Chimecho does a max of 32/123 damage
+     [Mr. Rime] using Dazzling Gleam vs Chimecho does a max of 38/123 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 56 damage
+==============================
+     [Mr. Rime] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (6)
+"Youngster Austin sent out Magmortar!"
+"The opposing Magmortar floats in the air with its Air Balloon!"
+
+===== Round 7 =====
+
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Chimecho (0)...
+[AI] Move choices for Magmortar (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Magmortar (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Magcargo!"
+[Use move] The opposing Magmortar (1) used Flamethrower
+"The opposing Magmortar used Flamethrower!"
+[HP change] Magcargo lost 20 HP (121 -> 101)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Magcargo (0)...
+[AI] Magmortar (1) is considering using Psychic (1) against Magcargo (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Magcargo (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Magcargo (0)...
+[AI] Move choices for Magmortar (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Magmortar (1), Magcargo (0)
+
+[Use move] The opposing Magmortar (1) used Thunderbolt
+"The opposing Magmortar used Thunderbolt!"
+[HP change] Magcargo lost 101 HP (101 -> 0)
+"It's super effective!"
+"Magcargo fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+"You're in charge, Quagsire!"
+
+===== Round 9 =====
+
+     move will not affect Quagsire (0)
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Quagsire (0)...
+[AI] Magmortar (1) is considering using Psychic (1) against Quagsire (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Quagsire (0)...
+     move will not affect Quagsire (0)
+     -  1: move will fail
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Quagsire (0)...
+[AI] Move choices for Magmortar (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Magmortar (1), Quagsire (0)
+
+[Use move] The opposing Magmortar (1) used Psychic
+"The opposing Magmortar used Psychic!"
+[HP change] Quagsire lost 62 HP (80 -> 18)
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Magmortar lost 127 HP (133 -> 6)
+"It's super effective!"
+"The opposing Magmortar's Air Balloon popped!"
+[Item consumed] The opposing Magmortar consumed its held Air Balloon
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Quagsire (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Magmortar (1) is considering using Psychic (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Quagsire (0)...
+     move will not affect Quagsire (0)
+     -  1: move will fail
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Quagsire (0)...
+      + 20 for fast kill
+[AI] Move choices for Magmortar (1):
+   *  33.3% to use Flamethrower (target 0): score 21
+   *  33.3% to use Psychic (target 0): score 21
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *  33.3% to use Aura Sphere (target 0): score 21
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Magmortar (1), Quagsire (0)
+
+"Good job, Quagsire! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Magmortar (1) used Flamethrower
+"The opposing Magmortar used Flamethrower!"
+[HP change] Chimecho lost 66 HP (123 -> 57)
+[HP change] Chimecho gained 34 HP (57 -> 91)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Magmortar (1): 0
+Set up score for Magmortar (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmortar (1) is considering using Flamethrower (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Magmortar (1) is considering using Psychic (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Thunderbolt (1) against Chimecho (0)...
+[AI] Magmortar (1) is considering using Aura Sphere (1) against Chimecho (0)...
+[AI] Move choices for Magmortar (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Magmortar (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Magmortar lost 6 HP (6 -> 0)
+"The opposing Magmortar fainted!"
+
+[End of round 11]
+Trick Room Turns: 0
+     [Tangrowth] using Power Whip vs Chimecho does a max of 87/91 damage
+     [Tangrowth] using Rock Slide vs Chimecho does a max of 37/91 damage
+     [Tangrowth] using Poison Jab vs Chimecho does a max of 78/91 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 65 damage
+==============================
+     [Tangrowth] +  3: for outdamage
+     [Tangrowth] final Switch score: 3
+     [Mr. Rime] using Fake Out vs Chimecho does a max of 15/91 damage
+     [Mr. Rime] using Freeze-Dry vs Chimecho does a max of 50/91 damage
+     [Mr. Rime] using Psychic vs Chimecho does a max of 32/91 damage
+     [Mr. Rime] using Dazzling Gleam vs Chimecho does a max of 38/91 damage
+==============================
+     Chimecho (0)'s best move: Dazzling Gleam for 56 damage
+==============================
+     [Mr. Rime] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (3)
+"Youngster Austin sent out Tangrowth!"
+
+===== Round 12 =====
+
+     move will not affect Chimecho (0)
+Set up score for Tangrowth (1): 0
+Set up score for Tangrowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangrowth (1) is considering using Power Whip (1) against Chimecho (0)...
+     + 4 to prioritize highest damaging move
+[AI] Tangrowth (1) is considering using Earthquake (1)...
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Tangrowth (1) is considering using Rock Slide (1)...
+[AI] Tangrowth (1) is considering using Poison Jab (1) against Chimecho (0)...
+[AI] Move choices for Tangrowth (1):
+   * 100.0% to use Power Whip (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Power Whip (target 0)
+
+[Round order] Chimecho (0), the opposing Tangrowth (1)
+
+"Chimecho, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Tangrowth (1) used Power Whip
+"The opposing Tangrowth used Power Whip!"
+[HP change] Skarmory lost 12 HP (127 -> 115)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     move will not affect Skarmory (0)
+     move will not affect Skarmory (0)
+Set up score for Tangrowth (1): 0
+Set up score for Tangrowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangrowth (1) is considering using Power Whip (1) against Skarmory (0)...
+[AI] Tangrowth (1) is considering using Earthquake (1)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tangrowth (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tangrowth (1) is considering using Poison Jab (1) against Skarmory (0)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Tangrowth (1):
+   *   0.0% to use Power Whip (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Rock Slide: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Rock Slide
+
+[Round order] Skarmory (0), the opposing Tangrowth (1)
+
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tangrowth lost 64 HP (152 -> 88)
+"It's super effective!"
+[Use move] The opposing Tangrowth (1) used Rock Slide
+"The opposing Tangrowth used Rock Slide!"
+[HP change] Skarmory lost 20 HP (115 -> 95)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     move will not affect Skarmory (0)
+     move will not affect Skarmory (0)
+Set up score for Tangrowth (1): 0
+Set up score for Tangrowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangrowth (1) is considering using Power Whip (1) against Skarmory (0)...
+[AI] Tangrowth (1) is considering using Earthquake (1)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tangrowth (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tangrowth (1) is considering using Poison Jab (1) against Skarmory (0)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Tangrowth (1):
+   *   0.0% to use Power Whip (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Rock Slide: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Rock Slide
+
+[Round order] Skarmory (0), the opposing Tangrowth (1)
+
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tangrowth lost 66 HP (88 -> 22)
+"It's super effective!"
+[Use move] The opposing Tangrowth (1) used Rock Slide
+"The opposing Tangrowth used Rock Slide!"
+[HP change] Skarmory lost 19 HP (95 -> 76)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     move will not affect Skarmory (0)
+     move will not affect Skarmory (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Tangrowth (1): 0
+Set up score for Tangrowth (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangrowth (1) is considering using Power Whip (1) against Skarmory (0)...
+[AI] Tangrowth (1) is considering using Earthquake (1)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tangrowth (1) is considering using Rock Slide (1)...
+     + 4 to prioritize highest damaging move
+[AI] Tangrowth (1) is considering using Poison Jab (1) against Skarmory (0)...
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Tangrowth (1):
+   *   0.0% to use Power Whip (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Rock Slide: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Rock Slide
+
+[Round order] Skarmory (0), the opposing Tangrowth (1)
+
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tangrowth lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Tangrowth fainted!"
+
+[End of round 15]
+Trick Room Turns: 0
+     move will not affect Skarmory (0)
+     move will not affect Skarmory (0)
+     [Mr. Rime] using Fake Out vs Skarmory does a max of 5/76 damage
+     [Mr. Rime] using Freeze-Dry vs Skarmory does a max of 69/76 damage
+     [Mr. Rime] using Psychic vs Skarmory does a max of 44/76 damage
+     [Mr. Rime] using Dazzling Gleam vs Skarmory does a max of 26/76 damage
+==============================
+     Skarmory (0)'s best move: Iron Head for 108 damage
+==============================
+     [Mr. Rime] +  6: for fast 2HKO
+     [Mr. Rime] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Youngster Austin sent out Mr. Rime!"
+
+===== Round 16 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Rime (1) is considering using Fake Out (1) against Skarmory (0)...
+     + 18 for using turn 1
+[AI] Mr. Rime (1) is considering using Freeze-Dry (1) against Skarmory (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mr. Rime (1) is considering using Psychic (1) against Skarmory (0)...
+[AI] Mr. Rime (1) is considering using Dazzling Gleam (1)...
+[AI] Move choices for Mr. Rime (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Mr. Rime (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Mr. Rime (1) used Fake Out
+"The opposing Mr. Rime used Fake Out!"
+[HP change] Pyroar lost 21 HP (147 -> 126)
+"A critical hit!"
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Rime (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mr. Rime (1) is considering using Freeze-Dry (1) against Pyroar (0)...
+[AI] Mr. Rime (1) is considering using Psychic (1) against Pyroar (0)...
+     + 4 to prioritize highest damaging move
+[AI] Mr. Rime (1) is considering using Dazzling Gleam (1)...
+[AI] Move choices for Mr. Rime (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psychic (target 0)
+
+[Round order] Pyroar (0), the opposing Mr. Rime (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Mr. Rime lost 99 HP (138 -> 39)
+"It's super effective!"
+[Use move] The opposing Mr. Rime (1) used Psychic
+"The opposing Mr. Rime used Psychic!"
+[HP change] Pyroar lost 77 HP (126 -> 49)
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Rime (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mr. Rime (1) is considering using Freeze-Dry (1) against Pyroar (0)...
+[AI] Mr. Rime (1) is considering using Psychic (1) against Pyroar (0)...
+      + 17 for slow kill
+[AI] Mr. Rime (1) is considering using Dazzling Gleam (1)...
+[AI] Move choices for Mr. Rime (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 18
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Psychic (target 0)
+
+[Round order] Pyroar (0), the opposing Mr. Rime (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Mr. Rime lost 39 HP (39 -> 0)
+"It's super effective!"
+"The opposing Mr. Rime fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Austin!"
+"Wow. You're great!"
+
+"You got $704 for winning!"
