@@ -187269,3 +187269,2368 @@ Set up score for Mismagius (0): 0
 "Wow. You're great!"
 
 "You got $1,440 for winning!"
+Roles for GLIMMORA: [:SPECIALBREAKER, :LEAD]
+Roles for SOLROCK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for DUGTRIO: [:PHYSICALBREAKER]
+Roles for STEELIX: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Kevin!"
+"Hiker Kevin sent out Glimmora!"
+"Go! Skarmory!"
+[Round order] The opposing Glimmora (1), Skarmory (0)
+"The opposing Glimmora floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Skarmory (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 79 HP (127 -> 48)
+[HP change] Skarmory gained 31 HP (48 -> 79)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Glimmora lost 86 HP (140 -> 54)
+"It's super effective!"
+[Ability triggered] The opposing Glimmora's Toxic Debris
+"Poison spikes were scattered on the ground all around your team!"
+"The opposing Glimmora's Air Balloon popped!"
+[Item consumed] The opposing Glimmora consumed its held Air Balloon
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+      + 20 for fast kill
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 79 HP (79 -> 0)
+"A critical hit!"
+"Skarmory fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for GLIMMORA: [:SPECIALBREAKER, :LEAD]
+Roles for SOLROCK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for DUGTRIO: [:PHYSICALBREAKER]
+Roles for STEELIX: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Kevin!"
+"Hiker Kevin sent out Glimmora!"
+"Go! Skarmory!"
+[Round order] The opposing Glimmora (1), Skarmory (0)
+"The opposing Glimmora floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Skarmory (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 88 HP (127 -> 39)
+[HP change] Skarmory gained 31 HP (39 -> 70)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Glimmora lost 79 HP (140 -> 61)
+"It's super effective!"
+[Ability triggered] The opposing Glimmora's Toxic Debris
+"Poison spikes were scattered on the ground all around your team!"
+"The opposing Glimmora's Air Balloon popped!"
+[Item consumed] The opposing Glimmora consumed its held Air Balloon
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+      + 20 for fast kill
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 70 HP (70 -> 0)
+"Skarmory fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for GLIMMORA: [:SPECIALBREAKER, :LEAD]
+Roles for SOLROCK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for DUGTRIO: [:PHYSICALBREAKER]
+Roles for STEELIX: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Kevin!"
+"Hiker Kevin sent out Glimmora!"
+"Go! Skarmory!"
+[Round order] The opposing Glimmora (1), Skarmory (0)
+"The opposing Glimmora floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Skarmory (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 85 HP (127 -> 42)
+[HP change] Skarmory gained 31 HP (42 -> 73)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Glimmora lost 84 HP (140 -> 56)
+"It's super effective!"
+[Ability triggered] The opposing Glimmora's Toxic Debris
+"Poison spikes were scattered on the ground all around your team!"
+"The opposing Glimmora's Air Balloon popped!"
+[Item consumed] The opposing Glimmora consumed its held Air Balloon
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+      + 20 for fast kill
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+"Skarmory, come back!"
+"Just a little more! Hang in there, Mismagius!"
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Mismagius lost 52 HP (124 -> 72)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     move will not affect Mismagius (0)
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Mismagius (0)...
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Glimmora (1) is considering using Earth Power (1) against Mismagius (0)...
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Mismagius (0)...
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+[AI] Move choices for Glimmora (1):
+   * 100.0% to use Stealth Rock: score 10
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Glimmora (1), Mismagius (0)
+
+[Use move] The opposing Glimmora (1) used Stealth Rock
+"The opposing Glimmora used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Glimmora lost 56 HP (56 -> 0)
+"The opposing Glimmora fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     Glimmora (1)'s highest damaging move vs Mismagius: Power Gem
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     move will not affect Mismagius (0)
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+==============================
+     [Solrock] using Rock Slide vs Mismagius does a max of 71/72 damage
+     [Solrock] using Temper Flare vs Mismagius does a max of 47/72 damage
+     Mismagius (0)'s best move: Hex for 132/146 damage
+==============================
+     [Solrock] -  5: for target having fast 2HKO and us having no kill
+     [Solrock] final Switch score: -5
+==============================
+     [Dugtrio] using Stone Edge vs Mismagius does a max of 98/72 damage
+     [Dugtrio] using Sucker Punch vs Mismagius does a max of 69/72 damage
+     [Dugtrio] using Aerial Ace vs Mismagius does a max of 60/72 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 75/100 damage
+==============================
+     [Dugtrio] + 12: for fast kill
+     [Dugtrio] final Switch score: 12
+==============================
+     [Steelix] using Iron Head vs Mismagius does a max of 162/72 damage
+     [Steelix] using Body Press vs Mismagius does a max of 1/72 damage
+     [Steelix] using Explosion vs Mismagius does a max of 1/72 damage
+     Mismagius (0)'s best move: Hex for 65/136 damage
+==============================
+     [Steelix] +  9: for slow kill
+     [Steelix] final Switch score: 9
+[AI] Highest move score (1) vs Switch In Score (12)
+"Hiker Kevin sent out Dugtrio!"
+
+===== Round 4 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Mismagius: Earthquake
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Stone Edge (1) against Mismagius (0)...
+     Dugtrio (1)'s highest damaging move vs Mismagius: Earthquake
+      + 20 for fast kill
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Mismagius (0)...
+     Dugtrio (1)'s highest damaging move vs Mismagius: Earthquake
+     - 1 for factoring in 1 Status Moves from Mismagius (0)
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Dugtrio (1) is considering using Aerial Ace (1) against Mismagius (0)...
+     Dugtrio (1)'s highest damaging move vs Mismagius: Earthquake
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Dugtrio (1), Mismagius (0)
+
+"Mismagius, come back!"
+"You're in charge, Skarmory!"
+[HP change] Skarmory lost 16 HP (73 -> 57)
+"Pointed stones dug into Skarmory!"
+[Use move] The opposing Dugtrio (1) used Stone Edge
+"The opposing Dugtrio used Stone Edge!"
+[HP change] Skarmory lost 35 HP (57 -> 22)
+[Item triggered] The opposing Dugtrio's Life Orb (recoil)
+[HP change] The opposing Dugtrio lost 10 HP (100 -> 90)
+"The opposing Dugtrio lost some of its HP!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+      + 20 for fast kill
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Skarmory (0)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+     - 1 for factoring in 1 Status Moves from Skarmory (0)
+      + 20 for fast kill
+[AI] Dugtrio (1) is considering using Aerial Ace (1) against Skarmory (0)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Dugtrio (1), Skarmory (0)
+
+[Use move] The opposing Dugtrio (1) used Stone Edge
+"The opposing Dugtrio used Stone Edge!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Dugtrio's attack missed!"
+[Use move] Skarmory (0) used Defog
+"Skarmory used Defog!"
+[Stat change] The opposing Dugtrio's evasiveness changed by -1 (0 -> -1)
+"The opposing Dugtrio's evasiveness fell!"
+"Skarmory blew away stealth rocks!"
+"Skarmory blew away poison spikes!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+      + 20 for fast kill
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Skarmory (0)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+     - 1 for factoring in 1 Status Moves from Skarmory (0)
+      + 20 for fast kill
+[AI] Dugtrio (1) is considering using Aerial Ace (1) against Skarmory (0)...
+     Dugtrio (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Dugtrio (1), Skarmory (0)
+
+"Good job, Skarmory! Come back!"
+"Go for it, Falinks!"
+[Use move] The opposing Dugtrio (1) used Stone Edge
+"The opposing Dugtrio used Stone Edge!"
+[HP change] Falinks lost 27 HP (116 -> 89)
+"It's not very effective..."
+[Item triggered] The opposing Dugtrio's Life Orb (recoil)
+[HP change] The opposing Dugtrio lost 10 HP (90 -> 80)
+"The opposing Dugtrio lost some of its HP!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Dugtrio (1) is considering using Stone Edge (1) against Falinks (0)...
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Falinks (0)...
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+     - 1 for factoring in 1 Status Moves from Falinks (0)
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Dugtrio (1) is considering using Aerial Ace (1) against Falinks (0)...
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+[AI] Move choices for Dugtrio (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Dugtrio (1), Falinks (0)
+
+[Use move] The opposing Dugtrio (1) used Earthquake
+"The opposing Dugtrio used Earthquake!"
+[HP change] Falinks lost 83 HP (89 -> 6)
+[HP change] Falinks gained 29 HP (6 -> 35)
+"Falinks restored its health using its Sitrus Berry!"
+[Item consumed] Falinks consumed its held Sitrus Berry
+[Item triggered] The opposing Dugtrio's Life Orb (recoil)
+[HP change] The opposing Dugtrio lost 10 HP (80 -> 70)
+"The opposing Dugtrio lost some of its HP!"
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Dugtrio lost 36 HP (70 -> 34)
+[HP change] The opposing Dugtrio lost 31 HP (34 -> 3)
+[HP change] The opposing Dugtrio lost 3 HP (3 -> 0)
+"The opposing Dugtrio fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 7]
+Trick Room Turns: 0
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+     Dugtrio (1)'s highest damaging move vs Falinks: Earthquake
+==============================
+     [Solrock] using Rock Slide vs Falinks does a max of 22/35 damage
+     [Solrock] using Temper Flare vs Falinks does a max of 29/35 damage
+     [Solrock] using Earthquake vs Falinks does a max of 38/35 damage
+     Falinks (0)'s best move: Bullet Seed for 114/146 damage
+==============================
+     [Solrock] + 12: for fast kill
+     [Solrock] final Switch score: 12
+==============================
+     [Steelix] using Iron Head vs Falinks does a max of 50/35 damage
+     [Steelix] using Earthquake vs Falinks does a max of 62/35 damage
+     [Steelix] using Body Press vs Falinks does a max of 122/35 damage
+     [Steelix] using Explosion vs Falinks does a max of 100/35 damage
+     Falinks (0)'s best move: Arm Thrust for 51/136 damage
+==============================
+     [Steelix] +  9: for slow kill
+     [Steelix] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Hiker Kevin sent out Solrock!"
+
+===== Round 8 =====
+
+     Solrock (1)'s highest damaging move vs Falinks: Earthquake
+     Solrock (1)'s highest damaging move vs Falinks: Earthquake
+     Solrock (1)'s highest damaging move vs Falinks: Earthquake
+     [Switch AI] -7 We have fast kill
+Set up score for Solrock (1): 0
+Set up score for Solrock (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Rock Slide (1)...
+     Solrock (1)'s highest damaging move vs Falinks: Earthquake
+[AI] Solrock (1) is considering using Temper Flare (1) against Falinks (0)...
+     Solrock (1)'s highest damaging move vs Falinks: Earthquake
+[AI] Solrock (1) is considering using Earthquake (1)...
+     Solrock (1)'s highest damaging move vs Falinks: Earthquake
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Swords Dance (4)...
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Earthquake
+
+[Round order] The opposing Solrock (1), Falinks (0)
+
+"OK, Falinks! Come back!"
+"You're in charge, Quagsire!"
+[Use move] The opposing Solrock (1) used Earthquake
+"The opposing Solrock used Earthquake!"
+[HP change] Quagsire lost 40 HP (157 -> 117)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+Set up score for Solrock (1): 0
+Set up score for Solrock (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Rock Slide (1)...
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Solrock (1) is considering using Temper Flare (1) against Quagsire (0)...
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Solrock (1) is considering using Earthquake (1)...
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Solrock (1) is considering using Swords Dance (4)...
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Earthquake
+
+[Round order] The opposing Solrock (1), Quagsire (0)
+
+[Use move] The opposing Solrock (1) used Earthquake
+"The opposing Solrock used Earthquake!"
+[HP change] Quagsire lost 41 HP (117 -> 76)
+[HP change] Quagsire gained 39 HP (76 -> 115)
+"Quagsire restored its health using its Sitrus Berry!"
+[Item consumed] Quagsire consumed its held Sitrus Berry
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Solrock lost 111 HP (146 -> 35)
+"It's super effective!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+Set up score for Solrock (1): 0
+Set up score for Solrock (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Rock Slide (1)...
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Solrock (1) is considering using Temper Flare (1) against Quagsire (0)...
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Solrock (1) is considering using Earthquake (1)...
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Solrock (1) is considering using Swords Dance (4)...
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Earthquake
+
+[Round order] The opposing Solrock (1), Quagsire (0)
+
+[Use move] The opposing Solrock (1) used Earthquake
+"The opposing Solrock used Earthquake!"
+[HP change] Quagsire lost 39 HP (115 -> 76)
+[Use move] Quagsire (0) used Aqua Tail
+"Quagsire used Aqua Tail!"
+[HP change] The opposing Solrock lost 35 HP (35 -> 0)
+"It's super effective!"
+"The opposing Solrock fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+     Solrock (1)'s highest damaging move vs Quagsire: Earthquake
+==============================
+     [Steelix] using Iron Head vs Quagsire does a max of 29/76 damage
+     [Steelix] using Earthquake vs Quagsire does a max of 71/76 damage
+     [Steelix] using Body Press vs Quagsire does a max of 71/76 damage
+     [Steelix] using Explosion vs Quagsire does a max of 116/76 damage
+     Quagsire (0)'s best move: Aqua Tail for 57/136 damage
+==============================
+     [Steelix] +  9: for slow kill
+     [Steelix] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Hiker Kevin sent out Steelix!"
+
+===== Round 11 =====
+
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Iron Head (1) against Quagsire (0)...
+     Steelix (1)'s highest damaging move vs Quagsire: Explosion
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Quagsire: Explosion
+[AI] Steelix (1) is considering using Body Press (1) against Quagsire (0)...
+     Steelix (1)'s highest damaging move vs Quagsire: Explosion
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Quagsire: Explosion
+     - 5 to set one lower than other moves that can kill if we are last mon
+      + 17 for slow kill
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Body Press (target 0): score 0
+   * 100.0% to use Explosion: score 13
+   => will use Explosion
+
+[Round order] Quagsire (0), the opposing Steelix (1)
+
+"OK, Quagsire! Come back!"
+"You're in charge, Scovillain!"
+[Use move] The opposing Steelix (1) used Explosion
+"The opposing Steelix used Explosion!"
+[HP change] Scovillain lost 119 HP (119 -> 0)
+[HP change] The opposing Steelix lost 136 HP (136 -> 0)
+"The opposing Steelix fainted!"
+"Scovillain fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Kevin!"
+"Wow. You're great!"
+
+"You got $1,440 for winning!"
+Roles for GLIMMORA: [:SPECIALBREAKER, :LEAD]
+Roles for SOLROCK: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for DUGTRIO: [:PHYSICALBREAKER]
+Roles for STEELIX: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Kevin!"
+"Hiker Kevin sent out Glimmora!"
+"Go! Skarmory!"
+[Round order] The opposing Glimmora (1), Skarmory (0)
+"The opposing Glimmora floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Skarmory (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 80 HP (127 -> 47)
+[HP change] Skarmory gained 31 HP (47 -> 78)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Glimmora lost 89 HP (140 -> 51)
+"It's super effective!"
+[Ability triggered] The opposing Glimmora's Toxic Debris
+"Poison spikes were scattered on the ground all around your team!"
+"The opposing Glimmora's Air Balloon popped!"
+[Item consumed] The opposing Glimmora consumed its held Air Balloon
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+      + 20 for fast kill
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+"Skarmory, come back!"
+"Just a little more! Hang in there, Mismagius!"
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Mismagius lost 55 HP (124 -> 69)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     move will not affect Mismagius (0)
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Mismagius (0)...
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Glimmora (1) is considering using Earth Power (1) against Mismagius (0)...
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Mismagius (0)...
+     Glimmora (1)'s highest damaging move vs Mismagius: Sludge Bomb
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Glimmora (1), Mismagius (0)
+
+[Use move] The opposing Glimmora (1) used Sludge Bomb
+"The opposing Glimmora used Sludge Bomb!"
+[HP change] Mismagius lost 65 HP (69 -> 4)
+"Mismagius was poisoned!"
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Glimmora lost 50 HP (51 -> 1)
+
+[End of round 3]
+[HP change] Mismagius lost 4 HP (4 -> 0)
+"Mismagius was hurt by poison!"
+"Mismagius fainted!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Skarmory!"
+
+===== Round 4 =====
+
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Earth Power (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Skarmory (0)...
+     Glimmora (1)'s highest damaging move vs Skarmory: Power Gem
+      + 20 for fast kill
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 21
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Skarmory (0)
+
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Skarmory lost 78 HP (78 -> 0)
+"Skarmory fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Chimecho!"
+
+===== Round 5 =====
+
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     move will not affect Chimecho (0)
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Glimmora (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Chimecho (0)...
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Chimecho (0)...
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Chimecho (0), the opposing Glimmora (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Glimmora lost 1 HP (1 -> 0)
+"It's not very effective..."
+"The opposing Glimmora fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     move will not affect Chimecho (0)
+     Glimmora (1)'s highest damaging move vs Chimecho: Sludge Bomb
+==============================
+     [Solrock] using Rock Slide vs Chimecho does a max of 50/137 damage
+     [Solrock] using Temper Flare vs Chimecho does a max of 33/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 78/146 damage
+==============================
+     [Solrock] -  5: for target having fast 2HKO and us having no kill
+     [Solrock] final Switch score: -5
+==============================
+     [Dugtrio] using Stone Edge vs Chimecho does a max of 69/137 damage
+     [Dugtrio] using Sucker Punch vs Chimecho does a max of 48/137 damage
+     [Dugtrio] using Aerial Ace vs Chimecho does a max of 42/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 74/100 damage
+==============================
+     [Dugtrio] +  6: for fast 2HKO
+     [Dugtrio] final Switch score: 6
+==============================
+     [Steelix] using Iron Head vs Chimecho does a max of 114/137 damage
+     [Steelix] using Body Press vs Chimecho does a max of 18/137 damage
+     [Steelix] using Explosion vs Chimecho does a max of 115/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 38/136 damage
+==============================
+     [Steelix] +  3: for outdamage
+     [Steelix] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (6)
+"Hiker Kevin sent out Dugtrio!"
+
+===== Round 6 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     + 2 for factoring in 0 Status Moves from Chimecho (0)
+[AI] Dugtrio (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 3
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Dugtrio (1), Chimecho (0)
+
+[Use move] The opposing Dugtrio (1) used Sucker Punch
+"The opposing Dugtrio used Sucker Punch!"
+[HP change] Chimecho lost 43 HP (137 -> 94)
+[Item triggered] The opposing Dugtrio's Life Orb (recoil)
+[HP change] The opposing Dugtrio lost 10 HP (100 -> 90)
+"The opposing Dugtrio lost some of its HP!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Dugtrio lost 67 HP (90 -> 23)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     + 2 for factoring in 0 Status Moves from Chimecho (0)
+[AI] Dugtrio (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 3
+   *   0.0% to use Aerial Ace (target 0): score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Dugtrio (1), Chimecho (0)
+
+[Use move] The opposing Dugtrio (1) used Sucker Punch
+"The opposing Dugtrio used Sucker Punch!"
+[HP change] Chimecho lost 46 HP (94 -> 48)
+[HP change] Chimecho gained 34 HP (48 -> 82)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Item triggered] The opposing Dugtrio's Life Orb (recoil)
+[HP change] The opposing Dugtrio lost 10 HP (23 -> 13)
+"The opposing Dugtrio lost some of its HP!"
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Dugtrio lost 13 HP (13 -> 0)
+"The opposing Dugtrio fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     move will not affect Chimecho (0)
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+     Dugtrio (1)'s highest damaging move vs Chimecho: Earthquake
+==============================
+     [Solrock] using Rock Slide vs Chimecho does a max of 50/82 damage
+     [Solrock] using Temper Flare vs Chimecho does a max of 33/82 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 78/146 damage
+==============================
+     [Solrock] -  5: for target having fast 2HKO and us having no kill
+     [Solrock] final Switch score: -5
+==============================
+     [Steelix] using Iron Head vs Chimecho does a max of 114/82 damage
+     [Steelix] using Body Press vs Chimecho does a max of 18/82 damage
+     [Steelix] using Explosion vs Chimecho does a max of 115/82 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 38/136 damage
+==============================
+     [Steelix] +  9: for slow kill
+     [Steelix] final Switch score: 9
+[AI] Highest move score (12) vs Switch In Score (9)
+"Hiker Kevin sent out Steelix!"
+
+===== Round 8 =====
+
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+     move will not affect Chimecho (0)
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+     [Switch AI] -5 We have slow kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Iron Head (1) against Chimecho (0)...
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+      + 17 for slow kill
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Steelix (1) is considering using Body Press (1) against Chimecho (0)...
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Chimecho: Iron Head
+     set to - 19 because we have a move that kills other than this
+      + 17 for slow kill
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Steelix (1):
+   * 100.0% to use Iron Head (target 0): score 18
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Body Press (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Iron Head (target 0)
+
+[Round order] Chimecho (0), the opposing Steelix (1)
+
+"Chimecho, come back!"
+"You're in charge, Quagsire!"
+"Quagsire was poisoned by the poison spikes!"
+[Use move] The opposing Steelix (1) used Iron Head
+"The opposing Steelix used Iron Head!"
+[HP change] Quagsire lost 26 HP (157 -> 131)
+"It's not very effective..."
+
+[End of round 8]
+[HP change] Quagsire lost 19 HP (131 -> 112)
+"Quagsire was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+     [Switch AI] -5 We have slow kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Iron Head (1) against Quagsire (0)...
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Steelix (1) is considering using Body Press (1) against Quagsire (0)...
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Quagsire: Earthquake
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Body Press (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Earthquake
+
+[Round order] Quagsire (0), the opposing Steelix (1)
+
+"Quagsire, switch out! Come back!"
+"You're in charge, Falinks!"
+"Falinks was poisoned by the poison spikes!"
+[Use move] The opposing Steelix (1) used Earthquake
+"The opposing Steelix used Earthquake!"
+[HP change] Falinks lost 54 HP (116 -> 62)
+
+[End of round 9]
+[HP change] Falinks lost 14 HP (62 -> 48)
+"Falinks was hurt by poison!"
+[HP change] Falinks gained 29 HP (48 -> 77)
+"Falinks restored its health using its Sitrus Berry!"
+[Item consumed] Falinks consumed its held Sitrus Berry
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+     [Switch AI] -5 We have slow kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Iron Head (1) against Falinks (0)...
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+[AI] Steelix (1) is considering using Body Press (1) against Falinks (0)...
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+      + 17 for slow kill
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Falinks: Body Press
+     set to - 19 because we have a move that kills other than this
+      + 17 for slow kill
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Body Press (target 0): score 18
+   *   0.0% to use Explosion: score 0
+   => will use Body Press (target 0)
+
+[Round order] Falinks (0), the opposing Steelix (1)
+
+[Use move] Falinks (0) used Arm Thrust
+"Falinks used Arm Thrust!"
+[HP change] The opposing Steelix lost 13 HP (136 -> 123)
+[HP change] The opposing Steelix lost 13 HP (123 -> 110)
+[HP change] The opposing Steelix lost 15 HP (110 -> 95)
+[HP change] The opposing Steelix lost 14 HP (95 -> 81)
+[HP change] The opposing Steelix lost 15 HP (81 -> 66)
+"It's super effective!"
+"Hit 5 times!"
+[Use move] The opposing Steelix (1) used Body Press
+"The opposing Steelix used Body Press!"
+[HP change] Falinks lost 77 HP (77 -> 0)
+"It's super effective!"
+"Falinks fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Scovillain!"
+"Scovillain was poisoned by the poison spikes!"
+
+===== Round 11 =====
+
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     [Switch AI] -5 We have slow kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (20)
+[AI] The AI will not try to switch.
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Iron Head (1) against Scovillain (0)...
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Steelix (1) is considering using Body Press (1) against Scovillain (0)...
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     + 2 to incentivize exploding the lower HP we are
+      + 17 for slow kill
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Body Press (target 0): score 0
+   * 100.0% to use Explosion: score 20
+   => will use Explosion
+
+[Round order] Scovillain (0), the opposing Steelix (1)
+
+[Use move] Scovillain (0) used Flamethrower
+"Scovillain used Flamethrower!"
+[HP change] The opposing Steelix lost 66 HP (66 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Steelix fainted!"
+
+[End of round 11]
+[HP change] Scovillain lost 14 HP (119 -> 105)
+"Scovillain was hurt by poison!"
+Trick Room Turns: 0
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+     Steelix (1)'s highest damaging move vs Scovillain: Earthquake
+==============================
+     [Solrock] using Rock Slide vs Scovillain does a max of 117/105 damage
+     [Solrock] using Temper Flare vs Scovillain does a max of 39/105 damage
+     [Solrock] using Earthquake vs Scovillain does a max of 52/105 damage
+     Scovillain (0)'s best move: Seed Bomb for 126/146 damage
+==============================
+     [Solrock] + 12: for fast kill
+     [Solrock] final Switch score: 12
+[AI] Highest move score (13) vs Switch In Score (12)
+"Hiker Kevin sent out Solrock!"
+
+===== Round 12 =====
+
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Rock Slide (1)...
+     Solrock (1)'s highest damaging move vs Scovillain: Rock Slide
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Temper Flare (1) against Scovillain (0)...
+     Solrock (1)'s highest damaging move vs Scovillain: Rock Slide
+[AI] Solrock (1) is considering using Earthquake (1)...
+     Solrock (1)'s highest damaging move vs Scovillain: Rock Slide
+[AI] Solrock (1) is considering using Swords Dance (4)...
+[AI] Move choices for Solrock (1):
+   * 100.0% to use Rock Slide: score 21
+   *   0.0% to use Temper Flare (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Rock Slide
+
+[Round order] The opposing Solrock (1), Scovillain (0)
+
+[Use move] The opposing Solrock (1) used Rock Slide
+"The opposing Solrock used Rock Slide!"
+[HP change] Scovillain lost 104 HP (105 -> 1)
+"It's super effective!"
+[HP change] Scovillain gained 29 HP (1 -> 30)
+"Scovillain restored its health using its Sitrus Berry!"
+[Item consumed] Scovillain consumed its held Sitrus Berry
+[Use move] Scovillain (0) used Seed Bomb
+"Scovillain used Seed Bomb!"
+[HP change] The opposing Solrock lost 112 HP (146 -> 34)
+"It's super effective!"
+
+[End of round 12]
+[HP change] Scovillain lost 14 HP (30 -> 16)
+"Scovillain was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Rock Slide (1)...
+     Solrock (1)'s highest damaging move vs Scovillain: Rock Slide
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Temper Flare (1) against Scovillain (0)...
+     Solrock (1)'s highest damaging move vs Scovillain: Rock Slide
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Earthquake (1)...
+     Solrock (1)'s highest damaging move vs Scovillain: Rock Slide
+      + 20 for fast kill
+[AI] Solrock (1) is considering using Swords Dance (4)...
+[AI] Move choices for Solrock (1):
+   *  33.3% to use Rock Slide: score 21
+   *  33.3% to use Temper Flare (target 0): score 21
+   *  33.3% to use Earthquake: score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Earthquake
+
+[Round order] The opposing Solrock (1), Scovillain (0)
+
+"Good job, Scovillain! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Solrock (1) used Earthquake
+"The opposing Solrock used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Solrock (1) is considering using Rock Slide (1)...
+     Solrock (1)'s highest damaging move vs Chimecho: Temper Flare
+[AI] Solrock (1) is considering using Temper Flare (1) against Chimecho (0)...
+     Solrock (1)'s highest damaging move vs Chimecho: Temper Flare
+     + 4 to prioritize highest damaging move
+[AI] Solrock (1) is considering using Earthquake (1)...
+     Solrock (1)'s highest damaging move vs Chimecho: Temper Flare
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Solrock (1) is considering using Swords Dance (4)...
+[AI] Move choices for Solrock (1):
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Temper Flare (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Temper Flare (target 0)
+
+[Round order] Chimecho (0), the opposing Solrock (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Solrock lost 34 HP (34 -> 0)
+"The opposing Solrock fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Kevin!"
+"Wow. You're great!"
+
+"You got $1,440 for winning!"
+Roles for GRANBULL: [:PHYSICALBREAKER]
+Roles for TAUROS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for LILLIGANT: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for PAWMOT: [:PHYSICALBREAKER]
+Roles for KOMMOO: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Battle Girl Hellen!"
+"Battle Girl Hellen sent out Granbull!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Granbull (1)
+
+===== Round 1 =====
+
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     [Switch AI] +2 Target has fast kill
+Set up score for Granbull (1): 0
+Set up score for Granbull (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Granbull (1) is considering using Play Rough (1) against Chimecho (0)...
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Granbull (1) is considering using Crunch (1) against Chimecho (0)...
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+[AI] Granbull (1) is considering using Thunder Fang (1) against Chimecho (0)...
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+[AI] Granbull (1) is considering using Fire Fang (1) against Chimecho (0)...
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+[AI] Move choices for Granbull (1):
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Fire Fang (target 0): score 0
+   => will use Play Rough (target 0)
+
+[Round order] Chimecho (0), the opposing Granbull (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Granbull lost 146 HP (146 -> 0)
+"It's super effective!"
+"The opposing Granbull fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+     Granbull (1)'s highest damaging move vs Chimecho: Play Rough
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 47/137 damage
+     [Tauros] using Close Combat vs Chimecho does a max of 24/137 damage
+     [Tauros] using Stone Edge vs Chimecho does a max of 52/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 174/136 damage
+==============================
+     [Tauros] -  7: for target slow kill
+     [Tauros] final Switch score: -7
+==============================
+     [Lilligant] using Trop Kick vs Chimecho does a max of 60/137 damage
+     [Lilligant] using High Jump Kick vs Chimecho does a max of 27/137 damage
+     [Lilligant] using Triple Axel vs Chimecho does a max of 68/137 damage
+     [Lilligant] using U-turn vs Chimecho does a max of 34/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 168/129 damage
+==============================
+     [Lilligant] -  7: for target slow kill
+     [Lilligant] final Switch score: -7
+==============================
+     [Pawmot] using Fake Out vs Chimecho does a max of 23/137 damage
+     [Pawmot] using Thunder Punch vs Chimecho does a max of 81/137 damage
+     [Pawmot] using Drain Punch vs Chimecho does a max of 20/137 damage
+     [Pawmot] using Ice Punch vs Chimecho does a max of 54/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 195/131 damage
+==============================
+     [Pawmot] -  7: for target slow kill
+     [Pawmot] final Switch score: -7
+==============================
+     [Kommo-o] using Dragon Pulse vs Chimecho does a max of 1/137 damage
+     [Kommo-o] using Aura Sphere vs Chimecho does a max of 14/137 damage
+     [Kommo-o] using Flash Cannon vs Chimecho does a max of 74/137 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 252/136 damage
+==============================
+     [Kommo-o] -  7: for target slow kill
+     [Kommo-o] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Battle Girl Hellen sent out Lilligant!"
+
+===== Round 2 =====
+
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+[AI] Lilligant (1) is considering using High Jump Kick (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     + 4 to prioritize highest damaging move
+[AI] Lilligant (1) is considering using U-turn (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use High Jump Kick (target 0): score 0
+   *  50.0% to use Triple Axel (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Lilligant (1), Chimecho (0)
+
+[Use move] The opposing Lilligant (1) used U-turn
+"The opposing Lilligant used U-turn!"
+[HP change] Chimecho lost 34 HP (137 -> 103)
+"The opposing Lilligant went back to Battle Girl Hellen!"
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 47/103 damage
+     [Tauros] using Close Combat vs Chimecho does a max of 24/103 damage
+     [Tauros] using Stone Edge vs Chimecho does a max of 52/103 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 174/136 damage
+==============================
+     [Tauros] - 20: for us being killed on switch in
+     [Tauros] final Switch score: -20
+==============================
+     [Pawmot] using Fake Out vs Chimecho does a max of 23/103 damage
+     [Pawmot] using Thunder Punch vs Chimecho does a max of 81/103 damage
+     [Pawmot] using Drain Punch vs Chimecho does a max of 20/103 damage
+     [Pawmot] using Ice Punch vs Chimecho does a max of 54/103 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 195/131 damage
+==============================
+     [Pawmot] - 20: for us being killed on switch in
+     [Pawmot] final Switch score: -20
+==============================
+     [Kommo-o] using Dragon Pulse vs Chimecho does a max of 1/103 damage
+     [Kommo-o] using Aura Sphere vs Chimecho does a max of 14/103 damage
+     [Kommo-o] using Flash Cannon vs Chimecho does a max of 74/103 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 252/136 damage
+==============================
+     [Kommo-o] - 20: for us being killed on switch in
+     [Kommo-o] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (-20)
+"Battle Girl Hellen sent out Pawmot!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Pawmot lost 131 HP (131 -> 0)
+"It's super effective!"
+"The opposing Pawmot fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     Pawmot (1)'s highest damaging move vs Chimecho: Thunder Punch
+     Pawmot (1)'s highest damaging move vs Chimecho: Thunder Punch
+     Pawmot (1)'s highest damaging move vs Chimecho: Thunder Punch
+     Pawmot (1)'s highest damaging move vs Chimecho: Thunder Punch
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 47/103 damage
+     [Tauros] using Close Combat vs Chimecho does a max of 24/103 damage
+     [Tauros] using Stone Edge vs Chimecho does a max of 52/103 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 174/136 damage
+==============================
+     [Tauros] -  7: for target slow kill
+     [Tauros] final Switch score: -7
+==============================
+     [Lilligant] using Trop Kick vs Chimecho does a max of 60/103 damage
+     [Lilligant] using High Jump Kick vs Chimecho does a max of 27/103 damage
+     [Lilligant] using Triple Axel vs Chimecho does a max of 68/103 damage
+     [Lilligant] using U-turn vs Chimecho does a max of 34/103 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 168/129 damage
+==============================
+     [Lilligant] -  7: for target slow kill
+     [Lilligant] final Switch score: -7
+==============================
+     [Kommo-o] using Dragon Pulse vs Chimecho does a max of 1/103 damage
+     [Kommo-o] using Aura Sphere vs Chimecho does a max of 14/103 damage
+     [Kommo-o] using Flash Cannon vs Chimecho does a max of 74/103 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 252/136 damage
+==============================
+     [Kommo-o] -  7: for target slow kill
+     [Kommo-o] final Switch score: -7
+[AI] Highest move score (19) vs Switch In Score (-7)
+"Battle Girl Hellen sent out Lilligant!"
+
+===== Round 3 =====
+
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+[AI] Lilligant (1) is considering using High Jump Kick (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     + 4 to prioritize highest damaging move
+[AI] Lilligant (1) is considering using U-turn (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use High Jump Kick (target 0): score 0
+   *  50.0% to use Triple Axel (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Chimecho (0)
+
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Chimecho lost 12 HP (103 -> 91)
+[HP change] Chimecho lost 21 HP (91 -> 70)
+[HP change] Chimecho lost 32 HP (70 -> 38)
+"Hit 3 times!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Lilligant lost 128 HP (129 -> 1)
+"It's super effective!"
+"The opposing Lilligant hung on using its Focus Sash!"
+[Item consumed] The opposing Lilligant consumed its held Focus Sash
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using High Jump Kick (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using U-turn (1) against Chimecho (0)...
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Lilligant (1):
+   *  50.0% to use Trop Kick (target 0): score 21
+   *   0.0% to use High Jump Kick (target 0): score 0
+   *  50.0% to use Triple Axel (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] Chimecho (0), the opposing Lilligant (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Lilligant lost 1 HP (1 -> 0)
+"The opposing Lilligant fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+     Lilligant (1)'s highest damaging move vs Chimecho: Triple Axel
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 47/38 damage
+     [Tauros] using Close Combat vs Chimecho does a max of 24/38 damage
+     [Tauros] using Stone Edge vs Chimecho does a max of 52/38 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 174/136 damage
+==============================
+     [Tauros] + 12: for fast kill
+     [Tauros] final Switch score: 12
+==============================
+     [Kommo-o] using Dragon Pulse vs Chimecho does a max of 1/38 damage
+     [Kommo-o] using Aura Sphere vs Chimecho does a max of 14/38 damage
+     [Kommo-o] using Flash Cannon vs Chimecho does a max of 74/38 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 252/136 damage
+==============================
+     [Kommo-o] + 12: for fast kill
+     [Kommo-o] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Battle Girl Hellen sent out Kommo-o!"
+
+===== Round 5 =====
+
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     [Switch AI] -7 We have fast kill
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Chimecho (0)...
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Chimecho (0)...
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+      + 20 for fast kill
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   * 100.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Autotomize: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] The opposing Kommo-o (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Kommo-o (1) used Flash Cannon
+"The opposing Kommo-o used Flash Cannon!"
+[HP change] Mismagius lost 64 HP (124 -> 60)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Kommo-o (1)'s highest damaging move vs Mismagius: Flash Cannon
+     move will not affect Mismagius (0)
+     Kommo-o (1)'s highest damaging move vs Mismagius: Flash Cannon
+     move will not affect Mismagius (0)
+     Kommo-o (1)'s highest damaging move vs Mismagius: Flash Cannon
+     [Switch AI] -7 We have fast kill
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Mismagius (0)...
+     Kommo-o (1)'s highest damaging move vs Mismagius: Flash Cannon
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Mismagius (0)...
+     Kommo-o (1)'s highest damaging move vs Mismagius: Flash Cannon
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Mismagius (0)...
+     Kommo-o (1)'s highest damaging move vs Mismagius: Flash Cannon
+      + 20 for fast kill
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   * 100.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Autotomize: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] The opposing Kommo-o (1), Mismagius (0)
+
+[Use move] The opposing Kommo-o (1) used Flash Cannon
+"The opposing Kommo-o used Flash Cannon!"
+[HP change] Mismagius lost 60 HP (60 -> 0)
+"It's super effective!"
+"Mismagius fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"You're in charge, Skarmory!"
+
+===== Round 7 =====
+
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Skarmory (0)...
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Skarmory (0)...
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+     + 4 to prioritize highest damaging move
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Skarmory (0)...
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Aura Sphere (target 0): score 5
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Autotomize: score 0
+   => will use Aura Sphere (target 0)
+
+[Round order] The opposing Kommo-o (1), Skarmory (0)
+
+[Use move] The opposing Kommo-o (1) used Aura Sphere
+"The opposing Kommo-o used Aura Sphere!"
+[HP change] Skarmory lost 69 HP (127 -> 58)
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Kommo-o lost 67 HP (136 -> 69)
+"It's super effective!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+     [Switch AI] -7 We have fast kill
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Skarmory (0)...
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Skarmory (0)...
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+      + 20 for fast kill
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Skarmory (0)...
+     Kommo-o (1)'s highest damaging move vs Skarmory: Aura Sphere
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Aura Sphere (target 0): score 21
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Autotomize: score 0
+   => will use Aura Sphere (target 0)
+
+[Round order] The opposing Kommo-o (1), Skarmory (0)
+
+"OK, Skarmory! Come back!"
+"Go for it, Quagsire!"
+[Use move] The opposing Kommo-o (1) used Aura Sphere
+"The opposing Kommo-o used Aura Sphere!"
+[HP change] Quagsire lost 76 HP (157 -> 81)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     [Switch AI] -7 We have fast kill
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Quagsire (0)...
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Quagsire (0)...
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Quagsire (0)...
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Autotomize: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Kommo-o (1), Quagsire (0)
+
+[Use move] The opposing Kommo-o (1) used Dragon Pulse
+"The opposing Kommo-o used Dragon Pulse!"
+[HP change] Quagsire lost 75 HP (81 -> 6)
+[HP change] Quagsire gained 39 HP (6 -> 45)
+"Quagsire restored its health using its Sitrus Berry!"
+[Item consumed] Quagsire consumed its held Sitrus Berry
+[Use move] Quagsire (0) used Yawn
+"Quagsire used Yawn!"
+"Quagsire made the opposing Kommo-o drowsy!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+     [Switch AI] -7 We have fast kill
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Quagsire (0): 0
+     Threat Score for Quagsire (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Quagsire (0)...
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+      + 20 for fast kill
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Quagsire (0)...
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+      + 20 for fast kill
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Quagsire (0)...
+     Kommo-o (1)'s highest damaging move vs Quagsire: Dragon Pulse
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   *  50.0% to use Dragon Pulse (target 0): score 21
+   *  50.0% to use Aura Sphere (target 0): score 21
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Autotomize: score 0
+   => will use Aura Sphere (target 0)
+
+[Round order] The opposing Kommo-o (1), Quagsire (0)
+
+"OK, Quagsire! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Kommo-o (1) used Aura Sphere
+"The opposing Kommo-o used Aura Sphere!"
+[HP change] Chimecho lost 12 HP (38 -> 26)
+"It's not very effective..."
+
+[End of round 10]
+[Lingering effect] The opposing Kommo-o fell asleep because of Yawn
+"The opposing Kommo-o fell asleep!"
+[Status change] The opposing Kommo-o's sleep count is 3
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     [Switch AI] -7 We have fast kill
+Set up score for Kommo-o (1): 0
+Set up score for Kommo-o (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kommo-o (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Kommo-o (1) is considering using Aura Sphere (1) against Chimecho (0)...
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+[AI] Kommo-o (1) is considering using Flash Cannon (1) against Chimecho (0)...
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+      + 20 for fast kill
+[AI] Kommo-o (1) is considering using Autotomize (4)...
+[AI] Move choices for Kommo-o (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   * 100.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Autotomize: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] The opposing Kommo-o (1), Chimecho (0)
+
+[Use move] The opposing Kommo-o (1) used Flash Cannon
+"The opposing Kommo-o is fast asleep."
+[Status continues] The opposing Kommo-o's sleep count is 2
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Kommo-o lost 69 HP (69 -> 0)
+"It's super effective!"
+"The opposing Kommo-o fainted!"
+"The Roseli Berry weakened the damage to the opposing Kommo-o!"
+[Item consumed] The opposing Kommo-o consumed its held Roseli Berry
+
+[End of round 11]
+Trick Room Turns: 0
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+     Kommo-o (1)'s highest damaging move vs Chimecho: Flash Cannon
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 47/26 damage
+     [Tauros] using Close Combat vs Chimecho does a max of 24/26 damage
+     [Tauros] using Stone Edge vs Chimecho does a max of 52/26 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 174/136 damage
+==============================
+     [Tauros] + 12: for fast kill
+     [Tauros] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Battle Girl Hellen sent out Tauros!"
+[Ability triggered] The opposing Tauros's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 12 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Chimecho (0)...
+     Tauros (1)'s highest damaging move vs Chimecho: Raging Bull
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Close Combat (1) against Chimecho (0)...
+     Tauros (1)'s highest damaging move vs Chimecho: Raging Bull
+[AI] Tauros (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Tauros (1)'s highest damaging move vs Chimecho: Raging Bull
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *  50.0% to use Raging Bull (target 0): score 21
+   *   0.0% to use Close Combat (target 0): score 0
+   *  50.0% to use Stone Edge (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Tauros (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"You're in charge, Scovillain!"
+[Use move] The opposing Tauros (1) used Stone Edge
+"The opposing Tauros used Stone Edge!"
+[HP change] Scovillain lost 109 HP (119 -> 10)
+"It's super effective!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Scovillain (0): 0
+     Threat Score for Scovillain (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Scovillain (0)...
+     Tauros (1)'s highest damaging move vs Scovillain: Stone Edge
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Close Combat (1) against Scovillain (0)...
+     Tauros (1)'s highest damaging move vs Scovillain: Stone Edge
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Stone Edge (1) against Scovillain (0)...
+     Tauros (1)'s highest damaging move vs Scovillain: Stone Edge
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *  33.3% to use Raging Bull (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   *  33.3% to use Stone Edge (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Raging Bull (target 0)
+
+[Round order] The opposing Tauros (1), Scovillain (0)
+
+[Use move] The opposing Tauros (1) used Raging Bull
+"The opposing Tauros used Raging Bull!"
+[HP change] Scovillain lost 10 HP (10 -> 0)
+"Scovillain fainted!"
+
+[End of round 13]
+Trick Room Turns: 0
+"You're in charge, Skarmory!"
+
+===== Round 14 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Tauros (1) is considering using Close Combat (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Close Combat
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *   0.0% to use Raging Bull (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Tauros (1), Skarmory (0)
+
+[Use move] The opposing Tauros (1) used Close Combat
+"The opposing Tauros used Close Combat!"
+[HP change] Skarmory lost 55 HP (58 -> 3)
+[Stat change] The opposing Tauros's Defense changed by -1 (0 -> -1)
+"The opposing Tauros's Defense fell!"
+[Stat change] The opposing Tauros's Special Defense changed by -1 (0 -> -1)
+"The opposing Tauros's Special Defense fell!"
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tauros lost 115 HP (136 -> 21)
+"It's super effective!"
+
+[End of round 14]
+[HP change] The opposing Tauros gained 8 HP (21 -> 29)
+"The opposing Tauros restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Close Combat
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Close Combat (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Close Combat
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Tauros (1)'s highest damaging move vs Skarmory: Close Combat
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *  33.3% to use Raging Bull (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   *  33.3% to use Stone Edge (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Raging Bull (target 0)
+
+[Round order] The opposing Tauros (1), Skarmory (0)
+
+"Good job, Skarmory! Come back!"
+"Your opponent's weak! Get 'em, Quagsire!"
+[Use move] The opposing Tauros (1) used Raging Bull
+"The opposing Tauros used Raging Bull!"
+[HP change] Quagsire lost 45 HP (45 -> 0)
+"Quagsire fainted!"
+
+[End of round 15]
+[HP change] The opposing Tauros gained 8 HP (29 -> 37)
+"The opposing Tauros restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+"Just a little more! Hang in there, Chimecho!"
+
+===== Round 16 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Chimecho (0)...
+     Tauros (1)'s highest damaging move vs Chimecho: Raging Bull
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Close Combat (1) against Chimecho (0)...
+     Tauros (1)'s highest damaging move vs Chimecho: Raging Bull
+[AI] Tauros (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Tauros (1)'s highest damaging move vs Chimecho: Raging Bull
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *  50.0% to use Raging Bull (target 0): score 21
+   *   0.0% to use Close Combat (target 0): score 0
+   *  50.0% to use Stone Edge (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Chimecho (0), the opposing Tauros (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Tauros lost 37 HP (37 -> 0)
+"The opposing Tauros fainted!"
+
+===== Player won =====
+
+"You defeated Battle Girl Hellen!"
+"Wow. You're great!"
+
+"You got $1,440 for winning!"
