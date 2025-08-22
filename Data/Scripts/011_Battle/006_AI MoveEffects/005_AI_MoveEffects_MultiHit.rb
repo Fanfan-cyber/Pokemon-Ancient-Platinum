@@ -118,8 +118,8 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitTwoToFiveTimes",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("HitTwoToFiveTimesOrThreeForAshGreninja",
   proc { |power, move, user, target, ai, battle|
-    if user.battler.isSpecies?(:GRENINJA) && user.battler.form == 2
-      next move.move.pbBaseDamage(power, user.battler, target.battler) * move.move.pbNumHits(user.battler, [target.battler])
+    if user.isSpecies?(:GRENINJA) && user.form == 2
+      next move.move.pbBaseDamage(power, user, target) * move.move.pbNumHits(user, [target])
     end
     next power * 5 if user.has_active_ability?(:SKILLLINK)
     next power * 31 / 10   # Average damage dealt
@@ -255,7 +255,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttack",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("TwoTurnAttackOneTurnInSun",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamageMultiplier(power, user.battler, target.battler)
+    next move.move.pbBaseDamageMultiplier(power, user, target)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttackOneTurnInSun",
@@ -497,7 +497,7 @@ Battle::AI::Handlers::MoveBasePower.add("MultiTurnAttackPowersUpEachTurn",
     #       rounds. It is nearly the average damage this move will do per round,
     #       assuming it hits for 3 rounds (hoping for hits in all 5 rounds is
     #       optimistic).
-    next move.move.pbBaseDamage(power, user.battler, target.battler) * 2
+    next move.move.pbBaseDamage(power, user, target) * 2
   }
 )
 

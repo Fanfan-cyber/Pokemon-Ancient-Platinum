@@ -113,6 +113,12 @@ module Battle::AI::Handlers
   end
 
   def self.get_base_power(function_code, power, *args)
+    if !args[1].is_a?(Battle::Battler)
+      args[1] = args[1].battler
+    end
+    if !args[2].is_a?(Battle::Battler)
+      args[2] = args[2].battler
+    end
     ret = MoveBasePower.trigger(function_code, power, *args)
     return (ret.nil?) ? power : ret
   end

@@ -276,7 +276,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("BindTarget",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("BindTargetDoublePowerIfTargetUnderwater",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbModifyDamage(power, user.battler, target.battler)
+    next move.move.pbModifyDamage(power, user, target)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.copy("BindTarget",
