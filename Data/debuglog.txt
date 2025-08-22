@@ -199580,3 +199580,1091 @@ Set up score for Musharna (0): 1
 "Wow. You're great!"
 
 "You got $1,504 for winning!"
+Roles for SCOVILLAIN: [:PHYSICALBREAKER, :SETUPSWEEPER, :WEATHERTERRAINABUSER]
+Roles for LEAVANNY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for ABOMASNOW: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for MEOWSCARADA: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Hannah!"
+"Aroma Lady Hannah sent out Scovillain!"
+"Go! Pyroar!"
+[Round order] Pyroar (0), the opposing Scovillain (1)
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Scovillain (1) is considering using Seed Bomb (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Temper Flare (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Stomping Tantrum (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Growth: score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Pyroar (0), the opposing Scovillain (1)
+
+[Use move] Pyroar (0) used Hyper Voice
+"Pyroar used Hyper Voice!"
+[HP change] The opposing Scovillain lost 81 HP (130 -> 49)
+[Use move] The opposing Scovillain (1) used Stomping Tantrum
+"The opposing Scovillain used Stomping Tantrum!"
+[HP change] Pyroar lost 73 HP (161 -> 88)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     [Switch AI] +2 Target has fast kill
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scovillain (1) is considering using Seed Bomb (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Temper Flare (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Stomping Tantrum (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Growth: score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Pyroar (0), the opposing Scovillain (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Scovillain lost 49 HP (49 -> 0)
+"The opposing Scovillain fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+==============================
+     [Leavanny] using Leaf Blade vs Pyroar does a max of 49/88 damage
+     [Leavanny] using X-Scissor vs Pyroar does a max of 44/88 damage
+     [Leavanny] using Brick Break vs Pyroar does a max of 108/88 damage
+     Pyroar (0)'s best move: Flamethrower for 306/142 damage
+==============================
+     [Leavanny] + 12: for fast kill
+     [Leavanny] final Switch score: 12
+==============================
+     [Abomasnow] using Blizzard vs Pyroar does a max of 50/88 damage
+     [Abomasnow] using Energy Ball vs Pyroar does a max of 41/88 damage
+     [Abomasnow] using Earth Power vs Pyroar does a max of 110/88 damage
+     [Abomasnow] using Hidden Power vs Pyroar does a max of 74/88 damage
+     Pyroar (0)'s best move: Flamethrower for 294/156 damage
+==============================
+     [Abomasnow] -  9: for target fast kill
+     [Abomasnow] final Switch score: -9
+==============================
+     [Meowscarada] using Flower Trick vs Pyroar does a max of 41/88 damage
+     [Meowscarada] using Night Slash vs Pyroar does a max of 54/88 damage
+     [Meowscarada] using Triple Axel vs Pyroar does a max of 31/88 damage
+     [Meowscarada] using U-turn vs Pyroar does a max of 18/88 damage
+     Pyroar (0)'s best move: Flamethrower for 168/143 damage
+==============================
+     [Meowscarada] -  7: for target slow kill
+     [Meowscarada] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (12)
+"Aroma Lady Hannah sent out Leavanny!"
+
+===== Round 3 =====
+
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+     [Switch AI] -7 We have fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Pyroar (0)...
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+[AI] Leavanny (1) is considering using X-Scissor (1) against Pyroar (0)...
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+[AI] Leavanny (1) is considering using Brick Break (1) against Pyroar (0)...
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+      + 20 for fast kill
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Leavanny (1), Pyroar (0)
+
+"Pyroar, come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Leavanny (1) used Brick Break
+"The opposing Leavanny used Brick Break!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Mismagius (0)...
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using X-Scissor (1) against Mismagius (0)...
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+[AI] Leavanny (1) is considering using Brick Break (1) against Mismagius (0)...
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leavanny (1), Mismagius (0)
+
+"Mismagius, switch out! Come back!"
+"You're in charge, Infernape!"
+[Use move] The opposing Leavanny (1) used Leaf Blade
+"The opposing Leavanny used Leaf Blade!"
+[HP change] Infernape lost 49 HP (147 -> 98)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     [Switch AI] +2 Target has fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using X-Scissor (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using Brick Break (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Brick Break (target 0)
+
+[Round order] Infernape (0), the opposing Leavanny (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Leavanny lost 141 HP (142 -> 1)
+"It's super effective!"
+"The opposing Leavanny hung on using its Focus Sash!"
+[Item consumed] The opposing Leavanny consumed its held Focus Sash
+[Use move] The opposing Leavanny (1) used Brick Break
+"The opposing Leavanny used Brick Break!"
+[HP change] Infernape lost 54 HP (98 -> 44)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     [Switch AI] -5 We have slow kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+      + 17 for slow kill
+[AI] Leavanny (1) is considering using X-Scissor (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using Brick Break (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+      + 17 for slow kill
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *  50.0% to use Leaf Blade (target 0): score 18
+   *   0.0% to use X-Scissor (target 0): score 0
+   *  50.0% to use Brick Break (target 0): score 18
+   *   0.0% to use Swords Dance: score 0
+   => will use Brick Break (target 0)
+
+[Round order] Infernape (0), the opposing Leavanny (1)
+
+[Use move] Infernape (0) used Mach Punch
+"Infernape used Mach Punch!"
+[HP change] The opposing Leavanny lost 1 HP (1 -> 0)
+"It's not very effective..."
+"The opposing Leavanny fainted!"
+"Infernape got 1 Exp. Points!"
+
+[End of round 6]
+Trick Room Turns: 0
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+==============================
+     [Abomasnow] using Blizzard vs Infernape does a max of 40/44 damage
+     [Abomasnow] using Energy Ball vs Infernape does a max of 32/44 damage
+     [Abomasnow] using Earth Power vs Infernape does a max of 86/44 damage
+     [Abomasnow] using Hidden Power vs Infernape does a max of 29/44 damage
+     Infernape (0)'s best move: Flame Wheel for 294/156 damage
+==============================
+     [Abomasnow] -  9: for target fast kill
+     [Abomasnow] final Switch score: -9
+==============================
+     [Meowscarada] using Flower Trick vs Infernape does a max of 43/44 damage
+     [Meowscarada] using Night Slash vs Infernape does a max of 29/44 damage
+     [Meowscarada] using Triple Axel vs Infernape does a max of 32/44 damage
+     [Meowscarada] using U-turn vs Infernape does a max of 10/44 damage
+     Infernape (0)'s best move: Close Combat for 207/143 damage
+==============================
+     [Meowscarada] -  7: for target slow kill
+     [Meowscarada] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Aroma Lady Hannah sent out Meowscarada!"
+
+===== Round 7 =====
+
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     + 4 to prioritize highest damaging move
+[AI] Meowscarada (1) is considering using Night Slash (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+[AI] Meowscarada (1) is considering using U-turn (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Meowscarada (1):
+   *  50.0% to use Flower Trick (target 0): score 5
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Triple Axel (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Flower Trick (target 0)
+
+[Round order] The opposing Meowscarada (1), Infernape (0)
+
+[Use move] The opposing Meowscarada (1) used Flower Trick
+"The opposing Meowscarada used Flower Trick!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Grass!"
+[HP change] Infernape lost 40 HP (44 -> 4)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Meowscarada lost 90 HP (143 -> 53)
+[Stat change] Infernape's Defense changed by -1 (0 -> -1)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (0 -> -1)
+"Infernape's Special Defense fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     [Switch AI] -7 We have fast kill
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (25)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): -2
+     Threat Score for Infernape (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using Night Slash (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using U-turn (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     + 4 for switch initiative against a bad matchup
+      + 20 for fast kill
+[AI] Move choices for Meowscarada (1):
+   *   0.0% to use Flower Trick (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Triple Axel (target 0): score 0
+   * 100.0% to use U-turn (target 0): score 25
+   => will use U-turn (target 0)
+
+[Round order] The opposing Meowscarada (1), Infernape (0)
+
+"Good job, Infernape! Come back!"
+"Just a little more! Hang in there, Skarmory!"
+[Use move] The opposing Meowscarada (1) used U-turn
+"The opposing Meowscarada used U-turn!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Bug!"
+[HP change] Skarmory lost 7 HP (140 -> 133)
+"It's not very effective..."
+"The opposing Meowscarada went back to Aroma Lady Hannah!"
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+==============================
+     [Abomasnow] using Blizzard vs Skarmory does a max of 104/133 damage
+     [Abomasnow] using Energy Ball vs Skarmory does a max of 21/133 damage
+     [Abomasnow] using Hidden Power vs Skarmory does a max of 38/133 damage
+     Skarmory (0)'s best move: Body Press for 138/156 damage
+==============================
+     [Abomasnow] - 20: for us being killed on switch in
+     [Abomasnow] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (-20)
+"Aroma Lady Hannah sent out Abomasnow!"
+[Ability triggered] The opposing Abomasnow's Snow Warning
+"It started to snow!"
+
+[End of round 8]
+"The snow is blowing about!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     move will not affect Skarmory (0)
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+Set up score for Abomasnow (1): 0
+Set up score for Abomasnow (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Abomasnow (1) is considering using Blizzard (1)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     + 4 to prioritize highest damaging move
+[AI] Abomasnow (1) is considering using Energy Ball (1) against Skarmory (0)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+[AI] Abomasnow (1) is considering using Earth Power (1) against Skarmory (0)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Abomasnow (1) is considering using Hidden Power (1) against Skarmory (0)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+[AI] Move choices for Abomasnow (1):
+   * 100.0% to use Blizzard: score 5
+   *   0.0% to use Energy Ball (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Blizzard
+
+[Round order] Skarmory (0), the opposing Abomasnow (1)
+
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Abomasnow lost 103 HP (156 -> 53)
+"It's super effective!"
+[Use move] The opposing Abomasnow (1) used Blizzard
+"The opposing Abomasnow used Blizzard!"
+[Move failed] Failed pbAccuracyCheck
+"Skarmory avoided the attack!"
+
+[End of round 9]
+"The snow is blowing about!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Roles for SCOVILLAIN: [:PHYSICALBREAKER, :SETUPSWEEPER, :WEATHERTERRAINABUSER]
+Roles for LEAVANNY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for ABOMASNOW: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for MEOWSCARADA: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Hannah!"
+"Aroma Lady Hannah sent out Scovillain!"
+"Go! Pyroar!"
+[Round order] Pyroar (0), the opposing Scovillain (1)
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Scovillain (1) is considering using Seed Bomb (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Temper Flare (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Stomping Tantrum (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Growth: score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Pyroar (0), the opposing Scovillain (1)
+
+[Use move] Pyroar (0) used Hyper Voice
+"Pyroar used Hyper Voice!"
+[HP change] The opposing Scovillain lost 86 HP (130 -> 44)
+[Use move] The opposing Scovillain (1) used Stomping Tantrum
+"The opposing Scovillain used Stomping Tantrum!"
+[HP change] Pyroar lost 70 HP (161 -> 91)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     [Switch AI] +2 Target has fast kill
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scovillain (1) is considering using Seed Bomb (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Temper Flare (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+[AI] Scovillain (1) is considering using Stomping Tantrum (1) against Pyroar (0)...
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Temper Flare (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Growth: score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Pyroar (0), the opposing Scovillain (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Scovillain lost 44 HP (44 -> 0)
+"The opposing Scovillain fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+     Scovillain (1)'s highest damaging move vs Pyroar: Stomping Tantrum
+==============================
+     [Leavanny] using Leaf Blade vs Pyroar does a max of 49/91 damage
+     [Leavanny] using X-Scissor vs Pyroar does a max of 44/91 damage
+     [Leavanny] using Brick Break vs Pyroar does a max of 108/91 damage
+     Pyroar (0)'s best move: Flamethrower for 306/142 damage
+==============================
+     [Leavanny] + 12: for fast kill
+     [Leavanny] final Switch score: 12
+==============================
+     [Abomasnow] using Blizzard vs Pyroar does a max of 50/91 damage
+     [Abomasnow] using Energy Ball vs Pyroar does a max of 41/91 damage
+     [Abomasnow] using Earth Power vs Pyroar does a max of 110/91 damage
+     [Abomasnow] using Hidden Power vs Pyroar does a max of 74/91 damage
+     Pyroar (0)'s best move: Flamethrower for 294/156 damage
+==============================
+     [Abomasnow] -  9: for target fast kill
+     [Abomasnow] final Switch score: -9
+==============================
+     [Meowscarada] using Flower Trick vs Pyroar does a max of 41/91 damage
+     [Meowscarada] using Night Slash vs Pyroar does a max of 54/91 damage
+     [Meowscarada] using Triple Axel vs Pyroar does a max of 31/91 damage
+     [Meowscarada] using U-turn vs Pyroar does a max of 18/91 damage
+     Pyroar (0)'s best move: Flamethrower for 168/143 damage
+==============================
+     [Meowscarada] -  7: for target slow kill
+     [Meowscarada] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (12)
+"Aroma Lady Hannah sent out Leavanny!"
+
+===== Round 3 =====
+
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+     [Switch AI] -7 We have fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Pyroar (0)...
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+[AI] Leavanny (1) is considering using X-Scissor (1) against Pyroar (0)...
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+[AI] Leavanny (1) is considering using Brick Break (1) against Pyroar (0)...
+     Leavanny (1)'s highest damaging move vs Pyroar: Brick Break
+      + 20 for fast kill
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Leavanny (1), Pyroar (0)
+
+"Pyroar, come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Leavanny (1) used Brick Break
+"The opposing Leavanny used Brick Break!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Mismagius (0)...
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using X-Scissor (1) against Mismagius (0)...
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+[AI] Leavanny (1) is considering using Brick Break (1) against Mismagius (0)...
+     Leavanny (1)'s highest damaging move vs Mismagius: Leaf Blade
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leavanny (1), Mismagius (0)
+
+"Mismagius, switch out! Come back!"
+"You're in charge, Infernape!"
+[Use move] The opposing Leavanny (1) used Leaf Blade
+"The opposing Leavanny used Leaf Blade!"
+[HP change] Infernape lost 46 HP (147 -> 101)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     [Switch AI] +2 Target has fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using X-Scissor (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using Brick Break (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Brick Break (target 0)
+
+[Round order] Infernape (0), the opposing Leavanny (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Leavanny lost 141 HP (142 -> 1)
+"It's super effective!"
+"The opposing Leavanny hung on using its Focus Sash!"
+[Item consumed] The opposing Leavanny consumed its held Focus Sash
+[Use move] The opposing Leavanny (1) used Brick Break
+"The opposing Leavanny used Brick Break!"
+[HP change] Infernape lost 49 HP (101 -> 52)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     [Switch AI] -5 We have slow kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using X-Scissor (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+[AI] Leavanny (1) is considering using Brick Break (1) against Infernape (0)...
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+      + 17 for slow kill
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 18
+   *   0.0% to use Swords Dance: score 0
+   => will use Brick Break (target 0)
+
+[Round order] Infernape (0), the opposing Leavanny (1)
+
+[Use move] Infernape (0) used Mach Punch
+"Infernape used Mach Punch!"
+[HP change] The opposing Leavanny lost 1 HP (1 -> 0)
+"It's not very effective..."
+"The opposing Leavanny fainted!"
+"Infernape got 1 Exp. Points!"
+
+[End of round 6]
+Trick Room Turns: 0
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+     Leavanny (1)'s highest damaging move vs Infernape: Brick Break
+==============================
+     [Abomasnow] using Blizzard vs Infernape does a max of 40/52 damage
+     [Abomasnow] using Energy Ball vs Infernape does a max of 32/52 damage
+     [Abomasnow] using Earth Power vs Infernape does a max of 86/52 damage
+     [Abomasnow] using Hidden Power vs Infernape does a max of 29/52 damage
+     Infernape (0)'s best move: Flame Wheel for 198/156 damage
+==============================
+     [Abomasnow] -  9: for target fast kill
+     [Abomasnow] final Switch score: -9
+==============================
+     [Meowscarada] using Flower Trick vs Infernape does a max of 43/52 damage
+     [Meowscarada] using Night Slash vs Infernape does a max of 29/52 damage
+     [Meowscarada] using Triple Axel vs Infernape does a max of 32/52 damage
+     [Meowscarada] using U-turn vs Infernape does a max of 10/52 damage
+     Infernape (0)'s best move: Close Combat for 207/143 damage
+==============================
+     [Meowscarada] -  7: for target slow kill
+     [Meowscarada] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Aroma Lady Hannah sent out Meowscarada!"
+
+===== Round 7 =====
+
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     + 4 to prioritize highest damaging move
+[AI] Meowscarada (1) is considering using Night Slash (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+[AI] Meowscarada (1) is considering using U-turn (1) against Infernape (0)...
+     Meowscarada (1)'s highest damaging move vs Infernape: Flower Trick
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Meowscarada (1):
+   *  50.0% to use Flower Trick (target 0): score 5
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Triple Axel (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Infernape (0), the opposing Meowscarada (1)
+
+[Use move] Infernape (0) used Mach Punch
+"Infernape used Mach Punch!"
+[HP change] The opposing Meowscarada lost 69 HP (143 -> 74)
+"It's super effective!"
+[Use move] The opposing Meowscarada (1) used U-turn
+"The opposing Meowscarada used U-turn!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Bug!"
+[HP change] Infernape lost 13 HP (52 -> 39)
+"It's not very effective..."
+"The opposing Meowscarada went back to Aroma Lady Hannah!"
+     Meowscarada (1)'s highest damaging move vs Infernape: Triple Axel
+     Meowscarada (1)'s highest damaging move vs Infernape: Triple Axel
+     Meowscarada (1)'s highest damaging move vs Infernape: Triple Axel
+     Meowscarada (1)'s highest damaging move vs Infernape: Triple Axel
+==============================
+     [Abomasnow] using Blizzard vs Infernape does a max of 40/39 damage
+     [Abomasnow] using Energy Ball vs Infernape does a max of 32/39 damage
+     [Abomasnow] using Earth Power vs Infernape does a max of 86/39 damage
+     [Abomasnow] using Hidden Power vs Infernape does a max of 29/39 damage
+     Infernape (0)'s best move: Flame Wheel for 294/156 damage
+==============================
+     [Abomasnow] - 20: for us being killed on switch in
+     [Abomasnow] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (-20)
+"Aroma Lady Hannah sent out Abomasnow!"
+[Ability triggered] The opposing Abomasnow's Snow Warning
+"It started to snow!"
+
+[End of round 7]
+"The snow is blowing about!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+     [Switch AI] -5 We have slow kill
+Set up score for Abomasnow (1): 0
+Set up score for Abomasnow (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Abomasnow (1) is considering using Blizzard (1)...
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+      + 17 for slow kill
+[AI] Abomasnow (1) is considering using Energy Ball (1) against Infernape (0)...
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+[AI] Abomasnow (1) is considering using Earth Power (1) against Infernape (0)...
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+      + 17 for slow kill
+[AI] Abomasnow (1) is considering using Hidden Power (1) against Infernape (0)...
+     Abomasnow (1)'s highest damaging move vs Infernape: Earth Power
+[AI] Move choices for Abomasnow (1):
+   *  50.0% to use Blizzard: score 18
+   *   0.0% to use Energy Ball (target 0): score 0
+   *  50.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Infernape (0), the opposing Abomasnow (1)
+
+[Use move] Infernape (0) used Flame Wheel
+"Infernape used Flame Wheel!"
+[HP change] The opposing Abomasnow lost 132 HP (156 -> 24)
+"It's super effective!"
+"The Occa Berry weakened the damage to the opposing Abomasnow!"
+[Item consumed] The opposing Abomasnow consumed its held Occa Berry
+[Use move] The opposing Abomasnow (1) used Earth Power
+"The opposing Abomasnow used Earth Power!"
+[HP change] Infernape lost 39 HP (39 -> 0)
+"It's super effective!"
+"Infernape fainted!"
+
+[End of round 8]
+"The snow is blowing about!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Skarmory!"
+
+===== Round 9 =====
+
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     move will not affect Skarmory (0)
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     [Switch AI] +2 Target has fast kill
+Set up score for Abomasnow (1): 0
+Set up score for Abomasnow (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Abomasnow (1) is considering using Blizzard (1)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     + 4 to prioritize highest damaging move
+[AI] Abomasnow (1) is considering using Energy Ball (1) against Skarmory (0)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+[AI] Abomasnow (1) is considering using Earth Power (1) against Skarmory (0)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Abomasnow (1) is considering using Hidden Power (1) against Skarmory (0)...
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+[AI] Move choices for Abomasnow (1):
+   * 100.0% to use Blizzard: score 5
+   *   0.0% to use Energy Ball (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Blizzard
+
+[Round order] Skarmory (0), the opposing Abomasnow (1)
+
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Abomasnow lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Abomasnow fainted!"
+
+[End of round 9]
+"The snow is blowing about!"
+Trick Room Turns: 0
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+     move will not affect Skarmory (0)
+     Abomasnow (1)'s highest damaging move vs Skarmory: Blizzard
+==============================
+     [Meowscarada] using Flower Trick vs Skarmory does a max of 12/140 damage
+     [Meowscarada] using Night Slash vs Skarmory does a max of 32/140 damage
+     [Meowscarada] using Triple Axel vs Skarmory does a max of 35/140 damage
+     [Meowscarada] using U-turn vs Skarmory does a max of 5/140 damage
+     Skarmory (0)'s best move: Body Press for 146/74 damage
+==============================
+     [Meowscarada] -  7: for target slow kill
+     [Meowscarada] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Aroma Lady Hannah sent out Meowscarada!"
+
+===== Round 10 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Skarmory (0)...
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+[AI] Meowscarada (1) is considering using Night Slash (1) against Skarmory (0)...
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Skarmory (0)...
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+     + 4 to prioritize highest damaging move
+[AI] Meowscarada (1) is considering using U-turn (1) against Skarmory (0)...
+     Meowscarada (1)'s highest damaging move vs Skarmory: Triple Axel
+[AI] Move choices for Meowscarada (1):
+   *   0.0% to use Flower Trick (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 5
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Skarmory (0)
+
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Ice!"
+[HP change] Skarmory lost 9 HP (140 -> 131)
+[HP change] Skarmory lost 18 HP (131 -> 113)
+[HP change] Skarmory lost 23 HP (113 -> 90)
+"Hit 3 times!"
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Meowscarada lost 74 HP (74 -> 0)
+"It's super effective!"
+"The opposing Meowscarada fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Hannah!"
+"Wow. You're great!"
+
+"You got $1,504 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sunkern appeared!"
+"Go! Pyroar!"
+[Round order] Pyroar (0), the wild Sunkern (1)
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Sunkern (1) is considering using Razor Leaf (1)...
+     Sunkern (1)'s highest damaging move vs Pyroar: Endeavor
+[AI] Sunkern (1) is considering using Worry Seed (4) against Pyroar (0)...
+     Sunkern (1)'s highest damaging move vs Pyroar: Endeavor
+[AI] Sunkern (1) is considering using Giga Drain (1) against Pyroar (0)...
+     Sunkern (1)'s highest damaging move vs Pyroar: Endeavor
+[AI] Sunkern (1) is considering using Endeavor (1) against Pyroar (0)...
+     Sunkern (1)'s highest damaging move vs Pyroar: Endeavor
+[AI] Move choices for Sunkern (1):
+   *   0.0% to use Razor Leaf: score 0
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Worry Seed (target 0): score 4
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Endeavor (target 0): score 0
+   => will use Worry Seed (target 0)
+
+[Round order] Pyroar (0), the wild Sunkern (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Sunkern was caught!"
+
+===== Pokémon caught =====
+
+"Sunkern's data was added to the Pokédex."
+"Where do you want to send Sunkern to?"
+"Where do you want to send Sunkern to?"
+"Sunkern has been sent to Box "Box 1"!"
