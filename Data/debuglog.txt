@@ -207289,3 +207289,3071 @@ Set up score for Skarmory (0): 0
 "Wow. You're great!"
 
 "You got $1,536 for winning!"
+Roles for GOTHITELLE: [:SUPPORT, :SPEEDCONTROL]
+Roles for FLORGES: [:SPECIALBREAKER, :TANK]
+Roles for DURALUDON: [:SPECIALBREAKER]
+Roles for SCRAFTY: [:PHYSICALBREAKER]
+Roles for GENGAR: [:SPECIALBREAKER]
+Roles for BAXCALIBUR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Gentleman Jeremy and Socialite Reina!"
+"Gentleman Jeremy sent out Scrafty!
+Socialite Reina sent out Gothitelle!"
+"Go! Gardevoir and Obstagoon!"
+[Round order] Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1), Obstagoon (2)
+[Ability triggered] The opposing Scrafty's Intimidate
+[Stat change] Gardevoir's Attack changed by -1 (0 -> -1)
+"Gardevoir's Attack fell!"
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Gardevoir (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Scrafty (1) is considering using Fake Out (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Fake Out (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + 18 for using turn 1
+     + -3 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -3 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   * 100.0% to use Fake Out (target 0): score 33
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Fake Out (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     + 1 to make equal to highest damaging move
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 4 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Psychic (target 2): score 0
+   * 100.0% to use Dazzling Gleam: score 13
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Dazzling Gleam
+
+[Round order] Obstagoon (2), the opposing Scrafty (1), Gardevoir (0), the opposing Gothitelle (3)
+
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Scrafty (1) used Fake Out
+"The opposing Scrafty used Fake Out!"
+[HP change] Gardevoir lost 23 HP (135 -> 112)
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir flinched and couldn't move!"
+[Use move] The opposing Gothitelle (3) used Dazzling Gleam
+"The opposing Gothitelle used Dazzling Gleam!"
+"Obstagoon protected itself!"
+[HP change] Gardevoir lost 19 HP (112 -> 93)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Roles for GOTHITELLE: [:SUPPORT, :SPEEDCONTROL]
+Roles for FLORGES: [:SPECIALBREAKER, :TANK]
+Roles for DURALUDON: [:SPECIALBREAKER]
+Roles for SCRAFTY: [:PHYSICALBREAKER]
+Roles for GENGAR: [:SPECIALBREAKER]
+Roles for BAXCALIBUR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Gentleman Jeremy and Socialite Reina!"
+"Gentleman Jeremy sent out Scrafty!
+Socialite Reina sent out Gothitelle!"
+"Go! Gardevoir and Obstagoon!"
+[Round order] Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+[Ability triggered] The opposing Scrafty's Intimidate
+[Stat change] Gardevoir's Attack changed by -1 (0 -> -1)
+"Gardevoir's Attack fell!"
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Gardevoir (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Scrafty (1) is considering using Fake Out (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Fake Out (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + 18 for using turn 1
+     + -2 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   * 100.0% to use Fake Out (target 0): score 33
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Fake Out (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     + 1 to make equal to highest damaging move
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 1 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Psychic (target 2): score 0
+   * 100.0% to use Dazzling Gleam: score 7
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Scrafty (1), Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3)
+
+[Use move] The opposing Scrafty (1) used Fake Out
+"The opposing Scrafty used Fake Out!"
+[HP change] Gardevoir lost 25 HP (135 -> 110)
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 45 HP (140 -> 95)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Gothitelle!"
+[Item consumed] The opposing Gothitelle consumed its held Colbur Berry
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir flinched and couldn't move!"
+[Use move] The opposing Gothitelle (3) used Dazzling Gleam
+"The opposing Gothitelle used Dazzling Gleam!"
+[HP change] Gardevoir lost 19 HP (110 -> 91)
+[HP change] Obstagoon lost 70 HP (160 -> 90)
+"It's super effective!"
+
+[End of round 1]
+[HP change] Obstagoon lost 10 HP (90 -> 80)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scrafty (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out: score 0
+   *  38.5% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  61.5% to use Drain Punch (target 2): score 16
+   *   0.0% to use Rock Slide: score 0
+   => will use Crunch (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 4 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 9
+   *   0.0% to use Psychic (target 2): score 0
+   *  50.0% to use Dazzling Gleam: score 9
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Dazzling Gleam
+
+[Round order] Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 85 HP (95 -> 10)
+"It's super effective!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Scrafty lost 135 HP (135 -> 0)
+"It's super effective!"
+"The opposing Scrafty fainted!"
+[Use move] The opposing Gothitelle (3) used Dazzling Gleam
+"The opposing Gothitelle used Dazzling Gleam!"
+[HP change] Gardevoir lost 19 HP (91 -> 72)
+[HP change] Obstagoon lost 73 HP (80 -> 7)
+"It's super effective!"
+
+[End of round 2]
+[HP change] Obstagoon lost 7 HP (7 -> 0)
+"Obstagoon was hurt by its burn!"
+"Obstagoon fainted!"
+Trick Room Turns: 0
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/72 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/72 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 35/72 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+     [Gengar] final Switch score: 12
+==============================
+     [Baxcalibur] using Icicle Crash vs Gardevoir does a max of 105/72 damage
+     [Baxcalibur] using Stomping Tantrum vs Gardevoir does a max of 62/72 damage
+     Gardevoir (0)'s best move: Moonblast for 183/186 damage
+==============================
+     [Baxcalibur] + 12: for fast kill
+     [Baxcalibur] final Switch score: 12
+[AI] Highest move score (33) vs Switch In Score (12)
+"Gentleman Jeremy sent out Baxcalibur!"
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 3 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Gardevoir (0)...
+     Baxcalibur (1)'s highest damaging move vs Gardevoir: Icicle Crash
+      + 20 for fast kill
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Hitmonchan (2)...
+     Baxcalibur (1)'s highest damaging move vs Hitmonchan: Glaive Rush
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Gardevoir (0)...
+     Baxcalibur (1)'s highest damaging move vs Gardevoir: Icicle Crash
+     move will not affect Gardevoir (0)
+     -  1: move will fail
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Hitmonchan (2)...
+     Baxcalibur (1)'s highest damaging move vs Hitmonchan: Glaive Rush
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Gardevoir (0)...
+     Baxcalibur (1)'s highest damaging move vs Gardevoir: Icicle Crash
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Hitmonchan (2)...
+     Baxcalibur (1)'s highest damaging move vs Hitmonchan: Glaive Rush
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   * 100.0% to use Icicle Crash (target 0): score 21
+   *   0.0% to use Icicle Crash (target 2): score 0
+   *   0.0% to use Glaive Rush (target 0): score 0
+   *   0.0% to use Glaive Rush (target 2): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *   0.0% to use Protect: score 0
+   => will use Icicle Crash (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Baxcalibur (1)...
+     Gothitelle (3)'s highest damaging move vs Baxcalibur: Psychic
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Hitmonchan (2)...
+     Gothitelle (3)'s highest damaging move vs Hitmonchan: Psychic
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 5 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Hitmonchan: Psychic
+     + 5 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 5 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Hitmonchan (2)...
+     Gothitelle (3)'s highest damaging move vs Hitmonchan: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 5 to factor in threat scoring.
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 10
+   *  50.0% to use Psychic (target 2): score 10
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 2)
+
+[Round order] Hitmonchan (2), the opposing Baxcalibur (1), Gardevoir (0), the opposing Gothitelle (3)
+
+[Use move] Hitmonchan (2) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Baxcalibur lost 21 HP (186 -> 165)
+[Use move] The opposing Baxcalibur (1) used Icicle Crash
+"The opposing Baxcalibur flinched and couldn't move!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Baxcalibur lost 165 HP (165 -> 0)
+"It's super effective!"
+"The opposing Baxcalibur fainted!"
+[Use move] The opposing Gothitelle (3) used Psychic
+"The opposing Gothitelle used Psychic!"
+[HP change] Hitmonchan lost 104 HP (123 -> 19)
+"It's super effective!"
+[Stat change] Hitmonchan's Special Defense changed by -1 (0 -> -1)
+"Hitmonchan's Special Defense fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Gardevoir (0)
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/72 damage
+     [Gengar] using Shadow Ball vs Hitmonchan does a max of 93/19 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/72 damage
+     [Gengar] using Sludge Bomb vs Hitmonchan does a max of 105/19 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 26/72 damage
+     [Gengar] using Dazzling Gleam vs Hitmonchan does a max of 93/19 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/72 damage
+     [Gengar] using Shadow Ball vs Hitmonchan does a max of 93/19 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/72 damage
+     [Gengar] using Sludge Bomb vs Hitmonchan does a max of 105/19 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 26/72 damage
+     [Gengar] using Dazzling Gleam vs Hitmonchan does a max of 93/19 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================     Hitmonchan (2)'s best move: Ice Punch for 55/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+     [Gengar] final Switch score: 24
+[AI] Highest move score (18) vs Switch In Score (24)
+"Gentleman Jeremy sent out Gengar!"
+
+===== Round 4 =====
+
+Roles for GOTHITELLE: [:SUPPORT, :SPEEDCONTROL]
+Roles for FLORGES: [:SPECIALBREAKER, :TANK]
+Roles for DURALUDON: [:SPECIALBREAKER]
+Roles for SCRAFTY: [:PHYSICALBREAKER]
+Roles for GENGAR: [:SPECIALBREAKER]
+Roles for BAXCALIBUR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Gentleman Jeremy and Socialite Reina!"
+"Gentleman Jeremy sent out Scrafty!
+Socialite Reina sent out Gothitelle!"
+"Go! Gardevoir and Obstagoon!"
+[Round order] Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+[Ability triggered] The opposing Scrafty's Intimidate
+[Stat change] Gardevoir's Attack changed by -1 (0 -> -1)
+"Gardevoir's Attack fell!"
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Gardevoir (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Scrafty (1) is considering using Fake Out (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Fake Out (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + 18 for using turn 1
+     + -2 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   * 100.0% to use Fake Out (target 0): score 33
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Fake Out (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     + 1 to make equal to highest damaging move
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 4 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 9
+   *   0.0% to use Psychic (target 2): score 0
+   *  50.0% to use Dazzling Gleam: score 9
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Scrafty (1), Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3)
+
+[Use move] The opposing Scrafty (1) used Fake Out
+"The opposing Scrafty used Fake Out!"
+[HP change] Gardevoir lost 23 HP (135 -> 112)
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 44 HP (140 -> 96)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Gothitelle!"
+[Item consumed] The opposing Gothitelle consumed its held Colbur Berry
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir flinched and couldn't move!"
+[Use move] The opposing Gothitelle (3) used Psychic
+"The opposing Gothitelle used Psychic!"
+[HP change] Gardevoir lost 25 HP (112 -> 87)
+"It's not very effective..."
+
+[End of round 1]
+[HP change] Obstagoon lost 10 HP (160 -> 150)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scrafty (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out: score 0
+   *  38.5% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  61.5% to use Drain Punch (target 2): score 16
+   *   0.0% to use Rock Slide: score 0
+   => will use Drain Punch (target 2)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 4 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 9
+   *   0.0% to use Psychic (target 2): score 0
+   *  50.0% to use Dazzling Gleam: score 9
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 0)
+
+[Round order] Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 94 HP (96 -> 2)
+"It's super effective!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Scrafty lost 135 HP (135 -> 0)
+"It's super effective!"
+"The opposing Scrafty fainted!"
+[Use move] The opposing Gothitelle (3) used Psychic
+"The opposing Gothitelle used Psychic!"
+[HP change] Gardevoir lost 24 HP (87 -> 63)
+"It's not very effective..."
+
+[End of round 2]
+[HP change] Obstagoon lost 10 HP (150 -> 140)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/63 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/63 damage
+     [Gengar] using Sludge Bomb vs Obstagoon does a max of 107/140 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 26/63 damage
+     [Gengar] using Dazzling Gleam vs Obstagoon does a max of 95/140 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/63 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/63 damage
+     [Gengar] using Sludge Bomb vs Obstagoon does a max of 107/140 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 26/63 damage
+     [Gengar] using Dazzling Gleam vs Obstagoon does a max of 95/140 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================     Obstagoon (2)'s best move: Sucker Punch for 135/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+     [Gengar] final Switch score: 24
+==============================
+     [Baxcalibur] using Icicle Crash vs Gardevoir does a max of 105/63 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 77/140 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 107/140 damage
+     [Baxcalibur] using Stomping Tantrum vs Gardevoir does a max of 62/63 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 45/140 damage
+     Gardevoir (0)'s best move: Moonblast for 183/186 damage
+==============================
+     [Baxcalibur] + 12: for fast kill
+==============================
+     [Baxcalibur] using Icicle Crash vs Gardevoir does a max of 105/63 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 77/140 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 107/140 damage
+     [Baxcalibur] using Stomping Tantrum vs Gardevoir does a max of 62/63 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 45/140 damage
+     Gardevoir (0)'s best move: Moonblast for 183/186 damage
+==============================     Obstagoon (2)'s best move: Sucker Punch for 50/186 damage
+==============================
+     [Baxcalibur] +  9: for slow kill
+     [Baxcalibur] final Switch score: 21
+[AI] Highest move score (33) vs Switch In Score (24)
+"Gentleman Jeremy sent out Gengar!"
+
+===== Round 3 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gengar (1) is considering using Shadow Ball (1) against Gardevoir (0)...
+     Gengar (1)'s highest damaging move vs Gardevoir: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Gardevoir (0)...
+     Gengar (1)'s highest damaging move vs Gardevoir: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Gengar (1) is considering using Dazzling Gleam (1)...
+     Gengar (1)'s highest damaging move vs Gardevoir: Sludge Bomb
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     +  2: affects multiple battlers
+[AI] Gengar (1) is considering using Destiny Bond (4)...
+[AI] Move choices for Gengar (1):
+   *  50.0% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *  50.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Sludge Bomb (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Destiny Bond: score 0
+   => will use Shadow Ball (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Gengar (1)...
+     Gothitelle (3)'s highest damaging move vs Gengar: Psychic
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+     - 0 because we see kill or target sees 2HKO
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 5 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 5 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 10
+   *   0.0% to use Psychic (target 2): score 0
+   *  50.0% to use Dazzling Gleam: score 10
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 0)
+
+[Round order] Obstagoon (2), the opposing Gengar (1), Gardevoir (0), the opposing Gothitelle (3)
+
+[Use move] Obstagoon (2) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gengar lost 131 HP (132 -> 1)
+"It's super effective!"
+[Use move] The opposing Gengar (1) used Shadow Ball
+"The opposing Gengar used Shadow Ball!"
+[HP change] Gardevoir lost 63 HP (63 -> 0)
+"It's super effective!"
+"Gardevoir fainted!"
+[Use move] The opposing Gothitelle (3) used Psychic
+"The opposing Gothitelle used Psychic!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 3]
+[HP change] Obstagoon lost 10 HP (140 -> 130)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+Roles for GOTHITELLE: [:SUPPORT, :SPEEDCONTROL]
+Roles for FLORGES: [:SPECIALBREAKER, :TANK]
+Roles for DURALUDON: [:SPECIALBREAKER]
+Roles for SCRAFTY: [:PHYSICALBREAKER]
+Roles for GENGAR: [:SPECIALBREAKER]
+Roles for BAXCALIBUR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Gentleman Jeremy and Socialite Reina!"
+"Gentleman Jeremy sent out Scrafty!
+Socialite Reina sent out Gothitelle!"
+"Go! Gardevoir and Obstagoon!"
+[Round order] Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+[Ability triggered] The opposing Scrafty's Intimidate
+[Stat change] Gardevoir's Attack changed by -1 (0 -> -1)
+"Gardevoir's Attack fell!"
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Gardevoir (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Scrafty (1) is considering using Fake Out (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Fake Out (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + 18 for using turn 1
+     + -2 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   * 100.0% to use Fake Out (target 0): score 33
+   *   0.0% to use Fake Out (target 2): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Fake Out (target 0)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     + 1 to make equal to highest damaging move
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 4 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 4 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 9
+   *   0.0% to use Psychic (target 2): score 0
+   *  50.0% to use Dazzling Gleam: score 9
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Scrafty (1), Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3)
+
+[Use move] The opposing Scrafty (1) used Fake Out
+"The opposing Scrafty used Fake Out!"
+[HP change] Gardevoir lost 25 HP (135 -> 110)
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 98 HP (140 -> 42)
+"A critical hit!"
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Gothitelle!"
+[Item consumed] The opposing Gothitelle consumed its held Colbur Berry
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir flinched and couldn't move!"
+[Use move] The opposing Gothitelle (3) used Dazzling Gleam
+"The opposing Gothitelle used Dazzling Gleam!"
+[HP change] Gardevoir lost 20 HP (110 -> 90)
+[HP change] Obstagoon lost 80 HP (160 -> 80)
+"It's super effective!"
+[HP change] Obstagoon gained 40 HP (80 -> 120)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 1]
+[HP change] Obstagoon lost 10 HP (120 -> 110)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scrafty (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Scrafty (1) is considering using Crunch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Gardevoir (0)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Gardevoir: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out: score 0
+   *  38.5% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  61.5% to use Drain Punch (target 2): score 16
+   *   0.0% to use Rock Slide: score 0
+   => will use Drain Punch (target 2)
+
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 5 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Gardevoir (0)...
+     Gothitelle (3)'s highest damaging move vs Gardevoir: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 5 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   *  50.0% to use Psychic (target 0): score 10
+   *   0.0% to use Psychic (target 2): score 0
+   *  50.0% to use Dazzling Gleam: score 10
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 0)
+
+[Round order] Obstagoon (2), Gardevoir (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 42 HP (42 -> 0)
+"It's super effective!"
+"The opposing Gothitelle fainted!"
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Scrafty lost 135 HP (135 -> 0)
+"It's super effective!"
+"The opposing Scrafty fainted!"
+
+[End of round 2]
+[HP change] Obstagoon lost 10 HP (110 -> 100)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/90 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/90 damage
+     [Gengar] using Sludge Bomb vs Obstagoon does a max of 107/100 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 26/90 damage
+     [Gengar] using Dazzling Gleam vs Obstagoon does a max of 95/100 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+==============================
+     [Gengar] using Shadow Ball vs Gardevoir does a max of 105/90 damage
+     [Gengar] using Sludge Bomb vs Gardevoir does a max of 120/90 damage
+     [Gengar] using Sludge Bomb vs Obstagoon does a max of 107/100 damage
+     [Gengar] using Dazzling Gleam vs Gardevoir does a max of 26/90 damage
+     [Gengar] using Dazzling Gleam vs Obstagoon does a max of 95/100 damage
+     Gardevoir (0)'s best move: Psychic for 192/132 damage
+==============================     Obstagoon (2)'s best move: Sucker Punch for 135/132 damage
+==============================
+     [Gengar] + 12: for fast kill
+     [Gengar] final Switch score: 24
+==============================
+     [Baxcalibur] using Icicle Crash vs Gardevoir does a max of 105/90 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 77/100 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 107/100 damage
+     [Baxcalibur] using Stomping Tantrum vs Gardevoir does a max of 62/90 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 45/100 damage
+     Gardevoir (0)'s best move: Moonblast for 183/186 damage
+==============================
+     [Baxcalibur] + 12: for fast kill
+==============================
+     [Baxcalibur] using Icicle Crash vs Gardevoir does a max of 105/90 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 77/100 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 107/100 damage
+     [Baxcalibur] using Stomping Tantrum vs Gardevoir does a max of 62/90 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 45/100 damage
+     Gardevoir (0)'s best move: Moonblast for 183/186 damage
+==============================     Obstagoon (2)'s best move: Sucker Punch for 50/186 damage
+==============================
+     [Baxcalibur] +  9: for slow kill
+     [Baxcalibur] final Switch score: 21
+[AI] Highest move score (33) vs Switch In Score (24)
+"Gentleman Jeremy sent out Gengar!"
+     move will not affect Obstagoon (2)
+     move will not affect Obstagoon (2)
+==============================
+     [Florges] using Dazzling Gleam vs Gardevoir does a max of 60/90 damage
+     [Florges] using Dazzling Gleam vs Obstagoon does a max of 218/100 damage
+     [Florges] using Psychic Noise vs Gardevoir does a max of 19/90 damage
+     [Florges] using Chilling Water vs Gardevoir does a max of 26/90 damage
+     [Florges] using Chilling Water vs Obstagoon does a max of 46/100 damage
+     Gardevoir (0)'s best move: Moonblast for 56/150 damage
+==============================
+     [Florges] + 12: for fast kill
+==============================
+     [Florges] using Dazzling Gleam vs Gardevoir does a max of 60/90 damage
+     [Florges] using Dazzling Gleam vs Obstagoon does a max of 218/100 damage
+     [Florges] using Psychic Noise vs Gardevoir does a max of 19/90 damage
+     [Florges] using Chilling Water vs Gardevoir does a max of 26/90 damage
+     [Florges] using Chilling Water vs Obstagoon does a max of 46/100 damage
+     Gardevoir (0)'s best move: Moonblast for 56/150 damage
+==============================     Obstagoon (2)'s best move: Headbutt for 62/150 damage
+==============================
+     [Florges] +  9: for slow kill
+     [Florges] final Switch score: 21
+==============================
+     [Duraludon] using Flash Cannon vs Gardevoir does a max of 99/90 damage
+     [Duraludon] using Flash Cannon vs Obstagoon does a max of 89/100 damage
+     [Duraludon] using Dragon Pulse vs Obstagoon does a max of 141/100 damage
+     [Duraludon] using Dark Pulse vs Gardevoir does a max of 49/90 damage
+     [Duraludon] using Dark Pulse vs Obstagoon does a max of 44/100 damage
+     [Duraludon] using Aura Sphere vs Gardevoir does a max of 12/90 damage
+     [Duraludon] using Aura Sphere vs Obstagoon does a max of 352/100 damage
+     Gardevoir (0)'s best move: Moonblast for 137/142 damage
+==============================
+     [Duraludon] + 12: for fast kill
+==============================
+     [Duraludon] using Flash Cannon vs Gardevoir does a max of 99/90 damage
+     [Duraludon] using Flash Cannon vs Obstagoon does a max of 89/100 damage
+     [Duraludon] using Dragon Pulse vs Obstagoon does a max of 141/100 damage
+     [Duraludon] using Dark Pulse vs Gardevoir does a max of 49/90 damage
+     [Duraludon] using Dark Pulse vs Obstagoon does a max of 44/100 damage
+     [Duraludon] using Aura Sphere vs Gardevoir does a max of 12/90 damage
+     [Duraludon] using Aura Sphere vs Obstagoon does a max of 352/100 damage
+     Gardevoir (0)'s best move: Moonblast for 137/142 damage
+==============================     Obstagoon (2)'s best move: Sucker Punch for 41/142 damage
+==============================
+     [Duraludon] +  9: for slow kill
+     [Duraludon] final Switch score: 21
+[AI] Highest move score (10) vs Switch In Score (21)
+"Socialite Reina sent out Duraludon!"
+
+===== Round 3 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gengar (1) is considering using Shadow Ball (1) against Gardevoir (0)...
+     Gengar (1)'s highest damaging move vs Gardevoir: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Gardevoir (0)...
+     Gengar (1)'s highest damaging move vs Gardevoir: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Gengar (1) is considering using Dazzling Gleam (1)...
+     Gengar (1)'s highest damaging move vs Gardevoir: Sludge Bomb
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     +  2: affects multiple battlers
+[AI] Gengar (1) is considering using Destiny Bond (4)...
+[AI] Move choices for Gengar (1):
+   *  50.0% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *  50.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Sludge Bomb (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Destiny Bond: score 0
+   => will use Sludge Bomb (target 0)
+
+     move will not affect Gardevoir (0)
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): -4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Gardevoir (0)...
+     Duraludon (3)'s highest damaging move vs Gardevoir: Flash Cannon
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Gardevoir (0)...
+     Duraludon (3)'s highest damaging move vs Gardevoir: Flash Cannon
+     move will not affect Gardevoir (0)
+     -  1: move will fail
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Gardevoir (0)...
+     Duraludon (3)'s highest damaging move vs Gardevoir: Flash Cannon
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Gardevoir (0)...
+     Duraludon (3)'s highest damaging move vs Gardevoir: Flash Cannon
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Move choices for Duraludon (3):
+   * 100.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Obstagoon (2), the opposing Gengar (1), the opposing Duraludon (3), Gardevoir (0)
+
+"Gardevoir, come back!"
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] Obstagoon (2) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gengar lost 122 HP (132 -> 10)
+"It's super effective!"
+[Use move] The opposing Gengar (1) used Sludge Bomb
+"The opposing Gengar used Sludge Bomb!"
+[HP change] Hitmonchan lost 66 HP (123 -> 57)
+[Use move] The opposing Duraludon (3) used Flash Cannon
+"The opposing Duraludon used Flash Cannon!"
+[HP change] Hitmonchan lost 53 HP (57 -> 4)
+
+[End of round 3]
+[HP change] Obstagoon lost 10 HP (100 -> 90)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Obstagoon (2)
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gengar (1) is considering using Shadow Ball (1) against Hitmonchan (0)...
+     Gengar (1)'s highest damaging move vs Hitmonchan: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Hitmonchan (0)...
+     Gengar (1)'s highest damaging move vs Hitmonchan: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Dazzling Gleam (1)...
+     Gengar (1)'s highest damaging move vs Hitmonchan: Sludge Bomb
+      + 20 for fast kill
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     +  2: affects multiple battlers
+[AI] Gengar (1) is considering using Destiny Bond (4)...
+[AI] Move choices for Gengar (1):
+   *  33.3% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *  33.3% to use Sludge Bomb (target 0): score 21
+   *  33.3% to use Sludge Bomb (target 2): score 21
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Destiny Bond: score 0
+   => will use Sludge Bomb (target 2)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Move choices for Duraludon (3):
+   *  25.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *  25.0% to use Dragon Pulse (target 0): score 21
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *  25.0% to use Dark Pulse (target 0): score 21
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *  25.0% to use Aura Sphere (target 0): score 21
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Dark Pulse (target 0)
+
+[Round order] Hitmonchan (0), Obstagoon (2), the opposing Gengar (1), the opposing Duraludon (3)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Duraludon lost 8 HP (142 -> 134)
+"It's not very effective..."
+[Use move] Obstagoon (2) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gengar lost 10 HP (10 -> 0)
+"It's super effective!"
+"The opposing Gengar fainted!"
+[Use move] The opposing Duraludon (3) used Dark Pulse
+"The opposing Duraludon flinched and couldn't move!"
+
+[End of round 4]
+[HP change] Obstagoon lost 10 HP (90 -> 80)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (2)
+==============================
+     [Baxcalibur] using Icicle Crash vs Hitmonchan does a max of 99/4 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 77/80 damage
+     [Baxcalibur] using Glaive Rush vs Hitmonchan does a max of 138/4 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 107/80 damage
+     [Baxcalibur] using Stomping Tantrum vs Hitmonchan does a max of 58/4 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 45/80 damage
+     Hitmonchan (0)'s best move: Close Combat for 225/186 damage
+==============================
+     [Baxcalibur] + 12: for fast kill
+==============================
+     [Baxcalibur] using Icicle Crash vs Hitmonchan does a max of 99/4 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 77/80 damage
+     [Baxcalibur] using Glaive Rush vs Hitmonchan does a max of 138/4 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 107/80 damage
+     [Baxcalibur] using Stomping Tantrum vs Hitmonchan does a max of 58/4 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 45/80 damage
+     Hitmonchan (0)'s best move: Close Combat for 225/186 damage
+==============================     Obstagoon (2)'s best move: Sucker Punch for 50/186 damage
+==============================
+     [Baxcalibur] +  9: for slow kill
+     [Baxcalibur] final Switch score: 21
+[AI] Highest move score (20) vs Switch In Score (21)
+"Gentleman Jeremy sent out Baxcalibur!"
+
+===== Round 5 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Hitmonchan (0)...
+     Baxcalibur (1)'s highest damaging move vs Hitmonchan: Glaive Rush
+      + 20 for fast kill
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Hitmonchan (0)...
+     Baxcalibur (1)'s highest damaging move vs Hitmonchan: Glaive Rush
+      + 20 for fast kill
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Hitmonchan (0)...
+     Baxcalibur (1)'s highest damaging move vs Hitmonchan: Glaive Rush
+      + 20 for fast kill
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   *  33.3% to use Icicle Crash (target 0): score 21
+   *   0.0% to use Icicle Crash (target 2): score 0
+   *  33.3% to use Glaive Rush (target 0): score 21
+   *   0.0% to use Glaive Rush (target 2): score 0
+   *  33.3% to use Stomping Tantrum (target 0): score 21
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *   0.0% to use Protect: score 0
+   => will use Glaive Rush (target 0)
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Hitmonchan (0)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Move choices for Duraludon (3):
+   *  25.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *  25.0% to use Dragon Pulse (target 0): score 21
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *  25.0% to use Dark Pulse (target 0): score 21
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *  25.0% to use Aura Sphere (target 0): score 21
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Dark Pulse (target 0)
+
+[Round order] Obstagoon (2), the opposing Baxcalibur (1), the opposing Duraludon (3), Hitmonchan (0)
+
+"Good job, Hitmonchan! Come back!"
+"Go for it, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Glaive Rush!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Baxcalibur (1) used Glaive Rush
+"The opposing Baxcalibur used Glaive Rush!"
+[Target immune] Musharna's type immunity
+"It doesn't affect Musharna..."
+[Use move] The opposing Duraludon (3) used Dark Pulse
+"The opposing Duraludon used Dark Pulse!"
+[HP change] Musharna lost 67 HP (182 -> 115)
+
+[End of round 5]
+[HP change] Obstagoon lost 10 HP (80 -> 70)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Musharna (0)...
+     Baxcalibur (1)'s highest damaging move vs Musharna: Stomping Tantrum
+     + 0 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Musharna (0)...
+     Baxcalibur (1)'s highest damaging move vs Musharna: Stomping Tantrum
+     move will not affect Musharna (0)
+     -  1: move will fail
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Musharna (0)...
+     Baxcalibur (1)'s highest damaging move vs Musharna: Stomping Tantrum
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   *   3.0% to use Icicle Crash (target 0): score 1
+   *   0.0% to use Icicle Crash (target 2): score 0
+   *   0.0% to use Glaive Rush (target 0): score 0
+   *  48.5% to use Glaive Rush (target 2): score 16
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *  48.5% to use Stomping Tantrum (target 2): score 16
+   *   0.0% to use Protect: score 0
+   => will use Stomping Tantrum (target 2)
+
+     move will not affect Musharna (0)
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Musharna (0)...
+     Duraludon (3)'s highest damaging move vs Musharna: Flash Cannon
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Musharna (0)...
+     Duraludon (3)'s highest damaging move vs Musharna: Flash Cannon
+     move will not affect Musharna (0)
+     -  1: move will fail
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Musharna (0)...
+     Duraludon (3)'s highest damaging move vs Musharna: Flash Cannon
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Musharna (0)...
+     Duraludon (3)'s highest damaging move vs Musharna: Flash Cannon
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 17 for slow kill
+[AI] Move choices for Duraludon (3):
+   * 100.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Obstagoon (2), the opposing Baxcalibur (1), the opposing Duraludon (3), Musharna (0)
+
+[Use move] Obstagoon (2) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Baxcalibur lost 49 HP (186 -> 137)
+[Use move] The opposing Baxcalibur (1) used Stomping Tantrum
+"The opposing Baxcalibur used Stomping Tantrum!"
+[HP change] Obstagoon lost 70 HP (70 -> 0)
+"Obstagoon fainted!"
+[Use move] The opposing Duraludon (3) used Flash Cannon
+"The opposing Duraludon used Flash Cannon!"
+[HP change] Musharna lost 115 HP (115 -> 0)
+"It's super effective!"
+"Musharna fainted!"
+
+[End of round 6]
+[HP change] The opposing Baxcalibur gained 11 HP (137 -> 148)
+"The opposing Baxcalibur restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+"Go for it, Skarmory!"
+"Go for it, Infernape!"
+
+===== Round 7 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Infernape (2): 0
+     Threat Score for Infernape (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Skarmory (0)...
+     Baxcalibur (1)'s highest damaging move vs Skarmory: Icicle Crash
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Infernape (2)...
+     Baxcalibur (1)'s highest damaging move vs Infernape: Glaive Rush
+     + 3 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Skarmory (0)...
+     Baxcalibur (1)'s highest damaging move vs Skarmory: Icicle Crash
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Infernape (2)...
+     Baxcalibur (1)'s highest damaging move vs Infernape: Glaive Rush
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Skarmory (0)...
+     Baxcalibur (1)'s highest damaging move vs Skarmory: Icicle Crash
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Infernape (2)...
+     Baxcalibur (1)'s highest damaging move vs Infernape: Glaive Rush
+     + 3 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   *   0.0% to use Icicle Crash (target 0): score 0
+   *   0.0% to use Icicle Crash (target 2): score 0
+   *   0.0% to use Glaive Rush (target 0): score 0
+   *  42.1% to use Glaive Rush (target 2): score 8
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *  57.9% to use Protect: score 11
+   => will use Glaive Rush (target 2)
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Infernape (2): 0
+     Threat Score for Infernape (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Infernape (2)...
+     Duraludon (3)'s highest damaging move vs Infernape: Dragon Pulse
+     + 4 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Infernape (2)...
+     Duraludon (3)'s highest damaging move vs Infernape: Dragon Pulse
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Infernape (2)...
+     Duraludon (3)'s highest damaging move vs Infernape: Dragon Pulse
+     + 4 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Infernape (2)...
+     Duraludon (3)'s highest damaging move vs Infernape: Dragon Pulse
+     + 4 to factor in threat scoring.
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 2): score 9
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Dragon Pulse (target 2)
+
+[Round order] Infernape (2), the opposing Baxcalibur (1), the opposing Duraludon (3), Skarmory (0)
+
+[Use move] Infernape (2) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Baxcalibur lost 148 HP (148 -> 0)
+"It's super effective!"
+[Stat change] Infernape's Defense changed by -1 (0 -> -1)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (0 -> -1)
+"Infernape's Special Defense fell!"
+"The opposing Baxcalibur fainted!"
+[Use move] The opposing Duraludon (3) used Dragon Pulse
+"The opposing Duraludon used Dragon Pulse!"
+[HP change] Infernape lost 147 HP (147 -> 0)
+"Infernape fainted!"
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Duraludon lost 20 HP (134 -> 114)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 8 =====
+
+[Command phase] The opposing Baxcalibur (1) is forced to use a multi-turn move
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + 4 to prioritize highest damaging move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+      + 20 for fast kill
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *  25.0% to use Flash Cannon (target 2): score 21
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *  25.0% to use Dragon Pulse (target 2): score 21
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *  25.0% to use Dark Pulse (target 2): score 21
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *  25.0% to use Aura Sphere (target 2): score 21
+   => will use Dark Pulse (target 2)
+
+[Round order] Hitmonchan (2), the opposing Duraludon (3), Skarmory (0), the opposing Baxcalibur (1)
+
+[Use move] Hitmonchan (2) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Duraludon lost 12 HP (114 -> 102)
+"A critical hit!"
+"It's not very effective..."
+[Use move] The opposing Duraludon (3) used Dark Pulse
+"The opposing Duraludon flinched and couldn't move!"
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[HP change] The opposing Duraludon lost 95 HP (102 -> 7)
+"It's super effective!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+[Command phase] The opposing Baxcalibur (1) is forced to use a multi-turn move
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + 2 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + 2 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Skarmory (0)...
+     Duraludon (3)'s highest damaging move vs Skarmory: Dark Pulse
+     + 2 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Hitmonchan (2)...
+     Duraludon (3)'s highest damaging move vs Hitmonchan: Dragon Pulse
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *  25.0% to use Flash Cannon (target 2): score 20
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *  25.0% to use Dragon Pulse (target 2): score 20
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *  25.0% to use Dark Pulse (target 2): score 20
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *  25.0% to use Aura Sphere (target 2): score 20
+   => will use Dark Pulse (target 2)
+
+[Round order] The opposing Duraludon (3), Hitmonchan (2), Skarmory (0), the opposing Baxcalibur (1)
+
+"Good job, Hitmonchan! Come back!"
+"You're in charge, Gardevoir!"
+[Use move] The opposing Duraludon (3) used Dark Pulse
+"The opposing Duraludon used Dark Pulse!"
+[HP change] Gardevoir lost 48 HP (90 -> 42)
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[HP change] The opposing Duraludon lost 7 HP (7 -> 0)
+"It's super effective!"
+"The opposing Duraludon fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Gardevoir (2)
+==============================
+     [Florges] using Dazzling Gleam vs Skarmory does a max of 58/140 damage
+     [Florges] using Dazzling Gleam vs Gardevoir does a max of 60/42 damage
+     [Florges] using Psychic Noise vs Skarmory does a max of 36/140 damage
+     [Florges] using Psychic Noise vs Gardevoir does a max of 19/42 damage
+     [Florges] using Chilling Water vs Skarmory does a max of 48/140 damage
+     [Florges] using Chilling Water vs Gardevoir does a max of 26/42 damage
+     Skarmory (0)'s best move: Iron Head for 126/150 damage
+==============================
+     [Florges] + 12: for fast kill
+==============================
+     [Florges] using Dazzling Gleam vs Skarmory does a max of 58/140 damage
+     [Florges] using Dazzling Gleam vs Gardevoir does a max of 60/42 damage
+     [Florges] using Psychic Noise vs Skarmory does a max of 36/140 damage
+     [Florges] using Psychic Noise vs Gardevoir does a max of 19/42 damage
+     [Florges] using Chilling Water vs Skarmory does a max of 48/140 damage
+     [Florges] using Chilling Water vs Gardevoir does a max of 26/42 damage
+     Skarmory (0)'s best move: Iron Head for 126/150 damage
+==============================     Gardevoir (2)'s best move: Moonblast for 56/150 damage
+==============================
+     [Florges] + 12: for fast kill
+     [Florges] final Switch score: 24
+[AI] Highest move score (17) vs Switch In Score (24)
+"Socialite Reina sent out Florges!"
+
+===== Round 10 =====
+
+[Command phase] The opposing Baxcalibur (1) is forced to use a multi-turn move
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Gardevoir (2): 0
+     Threat Score for Gardevoir (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (3) is considering using Dazzling Gleam (1)...
+     Florges (3)'s highest damaging move vs Skarmory: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+     Florges (3)'s highest damaging move vs Gardevoir: Dazzling Gleam
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Florges (3) is considering using Psychic Noise (1) against Skarmory (0)...
+     Florges (3)'s highest damaging move vs Skarmory: Dazzling Gleam
+[AI] Florges (3) is considering using Psychic Noise (1) against Gardevoir (2)...
+     Florges (3)'s highest damaging move vs Gardevoir: Dazzling Gleam
+[AI] Florges (3) is considering using Chilling Water (1) against Skarmory (0)...
+     Florges (3)'s highest damaging move vs Skarmory: Dazzling Gleam
+[AI] Florges (3) is considering using Chilling Water (1) against Gardevoir (2)...
+     Florges (3)'s highest damaging move vs Gardevoir: Dazzling Gleam
+[AI] Florges (3) is considering using Synthesis...
+     +  1: move will fail
+[AI] Move choices for Florges (3):
+   * 100.0% to use Dazzling Gleam: score 15
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *   0.0% to use Psychic Noise (target 2): score 0
+   *   0.0% to use Chilling Water (target 0): score 0
+   *   0.0% to use Chilling Water (target 2): score 0
+   *   0.0% to use Synthesis: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Florges (3), Gardevoir (2), Skarmory (0), the opposing Baxcalibur (1)
+
+[Use move] The opposing Florges (3) used Dazzling Gleam
+"The opposing Florges used Dazzling Gleam!"
+[HP change] Skarmory lost 55 HP (140 -> 85)
+[HP change] Gardevoir lost 42 HP (42 -> 0)
+"It's not very effective..."
+"Gardevoir fainted!"
+[Item triggered] The opposing Florges's Life Orb (recoil)
+[HP change] The opposing Florges lost 15 HP (150 -> 135)
+"The opposing Florges lost some of its HP!"
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Florges lost 113 HP (135 -> 22)
+"It's super effective!"
+
+[End of round 10]
+Trick Room Turns: 0
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 11 =====
+
+[Command phase] The opposing Baxcalibur (1) is forced to use a multi-turn move
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Hitmonchan (2): 0
+     Threat Score for Hitmonchan (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (3) is considering using Dazzling Gleam (1)...
+     Florges (3)'s highest damaging move vs Skarmory: Dazzling Gleam
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     Florges (3)'s highest damaging move vs Hitmonchan: Dazzling Gleam
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Florges (3) is considering using Psychic Noise (1) against Skarmory (0)...
+     Florges (3)'s highest damaging move vs Skarmory: Dazzling Gleam
+     + 2 to factor in threat scoring.
+[AI] Florges (3) is considering using Psychic Noise (1) against Hitmonchan (2)...
+     Florges (3)'s highest damaging move vs Hitmonchan: Dazzling Gleam
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Florges (3) is considering using Chilling Water (1) against Skarmory (0)...
+     Florges (3)'s highest damaging move vs Skarmory: Dazzling Gleam
+     + 2 to factor in threat scoring.
+[AI] Florges (3) is considering using Chilling Water (1) against Hitmonchan (2)...
+     Florges (3)'s highest damaging move vs Hitmonchan: Dazzling Gleam
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Florges (3) is considering using Synthesis (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Florges (3):
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *  50.0% to use Psychic Noise (target 2): score 20
+   *   0.0% to use Chilling Water (target 0): score 0
+   *  50.0% to use Chilling Water (target 2): score 20
+   *   0.0% to use Synthesis: score 0
+   => will use Chilling Water (target 2)
+
+[Round order] Hitmonchan (2), the opposing Florges (3), Skarmory (0), the opposing Baxcalibur (1)
+
+[Use move] Hitmonchan (2) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Florges lost 22 HP (22 -> 0)
+"A critical hit!"
+"The opposing Florges fainted!"
+
+===== Player won =====
+
+"You defeated Gentleman Jeremy and Socialite Reina!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $7,056 for winning!"
+Roles for GUMSHOOS: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SINISTCHA: [:SPECIALBREAKER]
+Roles for SAMUROTT: [:PHYSICALBREAKER, :LEAD]
+Roles for TOXTRICITY: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Caleb!"
+"Policeman Caleb sent out Gumshoos!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+===== Round 1 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Gumshoos (1): 0
+Set up score for Gumshoos (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Gumshoos (1) is considering using Return (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using U-turn (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Superpower (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Superpower (target 0)
+
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gumshoos (1) used Superpower
+"The opposing Gumshoos used Superpower!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gumshoos's Defense changed by -2 (0 -> -2)
+"The opposing Gumshoos's Defense harshly fell!"
+
+[End of round 1]
+[HP change] Obstagoon lost 10 HP (163 -> 153)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gumshoos (1) is considering using Return (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using U-turn (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Superpower (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Superpower (target 0)
+
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gumshoos lost 157 HP (157 -> 0)
+"The opposing Gumshoos fainted!"
+
+[End of round 2]
+[HP change] Obstagoon lost 10 HP (153 -> 143)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Sinistcha] using Matcha Gotcha vs Obstagoon does a max of 98/143 damage
+     [Sinistcha] using Hidden Power vs Obstagoon does a max of 196/143 damage
+     [Sinistcha] using Scald vs Obstagoon does a max of 65/143 damage
+     Obstagoon (0)'s best move: Sucker Punch for 129/143 damage
+==============================
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+==============================
+     [Samurott] using Razor Shell vs Obstagoon does a max of 101/143 damage
+     [Samurott] using Ceaseless Edge vs Obstagoon does a max of 44/143 damage
+     [Samurott] using Sacred Sword vs Obstagoon does a max of 218/143 damage
+     [Samurott] using Aqua Jet vs Obstagoon does a max of 37/143 damage
+     Obstagoon (0)'s best move: Headbutt for 81/162 damage
+==============================
+     [Samurott] +  9: for slow kill
+     [Samurott] final Switch score: 9
+==============================
+     [Toxtricity] using Overdrive vs Obstagoon does a max of 110/143 damage
+     [Toxtricity] using Hyper Voice vs Obstagoon does a max of 82/143 damage
+     [Toxtricity] using Sludge Bomb vs Obstagoon does a max of 95/143 damage
+     [Toxtricity] using Hidden Power vs Obstagoon does a max of 43/143 damage
+     Obstagoon (0)'s best move: Sucker Punch for 90/147 damage
+==============================
+     [Toxtricity] +  3: for outdamage
+     [Toxtricity] final Switch score: 3
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Caleb sent out Samurott!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Sinistcha] is immune to strongest move against Samurott (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Samurott (1) is considering using Sacred Sword (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Aqua Jet (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Razor Shell (target 0): score 0
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   * 100.0% to use Sacred Sword (target 0): score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Sacred Sword (target 0)
+
+[Round order] Obstagoon (0), the opposing Samurott (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Samurott (1) used Sacred Sword
+"The opposing Samurott used Sacred Sword!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Samurott's Defense changed by -2 (0 -> -2)
+"The opposing Samurott's Defense harshly fell!"
+
+[End of round 3]
+[HP change] Obstagoon lost 10 HP (143 -> 133)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): -2
+Set up score for Samurott (1): -2
+Set up score for Samurott (1): -2
+Set up score for Samurott (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Sinistcha] is immune to strongest move against Samurott (1)
+[AI] Switch out Score (11) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Samurott (1) is considering using Sacred Sword (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Aqua Jet (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Razor Shell (target 0): score 0
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   * 100.0% to use Sacred Sword (target 0): score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Sacred Sword (target 0)
+
+[Round order] Obstagoon (0), the opposing Samurott (1)
+
+"Obstagoon, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Samurott (1) used Sacred Sword
+"The opposing Samurott used Sacred Sword!"
+[HP change] Chimecho lost 13 HP (151 -> 138)
+"It's not very effective..."
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (162 -> 146)
+"The opposing Samurott lost some of its HP!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Samurott (1): -2
+Set up score for Samurott (1): -2
+Set up score for Samurott (1): -2
+Set up score for Samurott (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 4 to prioritize highest damaging move
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Sacred Sword (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Aqua Jet (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Razor Shell (target 0): score 0
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   *   0.0% to use Sacred Sword (target 0): score 0
+   * 100.0% to use Aqua Jet (target 0): score 10
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Samurott (1), Chimecho (0)
+
+[Use move] The opposing Samurott (1) used Aqua Jet
+"The opposing Samurott used Aqua Jet!"
+[HP change] Chimecho lost 37 HP (138 -> 101)
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (146 -> 130)
+"The opposing Samurott lost some of its HP!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Samurott lost 130 HP (130 -> 0)
+"It's super effective!"
+"The opposing Samurott fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Sinistcha] using Matcha Gotcha vs Chimecho does a max of 74/101 damage
+     [Sinistcha] using Hidden Power vs Chimecho does a max of 9/101 damage
+     [Sinistcha] using Scald vs Chimecho does a max of 49/101 damage
+     [Sinistcha] using Hex vs Chimecho does a max of 120/101 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 74/143 damage
+==============================
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+==============================
+     [Toxtricity] using Overdrive vs Chimecho does a max of 83/101 damage
+     [Toxtricity] using Hyper Voice vs Chimecho does a max of 62/101 damage
+     [Toxtricity] using Sludge Bomb vs Chimecho does a max of 144/101 damage
+     [Toxtricity] using Hidden Power vs Chimecho does a max of 32/101 damage
+     Chimecho (0)'s best move: Psybeam for 132/147 damage
+==============================
+     [Toxtricity] + 12: for fast kill
+     [Toxtricity] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Caleb sent out Toxtricity!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+      + 20 for fast kill
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Move choices for Toxtricity (1):
+   *   0.0% to use Overdrive: score 0
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Toxtricity (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Toxtricity (1) used Sludge Bomb
+"The opposing Toxtricity used Sludge Bomb!"
+[HP change] Hitmonchan lost 57 HP (123 -> 66)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+     [Switch AI] +5 Party member [Sinistcha] is immune to strongest move against Toxtricity (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Hitmonchan (0)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] Hitmonchan (0), the opposing Toxtricity (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Toxtricity lost 25 HP (147 -> 122)
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity flinched and couldn't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+     [Switch AI] +5 Party member [Sinistcha] is immune to strongest move against Toxtricity (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Hitmonchan (0)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+     Toxtricity (1)'s highest damaging move vs Hitmonchan: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] The opposing Toxtricity (1), Hitmonchan (0)
+
+"Hitmonchan, come back!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Obstagoon lost 99 HP (133 -> 34)
+[HP change] Obstagoon gained 40 HP (34 -> 74)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+[Stat change] The opposing Toxtricity's Special Attack changed by +1 (0 -> 1)
+"The opposing Toxtricity's Special Attack rose!"
+[Item consumed] The opposing Toxtricity consumed its held Throat Spray
+
+[End of round 8]
+[HP change] Obstagoon lost 10 HP (74 -> 64)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-6) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Obstagoon (0)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+[AI] Move choices for Toxtricity (1):
+   *  33.3% to use Overdrive: score 18
+   *  33.3% to use Hyper Voice: score 18
+   *  33.3% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Obstagoon (0), the opposing Toxtricity (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Toxtricity lost 85 HP (122 -> 37)
+[Use move] The opposing Toxtricity (1) used Sludge Bomb
+"The opposing Toxtricity used Sludge Bomb!"
+[HP change] Obstagoon lost 64 HP (64 -> 0)
+"A critical hit!"
+"Obstagoon fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 10 =====
+
+Roles for GUMSHOOS: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SINISTCHA: [:SPECIALBREAKER]
+Roles for SAMUROTT: [:PHYSICALBREAKER, :LEAD]
+Roles for TOXTRICITY: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Caleb!"
+"Policeman Caleb sent out Gumshoos!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+===== Round 1 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Gumshoos (1): 0
+Set up score for Gumshoos (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Gumshoos (1) is considering using Return (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using U-turn (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Superpower (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Superpower (target 0)
+
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gumshoos (1) used Superpower
+"The opposing Gumshoos used Superpower!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gumshoos's Defense changed by -2 (0 -> -2)
+"The opposing Gumshoos's Defense harshly fell!"
+
+[End of round 1]
+[HP change] Obstagoon lost 10 HP (163 -> 153)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] +5 Party member [Sinistcha] is immune to strongest move against Gumshoos (1)
+[AI] Switch out Score (2) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gumshoos (1) is considering using Return (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using U-turn (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Superpower (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Superpower (target 0)
+
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gumshoos lost 157 HP (157 -> 0)
+"The opposing Gumshoos fainted!"
+
+[End of round 2]
+[HP change] Obstagoon lost 10 HP (153 -> 143)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Sinistcha] using Matcha Gotcha vs Obstagoon does a max of 98/143 damage
+     [Sinistcha] using Hidden Power vs Obstagoon does a max of 196/143 damage
+     [Sinistcha] using Scald vs Obstagoon does a max of 65/143 damage
+     Obstagoon (0)'s best move: Sucker Punch for 129/143 damage
+==============================
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+==============================
+     [Samurott] using Razor Shell vs Obstagoon does a max of 101/143 damage
+     [Samurott] using Ceaseless Edge vs Obstagoon does a max of 44/143 damage
+     [Samurott] using Sacred Sword vs Obstagoon does a max of 218/143 damage
+     [Samurott] using Aqua Jet vs Obstagoon does a max of 37/143 damage
+     Obstagoon (0)'s best move: Headbutt for 81/162 damage
+==============================
+     [Samurott] +  9: for slow kill
+     [Samurott] final Switch score: 9
+==============================
+     [Toxtricity] using Overdrive vs Obstagoon does a max of 110/143 damage
+     [Toxtricity] using Hyper Voice vs Obstagoon does a max of 82/143 damage
+     [Toxtricity] using Sludge Bomb vs Obstagoon does a max of 95/143 damage
+     [Toxtricity] using Hidden Power vs Obstagoon does a max of 43/143 damage
+     Obstagoon (0)'s best move: Sucker Punch for 90/147 damage
+==============================
+     [Toxtricity] +  3: for outdamage
+     [Toxtricity] final Switch score: 3
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Caleb sent out Samurott!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Sinistcha] is immune to strongest move against Samurott (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Samurott (1) is considering using Sacred Sword (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Aqua Jet (1) against Obstagoon (0)...
+     Samurott (1)'s highest damaging move vs Obstagoon: Sacred Sword
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Razor Shell (target 0): score 0
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   * 100.0% to use Sacred Sword (target 0): score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Sacred Sword (target 0)
+
+[Round order] Obstagoon (0), the opposing Samurott (1)
+
+"Obstagoon, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Samurott (1) used Sacred Sword
+"The opposing Samurott used Sacred Sword!"
+[HP change] Chimecho lost 15 HP (151 -> 136)
+"It's not very effective..."
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (162 -> 146)
+"The opposing Samurott lost some of its HP!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 4 to prioritize highest damaging move
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Sacred Sword (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Aqua Jet (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Razor Shell (target 0): score 0
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   *   0.0% to use Sacred Sword (target 0): score 0
+   * 100.0% to use Aqua Jet (target 0): score 10
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Samurott (1), Chimecho (0)
+
+[Use move] The opposing Samurott (1) used Aqua Jet
+"The opposing Samurott used Aqua Jet!"
+[HP change] Chimecho lost 42 HP (136 -> 94)
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (146 -> 130)
+"The opposing Samurott lost some of its HP!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Samurott lost 130 HP (130 -> 0)
+"It's super effective!"
+"The opposing Samurott fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Sinistcha] using Matcha Gotcha vs Chimecho does a max of 74/94 damage
+     [Sinistcha] using Hidden Power vs Chimecho does a max of 9/94 damage
+     [Sinistcha] using Scald vs Chimecho does a max of 49/94 damage
+     [Sinistcha] using Hex vs Chimecho does a max of 120/94 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 74/143 damage
+==============================
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+==============================
+     [Toxtricity] using Overdrive vs Chimecho does a max of 83/94 damage
+     [Toxtricity] using Hyper Voice vs Chimecho does a max of 62/94 damage
+     [Toxtricity] using Sludge Bomb vs Chimecho does a max of 144/94 damage
+     [Toxtricity] using Hidden Power vs Chimecho does a max of 32/94 damage
+     Chimecho (0)'s best move: Psybeam for 132/147 damage
+==============================
+     [Toxtricity] + 12: for fast kill
+     [Toxtricity] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Caleb sent out Toxtricity!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+      + 20 for fast kill
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Move choices for Toxtricity (1):
+   *   0.0% to use Overdrive: score 0
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Sludge Bomb (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Toxtricity (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Butterfree!"
+[Use move] The opposing Toxtricity (1) used Sludge Bomb
+"The opposing Toxtricity used Sludge Bomb!"
+[HP change] Butterfree lost 1 HP (1 -> 0)
+"Butterfree fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 6 =====
+
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Pyroar (0)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Pyroar (0)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] Pyroar (0), the opposing Toxtricity (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Toxtricity lost 71 HP (147 -> 76)
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Pyroar lost 109 HP (161 -> 52)
+[HP change] Pyroar gained 40 HP (52 -> 92)
+"Pyroar restored its health using its Sitrus Berry!"
+[Item consumed] Pyroar consumed its held Sitrus Berry
+[Stat change] The opposing Toxtricity's Special Attack changed by +1 (0 -> 1)
+"The opposing Toxtricity's Special Attack rose!"
+[Item consumed] The opposing Toxtricity consumed its held Throat Spray
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-6) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Pyroar (0)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Pyroar (0)...
+     Toxtricity (1)'s highest damaging move vs Pyroar: Overdrive
+[AI] Move choices for Toxtricity (1):
+   *  33.3% to use Overdrive: score 18
+   *  33.3% to use Hyper Voice: score 18
+   *  33.3% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Pyroar (0), the opposing Toxtricity (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Toxtricity lost 76 HP (76 -> 0)
+"The opposing Toxtricity fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Sinistcha] using Matcha Gotcha vs Pyroar does a max of 50/92 damage
+     [Sinistcha] using Hidden Power vs Pyroar does a max of 100/92 damage
+     [Sinistcha] using Scald vs Pyroar does a max of 134/92 damage
+     Pyroar (0)'s best move: Dark Pulse for 88/143 damage
+==============================
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Policeman Caleb sent out Sinistcha!"
+
+===== Round 8 =====
+
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Pyroar: Scald
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Pyroar (0)...
+     Sinistcha (1)'s highest damaging move vs Pyroar: Scald
+[AI] Sinistcha (1) is considering using Scald (1) against Pyroar (0)...
+     Sinistcha (1)'s highest damaging move vs Pyroar: Scald
+      + 17 for slow kill
+[AI] Sinistcha (1) is considering using Hex (1) against Pyroar (0)...
+     Sinistcha (1)'s highest damaging move vs Pyroar: Scald
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Move choices for Sinistcha (1):
+   *   0.0% to use Matcha Gotcha: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Hex (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Pyroar (0), the opposing Sinistcha (1)
+
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Sinistcha lost 64 HP (143 -> 79)
+"It's super effective!"
+[Use move] The opposing Sinistcha (1) used Scald
+"The opposing Sinistcha used Scald!"
+[HP change] Pyroar lost 92 HP (92 -> 0)
+"It's super effective!"
+"Pyroar fainted!"
+
+[End of round 8]
+[HP change] The opposing Sinistcha gained 8 HP (79 -> 87)
+"The opposing Sinistcha restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+"Go for it, Obstagoon!"
+
+===== Round 9 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 17 for slow kill
+[AI] Sinistcha (1) is considering using Scald (1) against Obstagoon (0)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Sinistcha (1) is considering using Hex (1) against Obstagoon (0)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Move choices for Sinistcha (1):
+   *   0.0% to use Matcha Gotcha: score 0
+   * 100.0% to use Hidden Power (target 0): score 18
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Sinistcha (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Sinistcha lost 87 HP (87 -> 0)
+"It's super effective!"
+"The opposing Sinistcha fainted!"
+
+===== Player won =====
+
+"You defeated Policeman Caleb!"
+"Wow. You're great!"
+
+"You got $1,568 for winning!"
