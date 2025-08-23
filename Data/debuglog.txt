@@ -210357,3 +210357,2551 @@ Set up score for Obstagoon (0): 0
 "Wow. You're great!"
 
 "You got $1,568 for winning!"
+Roles for OBSTAGOON: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for TYPHLOSION: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SALAMENCE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rich Boy Jason!"
+"Rich Boy Jason sent out Obstagoon!"
+"Go! Infernape!"
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Typhlosion] is immune to strongest move against Obstagoon (1)
+[AI] Switch out Score (16) vs Highest Moves Score (9)
+[AI] The AI will try to switch.
+==============================
+     [Typhlosion] using Infernal Parade vs Infernape does a max of 53/147 damage
+     [Typhlosion] using Flamethrower vs Infernape does a max of 39/147 damage
+     [Typhlosion] using Scorching Sands vs Infernape does a max of 82/147 damage
+     [Typhlosion] using Hidden Power vs Infernape does a max of 18/147 damage
+     Infernape (0)'s best move: Flame Wheel for 24/142 damage
+==============================
+     [Typhlosion] +  3: for outdamage
+     [Typhlosion] final Switch score: 3
+==============================
+     [Excadrill] using Earthquake vs Infernape does a max of 210/147 damage
+     [Excadrill] using Stone Edge vs Infernape does a max of 70/147 damage
+     [Excadrill] using Iron Head vs Infernape does a max of 42/147 damage
+     Infernape (0)'s best move: Close Combat for 225/181 damage
+==============================
+     [Excadrill] - 20: for us being killed on switch in
+     [Excadrill] final Switch score: -20
+==============================
+     [Salamence] using Dual Wingbeat vs Infernape does a max of 180/147 damage
+     [Salamence] using Dragon Claw vs Infernape does a max of 90/147 damage
+     [Salamence] using Iron Tail vs Infernape does a max of 38/147 damage
+     [Salamence] using Earthquake vs Infernape does a max of 150/147 damage
+     Infernape (0)'s best move: Close Combat for 44/170 damage
+==============================
+     [Salamence] + 12: for fast kill
+     [Salamence] final Switch score: 12
+[AI] Highest move score (9) vs Switch In Score (12)
+   => will switch with Salamence
+
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+"Rich Boy Jason withdrew Obstagoon!"
+"Rich Boy Jason sent out Salamence!"
+[Ability triggered] The opposing Salamence's Intimidate
+[Stat change] Infernape's Attack changed by -1 (0 -> -1)
+"Infernape's Attack fell!"
+[Use move] Infernape (0) used Mach Punch
+"Infernape used Mach Punch!"
+[HP change] The opposing Salamence lost 10 HP (170 -> 160)
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Salamence (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): -3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Salamence (1) is considering using Iron Tail (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Move choices for Salamence (1):
+   * 100.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Salamence (1), Infernape (0)
+
+"Infernape, come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+[HP change] Skarmory lost 13 HP (140 -> 127)
+[HP change] Skarmory lost 12 HP (127 -> 115)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[HP change] Skarmory lost 23 HP (115 -> 92)
+"It's not very effective..."
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Salamence lost 46 HP (160 -> 114)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[HP change] Skarmory lost 22 HP (92 -> 70)
+"It's not very effective..."
+[HP change] Skarmory gained 35 HP (70 -> 105)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Salamence lost 46 HP (114 -> 68)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Roles for OBSTAGOON: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for TYPHLOSION: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SALAMENCE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rich Boy Jason!"
+"Rich Boy Jason sent out Obstagoon!"
+"Go! Infernape!"
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Typhlosion] is immune to strongest move against Obstagoon (1)
+[AI] Switch out Score (16) vs Highest Moves Score (9)
+[AI] The AI will try to switch.
+==============================
+     [Typhlosion] using Infernal Parade vs Infernape does a max of 53/147 damage
+     [Typhlosion] using Flamethrower vs Infernape does a max of 39/147 damage
+     [Typhlosion] using Scorching Sands vs Infernape does a max of 82/147 damage
+     [Typhlosion] using Hidden Power vs Infernape does a max of 18/147 damage
+     Infernape (0)'s best move: Flame Wheel for 24/142 damage
+==============================
+     [Typhlosion] +  3: for outdamage
+     [Typhlosion] final Switch score: 3
+==============================
+     [Excadrill] using Earthquake vs Infernape does a max of 210/147 damage
+     [Excadrill] using Stone Edge vs Infernape does a max of 70/147 damage
+     [Excadrill] using Iron Head vs Infernape does a max of 42/147 damage
+     Infernape (0)'s best move: Close Combat for 225/181 damage
+==============================
+     [Excadrill] - 20: for us being killed on switch in
+     [Excadrill] final Switch score: -20
+==============================
+     [Salamence] using Dual Wingbeat vs Infernape does a max of 180/147 damage
+     [Salamence] using Dragon Claw vs Infernape does a max of 90/147 damage
+     [Salamence] using Iron Tail vs Infernape does a max of 38/147 damage
+     [Salamence] using Earthquake vs Infernape does a max of 150/147 damage
+     Infernape (0)'s best move: Close Combat for 44/170 damage
+==============================
+     [Salamence] + 12: for fast kill
+     [Salamence] final Switch score: 12
+[AI] Highest move score (9) vs Switch In Score (12)
+   => will switch with Salamence
+
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+"Rich Boy Jason withdrew Obstagoon!"
+"Rich Boy Jason sent out Salamence!"
+[Ability triggered] The opposing Salamence's Intimidate
+[Stat change] Infernape's Attack changed by -1 (0 -> -1)
+"Infernape's Attack fell!"
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Salamence lost 27 HP (170 -> 143)
+"It's not very effective..."
+[Stat change] Infernape's Defense changed by -1 (0 -> -1)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (0 -> -1)
+"Infernape's Special Defense fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Salamence (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): -2
+     Threat Score for Infernape (0): -5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Salamence (1) is considering using Iron Tail (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+      + 20 for fast kill
+[AI] Move choices for Salamence (1):
+   *  50.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   *  50.0% to use Earthquake: score 21
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Salamence (1), Infernape (0)
+
+"Infernape, come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+[HP change] Chimecho lost 36 HP (151 -> 115)
+[HP change] Chimecho lost 38 HP (115 -> 77)
+"Hit 2 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Salamence's attack missed!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+"Skarmory, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[Target immune] Chimecho's type immunity
+"It doesn't affect Chimecho..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[HP change] Skarmory lost 18 HP (140 -> 122)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+"Skarmory, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[Target immune] Chimecho's type immunity
+"It doesn't affect Chimecho..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[HP change] Skarmory lost 19 HP (122 -> 103)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+"Skarmory, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[Target immune] Chimecho's type immunity
+"It doesn't affect Chimecho..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *  50.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *  50.0% to use Iron Tail (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[HP change] Skarmory lost 20 HP (103 -> 83)
+"It's not very effective..."
+[Stat change] Skarmory's Defense changed by -1 (0 -> -1)
+"Skarmory's Defense fell!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+"Skarmory, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[Target immune] Chimecho's type immunity
+"It doesn't affect Chimecho..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[HP change] Chimecho lost 77 HP (77 -> 0)
+"It's super effective!"
+"Chimecho fainted!"
+Roles for OBSTAGOON: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for TYPHLOSION: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SALAMENCE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rich Boy Jason!"
+"Rich Boy Jason sent out Obstagoon!"
+"Go! Infernape!"
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Typhlosion] is immune to strongest move against Obstagoon (1)
+[AI] Switch out Score (16) vs Highest Moves Score (9)
+[AI] The AI will try to switch.
+==============================
+     [Typhlosion] using Infernal Parade vs Infernape does a max of 53/147 damage
+     [Typhlosion] using Flamethrower vs Infernape does a max of 39/147 damage
+     [Typhlosion] using Scorching Sands vs Infernape does a max of 82/147 damage
+     [Typhlosion] using Hidden Power vs Infernape does a max of 18/147 damage
+     Infernape (0)'s best move: Flame Wheel for 24/142 damage
+==============================
+     [Typhlosion] +  3: for outdamage
+     [Typhlosion] final Switch score: 3
+==============================
+     [Excadrill] using Earthquake vs Infernape does a max of 210/147 damage
+     [Excadrill] using Stone Edge vs Infernape does a max of 70/147 damage
+     [Excadrill] using Iron Head vs Infernape does a max of 42/147 damage
+     Infernape (0)'s best move: Close Combat for 225/181 damage
+==============================
+     [Excadrill] - 20: for us being killed on switch in
+     [Excadrill] final Switch score: -20
+==============================
+     [Salamence] using Dual Wingbeat vs Infernape does a max of 180/147 damage
+     [Salamence] using Dragon Claw vs Infernape does a max of 90/147 damage
+     [Salamence] using Iron Tail vs Infernape does a max of 38/147 damage
+     [Salamence] using Earthquake vs Infernape does a max of 150/147 damage
+     Infernape (0)'s best move: Close Combat for 44/170 damage
+==============================
+     [Salamence] + 12: for fast kill
+     [Salamence] final Switch score: 12
+[AI] Highest move score (9) vs Switch In Score (12)
+   => will switch with Salamence
+
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+"Infernape, switch out! Come back!"
+"You're in charge, Chimecho!"
+"Rich Boy Jason withdrew Obstagoon!"
+"Rich Boy Jason sent out Salamence!"
+[Ability triggered] The opposing Salamence's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Salamence's attack missed!"
+[Use move] Chimecho (0) used Icy Wind
+"Chimecho used Icy Wind!"
+[HP change] The opposing Salamence lost 65 HP (170 -> 105)
+"It's super effective!"
+[Stat change] The opposing Salamence's Speed changed by -1 (0 -> -1)
+"The opposing Salamence's Speed fell!"
+"The Yache Berry weakened the damage to the opposing Salamence!"
+[Item consumed] The opposing Salamence consumed its held Yache Berry
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Salamence (1): -1
+Set up score for Salamence (1): -1
+Set up score for Salamence (1): -1
+Set up score for Salamence (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] Chimecho (0), the opposing Salamence (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Salamence lost 105 HP (105 -> 0)
+"It's super effective!"
+"The opposing Salamence fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+==============================
+     [Obstagoon] using Night Slash vs Chimecho does a max of 48/151 damage
+     [Obstagoon] using Facade vs Chimecho does a max of 48/151 damage
+     [Obstagoon] using Close Combat vs Chimecho does a max of 14/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 147/162 damage
+==============================
+     [Obstagoon] final Switch score: 0
+==============================
+     [Typhlosion] using Infernal Parade vs Chimecho does a max of 99/151 damage
+     [Typhlosion] using Flamethrower vs Chimecho does a max of 74/151 damage
+     [Typhlosion] using Hidden Power vs Chimecho does a max of 33/151 damage
+     Chimecho (0)'s best move: Psybeam for 59/142 damage
+==============================
+     [Typhlosion] +  6: for fast 2HKO
+     [Typhlosion] final Switch score: 6
+==============================
+     [Excadrill] using Stone Edge vs Chimecho does a max of 64/151 damage
+     [Excadrill] using Iron Head vs Chimecho does a max of 156/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 43/181 damage
+==============================
+     [Excadrill] + 12: for fast kill
+     [Excadrill] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Rich Boy Jason sent out Excadrill!"
+[Ability triggered] The opposing Excadrill's Mold Breaker
+"The opposing Excadrill breaks the mold!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Excadrill (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Excadrill (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Excadrill (1) is considering using Iron Head (1) against Chimecho (0)...
+     Excadrill (1)'s highest damaging move vs Chimecho: Iron Head
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   * 100.0% to use Iron Head (target 0): score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Iron Head (target 0)
+
+[Round order] The opposing Excadrill (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Excadrill (1) used Iron Head
+"The opposing Excadrill used Iron Head!"
+[HP change] Skarmory lost 22 HP (140 -> 118)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Skarmory (0)
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Excadrill (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Excadrill (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Iron Head (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Excadrill (1), Skarmory (0)
+
+[Use move] The opposing Excadrill (1) used Stone Edge
+"The opposing Excadrill used Stone Edge!"
+[HP change] Skarmory lost 34 HP (118 -> 84)
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[HP change] The opposing Excadrill lost 181 HP (181 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Excadrill fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Skarmory (0)
+==============================
+     [Obstagoon] using Night Slash vs Skarmory does a max of 30/84 damage
+     [Obstagoon] using Facade vs Skarmory does a max of 15/84 damage
+     [Obstagoon] using Close Combat vs Skarmory does a max of 32/84 damage
+     Skarmory (0)'s best move: Body Press for 216/162 damage
+==============================
+     [Obstagoon] -  7: for target slow kill
+     [Obstagoon] final Switch score: -7
+==============================
+     [Typhlosion] using Infernal Parade vs Skarmory does a max of 69/84 damage
+     [Typhlosion] using Flamethrower vs Skarmory does a max of 204/84 damage
+     [Typhlosion] using Hidden Power vs Skarmory does a max of 12/84 damage
+     Skarmory (0)'s best move: Drill Peck for 59/142 damage
+==============================
+     [Typhlosion] + 12: for fast kill
+     [Typhlosion] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Rich Boy Jason sent out Typhlosion!"
+
+===== Round 6 =====
+
+     move will not affect Skarmory (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+      + 20 for fast kill
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Infernal Parade (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 21
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Typhlosion (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Typhlosion (1) used Flamethrower
+"The opposing Typhlosion used Flamethrower!"
+[HP change] Obstagoon lost 90 HP (163 -> 73)
+[HP change] Obstagoon gained 40 HP (73 -> 113)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 6]
+[HP change] Obstagoon lost 10 HP (113 -> 103)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Infernal Parade (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Typhlosion (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Typhlosion lost 71 HP (142 -> 71)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Typhlosion!"
+[Item consumed] The opposing Typhlosion consumed its held Colbur Berry
+[Use move] The opposing Typhlosion (1) used Flamethrower
+"The opposing Typhlosion used Flamethrower!"
+[HP change] Obstagoon lost 97 HP (103 -> 6)
+
+[End of round 7]
+[HP change] Obstagoon lost 6 HP (6 -> 0)
+"Obstagoon was hurt by its burn!"
+"Obstagoon fainted!"
+Trick Room Turns: 0
+Roles for OBSTAGOON: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for TYPHLOSION: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SALAMENCE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rich Boy Jason!"
+"Rich Boy Jason sent out Obstagoon!"
+"Go! Infernape!"
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Typhlosion] is immune to strongest move against Obstagoon (1)
+[AI] Switch out Score (16) vs Highest Moves Score (9)
+[AI] The AI will try to switch.
+==============================
+     [Typhlosion] using Infernal Parade vs Infernape does a max of 53/147 damage
+     [Typhlosion] using Flamethrower vs Infernape does a max of 39/147 damage
+     [Typhlosion] using Scorching Sands vs Infernape does a max of 82/147 damage
+     [Typhlosion] using Hidden Power vs Infernape does a max of 18/147 damage
+     Infernape (0)'s best move: Flame Wheel for 24/142 damage
+==============================
+     [Typhlosion] +  3: for outdamage
+     [Typhlosion] final Switch score: 3
+==============================
+     [Excadrill] using Earthquake vs Infernape does a max of 210/147 damage
+     [Excadrill] using Stone Edge vs Infernape does a max of 70/147 damage
+     [Excadrill] using Iron Head vs Infernape does a max of 42/147 damage
+     Infernape (0)'s best move: Close Combat for 225/181 damage
+==============================
+     [Excadrill] - 20: for us being killed on switch in
+     [Excadrill] final Switch score: -20
+==============================
+     [Salamence] using Dual Wingbeat vs Infernape does a max of 180/147 damage
+     [Salamence] using Dragon Claw vs Infernape does a max of 90/147 damage
+     [Salamence] using Iron Tail vs Infernape does a max of 38/147 damage
+     [Salamence] using Earthquake vs Infernape does a max of 150/147 damage
+     Infernape (0)'s best move: Close Combat for 44/170 damage
+==============================
+     [Salamence] + 12: for fast kill
+     [Salamence] final Switch score: 12
+[AI] Highest move score (9) vs Switch In Score (12)
+   => will switch with Salamence
+
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+"Rich Boy Jason withdrew Obstagoon!"
+"Rich Boy Jason sent out Salamence!"
+[Ability triggered] The opposing Salamence's Intimidate
+[Stat change] Infernape's Attack changed by -1 (0 -> -1)
+"Infernape's Attack fell!"
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Salamence lost 30 HP (170 -> 140)
+"It's not very effective..."
+[Stat change] Infernape's Defense changed by -1 (0 -> -1)
+"Infernape's Defense fell!"
+[Stat change] Infernape's Special Defense changed by -1 (0 -> -1)
+"Infernape's Special Defense fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Salamence (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): -2
+     Threat Score for Infernape (0): -5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Salamence (1) is considering using Iron Tail (1) against Infernape (0)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Infernape: Dual Wingbeat
+      + 20 for fast kill
+[AI] Move choices for Salamence (1):
+   *  50.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   *  50.0% to use Earthquake: score 21
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Salamence (1), Infernape (0)
+
+"Infernape, come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+[HP change] Skarmory lost 12 HP (140 -> 128)
+[HP change] Skarmory lost 12 HP (128 -> 116)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Skarmory (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Dragon Claw (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Skarmory (0)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Skarmory: Dragon Claw
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Dragon Claw (target 0): score 5
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dragon Claw (target 0)
+
+[Round order] The opposing Salamence (1), Skarmory (0)
+
+"Skarmory, switch out! Come back!"
+"Go for it, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Salamence (1) used Dragon Claw
+"The opposing Salamence used Dragon Claw!"
+[HP change] Pyroar lost 79 HP (161 -> 82)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Salamence (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Pyroar (0)...
+     Salamence (1)'s highest damaging move vs Pyroar: Earthquake
+[AI] Salamence (1) is considering using Dragon Claw (1) against Pyroar (0)...
+     Salamence (1)'s highest damaging move vs Pyroar: Earthquake
+[AI] Salamence (1) is considering using Iron Tail (1) against Pyroar (0)...
+     Salamence (1)'s highest damaging move vs Pyroar: Earthquake
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Pyroar: Earthquake
+      + 20 for fast kill
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   => will use Earthquake
+
+[Round order] The opposing Salamence (1), Pyroar (0)
+
+"Pyroar, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Earthquake
+"The opposing Salamence used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Salamence's attack missed!"
+[Use move] Chimecho (0) used Icy Wind
+"Chimecho used Icy Wind!"
+[HP change] The opposing Salamence lost 57 HP (140 -> 83)
+"It's super effective!"
+[Stat change] The opposing Salamence's Speed changed by -1 (0 -> -1)
+"The opposing Salamence's Speed fell!"
+"The Yache Berry weakened the damage to the opposing Salamence!"
+[Item consumed] The opposing Salamence consumed its held Yache Berry
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Salamence (1): -1
+Set up score for Salamence (1): -1
+Set up score for Salamence (1): -1
+Set up score for Salamence (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] Chimecho (0), the opposing Salamence (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Salamence lost 83 HP (83 -> 0)
+"It's super effective!"
+"The opposing Salamence fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+==============================
+     [Obstagoon] using Night Slash vs Chimecho does a max of 48/151 damage
+     [Obstagoon] using Facade vs Chimecho does a max of 48/151 damage
+     [Obstagoon] using Close Combat vs Chimecho does a max of 14/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 147/162 damage
+==============================
+     [Obstagoon] final Switch score: 0
+==============================
+     [Typhlosion] using Infernal Parade vs Chimecho does a max of 99/151 damage
+     [Typhlosion] using Flamethrower vs Chimecho does a max of 74/151 damage
+     [Typhlosion] using Hidden Power vs Chimecho does a max of 33/151 damage
+     Chimecho (0)'s best move: Psybeam for 59/142 damage
+==============================
+     [Typhlosion] +  6: for fast 2HKO
+     [Typhlosion] final Switch score: 6
+==============================
+     [Excadrill] using Stone Edge vs Chimecho does a max of 64/151 damage
+     [Excadrill] using Iron Head vs Chimecho does a max of 156/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 43/181 damage
+==============================
+     [Excadrill] + 12: for fast kill
+     [Excadrill] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Rich Boy Jason sent out Excadrill!"
+[Ability triggered] The opposing Excadrill's Mold Breaker
+"The opposing Excadrill breaks the mold!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Excadrill (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Excadrill (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Excadrill (1) is considering using Iron Head (1) against Chimecho (0)...
+     Excadrill (1)'s highest damaging move vs Chimecho: Iron Head
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   * 100.0% to use Iron Head (target 0): score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Iron Head (target 0)
+
+[Round order] The opposing Excadrill (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Excadrill (1) used Iron Head
+"The opposing Excadrill used Iron Head!"
+[HP change] Skarmory lost 23 HP (116 -> 93)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Skarmory (0)
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Excadrill (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Excadrill (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Iron Head (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Excadrill (1), Skarmory (0)
+
+[Use move] The opposing Excadrill (1) used Stone Edge
+"The opposing Excadrill used Stone Edge!"
+[HP change] Skarmory lost 49 HP (93 -> 44)
+"A critical hit!"
+[HP change] Skarmory gained 35 HP (44 -> 79)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[HP change] The opposing Excadrill lost 147 HP (181 -> 34)
+"It's super effective!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Skarmory (0)
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+     [Switch AI] +5 Party member [Typhlosion] is immune to strongest move against Excadrill (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Excadrill (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Iron Head (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Excadrill (1), Skarmory (0)
+
+[Use move] The opposing Excadrill (1) used Stone Edge
+"The opposing Excadrill used Stone Edge!"
+[HP change] Skarmory lost 33 HP (79 -> 46)
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[HP change] The opposing Excadrill lost 34 HP (34 -> 0)
+"It's super effective!"
+"The opposing Excadrill fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Skarmory (0)
+==============================
+     [Obstagoon] using Night Slash vs Skarmory does a max of 30/46 damage
+     [Obstagoon] using Facade vs Skarmory does a max of 15/46 damage
+     [Obstagoon] using Close Combat vs Skarmory does a max of 32/46 damage
+     Skarmory (0)'s best move: Body Press for 216/162 damage
+==============================
+     [Obstagoon] -  7: for target slow kill
+     [Obstagoon] final Switch score: -7
+==============================
+     [Typhlosion] using Infernal Parade vs Skarmory does a max of 69/46 damage
+     [Typhlosion] using Flamethrower vs Skarmory does a max of 204/46 damage
+     [Typhlosion] using Hidden Power vs Skarmory does a max of 12/46 damage
+     Skarmory (0)'s best move: Drill Peck for 59/142 damage
+==============================
+     [Typhlosion] + 12: for fast kill
+     [Typhlosion] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Rich Boy Jason sent out Typhlosion!"
+
+===== Round 10 =====
+
+     move will not affect Skarmory (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+      + 20 for fast kill
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+      + 20 for fast kill
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Move choices for Typhlosion (1):
+   *  50.0% to use Infernal Parade (target 0): score 21
+   *  50.0% to use Flamethrower (target 0): score 21
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Infernal Parade (target 0)
+
+[Round order] The opposing Typhlosion (1), Skarmory (0)
+
+"OK, Skarmory! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Typhlosion (1) used Infernal Parade
+"The opposing Typhlosion used Infernal Parade!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 10]
+[HP change] Obstagoon lost 10 HP (163 -> 153)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Infernal Parade (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Typhlosion (1), Obstagoon (0)
+
+[Use move] The opposing Typhlosion (1) used Flamethrower
+"The opposing Typhlosion used Flamethrower!"
+[HP change] Obstagoon lost 98 HP (153 -> 55)
+[HP change] Obstagoon gained 40 HP (55 -> 95)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Typhlosion lost 77 HP (142 -> 65)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Typhlosion!"
+[Item consumed] The opposing Typhlosion consumed its held Colbur Berry
+
+[End of round 11]
+[HP change] Obstagoon lost 10 HP (95 -> 85)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Infernal Parade (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Typhlosion (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Typhlosion lost 65 HP (65 -> 0)
+"It's super effective!"
+"The opposing Typhlosion fainted!"
+
+[End of round 12]
+[HP change] Obstagoon lost 10 HP (85 -> 75)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Obstagoon] using Night Slash vs Obstagoon does a max of 21/75 damage
+     [Obstagoon] using Facade vs Obstagoon does a max of 42/75 damage
+     [Obstagoon] using Close Combat vs Obstagoon does a max of 188/75 damage
+     Obstagoon (0)'s best move: Headbutt for 69/162 damage
+==============================
+     [Obstagoon] + 12: for fast kill
+     [Obstagoon] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Rich Boy Jason sent out Obstagoon!"
+
+===== Round 13 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Obstagoon (1) is considering using Night Slash (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+[AI] Obstagoon (1) is considering using Facade (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+[AI] Obstagoon (1) is considering using Close Combat (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Facade (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Obstagoon (1), Obstagoon (0)
+
+"OK, Obstagoon! Come back!"
+"You're in charge, Infernape!"
+[Use move] The opposing Obstagoon (1) used Close Combat
+"The opposing Obstagoon used Close Combat!"
+[HP change] Infernape lost 54 HP (147 -> 93)
+[Stat change] The opposing Obstagoon's Defense changed by -1 (0 -> -1)
+"The opposing Obstagoon's Defense fell!"
+[Stat change] The opposing Obstagoon's Special Defense changed by -1 (0 -> -1)
+"The opposing Obstagoon's Special Defense fell!"
+
+[End of round 13]
+Trick Room Turns: 0
+"The opposing Obstagoon was burned by the Flame Orb!"
+
+===== Round 14 =====
+
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Infernape (0)...
+     Obstagoon (1)'s highest damaging move vs Infernape: Facade
+[AI] Obstagoon (1) is considering using Facade (1) against Infernape (0)...
+     Obstagoon (1)'s highest damaging move vs Infernape: Facade
+      + 17 for slow kill
+[AI] Obstagoon (1) is considering using Close Combat (1) against Infernape (0)...
+     Obstagoon (1)'s highest damaging move vs Infernape: Facade
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Facade (target 0): score 18
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Facade (target 0)
+
+[Round order] Infernape (0), the opposing Obstagoon (1)
+
+[Use move] Infernape (0) used Close Combat
+"Infernape used Close Combat!"
+[HP change] The opposing Obstagoon lost 162 HP (162 -> 0)
+"It's super effective!"
+"The opposing Obstagoon fainted!"
+
+===== Player won =====
+
+"You defeated Rich Boy Jason!"
+"Wow. You're great!"
+
+"You got $8,000 for winning!"
+Roles for CHESNAUGHT: [:PHYSICALBREAKER, :LEAD]
+Roles for MIMIKYU: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for STARMIE: [:SPECIALBREAKER]
+Roles for GOODRA: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lady Melissa!"
+"Lady Melissa sent out Chesnaught!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Chesnaught (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chesnaught (1): 0
+Set up score for Chesnaught (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chesnaught (1) is considering using Needle Arm (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+     + 4 to prioritize highest damaging move
+[AI] Chesnaught (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+[AI] Chesnaught (1) is considering using Spikes (4)...
+     - 3 because this will be pointless
+[AI] Chesnaught (1) is considering using Rock Slide (1)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+[AI] Move choices for Chesnaught (1):
+   * 100.0% to use Needle Arm (target 0): score 5
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Needle Arm (target 0)
+
+[Round order] Chimecho (0), the opposing Chesnaught (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Chesnaught lost 157 HP (157 -> 0)
+"It's super effective!"
+"The opposing Chesnaught fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Mimikyu] using Shadow Claw vs Chimecho does a max of 102/151 damage
+     [Mimikyu] using Play Rough vs Chimecho does a max of 65/151 damage
+     [Mimikyu] using Shadow Sneak vs Chimecho does a max of 60/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 69/137 damage
+==============================
+     [Mimikyu] +  6: for fast 2HKO
+     [Mimikyu] final Switch score: 6
+==============================
+     [Starmie] using Hydro Pump vs Chimecho does a max of 101/151 damage
+     [Starmie] using Psychic vs Chimecho does a max of 42/151 damage
+     [Starmie] using Thunderbolt vs Chimecho does a max of 56/151 damage
+     [Starmie] using Ice Beam vs Chimecho does a max of 56/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 83/132 damage
+==============================
+     [Starmie] +  6: for fast 2HKO
+     [Starmie] final Switch score: 6
+==============================
+     [Goodra] using Dragon Pulse vs Chimecho does a max of 1/151 damage
+     [Goodra] using Sludge Wave vs Chimecho does a max of 114/151 damage
+     [Goodra] using Thunderbolt vs Chimecho does a max of 54/151 damage
+     [Goodra] using Scald vs Chimecho does a max of 49/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 69/165 damage
+==============================
+     [Goodra] +  3: for outdamage
+     [Goodra] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (6)
+"Lady Melissa sent out Starmie!"
+[Ability triggered] The opposing Starmie's Illuminate
+[Stat change] The opposing Starmie's accuracy changed by +1 (0 -> 1)
+"The opposing Starmie's accuracy rose!"
+
+===== Round 2 =====
+
+Roles for CHESNAUGHT: [:PHYSICALBREAKER, :LEAD]
+Roles for MIMIKYU: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for STARMIE: [:SPECIALBREAKER]
+Roles for GOODRA: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lady Melissa!"
+"Lady Melissa sent out Chesnaught!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Chesnaught (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chesnaught (1): 0
+Set up score for Chesnaught (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chesnaught (1) is considering using Needle Arm (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+     + 4 to prioritize highest damaging move
+[AI] Chesnaught (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+[AI] Chesnaught (1) is considering using Spikes (4)...
+     - 3 because this will be pointless
+[AI] Chesnaught (1) is considering using Rock Slide (1)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+[AI] Move choices for Chesnaught (1):
+   * 100.0% to use Needle Arm (target 0): score 5
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Needle Arm (target 0)
+
+[Round order] Chimecho (0), the opposing Chesnaught (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Chesnaught lost 157 HP (157 -> 0)
+"It's super effective!"
+"The opposing Chesnaught fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Mimikyu] using Shadow Claw vs Chimecho does a max of 102/151 damage
+     [Mimikyu] using Play Rough vs Chimecho does a max of 65/151 damage
+     [Mimikyu] using Shadow Sneak vs Chimecho does a max of 60/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 69/137 damage
+==============================
+     [Mimikyu] +  6: for fast 2HKO
+     [Mimikyu] final Switch score: 6
+==============================
+     [Starmie] using Hydro Pump vs Chimecho does a max of 101/151 damage
+     [Starmie] using Psychic vs Chimecho does a max of 42/151 damage
+     [Starmie] using Thunderbolt vs Chimecho does a max of 56/151 damage
+     [Starmie] using Ice Beam vs Chimecho does a max of 56/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 83/132 damage
+==============================
+     [Starmie] +  6: for fast 2HKO
+     [Starmie] final Switch score: 6
+==============================
+     [Goodra] using Dragon Pulse vs Chimecho does a max of 1/151 damage
+     [Goodra] using Sludge Wave vs Chimecho does a max of 114/151 damage
+     [Goodra] using Thunderbolt vs Chimecho does a max of 54/151 damage
+     [Goodra] using Scald vs Chimecho does a max of 49/151 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 69/165 damage
+==============================
+     [Goodra] +  3: for outdamage
+     [Goodra] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (6)
+"Lady Melissa sent out Mimikyu!"
+
+===== Round 2 =====
+
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Chimecho (0)...
+     Mimikyu (1)'s highest damaging move vs Chimecho: Shadow Claw
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mimikyu (1)'s highest damaging move vs Chimecho: Shadow Claw
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     Mimikyu (1)'s highest damaging move vs Chimecho: Shadow Claw
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   * 100.0% to use Shadow Claw (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Claw (target 0)
+
+[Round order] The opposing Mimikyu (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Mimikyu (1) used Shadow Claw
+"The opposing Mimikyu used Shadow Claw!"
+[Target immune] Pyroar's type immunity
+"It doesn't affect Pyroar..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Pyroar (0)
+     move will not affect Pyroar (0)
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Play Rough (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Mimikyu (1), Pyroar (0)
+
+[Use move] The opposing Mimikyu (1) used Play Rough
+"The opposing Mimikyu used Play Rough!"
+[HP change] Pyroar lost 32 HP (161 -> 129)
+"It's not very effective..."
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[Ability triggered] The opposing Mimikyu's Disguise
+"Its disguise served it as a decoy!"
+"The opposing Mimikyu's disguise was busted!"
+[Form changed] The opposing Mimikyu changed from form 0 to form 1
+[HP change] The opposing Mimikyu lost 17 HP (137 -> 120)
+"The opposing Mimikyu held up its Red Card against Pyroar!"
+[Item consumed] The opposing Mimikyu consumed its held Red Card
+"Chimecho was dragged out!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Chimecho (0)...
+     Mimikyu (1)'s highest damaging move vs Chimecho: Shadow Claw
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mimikyu (1)'s highest damaging move vs Chimecho: Shadow Claw
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Chimecho (0)...
+     Mimikyu (1)'s highest damaging move vs Chimecho: Shadow Claw
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   * 100.0% to use Shadow Claw (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Claw (target 0)
+
+[Round order] The opposing Mimikyu (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Pyroar!"
+[Ability triggered] Pyroar's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Mimikyu (1) used Shadow Claw
+"The opposing Mimikyu used Shadow Claw!"
+[Target immune] Pyroar's type immunity
+"It doesn't affect Pyroar..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Pyroar (0)
+     move will not affect Pyroar (0)
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Play Rough (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Mimikyu (1), Pyroar (0)
+
+[Use move] The opposing Mimikyu (1) used Play Rough
+"The opposing Mimikyu used Play Rough!"
+[HP change] Pyroar lost 31 HP (129 -> 98)
+"It's not very effective..."
+[Stat change] Pyroar's Attack changed by -1 (0 -> -1)
+"Pyroar's Attack fell!"
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Mimikyu lost 52 HP (120 -> 68)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Pyroar (0)
+     move will not affect Pyroar (0)
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Play Rough (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Mimikyu (1), Pyroar (0)
+
+[Use move] The opposing Mimikyu (1) used Play Rough
+"The opposing Mimikyu used Play Rough!"
+[HP change] Pyroar lost 32 HP (98 -> 66)
+"It's not very effective..."
+[HP change] Pyroar gained 40 HP (66 -> 106)
+"Pyroar restored its health using its Sitrus Berry!"
+[Item consumed] Pyroar consumed its held Sitrus Berry
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Mimikyu lost 51 HP (68 -> 17)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Pyroar (0)
+     move will not affect Pyroar (0)
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Play Rough (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Pyroar (0)...
+     Mimikyu (1)'s highest damaging move vs Pyroar: Play Rough
+     move will not affect Pyroar (0)
+     -  1: move will fail
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Mimikyu (1), Pyroar (0)
+
+[Use move] The opposing Mimikyu (1) used Play Rough
+"The opposing Mimikyu used Play Rough!"
+[HP change] Pyroar lost 34 HP (106 -> 72)
+"It's not very effective..."
+[Use move] Pyroar (0) used Flamethrower
+"Pyroar used Flamethrower!"
+[HP change] The opposing Mimikyu lost 17 HP (17 -> 0)
+"The opposing Mimikyu fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Pyroar (0)
+     move will not affect Pyroar (0)
+==============================
+     [Starmie] using Hydro Pump vs Pyroar does a max of 277/72 damage
+     [Starmie] using Psychic vs Pyroar does a max of 115/72 damage
+     [Starmie] using Thunderbolt vs Pyroar does a max of 77/72 damage
+     [Starmie] using Ice Beam vs Pyroar does a max of 38/72 damage
+     Pyroar (0)'s best move: Dark Pulse for 84/132 damage
+==============================
+     [Starmie] + 12: for fast kill
+     [Starmie] final Switch score: 12
+==============================
+     [Goodra] using Dragon Pulse vs Pyroar does a max of 105/72 damage
+     [Goodra] using Sludge Wave vs Pyroar does a max of 78/72 damage
+     [Goodra] using Thunderbolt vs Pyroar does a max of 74/72 damage
+     [Goodra] using Scald vs Pyroar does a max of 132/72 damage
+     Pyroar (0)'s best move: Hyper Voice for 30/165 damage
+==============================
+     [Goodra] +  9: for slow kill
+     [Goodra] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (12)
+"Lady Melissa sent out Starmie!"
+[Ability triggered] The opposing Starmie's Illuminate
+[Stat change] The opposing Starmie's accuracy changed by +1 (0 -> 1)
+"The opposing Starmie's accuracy rose!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Starmie (1): 0
+Set up score for Starmie (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Pyroar (0): 0
+     Threat Score for Pyroar (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Pyroar (0)...
+     Starmie (1)'s highest damaging move vs Pyroar: Hydro Pump
+      + 20 for fast kill
+[AI] Starmie (1) is considering using Psychic (1) against Pyroar (0)...
+     Starmie (1)'s highest damaging move vs Pyroar: Hydro Pump
+      + 20 for fast kill
+[AI] Starmie (1) is considering using Thunderbolt (1) against Pyroar (0)...
+     Starmie (1)'s highest damaging move vs Pyroar: Hydro Pump
+[AI] Starmie (1) is considering using Ice Beam (1) against Pyroar (0)...
+     Starmie (1)'s highest damaging move vs Pyroar: Hydro Pump
+[AI] Move choices for Starmie (1):
+   *  50.0% to use Hydro Pump (target 0): score 21
+   *  50.0% to use Psychic (target 0): score 21
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Pyroar (0)
+
+"OK, Pyroar! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Mismagius lost 82 HP (136 -> 54)
+[HP change] Mismagius gained 34 HP (54 -> 88)
+"Mismagius restored its health using its Sitrus Berry!"
+[Item consumed] Mismagius consumed its held Sitrus Berry
+[Item triggered] The opposing Starmie's Life Orb (recoil)
+[HP change] The opposing Starmie lost 13 HP (132 -> 119)
+"The opposing Starmie lost some of its HP!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Starmie (1): 0
+Set up score for Starmie (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Mismagius (0)...
+     Starmie (1)'s highest damaging move vs Mismagius: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Starmie (1) is considering using Psychic (1) against Mismagius (0)...
+     Starmie (1)'s highest damaging move vs Mismagius: Hydro Pump
+[AI] Starmie (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Starmie (1)'s highest damaging move vs Mismagius: Hydro Pump
+[AI] Starmie (1) is considering using Ice Beam (1) against Mismagius (0)...
+     Starmie (1)'s highest damaging move vs Mismagius: Hydro Pump
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Mismagius (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Mismagius lost 87 HP (88 -> 1)
+[Item triggered] The opposing Starmie's Life Orb (recoil)
+[HP change] The opposing Starmie lost 13 HP (119 -> 106)
+"The opposing Starmie lost some of its HP!"
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Starmie lost 106 HP (106 -> 0)
+"It's super effective!"
+"The opposing Starmie fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Goodra] using Dragon Pulse vs Mismagius does a max of 1/1 damage
+     [Goodra] using Sludge Wave vs Mismagius does a max of 54/1 damage
+     [Goodra] using Thunderbolt vs Mismagius does a max of 51/1 damage
+     [Goodra] using Scald vs Mismagius does a max of 46/1 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 60/165 damage
+==============================
+     [Goodra] +  9: for slow kill
+     [Goodra] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Lady Melissa sent out Goodra!"
+
+===== Round 10 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Mismagius (0)...
+     Goodra (1)'s highest damaging move vs Mismagius: Sludge Wave
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Mismagius: Sludge Wave
+      + 17 for slow kill
+[AI] Goodra (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Goodra (1)'s highest damaging move vs Mismagius: Sludge Wave
+      + 17 for slow kill
+[AI] Goodra (1) is considering using Scald (1) against Mismagius (0)...
+     Goodra (1)'s highest damaging move vs Mismagius: Sludge Wave
+      + 17 for slow kill
+[AI] Move choices for Goodra (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *  33.3% to use Sludge Wave: score 18
+   *  33.3% to use Thunderbolt (target 0): score 18
+   *  33.3% to use Scald (target 0): score 18
+   => will use Scald (target 0)
+
+[Round order] Mismagius (0), the opposing Goodra (1)
+
+"Good job, Mismagius! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Goodra (1) used Scald
+"The opposing Goodra used Scald!"
+[HP change] Chimecho lost 48 HP (151 -> 103)
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+     + 4 to prioritize highest damaging move
+[AI] Goodra (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+[AI] Goodra (1) is considering using Scald (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+[AI] Move choices for Goodra (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Sludge Wave: score 5
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Scald (target 0): score 0
+   => will use Sludge Wave
+
+[Round order] Chimecho (0), the opposing Goodra (1)
+
+[Use move] Chimecho (0) used Icy Wind
+"Chimecho used Icy Wind!"
+[HP change] The opposing Goodra lost 27 HP (165 -> 138)
+"It's super effective!"
+[Stat change] The opposing Goodra's Speed changed by -1 (0 -> -1)
+"The opposing Goodra's Speed fell!"
+[Use move] The opposing Goodra (1) used Sludge Wave
+"The opposing Goodra used Sludge Wave!"
+[HP change] Chimecho lost 100 HP (103 -> 3)
+"It's super effective!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+      + 17 for slow kill
+[AI] Goodra (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+      + 17 for slow kill
+[AI] Goodra (1) is considering using Scald (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+      + 17 for slow kill
+[AI] Move choices for Goodra (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *  33.3% to use Sludge Wave: score 18
+   *  33.3% to use Thunderbolt (target 0): score 18
+   *  33.3% to use Scald (target 0): score 18
+   => will use Thunderbolt (target 0)
+
+[Round order] Chimecho (0), the opposing Goodra (1)
+
+"Good job, Chimecho! Come back!"
+"Go for it, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Goodra (1) used Thunderbolt
+"The opposing Goodra used Thunderbolt!"
+[HP change] Hitmonchan lost 47 HP (123 -> 76)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Hitmonchan (0)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+[AI] Goodra (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+[AI] Goodra (1) is considering using Scald (1) against Hitmonchan (0)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+[AI] Move choices for Goodra (1):
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Sludge Wave: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Scald (target 0): score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Hitmonchan (0), the opposing Goodra (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Goodra lost 102 HP (138 -> 36)
+"A critical hit!"
+[Ability triggered] The opposing Goodra's Gooey
+[Stat change] Hitmonchan's Speed changed by -1 (0 -> -1)
+"Hitmonchan's Speed fell!"
+"The opposing Goodra had its energy drained!"
+[HP change] Hitmonchan gained 47 HP (76 -> 123)
+[Use move] The opposing Goodra (1) used Dragon Pulse
+"The opposing Goodra used Dragon Pulse!"
+[HP change] Hitmonchan lost 68 HP (123 -> 55)
+[HP change] Hitmonchan gained 30 HP (55 -> 85)
+"Hitmonchan restored its health using its Sitrus Berry!"
+[Item consumed] Hitmonchan consumed its held Sitrus Berry
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Hitmonchan (0): -1
+     Threat Score for Hitmonchan (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Hitmonchan (0)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+[AI] Goodra (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+[AI] Goodra (1) is considering using Scald (1) against Hitmonchan (0)...
+     Goodra (1)'s highest damaging move vs Hitmonchan: Dragon Pulse
+[AI] Move choices for Goodra (1):
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Sludge Wave: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Scald (target 0): score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Goodra (1), Hitmonchan (0)
+
+[Use move] The opposing Goodra (1) used Dragon Pulse
+"The opposing Goodra used Dragon Pulse!"
+[HP change] Hitmonchan lost 58 HP (85 -> 27)
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Goodra lost 36 HP (36 -> 0)
+[Ability triggered] The opposing Goodra's Gooey
+[Stat change] Hitmonchan's Speed changed by -1 (-1 -> -2)
+"Hitmonchan's Speed fell!"
+"The opposing Goodra fainted!"
+"The opposing Goodra had its energy drained!"
+[HP change] Hitmonchan gained 18 HP (27 -> 45)
+
+===== Player won =====
+
+"You defeated Lady Melissa!"
+"Wow. You're great!"
+
+"You got $8,000 for winning!"
