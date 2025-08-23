@@ -1,13 +1,13 @@
 
-Hitmonchan @ Fist Plate
+Sunflora
 Level: 51
-Quirky Nature
-Ability: Keen Eye
-IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
-- Drain Punch
-- Close Combat
-- Fake Out
-- Ice Punch
+Docile Nature
+Ability: Chlorophyll
+IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
+- Flamethrower
+- Worry Seed
+- Giga Drain
+- Magma Storm
 
 Obstagoon
 Level: 51
@@ -19,47 +19,17 @@ IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
 - Night Slash
 - Headbutt
 
-Skarmory
+Gardevoir
 Level: 51
-Relaxed Nature
-Ability: Sturdy
-IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
-- Drill Peck
-- Iron Head
-- Body Press
-- Defog
+Calm Nature
+Ability: Synchronize
+IVs: 10 HP / 22 Atk / 26 Def / 30 SpA / 21 SpD / 3 Spe
+- Psychic
+- Moonblast
+- Flash
+- Charm
 
-Chimecho
-Level: 51
-Naughty Nature
-Ability: Levitate
-IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
-- Psybeam
-- Icy Wind
-- Dazzling Gleam
-- Mach Pulse
-
-Electrode
-Level: 51
-Sassy Nature
-Ability: Static
-IVs: 0 HP / 17 Atk / 18 Def / 9 SpA / 14 SpD / 22 Spe
-- Magnet Rise
-- Discharge
-- Explosion
-- Electro Ball
-
-Floatzel
-Level: 51
-Impish Nature
-Ability: Water Veil
-IVs: 7 HP / 5 Atk / 11 Def / 18 SpA / 11 SpD / 23 Spe
-- Aqua Jet
-- Aqua Tail
-- Crunch
-- Quick Attack
-
-Falinks
+Falinks @ Sitrus Berry
 Level: 51
 Jolly Nature
 Ability: Skill Link
@@ -79,7 +49,17 @@ IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
 - Lava Plume
 - Scald
 
-Musharna
+Butterfree @ Sitrus Berry
+Level: 51
+Bold Nature
+Ability: Compound Eyes
+IVs: 22 HP / 6 Atk / 26 Def / 22 SpA / 7 SpD / 19 Spe
+- Raging Swarm
+- Tailwind
+- Bug Buzz
+- Air Slash
+
+Musharna @ Sitrus Berry
 Level: 51
 Modest Nature
 Ability: Forewarn
@@ -89,7 +69,7 @@ IVs: 6 HP / 18 Atk / 23 Def / 14 SpA / 3 SpD / 25 Spe
 - Moonlight
 - Yawn
 
-Pyroar
+Pyroar @ Sitrus Berry
 Level: 51
 Relaxed Nature
 Ability: Unnerve
@@ -97,6 +77,36 @@ IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
 - Hyper Voice
 - Dark Pulse
 - Flamethrower
+- Mach Pulse
+
+Hitmonchan @ Fist Plate
+Level: 51
+Quirky Nature
+Ability: Keen Eye
+IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
+- Drain Punch
+- Close Combat
+- Fake Out
+- Ice Punch
+
+Electrode
+Level: 51
+Sassy Nature
+Ability: Static
+IVs: 0 HP / 17 Atk / 18 Def / 9 SpA / 14 SpD / 22 Spe
+- Magnet Rise
+- Discharge
+- Explosion
+- Electro Ball
+
+Chimecho @ Sitrus Berry
+Level: 51
+Naughty Nature
+Ability: Levitate
+IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
+- Psybeam
+- Icy Wind
+- Dazzling Gleam
 - Mach Pulse
 
 Mismagius
@@ -109,7 +119,7 @@ IVs: 29 HP / 31 Atk / 9 Def / 25 SpA / 5 SpD / 13 Spe
 - Hex
 - Icy Wind
 
-Infernape
+Infernape @ Sitrus Berry
 Level: 51
 Calm Nature
 Ability: Blaze
@@ -119,22 +129,12 @@ IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
 - Mach Punch
 - Grass Knot
 
-Butterfree
+Skarmory
 Level: 51
-Bold Nature
-Ability: Compound Eyes
-IVs: 22 HP / 6 Atk / 26 Def / 22 SpA / 7 SpD / 19 Spe
-- Raging Swarm
-- Tailwind
-- Bug Buzz
-- Air Slash
-
-Gardevoir @ Cheri Berry
-Level: 51
-Calm Nature
-Ability: Synchronize
-IVs: 10 HP / 22 Atk / 26 Def / 30 SpA / 21 SpD / 3 Spe
-- Psychic
-- Moonblast
-- Flash
-- Charm
+Relaxed Nature
+Ability: Sturdy
+IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
+- Drill Peck
+- Iron Head
+- Body Press
+- Defog
