@@ -200668,3 +200668,1818 @@ Set up score for Skarmory (0): 0
 "Where do you want to send Sunkern to?"
 "Where do you want to send Sunkern to?"
 "Sunkern has been sent to Box "Box 1"!"
+Roles for SMEARGLE: [:LEAD]
+Roles for SUDOWOODO: [:PHYSICALBREAKER]
+Roles for SNORLAX: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MRMIME: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Artist William!"
+"Artist William sent out Smeargle!"
+"Go! Falinks!"
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+===== Round 1 =====
+
+Set up score for Smeargle (1): 0
+     Smeargle (1)'s highest damaging move vs Falinks: Fake Out
+Set up score for Smeargle (1): 0
+Set up score for Smeargle (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass (4)...
+     + 4 for switch initiative against a bad matchup
+Set up score for Smeargle (1): 0
+[AI] Smeargle (1) is considering using Fake Out (1) against Falinks (0)...
+     Smeargle (1)'s highest damaging move vs Falinks: Fake Out
+     + 18 for using turn 1
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   * 100.0% to use Fake Out (target 0): score 19
+   => will use Fake Out (target 0)
+
+[Round order] Falinks (0), the opposing Smeargle (1)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+"Falinks protected itself!"
+
+[End of round 1]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Special Defense changed by +2 (0 -> 2)
+"The opposing Smeargle's Special Defense rose sharply!"
+[Stat change] The opposing Smeargle's Special Attack changed by -1 (0 -> -1)
+"The opposing Smeargle's Special Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (-2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass (4)...
+     + 4 for switch initiative against a bad matchup
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+     + 2 to encourage stat passing
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   * 100.0% to use Baton Pass: score 10
+   *   0.0% to use Fake Out: score 0
+   => will use Baton Pass
+
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+[Use move] The opposing Smeargle (1) used Baton Pass
+"The opposing Smeargle used Baton Pass!"
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+==============================
+     [Sudowoodo] using Stone Edge vs Falinks does a max of 43/127 damage
+     [Sudowoodo] using Wood Hammer vs Falinks does a max of 52/127 damage
+     [Sudowoodo] using Sucker Punch vs Falinks does a max of 16/127 damage
+     [Sudowoodo] using Earthquake vs Falinks does a max of 44/127 damage
+     Falinks (0)'s best move: Close Combat for 147/137 damage
+==============================
+     [Sudowoodo] - 20: for us being killed on switch in
+     [Sudowoodo] final Switch score: -20
+==============================
+     [Snorlax] using Body Slam vs Falinks does a max of 60/127 damage
+     [Snorlax] using Darkest Lariat vs Falinks does a max of 20/127 damage
+     [Snorlax] using Earthquake vs Falinks does a max of 46/127 damage
+     Falinks (0)'s best move: Close Combat for 228/226 damage
+==============================
+     [Snorlax] - 20: for us being killed on switch in
+     [Snorlax] final Switch score: -20
+==============================
+     [Mr. Mime] using Psychic vs Falinks does a max of 177/127 damage
+     [Mr. Mime] using Dazzling Gleam vs Falinks does a max of 156/127 damage
+     [Mr. Mime] using Thunderbolt vs Falinks does a max of 59/127 damage
+     Falinks (0)'s best move: Bullet Seed for 81/109 damage
+==============================
+     [Mr. Mime] + 12: for fast kill
+     [Mr. Mime] final Switch score: 12
+[AI] Highest move score (10) vs Switch In Score (12)
+"Artist William sent out Mr. Mime!"
+[Use move] Falinks (0) used Close Combat
+"Falinks used Close Combat!"
+[HP change] The opposing Mr. Mime lost 25 HP (109 -> 84)
+"It's not very effective..."
+[Stat change] Falinks's Defense changed by -1 (0 -> -1)
+"Falinks's Defense fell!"
+[Stat change] Falinks's Special Defense changed by -1 (0 -> -1)
+"Falinks's Special Defense fell!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     Mr. Mime (1)'s highest damaging move vs Falinks: Psychic
+     Mr. Mime (1)'s highest damaging move vs Falinks: Psychic
+     Mr. Mime (1)'s highest damaging move vs Falinks: Psychic
+     [Switch AI] -7 We have fast kill
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-8) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): -2
+     Threat Score for Falinks (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Psychic (1) against Falinks (0)...
+     Mr. Mime (1)'s highest damaging move vs Falinks: Psychic
+      + 20 for fast kill
+[AI] Mr. Mime (1) is considering using Dazzling Gleam (1)...
+     Mr. Mime (1)'s highest damaging move vs Falinks: Psychic
+      + 20 for fast kill
+[AI] Mr. Mime (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Mr. Mime (1)'s highest damaging move vs Falinks: Psychic
+[AI] Mr. Mime (1) is considering using Calm Mind (4)...
+[AI] Move choices for Mr. Mime (1):
+   *  50.0% to use Psychic (target 0): score 21
+   *  50.0% to use Dazzling Gleam: score 21
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Mr. Mime (1), Falinks (0)
+
+"Falinks, come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Mr. Mime (1) used Dazzling Gleam
+"The opposing Mr. Mime used Dazzling Gleam!"
+[HP change] Skarmory lost 22 HP (140 -> 118)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Mr. Mime (1)'s highest damaging move vs Skarmory: Thunderbolt
+     Mr. Mime (1)'s highest damaging move vs Skarmory: Thunderbolt
+     Mr. Mime (1)'s highest damaging move vs Skarmory: Thunderbolt
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Psychic (1) against Skarmory (0)...
+     Mr. Mime (1)'s highest damaging move vs Skarmory: Thunderbolt
+[AI] Mr. Mime (1) is considering using Dazzling Gleam (1)...
+     Mr. Mime (1)'s highest damaging move vs Skarmory: Thunderbolt
+[AI] Mr. Mime (1) is considering using Thunderbolt (1) against Skarmory (0)...
+     Mr. Mime (1)'s highest damaging move vs Skarmory: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Mr. Mime (1) is considering using Calm Mind (4)...
+[AI] Move choices for Mr. Mime (1):
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Calm Mind: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Mr. Mime (1), Skarmory (0)
+
+"Skarmory, switch out! Come back!"
+"Go for it, Mismagius!"
+[Use move] The opposing Mr. Mime (1) used Thunderbolt
+"The opposing Mr. Mime used Thunderbolt!"
+[HP change] Mismagius lost 23 HP (136 -> 113)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +5 Party member [Smeargle] is immune to strongest move against Mr. Mime (1)
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Psychic (1) against Mismagius (0)...
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Mr. Mime (1) is considering using Dazzling Gleam (1)...
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+[AI] Mr. Mime (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+[AI] Mr. Mime (1) is considering using Calm Mind (4)...
+[AI] Move choices for Mr. Mime (1):
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Mr. Mime (1), Mismagius (0)
+
+[Use move] The opposing Mr. Mime (1) used Psychic
+"The opposing Mr. Mime used Psychic!"
+[HP change] Mismagius lost 72 HP (113 -> 41)
+"A critical hit!"
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Mr. Mime lost 45 HP (84 -> 39)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+Set up score for Mr. Mime (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +5 Party member [Smeargle] is immune to strongest move against Mr. Mime (1)
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Psychic (1) against Mismagius (0)...
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Mr. Mime (1) is considering using Dazzling Gleam (1)...
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+[AI] Mr. Mime (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+[AI] Mr. Mime (1) is considering using Calm Mind (4)...
+[AI] Move choices for Mr. Mime (1):
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Mr. Mime (1), Mismagius (0)
+
+[Use move] The opposing Mr. Mime (1) used Psychic
+"The opposing Mr. Mime used Psychic!"
+[HP change] Mismagius lost 33 HP (41 -> 8)
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Mr. Mime lost 39 HP (39 -> 0)
+"It's super effective!"
+"The opposing Mr. Mime fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+     Mr. Mime (1)'s highest damaging move vs Mismagius: Psychic
+==============================
+     [Smeargle] using Fake Out vs Mismagius does a max of 1/8 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 122/120 damage
+==============================
+     [Smeargle] -  9: for target fast kill
+     [Smeargle] final Switch score: -9
+==============================
+     [Sudowoodo] using Stone Edge vs Mismagius does a max of 141/8 damage
+     [Sudowoodo] using Wood Hammer vs Mismagius does a max of 87/8 damage
+     [Sudowoodo] using Sucker Punch vs Mismagius does a max of 51/8 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 92/137 damage
+==============================
+     [Sudowoodo] +  9: for slow kill
+     [Sudowoodo] final Switch score: 9
+==============================
+     [Snorlax] using Body Slam vs Mismagius does a max of 1/8 damage
+     [Snorlax] using Darkest Lariat vs Mismagius does a max of 65/8 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 54/226 damage
+==============================
+     [Snorlax] +  9: for slow kill
+     [Snorlax] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Artist William sent out Sudowoodo!"
+
+===== Round 7 =====
+
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+     move will not affect Mismagius (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Sudowoodo (1): 0
+Set up score for Sudowoodo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sudowoodo (1) is considering using Stone Edge (1) against Mismagius (0)...
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+      + 17 for slow kill
+[AI] Sudowoodo (1) is considering using Wood Hammer (1) against Mismagius (0)...
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+      + 17 for slow kill
+[AI] Sudowoodo (1) is considering using Sucker Punch (1) against Mismagius (0)...
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+     - 1 for factoring in 1 Status Moves from Mismagius (0)
+      + 17 for slow kill
+[AI] Sudowoodo (1) is considering using Earthquake (1)...
+     Sudowoodo (1)'s highest damaging move vs Mismagius: Stone Edge
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Move choices for Sudowoodo (1):
+   *  50.0% to use Stone Edge (target 0): score 18
+   *  50.0% to use Wood Hammer (target 0): score 18
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Mismagius (0), the opposing Sudowoodo (1)
+
+"Good job, Mismagius! Come back!"
+"You're in charge, Falinks!"
+[Use move] The opposing Sudowoodo (1) used Stone Edge
+"The opposing Sudowoodo used Stone Edge!"
+"The Rock Gem strengthened Stone Edge's power!"
+[HP change] Falinks lost 36 HP (127 -> 91)
+"It's not very effective..."
+[Item consumed] The opposing Sudowoodo consumed its held Rock Gem
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     [Switch AI] +2 Target has fast kill
+Set up score for Sudowoodo (1): 0
+Set up score for Sudowoodo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sudowoodo (1) is considering using Stone Edge (1) against Falinks (0)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+[AI] Sudowoodo (1) is considering using Wood Hammer (1) against Falinks (0)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     + 4 to prioritize highest damaging move
+[AI] Sudowoodo (1) is considering using Sucker Punch (1) against Falinks (0)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     - 1 for factoring in 1 Status Moves from Falinks (0)
+     + 9 to get a last ditch hit off.
+[AI] Sudowoodo (1) is considering using Earthquake (1)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+[AI] Move choices for Sudowoodo (1):
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Wood Hammer (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 9
+   *   0.0% to use Earthquake: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Sudowoodo (1), Falinks (0)
+
+[Use move] The opposing Sudowoodo (1) used Sucker Punch
+"The opposing Sudowoodo used Sucker Punch!"
+[HP change] Falinks lost 15 HP (91 -> 76)
+"It's not very effective..."
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Sudowoodo lost 19 HP (137 -> 118)
+[HP change] The opposing Sudowoodo lost 20 HP (118 -> 98)
+[HP change] The opposing Sudowoodo lost 20 HP (98 -> 78)
+[HP change] The opposing Sudowoodo lost 19 HP (78 -> 59)
+[HP change] The opposing Sudowoodo lost 22 HP (59 -> 37)
+"It's super effective!"
+"Hit 5 times!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     [Switch AI] +2 Target has fast kill
+Set up score for Sudowoodo (1): 0
+Set up score for Sudowoodo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sudowoodo (1) is considering using Stone Edge (1) against Falinks (0)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+[AI] Sudowoodo (1) is considering using Wood Hammer (1) against Falinks (0)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     + 4 to prioritize highest damaging move
+[AI] Sudowoodo (1) is considering using Sucker Punch (1) against Falinks (0)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     - 1 for factoring in 1 Status Moves from Falinks (0)
+     + 9 to get a last ditch hit off.
+[AI] Sudowoodo (1) is considering using Earthquake (1)...
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+[AI] Move choices for Sudowoodo (1):
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Wood Hammer (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 9
+   *   0.0% to use Earthquake: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Sudowoodo (1), Falinks (0)
+
+[Use move] The opposing Sudowoodo (1) used Sucker Punch
+"The opposing Sudowoodo used Sucker Punch!"
+[HP change] Falinks lost 15 HP (76 -> 61)
+"It's not very effective..."
+[HP change] Falinks gained 31 HP (61 -> 92)
+"Falinks restored its health using its Sitrus Berry!"
+[Item consumed] Falinks consumed its held Sitrus Berry
+[Use move] Falinks (0) used Close Combat
+"Falinks used Close Combat!"
+[HP change] The opposing Sudowoodo lost 37 HP (37 -> 0)
+"It's super effective!"
+[Stat change] Falinks's Defense changed by -1 (0 -> -1)
+"Falinks's Defense fell!"
+[Stat change] Falinks's Special Defense changed by -1 (0 -> -1)
+"Falinks's Special Defense fell!"
+"The opposing Sudowoodo fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+     Sudowoodo (1)'s highest damaging move vs Falinks: Wood Hammer
+==============================
+     [Smeargle] using Fake Out vs Falinks does a max of 14/92 damage
+     Falinks (0)'s best move: Close Combat for 363/120 damage
+==============================
+     [Smeargle] -  7: for target slow kill
+     [Smeargle] final Switch score: -7
+==============================
+     [Snorlax] using Body Slam vs Falinks does a max of 89/92 damage
+     [Snorlax] using Darkest Lariat vs Falinks does a max of 20/92 damage
+     [Snorlax] using Earthquake vs Falinks does a max of 69/92 damage
+     Falinks (0)'s best move: Close Combat for 228/226 damage
+==============================
+     [Snorlax] -  9: for target fast kill
+     [Snorlax] final Switch score: -9
+[AI] Highest move score (9) vs Switch In Score (-7)
+"Artist William sent out Smeargle!"
+
+===== Round 10 =====
+
+Set up score for Smeargle (1): 0
+     Smeargle (1)'s highest damaging move vs Falinks: Fake Out
+Set up score for Smeargle (1): 0
+Set up score for Smeargle (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (23)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): -2
+     Threat Score for Falinks (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass (4)...
+     + 4 for switch initiative against a bad matchup
+Set up score for Smeargle (1): 0
+[AI] Smeargle (1) is considering using Fake Out (1) against Falinks (0)...
+     Smeargle (1)'s highest damaging move vs Falinks: Fake Out
+     + 18 for using turn 1
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   * 100.0% to use Fake Out (target 0): score 23
+   => will use Fake Out (target 0)
+
+[Round order] Falinks (0), the opposing Smeargle (1)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+"Falinks protected itself!"
+
+[End of round 10]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Special Defense changed by +2 (0 -> 2)
+"The opposing Smeargle's Special Defense rose sharply!"
+[Stat change] The opposing Smeargle's Attack changed by -1 (0 -> -1)
+"The opposing Smeargle's Attack fell!"
+
+===== Round 11 =====
+
+Set up score for Smeargle (1): 0
+Set up score for Smeargle (1): 0
+Set up score for Smeargle (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (8)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): -2
+     Threat Score for Falinks (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass (4)...
+     + 4 for switch initiative against a bad matchup
+Set up score for Smeargle (1): 0
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   * 100.0% to use Baton Pass: score 8
+   *   0.0% to use Fake Out: score 0
+   => will use Baton Pass
+
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+[Use move] The opposing Smeargle (1) used Baton Pass
+"The opposing Smeargle used Baton Pass!"
+Set up score for Smeargle (1): 0
+==============================
+     [Snorlax] using Body Slam vs Falinks does a max of 89/92 damage
+     [Snorlax] using Darkest Lariat vs Falinks does a max of 20/92 damage
+     [Snorlax] using Earthquake vs Falinks does a max of 69/92 damage
+     Falinks (0)'s best move: Close Combat for 228/226 damage
+==============================
+     [Snorlax] - 20: for us being killed on switch in
+     [Snorlax] final Switch score: -20
+[AI] Highest move score (8) vs Switch In Score (-20)
+"Artist William sent out Snorlax!"
+[Use move] Falinks (0) used Close Combat
+"Falinks used Close Combat!"
+[HP change] The opposing Snorlax lost 201 HP (226 -> 25)
+"It's super effective!"
+[Stat change] Falinks's Defense changed by -1 (-1 -> -2)
+"Falinks's Defense fell!"
+[Stat change] Falinks's Special Defense changed by -1 (-1 -> -2)
+"Falinks's Special Defense fell!"
+
+[End of round 11]
+[HP change] The opposing Snorlax gained 14 HP (25 -> 39)
+"The opposing Snorlax restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+     [Switch AI] +2 Target has fast kill
+Set up score for Snorlax (1): 1
+Set up score for Snorlax (1): 1
+Set up score for Snorlax (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-9) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): -4
+     Threat Score for Falinks (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Snorlax (1) is considering using Curse (4)...
+[AI] Snorlax (1) is considering using Body Slam (1) against Falinks (0)...
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+     + 4 to prioritize highest damaging move
+[AI] Snorlax (1) is considering using Darkest Lariat (1) against Falinks (0)...
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+[AI] Snorlax (1) is considering using Earthquake (1)...
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+[AI] Move choices for Snorlax (1):
+   *   0.0% to use Curse: score 0
+   * 100.0% to use Body Slam (target 0): score 5
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Body Slam (target 0)
+
+[Round order] Falinks (0), the opposing Snorlax (1)
+
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Snorlax lost 15 HP (39 -> 24)
+[HP change] The opposing Snorlax lost 16 HP (24 -> 8)
+[HP change] The opposing Snorlax lost 8 HP (8 -> 0)
+"The opposing Snorlax fainted!"
+"Hit 3 times!"
+
+[End of round 12]
+Trick Room Turns: 0
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+     Snorlax (1)'s highest damaging move vs Falinks: Body Slam
+==============================
+     [Smeargle] using Fake Out vs Falinks does a max of 18/92 damage
+     Falinks (0)'s best move: Close Combat for 363/120 damage
+==============================
+     [Smeargle] -  7: for target slow kill
+     [Smeargle] final Switch score: -7
+[AI] Highest move score (18) vs Switch In Score (-7)
+"Artist William sent out Smeargle!"
+
+===== Round 13 =====
+
+Set up score for Falinks (0): -4
+     Threat Score for Falinks (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Fake Out (1) against Falinks (0)...
+     Smeargle (1)'s highest damaging move vs Falinks: Fake Out
+     + 18 for using turn 1
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   * 100.0% to use Fake Out (target 0): score 23
+   => will use Fake Out (target 0)
+
+[Round order] Falinks (0), the opposing Smeargle (1)
+
+[Use move] Falinks (0) used Protect
+"Falinks used Protect!"
+"Falinks protected itself!"
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+"Falinks protected itself!"
+
+[End of round 13]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Special Defense changed by +2 (0 -> 2)
+"The opposing Smeargle's Special Defense rose sharply!"
+[Stat change] The opposing Smeargle's Special Attack changed by -1 (0 -> -1)
+"The opposing Smeargle's Special Attack fell!"
+
+===== Round 14 =====
+
+Set up score for Falinks (0): -4
+     Threat Score for Falinks (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   * 100.0% to use Protect: score 4
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Protect
+
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+[Use move] The opposing Smeargle (1) used Protect
+"The opposing Smeargle used Protect!"
+"The opposing Smeargle protected itself!"
+[Use move] Falinks (0) used Close Combat
+"Falinks used Close Combat!"
+"The opposing Smeargle protected itself!"
+
+[End of round 14]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Speed changed by +2 (0 -> 2)
+"The opposing Smeargle's Speed rose sharply!"
+[Stat change] The opposing Smeargle's Special Attack changed by -1 (-1 -> -2)
+"The opposing Smeargle's Special Attack fell!"
+
+===== Round 15 =====
+
+Set up score for Falinks (0): -4
+     Threat Score for Falinks (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Sticky Web: score 1
+   *   0.0% to use Baton Pass: score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Sticky Web
+
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+[Use move] The opposing Smeargle (1) used Sticky Web
+"The opposing Smeargle used Sticky Web!"
+"A sticky web has been laid out beneath your team's feet!"
+[Use move] Falinks (0) used Close Combat
+"Falinks used Close Combat!"
+[HP change] The opposing Smeargle lost 119 HP (120 -> 1)
+"It's super effective!"
+[Stat change] Falinks's Defense changed by -1 (-2 -> -3)
+"Falinks's Defense fell!"
+[Stat change] Falinks's Special Defense changed by -1 (-2 -> -3)
+"Falinks's Special Defense fell!"
+"The opposing Smeargle hung on using its Focus Sash!"
+[Item consumed] The opposing Smeargle consumed its held Focus Sash
+
+[End of round 15]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Attack changed by +2 (0 -> 2)
+"The opposing Smeargle's Attack rose sharply!"
+[Stat change] The opposing Smeargle's Speed changed by -1 (2 -> 1)
+"The opposing Smeargle's Speed fell!"
+
+===== Round 16 =====
+
+Set up score for Falinks (0): -6
+     Threat Score for Falinks (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Baton Pass...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   * 100.0% to use Protect: score 4
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Protect
+
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+[Use move] The opposing Smeargle (1) used Protect
+"The opposing Smeargle used Protect!"
+"The opposing Smeargle protected itself!"
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+"The opposing Smeargle protected itself!"
+
+[End of round 16]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Special Attack changed by +2 (-2 -> 0)
+"The opposing Smeargle's Special Attack rose sharply!"
+[Stat change] The opposing Smeargle's Speed changed by -1 (1 -> 0)
+"The opposing Smeargle's Speed fell!"
+
+===== Round 17 =====
+
+Set up score for Falinks (0): -6
+     Threat Score for Falinks (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Smeargle (1) is considering using Sticky Web...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Baton Pass...
+     +  1: move will fail
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   * 100.0% to use Protect: score 1
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   *   0.0% to use Fake Out: score 0
+   => will use Protect
+
+[Round order] The opposing Smeargle (1), Falinks (0)
+
+[Use move] The opposing Smeargle (1) used Protect
+"The opposing Smeargle used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Smeargle lost 1 HP (1 -> 0)
+"The opposing Smeargle fainted!"
+"Hit 1 time!"
+
+===== Player won =====
+
+"You defeated Artist William!"
+"Wow. You're great!"
+
+"You got $1,536 for winning!"
+Roles for ARCANINE: [:PHYSICALBREAKER]
+Roles for TENTACRUEL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for REUNICLUS: [:SETUPSWEEPER]
+Roles for DRAMPA: [:SPECIALBREAKER, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Bobby!"
+"Policeman Bobby sent out Arcanine!"
+"Go! Magcargo!"
+[Round order] The opposing Arcanine (1), Magcargo (0)
+[Ability triggered] The opposing Arcanine's Intimidate
+[Stat change] Magcargo's Attack changed by -1 (0 -> -1)
+"Magcargo's Attack fell!"
+
+===== Round 1 =====
+
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Magcargo (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Arcanine (1), Magcargo (0)
+
+[Use move] The opposing Arcanine (1) used Thunder Fang
+"The opposing Arcanine used Thunder Fang!"
+[HP change] Magcargo lost 57 HP (133 -> 76)
+"It's super effective!"
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (156 -> 141)
+"The opposing Arcanine lost some of its HP!"
+[Use move] Magcargo (0) used Scald
+"Magcargo flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Arcanine (1), Magcargo (0)
+
+[Use move] The opposing Arcanine (1) used Thunder Fang
+"The opposing Arcanine used Thunder Fang!"
+[HP change] Magcargo lost 57 HP (76 -> 19)
+"It's super effective!"
+[HP change] Magcargo gained 33 HP (19 -> 52)
+"Magcargo restored its health using its Sitrus Berry!"
+[Item consumed] Magcargo consumed its held Sitrus Berry
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (141 -> 126)
+"The opposing Arcanine lost some of its HP!"
+[Use move] Magcargo (0) used Scald
+"Magcargo used Scald!"
+[HP change] The opposing Arcanine lost 99 HP (126 -> 27)
+"It's super effective!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+     [Switch AI] -7 We have fast kill
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magcargo (0): 0
+     Threat Score for Magcargo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+      + 20 for fast kill
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Magcargo (0)...
+     Arcanine (1)'s highest damaging move vs Magcargo: Thunder Fang
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 21
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Arcanine (1), Magcargo (0)
+
+"OK, Magcargo! Come back!"
+"Your opponent's weak! Get 'em, Infernape!"
+[Use move] The opposing Arcanine (1) used Thunder Fang
+"The opposing Arcanine used Thunder Fang!"
+[HP change] Infernape lost 41 HP (147 -> 106)
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (27 -> 12)
+"The opposing Arcanine lost some of its HP!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     [Switch AI] -5 We have slow kill
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Infernape (0)...
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Infernape (0)...
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Infernape (0)...
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+      + 17 for slow kill
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Infernape (0)...
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   * 100.0% to use Psychic Fangs (target 0): score 18
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Psychic Fangs (target 0)
+
+[Round order] Infernape (0), the opposing Arcanine (1)
+
+[Use move] Infernape (0) used Mach Punch
+"Infernape used Mach Punch!"
+[HP change] The opposing Arcanine lost 12 HP (12 -> 0)
+"The opposing Arcanine fainted!"
+"Magcargo got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+     Arcanine (1)'s highest damaging move vs Infernape: Psychic Fangs
+==============================
+     [Tentacruel] using Liquidation vs Infernape does a max of 99/106 damage
+     [Tentacruel] using Poison Jab vs Infernape does a max of 47/106 damage
+     [Tentacruel] using Knock Off vs Infernape does a max of 19/106 damage
+     Infernape (0)'s best move: Close Combat for 55/146 damage
+==============================
+     [Tentacruel] +  3: for outdamage
+     [Tentacruel] final Switch score: 3
+==============================
+     [Reuniclus] using Psyshock vs Infernape does a max of 156/106 damage
+     [Reuniclus] using Focus Blast vs Infernape does a max of 72/106 damage
+     Infernape (0)'s best move: Flame Wheel for 45/178 damage
+==============================
+     [Reuniclus] +  9: for slow kill
+     [Reuniclus] final Switch score: 9
+==============================
+     [Drampa] using Hyper Voice vs Infernape does a max of 95/106 damage
+     [Drampa] using Dragon Pulse vs Infernape does a max of 90/106 damage
+     [Drampa] using Flamethrower vs Infernape does a max of 32/106 damage
+     Infernape (0)'s best move: Close Combat for 174/147 damage
+==============================
+     [Drampa] -  9: for target fast kill
+     [Drampa] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Policeman Bobby sent out Reuniclus!"
+
+===== Round 5 =====
+
+     Reuniclus (1)'s highest damaging move vs Infernape: Psyshock
+     Reuniclus (1)'s highest damaging move vs Infernape: Psyshock
+     [Switch AI] -5 We have slow kill
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Infernape (0): 0
+     Threat Score for Infernape (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Infernape (0)...
+     Reuniclus (1)'s highest damaging move vs Infernape: Psyshock
+      + 17 for slow kill
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Infernape (0)...
+     Reuniclus (1)'s highest damaging move vs Infernape: Psyshock
+[AI] Reuniclus (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 18
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Infernape (0), the opposing Reuniclus (1)
+
+"Infernape, come back!"
+"You're in charge, Gardevoir!"
+[Use move] The opposing Reuniclus (1) used Psyshock
+"The opposing Reuniclus used Psyshock!"
+[HP change] Gardevoir lost 39 HP (135 -> 96)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 82 HP (178 -> 96)
+[Use move] The opposing Reuniclus (1) used Psyshock
+"The opposing Reuniclus used Psyshock!"
+[HP change] Gardevoir lost 41 HP (96 -> 55)
+"It's not very effective..."
+[HP change] Gardevoir gained 33 HP (55 -> 88)
+"Gardevoir restored its health using its Sitrus Berry!"
+[Item consumed] Gardevoir consumed its held Sitrus Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 86 HP (96 -> 10)
+[Stat change] The opposing Reuniclus's Special Attack changed by -1 (0 -> -1)
+"The opposing Reuniclus's Special Attack fell!"
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (10 -> 99)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 90 HP (99 -> 9)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (9 -> 98)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 83 HP (98 -> 15)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (15 -> 104)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+Set up score for Reuniclus (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 84 HP (104 -> 20)
+[Stat change] The opposing Reuniclus's Special Attack changed by -1 (-1 -> -2)
+"The opposing Reuniclus's Special Attack fell!"
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (20 -> 109)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 85 HP (109 -> 24)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (24 -> 113)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) cannot use Recover (no PP left)
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 81 HP (113 -> 32)
+[Use move] The opposing Reuniclus (1) used Psyshock
+"The opposing Reuniclus used Psyshock!"
+[HP change] Gardevoir lost 21 HP (88 -> 67)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     [Switch AI] +2 Target has fast kill
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Gardevoir (0)...
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+[AI] Reuniclus (1) cannot use Recover (no PP left)
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Gardevoir (0), the opposing Reuniclus (1)
+
+[Use move] Gardevoir (0) used Moonblast
+"Gardevoir used Moonblast!"
+[HP change] The opposing Reuniclus lost 32 HP (32 -> 0)
+"The opposing Reuniclus fainted!"
+"Gardevoir got 1 Exp. Points!"
+
+[End of round 13]
+Trick Room Turns: 0
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+     Reuniclus (1)'s highest damaging move vs Gardevoir: Psyshock
+==============================
+     [Tentacruel] using Liquidation vs Gardevoir does a max of 54/67 damage
+     [Tentacruel] using Poison Jab vs Gardevoir does a max of 102/67 damage
+     [Tentacruel] using Knock Off vs Gardevoir does a max of 28/67 damage
+     Gardevoir (0)'s best move: Psychic for 138/146 damage
+==============================
+     [Tentacruel] + 12: for fast kill
+     [Tentacruel] final Switch score: 12
+==============================
+     [Drampa] using Hyper Voice vs Gardevoir does a max of 66/67 damage
+     [Drampa] using Flamethrower vs Gardevoir does a max of 44/67 damage
+     Gardevoir (0)'s best move: Moonblast for 177/147 damage
+==============================
+     [Drampa] -  9: for target fast kill
+     [Drampa] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Bobby sent out Tentacruel!"
+
+===== Round 14 =====
+
+     Tentacruel (1)'s highest damaging move vs Gardevoir: Poison Jab
+     Tentacruel (1)'s highest damaging move vs Gardevoir: Poison Jab
+     Tentacruel (1)'s highest damaging move vs Gardevoir: Poison Jab
+     [Switch AI] -7 We have fast kill
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gardevoir (0): 0
+     Threat Score for Gardevoir (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Gardevoir (0)...
+     Tentacruel (1)'s highest damaging move vs Gardevoir: Poison Jab
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Gardevoir (0)...
+     Tentacruel (1)'s highest damaging move vs Gardevoir: Poison Jab
+      + 20 for fast kill
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Gardevoir (0)...
+     Tentacruel (1)'s highest damaging move vs Gardevoir: Poison Jab
+[AI] Move choices for Tentacruel (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Poison Jab (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] The opposing Tentacruel (1), Gardevoir (0)
+
+"OK, Gardevoir! Come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Tentacruel (1) used Poison Jab
+"The opposing Tentacruel used Poison Jab!"
+[Target immune] Skarmory's type immunity
+"It doesn't affect Skarmory..."
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Skarmory (0)
+
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Skarmory lost 25 HP (140 -> 115)
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tentacruel lost 62 HP (146 -> 84)
+
+[End of round 15]
+[HP change] The opposing Tentacruel gained 9 HP (84 -> 93)
+"The opposing Tentacruel restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Skarmory (0)
+
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Skarmory lost 26 HP (115 -> 89)
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tentacruel lost 68 HP (93 -> 25)
+
+[End of round 16]
+[HP change] The opposing Tentacruel gained 9 HP (25 -> 34)
+"The opposing Tentacruel restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Skarmory (0)...
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Skarmory (0)
+
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Skarmory lost 24 HP (89 -> 65)
+[HP change] Skarmory gained 35 HP (65 -> 100)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Stat change] Skarmory's Defense changed by -1 (0 -> -1)
+"Skarmory's Defense fell!"
+[Use move] Skarmory (0) used Drill Peck
+"Skarmory used Drill Peck!"
+[HP change] The opposing Tentacruel lost 34 HP (34 -> 0)
+"The opposing Tentacruel fainted!"
+
+[End of round 17]
+Trick Room Turns: 0
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+     move will not affect Skarmory (0)
+     Tentacruel (1)'s highest damaging move vs Skarmory: Liquidation
+==============================
+     [Drampa] using Hyper Voice vs Skarmory does a max of 62/100 damage
+     [Drampa] using Dragon Pulse vs Skarmory does a max of 59/100 damage
+     [Drampa] using Flamethrower vs Skarmory does a max of 166/100 damage
+     Skarmory (0)'s best move: Body Press for 84/147 damage
+==============================
+     [Drampa] +  9: for slow kill
+     [Drampa] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Policeman Bobby sent out Drampa!"
+
+===== Round 18 =====
+
+Set up score for Skarmory (0): -1
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drampa (1) is considering using Hyper Voice (1)...
+     Drampa (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Drampa (1) is considering using Dragon Pulse (1) against Skarmory (0)...
+     Drampa (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Drampa (1) is considering using Flamethrower (1) against Skarmory (0)...
+     Drampa (1)'s highest damaging move vs Skarmory: Flamethrower
+      + 17 for slow kill
+[AI] Drampa (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Drampa (1):
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Roost: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Skarmory (0), the opposing Drampa (1)
+
+"Skarmory, come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Drampa (1) used Flamethrower
+"The opposing Drampa used Flamethrower!"
+[HP change] Mismagius lost 55 HP (136 -> 81)
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drampa (1) is considering using Hyper Voice (1)...
+     Drampa (1)'s highest damaging move vs Mismagius: Flamethrower
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Drampa (1) is considering using Dragon Pulse (1) against Mismagius (0)...
+     Drampa (1)'s highest damaging move vs Mismagius: Flamethrower
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Drampa (1) is considering using Flamethrower (1) against Mismagius (0)...
+     Drampa (1)'s highest damaging move vs Mismagius: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Drampa (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Drampa (1):
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Roost: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Mismagius (0), the opposing Drampa (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Drampa lost 138 HP (147 -> 9)
+"It's super effective!"
+[HP change] The opposing Drampa gained 36 HP (9 -> 45)
+"The opposing Drampa restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Drampa consumed its held Sitrus Berry
+[Ability triggered] The opposing Drampa's Berserk
+[Stat change] The opposing Drampa's Special Attack changed by +1 (0 -> 1)
+"The opposing Drampa's Special Attack rose!"
+[Use move] The opposing Drampa (1) used Flamethrower
+"The opposing Drampa used Flamethrower!"
+[HP change] Mismagius lost 75 HP (81 -> 6)
+[HP change] Mismagius gained 34 HP (6 -> 40)
+"Mismagius restored its health using its Sitrus Berry!"
+[Item consumed] Mismagius consumed its held Sitrus Berry
+
+[End of round 19]
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drampa (1) is considering using Hyper Voice (1)...
+     Drampa (1)'s highest damaging move vs Mismagius: Flamethrower
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Drampa (1) is considering using Dragon Pulse (1) against Mismagius (0)...
+     Drampa (1)'s highest damaging move vs Mismagius: Flamethrower
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Drampa (1) is considering using Flamethrower (1) against Mismagius (0)...
+     Drampa (1)'s highest damaging move vs Mismagius: Flamethrower
+      + 17 for slow kill
+[AI] Drampa (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Drampa (1):
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Roost: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Mismagius (0), the opposing Drampa (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Drampa lost 45 HP (45 -> 0)
+"It's super effective!"
+"The opposing Drampa fainted!"
+
+===== Player won =====
+
+"You defeated Policeman Bobby!"
+"Wow. You're great!"
+
+"You got $1,536 for winning!"
