@@ -1,6 +1,6 @@
 
 Chimecho
-Level: 56
+Level: 59
 Naughty Nature
 Ability: Levitate
 IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
@@ -9,18 +9,8 @@ IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
 - Moonblast
 - Mach Pulse
 
-Electrode
-Level: 56
-Sassy Nature
-Ability: Static
-IVs: 0 HP / 17 Atk / 18 Def / 9 SpA / 14 SpD / 22 Spe
-- Magnet Rise
-- Discharge
-- Explosion
-- Volt Switch
-
-Sunflora
-Level: 56
+Sunflora @ Sitrus Berry
+Level: 59
 Docile Nature
 Ability: Chlorophyll
 IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
@@ -29,28 +19,8 @@ IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
 - Giga Drain
 - Magma Storm
 
-Kingdra
-Level: 56
-Docile Nature
-Ability: Swift Swim
-IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
-- Icy Wind
-- Bubble Beam
-- Signal Beam
-- Dragon Pulse
-
-Infernape
-Level: 56
-Calm Nature
-Ability: Blaze
-IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
-- Flame Wheel
-- Close Combat
-- Mach Punch
-- U-turn
-
 Mismagius
-Level: 56
+Level: 59
 Quiet Nature
 Ability: Levitate
 IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
@@ -59,18 +29,28 @@ IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
 - Hex
 - Icy Wind
 
-Falinks
-Level: 56
-Jolly Nature
-Ability: Skill Link
-IVs: 1 HP / 17 Atk / 20 Def / 0 SpA / 10 SpD / 6 Spe
-- Double Hit
-- Protect
+Infernape
+Level: 59
+Calm Nature
+Ability: Blaze
+IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
+- Flame Wheel
 - Close Combat
-- Bullet Seed
+- Mach Punch
+- U-turn
 
-Hitmonchan
-Level: 56
+Barraskewda @ Sitrus Berry
+Level: 59
+Adamant Nature
+Ability: Swift Swim
+IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
+- Liquidation
+- Close Combat
+- Crunch
+- Flip Turn
+
+Hitmonchan @ Sitrus Berry
+Level: 59
 Quirky Nature
 Ability: Keen Eye
 IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
@@ -79,18 +59,18 @@ IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
 - Fake Out
 - Ice Punch
 
-Obstagoon
-Level: 56
-Rash Nature
-Ability: Guts
-IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
-- Obstruct
-- Sucker Punch
-- Night Slash
-- Double-Edge
+Kingdra @ Mystic Water
+Level: 59
+Docile Nature
+Ability: Swift Swim
+IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
+- Icy Wind
+- Snipe Shot
+- Signal Beam
+- Dragon Pulse
 
-Togekiss
-Level: 56
+Togekiss @ Sitrus Berry
+Level: 59
 Calm Nature
 Ability: Serene Grace
 IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
@@ -100,7 +80,7 @@ IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
 - Draining Kiss
 
 Skarmory @ Sitrus Berry
-Level: 56
+Level: 59
 Relaxed Nature
 Ability: Sturdy
 IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
@@ -109,12 +89,12 @@ IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
 - Body Press
 - Defog
 
-Barraskewda
-Level: 56
-Adamant Nature
-Ability: Swift Swim
-IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
-- Liquidation
-- Close Combat
-- Crunch
-- Flip Turn
+Obstagoon
+Level: 59
+Rash Nature
+Ability: Guts
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Obstruct
+- Sucker Punch
+- Night Slash
+- Double-Edge
