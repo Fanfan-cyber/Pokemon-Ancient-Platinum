@@ -223215,3 +223215,196 @@ Set up score for Hitmonchan (0): 0
 "Wow. You're great!"
 
 "You got $1,696 for winning!"
+Roles for ARBOLIVA: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for CHATOT: [:SPECIALBREAKER, :TANK]
+Roles for FARIGIRAF: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for HELIOLISK: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Parasol Lady Alexa!"
+"Parasol Lady Alexa sent out Arboliva!"
+"Go! Sunflora!"
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 85 HP (163 -> 78)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Arboliva lost 131 HP (159 -> 28)
+"It's super effective!"
+[Ability triggered] The opposing Arboliva's Seed Sower
+"Grass grew to cover the battlefield!"
+[HP change] The opposing Arboliva gained 39 HP (28 -> 67)
+"The opposing Arboliva restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Arboliva consumed its held Sitrus Berry
+"The opposing Arboliva became trapped by Magma Storm!"
+
+[End of round 1]
+[Lingering effect] Grassy Terrain heals the opposing Arboliva
+[HP change] The opposing Arboliva gained 9 HP (67 -> 76)
+"The opposing Arboliva's HP was restored."
+[Lingering effect] Grassy Terrain heals Sunflora
+[HP change] Sunflora gained 10 HP (78 -> 88)
+"Sunflora's HP was restored."
+[HP change] The opposing Arboliva lost 19 HP (76 -> 57)
+"The opposing Arboliva is hurt by Magma Storm!"
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 88 HP (88 -> 0)
+"Sunflora fainted!"
+
+[End of round 2]
+[Lingering effect] Grassy Terrain heals the opposing Arboliva
+[HP change] The opposing Arboliva gained 9 HP (57 -> 66)
+"The opposing Arboliva's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+"Just a little more! Hang in there, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Hitmonchan (0)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+[AI] Arboliva (1) is considering using Earth Power (1) against Hitmonchan (0)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+[AI] Arboliva (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+[AI] Move choices for Arboliva (1):
+   * 100.0% to use Terrain Pulse (target 0): score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Terrain Pulse (target 0)
+
+[Round order] Hitmonchan (0), the opposing Arboliva (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Arboliva lost 66 HP (66 -> 0)
+"It's super effective!"
+"The opposing Arboliva fainted!"
+"The opposing Arboliva had its energy drained!"
+
+[End of round 3]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+==============================
+     [Chatot] using Chatter vs Hitmonchan does a max of 102/132 damage
+     [Chatot] using Hyper Voice vs Hitmonchan does a max of 71/132 damage
+     [Chatot] using Heat Wave vs Hitmonchan does a max of 38/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 179/157 damage
+==============================
+     [Chatot] -  7: for target slow kill
+     [Chatot] final Switch score: -7
+==============================
+     [Farigiraf] using Hyper Voice vs Hitmonchan does a max of 74/132 damage
+     [Farigiraf] using Twin Beam vs Hitmonchan does a max of 132/132 damage
+     [Farigiraf] using Earth Power vs Hitmonchan does a max of 49/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 128/206 damage
+==============================
+     [Farigiraf] +  9: for slow kill
+     [Farigiraf] final Switch score: 9
+==============================
+     [Heliolisk] using Thunderbolt vs Hitmonchan does a max of 86/132 damage
+     [Heliolisk] using Hyper Voice vs Hitmonchan does a max of 86/132 damage
+     [Heliolisk] using Surf vs Hitmonchan does a max of 57/132 damage
+     [Heliolisk] using Grass Knot vs Hitmonchan does a max of 34/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 315/145 damage
+==============================
+     [Heliolisk] -  7: for target slow kill
+     [Heliolisk] final Switch score: -7
+==============================
+     [Bewear] using Body Slam vs Hitmonchan does a max of 105/132 damage
+     [Bewear] using Drain Punch vs Hitmonchan does a max of 93/132 damage
+     [Bewear] using Darkest Lariat vs Hitmonchan does a max of 35/132 damage
+     [Bewear] using Shadow Punch vs Hitmonchan does a max of 50/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 114/206 damage
+==============================
+     [Bewear] -  5: for target having fast 2HKO and us having no kill
+     [Bewear] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (9)
+"Parasol Lady Alexa sent out Farigiraf!"
+[Stat change] The opposing Farigiraf's Defense changed by +1 (0 -> 1)
+"The opposing Farigiraf's Grassy Seed raised its Defense!"
+[Item consumed] The opposing Farigiraf consumed its held Grassy Seed
+
+===== Round 4 =====
+
