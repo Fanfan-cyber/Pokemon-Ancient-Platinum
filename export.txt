@@ -1,61 +1,11 @@
 
-Barraskewda
-Level: 55
-Adamant Nature
-Ability: Swift Swim
-IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
-- Liquidation
-- Fury Attack
-- Crunch
-- Flip Turn
-
-Infernape
-Level: 55
-Calm Nature
-Ability: Blaze
-IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
-- Flame Wheel
-- Close Combat
-- Mach Punch
-- U-turn
-
-Obstagoon
-Level: 55
-Rash Nature
-Ability: Guts
-IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
-- Obstruct
-- Sucker Punch
-- Night Slash
-- Headbutt
-
-Skarmory
-Level: 55
-Relaxed Nature
-Ability: Sturdy
-IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
-- Brave Bird
-- Iron Head
-- Body Press
-- Defog
-
-Togekiss @ Sitrus Berry
-Level: 55
-Calm Nature
-Ability: Serene Grace
-IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
-- Air Slash
-- Ancient Power
-- Yawn
-- Draining Kiss
-
 Chimecho
 Level: 55
 Naughty Nature
 Ability: Levitate
-IVs: 7 HP / 11 Atk / 11 Def / 18 SpA / 25 SpD / 17 Spe
+IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
 - Psybeam
-- Icy Wind
+- Recover
 - Moonblast
 - Mach Pulse
 
@@ -69,25 +19,35 @@ IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
 - Hex
 - Icy Wind
 
-Magcargo
+Falinks
 Level: 55
-Bold Nature
-Ability: Magma Armor
-IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
-- Recover
-- Clear Smog
-- Flamethrower
-- Scald
+Jolly Nature
+Ability: Skill Link
+IVs: 1 HP / 17 Atk / 20 Def / 0 SpA / 10 SpD / 6 Spe
+- Double Hit
+- Protect
+- Close Combat
+- Bullet Seed
 
-Pyroar
+Obstagoon
 Level: 55
-Relaxed Nature
-Ability: Unnerve
-IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
-- Hyper Voice
-- Dark Pulse
-- Flamethrower
-- Mach Pulse
+Rash Nature
+Ability: Guts
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Obstruct
+- Sucker Punch
+- Night Slash
+- Headbutt
+
+Hitmonchan
+Level: 55
+Quirky Nature
+Ability: Keen Eye
+IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
+- Drain Punch
+- Close Combat
+- Fake Out
+- Ice Punch
 
 Sunflora
 Level: 55
@@ -109,22 +69,62 @@ IVs: 0 HP / 17 Atk / 18 Def / 9 SpA / 14 SpD / 22 Spe
 - Explosion
 - Volt Switch
 
-Hitmonchan @ Sitrus Berry
+Magcargo
 Level: 55
-Quirky Nature
-Ability: Keen Eye
-IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
-- Drain Punch
-- Close Combat
-- Fake Out
-- Ice Punch
+Bold Nature
+Ability: Magma Armor
+IVs: 22 HP / 16 Atk / 2 Def / 1 SpA / 8 SpD / 21 Spe
+- Recover
+- Clear Smog
+- Flamethrower
+- Scald
 
-Falinks
+Pyroar
 Level: 55
-Jolly Nature
-Ability: Skill Link
-IVs: 1 HP / 17 Atk / 20 Def / 0 SpA / 10 SpD / 6 Spe
-- Double Hit
-- Protect
+Relaxed Nature
+Ability: Unnerve
+IVs: 26 HP / 2 Atk / 24 Def / 4 SpA / 13 SpD / 25 Spe
+- Hyper Voice
+- Dark Pulse
+- Flamethrower
+- Mach Pulse
+
+Infernape
+Level: 55
+Calm Nature
+Ability: Blaze
+IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
+- Flame Wheel
 - Close Combat
-- Bullet Seed
+- Mach Punch
+- U-turn
+
+Togekiss
+Level: 55
+Calm Nature
+Ability: Serene Grace
+IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
+- Air Slash
+- Ancient Power
+- Yawn
+- Draining Kiss
+
+Barraskewda
+Level: 55
+Adamant Nature
+Ability: Swift Swim
+IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
+- Liquidation
+- Fury Attack
+- Crunch
+- Flip Turn
+
+Skarmory
+Level: 55
+Relaxed Nature
+Ability: Sturdy
+IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
+- Brave Bird
+- Iron Head
+- Body Press
+- Defog

@@ -223408,3 +223408,3339 @@ Trick Room Turns: 0
 
 ===== Round 4 =====
 
+Roles for ARBOLIVA: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for CHATOT: [:SPECIALBREAKER, :TANK]
+Roles for FARIGIRAF: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for HELIOLISK: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Parasol Lady Alexa!"
+"Parasol Lady Alexa sent out Arboliva!"
+"Go! Sunflora!"
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 81 HP (163 -> 82)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[Move failed] Failed pbAccuracyCheck
+"Sunflora's attack missed!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 82 HP (82 -> 0)
+"Sunflora fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+Roles for ARBOLIVA: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for CHATOT: [:SPECIALBREAKER, :TANK]
+Roles for FARIGIRAF: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for HELIOLISK: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Parasol Lady Alexa!"
+"Parasol Lady Alexa sent out Arboliva!"
+"Go! Sunflora!"
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 86 HP (163 -> 77)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Arboliva lost 146 HP (159 -> 13)
+"It's super effective!"
+[Ability triggered] The opposing Arboliva's Seed Sower
+"Grass grew to cover the battlefield!"
+[HP change] The opposing Arboliva gained 39 HP (13 -> 52)
+"The opposing Arboliva restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Arboliva consumed its held Sitrus Berry
+"The opposing Arboliva became trapped by Magma Storm!"
+
+[End of round 1]
+[Lingering effect] Grassy Terrain heals the opposing Arboliva
+[HP change] The opposing Arboliva gained 9 HP (52 -> 61)
+"The opposing Arboliva's HP was restored."
+[Lingering effect] Grassy Terrain heals Sunflora
+[HP change] Sunflora gained 10 HP (77 -> 87)
+"Sunflora's HP was restored."
+[HP change] The opposing Arboliva lost 19 HP (61 -> 42)
+"The opposing Arboliva is hurt by Magma Storm!"
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 87 HP (87 -> 0)
+"Sunflora fainted!"
+
+[End of round 2]
+[Lingering effect] Grassy Terrain heals the opposing Arboliva
+[HP change] The opposing Arboliva gained 9 HP (42 -> 51)
+"The opposing Arboliva's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+"Just a little more! Hang in there, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Hitmonchan (0)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+[AI] Arboliva (1) is considering using Earth Power (1) against Hitmonchan (0)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+[AI] Arboliva (1) is considering using Hidden Power (1) against Hitmonchan (0)...
+     Arboliva (1)'s highest damaging move vs Hitmonchan: Terrain Pulse
+[AI] Move choices for Arboliva (1):
+   * 100.0% to use Terrain Pulse (target 0): score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Terrain Pulse (target 0)
+
+[Round order] Hitmonchan (0), the opposing Arboliva (1)
+
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Arboliva lost 51 HP (51 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Arboliva fainted!"
+"The opposing Arboliva had its energy drained!"
+
+[End of round 3]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+==============================
+     [Chatot] using Chatter vs Hitmonchan does a max of 102/132 damage
+     [Chatot] using Hyper Voice vs Hitmonchan does a max of 71/132 damage
+     [Chatot] using Heat Wave vs Hitmonchan does a max of 38/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 179/157 damage
+==============================
+     [Chatot] -  7: for target slow kill
+     [Chatot] final Switch score: -7
+==============================
+     [Farigiraf] using Hyper Voice vs Hitmonchan does a max of 74/132 damage
+     [Farigiraf] using Twin Beam vs Hitmonchan does a max of 132/132 damage
+     [Farigiraf] using Earth Power vs Hitmonchan does a max of 49/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 128/206 damage
+==============================
+     [Farigiraf] +  9: for slow kill
+     [Farigiraf] final Switch score: 9
+==============================
+     [Heliolisk] using Thunderbolt vs Hitmonchan does a max of 86/132 damage
+     [Heliolisk] using Hyper Voice vs Hitmonchan does a max of 86/132 damage
+     [Heliolisk] using Surf vs Hitmonchan does a max of 57/132 damage
+     [Heliolisk] using Grass Knot vs Hitmonchan does a max of 34/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 315/145 damage
+==============================
+     [Heliolisk] -  7: for target slow kill
+     [Heliolisk] final Switch score: -7
+==============================
+     [Bewear] using Body Slam vs Hitmonchan does a max of 105/132 damage
+     [Bewear] using Drain Punch vs Hitmonchan does a max of 93/132 damage
+     [Bewear] using Darkest Lariat vs Hitmonchan does a max of 35/132 damage
+     [Bewear] using Shadow Punch vs Hitmonchan does a max of 50/132 damage
+     Hitmonchan (0)'s best move: Close Combat for 114/206 damage
+==============================
+     [Bewear] -  5: for target having fast 2HKO and us having no kill
+     [Bewear] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (9)
+"Parasol Lady Alexa sent out Farigiraf!"
+[Stat change] The opposing Farigiraf's Defense changed by +1 (0 -> 1)
+"The opposing Farigiraf's Grassy Seed raised its Defense!"
+[Item consumed] The opposing Farigiraf consumed its held Grassy Seed
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Farigiraf (1): 1
+Set up score for Farigiraf (1): 1
+Set up score for Farigiraf (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-6) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Hitmonchan: Twin Beam
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Hitmonchan (0)...
+     Farigiraf (1)'s highest damaging move vs Hitmonchan: Twin Beam
+     + 4 to prioritize highest damaging move
+[AI] Farigiraf (1) is considering using Earth Power (1) against Hitmonchan (0)...
+     Farigiraf (1)'s highest damaging move vs Hitmonchan: Twin Beam
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Twin Beam (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Twin Beam (target 0)
+
+[Round order] Hitmonchan (0), the opposing Farigiraf (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+"Hitmonchan cannot use Fake Out!"
+[Use move] The opposing Farigiraf (1) used Twin Beam
+"The opposing Farigiraf used Twin Beam!"
+[HP change] Hitmonchan lost 68 HP (132 -> 64)
+[HP change] Hitmonchan gained 33 HP (64 -> 97)
+"Hitmonchan restored its health using its Sitrus Berry!"
+[Item consumed] Hitmonchan consumed its held Sitrus Berry
+[HP change] Hitmonchan lost 61 HP (97 -> 36)
+"It's super effective!"
+"Hit 2 times!"
+Roles for ARBOLIVA: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for CHATOT: [:SPECIALBREAKER, :TANK]
+Roles for FARIGIRAF: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for HELIOLISK: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Parasol Lady Alexa!"
+"Parasol Lady Alexa sent out Arboliva!"
+"Go! Sunflora!"
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 80 HP (163 -> 83)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Arboliva lost 156 HP (159 -> 3)
+"It's super effective!"
+[Ability triggered] The opposing Arboliva's Seed Sower
+"Grass grew to cover the battlefield!"
+[HP change] The opposing Arboliva gained 39 HP (3 -> 42)
+"The opposing Arboliva restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Arboliva consumed its held Sitrus Berry
+"The opposing Arboliva became trapped by Magma Storm!"
+
+[End of round 1]
+[Lingering effect] Grassy Terrain heals the opposing Arboliva
+[HP change] The opposing Arboliva gained 9 HP (42 -> 51)
+"The opposing Arboliva's HP was restored."
+[Lingering effect] Grassy Terrain heals Sunflora
+[HP change] Sunflora gained 10 HP (83 -> 93)
+"Sunflora's HP was restored."
+[HP change] The opposing Arboliva lost 19 HP (51 -> 32)
+"The opposing Arboliva is hurt by Magma Storm!"
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Arboliva (1)'s highest damaging move vs Sunflora: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Arboliva (1), Sunflora (0)
+
+[Use move] The opposing Arboliva (1) used Hyper Voice
+"The opposing Arboliva used Hyper Voice!"
+[HP change] Sunflora lost 89 HP (93 -> 4)
+[Use move] Sunflora (0) used Flamethrower
+"Sunflora used Flamethrower!"
+[HP change] The opposing Arboliva lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Arboliva fainted!"
+"Sunflora got 1 Exp. Points!"
+
+[End of round 2]
+[Lingering effect] Grassy Terrain heals Sunflora
+[HP change] Sunflora gained 10 HP (4 -> 14)
+"Sunflora's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+==============================
+     [Chatot] using Chatter vs Sunflora does a max of 123/14 damage
+     [Chatot] using Hyper Voice vs Sunflora does a max of 84/14 damage
+     [Chatot] using Heat Wave vs Sunflora does a max of 46/14 damage
+     Sunflora (0)'s best move: Magma Storm for 174/157 damage
+==============================
+     [Chatot] + 12: for fast kill
+     [Chatot] final Switch score: 12
+==============================
+     [Farigiraf] using Hyper Voice vs Sunflora does a max of 87/14 damage
+     [Farigiraf] using Twin Beam vs Sunflora does a max of 78/14 damage
+     [Farigiraf] using Earth Power vs Sunflora does a max of 58/14 damage
+     Sunflora (0)'s best move: Magma Storm for 119/206 damage
+==============================
+     [Farigiraf] + 12: for fast kill
+     [Farigiraf] final Switch score: 12
+==============================
+     [Heliolisk] using Thunderbolt vs Sunflora does a max of 52/14 damage
+     [Heliolisk] using Hyper Voice vs Sunflora does a max of 103/14 damage
+     [Heliolisk] using Surf vs Sunflora does a max of 69/14 damage
+     [Heliolisk] using Grass Knot vs Sunflora does a max of 15/14 damage
+     Sunflora (0)'s best move: Magma Storm for 116/145 damage
+==============================
+     [Heliolisk] + 12: for fast kill
+     [Heliolisk] final Switch score: 12
+==============================
+     [Bewear] using Body Slam vs Sunflora does a max of 123/14 damage
+     [Bewear] using Drain Punch vs Sunflora does a max of 108/14 damage
+     [Bewear] using Darkest Lariat vs Sunflora does a max of 82/14 damage
+     [Bewear] using Shadow Punch vs Sunflora does a max of 58/14 damage
+     Sunflora (0)'s best move: Magma Storm for 177/206 damage
+==============================
+     [Bewear] + 12: for fast kill
+     [Bewear] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Parasol Lady Alexa sent out Chatot!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Chatot (1): 0
+Set up score for Chatot (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chatot (1) is considering using Chatter (1) against Sunflora (0)...
+     Chatot (1)'s highest damaging move vs Sunflora: Chatter
+      + 20 for fast kill
+[AI] Chatot (1) is considering using Hyper Voice (1)...
+     Chatot (1)'s highest damaging move vs Sunflora: Chatter
+      + 20 for fast kill
+[AI] Chatot (1) is considering using Heat Wave (1)...
+     Chatot (1)'s highest damaging move vs Sunflora: Chatter
+      + 20 for fast kill
+[AI] Chatot (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Chatot (1):
+   *  33.3% to use Chatter (target 0): score 21
+   *  33.3% to use Hyper Voice: score 21
+   *  33.3% to use Heat Wave: score 21
+   *   0.0% to use Roost: score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Chatot (1), Sunflora (0)
+
+"Good job, Sunflora! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Chatot (1) used Hyper Voice
+"The opposing Chatot used Hyper Voice!"
+[Target immune] Mismagius's type immunity
+"It doesn't affect Mismagius..."
+
+[End of round 3]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 4 =====
+
+     move will not affect Mismagius (0)
+Set up score for Chatot (1): 0
+Set up score for Chatot (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chatot (1) is considering using Chatter (1) against Mismagius (0)...
+     Chatot (1)'s highest damaging move vs Mismagius: Chatter
+     + 4 to prioritize highest damaging move
+[AI] Chatot (1) is considering using Hyper Voice (1)...
+     Chatot (1)'s highest damaging move vs Mismagius: Chatter
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Chatot (1) is considering using Heat Wave (1)...
+     Chatot (1)'s highest damaging move vs Mismagius: Chatter
+[AI] Chatot (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Chatot (1):
+   * 100.0% to use Chatter (target 0): score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Roost: score 0
+   => will use Chatter (target 0)
+
+[Round order] The opposing Chatot (1), Mismagius (0)
+
+[Use move] The opposing Chatot (1) used Chatter
+"The opposing Chatot used Chatter!"
+[HP change] Mismagius lost 53 HP (146 -> 93)
+"Mismagius became confused!"
+[Lingering effect] Mismagius's confusion count is 4
+[Stat change] The opposing Chatot's Special Attack changed by +1 (0 -> 1)
+"The opposing Chatot's Special Attack rose!"
+[Item consumed] The opposing Chatot consumed its held Throat Spray
+[Use move] Mismagius (0) used Icy Wind
+"Mismagius is confused!"
+"Mismagius used Icy Wind!"
+[HP change] The opposing Chatot lost 109 HP (157 -> 48)
+"It's super effective!"
+[Stat change] The opposing Chatot's Speed changed by -1 (0 -> -1)
+"The opposing Chatot's Speed fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 5 =====
+
+     move will not affect Mismagius (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Chatot (1): 0
+Set up score for Chatot (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chatot (1) is considering using Chatter (1) against Mismagius (0)...
+     Chatot (1)'s highest damaging move vs Mismagius: Chatter
+     + 4 to prioritize highest damaging move
+[AI] Chatot (1) is considering using Hyper Voice (1)...
+     Chatot (1)'s highest damaging move vs Mismagius: Chatter
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Chatot (1) is considering using Heat Wave (1)...
+     Chatot (1)'s highest damaging move vs Mismagius: Chatter
+[AI] Chatot (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Chatot (1):
+   *   0.0% to use Chatter (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Heat Wave: score 0
+   * 100.0% to use Roost: score 7
+   => will use Roost
+
+[Round order] Mismagius (0), the opposing Chatot (1)
+
+[Use move] Mismagius (0) used Icy Wind
+"Mismagius is confused!"
+"Mismagius used Icy Wind!"
+[HP change] The opposing Chatot lost 48 HP (48 -> 0)
+"It's super effective!"
+"The opposing Chatot fainted!"
+"Mismagius got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+     move will not affect Mismagius (0)
+==============================
+     [Farigiraf] using Hyper Voice vs Mismagius does a max of 1/93 damage
+     [Farigiraf] using Twin Beam vs Mismagius does a max of 71/93 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 92/206 damage
+==============================
+     [Farigiraf] final Switch score: 0
+==============================
+     [Heliolisk] using Thunderbolt vs Mismagius does a max of 92/93 damage
+     [Heliolisk] using Hyper Voice vs Mismagius does a max of 1/93 damage
+     [Heliolisk] using Surf vs Mismagius does a max of 61/93 damage
+     [Heliolisk] using Grass Knot vs Mismagius does a max of 88/93 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 72/145 damage
+==============================
+     [Heliolisk] +  6: for fast 2HKO
+     [Heliolisk] final Switch score: 6
+==============================
+     [Bewear] using Body Slam vs Mismagius does a max of 1/93 damage
+     [Bewear] using Drain Punch vs Mismagius does a max of 1/93 damage
+     [Bewear] using Darkest Lariat vs Mismagius does a max of 76/93 damage
+     [Bewear] using Shadow Punch vs Mismagius does a max of 108/93 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 138/206 damage
+==============================
+     [Bewear] +  9: for slow kill
+     [Bewear] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Parasol Lady Alexa sent out Bewear!"
+
+===== Round 6 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Body Slam (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Bewear (1) is considering using Drain Punch (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Bewear (1) is considering using Darkest Lariat (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+[AI] Bewear (1) is considering using Shadow Punch (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+      + 17 for slow kill
+[AI] Move choices for Bewear (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Shadow Punch (target 0): score 18
+   => will use Shadow Punch (target 0)
+
+[Round order] Mismagius (0), the opposing Bewear (1)
+
+"Mismagius, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Bewear (1) used Shadow Punch
+"The opposing Bewear used Shadow Punch!"
+[HP change] Chimecho lost 79 HP (162 -> 83)
+"It's super effective!"
+
+[End of round 6]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Body Slam (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Body Slam
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Body Slam
+[AI] Bewear (1) is considering using Darkest Lariat (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Body Slam
+[AI] Bewear (1) is considering using Shadow Punch (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Body Slam
+      + 17 for slow kill
+[AI] Move choices for Bewear (1):
+   *  50.0% to use Body Slam (target 0): score 18
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   *  50.0% to use Shadow Punch (target 0): score 18
+   => will use Body Slam (target 0)
+
+[Round order] Chimecho (0), the opposing Bewear (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Bewear lost 156 HP (206 -> 50)
+"It's super effective!"
+[Use move] The opposing Bewear (1) used Body Slam
+"The opposing Bewear used Body Slam!"
+[HP change] Chimecho lost 83 HP (83 -> 0)
+"Chimecho fainted!"
+
+[End of round 7]
+[Lingering effect] Grassy Terrain heals the opposing Bewear
+[HP change] The opposing Bewear gained 12 HP (50 -> 62)
+"The opposing Bewear's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+"Just a little more! Hang in there, Mismagius!"
+
+===== Round 8 =====
+
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Body Slam (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Bewear (1) is considering using Drain Punch (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Bewear (1) is considering using Darkest Lariat (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+[AI] Bewear (1) is considering using Shadow Punch (1) against Mismagius (0)...
+     Bewear (1)'s highest damaging move vs Mismagius: Shadow Punch
+      + 17 for slow kill
+[AI] Move choices for Bewear (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Shadow Punch (target 0): score 18
+   => will use Shadow Punch (target 0)
+
+[Round order] Mismagius (0), the opposing Bewear (1)
+
+[Use move] Mismagius (0) used Dazzling Gleam
+"Mismagius used Dazzling Gleam!"
+[HP change] The opposing Bewear lost 62 HP (62 -> 0)
+"It's super effective!"
+"The opposing Bewear fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+     move will not affect Mismagius (0)
+     move will not affect Mismagius (0)
+==============================
+     [Farigiraf] using Hyper Voice vs Mismagius does a max of 1/93 damage
+     [Farigiraf] using Twin Beam vs Mismagius does a max of 71/93 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 92/206 damage
+==============================
+     [Farigiraf] final Switch score: 0
+==============================
+     [Heliolisk] using Thunderbolt vs Mismagius does a max of 92/93 damage
+     [Heliolisk] using Hyper Voice vs Mismagius does a max of 1/93 damage
+     [Heliolisk] using Surf vs Mismagius does a max of 61/93 damage
+     [Heliolisk] using Grass Knot vs Mismagius does a max of 88/93 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 72/145 damage
+==============================
+     [Heliolisk] +  6: for fast 2HKO
+     [Heliolisk] final Switch score: 6
+[AI] Highest move score (18) vs Switch In Score (6)
+"Parasol Lady Alexa sent out Heliolisk!"
+
+===== Round 9 =====
+
+     move will not affect Mismagius (0)
+Set up score for Heliolisk (1): 0
+Set up score for Heliolisk (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heliolisk (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Heliolisk (1)'s highest damaging move vs Mismagius: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Heliolisk (1) is considering using Hyper Voice (1)...
+     Heliolisk (1)'s highest damaging move vs Mismagius: Thunderbolt
+     move will not affect Mismagius (0)
+     -  1: move will fail
+[AI] Heliolisk (1) is considering using Surf (1)...
+     Heliolisk (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Heliolisk (1) is considering using Grass Knot (1) against Mismagius (0)...
+     Heliolisk (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Move choices for Heliolisk (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Heliolisk (1), Mismagius (0)
+
+"Mismagius, come back!"
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Heliolisk (1) used Thunderbolt
+"The opposing Heliolisk used Thunderbolt!"
+[HP change] Hitmonchan lost 76 HP (132 -> 56)
+[HP change] Hitmonchan gained 33 HP (56 -> 89)
+"Hitmonchan restored its health using its Sitrus Berry!"
+[Item consumed] Hitmonchan consumed its held Sitrus Berry
+"Hitmonchan is paralyzed! It may be unable to move!"
+[Item triggered] The opposing Heliolisk's Life Orb (recoil)
+[HP change] The opposing Heliolisk lost 14 HP (145 -> 131)
+"The opposing Heliolisk lost some of its HP!"
+
+[End of round 9]
+[Lingering effect] Grassy Terrain heals the opposing Heliolisk
+[HP change] The opposing Heliolisk gained 9 HP (131 -> 140)
+"The opposing Heliolisk's HP was restored."
+[Lingering effect] Grassy Terrain heals Hitmonchan
+[HP change] Hitmonchan gained 8 HP (89 -> 97)
+"Hitmonchan's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 10 =====
+
+Set up score for Heliolisk (1): 0
+Set up score for Heliolisk (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heliolisk (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Heliolisk (1)'s highest damaging move vs Hitmonchan: Hyper Voice
+[AI] Heliolisk (1) is considering using Hyper Voice (1)...
+     Heliolisk (1)'s highest damaging move vs Hitmonchan: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Heliolisk (1) is considering using Surf (1)...
+     Heliolisk (1)'s highest damaging move vs Hitmonchan: Hyper Voice
+[AI] Heliolisk (1) is considering using Grass Knot (1) against Hitmonchan (0)...
+     Heliolisk (1)'s highest damaging move vs Hitmonchan: Hyper Voice
+[AI] Move choices for Heliolisk (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Heliolisk (1), Hitmonchan (0)
+
+[Use move] The opposing Heliolisk (1) used Hyper Voice
+"The opposing Heliolisk used Hyper Voice!"
+[HP change] Hitmonchan lost 84 HP (97 -> 13)
+[Item triggered] The opposing Heliolisk's Life Orb (recoil)
+[HP change] The opposing Heliolisk lost 14 HP (140 -> 126)
+"The opposing Heliolisk lost some of its HP!"
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Heliolisk lost 126 HP (126 -> 0)
+"It's super effective!"
+"The opposing Heliolisk fainted!"
+"The opposing Heliolisk had its energy drained!"
+[HP change] Hitmonchan gained 63 HP (13 -> 76)
+
+[End of round 10]
+[Lingering effect] Grassy Terrain heals Hitmonchan
+[HP change] Hitmonchan gained 8 HP (76 -> 84)
+"Hitmonchan's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+==============================
+     [Farigiraf] using Hyper Voice vs Hitmonchan does a max of 74/84 damage
+     [Farigiraf] using Twin Beam vs Hitmonchan does a max of 132/84 damage
+     [Farigiraf] using Earth Power vs Hitmonchan does a max of 49/84 damage
+     Hitmonchan (0)'s best move: Close Combat for 128/206 damage
+==============================
+     [Farigiraf] + 12: for fast kill
+     [Farigiraf] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Parasol Lady Alexa sent out Farigiraf!"
+[Stat change] The opposing Farigiraf's Defense changed by +1 (0 -> 1)
+"The opposing Farigiraf's Grassy Seed raised its Defense!"
+[Item consumed] The opposing Farigiraf consumed its held Grassy Seed
+
+===== Round 11 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Hitmonchan: Twin Beam
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Hitmonchan (0)...
+     Farigiraf (1)'s highest damaging move vs Hitmonchan: Twin Beam
+      + 20 for fast kill
+[AI] Farigiraf (1) is considering using Earth Power (1) against Hitmonchan (0)...
+     Farigiraf (1)'s highest damaging move vs Hitmonchan: Twin Beam
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Twin Beam (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Twin Beam (target 0)
+
+[Round order] The opposing Farigiraf (1), Hitmonchan (0)
+
+"Hitmonchan, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Farigiraf (1) used Twin Beam
+"The opposing Farigiraf used Twin Beam!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 11]
+[HP change] Obstagoon lost 10 HP (175 -> 165)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 12 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Obstagoon: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Obstagoon (0)...
+     Farigiraf (1)'s highest damaging move vs Obstagoon: Hyper Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Farigiraf (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Farigiraf (1)'s highest damaging move vs Obstagoon: Hyper Voice
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Twin Beam (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hyper Voice
+
+[Round order] Obstagoon (0), the opposing Farigiraf (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Farigiraf lost 124 HP (206 -> 82)
+"It's super effective!"
+[Use move] The opposing Farigiraf (1) used Hyper Voice
+"The opposing Farigiraf used Hyper Voice!"
+[HP change] Obstagoon lost 101 HP (165 -> 64)
+
+[End of round 12]
+[Lingering effect] Grassy Terrain heals Obstagoon
+[HP change] Obstagoon gained 10 HP (64 -> 74)
+"Obstagoon's HP was restored."
+[Lingering effect] Grassy Terrain heals the opposing Farigiraf
+[HP change] The opposing Farigiraf gained 12 HP (82 -> 94)
+"The opposing Farigiraf's HP was restored."
+[HP change] Obstagoon lost 10 HP (74 -> 64)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 13 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Obstagoon: Hyper Voice
+      + 17 for slow kill
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Obstagoon (0)...
+     Farigiraf (1)'s highest damaging move vs Obstagoon: Hyper Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Farigiraf (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Farigiraf (1)'s highest damaging move vs Obstagoon: Hyper Voice
+      + 5 for having a kill even if we are killed first
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   * 100.0% to use Hyper Voice: score 18
+   *   0.0% to use Twin Beam (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hyper Voice
+
+[Round order] Obstagoon (0), the opposing Farigiraf (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Farigiraf lost 94 HP (94 -> 0)
+"It's super effective!"
+"The opposing Farigiraf fainted!"
+
+===== Player won =====
+
+"You defeated Parasol Lady Alexa!"
+"Wow. You're great!"
+
+"You got $1,696 for winning!"
+Roles for THIEVUL: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for GRAFAIAI: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for VOLBEAT: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for KLEFKI: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Ranger Taylor!"
+"Pokémon Ranger Taylor sent out Thievul!"
+"Go! Chimecho!"
+[Round order] The opposing Thievul (1), Chimecho (0)
+
+===== Round 1 =====
+
+Set up score for Thievul (1): 0
+Set up score for Thievul (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Thievul (1) is considering using Nasty Plot (4)...
+[AI] Thievul (1) is considering using Dark Pulse (1) against Chimecho (0)...
+     Thievul (1)'s highest damaging move vs Chimecho: Shadow Ball
+[AI] Thievul (1) is considering using Shadow Ball (1) against Chimecho (0)...
+     Thievul (1)'s highest damaging move vs Chimecho: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Thievul (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Thievul (1)'s highest damaging move vs Chimecho: Shadow Ball
+[AI] Move choices for Thievul (1):
+   *   0.0% to use Nasty Plot: score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Thievul (1), Chimecho (0)
+
+[Use move] The opposing Thievul (1) used Shadow Ball
+"The opposing Thievul used Shadow Ball!"
+[HP change] Chimecho lost 73 HP (162 -> 89)
+"It's super effective!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Thievul lost 153 HP (153 -> 0)
+"It's super effective!"
+"The opposing Thievul fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Grafaiai] using Poison Jab vs Chimecho does a max of 126/89 damage
+     [Grafaiai] using Return vs Chimecho does a max of 18/89 damage
+     [Grafaiai] using Skitter Smack vs Chimecho does a max of 37/89 damage
+     Chimecho (0)'s best move: Psybeam for 141/146 damage
+==============================
+     [Grafaiai] + 12: for fast kill
+     [Grafaiai] final Switch score: 12
+==============================
+     [Volbeat] using Bug Buzz vs Chimecho does a max of 41/89 damage
+     [Volbeat] using Thunderbolt vs Chimecho does a max of 41/89 damage
+     [Volbeat] using Dazzling Gleam vs Chimecho does a max of 24/89 damage
+     Chimecho (0)'s best move: Moonblast for 107/148 damage
+==============================
+     [Volbeat] final Switch score: 0
+==============================
+     [Klefki] using Flash Cannon vs Chimecho does a max of 105/89 damage
+     [Klefki] using Dazzling Gleam vs Chimecho does a max of 53/89 damage
+     [Klefki] using Psychic vs Chimecho does a max of 20/89 damage
+     Chimecho (0)'s best move: Moonblast for 53/139 damage
+==============================
+     [Klefki] + 12: for fast kill
+     [Klefki] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Pokémon Ranger Taylor sent out Grafaiai!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Grafaiai (1): 0
+Set up score for Grafaiai (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grafaiai (1) is considering using Swords Dance (4)...
+[AI] Grafaiai (1) is considering using Poison Jab (1) against Chimecho (0)...
+     Grafaiai (1)'s highest damaging move vs Chimecho: Poison Jab
+      + 20 for fast kill
+[AI] Grafaiai (1) is considering using Return (1) against Chimecho (0)...
+     Grafaiai (1)'s highest damaging move vs Chimecho: Poison Jab
+[AI] Grafaiai (1) is considering using Skitter Smack (1) against Chimecho (0)...
+     Grafaiai (1)'s highest damaging move vs Chimecho: Poison Jab
+[AI] Move choices for Grafaiai (1):
+   *   0.0% to use Swords Dance: score 0
+   * 100.0% to use Poison Jab (target 0): score 21
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Skitter Smack (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] The opposing Grafaiai (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Grafaiai (1) used Poison Jab
+"The opposing Grafaiai used Poison Jab!"
+[HP change] Obstagoon lost 47 HP (175 -> 128)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Grafaiai (1): 0
+Set up score for Grafaiai (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grafaiai (1) is considering using Swords Dance (4)...
+[AI] Grafaiai (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+[AI] Grafaiai (1) is considering using Return (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+[AI] Grafaiai (1) is considering using Skitter Smack (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grafaiai (1):
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Skitter Smack (target 0): score 5
+   => will use Skitter Smack (target 0)
+
+[Round order] Obstagoon (0), the opposing Grafaiai (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Grafaiai (1) used Skitter Smack
+"The opposing Grafaiai used Skitter Smack!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Grafaiai's Defense changed by -2 (0 -> -2)
+"The opposing Grafaiai's Defense harshly fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Grafaiai (1): -2
+Set up score for Grafaiai (1): -2
+Set up score for Grafaiai (1): -2
+Set up score for Grafaiai (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grafaiai (1) is considering using Swords Dance (4)...
+[AI] Grafaiai (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+[AI] Grafaiai (1) is considering using Return (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+[AI] Grafaiai (1) is considering using Skitter Smack (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grafaiai (1):
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Skitter Smack (target 0): score 5
+   => will use Skitter Smack (target 0)
+
+[Round order] Obstagoon (0), the opposing Grafaiai (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Grafaiai lost 128 HP (146 -> 18)
+[Use move] The opposing Grafaiai (1) used Skitter Smack
+"The opposing Grafaiai used Skitter Smack!"
+[HP change] Obstagoon lost 60 HP (128 -> 68)
+"It's super effective!"
+[Stat change] Obstagoon's Special Attack changed by -1 (0 -> -1)
+"Obstagoon's Special Attack fell!"
+
+[End of round 4]
+[HP change] The opposing Grafaiai gained 9 HP (18 -> 27)
+"The opposing Grafaiai restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Grafaiai (1): -2
+Set up score for Grafaiai (1): -2
+Set up score for Grafaiai (1): -2
+Set up score for Grafaiai (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grafaiai (1) is considering using Swords Dance (4)...
+[AI] Grafaiai (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+[AI] Grafaiai (1) is considering using Return (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+[AI] Grafaiai (1) is considering using Skitter Smack (1) against Obstagoon (0)...
+     Grafaiai (1)'s highest damaging move vs Obstagoon: Skitter Smack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grafaiai (1):
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Skitter Smack (target 0): score 5
+   => will use Skitter Smack (target 0)
+
+[Round order] Obstagoon (0), the opposing Grafaiai (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Grafaiai lost 27 HP (27 -> 0)
+"The opposing Grafaiai fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Volbeat] using Bug Buzz vs Obstagoon does a max of 108/68 damage
+     [Volbeat] using Thunderbolt vs Obstagoon does a max of 54/68 damage
+     [Volbeat] using Dazzling Gleam vs Obstagoon does a max of 64/68 damage
+     Obstagoon (0)'s best move: Sucker Punch for 62/148 damage
+==============================
+     [Volbeat] +  9: for slow kill
+     [Volbeat] final Switch score: 9
+==============================
+     [Klefki] using Flash Cannon vs Obstagoon does a max of 71/68 damage
+     [Klefki] using Dazzling Gleam vs Obstagoon does a max of 141/68 damage
+     Obstagoon (0)'s best move: Sucker Punch for 27/139 damage
+==============================
+     [Klefki] +  9: for slow kill
+     [Klefki] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Pokémon Ranger Taylor sent out Volbeat!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Volbeat (1): 0
+Set up score for Volbeat (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Volbeat (1) is considering using Tail Glow (4)...
+[AI] Volbeat (1) is considering using Bug Buzz (1) against Obstagoon (0)...
+     Volbeat (1)'s highest damaging move vs Obstagoon: Bug Buzz
+      + 17 for slow kill
+[AI] Volbeat (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Volbeat (1)'s highest damaging move vs Obstagoon: Bug Buzz
+[AI] Volbeat (1) is considering using Dazzling Gleam (1)...
+     Volbeat (1)'s highest damaging move vs Obstagoon: Bug Buzz
+[AI] Move choices for Volbeat (1):
+   *   0.0% to use Tail Glow: score 0
+   * 100.0% to use Bug Buzz (target 0): score 18
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Bug Buzz (target 0)
+
+[Round order] Obstagoon (0), the opposing Volbeat (1)
+
+"OK, Obstagoon! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Volbeat (1) used Bug Buzz
+"The opposing Volbeat used Bug Buzz!"
+[HP change] Mismagius lost 9 HP (146 -> 137)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Volbeat (1): 0
+Set up score for Volbeat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Volbeat (1) is considering using Tail Glow (4)...
+[AI] Volbeat (1) is considering using Bug Buzz (1) against Mismagius (0)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Volbeat (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Volbeat (1) is considering using Dazzling Gleam (1)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Move choices for Volbeat (1):
+   *   0.0% to use Tail Glow: score 0
+   *   0.0% to use Bug Buzz (target 0): score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Volbeat (1), Mismagius (0)
+
+[Use move] The opposing Volbeat (1) used Thunderbolt
+"The opposing Volbeat used Thunderbolt!"
+[HP change] Mismagius lost 36 HP (137 -> 101)
+[Use move] Mismagius (0) used Will-O-Wisp
+"Mismagius used Will-O-Wisp!"
+"The opposing Volbeat was burned!"
+
+[End of round 7]
+[HP change] The opposing Volbeat lost 9 HP (148 -> 139)
+"The opposing Volbeat was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Volbeat (1): 0
+Set up score for Volbeat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Volbeat (1) is considering using Tail Glow (4)...
+[AI] Volbeat (1) is considering using Bug Buzz (1) against Mismagius (0)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Volbeat (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Volbeat (1) is considering using Dazzling Gleam (1)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Move choices for Volbeat (1):
+   *   0.0% to use Tail Glow: score 0
+   *   0.0% to use Bug Buzz (target 0): score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Volbeat (1), Mismagius (0)
+
+[Use move] The opposing Volbeat (1) used Thunderbolt
+"The opposing Volbeat used Thunderbolt!"
+[HP change] Mismagius lost 36 HP (101 -> 65)
+[HP change] Mismagius gained 36 HP (65 -> 101)
+"Mismagius restored its health using its Sitrus Berry!"
+[Item consumed] Mismagius consumed its held Sitrus Berry
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Volbeat lost 118 HP (139 -> 21)
+[HP change] The opposing Volbeat gained 74 HP (21 -> 95)
+"The opposing Volbeat restored its health using its Iapapa Berry!"
+[Item consumed] The opposing Volbeat consumed its held Iapapa Berry
+
+[End of round 8]
+[HP change] The opposing Volbeat lost 9 HP (95 -> 86)
+"The opposing Volbeat was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Volbeat (1): 0
+Set up score for Volbeat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Volbeat (1) is considering using Tail Glow (4)...
+[AI] Volbeat (1) is considering using Bug Buzz (1) against Mismagius (0)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Volbeat (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Volbeat (1) is considering using Dazzling Gleam (1)...
+     Volbeat (1)'s highest damaging move vs Mismagius: Thunderbolt
+[AI] Move choices for Volbeat (1):
+   *   0.0% to use Tail Glow: score 0
+   *   0.0% to use Bug Buzz (target 0): score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Volbeat (1), Mismagius (0)
+
+[Use move] The opposing Volbeat (1) used Thunderbolt
+"The opposing Volbeat used Thunderbolt!"
+[HP change] Mismagius lost 33 HP (101 -> 68)
+[Use move] Mismagius (0) used Hex
+"Mismagius used Hex!"
+[HP change] The opposing Volbeat lost 86 HP (86 -> 0)
+"The opposing Volbeat fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Klefki] using Flash Cannon vs Mismagius does a max of 99/68 damage
+     [Klefki] using Dazzling Gleam vs Mismagius does a max of 50/68 damage
+     [Klefki] using Psychic vs Mismagius does a max of 37/68 damage
+     Mismagius (0)'s best move: Hex for 63/139 damage
+==============================
+     [Klefki] +  9: for slow kill
+     [Klefki] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Pokémon Ranger Taylor sent out Klefki!"
+"The opposing Klefki floats in the air with its Air Balloon!"
+
+===== Round 10 =====
+
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Klefki (1) is considering using Calm Mind (4)...
+[AI] Klefki (1) is considering using Flash Cannon (1) against Mismagius (0)...
+     Klefki (1)'s highest damaging move vs Mismagius: Flash Cannon
+      + 17 for slow kill
+[AI] Klefki (1) is considering using Dazzling Gleam (1)...
+     Klefki (1)'s highest damaging move vs Mismagius: Flash Cannon
+[AI] Klefki (1) is considering using Psychic (1) against Mismagius (0)...
+     Klefki (1)'s highest damaging move vs Mismagius: Flash Cannon
+[AI] Move choices for Klefki (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Flash Cannon (target 0): score 18
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Psychic (target 0): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Mismagius (0), the opposing Klefki (1)
+
+"OK, Mismagius! Come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Klefki (1) used Flash Cannon
+"The opposing Klefki used Flash Cannon!"
+[HP change] Sunflora lost 25 HP (163 -> 138)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Klefki (1) is considering using Calm Mind (4)...
+[AI] Klefki (1) is considering using Flash Cannon (1) against Sunflora (0)...
+     Klefki (1)'s highest damaging move vs Sunflora: Psychic
+[AI] Klefki (1) is considering using Dazzling Gleam (1)...
+     Klefki (1)'s highest damaging move vs Sunflora: Psychic
+[AI] Klefki (1) is considering using Psychic (1) against Sunflora (0)...
+     Klefki (1)'s highest damaging move vs Sunflora: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Klefki (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Psychic (target 0): score 5
+   => will use Psychic (target 0)
+
+[Round order] The opposing Klefki (1), Sunflora (0)
+
+[Use move] The opposing Klefki (1) used Psychic
+"The opposing Klefki used Psychic!"
+[HP change] Sunflora lost 37 HP (138 -> 101)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Klefki lost 139 HP (139 -> 0)
+"It's super effective!"
+"The opposing Klefki's Air Balloon popped!"
+[Item consumed] The opposing Klefki consumed its held Air Balloon
+"The opposing Klefki fainted!"
+
+===== Player won =====
+
+"You defeated Pokémon Ranger Taylor!"
+"Wow. You're great!"
+
+"You got $3,180 for winning!"
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Scientist Shaun!"
+"Scientist Shaun sent out Rotom!"
+"Go! Falinks!"
+[Round order] The opposing Rotom (1), Falinks (0)
+
+===== Round 1 =====
+
+     move will not affect Falinks (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Rotom (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Scald (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     move will not affect Falinks (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *  50.0% to use Will-O-Wisp (target 0): score 5
+   => will use Will-O-Wisp (target 0)
+
+[Round order] The opposing Rotom (1), Falinks (0)
+
+[Use move] The opposing Rotom (1) used Will-O-Wisp
+"The opposing Rotom used Will-O-Wisp!"
+"Falinks was burned!"
+[Status change] Falinks's status was cured
+"Falinks's Rawst Berry healed its burn!"
+[Item consumed] Falinks consumed its held Rawst Berry
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Rotom lost 13 HP (132 -> 119)
+"The Rindo Berry weakened the damage to the opposing Rotom!"
+[Item consumed] The opposing Rotom consumed its held Rindo Berry
+[HP change] The opposing Rotom lost 26 HP (119 -> 93)
+[HP change] The opposing Rotom lost 23 HP (93 -> 70)
+[HP change] The opposing Rotom lost 23 HP (70 -> 47)
+[HP change] The opposing Rotom lost 23 HP (47 -> 24)
+"It's super effective!"
+"Hit 5 times!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Falinks (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Scald (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     move will not affect Falinks (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Falinks (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Falinks lost 100 HP (137 -> 37)
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Rotom lost 24 HP (24 -> 0)
+"The opposing Rotom fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Falinks (0)
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 110/37 damage
+     [Rotom] using Air Slash vs Falinks does a max of 183/37 damage
+     Falinks (0)'s best move: Double Hit for 50/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 113/37 damage
+     [Rotom] using Overheat vs Falinks does a max of 162/37 damage
+     Falinks (0)'s best move: Close Combat for 81/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 113/37 damage
+     [Rotom] using Leaf Storm vs Falinks does a max of 162/37 damage
+     Falinks (0)'s best move: Close Combat for 81/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 110/37 damage
+     [Rotom] using Freeze-Dry vs Falinks does a max of 86/37 damage
+     Falinks (0)'s best move: Close Combat for 165/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 3 =====
+
+     move will not affect Falinks (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Air Slash (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+     move will not affect Falinks (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Air Slash (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Rotom (1), Falinks (0)
+
+"OK, Falinks! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Rotom (1) used Air Slash
+"The opposing Rotom used Air Slash!"
+[HP change] Obstagoon lost 78 HP (175 -> 97)
+
+[End of round 3]
+[HP change] Obstagoon lost 10 HP (97 -> 87)
+"Obstagoon was hurt by its burn!"
+[HP change] Obstagoon gained 43 HP (87 -> 130)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Obstagoon (0), the opposing Rotom (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Rotom lost 64 HP (132 -> 68)
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Obstagoon lost 96 HP (130 -> 34)
+
+[End of round 4]
+[HP change] Obstagoon lost 10 HP (34 -> 24)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+      + 17 for slow kill
+[AI] Rotom (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+      + 17 for slow kill
+[AI] Rotom (1) is considering using Hex (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Thunderbolt
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 18
+   *  50.0% to use Air Slash (target 0): score 18
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] Obstagoon (0), the opposing Rotom (1)
+
+"Good job, Obstagoon! Come back!"
+"Go for it, Sunflora!"
+[Use move] The opposing Rotom (1) used Air Slash
+"The opposing Rotom used Air Slash!"
+[HP change] Sunflora lost 114 HP (163 -> 49)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Sunflora (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Air Slash
+[AI] Rotom (1) is considering using Air Slash (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Air Slash
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Air Slash
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Air Slash
+     move will not affect Sunflora (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Air Slash (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Rotom (1), Sunflora (0)
+
+"OK, Sunflora! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Rotom (1) used Air Slash
+"The opposing Rotom used Air Slash!"
+[HP change] Chimecho lost 57 HP (162 -> 105)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Air Slash (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Chimecho lost 71 HP (105 -> 34)
+[HP change] Chimecho gained 40 HP (34 -> 74)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Rotom lost 68 HP (68 -> 0)
+"The opposing Rotom fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Rotom] using Thunderbolt vs Chimecho does a max of 75/74 damage
+     [Rotom] using Overheat vs Chimecho does a max of 108/74 damage
+     [Rotom] using Hex vs Chimecho does a max of 74/74 damage
+     Chimecho (0)'s best move: Psybeam for 53/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Chimecho does a max of 75/74 damage
+     [Rotom] using Leaf Storm vs Chimecho does a max of 108/74 damage
+     [Rotom] using Hex vs Chimecho does a max of 74/74 damage
+     Chimecho (0)'s best move: Moonblast for 77/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Chimecho does a max of 74/74 damage
+     [Rotom] using Freeze-Dry vs Chimecho does a max of 57/74 damage
+     [Rotom] using Hex vs Chimecho does a max of 72/74 damage
+     Chimecho (0)'s best move: Moonblast for 78/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+[AI] Rotom (1) is considering using Overheat (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Overheat (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom used Overheat!"
+[HP change] Mismagius lost 91 HP (146 -> 55)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (0 -> -2)
+"The opposing Rotom's Special Attack harshly fell!"
+[HP change] Mismagius gained 36 HP (55 -> 91)
+"Mismagius restored its health using its Sitrus Berry!"
+[Item consumed] Mismagius consumed its held Sitrus Berry
+"The opposing Rotom is switched out by the Eject Pack!"
+[Item consumed] The opposing Rotom consumed its held Eject Pack
+==============================
+     [Rotom] using Thunderbolt vs Mismagius does a max of 71/91 damage
+     [Rotom] using Leaf Storm vs Mismagius does a max of 101/91 damage
+     [Rotom] using Hex vs Mismagius does a max of 68/91 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 65/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Mismagius does a max of 69/91 damage
+     [Rotom] using Freeze-Dry vs Mismagius does a max of 54/91 damage
+     [Rotom] using Hex vs Mismagius does a max of 68/91 damage
+     Mismagius (0)'s best move: Dazzling Gleam for 66/132 damage
+==============================
+     [Rotom] +  6: for fast 2HKO
+     [Rotom] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Leaf Storm
+[AI] Rotom (1) is considering using Leaf Storm (1) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Leaf Storm
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Hex (1) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Leaf Storm
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Leaf Storm
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Leaf Storm (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Leaf Storm (target 0)
+
+[Round order] The opposing Rotom (1), Mismagius (0)
+
+[Use move] The opposing Rotom (1) used Leaf Storm
+"The opposing Rotom used Leaf Storm!"
+[HP change] Mismagius lost 91 HP (91 -> 0)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (0 -> -2)
+"The opposing Rotom's Special Attack harshly fell!"
+"Mismagius fainted!"
+"The opposing Rotom returned its status to normal using its White Herb!"
+[Item consumed] The opposing Rotom consumed its held White Herb
+
+[End of round 9]
+Trick Room Turns: 0
+"You're in charge, Chimecho!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Leaf Storm (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Leaf Storm (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Sunflora lost 36 HP (49 -> 13)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Sunflora (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Leaf Storm (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+     move will not affect Sunflora (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *  33.3% to use Thunderbolt (target 0): score 21
+   *  33.3% to use Leaf Storm (target 0): score 21
+   *  33.3% to use Hex (target 0): score 21
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Sunflora (0)
+
+"Good job, Sunflora! Come back!"
+"You're in charge, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Hitmonchan lost 65 HP (132 -> 67)
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+[AI] Rotom (1) is considering using Leaf Storm (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Leaf Storm (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Leaf Storm (target 0)
+
+[Round order] Hitmonchan (0), the opposing Rotom (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Rotom lost 28 HP (134 -> 106)
+"A critical hit!"
+[Use move] The opposing Rotom (1) used Leaf Storm
+"The opposing Rotom flinched and couldn't move!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+[AI] Rotom (1) is considering using Leaf Storm (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Leaf Storm
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Leaf Storm (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Leaf Storm (target 0)
+
+[Round order] The opposing Rotom (1), Hitmonchan (0)
+
+[Use move] The opposing Rotom (1) used Leaf Storm
+"The opposing Rotom used Leaf Storm!"
+[HP change] Hitmonchan lost 67 HP (67 -> 0)
+"A critical hit!"
+[Stat change] The opposing Rotom's Special Attack changed by -2 (0 -> -2)
+"The opposing Rotom's Special Attack harshly fell!"
+"Hitmonchan fainted!"
+
+[End of round 13]
+Trick Room Turns: 0
+"Go for it, Chimecho!"
+
+===== Round 14 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+[AI] Rotom (1) is considering using Leaf Storm (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Leaf Storm
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *  50.0% to use Leaf Storm (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *  50.0% to use Will-O-Wisp (target 0): score 5
+   => will use Will-O-Wisp (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Will-O-Wisp
+"The opposing Rotom used Will-O-Wisp!"
+"Chimecho was burned!"
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 81 HP (74 -> 155)
+"Chimecho's HP was restored."
+
+[End of round 14]
+[HP change] Chimecho lost 10 HP (155 -> 145)
+"Chimecho was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     move will not affect Chimecho (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Leaf Storm (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     move will not affect Chimecho (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Leaf Storm (target 0): score 0
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Hex
+"The opposing Rotom used Hex!"
+[HP change] Chimecho lost 63 HP (145 -> 82)
+"It's super effective!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Rotom lost 66 HP (106 -> 40)
+
+[End of round 15]
+[HP change] Chimecho lost 10 HP (82 -> 72)
+"Chimecho was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Leaf Storm (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     move will not affect Chimecho (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Leaf Storm (target 0): score 0
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"Just a little more! Hang in there, Obstagoon!"
+[Use move] The opposing Rotom (1) used Hex
+"The opposing Rotom used Hex!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 16]
+[HP change] Obstagoon lost 10 HP (24 -> 14)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Leaf Storm (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Leaf Storm
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Leaf Storm
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Leaf Storm (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Obstagoon (0), the opposing Rotom (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Rotom lost 40 HP (40 -> 0)
+"The opposing Rotom fainted!"
+
+[End of round 17]
+[HP change] Obstagoon lost 10 HP (14 -> 4)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+==============================
+     [Rotom] using Thunderbolt vs Obstagoon does a max of 99/4 damage
+     [Rotom] using Overheat vs Obstagoon does a max of 143/4 damage
+     Obstagoon (0)'s best move: Sucker Punch for 68/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Obstagoon does a max of 98/4 damage
+     [Rotom] using Freeze-Dry vs Obstagoon does a max of 77/4 damage
+     Obstagoon (0)'s best move: Sucker Punch for 69/132 damage
+==============================
+     [Rotom] +  9: for slow kill
+     [Rotom] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 18 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Overheat (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Overheat (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Obstagoon (0)
+
+"Good job, Obstagoon! Come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Sunflora lost 13 HP (13 -> 0)
+"It's not very effective..."
+"Sunflora fainted!"
+
+[End of round 18]
+Trick Room Turns: 0
+"You're in charge, Chimecho!"
+
+===== Round 19 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Overheat (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     move will not affect Chimecho (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *  50.0% to use Overheat (target 0): score 21
+   *  50.0% to use Hex (target 0): score 21
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Falinks!"
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom used Overheat!"
+[HP change] Falinks lost 37 HP (37 -> 0)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (0 -> -2)
+"The opposing Rotom's Special Attack harshly fell!"
+"Falinks fainted!"
+
+[End of round 19]
+Trick Room Turns: 0
+"You're in charge, Chimecho!"
+
+===== Round 20 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Overheat (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Hex
+     move will not affect Chimecho (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Overheat (target 0): score 0
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Hex
+"The opposing Rotom used Hex!"
+[HP change] Chimecho lost 72 HP (72 -> 0)
+"It's super effective!"
+"Chimecho fainted!"
+
+[End of round 20]
+Trick Room Turns: 0
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+Roles for ROTOM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Scientist Shaun!"
+"Scientist Shaun sent out Rotom!"
+"Go! Falinks!"
+[Round order] The opposing Rotom (1), Falinks (0)
+
+===== Round 1 =====
+
+     move will not affect Falinks (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Rotom (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Scald (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     move will not affect Falinks (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *  50.0% to use Will-O-Wisp (target 0): score 5
+   => will use Will-O-Wisp (target 0)
+
+[Round order] The opposing Rotom (1), Falinks (0)
+
+[Use move] The opposing Rotom (1) used Will-O-Wisp
+"The opposing Rotom used Will-O-Wisp!"
+"Falinks was burned!"
+[Status change] Falinks's status was cured
+"Falinks's Rawst Berry healed its burn!"
+[Item consumed] Falinks consumed its held Rawst Berry
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Rotom lost 12 HP (132 -> 120)
+"The Rindo Berry weakened the damage to the opposing Rotom!"
+[Item consumed] The opposing Rotom consumed its held Rindo Berry
+[HP change] The opposing Rotom lost 25 HP (120 -> 95)
+[HP change] The opposing Rotom lost 22 HP (95 -> 73)
+[HP change] The opposing Rotom lost 23 HP (73 -> 50)
+[HP change] The opposing Rotom lost 24 HP (50 -> 26)
+"It's super effective!"
+"Hit 5 times!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Falinks (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Scald (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     move will not affect Falinks (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Thunderbolt
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Falinks (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Falinks lost 105 HP (137 -> 32)
+[Use move] Falinks (0) used Bullet Seed
+"Falinks used Bullet Seed!"
+[HP change] The opposing Rotom lost 23 HP (26 -> 3)
+[HP change] The opposing Rotom lost 3 HP (3 -> 0)
+"The opposing Rotom fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Falinks (0)
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 110/32 damage
+     [Rotom] using Air Slash vs Falinks does a max of 183/32 damage
+     Falinks (0)'s best move: Double Hit for 50/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 113/32 damage
+     [Rotom] using Overheat vs Falinks does a max of 162/32 damage
+     Falinks (0)'s best move: Close Combat for 81/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 113/32 damage
+     [Rotom] using Leaf Storm vs Falinks does a max of 162/32 damage
+     Falinks (0)'s best move: Close Combat for 81/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Falinks does a max of 110/32 damage
+     [Rotom] using Freeze-Dry vs Falinks does a max of 86/32 damage
+     Falinks (0)'s best move: Close Combat for 165/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 3 =====
+
+     move will not affect Falinks (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Falinks (0): 0
+     Threat Score for Falinks (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Air Slash (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+     move will not affect Falinks (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Falinks (0)...
+     Rotom (1)'s highest damaging move vs Falinks: Air Slash
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Air Slash (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Falinks (0)
+
+"Good job, Falinks! Come back!"
+"You're in charge, Mismagius!"
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Mismagius lost 61 HP (146 -> 85)
+"Mismagius is paralyzed! It may be unable to move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Mismagius (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Mismagius (0): 0
+     Threat Score for Mismagius (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Hex
+[AI] Rotom (1) is considering using Air Slash (1) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Hex
+[AI] Rotom (1) is considering using Hex (1) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Hex
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Mismagius (0)...
+     Rotom (1)'s highest damaging move vs Mismagius: Hex
+     move will not affect Mismagius (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Hex (target 0): score 21
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Rotom (1), Mismagius (0)
+
+[Use move] The opposing Rotom (1) used Hex
+"The opposing Rotom used Hex!"
+[HP change] Mismagius lost 85 HP (85 -> 0)
+"It's super effective!"
+"Mismagius fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+"You're in charge, Chimecho!"
+
+===== Round 5 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Air Slash (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *  50.0% to use Will-O-Wisp (target 0): score 5
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Chimecho lost 71 HP (162 -> 91)
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Rotom lost 67 HP (132 -> 65)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Air Slash (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Chimecho lost 68 HP (91 -> 23)
+[HP change] Chimecho gained 40 HP (23 -> 63)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 81 HP (63 -> 144)
+"Chimecho's HP was restored."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Air Slash (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Thunderbolt
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Chimecho lost 71 HP (144 -> 73)
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Rotom lost 65 HP (65 -> 0)
+"The opposing Rotom fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Rotom] using Thunderbolt vs Chimecho does a max of 75/73 damage
+     [Rotom] using Overheat vs Chimecho does a max of 108/73 damage
+     [Rotom] using Hex vs Chimecho does a max of 74/73 damage
+     Chimecho (0)'s best move: Psybeam for 53/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Chimecho does a max of 75/73 damage
+     [Rotom] using Leaf Storm vs Chimecho does a max of 108/73 damage
+     [Rotom] using Hex vs Chimecho does a max of 74/73 damage
+     Chimecho (0)'s best move: Moonblast for 77/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Chimecho does a max of 74/73 damage
+     [Rotom] using Freeze-Dry vs Chimecho does a max of 57/73 damage
+     [Rotom] using Hex vs Chimecho does a max of 72/73 damage
+     Chimecho (0)'s best move: Moonblast for 78/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+[AI] Rotom (1) is considering using Overheat (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Rotom (1)'s highest damaging move vs Chimecho: Overheat
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Overheat (target 0): score 21
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] The opposing Rotom (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom used Overheat!"
+[HP change] Sunflora lost 97 HP (163 -> 66)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (0 -> -2)
+"The opposing Rotom's Special Attack harshly fell!"
+"The opposing Rotom is switched out by the Eject Pack!"
+[Item consumed] The opposing Rotom consumed its held Eject Pack
+     move will not affect Sunflora (0)
+==============================
+     [Rotom] using Thunderbolt vs Sunflora does a max of 39/66 damage
+     [Rotom] using Leaf Storm vs Sunflora does a max of 28/66 damage
+     [Rotom] using Hex vs Sunflora does a max of 38/66 damage
+     Sunflora (0)'s best move: Magma Storm for 138/134 damage
+==============================
+     [Rotom] - 20: for us being killed on switch in
+     [Rotom] final Switch score: -20
+==============================
+     [Rotom] using Thunderbolt vs Sunflora does a max of 38/66 damage
+     [Rotom] using Freeze-Dry vs Sunflora does a max of 60/66 damage
+     [Rotom] using Hex vs Sunflora does a max of 37/66 damage
+     Sunflora (0)'s best move: Magma Storm for 141/132 damage
+==============================
+     [Rotom] - 20: for us being killed on switch in
+     [Rotom] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (-20)
+"Scientist Shaun sent out Rotom!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Sunflora (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Leaf Storm (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Thunderbolt
+     move will not affect Sunflora (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Leaf Storm (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Sunflora (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Sunflora lost 37 HP (66 -> 29)
+"It's not very effective..."
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Rotom lost 134 HP (134 -> 0)
+"It's super effective!"
+"The opposing Rotom fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Sunflora (0)
+==============================
+     [Rotom] using Thunderbolt vs Sunflora does a max of 39/29 damage
+     [Rotom] using Overheat vs Sunflora does a max of 113/29 damage
+     [Rotom] using Hex vs Sunflora does a max of 38/29 damage
+     Sunflora (0)'s best move: Magma Storm for 35/134 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Rotom] using Thunderbolt vs Sunflora does a max of 38/29 damage
+     [Rotom] using Freeze-Dry vs Sunflora does a max of 60/29 damage
+     [Rotom] using Hex vs Sunflora does a max of 37/29 damage
+     Sunflora (0)'s best move: Magma Storm for 141/132 damage
+==============================
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 10 =====
+
+     move will not affect Sunflora (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Overheat (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Hex (1) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Overheat
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Sunflora (0)...
+     Rotom (1)'s highest damaging move vs Sunflora: Overheat
+     move will not affect Sunflora (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *  33.3% to use Thunderbolt (target 0): score 21
+   *  33.3% to use Overheat (target 0): score 21
+   *  33.3% to use Hex (target 0): score 21
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Rotom (1), Sunflora (0)
+
+[Use move] The opposing Rotom (1) used Hex
+"The opposing Rotom used Hex!"
+[HP change] Sunflora lost 29 HP (29 -> 0)
+"Sunflora fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+"You're in charge, Obstagoon!"
+
+===== Round 11 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+[AI] Rotom (1) is considering using Overheat (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Hex (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Overheat (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] The opposing Rotom (1), Obstagoon (0)
+
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom used Overheat!"
+[HP change] Obstagoon lost 127 HP (175 -> 48)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (0 -> -2)
+"The opposing Rotom's Special Attack harshly fell!"
+[HP change] Obstagoon gained 43 HP (48 -> 91)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Rotom lost 60 HP (134 -> 74)
+
+[End of round 11]
+[HP change] Obstagoon lost 10 HP (91 -> 81)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+[AI] Rotom (1) is considering using Overheat (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Hex (1) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Rotom (1)'s highest damaging move vs Obstagoon: Overheat
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Overheat (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] The opposing Rotom (1), Obstagoon (0)
+
+"OK, Obstagoon! Come back!"
+"Go for it, Hitmonchan!"
+[Ability triggered] Hitmonchan's Keen Eye
+"Hitmonchan is getting pumped!"
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom used Overheat!"
+[HP change] Hitmonchan lost 45 HP (132 -> 87)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (-2 -> -4)
+"The opposing Rotom's Special Attack harshly fell!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+[AI] Rotom (1) is considering using Overheat (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Hex (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Overheat (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] Hitmonchan (0), the opposing Rotom (1)
+
+[Use move] Hitmonchan (0) used Fake Out
+"Hitmonchan used Fake Out!"
+[HP change] The opposing Rotom lost 29 HP (74 -> 45)
+"A critical hit!"
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom flinched and couldn't move!"
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+[AI] Rotom (1) is considering using Overheat (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Hex (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Overheat
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Overheat (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Overheat (target 0)
+
+[Round order] The opposing Rotom (1), Hitmonchan (0)
+
+[Use move] The opposing Rotom (1) used Overheat
+"The opposing Rotom used Overheat!"
+[HP change] Hitmonchan lost 31 HP (87 -> 56)
+[Stat change] The opposing Rotom's Special Attack changed by -2 (-4 -> -6)
+"The opposing Rotom's Special Attack harshly fell!"
+[HP change] Hitmonchan gained 33 HP (56 -> 89)
+"Hitmonchan restored its health using its Sitrus Berry!"
+[Item consumed] Hitmonchan consumed its held Sitrus Berry
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Rotom lost 45 HP (45 -> 0)
+"The opposing Rotom fainted!"
+"The opposing Rotom had its energy drained!"
+[HP change] Hitmonchan gained 23 HP (89 -> 112)
+
+[End of round 14]
+Trick Room Turns: 0
+==============================
+     [Rotom] using Thunderbolt vs Hitmonchan does a max of 65/112 damage
+     [Rotom] using Freeze-Dry vs Hitmonchan does a max of 51/112 damage
+     [Rotom] using Hex vs Hitmonchan does a max of 31/112 damage
+     Hitmonchan (0)'s best move: Close Combat for 180/132 damage
+==============================
+     [Rotom] -  7: for target slow kill
+     [Rotom] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Scientist Shaun sent out Rotom!"
+
+===== Round 15 =====
+
+Set up score for Hitmonchan (0): 0
+     Threat Score for Hitmonchan (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunderbolt (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Freeze-Dry (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Thunderbolt
+[AI] Rotom (1) is considering using Hex (1) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Thunderbolt
+[AI] Rotom (1) is considering using Will-O-Wisp (4) against Hitmonchan (0)...
+     Rotom (1)'s highest damaging move vs Hitmonchan: Thunderbolt
+     - 3 because this will be pointless
+[AI] Move choices for Rotom (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Rotom (1), Hitmonchan (0)
+
+[Use move] The opposing Rotom (1) used Thunderbolt
+"The opposing Rotom used Thunderbolt!"
+[HP change] Hitmonchan lost 58 HP (112 -> 54)
+[Use move] Hitmonchan (0) used Drain Punch
+"Hitmonchan used Drain Punch!"
+[HP change] The opposing Rotom lost 132 HP (132 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Rotom fainted!"
+"The opposing Rotom had its energy drained!"
+[HP change] Hitmonchan gained 66 HP (54 -> 120)
+
+===== Player won =====
+
+"You defeated Scientist Shaun!"
+"Wow. You're great!"
+
+"You got $2,592 for winning!"
