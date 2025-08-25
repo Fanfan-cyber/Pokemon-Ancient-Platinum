@@ -1,4 +1,24 @@
 
+Magnezone
+Level: 59
+Quirky Nature
+Ability: Magnet Pull
+IVs: 23 HP / 24 Atk / 23 Def / 1 SpA / 18 SpD / 10 Spe
+- Discharge
+- Tri Attack
+- Flash Cannon
+- Magnet Rise
+
+Bisharp
+Level: 59
+Serious Nature
+Ability: Inner Focus
+IVs: 13 HP / 31 Atk / 2 Def / 24 SpA / 26 SpD / 25 Spe
+- Night Slash
+- Iron Head
+- Sucker Punch
+- Scary Face
+
 Chimecho
 Level: 59
 Naughty Nature

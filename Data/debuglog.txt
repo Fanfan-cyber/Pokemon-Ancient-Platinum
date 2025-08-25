@@ -238080,3 +238080,170 @@ Set up score for Togekiss (0): 0
 "Ugh."
 
 "You got $1,792 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Mareep appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Mareep (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Mareep appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Mareep (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Bronzor appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Bronzor (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Mareep appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Mareep (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Noibat appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Noibat (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Bronzor appeared!"
+"Go! Electrode!"
+[Round order] Electrode (0), the wild Bronzor (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Noibat appeared!"
+"Go! Electrode!"
+[Round order] Electrode (0), the wild Noibat (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Magnemite appeared!"
+"Go! Electrode!"
+[Round order] Electrode (0), the wild Magnemite (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Electrode (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Magnemite (1) is considering using Electro Ball (1) against Electrode (0)...
+     Magnemite (1)'s highest damaging move vs Electrode: Gyro Ball
+[AI] Magnemite (1) is considering using Gyro Ball (1) against Electrode (0)...
+     Magnemite (1)'s highest damaging move vs Electrode: Gyro Ball
+[AI] Magnemite (1) is considering using Spark (1) against Electrode (0)...
+     Magnemite (1)'s highest damaging move vs Electrode: Gyro Ball
+[AI] Magnemite (1) is considering using Screech (4) against Electrode (0)...
+     Magnemite (1)'s highest damaging move vs Electrode: Gyro Ball
+[AI] Move choices for Magnemite (1):
+   *   0.0% to use Electro Ball (target 0): score 0
+   *   0.0% to use Gyro Ball (target 0): score 0
+   *   0.0% to use Spark (target 0): score 0
+   *  50.0% to use Screech (target 0): score 4
+   *  50.0% to use Screech (target 0): score 4
+   => will use Screech (target 0)
+
+[Round order] Electrode (0), the wild Magnemite (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Magnemite was caught!"
+"Electrode got 105 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Magnemite's data was added to the Pokédex."
+"Magnemite has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Pawniard appeared!"
+"Go! Magnemite!"
+[Round order] The wild Pawniard (1), Magnemite (0)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Magnemite (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pawniard (1) is considering using Fury Cutter (1) against Magnemite (0)...
+     Pawniard (1)'s highest damaging move vs Magnemite: Metal Claw
+[AI] Pawniard (1) is considering using Metal Claw (1) against Magnemite (0)...
+     Pawniard (1)'s highest damaging move vs Magnemite: Metal Claw
+[AI] Pawniard (1) is considering using Torment (4) against Magnemite (0)...
+     Pawniard (1)'s highest damaging move vs Magnemite: Metal Claw
+[AI] Pawniard (1) is considering using Scary Face (4) against Magnemite (0)...
+     Pawniard (1)'s highest damaging move vs Magnemite: Metal Claw
+[AI] Move choices for Pawniard (1):
+   *   0.0% to use Fury Cutter (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *  33.3% to use Torment (target 0): score 4
+   *  33.3% to use Scary Face (target 0): score 4
+   *  33.3% to use Scary Face (target 0): score 4
+   => will use Scary Face (target 0)
+
+[Round order] The wild Pawniard (1), Magnemite (0)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Pawniard was caught!"
+"Magnemite got 327 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Pawniard's data was added to the Pokédex."
+"Pawniard has been added to your party."
