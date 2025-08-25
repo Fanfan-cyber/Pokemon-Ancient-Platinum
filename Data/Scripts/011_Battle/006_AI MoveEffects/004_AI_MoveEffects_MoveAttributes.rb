@@ -434,7 +434,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetActed
 #===============================================================================
 #
 #===============================================================================
-Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetNotActed",
+Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("move",
   proc { |score, move, user, target, ai, battle|
     score += 10 if user.faster_than?(target)
     next score

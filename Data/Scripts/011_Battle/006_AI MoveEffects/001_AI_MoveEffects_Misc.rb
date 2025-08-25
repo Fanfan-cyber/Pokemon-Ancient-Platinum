@@ -168,7 +168,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("CrashDamageIfFailsUnusab
 #===============================================================================
 Battle::AI::Handlers::MoveFailureCheck.add("StartSunWeather",
   proc { |move, user, ai, battle|
-    next [:HarshSun, :HeavyRain, :StrongWinds, move.move.weatherType].include?(battle.field.weather)
+    next [:HarshSun, :HeavyRain, :StrongWinds, move.weatherType].include?(battle.field.weather)
   }
 )
 Battle::AI::Handlers::MoveEffectScore.add("StartSunWeather",
@@ -468,13 +468,13 @@ Battle::AI::Handlers::MoveFailureCheck.add("SwapSideEffects",
     has_effect = false
     2.times do |side|
       effects = battle.sides[side].effects
-      move.move.number_effects.each do |e|
+      move.number_effects.each do |e|
         next if effects[e] == 0
         has_effect = true
         break
       end
       break if has_effect
-      move.move.boolean_effects.each do |e|
+      move.boolean_effects.each do |e|
         next if !effects[e]
         has_effect = true
         break
@@ -598,7 +598,7 @@ Battle::AI::Handlers::MoveEffectScore.add("BurnAttackerBeforeUserActs",
   proc { |score, move, user, ai, battle|
     ai.each_foe_battler(user.side) do |b|
       next if !b.battler.affectedByContactEffect?
-      next if !b.battler.pbCanBurn?(user.battler, false, move.move)
+      next if !b.battler.pbCanBurn?(user.battler, false, move)
       if ai.trainer.high_skill?
         next if !b.check_for_move { |m| m.pbContactMove?(b.battler) }
       end

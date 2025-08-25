@@ -3,16 +3,16 @@
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("HitTwoTimes",
   proc { |power, move, user, target, ai, battle|
-    next power * 2 #move.move.pbNumHits(user.battler, [target.battler])
+    next power * move.pbNumHits(user, [target])
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitTwoTimes",
   proc { |score, move, user, target, ai, battle|
     # Prefer if the target has a Substitute and this move can break it before
     # the last hit
-    if target.effects[PBEffects::Substitute] > 0 && !move.move.ignoresSubstitute?(user.battler)
+    if target.effects[PBEffects::Substitute] > 0 && !move.ignoresSubstitute?(user.battler)
       dmg = move.rough_damage
-      num_hits = move.move.pbNumHits(user.battler, [target.battler])
+      num_hits = move.pbNumHits(user.battler, [target.battler])
       score += 10 if target.effects[PBEffects::Substitute] < dmg * (num_hits - 1) / num_hits
     end
     next score
@@ -75,7 +75,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitThreeTimesPowersUpWit
   proc { |score, move, user, target, ai, battle|
     # Prefer if the target has a Substitute and this move can break it before
     # the last hit
-    if target.effects[PBEffects::Substitute] > 0 && !move.move.ignoresSubstitute?(user.battler)
+    if target.effects[PBEffects::Substitute] > 0 && !move.ignoresSubstitute?(user.battler)
       dmg = move.rough_damage
       score += 10 if target.effects[PBEffects::Substitute] < dmg / 2
     end
@@ -104,7 +104,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitTwoToFiveTimes",
   proc { |score, move, user, target, ai, battle|
     # Prefer if the target has a Substitute and this move can break it before
     # the last/third hit
-    if target.effects[PBEffects::Substitute] > 0 && !move.move.ignoresSubstitute?(user.battler)
+    if target.effects[PBEffects::Substitute] > 0 && !move.ignoresSubstitute?(user.battler)
       dmg = move.rough_damage
       num_hits = (user.has_active_ability?(:SKILLLINK)) ? 5 : 3   # 3 is about average
       score += 10 if target.effects[PBEffects::Substitute] < dmg * (num_hits - 1) / num_hits
@@ -119,7 +119,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitTwoToFiveTimes",
 Battle::AI::Handlers::MoveBasePower.add("HitTwoToFiveTimesOrThreeForAshGreninja",
   proc { |power, move, user, target, ai, battle|
     if user.isSpecies?(:GRENINJA) && user.form == 2
-      next move.move.pbBaseDamage(power, user, target) * move.move.pbNumHits(user, [target])
+      next move.pbBaseDamage(power, user, target) * move.pbNumHits(user, [target])
     end
     next power * 5 if user.has_active_ability?(:SKILLLINK)
     next power * 31 / 10   # Average damage dealt
@@ -172,7 +172,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HitOncePerUserTeamMember
   proc { |score, move, user, target, ai, battle|
     # Prefer if the target has a Substitute and this move can break it before
     # the last hit
-    if target.effects[PBEffects::Substitute] > 0 && !move.move.ignoresSubstitute?(user.battler)
+    if target.effects[PBEffects::Substitute] > 0 && !move.ignoresSubstitute?(user.battler)
       dmg = move.rough_damage
       num_hits = 0
       battle.eachInTeamFromBattlerIndex(user.index) do |pkmn, _i|
@@ -215,7 +215,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttack",
       score -= 10 if user.hp < user.totalhp / 2
     end
     # Don't prefer if target has a protecting move
-    if ai.trainer.high_skill? && !(user.has_active_ability?(:UNSEENFIST) && move.move.contactMove?)
+    if ai.trainer.high_skill? && !(user.has_active_ability?(:UNSEENFIST) && move.contactMove?)
       has_protect_move = false
       if move.pbTarget(user).num_targets > 1 &&
          (Settings::MECHANICS_GENERATION >= 7 || move.damagingMove?)
@@ -223,7 +223,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttack",
           has_protect_move = true
         end
       end
-      if move.move.canProtectAgainst?
+      if move.canProtectAgainst?
         if target.has_move_with_function?("ProtectUser",
                                           "ProtectUserFromTargetingMovesSpikyShield",
                                           "ProtectUserBanefulBunker")
@@ -255,7 +255,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttack",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("TwoTurnAttackOneTurnInSun",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamageMultiplier(power, user, target)
+    next move.pbBaseDamageMultiplier(power, user, target)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttackOneTurnInSun",
@@ -328,7 +328,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttackRaiseUserSp
        score, move, user, target, ai, battle)
     next score if score == Battle::AI::MOVE_USELESS_SCORE
     # Score for raising user's stats
-    score = ai.get_score_for_target_stat_raise(score, user, move.move.statUp)
+    score = ai.get_score_for_target_stat_raise(score, user, move.statUp)
     next score
   }
 )
@@ -450,7 +450,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("TwoTurnAttackInvulnerabl
 Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("TwoTurnAttackInvulnerableInSkyTargetCannotAct",
   proc { |move, user, target, ai, battle|
     next true if !target.opposes?(user)
-    next true if target.effects[PBEffects::Substitute] > 0 && !move.move.ignoresSubstitute?(user.battler)
+    next true if target.effects[PBEffects::Substitute] > 0 && !move.ignoresSubstitute?(user.battler)
     next true if target.has_type?(:FLYING)
     next true if Settings::MECHANICS_GENERATION >= 6 && target.battler.pbWeight >= 2000   # 200.0kg
     next true if target.battler.semiInvulnerable? || target.effects[PBEffects::SkyDrop] >= 0
@@ -497,7 +497,7 @@ Battle::AI::Handlers::MoveBasePower.add("MultiTurnAttackPowersUpEachTurn",
     #       rounds. It is nearly the average damage this move will do per round,
     #       assuming it hits for 3 rounds (hoping for hits in all 5 rounds is
     #       optimistic).
-    next move.move.pbBaseDamage(power, user, target) * 2
+    next move.pbBaseDamage(power, user, target) * 2
   }
 )
 

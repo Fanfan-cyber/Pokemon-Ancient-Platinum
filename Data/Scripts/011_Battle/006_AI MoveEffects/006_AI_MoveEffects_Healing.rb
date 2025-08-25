@@ -5,7 +5,7 @@ Battle::AI::Handlers::MoveFailureCheck.add("HealUserFullyAndFallAsleep",
   proc { |move, user, ai, battle|
     next true if !user.battler.canHeal?
     next true if user.battler.asleep?
-    next true if !user.battler.pbCanSleep?(user.battler, false, move.move, true)
+    next true if !user.battler.pbCanSleep?(user.battler, false, move, true)
     next false
   }
 )
@@ -136,7 +136,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HealUserByTargetAttackLo
   proc { |score, move, user, target, ai, battle|
     # Check whether lowering the target's Attack will have any impact
     if ai.trainer.medium_skill?
-      score = ai.get_score_for_target_stat_drop(score, target, move.move.statDown)
+      score = ai.get_score_for_target_stat_drop(score, target, move.statDown)
     end
     # Healing the user
     if target.has_active_ability?(:LIQUIDOOZE)
@@ -286,7 +286,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HealTargetHalfOfTotalHP"
         score -= 10
       else
         heal_amt = target.totalhp * 0.5
-        heal_amt = target.totalhp * 0.75 if move.move.pulseMove? &&
+        heal_amt = target.totalhp * 0.75 if move.pulseMove? &&
                                             user.has_active_ability?(:MEGALAUNCHER)
         heal_amt = [heal_amt, target.totalhp - target.hp].min
         score += 20 * (target.totalhp - target.hp) / target.totalhp   # +10 to +20
@@ -519,7 +519,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("UserFaintsLowerTargetAtk
   proc { |score, move, user, target, ai, battle|
     score -= 20   # User will faint, don't prefer this move
     # Check the impact of lowering the target's stats
-    score = ai.get_score_for_target_stat_drop(score, target, move.move.statDown)
+    score = ai.get_score_for_target_stat_drop(score, target, move.statDown)
     next score if score == Battle::AI::MOVE_USELESS_SCORE
     # Score for the user fainting
     if ai.trainer.has_skill_flag?("HPAware")
@@ -591,7 +591,7 @@ Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("StartPerishCountsForAll
     next true if target.effects[PBEffects::PerishSong] > 0
     next false if !target.ability_active?
     next Battle::AbilityEffects.triggerMoveImmunity(target.ability, user.battler, target.battler,
-                                                    move.move, move.rough_type, battle, false)
+                                                    move, move.rough_type, battle, false)
   }
 )
 Battle::AI::Handlers::MoveEffectScore.add("StartPerishCountsForAllBattlers",

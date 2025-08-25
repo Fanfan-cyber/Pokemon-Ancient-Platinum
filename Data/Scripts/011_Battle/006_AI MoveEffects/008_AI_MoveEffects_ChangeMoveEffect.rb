@@ -82,13 +82,13 @@ Battle::AI::Handlers::MoveFailureCheck.add("CurseTargetOrLowerUserSpd1RaiseUserA
     next false if user.has_type?(:GHOST) ||
                   (move.rough_type == :GHOST && user.has_active_ability?([:LIBERO, :PROTEAN]))
     will_fail = true
-    (move.move.statUp.length / 2).times do |i|
-      next if !user.battler.pbCanRaiseStatStage?(move.move.statUp[i * 2], user.battler, move.move)
+    (move.statUp.length / 2).times do |i|
+      next if !user.battler.pbCanRaiseStatStage?(move.statUp[i * 2], user.battler, move)
       will_fail = false
       break
     end
-    (move.move.statDown.length / 2).times do |i|
-      next if !user.battler.pbCanLowerStatStage?(move.move.statDown[i * 2], user.battler, move.move)
+    (move.statDown.length / 2).times do |i|
+      next if !user.battler.pbCanLowerStatStage?(move.statDown[i * 2], user.battler, move)
       will_fail = false
       break
     end
@@ -107,9 +107,9 @@ Battle::AI::Handlers::MoveEffectScore.add("CurseTargetOrLowerUserSpd1RaiseUserAt
   proc { |score, move, user, ai, battle|
     next score if user.has_type?(:GHOST) ||
                   (move.rough_type == :GHOST && user.has_active_ability?([:LIBERO, :PROTEAN]))
-    score = ai.get_score_for_target_stat_raise(score, user, move.move.statUp)
+    score = ai.get_score_for_target_stat_raise(score, user, move.statUp)
     next score if score == Battle::AI::MOVE_USELESS_SCORE
-    next ai.get_score_for_target_stat_drop(score, user, move.move.statDown, false)
+    next ai.get_score_for_target_stat_drop(score, user, move.statDown, false)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("CurseTargetOrLowerUserSpd1RaiseUserAtkDef1",
@@ -144,9 +144,9 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("CurseTargetOrLowerUserSp
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("EffectDependsOnEnvironment",
   proc { |score, move, user, target, ai, battle|
     # Determine this move's effect
-    move.move.pbOnStartUse(user.battler, [target.battler])
+    move.pbOnStartUse(user.battler, [target.battler])
     function_code = nil
-    case move.move.secretPower
+    case move.secretPower
     when 2
       function_code = "SleepTarget"
     when 10
@@ -159,7 +159,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("EffectDependsOnEnvironme
       function_code = "FlinchTarget"
     else
       stat_lowered = nil
-      case move.move.secretPower
+      case move.secretPower
       when 5
         function_code = :ATTACK
       when 14
@@ -186,7 +186,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("EffectDependsOnEnvironme
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("HitsAllFoesAndPowersUpInPsychicTerrain",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -374,7 +374,7 @@ Battle::AI::Handlers::MoveFailureCheck.add("PowerDependsOnUserStockpile",
 )
 Battle::AI::Handlers::MoveBasePower.add("PowerDependsOnUserStockpile",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 Battle::AI::Handlers::MoveEffectScore.add("PowerDependsOnUserStockpile",
@@ -460,7 +460,7 @@ Battle::AI::Handlers::MoveEffectScore.add("WaterPledge",
 Battle::AI::Handlers::MoveFailureCheck.add("UseLastMoveUsed",
   proc { |move, user, ai, battle|
     next true if !battle.lastMoveUsed || !GameData::Move.exists?(battle.lastMoveUsed)
-    next move.move.moveBlacklist.include?(GameData::Move.get(battle.lastMoveUsed).function_code)
+    next move.moveBlacklist.include?(GameData::Move.get(battle.lastMoveUsed).function_code)
   }
 )
 
@@ -483,14 +483,14 @@ Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("UseLastMoveUsedByTarget
 #===============================================================================
 Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("UseMoveTargetIsAboutToUse",
   proc { |move, user, target, ai, battle|
-    next !target.check_for_move { |m| m.damagingMove? && !move.move.moveBlacklist.include?(m.function_code) }
+    next !target.check_for_move { |m| m.damagingMove? && !move.moveBlacklist.include?(m.function_code) }
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("UseMoveTargetIsAboutToUse",
   proc { |score, move, user, target, ai, battle|
     next Battle::AI::MOVE_USELESS_SCORE if target.faster_than?(user)
     # Don't prefer if target knows any moves that can't be copied
-    if target.check_for_move { |m| m.statusMove? || move.move.moveBlacklist.include?(m.function_code) }
+    if target.check_for_move { |m| m.statusMove? || move.moveBlacklist.include?(m.function_code) }
       score -= 8
     end
     next score
@@ -518,7 +518,7 @@ Battle::AI::Handlers::MoveFailureCheck.add("UseRandomMoveFromUserParty",
       next if !pkmn || i == user.party_index
       next if Settings::MECHANICS_GENERATION >= 6 && pkmn.egg?
       pkmn.moves.each do |pkmn_move|
-        next if move.move.moveBlacklist.include?(pkmn_move.function_code)
+        next if move.moveBlacklist.include?(pkmn_move.function_code)
         next if pkmn_move.type == :SHADOW
         will_fail = false
         break
@@ -536,7 +536,7 @@ Battle::AI::Handlers::MoveFailureCheck.add("UseRandomUserMoveIfAsleep",
   proc { |move, user, ai, battle|
     will_fail = true
     user.battler.eachMoveWithIndex do |m, i|
-      next if move.move.moveBlacklist.include?(m.function_code)
+      next if move.moveBlacklist.include?(m.function_code)
       next if !battle.pbCanChooseMove?(user.index, i, false, true)
       will_fail = false
       break
@@ -602,7 +602,7 @@ Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("ReplaceMoveThisBattleWi
     last_move_data = GameData::Move.try_get(target.battler.lastRegularMoveUsed)
     next true if !last_move_data ||
                  user.battler.pbHasMove?(target.battler.lastRegularMoveUsed) ||
-                 move.move.moveBlacklist.include?(last_move_data.function_code) ||
+                 move.moveBlacklist.include?(last_move_data.function_code) ||
                  last_move_data.type == :SHADOW
     next false
   }
