@@ -3,7 +3,7 @@
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("FixedDamage20",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbFixedDamage(user, target)
+    next move.pbFixedDamage(user, target)
   }
 )
 
@@ -12,7 +12,7 @@ Battle::AI::Handlers::MoveBasePower.add("FixedDamage20",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("FixedDamage40",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbFixedDamage(user, target)
+    next move.pbFixedDamage(user, target)
   }
 )
 
@@ -21,7 +21,7 @@ Battle::AI::Handlers::MoveBasePower.add("FixedDamage40",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("FixedDamageHalfTargetHP",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbFixedDamage(user, target)
+    next move.pbFixedDamage(user, target)
   }
 )
 
@@ -30,7 +30,7 @@ Battle::AI::Handlers::MoveBasePower.add("FixedDamageHalfTargetHP",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("FixedDamageUserLevel",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbFixedDamage(user, target)
+    next move.pbFixedDamage(user, target)
   }
 )
 
@@ -53,7 +53,7 @@ Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("LowerTargetHPToUserHP",
 )
 Battle::AI::Handlers::MoveBasePower.add("LowerTargetHPToUserHP",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbFixedDamage(user, target)
+    next move.pbFixedDamage(user, target)
   }
 )
 
@@ -130,7 +130,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DamageTargetAlly",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("PowerHigherWithUserHP",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -187,9 +187,9 @@ Battle::AI::Handlers::MoveBasePower.copy("PowerHigherWithUserHP",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("PowerHigherWithLessPP",
   proc { |power, move, user, target, ai, battle|
-    next 0 if move.move.pp == 0 && move.move.totalpp > 0
+    next 0 if move.pp == 0 && move.totalpp > 0
     dmgs = [200, 80, 60, 50, 40]
-    ppLeft = [move.move.pp - 1, dmgs.length - 1].min
+    ppLeft = [move.pp - 1, dmgs.length - 1].min
     next dmgs[ppLeft]
   }
 )
@@ -262,7 +262,7 @@ Battle::AI::Handlers::MoveEffectScore.add("PowerHigherWithConsecutiveUse",
 Battle::AI::Handlers::MoveBasePower.add("RandomPowerDoublePowerIfTargetUnderground",
   proc { |power, move, user, target, ai, battle|
     power = 71   # Average damage
-    next move.move.pbModifyDamage(power, user, target)
+    next move.pbModifyDamage(power, user, target)
   }
 )
 
@@ -271,7 +271,7 @@ Battle::AI::Handlers::MoveBasePower.add("RandomPowerDoublePowerIfTargetUndergrou
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetHPLessThanHalf",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -304,7 +304,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetAslee
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetPoisoned",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -331,7 +331,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetParal
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetStatusProblem",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -350,7 +350,7 @@ Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfUserHasNoItem",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetUnderwater",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbModifyDamage(power, user, target)
+    next move.pbModifyDamage(power, user, target)
   }
 )
 
@@ -365,7 +365,7 @@ Battle::AI::Handlers::MoveBasePower.copy("DoublePowerIfTargetUnderwater",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetInSky",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -1213,7 +1213,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("HoopaRemoveProtectionsBy
   proc { |score, move, user, target, ai, battle|
     score = Battle::AI::Handlers.apply_move_effect_against_target_score("RemoveProtections",
        score, move, user, target, ai, battle)
-    next ai.get_score_for_target_stat_drop(score, user, move.move.statDown, false)
+    next ai.get_score_for_target_stat_drop(score, user, move.statDown, false)
   }
 )
 
@@ -1424,7 +1424,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("StartNegateTargetEvasion
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("TypeDependsOnUserIVs",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
@@ -1441,7 +1441,7 @@ Battle::AI::Handlers::MoveFailureCheck.add("TypeAndPowerDependOnUserBerry",
 )
 Battle::AI::Handlers::MoveBasePower.add("TypeAndPowerDependOnUserBerry",
   proc { |power, move, user, target, ai, battle|
-    ret = move.move.pbBaseDamage(1, user, target)
+    ret = move.pbBaseDamage(1, user, target)
     next (ret == 1) ? 0 : ret
   }
 )
@@ -1477,7 +1477,7 @@ Battle::AI::Handlers::MoveEffectScore.copy("RaiseUserSpeed1",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("TypeAndPowerDependOnWeather",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user, target)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 
