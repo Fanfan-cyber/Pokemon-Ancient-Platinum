@@ -240,7 +240,8 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("ParalyzeTarget",
 #===============================================================================
 Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("ParalyzeTargetIfNotTypeImmune",
   proc { |move, user, target, ai, battle|
-    eff = target.effectiveness_of_type_against_battler(move.rough_type, user, move)
+    mov = Battle::AI::FakeMove.new(ai,move)
+    eff = target.effectiveness_of_type_against_battler(mov.rough_type, user, move)
     next true if Effectiveness.ineffective?(eff)
     next true if move.statusMove? && !target.battler.pbCanParalyze?(user.battler, false, move)
     next false
