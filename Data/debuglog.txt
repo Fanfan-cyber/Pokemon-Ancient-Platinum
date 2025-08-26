@@ -243665,3 +243665,4004 @@ Set up score for Chimecho (0): 0
 "Choose a Pokémon in your party to send to your Boxes."
 "Sunflora has been sent to Box "Box 1"."
 "Staravia has been added to your party."
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 49 HP (174 -> 125)
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[Move failed] Failed pbAccuracyCheck
+"Sunflora's attack missed!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 71 HP (125 -> 54)
+"It's not very effective..."
+[HP change] Sunflora gained 43 HP (54 -> 97)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 90 HP (156 -> 66)
+"A critical hit!"
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 45 HP (97 -> 142)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 68 HP (142 -> 74)
+"It's not very effective..."
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 57 HP (66 -> 9)
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 29 HP (74 -> 103)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 65 HP (103 -> 38)
+"It's not very effective..."
+"Sunflora is paralyzed! It may be unable to move!"
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 9 HP (9 -> 0)
+"The opposing Jolteon fainted!"
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 5 HP (38 -> 43)
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/43 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/43 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/43 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (24) vs Vaporeon speed: 96
+     [Vaporeon] + 12: for fast kill
+     [Vaporeon] final Switch score: 12
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/43 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/43 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/43 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (24) vs Leafeon speed: 143
+     [Leafeon] + 12: for fast kill
+     [Leafeon] final Switch score: 12
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/43 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/43 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/43 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/43 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (24) vs Glaceon speed: 95
+     [Glaceon] + 12: for fast kill
+     [Glaceon] final Switch score: 12
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/43 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/43 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/43 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (24) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/43 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/43 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/43 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/43 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (24) vs Sylveon speed: 91
+     [Sylveon] + 12: for fast kill
+     [Sylveon] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 5 =====
+
+
+**Exception: uninitialized constant Battle::NewAI
+[Phantombass AI] 01_AI_Move_Scoring.rb:624:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:108:in `trigger_damaging_moves'
+[Phantombass AI] 03_AI_Moves.rb:309:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:1102:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+     [Switch AI] -7 We have fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+      + 20 for fast kill
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+      + 20 for fast kill
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+
+**Exception: uninitialized constant Battle::NewAI
+[Phantombass AI] 01_AI_Move_Scoring.rb:624:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:108:in `trigger_damaging_moves'
+[Phantombass AI] 03_AI_Moves.rb:309:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:1102:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:167:in `block in update'
+002_Scene_Map.rb:166:in `loop'
+002_Scene_Map.rb:166:in `update'
+002_Scene_Map.rb:238:in `block in main'
+002_Scene_Map.rb:235:in `loop'
+002_Scene_Map.rb:235:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 49 HP (174 -> 125)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 76 HP (156 -> 80)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (80 -> 61)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 46 HP (125 -> 79)
+[HP change] Sunflora gained 43 HP (79 -> 122)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 58 HP (61 -> 3)
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 29 HP (122 -> 151)
+
+[End of round 2]
+[HP change] The opposing Jolteon lost 3 HP (3 -> 0)
+"The opposing Jolteon is hurt by Magma Storm!"
+"The opposing Jolteon fainted!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/151 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/151 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/151 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] +  6: for fast 2HKO
+     [Vaporeon] final Switch score: 6
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/151 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/151 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/151 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/151 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/151 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/151 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/151 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] -  7: for target slow kill
+     [Glaceon] final Switch score: -7
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/151 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/151 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/151 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/151 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/151 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/151 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/151 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Collector Douglas sent out Espeon!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Sunflora (0)...
+     Espeon (1)'s highest damaging move vs Sunflora: Psychic Noise
+     + 4 to prioritize highest damaging move
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Sunflora: Psychic Noise
+[AI] Espeon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Espeon (1)'s highest damaging move vs Sunflora: Psychic Noise
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   * 100.0% to use Psychic Noise (target 0): score 5
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic Noise (target 0)
+
+[Round order] The opposing Espeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Espeon (1) used Psychic Noise
+"The opposing Espeon used Psychic Noise!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 3]
+[HP change] Obstagoon lost 11 HP (187 -> 176)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 161 HP (161 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 4]
+[HP change] Obstagoon lost 11 HP (176 -> 165)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Vaporeon] using Scald vs Obstagoon does a max of 126/165 damage
+     [Vaporeon] using Ice Beam vs Obstagoon does a max of 78/165 damage
+     [Vaporeon] using Flip Turn vs Obstagoon does a max of 35/165 damage
+     Obstagoon (0)'s best move: Double-Edge for 192/232 damage
+==============================
+     Obstagoon (0) speed (133) vs Vaporeon speed: 96
+     [Vaporeon] -  5: for target having fast 2HKO and us having no kill
+     [Vaporeon] final Switch score: -5
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/165 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/165 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/165 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/165 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/165 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/165 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  3: for outdamage
+     [Glaceon] final Switch score: 3
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/165 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/165 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (6)
+"Collector Douglas sent out Leafeon!"
+
+===== Round 5 =====
+
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+[AI] Move choices for Leafeon (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leafeon (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+[HP change] Skarmory lost 15 HP (160 -> 145)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+[AI] Move choices for Leafeon (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leafeon (1), Skarmory (0)
+
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+[HP change] Skarmory lost 13 HP (145 -> 132)
+"It's not very effective..."
+[Use move] Skarmory (0) used Brave Bird
+"Skarmory used Brave Bird!"
+[HP change] The opposing Leafeon lost 126 HP (158 -> 32)
+"It's super effective!"
+[HP change] Skarmory lost 42 HP (132 -> 90)
+"Skarmory is damaged by recoil!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+[AI] Move choices for Leafeon (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leafeon (1), Skarmory (0)
+
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+[HP change] Skarmory lost 13 HP (90 -> 77)
+"It's not very effective..."
+[HP change] Skarmory gained 40 HP (77 -> 117)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Iron Head
+"Skarmory used Iron Head!"
+[HP change] The opposing Leafeon lost 32 HP (32 -> 0)
+"The opposing Leafeon fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Skarmory does a max of 131/117 damage
+     [Vaporeon] using Ice Beam vs Skarmory does a max of 82/117 damage
+     [Vaporeon] using Flip Turn vs Skarmory does a max of 24/117 damage
+     Skarmory (0)'s best move: Brave Bird for 116/232 damage
+==============================
+     Skarmory (0) speed (88) vs Vaporeon speed: 96
+     [Vaporeon] + 12: for fast kill
+     [Vaporeon] final Switch score: 12
+==============================
+     [Glaceon] using Freeze-Dry vs Skarmory does a max of 129/117 damage
+     [Glaceon] using Shadow Ball vs Skarmory does a max of 82/117 damage
+     [Glaceon] using Alluring Voice vs Skarmory does a max of 41/117 damage
+     Skarmory (0)'s best move: Body Press for 114/156 damage
+==============================
+     Skarmory (0) speed (88) vs Glaceon speed: 95
+     [Glaceon] + 12: for fast kill
+     [Glaceon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Skarmory does a max of 49/117 damage
+     [Sylveon] using Psyshock vs Skarmory does a max of 17/117 damage
+     [Sylveon] using Mystical Fire vs Skarmory does a max of 138/117 damage
+     [Sylveon] using Shadow Ball vs Skarmory does a max of 73/117 damage
+     Skarmory (0)'s best move: Iron Head for 147/192 damage
+==============================
+     Skarmory (0) speed (88) vs Sylveon speed: 91
+     [Sylveon] + 12: for fast kill
+     [Sylveon] final Switch score: 12
+[AI] Highest move score (10) vs Switch In Score (12)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 8 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Skarmory (0)...
+     Vaporeon (1)'s highest damaging move vs Skarmory: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Skarmory (0)...
+     Vaporeon (1)'s highest damaging move vs Skarmory: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Skarmory (0)...
+     Vaporeon (1)'s highest damaging move vs Skarmory: Scald
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 91 HP (165 -> 74)
+[HP change] Magnezone gained 41 HP (74 -> 115)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 93 HP (115 -> 22)
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Vaporeon lost 116 HP (232 -> 116)
+"It's super effective!"
+"Magnezone went back to Tyler!"
+"Go for it, Obstagoon!"
+
+[End of round 9]
+[HP change] Obstagoon lost 11 HP (165 -> 154)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Vaporeon (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   * 100.0% to use Flip Turn (target 0): score 10
+   => will use Flip Turn (target 0)
+
+[Round order] Obstagoon (0), the opposing Vaporeon (1)
+
+[Use move] Obstagoon (0) used Double-Edge
+"Obstagoon used Double-Edge!"
+[HP change] The opposing Vaporeon lost 116 HP (116 -> 0)
+"The opposing Vaporeon fainted!"
+[HP change] Obstagoon lost 39 HP (154 -> 115)
+"Obstagoon is damaged by recoil!"
+
+[End of round 10]
+[HP change] Obstagoon lost 11 HP (115 -> 104)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/104 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/104 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/104 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/104 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/104 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (9)
+"Collector Douglas sent out Glaceon!"
+
+===== Round 11 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *  50.0% to use Freeze-Dry (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  50.0% to use Alluring Voice (target 0): score 18
+   => will use Alluring Voice (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+"Obstagoon, come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Glaceon (1) used Alluring Voice
+"The opposing Glaceon used Alluring Voice!"
+[HP change] Sunflora lost 28 HP (151 -> 123)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+     + 4 to prioritize highest damaging move
+[AI] Glaceon (1) is considering using Earth Power (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Move choices for Glaceon (1):
+   * 100.0% to use Freeze-Dry (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Freeze-Dry (target 0)
+
+[Round order] The opposing Glaceon (1), Sunflora (0)
+
+[Use move] The opposing Glaceon (1) used Freeze-Dry
+"The opposing Glaceon used Freeze-Dry!"
+[HP change] Sunflora lost 96 HP (123 -> 27)
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Glaceon lost 55 HP (156 -> 101)
+"The opposing Glaceon had its energy drained!"
+[HP change] Sunflora gained 28 HP (27 -> 55)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 49 HP (174 -> 125)
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 70 HP (156 -> 86)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (86 -> 67)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 68 HP (125 -> 57)
+"It's not very effective..."
+[HP change] Sunflora gained 43 HP (57 -> 100)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 56 HP (67 -> 11)
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 28 HP (100 -> 128)
+
+[End of round 2]
+[HP change] The opposing Jolteon lost 11 HP (11 -> 0)
+"The opposing Jolteon is hurt by Magma Storm!"
+"The opposing Jolteon fainted!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/128 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/128 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/128 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] + 12: for fast kill
+     [Vaporeon] final Switch score: 12
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/128 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/128 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/128 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/128 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/128 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/128 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/128 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] + 12: for fast kill
+     [Glaceon] final Switch score: 12
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/128 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/128 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/128 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/128 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/128 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/128 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/128 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 3 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 89 HP (165 -> 76)
+[HP change] Magnezone gained 41 HP (76 -> 117)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 80 HP (117 -> 37)
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Vaporeon lost 116 HP (232 -> 116)
+"It's super effective!"
+"Magnezone went back to Tyler!"
+"Go for it, Obstagoon!"
+
+[End of round 4]
+[HP change] Obstagoon lost 11 HP (187 -> 176)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Vaporeon (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   * 100.0% to use Flip Turn (target 0): score 10
+   => will use Flip Turn (target 0)
+
+[Round order] Obstagoon (0), the opposing Vaporeon (1)
+
+[Use move] Obstagoon (0) used Double-Edge
+"Obstagoon used Double-Edge!"
+[HP change] The opposing Vaporeon lost 116 HP (116 -> 0)
+"The opposing Vaporeon fainted!"
+[HP change] Obstagoon lost 39 HP (176 -> 137)
+"Obstagoon is damaged by recoil!"
+
+[End of round 5]
+[HP change] Obstagoon lost 11 HP (137 -> 126)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/126 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/126 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/126 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/126 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/126 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/126 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Espeon] using Dazzling Gleam vs Obstagoon does a max of 156/126 damage
+     [Espeon] using Hidden Power vs Obstagoon does a max of 236/126 damage
+     Obstagoon (0)'s best move: Sucker Punch for 225/161 damage
+==============================
+     Obstagoon (0) speed (133) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/126 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/126 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (12)
+"Collector Douglas sent out Espeon!"
+
+===== Round 6 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 161 HP (161 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 6]
+[HP change] Obstagoon lost 11 HP (126 -> 115)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/115 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/115 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/115 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/115 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/115 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/115 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/115 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/115 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Douglas sent out Glaceon!"
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 18
+   => will use Alluring Voice (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+"Obstagoon, come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Glaceon (1) used Alluring Voice
+"The opposing Glaceon used Alluring Voice!"
+[HP change] Sunflora lost 43 HP (128 -> 85)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+      + 20 for fast kill
+[AI] Glaceon (1) is considering using Earth Power (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Move choices for Glaceon (1):
+   * 100.0% to use Freeze-Dry (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Freeze-Dry (target 0)
+
+[Round order] The opposing Glaceon (1), Sunflora (0)
+
+[Use move] The opposing Glaceon (1) used Freeze-Dry
+"The opposing Glaceon used Freeze-Dry!"
+[HP change] Sunflora lost 85 HP (85 -> 0)
+"Sunflora fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 45 HP (174 -> 129)
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 74 HP (156 -> 82)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (82 -> 63)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 67 HP (129 -> 62)
+"It's not very effective..."
+[HP change] Sunflora gained 43 HP (62 -> 105)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 62 HP (63 -> 1)
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 31 HP (105 -> 136)
+
+[End of round 2]
+[HP change] The opposing Jolteon lost 1 HP (1 -> 0)
+"The opposing Jolteon is hurt by Magma Storm!"
+"The opposing Jolteon fainted!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/136 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/136 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/136 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] + 12: for fast kill
+     [Vaporeon] final Switch score: 12
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/136 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/136 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/136 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/136 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/136 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/136 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/136 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] + 12: for fast kill
+     [Glaceon] final Switch score: 12
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/136 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/136 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/136 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/136 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/136 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/136 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/136 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 3 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 90 HP (165 -> 75)
+[HP change] Magnezone gained 41 HP (75 -> 116)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+"Magnezone was burned!"
+
+[End of round 3]
+[HP change] Magnezone lost 10 HP (116 -> 106)
+"Magnezone was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 90 HP (106 -> 16)
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Vaporeon lost 129 HP (232 -> 103)
+"It's super effective!"
+"Magnezone went back to Tyler!"
+"Just a little more! Hang in there, Obstagoon!"
+
+[End of round 4]
+[HP change] Obstagoon lost 11 HP (187 -> 176)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Vaporeon (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   * 100.0% to use Flip Turn (target 0): score 10
+   => will use Flip Turn (target 0)
+
+[Round order] Obstagoon (0), the opposing Vaporeon (1)
+
+[Use move] Obstagoon (0) used Double-Edge
+"Obstagoon used Double-Edge!"
+[HP change] The opposing Vaporeon lost 103 HP (103 -> 0)
+"The opposing Vaporeon fainted!"
+[HP change] Obstagoon lost 34 HP (176 -> 142)
+"Obstagoon is damaged by recoil!"
+
+[End of round 5]
+[HP change] Obstagoon lost 11 HP (142 -> 131)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/131 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/131 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/131 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/131 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/131 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/131 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Espeon] using Dazzling Gleam vs Obstagoon does a max of 156/131 damage
+     [Espeon] using Hidden Power vs Obstagoon does a max of 236/131 damage
+     Obstagoon (0)'s best move: Sucker Punch for 225/161 damage
+==============================
+     Obstagoon (0) speed (133) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/131 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/131 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (12)
+"Collector Douglas sent out Espeon!"
+
+===== Round 6 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 161 HP (161 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 6]
+[HP change] Obstagoon lost 11 HP (131 -> 120)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/120 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/120 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/120 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/120 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/120 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/120 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/120 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/120 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Douglas sent out Glaceon!"
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 18
+   => will use Alluring Voice (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+"Obstagoon, come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Glaceon (1) used Alluring Voice
+"The opposing Glaceon used Alluring Voice!"
+[HP change] Sunflora lost 41 HP (136 -> 95)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+     + 4 to prioritize highest damaging move
+[AI] Glaceon (1) is considering using Earth Power (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Move choices for Glaceon (1):
+   * 100.0% to use Freeze-Dry (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Freeze-Dry (target 0)
+
+[Round order] The opposing Glaceon (1), Sunflora (0)
+
+[Use move] The opposing Glaceon (1) used Freeze-Dry
+"The opposing Glaceon used Freeze-Dry!"
+[HP change] Sunflora lost 95 HP (95 -> 0)
+"A critical hit!"
+"Sunflora fainted!"
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 42 HP (174 -> 132)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 76 HP (156 -> 80)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (80 -> 61)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 42 HP (132 -> 90)
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 54 HP (61 -> 7)
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 27 HP (90 -> 117)
+
+[End of round 2]
+[HP change] The opposing Jolteon lost 7 HP (7 -> 0)
+"The opposing Jolteon is hurt by Magma Storm!"
+"The opposing Jolteon fainted!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 98/117 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 61/117 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/117 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] +  6: for fast 2HKO
+     [Vaporeon] final Switch score: 6
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/117 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/117 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/117 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 96/117 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 68/117 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 61/117 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 31/117 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] -  7: for target slow kill
+     [Glaceon] final Switch score: -7
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 101/117 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 30/117 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 45/117 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] +  6: for fast 2HKO
+     [Espeon] final Switch score: 6
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 73/117 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/117 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 51/117 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 54/117 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 3 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 85 HP (165 -> 80)
+[HP change] Magnezone gained 41 HP (80 -> 121)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 121 HP (121 -> 0)
+"A critical hit!"
+"Magnezone fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 48 HP (174 -> 126)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[Move failed] Failed pbAccuracyCheck
+"Sunflora's attack missed!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 44 HP (174 -> 130)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[Move failed] Failed pbAccuracyCheck
+"Sunflora's attack missed!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 46 HP (174 -> 128)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[Move failed] Failed pbAccuracyCheck
+"Sunflora's attack missed!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 46 HP (174 -> 128)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 78 HP (156 -> 78)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (78 -> 59)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 46 HP (128 -> 82)
+[HP change] Sunflora gained 43 HP (82 -> 125)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 59 HP (59 -> 0)
+"The opposing Jolteon fainted!"
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 30 HP (125 -> 155)
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/155 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/155 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/155 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] +  6: for fast 2HKO
+     [Vaporeon] final Switch score: 6
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/155 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/155 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/155 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/155 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/155 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/155 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/155 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] -  7: for target slow kill
+     [Glaceon] final Switch score: -7
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/155 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/155 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/155 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] +  6: for fast 2HKO
+     [Espeon] final Switch score: 6
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/155 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/155 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/155 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/155 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 3 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 92 HP (165 -> 73)
+[HP change] Magnezone gained 41 HP (73 -> 114)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+"Magnezone was burned!"
+
+[End of round 3]
+[HP change] Magnezone lost 10 HP (114 -> 104)
+"Magnezone was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 104 HP (104 -> 0)
+"A critical hit!"
+"Magnezone fainted!"
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 45 HP (174 -> 129)
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 81 HP (156 -> 75)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (75 -> 56)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 71 HP (129 -> 58)
+"It's not very effective..."
+[HP change] Sunflora gained 43 HP (58 -> 101)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 56 HP (56 -> 0)
+"The opposing Jolteon fainted!"
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 28 HP (101 -> 129)
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/129 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/129 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/129 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] + 12: for fast kill
+     [Vaporeon] final Switch score: 12
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/129 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/129 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/129 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/129 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/129 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/129 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/129 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] + 12: for fast kill
+     [Glaceon] final Switch score: 12
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/129 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/129 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/129 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/129 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/129 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/129 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/129 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 3 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 86 HP (165 -> 79)
+[HP change] Magnezone gained 41 HP (79 -> 120)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+"Magnezone was burned!"
+
+[End of round 3]
+[HP change] Magnezone lost 10 HP (120 -> 110)
+"Magnezone was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 84 HP (110 -> 26)
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Vaporeon lost 125 HP (232 -> 107)
+"It's super effective!"
+"Magnezone went back to Tyler!"
+"Just a little more! Hang in there, Obstagoon!"
+
+[End of round 4]
+[HP change] Obstagoon lost 11 HP (187 -> 176)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Vaporeon (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   * 100.0% to use Flip Turn (target 0): score 10
+   => will use Flip Turn (target 0)
+
+[Round order] Obstagoon (0), the opposing Vaporeon (1)
+
+[Use move] Obstagoon (0) used Double-Edge
+"Obstagoon used Double-Edge!"
+[HP change] The opposing Vaporeon lost 107 HP (107 -> 0)
+"The opposing Vaporeon fainted!"
+[HP change] Obstagoon lost 36 HP (176 -> 140)
+"Obstagoon is damaged by recoil!"
+
+[End of round 5]
+[HP change] Obstagoon lost 11 HP (140 -> 129)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/129 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/129 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/129 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/129 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/129 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/129 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Espeon] using Dazzling Gleam vs Obstagoon does a max of 156/129 damage
+     [Espeon] using Hidden Power vs Obstagoon does a max of 236/129 damage
+     Obstagoon (0)'s best move: Sucker Punch for 225/161 damage
+==============================
+     Obstagoon (0) speed (133) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/129 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/129 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (12)
+"Collector Douglas sent out Espeon!"
+
+===== Round 6 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 161 HP (161 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 6]
+[HP change] Obstagoon lost 11 HP (129 -> 118)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/118 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/118 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/118 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/118 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/118 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/118 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/118 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/118 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Douglas sent out Glaceon!"
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 18
+   => will use Alluring Voice (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+"Obstagoon, come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Glaceon (1) used Alluring Voice
+"The opposing Glaceon used Alluring Voice!"
+[HP change] Sunflora lost 28 HP (129 -> 101)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+     + 4 to prioritize highest damaging move
+[AI] Glaceon (1) is considering using Earth Power (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Move choices for Glaceon (1):
+   * 100.0% to use Freeze-Dry (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Freeze-Dry (target 0)
+
+[Round order] The opposing Glaceon (1), Sunflora (0)
+
+[Use move] The opposing Glaceon (1) used Freeze-Dry
+"The opposing Glaceon used Freeze-Dry!"
+[HP change] Sunflora lost 89 HP (101 -> 12)
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[Move failed] Failed pbAccuracyCheck
+"Sunflora's attack missed!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Sunflora!"
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Shadow Ball
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Shadow Ball
+"The opposing Jolteon used Shadow Ball!"
+[HP change] Sunflora lost 47 HP (174 -> 127)
+[Stat change] Sunflora's Special Defense changed by -1 (0 -> -1)
+"Sunflora's Special Defense fell!"
+[Use move] Sunflora (0) used Magma Storm
+"Sunflora used Magma Storm!"
+[HP change] The opposing Jolteon lost 79 HP (156 -> 77)
+"The opposing Jolteon became trapped by Magma Storm!"
+
+[End of round 1]
+[HP change] The opposing Jolteon lost 19 HP (77 -> 58)
+"The opposing Jolteon is hurt by Magma Storm!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Jolteon (1) is considering using Hidden Power (1) against Sunflora (0)...
+     Jolteon (1)'s highest damaging move vs Sunflora: Thunderbolt
+[AI] Move choices for Jolteon (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Jolteon (1), Sunflora (0)
+
+[Use move] The opposing Jolteon (1) used Thunderbolt
+"The opposing Jolteon used Thunderbolt!"
+[HP change] Sunflora lost 66 HP (127 -> 61)
+"It's not very effective..."
+[HP change] Sunflora gained 43 HP (61 -> 104)
+"Sunflora restored its health using its Sitrus Berry!"
+[Item consumed] Sunflora consumed its held Sitrus Berry
+[Use move] Sunflora (0) used Giga Drain
+"Sunflora used Giga Drain!"
+[HP change] The opposing Jolteon lost 53 HP (58 -> 5)
+"The opposing Jolteon had its energy drained!"
+[HP change] Sunflora gained 27 HP (104 -> 131)
+
+[End of round 2]
+[HP change] The opposing Jolteon lost 5 HP (5 -> 0)
+"The opposing Jolteon is hurt by Magma Storm!"
+"The opposing Jolteon fainted!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Sunflora does a max of 146/131 damage
+     [Vaporeon] using Ice Beam vs Sunflora does a max of 91/131 damage
+     [Vaporeon] using Flip Turn vs Sunflora does a max of 53/131 damage
+     Sunflora (0)'s best move: Giga Drain for 120/232 damage
+==============================
+     Sunflora (0) speed (48) vs Vaporeon speed: 96
+     [Vaporeon] + 12: for fast kill
+     [Vaporeon] final Switch score: 12
+==============================
+     [Leafeon] using Leaf Blade vs Sunflora does a max of 33/131 damage
+     [Leafeon] using X-Scissor vs Sunflora does a max of 66/131 damage
+     [Leafeon] using Quick Attack vs Sunflora does a max of 34/131 damage
+     Sunflora (0)'s best move: Magma Storm for 216/158 damage
+==============================
+     Sunflora (0) speed (48) vs Leafeon speed: 143
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Sunflora does a max of 144/131 damage
+     [Glaceon] using Earth Power vs Sunflora does a max of 103/131 damage
+     [Glaceon] using Shadow Ball vs Sunflora does a max of 92/131 damage
+     [Glaceon] using Alluring Voice vs Sunflora does a max of 46/131 damage
+     Sunflora (0)'s best move: Magma Storm for 162/156 damage
+==============================
+     Sunflora (0) speed (48) vs Glaceon speed: 95
+     [Glaceon] + 12: for fast kill
+     [Glaceon] final Switch score: 12
+==============================
+     [Espeon] using Psychic Noise vs Sunflora does a max of 152/131 damage
+     [Espeon] using Dazzling Gleam vs Sunflora does a max of 45/131 damage
+     [Espeon] using Hidden Power vs Sunflora does a max of 68/131 damage
+     Sunflora (0)'s best move: Magma Storm for 78/161 damage
+==============================
+     Sunflora (0) speed (48) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Sunflora does a max of 109/131 damage
+     [Sylveon] using Psyshock vs Sunflora does a max of 72/131 damage
+     [Sylveon] using Mystical Fire vs Sunflora does a max of 76/131 damage
+     [Sylveon] using Shadow Ball vs Sunflora does a max of 81/131 damage
+     Sunflora (0)'s best move: Magma Storm for 62/192 damage
+==============================
+     Sunflora (0) speed (48) vs Sylveon speed: 91
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 3 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+     [Switch AI] +5 Party member [Leafeon] is immune to strongest move against Vaporeon (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): -1
+     Threat Score for Sunflora (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Sunflora (0)...
+     Vaporeon (1)'s highest damaging move vs Sunflora: Scald
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Sunflora (0)
+
+"Sunflora, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 91 HP (165 -> 74)
+[HP change] Magnezone gained 41 HP (74 -> 115)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Magnezone (0)...
+     Vaporeon (1)'s highest damaging move vs Magnezone: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Magnezone (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Magnezone lost 92 HP (115 -> 23)
+"Magnezone was burned!"
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Vaporeon lost 131 HP (232 -> 101)
+"It's super effective!"
+"Magnezone went back to Tyler!"
+"Just a little more! Hang in there, Obstagoon!"
+
+[End of round 4]
+[HP change] Obstagoon lost 11 HP (187 -> 176)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Vaporeon (1)'s highest damaging move vs Obstagoon: Scald
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Vaporeon (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   * 100.0% to use Flip Turn (target 0): score 10
+   => will use Flip Turn (target 0)
+
+[Round order] Obstagoon (0), the opposing Vaporeon (1)
+
+[Use move] Obstagoon (0) used Double-Edge
+"Obstagoon used Double-Edge!"
+[HP change] The opposing Vaporeon lost 101 HP (101 -> 0)
+"The opposing Vaporeon fainted!"
+[HP change] Obstagoon lost 34 HP (176 -> 142)
+"Obstagoon is damaged by recoil!"
+
+[End of round 5]
+[HP change] Obstagoon lost 11 HP (142 -> 131)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/131 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/131 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/131 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/131 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/131 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/131 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Espeon] using Dazzling Gleam vs Obstagoon does a max of 156/131 damage
+     [Espeon] using Hidden Power vs Obstagoon does a max of 236/131 damage
+     Obstagoon (0)'s best move: Sucker Punch for 225/161 damage
+==============================
+     Obstagoon (0) speed (133) vs Espeon speed: 165
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/131 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/131 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (12)
+"Collector Douglas sent out Espeon!"
+
+===== Round 6 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 161 HP (161 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 6]
+[HP change] Obstagoon lost 11 HP (131 -> 120)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/120 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/120 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/120 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 125/120 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 88/120 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 158/120 damage
+     Obstagoon (0)'s best move: Double-Edge for 122/156 damage
+==============================
+     Obstagoon (0) speed (133) vs Glaceon speed: 95
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/120 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/120 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Douglas sent out Glaceon!"
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 18
+   => will use Alluring Voice (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+"Obstagoon, come back!"
+"You're in charge, Sunflora!"
+[Use move] The opposing Glaceon (1) used Alluring Voice
+"The opposing Glaceon used Alluring Voice!"
+[HP change] Sunflora lost 28 HP (131 -> 103)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+     + 4 to prioritize highest damaging move
+[AI] Glaceon (1) is considering using Earth Power (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+[AI] Move choices for Glaceon (1):
+   * 100.0% to use Freeze-Dry (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Freeze-Dry (target 0)
+
+[Round order] The opposing Glaceon (1), Sunflora (0)
+
+[Use move] The opposing Glaceon (1) used Freeze-Dry
+"The opposing Glaceon used Freeze-Dry!"
+[HP change] Sunflora lost 84 HP (103 -> 19)
+[Use move] Sunflora (0) used Flamethrower
+"Sunflora used Flamethrower!"
+[HP change] The opposing Glaceon lost 137 HP (156 -> 19)
+"It's super effective!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sunflora (0): 0
+     Threat Score for Sunflora (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+      + 20 for fast kill
+[AI] Glaceon (1) is considering using Earth Power (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+      + 20 for fast kill
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+      + 20 for fast kill
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Sunflora (0)...
+     Glaceon (1)'s highest damaging move vs Sunflora: Freeze-Dry
+      + 20 for fast kill
+[AI] Move choices for Glaceon (1):
+   *  25.0% to use Freeze-Dry (target 0): score 21
+   *  25.0% to use Earth Power (target 0): score 21
+   *  25.0% to use Shadow Ball (target 0): score 21
+   *  25.0% to use Alluring Voice (target 0): score 21
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Glaceon (1), Sunflora (0)
+
+"Good job, Sunflora! Come back!"
+"Your opponent's weak! Get 'em, Obstagoon!"
+[Use move] The opposing Glaceon (1) used Earth Power
+"The opposing Glaceon used Earth Power!"
+[HP change] Obstagoon lost 77 HP (120 -> 43)
+[HP change] Obstagoon gained 46 HP (43 -> 89)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 9]
+[HP change] Obstagoon lost 11 HP (89 -> 78)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *  33.3% to use Freeze-Dry (target 0): score 18
+   *  33.3% to use Earth Power (target 0): score 18
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  33.3% to use Alluring Voice (target 0): score 18
+   => will use Earth Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Glaceon lost 19 HP (19 -> 0)
+"The opposing Glaceon fainted!"
+
+[End of round 10]
+[HP change] Obstagoon lost 11 HP (78 -> 67)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 87/67 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 86/67 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 22/67 damage
+     Obstagoon (0)'s best move: Double-Edge for 104/158 damage
+==============================
+     Obstagoon (0) speed (133) vs Leafeon speed: 143
+     [Leafeon] + 12: for fast kill
+     [Leafeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 94/67 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 66/67 damage
+     Obstagoon (0)'s best move: Double-Edge for 183/192 damage
+==============================
+     Obstagoon (0) speed (133) vs Sylveon speed: 91
+     [Sylveon] +  9: for slow kill
+     [Sylveon] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Collector Douglas sent out Leafeon!"
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+      + 20 for fast kill
+[AI] Leafeon (1) is considering using X-Scissor (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+      + 20 for fast kill
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+[AI] Move choices for Leafeon (1):
+   *  50.0% to use Leaf Blade (target 0): score 21
+   *  50.0% to use X-Scissor (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Obstagoon (0), the opposing Leafeon (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Leafeon's Defense changed by -2 (0 -> -2)
+"The opposing Leafeon's Defense harshly fell!"
+
+[End of round 11]
+[HP change] Obstagoon lost 11 HP (67 -> 56)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Leafeon (1): -2
+Set up score for Leafeon (1): -2
+Set up score for Leafeon (1): -2
+Set up score for Leafeon (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+      + 20 for fast kill
+[AI] Leafeon (1) is considering using X-Scissor (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+      + 20 for fast kill
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Leafeon (1):
+   *  50.0% to use Leaf Blade (target 0): score 21
+   *  50.0% to use X-Scissor (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leafeon (1), Obstagoon (0)
+
+"OK, Obstagoon! Come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+[HP change] Skarmory lost 13 HP (160 -> 147)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Leafeon (1): -2
+Set up score for Leafeon (1): -2
+Set up score for Leafeon (1): -2
+Set up score for Leafeon (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Skarmory (0)...
+     Leafeon (1)'s highest damaging move vs Skarmory: Leaf Blade
+[AI] Move choices for Leafeon (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leafeon (1), Skarmory (0)
+
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+[HP change] Skarmory lost 20 HP (147 -> 127)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Skarmory (0) used Brave Bird
+"Skarmory used Brave Bird!"
+[HP change] The opposing Leafeon lost 158 HP (158 -> 0)
+"It's super effective!"
+"The opposing Leafeon fainted!"
+[HP change] Skarmory lost 53 HP (127 -> 74)
+"Skarmory is damaged by recoil!"
+[HP change] Skarmory gained 40 HP (74 -> 114)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+
+[End of round 13]
+Trick Room Turns: 0
+==============================
+     [Sylveon] using Hyper Voice vs Skarmory does a max of 49/114 damage
+     [Sylveon] using Psyshock vs Skarmory does a max of 17/114 damage
+     [Sylveon] using Mystical Fire vs Skarmory does a max of 138/114 damage
+     [Sylveon] using Shadow Ball vs Skarmory does a max of 73/114 damage
+     Skarmory (0)'s best move: Iron Head for 147/192 damage
+==============================
+     Skarmory (0) speed (88) vs Sylveon speed: 91
+     [Sylveon] + 12: for fast kill
+     [Sylveon] final Switch score: 12
+[AI] Highest move score (10) vs Switch In Score (12)
+"Collector Douglas sent out Sylveon!"
+
+===== Round 14 =====
+
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sylveon (1) is considering using Hyper Voice (1)...
+     Sylveon (1)'s highest damaging move vs Skarmory: Mystical Fire
+[AI] Sylveon (1) is considering using Psyshock (1) against Skarmory (0)...
+     Sylveon (1)'s highest damaging move vs Skarmory: Mystical Fire
+[AI] Sylveon (1) is considering using Mystical Fire (1) against Skarmory (0)...
+     Sylveon (1)'s highest damaging move vs Skarmory: Mystical Fire
+      + 20 for fast kill
+[AI] Sylveon (1) is considering using Shadow Ball (1) against Skarmory (0)...
+     Sylveon (1)'s highest damaging move vs Skarmory: Mystical Fire
+[AI] Move choices for Sylveon (1):
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   * 100.0% to use Mystical Fire (target 0): score 21
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Mystical Fire (target 0)
+
+[Round order] The opposing Sylveon (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Barraskewda!"
+[Use move] The opposing Sylveon (1) used Mystical Fire
+"The opposing Sylveon used Mystical Fire!"
+[HP change] Barraskewda lost 40 HP (146 -> 106)
+"It's not very effective..."
+[Stat change] Barraskewda's Special Attack changed by -1 (0 -> -1)
+"Barraskewda's Special Attack fell!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Barraskewda (0): 0
+     Threat Score for Barraskewda (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sylveon (1) is considering using Hyper Voice (1)...
+     Sylveon (1)'s highest damaging move vs Barraskewda: Hyper Voice
+      + 17 for slow kill
+[AI] Sylveon (1) is considering using Psyshock (1) against Barraskewda (0)...
+     Sylveon (1)'s highest damaging move vs Barraskewda: Hyper Voice
+[AI] Sylveon (1) is considering using Mystical Fire (1) against Barraskewda (0)...
+     Sylveon (1)'s highest damaging move vs Barraskewda: Hyper Voice
+[AI] Sylveon (1) is considering using Shadow Ball (1) against Barraskewda (0)...
+     Sylveon (1)'s highest damaging move vs Barraskewda: Hyper Voice
+[AI] Move choices for Sylveon (1):
+   * 100.0% to use Hyper Voice: score 18
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Mystical Fire (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] Barraskewda (0), the opposing Sylveon (1)
+
+[Use move] Barraskewda (0) used Flip Turn
+"Barraskewda used Flip Turn!"
+[HP change] The opposing Sylveon lost 94 HP (192 -> 98)
+"Barraskewda went back to Tyler!"
+"Go for it, Bisharp!"
+[Use move] The opposing Sylveon (1) used Hyper Voice
+"The opposing Sylveon used Hyper Voice!"
+[HP change] Bisharp lost 136 HP (153 -> 17)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Bisharp (0): 0
+     Threat Score for Bisharp (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sylveon (1) is considering using Hyper Voice (1)...
+     Sylveon (1)'s highest damaging move vs Bisharp: Hyper Voice
+      + 17 for slow kill
+[AI] Sylveon (1) is considering using Psyshock (1) against Bisharp (0)...
+     Sylveon (1)'s highest damaging move vs Bisharp: Hyper Voice
+     move will not affect Bisharp (0)
+     -  1: move will fail
+[AI] Sylveon (1) is considering using Mystical Fire (1) against Bisharp (0)...
+     Sylveon (1)'s highest damaging move vs Bisharp: Hyper Voice
+      + 17 for slow kill
+[AI] Sylveon (1) is considering using Shadow Ball (1) against Bisharp (0)...
+     Sylveon (1)'s highest damaging move vs Bisharp: Hyper Voice
+      + 17 for slow kill
+[AI] Move choices for Sylveon (1):
+   *  33.3% to use Hyper Voice: score 18
+   *   0.0% to use Psyshock (target 0): score 0
+   *  33.3% to use Mystical Fire (target 0): score 18
+   *  33.3% to use Shadow Ball (target 0): score 18
+   => will use Shadow Ball (target 0)
+
+[Round order] Bisharp (0), the opposing Sylveon (1)
+
+[Use move] Bisharp (0) used Iron Head
+"Bisharp used Iron Head!"
+[HP change] The opposing Sylveon lost 98 HP (98 -> 0)
+"It's super effective!"
+"The opposing Sylveon fainted!"
+"Bisharp got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Collector Douglas!"
+"Wow. You're great!"
+
+"You got $1,856 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Miltank appeared!"
+"Go! Sunflora!"
+[Round order] The wild Miltank (1), Sunflora (0)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Sunflora (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Miltank (1) is considering using Rollout (1) against Sunflora (0)...
+     Miltank (1)'s highest damaging move vs Sunflora: Rollout
+[AI] Miltank (1) is considering using Defense Curl (4)...
+[AI] Miltank (1) is considering using Stomp (1) against Sunflora (0)...
+     Miltank (1)'s highest damaging move vs Sunflora: Rollout
+[AI] Miltank (1) is considering using Heal Bell (4)...
+[AI] Move choices for Miltank (1):
+   *   0.0% to use Rollout (target 0): score 0
+   *   0.0% to use Rollout (target 0): score 0
+   *  50.0% to use Defense Curl: score 4
+   *   0.0% to use Stomp (target 0): score 0
+   *  50.0% to use Heal Bell: score 4
+   => will use Heal Bell
+
+[Round order] The wild Miltank (1), Sunflora (0)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Miltank was caught!"
+
+===== Pokémon caught =====
+
+"Miltank's data was added to the Pokédex."
+"Where do you want to send Miltank to?"
+"Where do you want to send Miltank to?"
+"Miltank has been sent to Box "Box 1"!"

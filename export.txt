@@ -1,5 +1,25 @@
 
-Magnezone
+Sunflora
+Level: 59
+Docile Nature
+Ability: Chlorophyll
+IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
+- Flamethrower
+- Worry Seed
+- Giga Drain
+- Magma Storm
+
+Skarmory
+Level: 59
+Relaxed Nature
+Ability: Sturdy
+IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
+- Brave Bird
+- Iron Head
+- Body Press
+- Defog
+
+Magnezone @ Sitrus Berry
 Level: 59
 Quirky Nature
 Ability: Magnet Pull
@@ -7,7 +27,17 @@ IVs: 23 HP / 24 Atk / 23 Def / 1 SpA / 18 SpD / 10 Spe
 - Discharge
 - Tri Attack
 - Flash Cannon
-- Magnet Rise
+- Volt Switch
+
+Barraskewda @ Mystic Water
+Level: 59
+Adamant Nature
+Ability: Swift Swim
+IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
+- Liquidation
+- Close Combat
+- Crunch
+- Flip Turn
 
 Bisharp
 Level: 59
@@ -19,75 +49,15 @@ IVs: 13 HP / 31 Atk / 2 Def / 24 SpA / 26 SpD / 25 Spe
 - Sucker Punch
 - Scary Face
 
-Chimecho
+Obstagoon
 Level: 59
-Naughty Nature
-Ability: Levitate
-IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
-- Psybeam
-- Recover
-- Moonblast
-- Mach Pulse
-
-Sunflora @ Sitrus Berry
-Level: 59
-Docile Nature
-Ability: Chlorophyll
-IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
-- Flamethrower
-- Worry Seed
-- Giga Drain
-- Magma Storm
-
-Mismagius
-Level: 59
-Quiet Nature
-Ability: Levitate
-IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
-- Dazzling Gleam
-- Will-O-Wisp
-- Hex
-- Icy Wind
-
-Infernape
-Level: 59
-Calm Nature
-Ability: Blaze
-IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
-- Flame Wheel
-- Close Combat
-- Mach Punch
-- U-turn
-
-Barraskewda @ Sitrus Berry
-Level: 59
-Adamant Nature
-Ability: Swift Swim
-IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
-- Liquidation
-- Close Combat
-- Crunch
-- Flip Turn
-
-Hitmonchan @ Sitrus Berry
-Level: 59
-Quirky Nature
-Ability: Keen Eye
-IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
-- Drain Punch
-- Close Combat
-- Fake Out
-- Ice Punch
-
-Kingdra @ Mystic Water
-Level: 59
-Docile Nature
-Ability: Swift Swim
-IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
-- Icy Wind
-- Snipe Shot
-- Signal Beam
-- Dragon Pulse
+Rash Nature
+Ability: Guts
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Obstruct
+- Sucker Punch
+- Night Slash
+- Double-Edge
 
 Togekiss @ Sitrus Berry
 Level: 59
@@ -99,22 +69,62 @@ IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
 - Yawn
 - Draining Kiss
 
-Skarmory @ Sitrus Berry
+Chimecho @ Sitrus Berry
 Level: 59
-Relaxed Nature
-Ability: Sturdy
-IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
-- Brave Bird
-- Iron Head
-- Body Press
-- Defog
+Naughty Nature
+Ability: Levitate
+IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
+- Psybeam
+- Recover
+- Moonblast
+- Mach Pulse
 
-Obstagoon
+Infernape
 Level: 59
-Rash Nature
-Ability: Guts
-IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
-- Obstruct
-- Sucker Punch
-- Night Slash
-- Double-Edge
+Calm Nature
+Ability: Blaze
+IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
+- Fire Punch
+- Close Combat
+- Mach Punch
+- U-turn
+
+Staraptor
+Level: 59
+Jolly Nature
+Ability: Intimidate
+IVs: 15 HP / 2 Atk / 23 Def / 2 SpA / 31 SpD / 20 Spe
+- Brave Bird
+- Take Down
+- Steel Wing
+- Close Combat
+
+Mismagius
+Level: 59
+Quiet Nature
+Ability: Levitate
+IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
+- Dazzling Gleam
+- Will-O-Wisp
+- Hex
+- Icy Wind
+
+Kingdra
+Level: 59
+Docile Nature
+Ability: Swift Swim
+IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
+- Icy Wind
+- Snipe Shot
+- Signal Beam
+- Dragon Pulse
+
+Hitmonchan
+Level: 59
+Quirky Nature
+Ability: Keen Eye
+IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
+- Drain Punch
+- Close Combat
+- Fake Out
+- Ice Punch
