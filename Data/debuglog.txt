@@ -252269,3 +252269,235 @@ Set up score for Chimecho (0): 0
 "Wow. You're great!"
 
 "You got $1,888 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Beldum appeared!"
+"Go! Magnezone!"
+[Round order] Magnezone (0), the wild Beldum (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Beldum (1) is considering using Tackle (1) against Magnezone (0)...
+     Beldum (1)'s highest damaging move vs Magnezone: Tackle
+[AI] Move choices for Beldum (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Magnezone (0), the wild Beldum (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 0 shakes (4=capture)
+"Oh no! The Pokémon broke free!"
+[Use move] The wild Beldum (1) used Tackle
+"The wild Beldum used Tackle!"
+[HP change] Magnezone lost 1 HP (165 -> 164)
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beldum (1) is considering using Tackle (1) against Magnezone (0)...
+     Beldum (1)'s highest damaging move vs Magnezone: Tackle
+[AI] Move choices for Beldum (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Magnezone (0), the wild Beldum (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 0 shakes (4=capture)
+"Oh no! The Pokémon broke free!"
+[Use move] The wild Beldum (1) used Tackle
+"The wild Beldum used Tackle!"
+[HP change] Magnezone lost 1 HP (164 -> 163)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beldum (1) is considering using Tackle (1) against Magnezone (0)...
+     Beldum (1)'s highest damaging move vs Magnezone: Tackle
+[AI] Move choices for Beldum (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Magnezone (0), the wild Beldum (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 0 shakes (4=capture)
+"Oh no! The Pokémon broke free!"
+[Use move] The wild Beldum (1) used Tackle
+"The wild Beldum used Tackle!"
+[HP change] Magnezone lost 1 HP (163 -> 162)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beldum (1) is considering using Tackle (1) against Magnezone (0)...
+     Beldum (1)'s highest damaging move vs Magnezone: Tackle
+[AI] Move choices for Beldum (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Magnezone (0), the wild Beldum (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Beldum was caught!"
+
+===== Pokémon caught =====
+
+"Beldum's data was added to the Pokédex."
+"Beldum has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Dunsparce appeared!"
+"Go! Magnezone!"
+[Round order] Magnezone (0), the wild Dunsparce (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dunsparce (1) is considering using Glare (4) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Dunsparce (1) is considering using Screech (4) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Dunsparce (1) is considering using Ancient Power (1) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Dunsparce (1) is considering using Drill Run (1) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Move choices for Dunsparce (1):
+   *  33.3% to use Glare (target 0): score 4
+   *  33.3% to use Glare (target 0): score 4
+   *  33.3% to use Screech (target 0): score 4
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Drill Run (target 0): score 0
+   => will use Glare (target 0)
+
+[Round order] Magnezone (0), the wild Dunsparce (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Dunsparce was caught!"
+
+===== Pokémon caught =====
+
+"Dunsparce's data was added to the Pokédex."
+"Dunsparce has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Magnezone!"
+[Round order] Magnezone (0), the wild Chingling (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Stufful appeared!"
+"Go! Magnezone!"
+[Round order] Magnezone (0), the wild Stufful (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Flabébé appeared!"
+"Go! Magnezone!"
+[Round order] Magnezone (0), the wild Flabébé (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+[Ability triggered] The wild Flabébé's Natural Cure
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Dunsparce appeared!"
+"Go! Magnezone!"
+[Round order] Magnezone (0), the wild Dunsparce (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dunsparce (1) is considering using Glare (4) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Dunsparce (1) is considering using Screech (4) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Dunsparce (1) is considering using Ancient Power (1) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Dunsparce (1) is considering using Drill Run (1) against Magnezone (0)...
+     Dunsparce (1)'s highest damaging move vs Magnezone: Drill Run
+[AI] Move choices for Dunsparce (1):
+   *  33.3% to use Glare (target 0): score 4
+   *  33.3% to use Glare (target 0): score 4
+   *  33.3% to use Screech (target 0): score 4
+   *   0.0% to use Ancient Power (target 0): score 0
+   *   0.0% to use Drill Run (target 0): score 0
+   => will use Glare (target 0)
+
+[Round order] Magnezone (0), the wild Dunsparce (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Dunsparce was caught!"
+
+===== Pokémon caught =====
+
+"Dunsparce's data was added to the Pokédex."
+"Dunsparce has been added to your party."

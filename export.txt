@@ -1,76 +1,6 @@
 
-Sunflora
-Level: 59
-Docile Nature
-Ability: Chlorophyll
-IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
-- Flamethrower
-- Worry Seed
-- Giga Drain
-- Magma Storm
-
-Skarmory
-Level: 59
-Relaxed Nature
-Ability: Sturdy
-IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
-- Brave Bird
-- Iron Head
-- Body Press
-- Defog
-
-Magnezone @ Sitrus Berry
-Level: 59
-Quirky Nature
-Ability: Magnet Pull
-IVs: 23 HP / 24 Atk / 23 Def / 1 SpA / 18 SpD / 10 Spe
-- Discharge
-- Tri Attack
-- Flash Cannon
-- Volt Switch
-
-Barraskewda @ Mystic Water
-Level: 59
-Adamant Nature
-Ability: Swift Swim
-IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
-- Liquidation
-- Close Combat
-- Crunch
-- Flip Turn
-
-Bisharp
-Level: 59
-Serious Nature
-Ability: Inner Focus
-IVs: 13 HP / 31 Atk / 2 Def / 24 SpA / 26 SpD / 25 Spe
-- Night Slash
-- Iron Head
-- Sucker Punch
-- Scary Face
-
-Obstagoon
-Level: 59
-Rash Nature
-Ability: Guts
-IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
-- Obstruct
-- Sucker Punch
-- Night Slash
-- Double-Edge
-
-Togekiss @ Sitrus Berry
-Level: 59
-Calm Nature
-Ability: Serene Grace
-IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
-- Air Slash
-- Ancient Power
-- Yawn
-- Draining Kiss
-
 Chimecho @ Sitrus Berry
-Level: 59
+Level: 62
 Naughty Nature
 Ability: Levitate
 IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
@@ -79,8 +9,28 @@ IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
 - Moonblast
 - Mach Pulse
 
+Mismagius @ Sitrus Berry
+Level: 62
+Quiet Nature
+Ability: Levitate
+IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
+- Moonblast
+- Will-O-Wisp
+- Hex
+- Icy Wind
+
+Sunflora
+Level: 62
+Docile Nature
+Ability: Chlorophyll
+IVs: 29 HP / 25 Atk / 31 Def / 12 SpA / 22 SpD / 13 Spe
+- Flamethrower
+- Worry Seed
+- Giga Drain
+- Magma Storm
+
 Infernape
-Level: 59
+Level: 62
 Calm Nature
 Ability: Blaze
 IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
@@ -90,7 +40,7 @@ IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
 - U-turn
 
 Staraptor
-Level: 59
+Level: 62
 Jolly Nature
 Ability: Intimidate
 IVs: 15 HP / 2 Atk / 23 Def / 2 SpA / 31 SpD / 20 Spe
@@ -99,18 +49,38 @@ IVs: 15 HP / 2 Atk / 23 Def / 2 SpA / 31 SpD / 20 Spe
 - Steel Wing
 - Close Combat
 
-Mismagius
-Level: 59
-Quiet Nature
-Ability: Levitate
-IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
-- Dazzling Gleam
-- Will-O-Wisp
-- Hex
-- Icy Wind
+Miltank
+Level: 62
+Adamant Nature
+Ability: Thick Fat
+IVs: 8 HP / 0 Atk / 17 Def / 22 SpA / 7 SpD / 7 Spe
+- Play Rough
+- High Horsepower
+- Body Slam
+- Milk Drink
+
+Skarmory
+Level: 62
+Relaxed Nature
+Ability: Sturdy
+IVs: 25 HP / 25 Atk / 21 Def / 0 SpA / 0 SpD / 18 Spe
+- Brave Bird
+- Iron Head
+- Body Press
+- Defog
+
+Hitmonchan
+Level: 62
+Quirky Nature
+Ability: Keen Eye
+IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
+- Drain Punch
+- Close Combat
+- Fake Out
+- Ice Punch
 
 Kingdra
-Level: 59
+Level: 62
 Docile Nature
 Ability: Swift Swim
 IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
@@ -119,12 +89,72 @@ IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
 - Signal Beam
 - Dragon Pulse
 
-Hitmonchan
-Level: 59
-Quirky Nature
-Ability: Keen Eye
-IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
-- Drain Punch
+Barraskewda
+Level: 62
+Adamant Nature
+Ability: Swift Swim
+IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
+- Liquidation
 - Close Combat
-- Fake Out
-- Ice Punch
+- Crunch
+- Flip Turn
+
+Bisharp
+Level: 62
+Serious Nature
+Ability: Inner Focus
+IVs: 13 HP / 31 Atk / 2 Def / 24 SpA / 26 SpD / 25 Spe
+- Night Slash
+- Iron Head
+- Sucker Punch
+- Scary Face
+
+Dudunsparce
+Level: 62
+Modest Nature
+Ability: Serene Grace
+IVs: 28 HP / 18 Atk / 6 Def / 6 SpA / 12 SpD / 29 Spe
+- Zen Headbutt
+- Boomburst
+- Roost
+- Drill Run
+
+Togekiss
+Level: 62
+Calm Nature
+Ability: Serene Grace
+IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
+- Air Slash
+- Ancient Power
+- Yawn
+- Moonblast
+
+Obstagoon @ Sitrus Berry
+Level: 62
+Rash Nature
+Ability: Guts
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Obstruct
+- Sucker Punch
+- Knock Off
+- Double-Edge
+
+Magnezone
+Level: 62
+Quirky Nature
+Ability: Magnet Pull
+IVs: 23 HP / 24 Atk / 23 Def / 1 SpA / 18 SpD / 10 Spe
+- Discharge
+- Tri Attack
+- Flash Cannon
+- Volt Switch
+
+Metagross
+Level: 62
+Modest Nature
+Ability: Clear Body
+IVs: 29 HP / 22 Atk / 20 Def / 4 SpA / 2 SpD / 10 Spe
+- Hammer Arm
+- Psychic Fangs
+- Meteor Mash
+- Take Down
