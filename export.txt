@@ -1,5 +1,25 @@
 
-Chimecho @ Sitrus Berry
+Staraptor
+Level: 62
+Jolly Nature
+Ability: Intimidate
+IVs: 15 HP / 2 Atk / 23 Def / 2 SpA / 31 SpD / 20 Spe
+- Brave Bird
+- Take Down
+- Steel Wing
+- Close Combat
+
+Obstagoon
+Level: 62
+Rash Nature
+Ability: Guts
+IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
+- Obstruct
+- Sucker Punch
+- Knock Off
+- Double-Edge
+
+Chimecho
 Level: 62
 Naughty Nature
 Ability: Levitate
@@ -9,15 +29,45 @@ IVs: 7 HP / 11 Atk / 11 Def / 31 SpA / 25 SpD / 17 Spe
 - Moonblast
 - Mach Pulse
 
-Mismagius @ Sitrus Berry
+Barraskewda
+Level: 62
+Adamant Nature
+Ability: Swift Swim
+IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
+- Liquidation
+- Close Combat
+- Crunch
+- Flip Turn
+
+Kingdra
+Level: 62
+Docile Nature
+Ability: Swift Swim
+IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
+- Icy Wind
+- Snipe Shot
+- Signal Beam
+- Dragon Pulse
+
+Spiritomb
 Level: 62
 Quiet Nature
-Ability: Levitate
-IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
-- Moonblast
-- Will-O-Wisp
+Ability: Intimidate
+IVs: 14 HP / 31 Atk / 14 Def / 15 SpA / 31 SpD / 31 Spe
+- Sucker Punch
+- Dark Pulse
 - Hex
-- Icy Wind
+- Will-O-Wisp
+
+Togekiss
+Level: 62
+Calm Nature
+Ability: Serene Grace
+IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
+- Air Slash
+- Ancient Power
+- Yawn
+- Moonblast
 
 Sunflora
 Level: 62
@@ -39,15 +89,15 @@ IVs: 18 HP / 19 Atk / 31 Def / 31 SpA / 28 SpD / 31 Spe
 - Mach Punch
 - U-turn
 
-Staraptor
+Mismagius
 Level: 62
-Jolly Nature
-Ability: Intimidate
-IVs: 15 HP / 2 Atk / 23 Def / 2 SpA / 31 SpD / 20 Spe
-- Brave Bird
-- Take Down
-- Steel Wing
-- Close Combat
+Quiet Nature
+Ability: Levitate
+IVs: 29 HP / 31 Atk / 31 Def / 25 SpA / 5 SpD / 13 Spe
+- Moonblast
+- Will-O-Wisp
+- Hex
+- Icy Wind
 
 Miltank
 Level: 62
@@ -79,26 +129,6 @@ IVs: 22 HP / 31 Atk / 9 Def / 0 SpA / 11 SpD / 18 Spe
 - Fake Out
 - Ice Punch
 
-Kingdra
-Level: 62
-Docile Nature
-Ability: Swift Swim
-IVs: 20 HP / 14 Atk / 25 Def / 30 SpA / 28 SpD / 20 Spe
-- Icy Wind
-- Snipe Shot
-- Signal Beam
-- Dragon Pulse
-
-Barraskewda
-Level: 62
-Adamant Nature
-Ability: Swift Swim
-IVs: 10 HP / 7 Atk / 11 Def / 26 SpA / 6 SpD / 6 Spe
-- Liquidation
-- Close Combat
-- Crunch
-- Flip Turn
-
 Bisharp
 Level: 62
 Serious Nature
@@ -118,26 +148,6 @@ IVs: 28 HP / 18 Atk / 6 Def / 6 SpA / 12 SpD / 29 Spe
 - Boomburst
 - Roost
 - Drill Run
-
-Togekiss
-Level: 62
-Calm Nature
-Ability: Serene Grace
-IVs: 4 HP / 31 Atk / 15 Def / 27 SpA / 31 SpD / 27 Spe
-- Air Slash
-- Ancient Power
-- Yawn
-- Moonblast
-
-Obstagoon @ Sitrus Berry
-Level: 62
-Rash Nature
-Ability: Guts
-IVs: 14 HP / 29 Atk / 21 Def / 13 SpA / 4 SpD / 27 Spe
-- Obstruct
-- Sucker Punch
-- Knock Off
-- Double-Edge
 
 Magnezone
 Level: 62
