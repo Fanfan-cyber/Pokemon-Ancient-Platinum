@@ -263943,3 +263943,259 @@ Set up score for Barraskewda (0): 0
 "Wow. You're great!"
 
 "You got $6,200 for winning!"
+Roles for TURTWIG: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Turtwig!"
+"Go! Piplup!"
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+===== Round 1 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Tackle (target 0)
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 4 HP (20 -> 16)
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (22 -> 19)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Tackle (target 0)
+
+[Round order] Piplup (0), the opposing Turtwig (1)
+
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 4 HP (19 -> 15)
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 4 HP (16 -> 12)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Growl
+
+[Round order] Piplup (0), the opposing Turtwig (1)
+
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 4 HP (15 -> 11)
+[Use move] The opposing Turtwig (1) used Growl
+"The opposing Turtwig used Growl!"
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Growl
+
+[Round order] Piplup (0), the opposing Turtwig (1)
+
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (11 -> 8)
+[Use move] The opposing Turtwig (1) used Growl
+"The opposing Turtwig used Growl!"
+[Stat change] Piplup's Attack changed by -1 (-1 -> -2)
+"Piplup's Attack fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Growl
+
+[Round order] Piplup (0), the opposing Turtwig (1)
+
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (8 -> 5)
+[Use move] The opposing Turtwig (1) used Growl
+"The opposing Turtwig used Growl!"
+[Stat change] Piplup's Attack changed by -1 (-2 -> -3)
+"Piplup's Attack fell!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     - 3 because this will be pointless
+[AI] Move choices for Turtwig (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Tackle (target 0)
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 5 HP (12 -> 7)
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 2 HP (5 -> 3)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     - 3 because this will be pointless
+[AI] Move choices for Turtwig (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Tackle (target 0)
+
+[Round order] Piplup (0), the opposing Turtwig (1)
+
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 2 HP (3 -> 1)
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 4 HP (7 -> 3)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+      + 17 for slow kill
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Turtwig (1):
+   * 100.0% to use Tackle (target 0): score 18
+   *   0.0% to use Growl: score 0
+   => will use Tackle (target 0)
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 3 HP (3 -> 0)
+"Piplup fainted!"
+
+===== Player lost =====
+
+"You have no more Pokémon that can fight!"
+"You lost against Rival Barry!"
+"You gave $40 to the winner..."
+"You blacked out!"
+Aaron: Single
+Bertha: Double
+Flint: Double
+Lucian: Single
