@@ -1,36 +1,86 @@
 
-Prinplup @ Oran Berry
-Level: 19
+Prinplup @ Cheri Berry
+Level: 25
 Timid Nature
 Ability: Torrent
 IVs: 31 HP / 22 Atk / 31 Def / 8 SpA / 31 SpD / 24 Spe
-- Metal Claw
+- Aqua Jet
 - Pluck
 - Bubble Beam
 - Icy Wind
 
-Tentacool
-Level: 19
-Bashful Nature
-Ability: Liquid Ooze
-IVs: 23 HP / 21 Atk / 8 Def / 25 SpA / 7 SpD / 7 Spe
-- Poison Sting
-- Water Pulse
-- Acid
-- Rapid Spin
+Houndoom
+Level: 25
+Calm Nature
+Ability: Unnerve
+IVs: 22 HP / 24 Atk / 3 Def / 2 SpA / 26 SpD / 26 Spe
+- Bite
+- Flame Burst
+- Snarl
+- Smog
 
-Taillow
-Level: 19
+Swellow
+Level: 25
 Naughty Nature
 Ability: Guts
 IVs: 11 HP / 6 Atk / 2 Def / 22 SpA / 29 SpD / 7 Spe
-- Wing Attack
+- Aerial Ace
 - Flash
 - Focus Energy
 - Quick Attack
 
+Exeggcute
+Level: 25
+Naughty Nature
+Ability: Chlorophyll
+IVs: 18 HP / 17 Atk / 24 Def / 27 SpA / 22 SpD / 14 Spe
+- Mega Drain
+- Hypnosis
+- Psybeam
+- Synthesis
+
+Sandshrew-Alola
+Level: 25
+Lax Nature
+Ability: Rough Skin
+IVs: 12 HP / 29 Atk / 2 Def / 11 SpA / 22 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Spike Cannon
+- Icicle Spear
+
+Croagunk
+Level: 25
+Rash Nature
+Ability: Poison Touch
+IVs: 29 HP / 14 Atk / 26 Def / 2 SpA / 26 SpD / 26 Spe
+- Fake Out
+- Mach Punch
+- Sucker Punch
+- Venoshock
+
+Boldore
+Level: 25
+Lonely Nature
+Ability: Sturdy
+IVs: 22 HP / 22 Atk / 20 Def / 4 SpA / 10 SpD / 29 Spe
+- Gyro Ball
+- Rock Throw
+- Bulldoze
+- Smack Down
+
+Pikachu
+Level: 25
+Docile Nature
+Ability: Static
+IVs: 3 HP / 2 Atk / 12 Def / 11 SpA / 7 SpD / 22 Spe
+- Flash
+- Draining Kiss
+- Play Nice
+- Thunder Wave
+
 Staravia
-Level: 19
+Level: 25
 Impish Nature
 Ability: Intimidate
 IVs: 26 HP / 27 Atk / 0 Def / 16 SpA / 4 SpD / 25 Spe
@@ -39,72 +89,42 @@ IVs: 26 HP / 27 Atk / 0 Def / 16 SpA / 4 SpD / 25 Spe
 - Quick Attack
 - Wing Attack
 
-Steenee
-Level: 19
-Naughty Nature
-Ability: Oblivious
-IVs: 15 HP / 8 Atk / 17 Def / 27 SpA / 13 SpD / 21 Spe
-- Vine Whip
-- Headbutt
+Grimer
+Level: 25
+Lonely Nature
+Ability: Sticky Hold
+IVs: 9 HP / 19 Atk / 31 Def / 31 SpA / 24 SpD / 8 Spe
+- Knock Off
+- Poison Fang
+- Disable
+- Sand Tomb
+
+Tentacool
+Level: 25
+Bashful Nature
+Ability: Liquid Ooze
+IVs: 23 HP / 21 Atk / 8 Def / 25 SpA / 7 SpD / 7 Spe
+- Bubble Beam
+- Water Pulse
+- Acid
 - Rapid Spin
-- Razor Leaf
 
-Exeggcute
-Level: 19
-Naughty Nature
-Ability: Chlorophyll
-IVs: 18 HP / 17 Atk / 24 Def / 27 SpA / 22 SpD / 14 Spe
-- Mega Drain
-- Hypnosis
-- Confusion
-- Leech Seed
-
-Houndour
-Level: 19
-Calm Nature
-Ability: Unnerve
-IVs: 22 HP / 24 Atk / 3 Def / 2 SpA / 26 SpD / 26 Spe
-- Bite
-- Ember
-- Snarl
-- Smog
-
-Arrokuda
-Level: 19
-Brave Nature
-Ability: Swift Swim
-IVs: 28 HP / 3 Atk / 14 Def / 21 SpA / 3 SpD / 14 Spe
-- Flip Turn
-- Aqua Jet
-- Fury Attack
-- Bite
-
-Geodude-Alola
-Level: 19
+Graveler-Alola @ Oran Berry
+Level: 25
 Jolly Nature
 Ability: Magnet Pull
 IVs: 18 HP / 30 Atk / 18 Def / 19 SpA / 23 SpD / 31 Spe
 - Tackle
 - Charge
 - Rock Tomb
-- Spark
+- Thunder Punch
 
-Pikachu
-Level: 19
-Docile Nature
-Ability: Static
-IVs: 3 HP / 2 Atk / 12 Def / 11 SpA / 7 SpD / 22 Spe
-- Flash
-- Tail Whip
-- Play Nice
-- Thunder Wave
-
-Grimer
-Level: 19
-Lonely Nature
-Ability: Sticky Hold
-IVs: 9 HP / 19 Atk / 31 Def / 31 SpA / 24 SpD / 8 Spe
-- Pound
-- Poison Fang
-- Disable
-- Sand Tomb
+Arrokuda @ Oran Berry
+Level: 25
+Brave Nature
+Ability: Swift Swim
+IVs: 28 HP / 3 Atk / 14 Def / 21 SpA / 3 SpD / 14 Spe
+- Hydro Fangs
+- Aqua Jet
+- Fury Attack
+- Bite
