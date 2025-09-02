@@ -1844,8 +1844,8 @@ Battle::AbilityEffects::OnBeingHit.add(:CURSEDBODY,
     end
     next if !regularMove || (regularMove.pp == 0 && regularMove.total_pp > 0)
     next if battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if !move.pbMoveFailedAromaVeil?(target, user, Battle::Scene::USE_ABILITY_SPLASH)
+      battle.pbShowAbilitySplash(target)
       user.effects[PBEffects::Disable]     = 3
       user.effects[PBEffects::DisableMove] = regularMove.id
       if Battle::Scene::USE_ABILITY_SPLASH
@@ -1866,9 +1866,9 @@ Battle::AbilityEffects::OnBeingHit.add(:CUTECHARM,
     next if target.fainted?
     next if !move.pbContactMove?(user)
     next if battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanAttract?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
+      battle.pbShowAbilitySplash(target)
       msg = nil
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} made {3} fall in love!", target.pbThis,
@@ -1891,9 +1891,9 @@ Battle::AbilityEffects::OnBeingHit.add(:EFFECTSPORE,
     next if r == 0 && user.asleep?
     next if r == 1 && user.poisoned?
     next if r == 2 && user.paralyzed?
-    battle.pbShowAbilitySplash(target)
     if user.affectedByPowder?(Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
+      battle.pbShowAbilitySplash(target)
       case r
       when 0
         if user.pbCanSleep?(target, Battle::Scene::USE_ABILITY_SPLASH)
@@ -1932,10 +1932,10 @@ Battle::AbilityEffects::OnBeingHit.add(:FLAMEBODY,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.burned? || battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanBurn?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
+      battle.pbShowAbilitySplash(target)
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} burned {3}!", target.pbThis, target.abilityName, user.pbThis(true))
       end
@@ -2065,10 +2065,10 @@ Battle::AbilityEffects::OnBeingHit.add(:POISONPOINT,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.poisoned? || battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanPoison?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
+      battle.pbShowAbilitySplash(target)
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} poisoned {3}!", target.pbThis, target.abilityName, user.pbThis(true))
       end
@@ -2110,10 +2110,10 @@ Battle::AbilityEffects::OnBeingHit.add(:STATIC,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.paralyzed? || battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanParalyze?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
+      battle.pbShowAbilitySplash(target)
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} paralyzed {3}! It may be unable to move!",
            target.pbThis, target.abilityName, user.pbThis(true))
@@ -2212,8 +2212,8 @@ Battle::AbilityEffects::OnDealingHit.add(:POISONTOUCH,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(user)
     if target.hasActiveAbility?(:SHIELDDUST) && !target.being_mold_broken?
+      battle.pbShowAbilitySplash(user)
       battle.pbShowAbilitySplash(target)
       if !Battle::Scene::USE_ABILITY_SPLASH
         battle.pbDisplay(_INTL("{1} is unaffected!", target.pbThis))
@@ -2221,6 +2221,7 @@ Battle::AbilityEffects::OnDealingHit.add(:POISONTOUCH,
       battle.pbHideAbilitySplash(target)
     elsif target.pbCanPoison?(user, Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
+      battle.pbShowAbilitySplash(user)
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} poisoned {3}!", user.pbThis, user.abilityName, target.pbThis(true))
       end
@@ -2233,8 +2234,8 @@ Battle::AbilityEffects::OnDealingHit.add(:POISONTOUCH,
 Battle::AbilityEffects::OnDealingHit.add(:TOXICCHAIN,
   proc { |ability, user, target, move, battle|
     next if battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(user)
     if target.hasActiveAbility?(:SHIELDDUST) && !target.being_mold_broken?
+      battle.pbShowAbilitySplash(user)
       battle.pbShowAbilitySplash(target)
       if !Battle::Scene::USE_ABILITY_SPLASH
         battle.pbDisplay(_INTL("{1} is unaffected!", target.pbThis))
@@ -2242,6 +2243,7 @@ Battle::AbilityEffects::OnDealingHit.add(:TOXICCHAIN,
       battle.pbHideAbilitySplash(target)
     elsif target.pbCanPoison?(user, Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
+      battle.pbShowAbilitySplash(user)
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} badly poisoned {3}!", user.pbThis, user.abilityName, target.pbThis(true))
       end
