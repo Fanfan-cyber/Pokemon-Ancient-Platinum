@@ -288328,3 +288328,1503 @@ Go! Kingdra!"
 "Ugh."
 
 "You got $4,224 for winning!"
+Roles for MIENFOO: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PIGNITE: [:PHYSICALBREAKER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Battle Girl Kelsey!"
+"Battle Girl Kelsey sent out Mienfoo!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the opposing Mienfoo (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mienfoo (1) is considering using Fake Out (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Mienfoo (1) is considering using Drain Punch (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+[AI] Mienfoo (1) is considering using Acrobatics (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+[AI] Move choices for Mienfoo (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] Flamigo (0), the opposing Mienfoo (1)
+
+[Use move] Flamigo (0) used Detect
+"Flamigo used Detect!"
+"Flamigo protected itself!"
+[Use move] The opposing Mienfoo (1) used Fake Out
+"The opposing Mienfoo used Fake Out!"
+"Flamigo protected itself!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienfoo (1) is considering using Drain Punch (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+[AI] Mienfoo (1) is considering using Acrobatics (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Flamigo (0)...
+     Mienfoo (1)'s highest damaging move vs Flamigo: Acrobatics
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Acrobatics (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Acrobatics (target 0)
+
+[Round order] Flamigo (0), the opposing Mienfoo (1)
+
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Mienfoo lost 65 HP (65 -> 0)
+"It's super effective!"
+"The opposing Mienfoo fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Pignite] using Flame Charge vs Flamigo does a max of 27/98 damage
+     [Pignite] using Brick Break vs Flamigo does a max of 20/98 damage
+     [Pignite] using Thunder Punch vs Flamigo does a max of 52/98 damage
+     Flamigo (0)'s best move: Wing Attack for 111/90 damage
+==============================
+     Flamigo (0) speed (75) vs Pignite speed: 41
+     [Pignite] -  9: for target fast kill
+     [Pignite] final Switch score: -9
+==============================
+     [Bewear] using Headbutt vs Flamigo does a max of 42/98 damage
+     [Bewear] using Brick Break vs Flamigo does a max of 23/98 damage
+     [Bewear] using Brutal Swing vs Flamigo does a max of 13/98 damage
+     Flamigo (0)'s best move: Double Kick for 42/110 damage
+==============================
+     Flamigo (0) speed (75) vs Bewear speed: 49
+     [Bewear] final Switch score: 0
+[AI] Highest move score (28) vs Switch In Score (0)
+"Battle Girl Kelsey sent out Bewear!"
+
+===== Round 3 =====
+
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Headbutt (1) against Flamigo (0)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Bewear (1) is considering using Brick Break (1) against Flamigo (0)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+[AI] Bewear (1) is considering using Brutal Swing (1)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+[AI] Move choices for Bewear (1):
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brutal Swing: score 0
+   => will use Headbutt (target 0)
+
+[Round order] Flamigo (0), the opposing Bewear (1)
+
+"Flamigo, come back!"
+"You're in charge, Swellow!"
+[Use move] The opposing Bewear (1) used Headbutt
+"The opposing Bewear used Headbutt!"
+[HP change] Swellow lost 48 HP (83 -> 35)
+
+[End of round 3]
+[HP change] Swellow lost 5 HP (35 -> 30)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Headbutt (1) against Swellow (0)...
+     Bewear (1)'s highest damaging move vs Swellow: Brick Break
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Brick Break (1) against Swellow (0)...
+     Bewear (1)'s highest damaging move vs Swellow: Brick Break
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Brutal Swing (1)...
+     Bewear (1)'s highest damaging move vs Swellow: Brick Break
+[AI] Move choices for Bewear (1):
+   *  50.0% to use Headbutt (target 0): score 18
+   *  50.0% to use Brick Break (target 0): score 18
+   *   0.0% to use Brutal Swing: score 0
+   => will use Brick Break (target 0)
+
+[Round order] Swellow (0), the opposing Bewear (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Bewear lost 41 HP (110 -> 69)
+"It's super effective!"
+[Use move] The opposing Bewear (1) used Brick Break
+"The opposing Bewear used Brick Break!"
+[HP change] Swellow lost 30 HP (30 -> 0)
+"Swellow fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+"Go for it, Flamigo!"
+
+===== Round 5 =====
+
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Headbutt (1) against Flamigo (0)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Bewear (1) is considering using Brick Break (1) against Flamigo (0)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+[AI] Bewear (1) is considering using Brutal Swing (1)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+[AI] Move choices for Bewear (1):
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brutal Swing: score 0
+   => will use Headbutt (target 0)
+
+[Round order] Flamigo (0), the opposing Bewear (1)
+
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Bewear lost 63 HP (69 -> 6)
+"A critical hit!"
+"It's super effective!"
+[Use move] The opposing Bewear (1) used Headbutt
+"The opposing Bewear used Headbutt!"
+[HP change] Flamigo lost 40 HP (98 -> 58)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bewear (1): 0
+Set up score for Bewear (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Headbutt (1) against Flamigo (0)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Bewear (1) is considering using Brick Break (1) against Flamigo (0)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+[AI] Bewear (1) is considering using Brutal Swing (1)...
+     Bewear (1)'s highest damaging move vs Flamigo: Headbutt
+[AI] Move choices for Bewear (1):
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brutal Swing: score 0
+   => will use Headbutt (target 0)
+
+[Round order] Flamigo (0), the opposing Bewear (1)
+
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Bewear lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Bewear fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+==============================
+     [Pignite] using Flame Charge vs Flamigo does a max of 27/58 damage
+     [Pignite] using Brick Break vs Flamigo does a max of 20/58 damage
+     [Pignite] using Thunder Punch vs Flamigo does a max of 52/58 damage
+     Flamigo (0)'s best move: Wing Attack for 111/90 damage
+==============================
+     Flamigo (0) speed (75) vs Pignite speed: 41
+     [Pignite] -  9: for target fast kill
+     [Pignite] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Battle Girl Kelsey sent out Pignite!"
+
+===== Round 7 =====
+
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pignite (1) is considering using Flame Charge (1) against Flamigo (0)...
+     Pignite (1)'s highest damaging move vs Flamigo: Thunder Punch
+[AI] Pignite (1) is considering using Brick Break (1) against Flamigo (0)...
+     Pignite (1)'s highest damaging move vs Flamigo: Thunder Punch
+[AI] Pignite (1) is considering using Thunder Punch (1) against Flamigo (0)...
+     Pignite (1)'s highest damaging move vs Flamigo: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Pignite (1) is considering using Will-O-Wisp (4) against Flamigo (0)...
+     Pignite (1)'s highest damaging move vs Flamigo: Thunder Punch
+     - 3 because this will be pointless
+[AI] Move choices for Pignite (1):
+   *   0.0% to use Flame Charge (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Thunder Punch (target 0): score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Thunder Punch (target 0)
+
+[Round order] Flamigo (0), the opposing Pignite (1)
+
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Pignite lost 90 HP (90 -> 0)
+"It's super effective!"
+"The opposing Pignite fainted!"
+
+===== Player won =====
+
+"You defeated Battle Girl Kelsey!"
+"Wow. You're great!"
+
+"You got $864 for winning!"
+Roles for SHIINOTIC: [:SPECIALBREAKER]
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for HEATMOR: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Siena!"
+"Picnicker Siena sent out Shiinotic!"
+"Go! Swellow!"
+[Round order] Swellow (0), the opposing Shiinotic (1)
+
+===== Round 1 =====
+
+     move will not affect Swellow (0)
+     move will not affect Swellow (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Shiinotic (1): 0
+Set up score for Shiinotic (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Shiinotic (1) is considering using Giga Drain (1) against Swellow (0)...
+     Shiinotic (1)'s highest damaging move vs Swellow: Dazzling Gleam
+[AI] Shiinotic (1) is considering using Dazzling Gleam (1)...
+     Shiinotic (1)'s highest damaging move vs Swellow: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Shiinotic (1) is considering using Hidden Power (1) against Swellow (0)...
+     Shiinotic (1)'s highest damaging move vs Swellow: Dazzling Gleam
+     move will not affect Swellow (0)
+     -  1: move will fail
+[AI] Shiinotic (1) is considering using Spore (4) against Swellow (0)...
+     Shiinotic (1)'s highest damaging move vs Swellow: Dazzling Gleam
+     move will not affect Swellow (0)
+     -  4: move will fail
+[AI] Move choices for Shiinotic (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Spore (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Swellow (0), the opposing Shiinotic (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Shiinotic lost 75 HP (75 -> 0)
+"It's super effective!"
+[Ability triggered] The opposing Shiinotic's Effect Spore
+"It doesn't affect Swellow..."
+"The opposing Shiinotic fainted!"
+
+[End of round 1]
+[HP change] Swellow lost 5 HP (83 -> 78)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Swellow (0)
+     move will not affect Swellow (0)
+==============================
+     [Pelipper] using Water Pulse vs Swellow does a max of 36/78 damage
+     [Pelipper] using Air Cutter vs Swellow does a max of 36/78 damage
+     [Pelipper] using U-turn vs Swellow does a max of 8/78 damage
+     Swellow (0)'s best move: Flash for 84/77 damage
+==============================
+     Swellow (0) speed (87) vs Pelipper speed: 52
+     [Pelipper] -  9: for target fast kill
+     [Pelipper] final Switch score: -9
+==============================
+     [Heatmor] using Flame Burst vs Swellow does a max of 45/78 damage
+     [Heatmor] using Giga Drain vs Swellow does a max of 16/78 damage
+     Swellow (0)'s best move: Aerial Ace for 54/91 damage
+==============================
+     Swellow (0) speed (87) vs Heatmor speed: 52
+     [Heatmor] -  5: for target having fast 2HKO and us having no kill
+     [Heatmor] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Picnicker Siena sent out Heatmor!"
+
+===== Round 2 =====
+
+     move will not affect Swellow (0)
+     move will not affect Swellow (0)
+Set up score for Heatmor (1): 0
+Set up score for Heatmor (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heatmor (1) is considering using Flame Burst (1) against Swellow (0)...
+     Heatmor (1)'s highest damaging move vs Swellow: Flame Burst
+     + 4 to prioritize highest damaging move
+[AI] Heatmor (1) is considering using Scorching Sands (1) against Swellow (0)...
+     Heatmor (1)'s highest damaging move vs Swellow: Flame Burst
+     move will not affect Swellow (0)
+     -  1: move will fail
+[AI] Heatmor (1) is considering using Giga Drain (1) against Swellow (0)...
+     Heatmor (1)'s highest damaging move vs Swellow: Flame Burst
+[AI] Heatmor (1) is considering using Will-O-Wisp (4) against Swellow (0)...
+     Heatmor (1)'s highest damaging move vs Swellow: Flame Burst
+     move will not affect Swellow (0)
+     -  4: move will fail
+[AI] Move choices for Heatmor (1):
+   * 100.0% to use Flame Burst (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flame Burst (target 0)
+
+[Round order] Swellow (0), the opposing Heatmor (1)
+
+"Swellow, come back!"
+"You're in charge, Tentacruel!"
+[Use move] The opposing Heatmor (1) used Flame Burst
+"The opposing Heatmor used Flame Burst!"
+[HP change] Tentacruel lost 10 HP (100 -> 90)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Heatmor (1): 0
+Set up score for Heatmor (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): 0
+     Threat Score for Tentacruel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heatmor (1) is considering using Flame Burst (1) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+[AI] Heatmor (1) is considering using Scorching Sands (1) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+     + 4 to prioritize highest damaging move
+[AI] Heatmor (1) is considering using Giga Drain (1) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+[AI] Heatmor (1) is considering using Will-O-Wisp (4) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+     - 3 because this will be pointless
+[AI] Move choices for Heatmor (1):
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Scorching Sands (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Scorching Sands (target 0)
+
+[Round order] Tentacruel (0), the opposing Heatmor (1)
+
+[Use move] Tentacruel (0) used Bubble Beam
+"Tentacruel used Bubble Beam!"
+[HP change] The opposing Heatmor lost 71 HP (91 -> 20)
+"It's super effective!"
+[Stat change] The opposing Heatmor's Speed changed by -1 (0 -> -1)
+"The opposing Heatmor's Speed fell!"
+"The Passho Berry weakened the damage to the opposing Heatmor!"
+[Item consumed] The opposing Heatmor consumed its held Passho Berry
+[Use move] The opposing Heatmor (1) used Scorching Sands
+"The opposing Heatmor used Scorching Sands!"
+[HP change] Tentacruel lost 41 HP (90 -> 49)
+"It's super effective!"
+[HP change] Tentacruel gained 10 HP (49 -> 59)
+"Tentacruel restored a little HP using its Oran Berry!"
+[Item consumed] Tentacruel consumed its held Oran Berry
+"Tentacruel was burned!"
+
+[End of round 3]
+[HP change] Tentacruel lost 6 HP (59 -> 53)
+"Tentacruel was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Tentacruel (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Heatmor (1): -1
+Set up score for Heatmor (1): -1
+Set up score for Heatmor (1): -1
+Set up score for Heatmor (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): 0
+     Threat Score for Tentacruel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heatmor (1) is considering using Flame Burst (1) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+[AI] Heatmor (1) is considering using Scorching Sands (1) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+     + 4 to prioritize highest damaging move
+[AI] Heatmor (1) is considering using Giga Drain (1) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+[AI] Heatmor (1) is considering using Will-O-Wisp (4) against Tentacruel (0)...
+     Heatmor (1)'s highest damaging move vs Tentacruel: Scorching Sands
+     move will not affect Tentacruel (0)
+     -  4: move will fail
+[AI] Move choices for Heatmor (1):
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Scorching Sands (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Scorching Sands (target 0)
+
+[Round order] Tentacruel (0), the opposing Heatmor (1)
+
+[Use move] Tentacruel (0) used Bubble Beam
+"Tentacruel used Bubble Beam!"
+[HP change] The opposing Heatmor lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Heatmor fainted!"
+"Tentacruel got 1 Exp. Points!"
+
+[End of round 4]
+[HP change] Tentacruel lost 6 HP (53 -> 47)
+"Tentacruel was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Tentacruel (0)
+==============================
+     [Pelipper] using Water Pulse vs Tentacruel does a max of 9/47 damage
+     [Pelipper] using Air Cutter vs Tentacruel does a max of 18/47 damage
+     [Pelipper] using Hidden Power vs Tentacruel does a max of 24/47 damage
+     [Pelipper] using U-turn vs Tentacruel does a max of 7/47 damage
+     Tentacruel (0)'s best move: Hex for 24/77 damage
+==============================
+     Tentacruel (0) speed (71) vs Pelipper speed: 52
+     [Pelipper] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Picnicker Siena sent out Pelipper!"
+[Ability triggered] The opposing Pelipper's Keen Eye
+"The opposing Pelipper is getting pumped!"
+
+===== Round 5 =====
+
+Set up score for Tentacruel (0): 0
+     Threat Score for Tentacruel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Tentacruel (0)...
+     Pelipper (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Pelipper (1) is considering using Air Cutter (1)...
+     Pelipper (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Pelipper (1) is considering using Hidden Power (1) against Tentacruel (0)...
+     Pelipper (1)'s highest damaging move vs Tentacruel: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using U-turn (1) against Tentacruel (0)...
+     Pelipper (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Air Cutter: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Tentacruel (0), the opposing Pelipper (1)
+
+"OK, Tentacruel! Come back!"
+"You're in charge, Pikachu!"
+[Use move] The opposing Pelipper (1) used Hidden Power
+"The opposing Pelipper used Hidden Power!"
+[HP change] Pikachu lost 65 HP (65 -> 0)
+"A critical hit!"
+"It's super effective!"
+"Pikachu fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Swellow!"
+
+===== Round 6 =====
+
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+[AI] Pelipper (1) is considering using Air Cutter (1)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hidden Power (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+     move will not affect Swellow (0)
+     -  1: move will fail
+[AI] Pelipper (1) is considering using U-turn (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Swellow (0), the opposing Pelipper (1)
+
+[Use move] Swellow (0) used Flash
+"Swellow used Flash!"
+[HP change] The opposing Pelipper lost 40 HP (77 -> 37)
+"It's super effective!"
+"The Wacan Berry weakened the damage to the opposing Pelipper!"
+[Item consumed] The opposing Pelipper consumed its held Wacan Berry
+[Use move] The opposing Pelipper (1) used Air Cutter
+"The opposing Pelipper used Air Cutter!"
+[HP change] Swellow lost 53 HP (78 -> 25)
+"A critical hit!"
+[HP change] Swellow gained 10 HP (25 -> 35)
+"Swellow restored a little HP using its Oran Berry!"
+[Item consumed] Swellow consumed its held Oran Berry
+
+[End of round 6]
+[HP change] Swellow lost 5 HP (35 -> 30)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Air Cutter (1)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Hidden Power (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+     move will not affect Swellow (0)
+     -  1: move will fail
+[AI] Pelipper (1) is considering using U-turn (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Air Cutter
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Water Pulse (target 0): score 18
+   *  50.0% to use Air Cutter: score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Swellow (0), the opposing Pelipper (1)
+
+[Use move] Swellow (0) used Flash
+"Swellow used Flash!"
+[HP change] The opposing Pelipper lost 37 HP (37 -> 0)
+"It's super effective!"
+"The opposing Pelipper fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Siena!"
+"Wow. You're great!"
+
+"You got $432 for winning!"
+Roles for LUDICOLO: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for SCOVILLAIN: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for ROSELIA: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Elizabeth!"
+"Aroma Lady Elizabeth sent out Ludicolo!"
+"Go! Swellow!"
+[Round order] Swellow (0), the opposing Ludicolo (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Ludicolo (1) is considering using Fake Out (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+     + 18 for using turn 1
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Ludicolo (1) is considering using Bubble Beam (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Ludicolo (1) is considering using Icy Wind (1)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Move choices for Ludicolo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Ludicolo (1), Swellow (0)
+
+[Use move] The opposing Ludicolo (1) used Fake Out
+"The opposing Ludicolo used Fake Out!"
+[HP change] Swellow lost 10 HP (83 -> 73)
+[Use move] Swellow (0) used Aerial Ace
+"Swellow flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Swellow lost 5 HP (73 -> 68)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Ludicolo (1) is considering using Bubble Beam (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Ludicolo (1) is considering using Icy Wind (1)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Swellow (0), the opposing Ludicolo (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Ludicolo lost 85 HP (85 -> 0)
+"It's super effective!"
+"The opposing Ludicolo fainted!"
+
+[End of round 2]
+[HP change] Swellow lost 5 HP (68 -> 63)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Scovillain] using Mega Drain vs Swellow does a max of 20/63 damage
+     [Scovillain] using Flame Burst vs Swellow does a max of 47/63 damage
+     [Scovillain] using Hidden Power vs Swellow does a max of 52/63 damage
+     Swellow (0)'s best move: Aerial Ace for 111/80 damage
+==============================
+     Swellow (0) speed (87) vs Scovillain speed: 58
+     [Scovillain] -  9: for target fast kill
+     [Scovillain] final Switch score: -9
+==============================
+     [Roselia] using Giga Drain vs Swellow does a max of 23/63 damage
+     [Roselia] using Sludge vs Swellow does a max of 41/63 damage
+     [Roselia] using Hidden Power vs Swellow does a max of 50/63 damage
+     [Roselia] using Extrasensory vs Swellow does a max of 33/63 damage
+     Swellow (0)'s best move: Aerial Ace for 141/72 damage
+==============================
+     Swellow (0) speed (87) vs Roselia speed: 52
+     [Roselia] -  9: for target fast kill
+     [Roselia] final Switch score: -9
+[AI] Highest move score (19) vs Switch In Score (-9)
+"Aroma Lady Elizabeth sent out Scovillain!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scovillain (1) is considering using Mega Drain (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+[AI] Scovillain (1) is considering using Flame Burst (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+[AI] Scovillain (1) is considering using Hidden Power (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Growth: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Swellow (0), the opposing Scovillain (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Scovillain lost 55 HP (80 -> 25)
+"It's super effective!"
+"The Coba Berry weakened the damage to the opposing Scovillain!"
+[Item consumed] The opposing Scovillain consumed its held Coba Berry
+[Use move] The opposing Scovillain (1) used Hidden Power
+"The opposing Scovillain used Hidden Power!"
+[HP change] Swellow lost 63 HP (63 -> 0)
+"A critical hit!"
+"It's super effective!"
+"Swellow fainted!"
+Roles for LUDICOLO: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for SCOVILLAIN: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for ROSELIA: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Elizabeth!"
+"Aroma Lady Elizabeth sent out Ludicolo!"
+"Go! Swellow!"
+[Round order] Swellow (0), the opposing Ludicolo (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Ludicolo (1) is considering using Fake Out (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+     + 18 for using turn 1
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Ludicolo (1) is considering using Bubble Beam (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Ludicolo (1) is considering using Icy Wind (1)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Move choices for Ludicolo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Ludicolo (1), Swellow (0)
+
+[Use move] The opposing Ludicolo (1) used Fake Out
+"The opposing Ludicolo used Fake Out!"
+[HP change] Swellow lost 10 HP (83 -> 73)
+[Use move] Swellow (0) used Aerial Ace
+"Swellow flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Swellow lost 5 HP (73 -> 68)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Ludicolo (1) is considering using Bubble Beam (1) against Swellow (0)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Ludicolo (1) is considering using Icy Wind (1)...
+     Ludicolo (1)'s highest damaging move vs Swellow: Bubble Beam
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Swellow (0), the opposing Ludicolo (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Ludicolo lost 85 HP (85 -> 0)
+"It's super effective!"
+"The opposing Ludicolo fainted!"
+
+[End of round 2]
+[HP change] Swellow lost 5 HP (68 -> 63)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Scovillain] using Mega Drain vs Swellow does a max of 20/63 damage
+     [Scovillain] using Flame Burst vs Swellow does a max of 47/63 damage
+     [Scovillain] using Hidden Power vs Swellow does a max of 52/63 damage
+     Swellow (0)'s best move: Aerial Ace for 111/80 damage
+==============================
+     Swellow (0) speed (87) vs Scovillain speed: 58
+     [Scovillain] -  9: for target fast kill
+     [Scovillain] final Switch score: -9
+==============================
+     [Roselia] using Giga Drain vs Swellow does a max of 23/63 damage
+     [Roselia] using Sludge vs Swellow does a max of 41/63 damage
+     [Roselia] using Hidden Power vs Swellow does a max of 50/63 damage
+     [Roselia] using Extrasensory vs Swellow does a max of 33/63 damage
+     Swellow (0)'s best move: Aerial Ace for 141/72 damage
+==============================
+     Swellow (0) speed (87) vs Roselia speed: 52
+     [Roselia] -  9: for target fast kill
+     [Roselia] final Switch score: -9
+[AI] Highest move score (19) vs Switch In Score (-9)
+"Aroma Lady Elizabeth sent out Scovillain!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scovillain (1) is considering using Mega Drain (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+[AI] Scovillain (1) is considering using Flame Burst (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+[AI] Scovillain (1) is considering using Hidden Power (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Growth: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Swellow (0), the opposing Scovillain (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Scovillain lost 49 HP (80 -> 31)
+"It's super effective!"
+"The Coba Berry weakened the damage to the opposing Scovillain!"
+[Item consumed] The opposing Scovillain consumed its held Coba Berry
+[Use move] The opposing Scovillain (1) used Hidden Power
+"The opposing Scovillain used Hidden Power!"
+[HP change] Swellow lost 51 HP (63 -> 12)
+"It's super effective!"
+
+[End of round 3]
+[HP change] Swellow lost 5 HP (12 -> 7)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scovillain (1) is considering using Mega Drain (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Scovillain (1) is considering using Flame Burst (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Scovillain (1) is considering using Hidden Power (1) against Swellow (0)...
+     Scovillain (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *  33.3% to use Mega Drain (target 0): score 18
+   *  33.3% to use Flame Burst (target 0): score 18
+   *  33.3% to use Hidden Power (target 0): score 18
+   *   0.0% to use Growth: score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Swellow (0), the opposing Scovillain (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Scovillain lost 31 HP (31 -> 0)
+"It's super effective!"
+"The opposing Scovillain fainted!"
+
+[End of round 4]
+[HP change] Swellow lost 5 HP (7 -> 2)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Roselia] using Giga Drain vs Swellow does a max of 23/2 damage
+     [Roselia] using Sludge vs Swellow does a max of 41/2 damage
+     [Roselia] using Hidden Power vs Swellow does a max of 50/2 damage
+     [Roselia] using Extrasensory vs Swellow does a max of 33/2 damage
+     Swellow (0)'s best move: Aerial Ace for 141/72 damage
+==============================
+     Swellow (0) speed (87) vs Roselia speed: 52
+     [Roselia] -  9: for target fast kill
+     [Roselia] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (-9)
+"Aroma Lady Elizabeth sent out Roselia!"
+
+===== Round 5 =====
+
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roselia (1) is considering using Giga Drain (1) against Swellow (0)...
+     Roselia (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Roselia (1) is considering using Sludge (1) against Swellow (0)...
+     Roselia (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Roselia (1) is considering using Hidden Power (1) against Swellow (0)...
+     Roselia (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Roselia (1) is considering using Extrasensory (1) against Swellow (0)...
+     Roselia (1)'s highest damaging move vs Swellow: Hidden Power
+      + 17 for slow kill
+[AI] Move choices for Roselia (1):
+   *  25.0% to use Giga Drain (target 0): score 18
+   *  25.0% to use Sludge (target 0): score 18
+   *  25.0% to use Hidden Power (target 0): score 18
+   *  25.0% to use Extrasensory (target 0): score 18
+   => will use Hidden Power (target 0)
+
+[Round order] Swellow (0), the opposing Roselia (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Roselia lost 72 HP (72 -> 0)
+"It's super effective!"
+"The opposing Roselia fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Elizabeth!"
+"Wow. You're great!"
+
+"You got $864 for winning!"
+Roles for MONFERNO: [:PHYSICALBREAKER]
+Roles for GROTLE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PRINPLUP: [:SPECIALBREAKER, :SPEEDCONTROL, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Karina!"
+"Picnicker Karina sent out Monferno!"
+"Go! Swellow!"
+[Round order] Swellow (0), the opposing Monferno (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Monferno (1): 0
+Set up score for Monferno (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Monferno (1) is considering using Fake Out (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+     + 18 for using turn 1
+[AI] Monferno (1) is considering using Fire Punch (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+[AI] Monferno (1) is considering using Thunder Punch (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Monferno (1) is considering using Mach Punch (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+[AI] Move choices for Monferno (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Monferno (1), Swellow (0)
+
+[Use move] The opposing Monferno (1) used Fake Out
+"The opposing Monferno used Fake Out!"
+[HP change] Swellow lost 11 HP (83 -> 72)
+[Use move] Swellow (0) used Aerial Ace
+"Swellow flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Swellow lost 5 HP (72 -> 67)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Monferno (1): 0
+Set up score for Monferno (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Monferno (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Monferno (1) is considering using Fire Punch (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+[AI] Monferno (1) is considering using Thunder Punch (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Monferno (1) is considering using Mach Punch (1) against Swellow (0)...
+     Monferno (1)'s highest damaging move vs Swellow: Thunder Punch
+[AI] Move choices for Monferno (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   * 100.0% to use Thunder Punch (target 0): score 5
+   *   0.0% to use Mach Punch (target 0): score 0
+   => will use Thunder Punch (target 0)
+
+[Round order] Swellow (0), the opposing Monferno (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Monferno lost 77 HP (77 -> 0)
+"It's super effective!"
+"The opposing Monferno fainted!"
+
+[End of round 2]
+[HP change] Swellow lost 5 HP (67 -> 62)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Grotle] using Seed Bomb vs Swellow does a max of 23/62 damage
+     [Grotle] using Rock Tomb vs Swellow does a max of 46/62 damage
+     [Grotle] using Bite vs Swellow does a max of 23/62 damage
+     Swellow (0)'s best move: Aerial Ace for 90/85 damage
+==============================
+     Swellow (0) speed (87) vs Grotle speed: 32
+     [Grotle] -  9: for target fast kill
+     [Grotle] final Switch score: -9
+==============================
+     [Prinplup] using Brine vs Swellow does a max of 42/62 damage
+     [Prinplup] using Icy Wind vs Swellow does a max of 48/62 damage
+     [Prinplup] using Aqua Jet vs Swellow does a max of 18/62 damage
+     Swellow (0)'s best move: Aerial Ace for 53/82 damage
+==============================
+     Swellow (0) speed (87) vs Prinplup speed: 41
+     [Prinplup] -  5: for target having fast 2HKO and us having no kill
+     [Prinplup] final Switch score: -5
+[AI] Highest move score (19) vs Switch In Score (-5)
+"Picnicker Karina sent out Prinplup!"
+
+===== Round 3 =====
+
+     move will not affect Swellow (0)
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Swellow (0)...
+     Prinplup (1)'s highest damaging move vs Swellow: Icy Wind
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Swellow: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Hidden Power (1) against Swellow (0)...
+     Prinplup (1)'s highest damaging move vs Swellow: Icy Wind
+     move will not affect Swellow (0)
+     -  1: move will fail
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Swellow (0)...
+     Prinplup (1)'s highest damaging move vs Swellow: Icy Wind
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Icy Wind
+
+[Round order] Swellow (0), the opposing Prinplup (1)
+
+"Swellow, come back!"
+"You're in charge, Tentacruel!"
+[Use move] The opposing Prinplup (1) used Icy Wind
+"The opposing Prinplup used Icy Wind!"
+[HP change] Tentacruel lost 6 HP (100 -> 94)
+"It's not very effective..."
+[Stat change] Tentacruel's Speed changed by -1 (0 -> -1)
+"Tentacruel's Speed fell!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): -1
+     Threat Score for Tentacruel (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Prinplup (1) is considering using Hidden Power (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Tentacruel (0), the opposing Prinplup (1)
+
+[Use move] Tentacruel (0) used Acid
+"Tentacruel used Acid!"
+[HP change] The opposing Prinplup lost 19 HP (82 -> 63)
+[Use move] The opposing Prinplup (1) used Hidden Power
+"The opposing Prinplup used Hidden Power!"
+[HP change] Tentacruel lost 26 HP (94 -> 68)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): -1
+     Threat Score for Tentacruel (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Prinplup (1) is considering using Hidden Power (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Tentacruel (0), the opposing Prinplup (1)
+
+[Use move] Tentacruel (0) used Hex
+"Tentacruel used Hex!"
+[HP change] The opposing Prinplup lost 20 HP (63 -> 43)
+[Use move] The opposing Prinplup (1) used Hidden Power
+"The opposing Prinplup used Hidden Power!"
+[HP change] Tentacruel lost 25 HP (68 -> 43)
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): -1
+     Threat Score for Tentacruel (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Prinplup (1) is considering using Hidden Power (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Tentacruel (0)...
+     Prinplup (1)'s highest damaging move vs Tentacruel: Hidden Power
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Tentacruel (0), the opposing Prinplup (1)
+
+"OK, Tentacruel! Come back!"
+"Go for it, Flamigo!"
+[Use move] The opposing Prinplup (1) used Hidden Power
+"The opposing Prinplup used Hidden Power!"
+[Target immune] Flamigo's type immunity
+"It doesn't affect Flamigo..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Flamigo (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Flamigo (0)...
+     Prinplup (1)'s highest damaging move vs Flamigo: Icy Wind
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Flamigo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Prinplup (1)'s highest damaging move vs Flamigo: Icy Wind
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Flamigo (0)...
+     Prinplup (1)'s highest damaging move vs Flamigo: Icy Wind
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Aqua Jet (target 0): score 10
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Prinplup (1), Flamigo (0)
+
+[Use move] The opposing Prinplup (1) used Aqua Jet
+"The opposing Prinplup used Aqua Jet!"
+[HP change] Flamigo lost 14 HP (98 -> 84)
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Prinplup lost 43 HP (43 -> 0)
+"The opposing Prinplup fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Flamigo (0)
+==============================
+     [Grotle] using Seed Bomb vs Flamigo does a max of 20/84 damage
+     [Grotle] using Rock Tomb vs Flamigo does a max of 21/84 damage
+     [Grotle] using Bite vs Flamigo does a max of 11/84 damage
+     Flamigo (0)'s best move: Wing Attack for 78/85 damage
+==============================
+     Flamigo (0) speed (75) vs Grotle speed: 32
+     [Grotle] -  5: for target having fast 2HKO and us having no kill
+     [Grotle] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (-5)
+"Picnicker Karina sent out Grotle!"
+
+===== Round 8 =====
+
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grotle (1) is considering using Seed Bomb (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+[AI] Grotle (1) is considering using Rock Tomb (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Grotle (1) is considering using Stomping Tantrum (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Grotle (1) is considering using Bite (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+[AI] Move choices for Grotle (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Flamigo (0), the opposing Grotle (1)
+
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Grotle lost 66 HP (85 -> 19)
+"It's super effective!"
+[HP change] The opposing Grotle gained 21 HP (19 -> 40)
+"The opposing Grotle restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Grotle consumed its held Sitrus Berry
+[Use move] The opposing Grotle (1) used Rock Tomb
+"The opposing Grotle used Rock Tomb!"
+[HP change] Flamigo lost 19 HP (84 -> 65)
+[Stat change] Flamigo's Speed changed by -1 (0 -> -1)
+"Flamigo's Speed fell!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Flamigo (0): -1
+     Threat Score for Flamigo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grotle (1) is considering using Seed Bomb (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+[AI] Grotle (1) is considering using Rock Tomb (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Grotle (1) is considering using Stomping Tantrum (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Grotle (1) is considering using Bite (1) against Flamigo (0)...
+     Grotle (1)'s highest damaging move vs Flamigo: Rock Tomb
+[AI] Move choices for Grotle (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Flamigo (0), the opposing Grotle (1)
+
+[Use move] Flamigo (0) used Wing Attack
+"Flamigo used Wing Attack!"
+[HP change] The opposing Grotle lost 40 HP (40 -> 0)
+"It's super effective!"
+"The opposing Grotle fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Karina!"
+"Wow. You're great!"
+
+"You got $448 for winning!"
