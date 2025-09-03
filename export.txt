@@ -1,26 +1,16 @@
 
 Prinplup @ Cheri Berry
-Level: 25
+Level: 32
 Timid Nature
 Ability: Torrent
 IVs: 31 HP / 22 Atk / 31 Def / 8 SpA / 31 SpD / 24 Spe
 - Aqua Jet
-- Pluck
+- Fury Attack
 - Bubble Beam
 - Icy Wind
 
-Houndoom
-Level: 25
-Calm Nature
-Ability: Unnerve
-IVs: 22 HP / 24 Atk / 3 Def / 2 SpA / 26 SpD / 26 Spe
-- Bite
-- Flame Burst
-- Snarl
-- Smog
-
 Swellow
-Level: 25
+Level: 32
 Naughty Nature
 Ability: Guts
 IVs: 11 HP / 6 Atk / 2 Def / 22 SpA / 29 SpD / 7 Spe
@@ -29,68 +19,78 @@ IVs: 11 HP / 6 Atk / 2 Def / 22 SpA / 29 SpD / 7 Spe
 - Focus Energy
 - Quick Attack
 
-Exeggcute
-Level: 25
-Naughty Nature
+Nuzleaf
+Level: 32
+Bold Nature
 Ability: Chlorophyll
-IVs: 18 HP / 17 Atk / 24 Def / 27 SpA / 22 SpD / 14 Spe
+IVs: 27 HP / 19 Atk / 6 Def / 3 SpA / 11 SpD / 5 Spe
+- Razor Leaf
+- Nature Power
 - Mega Drain
-- Hypnosis
-- Psybeam
-- Synthesis
+- Payback
 
-Sandshrew-Alola
-Level: 25
-Lax Nature
-Ability: Rough Skin
-IVs: 12 HP / 29 Atk / 2 Def / 11 SpA / 22 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Spike Cannon
-- Icicle Spear
-
-Croagunk
-Level: 25
-Rash Nature
-Ability: Poison Touch
-IVs: 29 HP / 14 Atk / 26 Def / 2 SpA / 26 SpD / 26 Spe
-- Fake Out
-- Mach Punch
-- Sucker Punch
-- Venoshock
+Pikachu
+Level: 32
+Docile Nature
+Ability: Static
+IVs: 3 HP / 2 Atk / 12 Def / 11 SpA / 7 SpD / 22 Spe
+- Discharge
+- Draining Kiss
+- Slam
+- Thunder Wave
 
 Boldore
-Level: 25
+Level: 32
 Lonely Nature
 Ability: Sturdy
 IVs: 22 HP / 22 Atk / 20 Def / 4 SpA / 10 SpD / 29 Spe
 - Gyro Ball
-- Rock Throw
+- Rock Slide
 - Bulldoze
 - Smack Down
 
-Pikachu
-Level: 25
-Docile Nature
-Ability: Static
-IVs: 3 HP / 2 Atk / 12 Def / 11 SpA / 7 SpD / 22 Spe
-- Flash
-- Draining Kiss
-- Play Nice
+Graveler-Alola
+Level: 32
+Jolly Nature
+Ability: Magnet Pull
+IVs: 18 HP / 30 Atk / 18 Def / 19 SpA / 23 SpD / 31 Spe
 - Thunder Wave
+- Charge
+- Rock Tomb
+- Thunder Punch
 
-Staravia
-Level: 25
-Impish Nature
-Ability: Intimidate
-IVs: 26 HP / 27 Atk / 0 Def / 16 SpA / 4 SpD / 25 Spe
-- Endeavor
-- Flash
-- Quick Attack
+Flamigo @ Muscle Band
+Level: 32
+Hasty Nature
+Ability: Tangled Feet
+IVs: 13 HP / 2 Atk / 12 Def / 20 SpA / 12 SpD / 21 Spe
+- Roost
+- Double Kick
+- Detect
 - Wing Attack
 
-Grimer
-Level: 25
+Barraskewda @ Oran Berry
+Level: 32
+Brave Nature
+Ability: Swift Swim
+IVs: 28 HP / 3 Atk / 14 Def / 21 SpA / 3 SpD / 14 Spe
+- Hydro Fangs
+- Aqua Jet
+- Fury Attack
+- Bite
+
+Tentacruel
+Level: 32
+Bashful Nature
+Ability: Liquid Ooze
+IVs: 23 HP / 21 Atk / 8 Def / 25 SpA / 7 SpD / 7 Spe
+- Bubble Beam
+- Hex
+- Acid
+- Rapid Spin
+
+Grimer @ Oran Berry
+Level: 32
 Lonely Nature
 Ability: Sticky Hold
 IVs: 9 HP / 19 Atk / 31 Def / 31 SpA / 24 SpD / 8 Spe
@@ -99,32 +99,62 @@ IVs: 9 HP / 19 Atk / 31 Def / 31 SpA / 24 SpD / 8 Spe
 - Disable
 - Sand Tomb
 
-Tentacool
-Level: 25
-Bashful Nature
-Ability: Liquid Ooze
-IVs: 23 HP / 21 Atk / 8 Def / 25 SpA / 7 SpD / 7 Spe
-- Bubble Beam
-- Water Pulse
-- Acid
+Sandshrew-Alola @ Oran Berry
+Level: 32
+Lax Nature
+Ability: Rough Skin
+IVs: 12 HP / 29 Atk / 2 Def / 11 SpA / 22 SpD / 26 Spe
 - Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Spear
 
-Graveler-Alola @ Oran Berry
-Level: 25
-Jolly Nature
-Ability: Magnet Pull
-IVs: 18 HP / 30 Atk / 18 Def / 19 SpA / 23 SpD / 31 Spe
-- Tackle
-- Charge
-- Rock Tomb
-- Thunder Punch
+Exeggcute @ Oran Berry
+Level: 32
+Naughty Nature
+Ability: Chlorophyll
+IVs: 18 HP / 17 Atk / 24 Def / 27 SpA / 22 SpD / 14 Spe
+- Mega Drain
+- Hypnosis
+- Psybeam
+- Synthesis
 
-Arrokuda @ Oran Berry
-Level: 25
+Dachsbun
+Level: 32
 Brave Nature
-Ability: Swift Swim
-IVs: 28 HP / 3 Atk / 14 Def / 21 SpA / 3 SpD / 14 Spe
-- Hydro Fangs
-- Aqua Jet
-- Fury Attack
+Ability: Aroma Veil
+IVs: 23 HP / 19 Atk / 14 Def / 17 SpA / 0 SpD / 5 Spe
+- Fire Fang
+- Play Rough
 - Bite
+- Psychic Fangs
+
+Staravia @ Oran Berry
+Level: 32
+Impish Nature
+Ability: Intimidate
+IVs: 26 HP / 27 Atk / 0 Def / 16 SpA / 4 SpD / 25 Spe
+- Endeavor
+- Flash
+- Quick Attack
+- Aerial Ace
+
+Houndoom
+Level: 32
+Calm Nature
+Ability: Unnerve
+IVs: 22 HP / 24 Atk / 3 Def / 2 SpA / 26 SpD / 26 Spe
+- Bite
+- Flame Burst
+- Snarl
+- Smog
+
+Toxicroak @ Oran Berry
+Level: 32
+Rash Nature
+Ability: Poison Touch
+IVs: 29 HP / 14 Atk / 26 Def / 2 SpA / 26 SpD / 26 Spe
+- Fake Out
+- Mach Punch
+- Sucker Punch
+- Poison Jab
