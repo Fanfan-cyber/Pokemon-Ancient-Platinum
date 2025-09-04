@@ -306515,3 +306515,757 @@ Set up score for Swellow (0): 0
 "Wow. You're great!"
 
 "You got $1,056 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Carvanha appeared!"
+"Go! Boldore!"
+[Round order] Boldore (0), the wild Carvanha (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Boldore (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Carvanha (1) is considering using Aqua Jet (1) against Boldore (0)...
+     Carvanha (1)'s highest damaging move vs Boldore: Aqua Jet
+[AI] Carvanha (1) is considering using Poison Fang (1) against Boldore (0)...
+     Carvanha (1)'s highest damaging move vs Boldore: Aqua Jet
+[AI] Carvanha (1) is considering using Focus Energy (4)...
+[AI] Carvanha (1) is considering using Scary Face (4) against Boldore (0)...
+     Carvanha (1)'s highest damaging move vs Boldore: Aqua Jet
+[AI] Move choices for Carvanha (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   *  50.0% to use Focus Energy: score 4
+   *  50.0% to use Scary Face (target 0): score 4
+   => will use Scary Face (target 0)
+
+[Round order] Boldore (0), the wild Carvanha (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Carvanha was caught!"
+
+===== Pokémon caught =====
+
+"Carvanha's data was added to the Pokédex."
+"Where do you want to send Carvanha to?"
+"Where do you want to send Carvanha to?"
+"Carvanha has been sent to Box "Box 1"!"
+Roles for TOXICROAK: [:PHYSICALBREAKER]
+Roles for NINJASK: [:OFFENSIVEPIVOT]
+Roles for WEEZING: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ninja Boy Zach!"
+"Ninja Boy Zach sent out Toxicroak!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the opposing Toxicroak (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Toxicroak (1) is considering using Drain Punch (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+[AI] Toxicroak (1) is considering using Poison Jab (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+     - 3 for factoring in 2 Status Moves from Flamigo (0)
+     + 8 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Toxicroak (1) is considering using Fake Out (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   * 100.0% to use Fake Out (target 0): score 28
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Toxicroak (1), Flamigo (0)
+
+[Use move] The opposing Toxicroak (1) used Fake Out
+"The opposing Toxicroak used Fake Out!"
+[HP change] Flamigo lost 17 HP (106 -> 89)
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (15)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Drain Punch (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+[AI] Toxicroak (1) is considering using Poison Jab (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Flamigo (0)...
+     Toxicroak (1)'s highest damaging move vs Flamigo: Poison Jab
+     - 3 for factoring in 2 Status Moves from Flamigo (0)
+     + 8 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 15
+   *   0.0% to use Fake Out: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Toxicroak (1), Flamigo (0)
+
+[Use move] The opposing Toxicroak (1) used Sucker Punch
+"The opposing Toxicroak used Sucker Punch!"
+[HP change] Flamigo lost 14 HP (89 -> 75)
+"It's not very effective..."
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Toxicroak lost 62 HP (105 -> 43)
+[HP change] The opposing Toxicroak lost 43 HP (43 -> 0)
+"The opposing Toxicroak fainted!"
+"It's super effective!"
+"Hit 2 times!"
+"Flamigo got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Ninjask] using U-turn vs Flamigo does a max of 18/75 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 156/93 damage
+==============================
+     Flamigo (0) speed (82) vs Ninjask speed: 120
+     [Ninjask] -  7: for target slow kill
+     [Ninjask] final Switch score: -7
+==============================
+     [Weezing] using Sludge Bomb vs Flamigo does a max of 62/75 damage
+     [Weezing] using Flamethrower vs Flamigo does a max of 41/75 damage
+     [Weezing] using Explosion vs Flamigo does a max of 135/75 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 38/96 damage
+==============================
+     Flamigo (0) speed (82) vs Weezing speed: 48
+     [Weezing] +  9: for slow kill
+     [Weezing] final Switch score: 9
+[AI] Highest move score (28) vs Switch In Score (9)
+"Ninja Boy Zach sent out Weezing!"
+[Ability triggered] The opposing Weezing's Neutralizing Gas
+"Neutralizing gas filled the area!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Weezing (1): 0
+Set up score for Weezing (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weezing (1) is considering using Sludge Bomb (1) against Flamigo (0)...
+     Weezing (1)'s highest damaging move vs Flamigo: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Weezing (1) is considering using Flamethrower (1) against Flamigo (0)...
+     Weezing (1)'s highest damaging move vs Flamigo: Sludge Bomb
+[AI] Weezing (1) is considering using Explosion (1)...
+     Weezing (1)'s highest damaging move vs Flamigo: Sludge Bomb
+      + 17 for slow kill
+[AI] Move choices for Weezing (1):
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Explosion: score 18
+   => will use Explosion
+
+[Round order] Flamigo (0), the opposing Weezing (1)
+
+"Flamigo, come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Weezing (1) used Explosion
+"The opposing Weezing used Explosion!"
+"The Normal Gem strengthened Explosion's power!"
+[HP change] Sandslash lost 36 HP (101 -> 65)
+[HP change] The opposing Weezing lost 96 HP (96 -> 0)
+"The opposing Weezing fainted!"
+"The effects of the neutralizing gas wore off!"
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Sandslash (0)
+==============================
+     [Ninjask] using U-turn vs Sandslash does a max of 21/65 damage
+     Sandslash (0)'s best move: Icicle Crash for 162/93 damage
+==============================
+     Sandslash (0) speed (59) vs Ninjask speed: 120
+     [Ninjask] -  7: for target slow kill
+     [Ninjask] final Switch score: -7
+[AI] Highest move score (18) vs Switch In Score (-7)
+"The effects of the neutralizing gas wore off!"
+"Ninja Boy Zach sent out Ninjask!"
+
+===== Round 4 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ninjask (1) is considering using U-turn (1) against Sandslash (0)...
+     Ninjask (1)'s highest damaging move vs Sandslash: U-turn
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Ninjask (1):
+   * 100.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Ninjask (1), Sandslash (0)
+
+[Use move] The opposing Ninjask (1) used U-turn
+"The opposing Ninjask used U-turn!"
+[HP change] Sandslash lost 20 HP (65 -> 45)
+"It's not very effective..."
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Ninjask lost 11 HP (93 -> 82)
+"The opposing Ninjask is hurt!"
+[HP change] Sandslash gained 10 HP (45 -> 55)
+"Sandslash restored a little HP using its Oran Berry!"
+[Item consumed] Sandslash consumed its held Oran Berry
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Ninjask lost 82 HP (82 -> 0)
+"It's super effective!"
+"The opposing Ninjask fainted!"
+
+===== Player won =====
+
+"You defeated Ninja Boy Zach!"
+"Wow. You're great!"
+
+"You got $1,056 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Munna appeared!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the wild Munna (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Meditite appeared!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the wild Meditite (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Munna appeared!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the wild Munna (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the wild Chingling (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chingling (1) is considering using Growl (4)...
+     Chingling (1)'s highest damaging move vs Flamigo: Fairy Wind
+[AI] Chingling (1) is considering using Fairy Wind (1) against Flamigo (0)...
+     Chingling (1)'s highest damaging move vs Flamigo: Fairy Wind
+[AI] Chingling (1) is considering using Mach Pulse (1) against Flamigo (0)...
+     Chingling (1)'s highest damaging move vs Flamigo: Fairy Wind
+[AI] Chingling (1) is considering using Yawn (4) against Flamigo (0)...
+     Chingling (1)'s highest damaging move vs Flamigo: Fairy Wind
+[AI] Move choices for Chingling (1):
+   *  50.0% to use Growl: score 4
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *  50.0% to use Yawn (target 0): score 4
+   => will use Growl
+
+[Round order] Flamigo (0), the wild Chingling (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Chingling was caught!"
+
+===== Pokémon caught =====
+
+"Chingling's data was added to the Pokédex."
+"Chingling has been added to your party."
+Roles for CARRACOSTA: [:OFFENSIVEPIVOT]
+Roles for DUGTRIO: [:PHYSICALBREAKER]
+Roles for SKARMORY: [:LEAD, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Louis!"
+"Hiker Louis sent out Carracosta!"
+"Go! Exeggutor!"
+[Round order] Exeggutor (0), the opposing Carracosta (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Carracosta (1): 0
+Set up score for Carracosta (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Exeggutor (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Carracosta (1) is considering using Flip Turn (1) against Exeggutor (0)...
+     Carracosta (1)'s highest damaging move vs Exeggutor: Flip Turn
+     + 4 for switch initiative against a bad matchup
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carracosta (1):
+   * 100.0% to use Flip Turn (target 0): score 9
+   => will use Flip Turn (target 0)
+
+[Round order] Exeggutor (0), the opposing Carracosta (1)
+
+[Use move] Exeggutor (0) used Giga Drain
+"Exeggutor used Giga Drain!"
+[HP change] The opposing Carracosta lost 91 HP (102 -> 11)
+"It's super effective!"
+"The opposing Carracosta had its energy drained!"
+"The Rindo Berry weakened the damage to the opposing Carracosta!"
+[Item consumed] The opposing Carracosta consumed its held Rindo Berry
+[Use move] The opposing Carracosta (1) used Flip Turn
+"The opposing Carracosta used Flip Turn!"
+[HP change] Exeggutor lost 19 HP (117 -> 98)
+"It's not very effective..."
+"The opposing Carracosta went back to Hiker Louis!"
+==============================
+     [Dugtrio] using Earthquake vs Exeggutor does a max of 32/98 damage
+     [Dugtrio] using Sucker Punch vs Exeggutor does a max of 50/98 damage
+     [Dugtrio] using Rock Slide vs Exeggutor does a max of 27/98 damage
+     Exeggutor (0)'s best move: Giga Drain for 123/76 damage
+==============================
+     Exeggutor (0) speed (48) vs Dugtrio speed: 103
+     [Dugtrio] - 20: for us being killed on switch in
+     [Dugtrio] final Switch score: -20
+==============================
+     [Skarmory] using Iron Head vs Exeggutor does a max of 39/98 damage
+     [Skarmory] using Aerial Ace vs Exeggutor does a max of 60/98 damage
+     Exeggutor (0)'s best move: Psybeam for 27/96 damage
+==============================
+     Exeggutor (0) speed (48) vs Skarmory speed: 61
+     [Skarmory] +  6: for fast 2HKO
+     [Skarmory] final Switch score: 6
+[AI] Highest move score (9) vs Switch In Score (6)
+"Hiker Louis sent out Skarmory!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Exeggutor (0)...
+     Skarmory (1)'s highest damaging move vs Exeggutor: Aerial Ace
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Exeggutor (0)...
+     Skarmory (1)'s highest damaging move vs Exeggutor: Aerial Ace
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 3 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Spikes: score 7
+   *   0.0% to use Roost: score 0
+   => will use Spikes
+
+[Round order] The opposing Skarmory (1), Exeggutor (0)
+
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory used Spikes!"
+"Spikes were scattered all around your team's feet!"
+[Use move] Exeggutor (0) used Hypnosis
+"Exeggutor used Hypnosis!"
+"The opposing Skarmory fell asleep!"
+[Status change] The opposing Skarmory's sleep count is 3
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Exeggutor (0)...
+     Skarmory (1)'s highest damaging move vs Exeggutor: Aerial Ace
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Exeggutor (0)...
+     Skarmory (1)'s highest damaging move vs Exeggutor: Aerial Ace
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 3 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Spikes: score 7
+   *   0.0% to use Roost: score 0
+   => will use Spikes
+
+[Round order] The opposing Skarmory (1), Exeggutor (0)
+
+"Exeggutor, come back!"
+"You're in charge, Houndoom!"
+[HP change] Houndoom lost 13 HP (105 -> 92)
+"Houndoom is hurt by the spikes!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory is fast asleep."
+[Status continues] The opposing Skarmory's sleep count is 2
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Houndoom (0)...
+     Skarmory (1)'s highest damaging move vs Houndoom: Aerial Ace
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Houndoom (0)...
+     Skarmory (1)'s highest damaging move vs Houndoom: Aerial Ace
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Spikes (4)...
+     + 3 to encourage hazards for each able opposing party member
+[AI] Skarmory (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Spikes: score 7
+   *   0.0% to use Roost: score 0
+   => will use Spikes
+
+[Round order] Houndoom (0), the opposing Skarmory (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Skarmory lost 85 HP (96 -> 11)
+"It's super effective!"
+[Use move] The opposing Skarmory (1) used Spikes
+"The opposing Skarmory is fast asleep."
+[Status continues] The opposing Skarmory's sleep count is 1
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Houndoom (0)...
+     Skarmory (1)'s highest damaging move vs Houndoom: Aerial Ace
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Houndoom (0)...
+     Skarmory (1)'s highest damaging move vs Houndoom: Aerial Ace
+     + 4 to prioritize highest damaging move
+[AI] Skarmory (1) is considering using Spikes (4)...
+     - 3 because this will be pointless
+[AI] Skarmory (1) is considering using Roost (4)...
+     - 5 because we will not gain any HP in this exchange
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Roost: score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] Houndoom (0), the opposing Skarmory (1)
+
+"Houndoom, come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Skarmory (1) used Aerial Ace
+"The opposing Skarmory woke up!"
+"The opposing Skarmory used Aerial Ace!"
+[HP change] Chimecho lost 27 HP (106 -> 79)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Skarmory (1): 0
+Set up score for Skarmory (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Skarmory (1) is considering using Iron Head (1) against Chimecho (0)...
+     Skarmory (1)'s highest damaging move vs Chimecho: Iron Head
+      + 17 for slow kill
+[AI] Skarmory (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Skarmory (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Skarmory (1) is considering using Spikes (4)...
+     - 3 because this will be pointless
+[AI] Skarmory (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Skarmory (1):
+   * 100.0% to use Iron Head (target 0): score 18
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Roost: score 0
+   => will use Iron Head (target 0)
+
+[Round order] The opposing Skarmory (1), Chimecho (0)
+
+"The opposing Skarmory's Custap Berry let it move first!"
+[Item consumed] The opposing Skarmory consumed its held Custap Berry
+[Use move] The opposing Skarmory (1) used Iron Head
+"The opposing Skarmory used Iron Head!"
+[HP change] Chimecho lost 73 HP (79 -> 6)
+"It's super effective!"
+[HP change] Chimecho gained 10 HP (6 -> 16)
+"Chimecho restored a little HP using its Oran Berry!"
+[Item consumed] Chimecho consumed its held Oran Berry
+[Use move] Chimecho (0) used Psybeam
+"Chimecho used Psybeam!"
+[HP change] The opposing Skarmory lost 11 HP (11 -> 0)
+"It's not very effective..."
+"The opposing Skarmory fainted!"
+"Chimecho got 1 Exp. Points!"
+"Houndoom got 1 Exp. Points!"
+
+[End of round 6]
+Trick Room Turns: 0
+==============================
+     [Carracosta] using Flip Turn vs Chimecho does a max of 39/16 damage
+     Chimecho (0)'s best move: Psybeam for 53/11 damage
+==============================
+     Chimecho (0) speed (70) vs Carracosta speed: 36
+     [Carracosta] -  9: for target fast kill
+     [Carracosta] - 20: to avoid dying on switch in
+     [Carracosta] final Switch score: -29
+==============================
+     [Dugtrio] using Sucker Punch vs Chimecho does a max of 27/16 damage
+     [Dugtrio] using Rock Slide vs Chimecho does a max of 28/16 damage
+     Chimecho (0)'s best move: Psybeam for 50/76 damage
+==============================
+     Chimecho (0) speed (70) vs Dugtrio speed: 103
+     [Dugtrio] + 12: for fast kill
+     [Dugtrio] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Hiker Louis sent out Dugtrio!"
+
+===== Round 7 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Rock Slide
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Rock Slide
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+      + 20 for fast kill
+[AI] Dugtrio (1) is considering using Rock Slide (1)...
+     Dugtrio (1)'s highest damaging move vs Chimecho: Rock Slide
+      + 20 for fast kill
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   * 100.0% to use Rock Slide: score 21
+   => will use Rock Slide
+
+[Round order] The opposing Dugtrio (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"You're in charge, Exeggutor!"
+[HP change] Exeggutor lost 14 HP (98 -> 84)
+"Exeggutor is hurt by the spikes!"
+[Use move] The opposing Dugtrio (1) used Rock Slide
+"The opposing Dugtrio used Rock Slide!"
+[HP change] Exeggutor lost 26 HP (84 -> 58)
+[HP change] Exeggutor gained 10 HP (58 -> 68)
+"Exeggutor restored a little HP using its Oran Berry!"
+[Item consumed] Exeggutor consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dugtrio (1) is considering using Earthquake (1)...
+     Dugtrio (1)'s highest damaging move vs Exeggutor: Sucker Punch
+[AI] Dugtrio (1) is considering using Sucker Punch (1) against Exeggutor (0)...
+     Dugtrio (1)'s highest damaging move vs Exeggutor: Sucker Punch
+     - 3 for factoring in 2 Status Moves from Exeggutor (0)
+     no added score due to target having faster priority or being slower with no priority
+     + 4 to prioritize highest damaging move
+[AI] Dugtrio (1) is considering using Rock Slide (1)...
+     Dugtrio (1)'s highest damaging move vs Exeggutor: Sucker Punch
+[AI] Move choices for Dugtrio (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Sucker Punch (target 0): score 2
+   *   0.0% to use Rock Slide: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Dugtrio (1), Exeggutor (0)
+
+[Use move] The opposing Dugtrio (1) used Sucker Punch
+"The opposing Dugtrio used Sucker Punch!"
+[HP change] Exeggutor lost 48 HP (68 -> 20)
+"It's super effective!"
+[Use move] Exeggutor (0) used Giga Drain
+"Exeggutor used Giga Drain!"
+[HP change] The opposing Dugtrio lost 76 HP (76 -> 0)
+"It's super effective!"
+"The opposing Dugtrio fainted!"
+"The opposing Dugtrio had its energy drained!"
+[HP change] Exeggutor gained 38 HP (20 -> 58)
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Carracosta] using Flip Turn vs Exeggutor does a max of 19/58 damage
+     Exeggutor (0)'s best move: Giga Drain for 194/11 damage
+==============================
+     Exeggutor (0) speed (48) vs Carracosta speed: 36
+     [Carracosta] -  9: for target fast kill
+     [Carracosta] - 20: to avoid dying on switch in
+     [Carracosta] final Switch score: -29
+[AI] Highest move score (19) vs Switch In Score (-29)
+"Hiker Louis sent out Carracosta!"
+
+===== Round 9 =====
+
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Carracosta (1) is considering using Flip Turn (1) against Exeggutor (0)...
+     Carracosta (1)'s highest damaging move vs Exeggutor: Flip Turn
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Carracosta (1):
+   * 100.0% to use Flip Turn (target 0): score 5
+   => will use Flip Turn (target 0)
+
+[Round order] Exeggutor (0), the opposing Carracosta (1)
+
+[Use move] Exeggutor (0) used Giga Drain
+"Exeggutor used Giga Drain!"
+[HP change] The opposing Carracosta lost 11 HP (11 -> 0)
+"It's super effective!"
+"The opposing Carracosta fainted!"
+"The opposing Carracosta had its energy drained!"
+[HP change] Exeggutor gained 6 HP (58 -> 64)
+
+===== Player won =====
+
+"You defeated Hiker Louis!"
+"Wow. You're great!"
+
+"You got $1,056 for winning!"

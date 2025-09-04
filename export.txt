@@ -1,33 +1,13 @@
 
-Prinplup
+Chimecho
 Level: 35
-Timid Nature
-Ability: Torrent
-IVs: 31 HP / 22 Atk / 31 Def / 8 SpA / 31 SpD / 24 Spe
-- Aqua Jet
-- Fury Attack
-- Brine
-- Icy Wind
-
-Exeggutor
-Level: 35
-Naughty Nature
-Ability: Chlorophyll
-IVs: 18 HP / 17 Atk / 24 Def / 27 SpA / 22 SpD / 14 Spe
-- Giga Drain
-- Hypnosis
+Gentle Nature
+Ability: Levitate
+IVs: 7 HP / 18 Atk / 24 Def / 24 SpA / 16 SpD / 16 Spe
 - Psybeam
-- Synthesis
-
-Toxicroak
-Level: 35
-Rash Nature
-Ability: Poison Touch
-IVs: 29 HP / 14 Atk / 26 Def / 2 SpA / 26 SpD / 26 Spe
-- Fake Out
-- Low Sweep
-- Sucker Punch
-- Poison Jab
+- Draining Kiss
+- Mach Pulse
+- Yawn
 
 Sandslash-Alola
 Level: 35
@@ -39,37 +19,7 @@ IVs: 12 HP / 29 Atk / 2 Def / 11 SpA / 22 SpD / 26 Spe
 - Iron Head
 - Icicle Crash
 
-Staraptor @ Oran Berry
-Level: 35
-Impish Nature
-Ability: Intimidate
-IVs: 26 HP / 27 Atk / 0 Def / 16 SpA / 4 SpD / 25 Spe
-- Take Down
-- Close Combat
-- Quick Attack
-- Aerial Ace
-
-Swellow
-Level: 35
-Naughty Nature
-Ability: Guts
-IVs: 11 HP / 6 Atk / 2 Def / 22 SpA / 29 SpD / 7 Spe
-- Aerial Ace
-- Flash
-- Tailwind
-- Quick Attack
-
-Flamigo @ Oran Berry
-Level: 35
-Hasty Nature
-Ability: Tangled Feet
-IVs: 13 HP / 2 Atk / 12 Def / 20 SpA / 12 SpD / 21 Spe
-- Roost
-- Double Kick
-- Detect
-- Dual Wingbeat
-
-Boldore
+Boldore @ Oran Berry
 Level: 35
 Lonely Nature
 Ability: Sturdy
@@ -78,6 +28,25 @@ IVs: 22 HP / 22 Atk / 20 Def / 4 SpA / 10 SpD / 29 Spe
 - Rock Slide
 - Bulldoze
 - Smack Down
+
+Surskit
+Level: 13
+Quiet Nature
+Ability: Swift Swim
+IVs: 10 HP / 3 Atk / 5 Def / 3 SpA / 12 SpD / 0 Spe
+- Water Gun
+- Quick Attack
+- Sweet Scent
+
+Flamigo @ Pecha Berry
+Level: 35
+Hasty Nature
+Ability: Tangled Feet
+IVs: 13 HP / 2 Atk / 12 Def / 20 SpA / 12 SpD / 21 Spe
+- Dual Wingbeat
+- Double Kick
+- Roost
+- Detect
 
 Nuzleaf @ Oran Berry
 Level: 35
@@ -98,6 +67,16 @@ IVs: 3 HP / 2 Atk / 12 Def / 11 SpA / 7 SpD / 22 Spe
 - Draining Kiss
 - Slam
 - Thunder Wave
+
+Carvanha
+Level: 12
+Lax Nature
+Ability: Rough Skin
+IVs: 15 HP / 3 Atk / 2 Def / 24 SpA / 15 SpD / 5 Spe
+- Aqua Jet
+- Poison Fang
+- Focus Energy
+- Scary Face
 
 Barraskewda @ Oran Berry
 Level: 35
@@ -129,6 +108,16 @@ IVs: 23 HP / 19 Atk / 14 Def / 17 SpA / 0 SpD / 5 Spe
 - Bite
 - Psychic Fangs
 
+Exeggutor
+Level: 35
+Naughty Nature
+Ability: Chlorophyll
+IVs: 18 HP / 17 Atk / 24 Def / 27 SpA / 22 SpD / 14 Spe
+- Giga Drain
+- Hypnosis
+- Psybeam
+- Synthesis
+
 Houndoom @ Oran Berry
 Level: 35
 Calm Nature
@@ -138,6 +127,26 @@ IVs: 22 HP / 24 Atk / 3 Def / 2 SpA / 26 SpD / 26 Spe
 - Flame Burst
 - Snarl
 - Smog
+
+Toxicroak
+Level: 35
+Rash Nature
+Ability: Poison Touch
+IVs: 29 HP / 14 Atk / 26 Def / 2 SpA / 26 SpD / 26 Spe
+- Fake Out
+- Low Sweep
+- Sucker Punch
+- Poison Jab
+
+Prinplup
+Level: 35
+Timid Nature
+Ability: Torrent
+IVs: 31 HP / 22 Atk / 31 Def / 8 SpA / 31 SpD / 24 Spe
+- Aqua Jet
+- Fury Attack
+- Brine
+- Icy Wind
 
 Gumshoos
 Level: 35
@@ -158,3 +167,23 @@ IVs: 23 HP / 21 Atk / 8 Def / 25 SpA / 7 SpD / 7 Spe
 - Hex
 - Toxic
 - Rapid Spin
+
+Staraptor
+Level: 35
+Impish Nature
+Ability: Intimidate
+IVs: 26 HP / 27 Atk / 0 Def / 16 SpA / 4 SpD / 25 Spe
+- Take Down
+- Close Combat
+- Quick Attack
+- Aerial Ace
+
+Swellow
+Level: 35
+Naughty Nature
+Ability: Guts
+IVs: 11 HP / 6 Atk / 2 Def / 22 SpA / 29 SpD / 7 Spe
+- Aerial Ace
+- Flash
+- Tailwind
+- Quick Attack
