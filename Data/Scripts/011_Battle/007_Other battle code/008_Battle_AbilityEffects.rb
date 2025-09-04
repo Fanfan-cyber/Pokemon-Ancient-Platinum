@@ -1866,6 +1866,7 @@ Battle::AbilityEffects::OnBeingHit.add(:CUTECHARM,
     next if target.fainted?
     next if !move.pbContactMove?(user)
     next if battle.pbRandom(100) >= 30
+    next unless user.pbCanAttract?(target, Battle::Scene::USE_ABILITY_SPLASH)
     if user.pbCanAttract?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       battle.pbShowAbilitySplash(target)
@@ -1932,6 +1933,7 @@ Battle::AbilityEffects::OnBeingHit.add(:FLAMEBODY,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.burned? || battle.pbRandom(100) >= 30
+    next unless user.pbCanBurn?(target, Battle::Scene::USE_ABILITY_SPLASH)
     if user.pbCanBurn?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
@@ -2065,6 +2067,7 @@ Battle::AbilityEffects::OnBeingHit.add(:POISONPOINT,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.poisoned? || battle.pbRandom(100) >= 30
+    next unless user.pbCanPoison?(target, Battle::Scene::USE_ABILITY_SPLASH)
     if user.pbCanPoison?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       msg = nil
@@ -2212,6 +2215,7 @@ Battle::AbilityEffects::OnDealingHit.add(:POISONTOUCH,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if battle.pbRandom(100) >= 30
+    next if !target.pbCanPoison?(user, Battle::Scene::USE_ABILITY_SPLASH)
     if target.hasActiveAbility?(:SHIELDDUST) && !target.being_mold_broken?
       battle.pbShowAbilitySplash(user)
       battle.pbShowAbilitySplash(target)
@@ -2234,6 +2238,7 @@ Battle::AbilityEffects::OnDealingHit.add(:POISONTOUCH,
 Battle::AbilityEffects::OnDealingHit.add(:TOXICCHAIN,
   proc { |ability, user, target, move, battle|
     next if battle.pbRandom(100) >= 30
+    next if !target.pbCanPoison?(user, Battle::Scene::USE_ABILITY_SPLASH)
     if target.hasActiveAbility?(:SHIELDDUST) && !target.being_mold_broken?
       battle.pbShowAbilitySplash(user)
       battle.pbShowAbilitySplash(target)
