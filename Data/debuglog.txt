@@ -305856,3 +305856,662 @@ Set up score for Palafin (2): 0
 "You have no more Pokémon that can fight!"
 "You lost against Pokémon Trainer Buck and Pokémon Trainer Marley!"
 "You gave $3,168 to the winner..."
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for QWILFISH: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Andrew!"
+"Fisherman Andrew sent out Pelipper!"
+"Go! Boldore!"
+[Round order] The opposing Pelipper (1), Boldore (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boldore (0): 0
+     Threat Score for Boldore (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Boldore (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Water Pulse (1) against Boldore (0)...
+     Pelipper (1)'s highest damaging move vs Boldore: Water Pulse
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Air Slash (1) against Boldore (0)...
+     Pelipper (1)'s highest damaging move vs Boldore: Water Pulse
+[AI] Pelipper (1) is considering using Ice Beam (1) against Boldore (0)...
+     Pelipper (1)'s highest damaging move vs Boldore: Water Pulse
+[AI] Pelipper (1) is considering using U-turn (1) against Boldore (0)...
+     Pelipper (1)'s highest damaging move vs Boldore: Water Pulse
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Pelipper (1), Boldore (0)
+
+[Use move] The opposing Pelipper (1) used U-turn
+"The opposing Pelipper used U-turn!"
+[HP change] Boldore lost 11 HP (101 -> 90)
+"The opposing Pelipper went back to Fisherman Andrew!"
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Qwilfish] using Liquidation vs Boldore does a max of 113/90 damage
+     [Qwilfish] using Barb Barrage vs Boldore does a max of 17/90 damage
+     [Qwilfish] using Aqua Jet vs Boldore does a max of 59/90 damage
+     [Qwilfish] using Revenge vs Boldore does a max of 36/90 damage
+     Boldore (0)'s best move: Bulldoze for 60/93 damage
+==============================
+     Boldore (0) speed (29) vs Qwilfish speed: 150
+     [Qwilfish] + 12: for fast kill
+     [Qwilfish] final Switch score: 12
+==============================
+     [Seismitoad] using Liquidation vs Boldore does a max of 122/90 damage
+     [Seismitoad] using Stomping Tantrum vs Boldore does a max of 72/90 damage
+     [Seismitoad] using Rock Slide vs Boldore does a max of 24/90 damage
+     [Seismitoad] using Poison Jab vs Boldore does a max of 13/90 damage
+     Boldore (0)'s best move: Bulldoze for 33/122 damage
+==============================
+     Boldore (0) speed (29) vs Seismitoad speed: 140
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+"Fisherman Andrew sent out Qwilfish!"
+[Use move] Boldore (0) used Rock Slide
+"Boldore used Rock Slide!"
+[HP change] The opposing Qwilfish lost 76 HP (93 -> 17)
+"A critical hit!"
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Pelipper] is immune to strongest move against Qwilfish (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-3) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Boldore (0): 0
+     Threat Score for Boldore (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Liquidation (1) against Boldore (0)...
+     Qwilfish (1)'s highest damaging move vs Boldore: Liquidation
+      + 20 for fast kill
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Boldore (0)...
+     Qwilfish (1)'s highest damaging move vs Boldore: Liquidation
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Boldore (0)...
+     Qwilfish (1)'s highest damaging move vs Boldore: Liquidation
+[AI] Qwilfish (1) is considering using Revenge (1) against Boldore (0)...
+     Qwilfish (1)'s highest damaging move vs Boldore: Liquidation
+[AI] Move choices for Qwilfish (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Barb Barrage (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Revenge (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Qwilfish (1), Boldore (0)
+
+"Boldore, come back!"
+"Your opponent's weak! Get 'em, Prinplup!"
+[Use move] The opposing Qwilfish (1) used Liquidation
+"The opposing Qwilfish used Liquidation!"
+[HP change] Prinplup lost 33 HP (100 -> 67)
+"It's not very effective..."
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Liquidation (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+     + 9 to get a last ditch hit off.
+[AI] Qwilfish (1) is considering using Revenge (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Barb Barrage (target 0): score 0
+   * 100.0% to use Aqua Jet (target 0): score 10
+   *   0.0% to use Revenge (target 0): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Qwilfish (1), Prinplup (0)
+
+[Use move] The opposing Qwilfish (1) used Aqua Jet
+"The opposing Qwilfish used Aqua Jet!"
+[HP change] Prinplup lost 17 HP (67 -> 50)
+"It's not very effective..."
+[HP change] Prinplup gained 10 HP (50 -> 60)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[Use move] Prinplup (0) used Aqua Jet
+"Prinplup used Aqua Jet!"
+[HP change] The opposing Qwilfish lost 11 HP (17 -> 6)
+"It's not very effective..."
+
+[End of round 3]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Liquidation (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+     + 9 to get a last ditch hit off.
+[AI] Qwilfish (1) is considering using Revenge (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Barb Barrage
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Barb Barrage (target 0): score 0
+   * 100.0% to use Aqua Jet (target 0): score 10
+   *   0.0% to use Revenge (target 0): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Qwilfish (1), Prinplup (0)
+
+[Use move] The opposing Qwilfish (1) used Aqua Jet
+"The opposing Qwilfish used Aqua Jet!"
+[HP change] Prinplup lost 16 HP (60 -> 44)
+"It's not very effective..."
+[Use move] Prinplup (0) used Brine
+"Prinplup used Brine!"
+[HP change] The opposing Qwilfish lost 6 HP (6 -> 0)
+"It's not very effective..."
+"The opposing Qwilfish fainted!"
+"Boldore got 1 Exp. Points!"
+
+[End of round 4]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Pelipper] using Water Pulse vs Prinplup does a max of 23/44 damage
+     [Pelipper] using Air Slash vs Prinplup does a max of 36/44 damage
+     [Pelipper] using Ice Beam vs Prinplup does a max of 15/44 damage
+     [Pelipper] using U-turn vs Prinplup does a max of 14/44 damage
+     Prinplup (0)'s best move: Brine for 27/90 damage
+==============================
+     Prinplup (0) speed (52) vs Pelipper speed: 61
+     [Pelipper] +  6: for fast 2HKO
+     [Pelipper] final Switch score: 6
+==============================
+     [Seismitoad] using Liquidation vs Prinplup does a max of 37/44 damage
+     [Seismitoad] using Stomping Tantrum vs Prinplup does a max of 44/44 damage
+     [Seismitoad] using Rock Slide vs Prinplup does a max of 29/44 damage
+     [Seismitoad] using Poison Jab vs Prinplup does a max of 31/44 damage
+     Prinplup (0)'s best move: Brine for 50/122 damage
+==============================
+     Prinplup (0) speed (52) vs Seismitoad speed: 140
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+[AI] Highest move score (10) vs Switch In Score (12)
+"Fisherman Andrew sent out Seismitoad!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Prinplup (0)...
+     Seismitoad (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+[AI] Seismitoad (1) is considering using Stomping Tantrum (1) against Prinplup (0)...
+     Seismitoad (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Seismitoad (1) is considering using Rock Slide (1)...
+     Seismitoad (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Prinplup (0)...
+     Seismitoad (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] The opposing Seismitoad (1), Prinplup (0)
+
+"OK, Prinplup! Come back!"
+"You're in charge, Exeggutor!"
+[Use move] The opposing Seismitoad (1) used Stomping Tantrum
+"The opposing Seismitoad used Stomping Tantrum!"
+[HP change] Exeggutor lost 18 HP (117 -> 99)
+"It's not very effective..."
+
+[End of round 5]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Exeggutor (0)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+[AI] Seismitoad (1) is considering using Stomping Tantrum (1) against Exeggutor (0)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+[AI] Seismitoad (1) is considering using Rock Slide (1)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Exeggutor (0)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Poison Jab (target 0): score 5
+   => will use Poison Jab (target 0)
+
+[Round order] The opposing Seismitoad (1), Exeggutor (0)
+
+[Use move] The opposing Seismitoad (1) used Poison Jab
+"The opposing Seismitoad used Poison Jab!"
+[HP change] Exeggutor lost 53 HP (99 -> 46)
+"It's super effective!"
+[HP change] Exeggutor gained 10 HP (46 -> 56)
+"Exeggutor restored a little HP using its Oran Berry!"
+[Item consumed] Exeggutor consumed its held Oran Berry
+[Use move] Exeggutor (0) used Giga Drain
+"Exeggutor used Giga Drain!"
+[HP change] The opposing Seismitoad lost 101 HP (122 -> 21)
+"It's super effective!"
+"The opposing Seismitoad had its energy drained!"
+[HP change] Exeggutor gained 51 HP (56 -> 107)
+"The Rindo Berry weakened the damage to the opposing Seismitoad!"
+[Item consumed] The opposing Seismitoad consumed its held Rindo Berry
+
+[End of round 6]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Exeggutor (0)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+[AI] Seismitoad (1) is considering using Stomping Tantrum (1) against Exeggutor (0)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+[AI] Seismitoad (1) is considering using Rock Slide (1)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Exeggutor (0)...
+     Seismitoad (1)'s highest damaging move vs Exeggutor: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Poison Jab (target 0): score 5
+   => will use Poison Jab (target 0)
+
+[Round order] The opposing Seismitoad (1), Exeggutor (0)
+
+"Exeggutor, come back!"
+"Your opponent's weak! Get 'em, Swellow!"
+[Use move] The opposing Seismitoad (1) used Poison Jab
+"The opposing Seismitoad used Poison Jab!"
+[HP change] Swellow lost 40 HP (90 -> 50)
+
+[End of round 7]
+"Rain continues to fall."
+[HP change] Swellow lost 5 HP (50 -> 45)
+"Swellow was hurt by its burn!"
+[HP change] Swellow gained 10 HP (45 -> 55)
+"Swellow restored a little HP using its Oran Berry!"
+[Item consumed] Swellow consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Swellow (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Swellow (0)...
+     Seismitoad (1)'s highest damaging move vs Swellow: Liquidation
+      + 17 for slow kill
+[AI] Seismitoad (1) is considering using Stomping Tantrum (1) against Swellow (0)...
+     Seismitoad (1)'s highest damaging move vs Swellow: Liquidation
+     move will not affect Swellow (0)
+     -  1: move will fail
+[AI] Seismitoad (1) is considering using Rock Slide (1)...
+     Seismitoad (1)'s highest damaging move vs Swellow: Liquidation
+      + 17 for slow kill
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Swellow (0)...
+     Seismitoad (1)'s highest damaging move vs Swellow: Liquidation
+[AI] Move choices for Seismitoad (1):
+   *  50.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *  50.0% to use Rock Slide: score 18
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Rock Slide
+
+[Round order] Swellow (0), the opposing Seismitoad (1)
+
+[Use move] Swellow (0) used Quick Attack
+"Swellow used Quick Attack!"
+[HP change] The opposing Seismitoad lost 21 HP (21 -> 0)
+"The opposing Seismitoad fainted!"
+"Swellow got 1 Exp. Points!"
+
+[End of round 8]
+"Rain continues to fall."
+[HP change] Swellow lost 5 HP (55 -> 50)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Swellow (0)
+==============================
+     [Pelipper] using Water Pulse vs Swellow does a max of 68/50 damage
+     [Pelipper] using Air Slash vs Swellow does a max of 56/50 damage
+     [Pelipper] using Ice Beam vs Swellow does a max of 88/50 damage
+     [Pelipper] using U-turn vs Swellow does a max of 10/50 damage
+     Swellow (0)'s best move: Flash for 92/90 damage
+==============================
+     Swellow (0) speed (94) vs Pelipper speed: 61
+     [Pelipper] -  9: for target fast kill
+     [Pelipper] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (-9)
+"Fisherman Andrew sent out Pelipper!"
+
+===== Round 9 =====
+
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Air Slash (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+[AI] Pelipper (1) is considering using Ice Beam (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using U-turn (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Water Pulse (target 0): score 18
+   *   0.0% to use Air Slash (target 0): score 0
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Water Pulse (target 0)
+
+[Round order] Swellow (0), the opposing Pelipper (1)
+
+"Swellow, come back!"
+"You're in charge, Exeggutor!"
+[Use move] The opposing Pelipper (1) used Water Pulse
+"The opposing Pelipper used Water Pulse!"
+[HP change] Exeggutor lost 25 HP (107 -> 82)
+"It's not very effective..."
+
+[End of round 9]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Exeggutor (0): 0
+     Threat Score for Exeggutor (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Exeggutor (0)...
+     Pelipper (1)'s highest damaging move vs Exeggutor: Air Slash
+[AI] Pelipper (1) is considering using Air Slash (1) against Exeggutor (0)...
+     Pelipper (1)'s highest damaging move vs Exeggutor: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Ice Beam (1) against Exeggutor (0)...
+     Pelipper (1)'s highest damaging move vs Exeggutor: Air Slash
+[AI] Pelipper (1) is considering using U-turn (1) against Exeggutor (0)...
+     Pelipper (1)'s highest damaging move vs Exeggutor: Air Slash
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   * 100.0% to use Air Slash (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Pelipper (1), Exeggutor (0)
+
+"Exeggutor, switch out! Come back!"
+"You're in charge, Toxicroak!"
+[Use move] The opposing Pelipper (1) used Air Slash
+"The opposing Pelipper used Air Slash!"
+[HP change] Toxicroak lost 86 HP (113 -> 27)
+"It's super effective!"
+[HP change] Toxicroak gained 10 HP (27 -> 37)
+"Toxicroak restored a little HP using its Oran Berry!"
+[Item consumed] Toxicroak consumed its held Oran Berry
+
+[End of round 10]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Air Slash (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+[AI] Pelipper (1) is considering using U-turn (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Water Pulse (target 0): score 18
+   *  50.0% to use Air Slash (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] Toxicroak (0), the opposing Pelipper (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Pelipper lost 14 HP (90 -> 76)
+[Use move] The opposing Pelipper (1) used Air Slash
+"The opposing Pelipper flinched and couldn't move!"
+
+[End of round 11]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Air Slash (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+[AI] Pelipper (1) is considering using U-turn (1) against Toxicroak (0)...
+     Pelipper (1)'s highest damaging move vs Toxicroak: Air Slash
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Water Pulse (target 0): score 18
+   *  50.0% to use Air Slash (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Air Slash (target 0)
+
+[Round order] Toxicroak (0), the opposing Pelipper (1)
+
+"OK, Toxicroak! Come back!"
+"Go for it, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Pelipper's Attack changed by -1 (0 -> -1)
+"The opposing Pelipper's Attack fell!"
+[Use move] The opposing Pelipper (1) used Air Slash
+"The opposing Pelipper used Air Slash!"
+[HP change] Staraptor lost 47 HP (113 -> 66)
+
+[End of round 12]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Staraptor (0)...
+     Pelipper (1)'s highest damaging move vs Staraptor: Ice Beam
+[AI] Pelipper (1) is considering using Air Slash (1) against Staraptor (0)...
+     Pelipper (1)'s highest damaging move vs Staraptor: Ice Beam
+[AI] Pelipper (1) is considering using Ice Beam (1) against Staraptor (0)...
+     Pelipper (1)'s highest damaging move vs Staraptor: Ice Beam
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using U-turn (1) against Staraptor (0)...
+     Pelipper (1)'s highest damaging move vs Staraptor: Ice Beam
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Ice Beam (target 0)
+
+[Round order] Staraptor (0), the opposing Pelipper (1)
+
+[Use move] Staraptor (0) used Take Down
+"Staraptor used Take Down!"
+[HP change] The opposing Pelipper lost 49 HP (76 -> 27)
+[HP change] Staraptor lost 12 HP (66 -> 54)
+"Staraptor is damaged by recoil!"
+[HP change] Staraptor gained 10 HP (54 -> 64)
+"Staraptor restored a little HP using its Oran Berry!"
+[Item consumed] Staraptor consumed its held Oran Berry
+[Use move] The opposing Pelipper (1) used Ice Beam
+"The opposing Pelipper used Ice Beam!"
+[HP change] Staraptor lost 64 HP (64 -> 0)
+"It's super effective!"
+"Staraptor fainted!"
+
+[End of round 13]
+"Rain continues to fall."
+Trick Room Turns: 0
+"Just a little more! Hang in there, Swellow!"
+
+===== Round 14 =====
+
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Air Slash (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Ice Beam (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using U-turn (1) against Swellow (0)...
+     Pelipper (1)'s highest damaging move vs Swellow: Ice Beam
+[AI] Move choices for Pelipper (1):
+   *  33.3% to use Water Pulse (target 0): score 18
+   *  33.3% to use Air Slash (target 0): score 18
+   *  33.3% to use Ice Beam (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Ice Beam (target 0)
+
+[Round order] Swellow (0), the opposing Pelipper (1)
+
+[Use move] Swellow (0) used Aerial Ace
+"Swellow used Aerial Ace!"
+[HP change] The opposing Pelipper lost 27 HP (27 -> 0)
+"The opposing Pelipper fainted!"
+"Toxicroak got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Fisherman Andrew!"
+"Wow. You're great!"
+
+"You got $1,056 for winning!"
