@@ -307269,3 +307269,3293 @@ Set up score for Exeggutor (0): 0
 "Wow. You're great!"
 
 "You got $1,056 for winning!"
+Roles for KILOWATTREL: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for JUMPLUFF: [:PHYSICALBREAKER]
+Roles for TALONFLAME: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SIGILYPH: [:SPECIALBREAKER, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bird Keeper Alexandra!"
+"Bird Keeper Alexandra sent out Kilowattrel!"
+"Go! Chimecho!"
+[Round order] The opposing Kilowattrel (1), Chimecho (0)
+
+===== Round 1 =====
+
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Kilowattrel (1) is considering using U-turn (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Move choices for Kilowattrel (1):
+   * 100.0% to use Discharge: score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Discharge
+
+[Round order] The opposing Kilowattrel (1), Chimecho (0)
+
+[Use move] The opposing Kilowattrel (1) used Discharge
+"The opposing Kilowattrel used Discharge!"
+[HP change] Chimecho lost 34 HP (106 -> 72)
+"Chimecho is paralyzed! It may be unable to move!"
+[Status change] Chimecho's status was cured
+"Chimecho's Cheri Berry cured its paralysis!"
+[Item consumed] Chimecho consumed its held Cheri Berry
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Kilowattrel lost 40 HP (96 -> 56)
+"The opposing Kilowattrel had its energy drained!"
+[HP change] Chimecho gained 30 HP (72 -> 102)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Kilowattrel (1) is considering using U-turn (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Move choices for Kilowattrel (1):
+   * 100.0% to use Discharge: score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Discharge
+
+[Round order] The opposing Kilowattrel (1), Chimecho (0)
+
+[Use move] The opposing Kilowattrel (1) used Discharge
+"The opposing Kilowattrel used Discharge!"
+[HP change] Chimecho lost 36 HP (102 -> 66)
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Kilowattrel lost 43 HP (56 -> 13)
+"The opposing Kilowattrel had its energy drained!"
+[HP change] Chimecho gained 32 HP (66 -> 98)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Kilowattrel (1): 0
+Set up score for Kilowattrel (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kilowattrel (1) is considering using Discharge (1)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+     + 4 to prioritize highest damaging move
+[AI] Kilowattrel (1) is considering using Air Slash (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Kilowattrel (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+[AI] Kilowattrel (1) is considering using U-turn (1) against Chimecho (0)...
+     Kilowattrel (1)'s highest damaging move vs Chimecho: Discharge
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Kilowattrel (1):
+   *  50.0% to use Discharge: score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Chimecho (0), the opposing Kilowattrel (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Kilowattrel lost 13 HP (13 -> 0)
+"The opposing Kilowattrel fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Jumpluff] using Return vs Chimecho does a max of 7/98 damage
+     [Jumpluff] using Seed Bomb vs Chimecho does a max of 30/98 damage
+     [Jumpluff] using Quick Attack vs Chimecho does a max of 12/98 damage
+     Chimecho (0)'s best move: Psybeam for 41/102 damage
+==============================
+     Chimecho (0) speed (70) vs Jumpluff speed: 95
+     [Jumpluff] final Switch score: 0
+==============================
+     [Talonflame] using Dual Wingbeat vs Chimecho does a max of 39/98 damage
+     [Talonflame] using Solar Wings vs Chimecho does a max of 50/98 damage
+     [Talonflame] using Steel Wing vs Chimecho does a max of 46/98 damage
+     [Talonflame] using U-turn vs Chimecho does a max of 23/98 damage
+     Chimecho (0)'s best move: Psybeam for 50/107 damage
+==============================
+     Chimecho (0) speed (70) vs Talonflame speed: 111
+     [Talonflame] +  6: for fast 2HKO
+     [Talonflame] final Switch score: 6
+==============================
+     [Sigilyph] using Psychic vs Chimecho does a max of 20/98 damage
+     [Sigilyph] using Air Slash vs Chimecho does a max of 35/98 damage
+     [Sigilyph] using Charge Beam vs Chimecho does a max of 16/98 damage
+     Chimecho (0)'s best move: Draining Kiss for 35/100 damage
+==============================
+     Chimecho (0) speed (70) vs Sigilyph speed: 86
+     [Sigilyph] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (6)
+"Bird Keeper Alexandra sent out Talonflame!"
+
+===== Round 4 =====
+
+Set up score for Talonflame (1): 0
+Set up score for Talonflame (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Talonflame (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Talonflame (1)'s highest damaging move vs Chimecho: Solar Wings
+[AI] Talonflame (1) is considering using Solar Wings (1) against Chimecho (0)...
+     Talonflame (1)'s highest damaging move vs Chimecho: Solar Wings
+     + 4 to prioritize highest damaging move
+[AI] Talonflame (1) is considering using Steel Wing (1) against Chimecho (0)...
+     Talonflame (1)'s highest damaging move vs Chimecho: Solar Wings
+[AI] Talonflame (1) is considering using U-turn (1) against Chimecho (0)...
+     Talonflame (1)'s highest damaging move vs Chimecho: Solar Wings
+[AI] Move choices for Talonflame (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Solar Wings (target 0): score 5
+   *   0.0% to use Steel Wing (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Solar Wings (target 0)
+
+[Round order] The opposing Talonflame (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Boldore!"
+[Use move] The opposing Talonflame (1) used Solar Wings
+"The opposing Talonflame used Solar Wings!"
+[HP change] Boldore lost 22 HP (101 -> 79)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Talonflame (1): 0
+Set up score for Talonflame (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Boldore (0): 0
+     Threat Score for Boldore (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Talonflame (1) is considering using Dual Wingbeat (1) against Boldore (0)...
+     Talonflame (1)'s highest damaging move vs Boldore: Steel Wing
+[AI] Talonflame (1) is considering using Solar Wings (1) against Boldore (0)...
+     Talonflame (1)'s highest damaging move vs Boldore: Steel Wing
+[AI] Talonflame (1) is considering using Steel Wing (1) against Boldore (0)...
+     Talonflame (1)'s highest damaging move vs Boldore: Steel Wing
+     + 4 to prioritize highest damaging move
+[AI] Talonflame (1) is considering using U-turn (1) against Boldore (0)...
+     Talonflame (1)'s highest damaging move vs Boldore: Steel Wing
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Talonflame (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Solar Wings (target 0): score 0
+   *  50.0% to use Steel Wing (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Steel Wing (target 0)
+
+[Round order] The opposing Talonflame (1), Boldore (0)
+
+[Use move] The opposing Talonflame (1) used Steel Wing
+"The opposing Talonflame used Steel Wing!"
+[HP change] Boldore lost 39 HP (79 -> 40)
+"It's super effective!"
+[HP change] Boldore gained 10 HP (40 -> 50)
+"Boldore restored a little HP using its Oran Berry!"
+[Item consumed] Boldore consumed its held Oran Berry
+[Use move] Boldore (0) used Rock Slide
+"Boldore used Rock Slide!"
+[HP change] The opposing Talonflame lost 107 HP (107 -> 0)
+"It's super effective!"
+"The opposing Talonflame fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Jumpluff] using Return vs Boldore does a max of 3/50 damage
+     [Jumpluff] using Seed Bomb vs Boldore does a max of 54/50 damage
+     [Jumpluff] using Quick Attack vs Boldore does a max of 6/50 damage
+     Boldore (0)'s best move: Rock Slide for 114/102 damage
+==============================
+     Boldore (0) speed (29) vs Jumpluff speed: 95
+     [Jumpluff] + 12: for fast kill
+     [Jumpluff] final Switch score: 12
+==============================
+     [Sigilyph] using Psychic vs Boldore does a max of 96/50 damage
+     [Sigilyph] using Air Slash vs Boldore does a max of 40/50 damage
+     [Sigilyph] using Charge Beam vs Boldore does a max of 36/50 damage
+     Boldore (0)'s best move: Rock Slide for 105/100 damage
+==============================
+     Boldore (0) speed (29) vs Sigilyph speed: 86
+     [Sigilyph] + 12: for fast kill
+     [Sigilyph] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Bird Keeper Alexandra sent out Jumpluff!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Jumpluff (1): 0
+Set up score for Jumpluff (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Boldore (0): 0
+     Threat Score for Boldore (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jumpluff (1) is considering using Return (1) against Boldore (0)...
+     Jumpluff (1)'s highest damaging move vs Boldore: Seed Bomb
+[AI] Jumpluff (1) is considering using Seed Bomb (1) against Boldore (0)...
+     Jumpluff (1)'s highest damaging move vs Boldore: Seed Bomb
+      + 20 for fast kill
+[AI] Jumpluff (1) is considering using Quick Attack (1) against Boldore (0)...
+     Jumpluff (1)'s highest damaging move vs Boldore: Seed Bomb
+[AI] Jumpluff (1) is considering using Sleep Powder (4) against Boldore (0)...
+     Jumpluff (1)'s highest damaging move vs Boldore: Seed Bomb
+     - 3 because this will be pointless
+[AI] Move choices for Jumpluff (1):
+   *   0.0% to use Return (target 0): score 0
+   * 100.0% to use Seed Bomb (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] The opposing Jumpluff (1), Boldore (0)
+
+"OK, Boldore! Come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Jumpluff (1) used Seed Bomb
+"The opposing Jumpluff used Seed Bomb!"
+[HP change] Sandslash lost 9 HP (101 -> 92)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Jumpluff (1): 0
+Set up score for Jumpluff (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jumpluff (1) is considering using Return (1) against Sandslash (0)...
+     Jumpluff (1)'s highest damaging move vs Sandslash: Seed Bomb
+[AI] Jumpluff (1) is considering using Seed Bomb (1) against Sandslash (0)...
+     Jumpluff (1)'s highest damaging move vs Sandslash: Seed Bomb
+     + 4 to prioritize highest damaging move
+[AI] Jumpluff (1) is considering using Quick Attack (1) against Sandslash (0)...
+     Jumpluff (1)'s highest damaging move vs Sandslash: Seed Bomb
+     + 9 to get a last ditch hit off.
+[AI] Jumpluff (1) is considering using Sleep Powder (4) against Sandslash (0)...
+     Jumpluff (1)'s highest damaging move vs Sandslash: Seed Bomb
+     - 3 because this will be pointless
+[AI] Move choices for Jumpluff (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Seed Bomb (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Jumpluff (1), Sandslash (0)
+
+[Use move] The opposing Jumpluff (1) used Quick Attack
+"The opposing Jumpluff used Quick Attack!"
+[HP change] Sandslash lost 7 HP (92 -> 85)
+"It's not very effective..."
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Jumpluff lost 12 HP (102 -> 90)
+"The opposing Jumpluff is hurt!"
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Jumpluff lost 90 HP (90 -> 0)
+"It's super effective!"
+"The opposing Jumpluff fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Sigilyph] using Psychic vs Sandslash does a max of 34/85 damage
+     [Sigilyph] using Air Slash vs Sandslash does a max of 28/85 damage
+     [Sigilyph] using Charge Beam vs Sandslash does a max of 25/85 damage
+     Sandslash (0)'s best move: Icicle Crash for 108/100 damage
+==============================
+     Sandslash (0) speed (59) vs Sigilyph speed: 86
+     [Sigilyph] -  7: for target slow kill
+     [Sigilyph] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Bird Keeper Alexandra sent out Sigilyph!"
+
+===== Round 8 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sigilyph (1) is considering using Psychic (1) against Sandslash (0)...
+     Sigilyph (1)'s highest damaging move vs Sandslash: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Sigilyph (1) is considering using Air Slash (1) against Sandslash (0)...
+     Sigilyph (1)'s highest damaging move vs Sandslash: Psychic
+[AI] Sigilyph (1) is considering using Charge Beam (1) against Sandslash (0)...
+     Sigilyph (1)'s highest damaging move vs Sandslash: Psychic
+[AI] Sigilyph (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Sigilyph (1):
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Charge Beam (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Sigilyph (1), Sandslash (0)
+
+[Use move] The opposing Sigilyph (1) used Psychic
+"The opposing Sigilyph used Psychic!"
+[HP change] Sandslash lost 30 HP (85 -> 55)
+"It's not very effective..."
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Sigilyph lost 100 HP (100 -> 0)
+"It's super effective!"
+"The opposing Sigilyph fainted!"
+
+===== Player won =====
+
+"You defeated Bird Keeper Alexandra!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for ROSELIA: [:SPECIALBREAKER]
+Roles for TSAREENA: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for EXEGGUTOR: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Jenna!"
+"Aroma Lady Jenna sent out Roselia!"
+"Go! Sandslash!"
+[Round order] The opposing Roselia (1), Sandslash (0)
+
+===== Round 1 =====
+
+     move will not affect Sandslash (0)
+Set up score for Roselia (1): 0
+Set up score for Roselia (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Roselia (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Roselia (1)'s highest damaging move vs Sandslash: Giga Drain
+     + 4 to prioritize highest damaging move
+[AI] Roselia (1) is considering using Sludge Bomb (1) against Sandslash (0)...
+     Roselia (1)'s highest damaging move vs Sandslash: Giga Drain
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Roselia (1) is considering using Dazzling Gleam (1)...
+     Roselia (1)'s highest damaging move vs Sandslash: Giga Drain
+[AI] Roselia (1) is considering using Sleep Powder (4) against Sandslash (0)...
+     Roselia (1)'s highest damaging move vs Sandslash: Giga Drain
+     - 3 because this will be pointless
+[AI] Move choices for Roselia (1):
+   * 100.0% to use Giga Drain (target 0): score 5
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Sleep Powder (target 0): score 0
+   => will use Giga Drain (target 0)
+
+[Round order] The opposing Roselia (1), Sandslash (0)
+
+[Use move] The opposing Roselia (1) used Giga Drain
+"The opposing Roselia used Giga Drain!"
+[HP change] Sandslash lost 26 HP (101 -> 75)
+"It's not very effective..."
+"Sandslash had its energy drained!"
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Roselia lost 86 HP (86 -> 0)
+"It's super effective!"
+"The opposing Roselia fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Sandslash (0)
+==============================
+     [Tsareena] using Trop Kick vs Sandslash does a max of 20/75 damage
+     [Tsareena] using Triple Axel vs Sandslash does a max of 11/75 damage
+     [Tsareena] using U-turn vs Sandslash does a max of 12/75 damage
+     Sandslash (0)'s best move: Icicle Crash for 90/103 damage
+==============================
+     Sandslash (0) speed (59) vs Tsareena speed: 70
+     [Tsareena] final Switch score: 0
+==============================
+     [Exeggutor] using Giga Drain vs Sandslash does a max of 35/75 damage
+     [Exeggutor] using Dragon Pulse vs Sandslash does a max of 40/75 damage
+     [Exeggutor] using Flamethrower vs Sandslash does a max of 228/75 damage
+     [Exeggutor] using Hidden Power vs Sandslash does a max of 38/75 damage
+     Sandslash (0)'s best move: Icicle Crash for 204/115 damage
+==============================
+     Sandslash (0) speed (59) vs Exeggutor speed: 44
+     [Exeggutor] +  3: for outdamage
+     [Exeggutor] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Aroma Lady Jenna sent out Exeggutor!"
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Exeggutor (1): 0
+Set up score for Exeggutor (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Exeggutor (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Exeggutor (1)'s highest damaging move vs Sandslash: Flamethrower
+[AI] Exeggutor (1) is considering using Dragon Pulse (1) against Sandslash (0)...
+     Exeggutor (1)'s highest damaging move vs Sandslash: Flamethrower
+[AI] Exeggutor (1) is considering using Flamethrower (1) against Sandslash (0)...
+     Exeggutor (1)'s highest damaging move vs Sandslash: Flamethrower
+      + 17 for slow kill
+[AI] Exeggutor (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Exeggutor (1)'s highest damaging move vs Sandslash: Flamethrower
+[AI] Move choices for Exeggutor (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Sandslash (0), the opposing Exeggutor (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Exeggutor lost 115 HP (115 -> 0)
+"It's super effective!"
+"The opposing Exeggutor fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Tsareena] using Trop Kick vs Sandslash does a max of 20/75 damage
+     [Tsareena] using Triple Axel vs Sandslash does a max of 11/75 damage
+     [Tsareena] using U-turn vs Sandslash does a max of 12/75 damage
+     Sandslash (0)'s best move: Icicle Crash for 90/103 damage
+==============================
+     Sandslash (0) speed (59) vs Tsareena speed: 70
+     [Tsareena] final Switch score: 0
+[AI] Highest move score (18) vs Switch In Score (0)
+"Aroma Lady Jenna sent out Tsareena!"
+
+===== Round 3 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tsareena (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Tsareena (1)'s highest damaging move vs Sandslash: Trop Kick
+     + 4 to prioritize highest damaging move
+[AI] Tsareena (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Tsareena (1)'s highest damaging move vs Sandslash: Trop Kick
+[AI] Tsareena (1) is considering using U-turn (1) against Sandslash (0)...
+     Tsareena (1)'s highest damaging move vs Sandslash: Trop Kick
+[AI] Move choices for Tsareena (1):
+   * 100.0% to use Trop Kick (target 0): score 5
+   *   0.0% to use Triple Axel (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Trop Kick (target 0)
+
+[Round order] The opposing Tsareena (1), Sandslash (0)
+
+[Use move] The opposing Tsareena (1) used Trop Kick
+"The opposing Tsareena used Trop Kick!"
+[HP change] Sandslash lost 20 HP (75 -> 55)
+"It's not very effective..."
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Tsareena lost 12 HP (103 -> 91)
+"The opposing Tsareena is hurt!"
+[Stat change] Sandslash's Attack changed by -1 (0 -> -1)
+"Sandslash's Attack fell!"
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Tsareena lost 53 HP (91 -> 38)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Sandslash (0): -1
+     Threat Score for Sandslash (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tsareena (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Tsareena (1)'s highest damaging move vs Sandslash: Trop Kick
+     + 4 to prioritize highest damaging move
+[AI] Tsareena (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Tsareena (1)'s highest damaging move vs Sandslash: Trop Kick
+[AI] Tsareena (1) is considering using U-turn (1) against Sandslash (0)...
+     Tsareena (1)'s highest damaging move vs Sandslash: Trop Kick
+[AI] Move choices for Tsareena (1):
+   * 100.0% to use Trop Kick (target 0): score 5
+   *   0.0% to use Triple Axel (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Trop Kick (target 0)
+
+[Round order] The opposing Tsareena (1), Sandslash (0)
+
+[Use move] The opposing Tsareena (1) used Trop Kick
+"The opposing Tsareena used Trop Kick!"
+[HP change] Sandslash lost 20 HP (55 -> 35)
+"It's not very effective..."
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Tsareena lost 12 HP (38 -> 26)
+"The opposing Tsareena is hurt!"
+[Stat change] Sandslash's Attack changed by -1 (-1 -> -2)
+"Sandslash's Attack fell!"
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Tsareena lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Tsareena fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Jenna!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for MEGANIUM: [:SCREENS]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Caroline!"
+"Picnicker Caroline sent out Venusaur!"
+"Go! Flamigo!"
+[Round order] Flamigo (0), the opposing Venusaur (1)
+
+===== Round 1 =====
+
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+     - 3 because this will be pointless
+[AI] Venusaur (1) is considering using Giga Drain (1) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Flamigo (0), the opposing Venusaur (1)
+
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Venusaur lost 47 HP (108 -> 61)
+[HP change] The opposing Venusaur lost 47 HP (61 -> 14)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Venusaur (1) used Sludge Bomb
+"The opposing Venusaur used Sludge Bomb!"
+[HP change] Flamigo lost 61 HP (106 -> 45)
+
+[End of round 1]
+[HP change] The opposing Venusaur gained 6 HP (14 -> 20)
+"The opposing Venusaur restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Venusaur (1) is considering using Sleep Powder (4) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Venusaur (1) is considering using Giga Drain (1) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+      + 17 for slow kill
+[AI] Venusaur (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Venusaur (1)'s highest damaging move vs Flamigo: Sludge Bomb
+[AI] Move choices for Venusaur (1):
+   *   0.0% to use Sleep Powder (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Flamigo (0), the opposing Venusaur (1)
+
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Venusaur lost 20 HP (20 -> 0)
+"The opposing Venusaur fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Meganium] using Energy Ball vs Flamigo does a max of 28/45 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 78/106 damage
+==============================
+     Flamigo (0) speed (82) vs Meganium speed: 68
+     [Meganium] -  5: for target having fast 2HKO and us having no kill
+     [Meganium] final Switch score: -5
+==============================
+     [Decidueye] using Leaf Blade vs Flamigo does a max of 35/45 damage
+     [Decidueye] using Spirit Shackle vs Flamigo does a max of 62/45 damage
+     [Decidueye] using Shadow Sneak vs Flamigo does a max of 32/45 damage
+     [Decidueye] using Smack Down vs Flamigo does a max of 26/45 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 105/107 damage
+==============================
+     Flamigo (0) speed (82) vs Decidueye speed: 91
+     [Decidueye] + 12: for fast kill
+     [Decidueye] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Picnicker Caroline sent out Decidueye!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Flamigo (0)...
+     Decidueye (1)'s highest damaging move vs Flamigo: Spirit Shackle
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Flamigo (0)...
+     Decidueye (1)'s highest damaging move vs Flamigo: Spirit Shackle
+      + 20 for fast kill
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Flamigo (0)...
+     Decidueye (1)'s highest damaging move vs Flamigo: Spirit Shackle
+[AI] Decidueye (1) is considering using Smack Down (1) against Flamigo (0)...
+     Decidueye (1)'s highest damaging move vs Flamigo: Spirit Shackle
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use Spirit Shackle (target 0): score 21
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Spirit Shackle (target 0)
+
+[Round order] The opposing Decidueye (1), Flamigo (0)
+
+"OK, Flamigo! Come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Decidueye (1) used Spirit Shackle
+"The opposing Decidueye used Spirit Shackle!"
+[HP change] Sandslash lost 35 HP (101 -> 66)
+"Sandslash can no longer escape!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Sandslash (0)...
+     Decidueye (1)'s highest damaging move vs Sandslash: Spirit Shackle
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Sandslash (0)...
+     Decidueye (1)'s highest damaging move vs Sandslash: Spirit Shackle
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Sandslash (0)...
+     Decidueye (1)'s highest damaging move vs Sandslash: Spirit Shackle
+     + 9 to get a last ditch hit off.
+[AI] Decidueye (1) is considering using Smack Down (1) against Sandslash (0)...
+     Decidueye (1)'s highest damaging move vs Sandslash: Spirit Shackle
+[AI] Move choices for Decidueye (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Decidueye (1), Sandslash (0)
+
+[Use move] The opposing Decidueye (1) used Shadow Sneak
+"The opposing Decidueye used Shadow Sneak!"
+[HP change] Sandslash lost 18 HP (66 -> 48)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Decidueye lost 13 HP (107 -> 94)
+"The opposing Decidueye is hurt!"
+[HP change] Sandslash gained 10 HP (48 -> 58)
+"Sandslash restored a little HP using its Oran Berry!"
+[Item consumed] Sandslash consumed its held Oran Berry
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Decidueye lost 94 HP (94 -> 0)
+"It's super effective!"
+"The opposing Decidueye fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Meganium] using Energy Ball vs Sandslash does a max of 29/58 damage
+     [Meganium] using Earth Power vs Sandslash does a max of 76/58 damage
+     Sandslash (0)'s best move: Icicle Crash for 81/106 damage
+==============================
+     Sandslash (0) speed (59) vs Meganium speed: 68
+     [Meganium] + 12: for fast kill
+     [Meganium] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Picnicker Caroline sent out Meganium!"
+
+===== Round 5 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Sandslash (0)...
+     Meganium (1)'s highest damaging move vs Sandslash: Earth Power
+[AI] Meganium (1) is considering using Earth Power (1) against Sandslash (0)...
+     Meganium (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 9 based on enemy and special enemy count
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Meganium (1), Sandslash (0)
+
+"Sandslash, come back!"
+"You're in charge, Flamigo!"
+[Use move] The opposing Meganium (1) used Earth Power
+"The opposing Meganium used Earth Power!"
+[Target immune] Flamigo's type immunity
+"It doesn't affect Flamigo..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Flamigo (0)...
+     Meganium (1)'s highest damaging move vs Flamigo: Energy Ball
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Earth Power (1) against Flamigo (0)...
+     Meganium (1)'s highest damaging move vs Flamigo: Energy Ball
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+[AI] Meganium (1) is considering using Light Screen (4)...
+     + 9 based on enemy and special enemy count
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *  50.0% to use Reflect: score 13
+   *  50.0% to use Light Screen: score 13
+   => will use Light Screen
+
+[Round order] Flamigo (0), the opposing Meganium (1)
+
+[Use move] Flamigo (0) used Roost
+"Flamigo used Roost!"
+[HP change] Flamigo gained 53 HP (45 -> 98)
+"Flamigo's HP was restored."
+[Use move] The opposing Meganium (1) used Light Screen
+"The opposing Meganium used Light Screen!"
+"Light Screen raised the opposing team's Special Defense!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Flamigo (0)...
+     Meganium (1)'s highest damaging move vs Flamigo: Energy Ball
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Earth Power (1) against Flamigo (0)...
+     Meganium (1)'s highest damaging move vs Flamigo: Energy Ball
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Meganium (1) is considering using Reflect (4)...
+     + 9 based on enemy and physical enemy count
+[AI] Meganium (1) is considering using Light Screen...
+     +  1: move will fail
+[AI] Move choices for Meganium (1):
+   *   0.0% to use Energy Ball (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   * 100.0% to use Reflect: score 13
+   *   0.0% to use Light Screen: score 0
+   => will use Reflect
+
+[Round order] Flamigo (0), the opposing Meganium (1)
+
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Meganium lost 37 HP (106 -> 69)
+[HP change] The opposing Meganium lost 41 HP (69 -> 28)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Meganium (1) used Reflect
+"The opposing Meganium used Reflect!"
+"Reflect raised the opposing team's Defense!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meganium (1) is considering using Energy Ball (1) against Flamigo (0)...
+     Meganium (1)'s highest damaging move vs Flamigo: Energy Ball
+     + 4 to prioritize highest damaging move
+[AI] Meganium (1) is considering using Earth Power (1) against Flamigo (0)...
+     Meganium (1)'s highest damaging move vs Flamigo: Energy Ball
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Meganium (1) is considering using Reflect...
+     +  1: move will fail
+[AI] Meganium (1) is considering using Light Screen...
+     +  1: move will fail
+[AI] Move choices for Meganium (1):
+   * 100.0% to use Energy Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Reflect: score 0
+   *   0.0% to use Light Screen: score 0
+   => will use Energy Ball (target 0)
+
+[Round order] Flamigo (0), the opposing Meganium (1)
+
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Meganium lost 20 HP (28 -> 8)
+[HP change] The opposing Meganium lost 8 HP (8 -> 0)
+"The opposing Meganium fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+===== Player won =====
+
+"You defeated Picnicker Caroline!"
+"Wow. You're great!"
+
+"You got $544 for winning!"
+Roles for TREVENANT: [:PHYSICALBREAKER, :SPEEDCONTROL, :WEATHERTERRAINABUSER]
+Roles for TROPIUS: [:PHYSICALBREAKER, :SPEEDCONTROL, :TANK, :WEATHERTERRAINABUSER]
+Roles for CRADILY: [:SPECIALBREAKER]
+Roles for LILLIGANT: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Angela!"
+"Aroma Lady Angela sent out Trevenant!"
+"Go! Houndoom!"
+[Round order] Houndoom (0), the opposing Trevenant (1)
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+     move will not affect Houndoom (0)
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Houndoom (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+     move will not affect Houndoom (0)
+     -  4: move will fail
+[AI] Trevenant (1) is considering using Horn Leech (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Horn Leech (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Shadow Claw (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Houndoom (0), the opposing Trevenant (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Trevenant lost 70 HP (112 -> 42)
+"It's super effective!"
+[Use move] The opposing Trevenant (1) used Bulldoze
+"The opposing Trevenant used Bulldoze!"
+[HP change] Houndoom lost 80 HP (105 -> 25)
+"It's super effective!"
+[HP change] Houndoom gained 10 HP (25 -> 35)
+"Houndoom restored a little HP using its Oran Berry!"
+[Item consumed] Houndoom consumed its held Oran Berry
+[Stat change] Houndoom's Speed changed by -1 (0 -> -1)
+"Houndoom's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): -1
+     Threat Score for Houndoom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+     move will not affect Houndoom (0)
+     -  4: move will fail
+[AI] Trevenant (1) is considering using Horn Leech (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+      + 17 for slow kill
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+      + 17 for slow kill
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+      + 17 for slow kill
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *  33.3% to use Horn Leech (target 0): score 18
+   *  33.3% to use Bulldoze: score 18
+   *  33.3% to use Shadow Claw (target 0): score 18
+   => will use Bulldoze
+
+[Round order] Houndoom (0), the opposing Trevenant (1)
+
+"OK, Houndoom! Come back!"
+[HP change] The opposing Trevenant gained 28 HP (42 -> 70)
+"The opposing Trevenant restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Trevenant consumed its held Sitrus Berry
+"Go for it, Flamigo!"
+[Use move] The opposing Trevenant (1) used Bulldoze
+"The opposing Trevenant used Bulldoze!"
+[Target immune] Flamigo's type immunity
+"It doesn't affect Flamigo..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Flamigo (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Flamigo (0)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+     - 3 because this will be pointless
+[AI] Trevenant (1) is considering using Horn Leech (1) against Flamigo (0)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Flamigo (0)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Horn Leech (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Shadow Claw (target 0): score 5
+   => will use Shadow Claw (target 0)
+
+[Round order] Flamigo (0), the opposing Trevenant (1)
+
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Trevenant lost 51 HP (70 -> 19)
+[HP change] The opposing Trevenant lost 19 HP (19 -> 0)
+"The opposing Trevenant fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Flamigo (0)
+==============================
+     [Tropius] using Leaf Blade vs Flamigo does a max of 26/106 damage
+     [Tropius] using Dual Wingbeat vs Flamigo does a max of 93/106 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 99/118 damage
+==============================
+     Flamigo (0) speed (82) vs Tropius speed: 48
+     [Tropius] -  5: for target having fast 2HKO and us having no kill
+     [Tropius] final Switch score: -5
+==============================
+     [Cradily] using Giga Drain vs Flamigo does a max of 24/106 damage
+     [Cradily] using Power Gem vs Flamigo does a max of 51/106 damage
+     Flamigo (0)'s best move: Double Kick for 66/109 damage
+==============================
+     Flamigo (0) speed (82) vs Cradily speed: 43
+     [Cradily] -  5: for target having fast 2HKO and us having no kill
+     [Cradily] final Switch score: -5
+==============================
+     [Lilligant] using Trop Kick vs Flamigo does a max of 32/106 damage
+     [Lilligant] using Brick Break vs Flamigo does a max of 28/106 damage
+     [Lilligant] using Triple Axel vs Flamigo does a max of 140/106 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 210/102 damage
+==============================
+     Flamigo (0) speed (82) vs Lilligant speed: 94
+     [Lilligant] + 12: for fast kill
+     [Lilligant] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Aroma Lady Angela sent out Lilligant!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Brick Break (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Flamigo (0)
+
+"Flamigo, come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Sandslash lost 2 HP (101 -> 99)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (102 -> 90)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 3 HP (99 -> 96)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (90 -> 78)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 5 HP (96 -> 91)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (78 -> 66)
+"The opposing Lilligant is hurt!"
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Lilligant (1) is considering using Brick Break (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Triple Axel (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Lilligant (1), Sandslash (0)
+
+"Sandslash, switch out! Come back!"
+"Go for it, Flamigo!"
+[Use move] The opposing Lilligant (1) used Brick Break
+"The opposing Lilligant used Brick Break!"
+[HP change] Flamigo lost 24 HP (106 -> 82)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Brick Break (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Flamigo (0)
+
+"Flamigo, switch out! Come back!"
+"Go for it, Sandslash!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Sandslash lost 2 HP (91 -> 89)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (66 -> 54)
+"The opposing Lilligant is hurt!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Lilligant's attack missed!"
+"Hit 1 time!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Lilligant (1) is considering using Brick Break (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Triple Axel (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Lilligant (1), Sandslash (0)
+
+"Sandslash, switch out! Come back!"
+"Go for it, Flamigo!"
+[Use move] The opposing Lilligant (1) used Brick Break
+"The opposing Lilligant used Brick Break!"
+[HP change] Flamigo lost 24 HP (82 -> 58)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Brick Break (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Flamigo (0)
+
+"Flamigo, switch out! Come back!"
+"Go for it, Sandslash!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Sandslash lost 2 HP (89 -> 87)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (54 -> 42)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 3 HP (87 -> 84)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (42 -> 30)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 5 HP (84 -> 79)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (30 -> 18)
+"The opposing Lilligant is hurt!"
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Lilligant (1) is considering using Brick Break (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Triple Axel (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] Sandslash (0), the opposing Lilligant (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Lilligant lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Lilligant fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Tropius] using Leaf Blade vs Sandslash does a max of 15/79 damage
+     [Tropius] using Dual Wingbeat vs Sandslash does a max of 14/79 damage
+     [Tropius] using Bulldoze vs Sandslash does a max of 28/79 damage
+     Sandslash (0)'s best move: Icicle Crash for 210/118 damage
+==============================
+     Sandslash (0) speed (59) vs Tropius speed: 48
+     [Tropius] -  9: for target fast kill
+     [Tropius] final Switch score: -9
+==============================
+     [Cradily] using Giga Drain vs Sandslash does a max of 26/79 damage
+     [Cradily] using Power Gem vs Sandslash does a max of 54/79 damage
+     [Cradily] using Hidden Power vs Sandslash does a max of 54/79 damage
+     Sandslash (0)'s best move: Icicle Crash for 93/109 damage
+==============================
+     Sandslash (0) speed (59) vs Cradily speed: 43
+     [Cradily] -  5: for target having fast 2HKO and us having no kill
+     [Cradily] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (-5)
+"Aroma Lady Angela sent out Cradily!"
+
+===== Round 10 =====
+
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Cradily (1)'s highest damaging move vs Sandslash: Power Gem
+[AI] Cradily (1) is considering using Power Gem (1) against Sandslash (0)...
+     Cradily (1)'s highest damaging move vs Sandslash: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Cradily (1)'s highest damaging move vs Sandslash: Power Gem
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Power Gem (target 0)
+
+[Round order] Sandslash (0), the opposing Cradily (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Cradily lost 88 HP (109 -> 21)
+"It's super effective!"
+[Use move] The opposing Cradily (1) used Power Gem
+"The opposing Cradily used Power Gem!"
+[HP change] Sandslash lost 79 HP (79 -> 0)
+"A critical hit!"
+"Sandslash fainted!"
+Roles for TREVENANT: [:PHYSICALBREAKER, :SPEEDCONTROL, :WEATHERTERRAINABUSER]
+Roles for TROPIUS: [:PHYSICALBREAKER, :SPEEDCONTROL, :TANK, :WEATHERTERRAINABUSER]
+Roles for CRADILY: [:SPECIALBREAKER]
+Roles for LILLIGANT: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Angela!"
+"Aroma Lady Angela sent out Trevenant!"
+"Go! Houndoom!"
+[Round order] Houndoom (0), the opposing Trevenant (1)
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+     move will not affect Houndoom (0)
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Houndoom (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+     move will not affect Houndoom (0)
+     -  4: move will fail
+[AI] Trevenant (1) is considering using Horn Leech (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Horn Leech (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Shadow Claw (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Houndoom (0), the opposing Trevenant (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Trevenant lost 71 HP (112 -> 41)
+"It's super effective!"
+[Use move] The opposing Trevenant (1) used Bulldoze
+"The opposing Trevenant used Bulldoze!"
+[HP change] Houndoom lost 88 HP (105 -> 17)
+"It's super effective!"
+[HP change] Houndoom gained 10 HP (17 -> 27)
+"Houndoom restored a little HP using its Oran Berry!"
+[Item consumed] Houndoom consumed its held Oran Berry
+[Stat change] Houndoom's Speed changed by -1 (0 -> -1)
+"Houndoom's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): -1
+     Threat Score for Houndoom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+     move will not affect Houndoom (0)
+     -  4: move will fail
+[AI] Trevenant (1) is considering using Horn Leech (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+      + 17 for slow kill
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+      + 17 for slow kill
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Houndoom (0)...
+     Trevenant (1)'s highest damaging move vs Houndoom: Bulldoze
+      + 17 for slow kill
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *  33.3% to use Horn Leech (target 0): score 18
+   *  33.3% to use Bulldoze: score 18
+   *  33.3% to use Shadow Claw (target 0): score 18
+   => will use Bulldoze
+
+[Round order] The opposing Trevenant (1), Houndoom (0)
+
+"OK, Houndoom! Come back!"
+[HP change] The opposing Trevenant gained 28 HP (41 -> 69)
+"The opposing Trevenant restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Trevenant consumed its held Sitrus Berry
+"Go for it, Flamigo!"
+[Use move] The opposing Trevenant (1) used Bulldoze
+"The opposing Trevenant used Bulldoze!"
+[Target immune] Flamigo's type immunity
+"It doesn't affect Flamigo..."
+
+[End of round 2]
+Trick Room Turns: 0
+[Ability triggered] The opposing Trevenant's Harvest
+"The opposing Trevenant harvested one Sitrus Berry!"
+
+===== Round 3 =====
+
+     move will not affect Flamigo (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Trevenant (1): 0
+Set up score for Trevenant (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trevenant (1) is considering using Will-O-Wisp (4) against Flamigo (0)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+     - 3 because this will be pointless
+[AI] Trevenant (1) is considering using Horn Leech (1) against Flamigo (0)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+[AI] Trevenant (1) is considering using Bulldoze (1)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Trevenant (1) is considering using Shadow Claw (1) against Flamigo (0)...
+     Trevenant (1)'s highest damaging move vs Flamigo: Shadow Claw
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Trevenant (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Horn Leech (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Shadow Claw (target 0): score 5
+   => will use Shadow Claw (target 0)
+
+[Round order] Flamigo (0), the opposing Trevenant (1)
+
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Trevenant lost 51 HP (69 -> 18)
+[HP change] The opposing Trevenant gained 28 HP (18 -> 46)
+"The opposing Trevenant restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Trevenant consumed its held Sitrus Berry
+[HP change] The opposing Trevenant lost 46 HP (46 -> 0)
+"The opposing Trevenant fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 3]
+Trick Room Turns: 0
+     move will not affect Flamigo (0)
+==============================
+     [Tropius] using Leaf Blade vs Flamigo does a max of 26/106 damage
+     [Tropius] using Dual Wingbeat vs Flamigo does a max of 93/106 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 99/118 damage
+==============================
+     Flamigo (0) speed (82) vs Tropius speed: 48
+     [Tropius] -  5: for target having fast 2HKO and us having no kill
+     [Tropius] final Switch score: -5
+==============================
+     [Cradily] using Giga Drain vs Flamigo does a max of 24/106 damage
+     [Cradily] using Power Gem vs Flamigo does a max of 51/106 damage
+     Flamigo (0)'s best move: Double Kick for 66/109 damage
+==============================
+     Flamigo (0) speed (82) vs Cradily speed: 43
+     [Cradily] -  5: for target having fast 2HKO and us having no kill
+     [Cradily] final Switch score: -5
+==============================
+     [Lilligant] using Trop Kick vs Flamigo does a max of 32/106 damage
+     [Lilligant] using Brick Break vs Flamigo does a max of 28/106 damage
+     [Lilligant] using Triple Axel vs Flamigo does a max of 140/106 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 210/102 damage
+==============================
+     Flamigo (0) speed (82) vs Lilligant speed: 94
+     [Lilligant] + 12: for fast kill
+     [Lilligant] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Aroma Lady Angela sent out Lilligant!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Brick Break (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Flamigo (0)
+
+"Flamigo, come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Sandslash lost 2 HP (101 -> 99)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (102 -> 90)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 3 HP (99 -> 96)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (90 -> 78)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 5 HP (96 -> 91)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (78 -> 66)
+"The opposing Lilligant is hurt!"
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Lilligant (1) is considering using Brick Break (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Triple Axel (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Lilligant (1), Sandslash (0)
+
+"Sandslash, switch out! Come back!"
+"Go for it, Flamigo!"
+[Use move] The opposing Lilligant (1) used Brick Break
+"The opposing Lilligant used Brick Break!"
+[HP change] Flamigo lost 26 HP (106 -> 80)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Brick Break (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Flamigo (0)
+
+"Flamigo, switch out! Come back!"
+"Go for it, Sandslash!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Sandslash lost 2 HP (91 -> 89)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (66 -> 54)
+"The opposing Lilligant is hurt!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Lilligant's attack missed!"
+"Hit 1 time!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Lilligant (1) is considering using Brick Break (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Triple Axel (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Lilligant (1), Sandslash (0)
+
+"Sandslash, switch out! Come back!"
+"Go for it, Flamigo!"
+[Use move] The opposing Lilligant (1) used Brick Break
+"The opposing Lilligant used Brick Break!"
+[HP change] Flamigo lost 26 HP (80 -> 54)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Brick Break (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+[AI] Lilligant (1) is considering using Triple Axel (1) against Flamigo (0)...
+     Lilligant (1)'s highest damaging move vs Flamigo: Triple Axel
+      + 20 for fast kill
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Lilligant (1), Flamigo (0)
+
+"Flamigo, switch out! Come back!"
+"Go for it, Sandslash!"
+[Use move] The opposing Lilligant (1) used Triple Axel
+"The opposing Lilligant used Triple Axel!"
+[HP change] Sandslash lost 2 HP (89 -> 87)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (54 -> 42)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 3 HP (87 -> 84)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (42 -> 30)
+"The opposing Lilligant is hurt!"
+[HP change] Sandslash lost 4 HP (84 -> 80)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Lilligant lost 12 HP (30 -> 18)
+"The opposing Lilligant is hurt!"
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lilligant (1): 0
+Set up score for Lilligant (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lilligant (1) is considering using Trop Kick (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Lilligant (1) is considering using Brick Break (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+      + 20 for fast kill
+[AI] Lilligant (1) is considering using Triple Axel (1) against Sandslash (0)...
+     Lilligant (1)'s highest damaging move vs Sandslash: Brick Break
+[AI] Move choices for Lilligant (1):
+   *   0.0% to use Trop Kick (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 21
+   *   0.0% to use Triple Axel (target 0): score 0
+   => will use Brick Break (target 0)
+
+[Round order] Sandslash (0), the opposing Lilligant (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Lilligant lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Lilligant fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Tropius] using Leaf Blade vs Sandslash does a max of 15/80 damage
+     [Tropius] using Dual Wingbeat vs Sandslash does a max of 14/80 damage
+     [Tropius] using Bulldoze vs Sandslash does a max of 28/80 damage
+     Sandslash (0)'s best move: Icicle Crash for 210/118 damage
+==============================
+     Sandslash (0) speed (59) vs Tropius speed: 48
+     [Tropius] -  9: for target fast kill
+     [Tropius] final Switch score: -9
+==============================
+     [Cradily] using Giga Drain vs Sandslash does a max of 26/80 damage
+     [Cradily] using Power Gem vs Sandslash does a max of 54/80 damage
+     [Cradily] using Hidden Power vs Sandslash does a max of 54/80 damage
+     Sandslash (0)'s best move: Icicle Crash for 93/109 damage
+==============================
+     Sandslash (0) speed (59) vs Cradily speed: 43
+     [Cradily] -  5: for target having fast 2HKO and us having no kill
+     [Cradily] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (-5)
+"Aroma Lady Angela sent out Cradily!"
+
+===== Round 10 =====
+
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Cradily (1)'s highest damaging move vs Sandslash: Power Gem
+[AI] Cradily (1) is considering using Power Gem (1) against Sandslash (0)...
+     Cradily (1)'s highest damaging move vs Sandslash: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Cradily (1)'s highest damaging move vs Sandslash: Power Gem
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Power Gem (target 0)
+
+[Round order] Sandslash (0), the opposing Cradily (1)
+
+"Sandslash, come back!"
+"You're in charge, Toxicroak!"
+[Use move] The opposing Cradily (1) used Power Gem
+"The opposing Cradily used Power Gem!"
+[HP change] Toxicroak lost 37 HP (113 -> 76)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Cradily (1) is considering using Power Gem (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Cradily (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Stockpile: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Toxicroak (0), the opposing Cradily (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Cradily lost 7 HP (109 -> 102)
+"It's not very effective..."
+[Use move] The opposing Cradily (1) used Hidden Power
+"The opposing Cradily flinched and couldn't move!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Cradily (1) is considering using Power Gem (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Cradily (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Stockpile: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Toxicroak (0), the opposing Cradily (1)
+
+[Use move] Toxicroak (0) used Low Sweep
+"Toxicroak used Low Sweep!"
+[HP change] The opposing Cradily lost 32 HP (102 -> 70)
+"It's super effective!"
+[Stat change] The opposing Cradily's Speed changed by -1 (0 -> -1)
+"The opposing Cradily's Speed fell!"
+"The Chople Berry weakened the damage to the opposing Cradily!"
+[Item consumed] The opposing Cradily consumed its held Chople Berry
+[Use move] The opposing Cradily (1) used Hidden Power
+"The opposing Cradily used Hidden Power!"
+[HP change] Toxicroak lost 53 HP (76 -> 23)
+"It's super effective!"
+[HP change] Toxicroak gained 10 HP (23 -> 33)
+"Toxicroak restored a little HP using its Oran Berry!"
+[Item consumed] Toxicroak consumed its held Oran Berry
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-4) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Cradily (1) is considering using Power Gem (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Cradily (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Hidden Power
+      + 17 for slow kill
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 18
+   *   0.0% to use Stockpile: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Toxicroak (0), the opposing Cradily (1)
+
+"OK, Toxicroak! Come back!"
+"Go for it, Flamigo!"
+[Use move] The opposing Cradily (1) used Hidden Power
+"The opposing Cradily used Hidden Power!"
+[Target immune] Flamigo's type immunity
+"It doesn't affect Flamigo..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     move will not affect Flamigo (0)
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Flamigo (0)...
+     Cradily (1)'s highest damaging move vs Flamigo: Power Gem
+[AI] Cradily (1) is considering using Power Gem (1) against Flamigo (0)...
+     Cradily (1)'s highest damaging move vs Flamigo: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Cradily (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Cradily (1)'s highest damaging move vs Flamigo: Power Gem
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Power Gem (target 0)
+
+[Round order] Flamigo (0), the opposing Cradily (1)
+
+[Use move] Flamigo (0) used Double Kick
+"Flamigo used Double Kick!"
+[HP change] The opposing Cradily lost 32 HP (70 -> 38)
+[HP change] The opposing Cradily lost 35 HP (38 -> 3)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Cradily (1) used Power Gem
+"The opposing Cradily used Power Gem!"
+[HP change] Flamigo lost 49 HP (54 -> 5)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     move will not affect Flamigo (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+Set up score for Cradily (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-14) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cradily (1) is considering using Giga Drain (1) against Flamigo (0)...
+     Cradily (1)'s highest damaging move vs Flamigo: Power Gem
+      + 17 for slow kill
+[AI] Cradily (1) is considering using Power Gem (1) against Flamigo (0)...
+     Cradily (1)'s highest damaging move vs Flamigo: Power Gem
+      + 17 for slow kill
+[AI] Cradily (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Cradily (1)'s highest damaging move vs Flamigo: Power Gem
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Move choices for Cradily (1):
+   *  50.0% to use Giga Drain (target 0): score 18
+   *  50.0% to use Power Gem (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Stockpile: score 0
+   => will use Giga Drain (target 0)
+
+[Round order] Flamigo (0), the opposing Cradily (1)
+
+[Use move] Flamigo (0) used Double Kick
+"Flamigo used Double Kick!"
+[HP change] The opposing Cradily lost 3 HP (3 -> 0)
+"The opposing Cradily fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+[End of round 15]
+Trick Room Turns: 0
+     move will not affect Flamigo (0)
+==============================
+     [Tropius] using Leaf Blade vs Flamigo does a max of 26/5 damage
+     [Tropius] using Dual Wingbeat vs Flamigo does a max of 93/5 damage
+     Flamigo (0)'s best move: Dual Wingbeat for 99/118 damage
+==============================
+     Flamigo (0) speed (82) vs Tropius speed: 48
+     [Tropius] +  9: for slow kill
+     [Tropius] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Aroma Lady Angela sent out Tropius!"
+
+===== Round 16 =====
+
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Flamigo (0)...
+     Tropius (1)'s highest damaging move vs Flamigo: Dual Wingbeat
+      + 17 for slow kill
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Flamigo (0)...
+     Tropius (1)'s highest damaging move vs Flamigo: Dual Wingbeat
+      + 17 for slow kill
+[AI] Tropius (1) is considering using Bulldoze (1)...
+     Tropius (1)'s highest damaging move vs Flamigo: Dual Wingbeat
+     move will not affect Flamigo (0)
+     -  1: move will fail
+[AI] Tropius (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Tropius (1):
+   *  50.0% to use Leaf Blade (target 0): score 18
+   *  50.0% to use Dual Wingbeat (target 0): score 18
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Roost: score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Flamigo (0), the opposing Tropius (1)
+
+"Good job, Flamigo! Come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Tropius (1) used Leaf Blade
+"The opposing Tropius used Leaf Blade!"
+[HP change] Sandslash lost 14 HP (80 -> 66)
+"It's not very effective..."
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Tropius lost 14 HP (118 -> 104)
+"The opposing Tropius is hurt!"
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tropius (1) is considering using Leaf Blade (1) against Sandslash (0)...
+     Tropius (1)'s highest damaging move vs Sandslash: Bulldoze
+[AI] Tropius (1) is considering using Dual Wingbeat (1) against Sandslash (0)...
+     Tropius (1)'s highest damaging move vs Sandslash: Bulldoze
+[AI] Tropius (1) is considering using Bulldoze (1)...
+     Tropius (1)'s highest damaging move vs Sandslash: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Tropius (1) is considering using Roost (4)...
+     - 5 because we will not gain any HP in this exchange
+[AI] Move choices for Tropius (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Roost: score 0
+   => will use Bulldoze
+
+[Round order] Sandslash (0), the opposing Tropius (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Tropius lost 104 HP (104 -> 0)
+"It's super effective!"
+"The opposing Tropius fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Angela!"
+"Wow. You're great!"
+
+"You got $1,088 for winning!"
+Roles for SHIFTRY: [:NONE]
+Roles for TORTERRA: [:PHYSICALBREAKER, :LEAD]
+Roles for GLIMMORA: [:SPECIALBREAKER]
+Roles for FLORGES: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CELEBI: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :STATUSABSORBER]
+Roles for ROSERADE: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Gardenia!"
+"Gym Leader Gardenia sent out Shiftry!"
+"Go! Sandslash!"
+[Round order] The opposing Shiftry (1), Sandslash (0)
+
+===== Round 1 =====
+
+Set up score for Shiftry (1): 0
+Set up score for Shiftry (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Shiftry (1) is considering using Fake Out (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Shiftry (1) is considering using Night Slash (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Shiftry (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+[AI] Shiftry (1) is considering using Air Slash (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+[AI] Move choices for Shiftry (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Shiftry (1), Sandslash (0)
+
+[Use move] The opposing Shiftry (1) used Fake Out
+"The opposing Shiftry used Fake Out!"
+[HP change] Sandslash lost 9 HP (101 -> 92)
+"A critical hit!"
+"It's not very effective..."
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Shiftry lost 14 HP (118 -> 104)
+"The opposing Shiftry is hurt!"
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Shiftry (1): 0
+Set up score for Shiftry (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shiftry (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Shiftry (1) is considering using Night Slash (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Shiftry (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+[AI] Shiftry (1) is considering using Air Slash (1) against Sandslash (0)...
+     Shiftry (1)'s highest damaging move vs Sandslash: Night Slash
+[AI] Move choices for Shiftry (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Shiftry (1), Sandslash (0)
+
+[Use move] The opposing Shiftry (1) used Night Slash
+"The opposing Shiftry used Night Slash!"
+[HP change] Sandslash lost 27 HP (92 -> 65)
+[Ability triggered] Sandslash's Rough Skin
+[HP change] The opposing Shiftry lost 14 HP (104 -> 90)
+"The opposing Shiftry is hurt!"
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Shiftry lost 90 HP (90 -> 0)
+"It's super effective!"
+"The opposing Shiftry fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Torterra] using Seed Bomb vs Sandslash does a max of 20/65 damage
+     [Torterra] using Stomping Tantrum vs Sandslash does a max of 72/65 damage
+     [Torterra] using Rock Slide vs Sandslash does a max of 24/65 damage
+     Sandslash (0)'s best move: Icicle Crash for 168/119 damage
+==============================
+     Sandslash (0) speed (59) vs Torterra speed: 53
+     [Torterra] -  9: for target fast kill
+     [Torterra] final Switch score: -9
+==============================
+     [Glimmora] using Power Gem vs Sandslash does a max of 89/65 damage
+     [Glimmora] using Earth Power vs Sandslash does a max of 132/65 damage
+     [Glimmora] using Hidden Power vs Sandslash does a max of 22/65 damage
+     Sandslash (0)'s best move: Iron Head for 87/113 damage
+==============================
+     Sandslash (0) speed (59) vs Glimmora speed: 76
+     [Glimmora] + 12: for fast kill
+     [Glimmora] final Switch score: 12
+==============================
+     [Florges] using Dazzling Gleam vs Sandslash does a max of 52/65 damage
+     [Florges] using Psychic vs Sandslash does a max of 30/65 damage
+     [Florges] using Giga Drain vs Sandslash does a max of 25/65 damage
+     Sandslash (0)'s best move: Iron Head for 108/110 damage
+==============================
+     Sandslash (0) speed (59) vs Florges speed: 68
+     [Florges] +  6: for fast 2HKO
+     [Florges] final Switch score: 6
+==============================
+     [Celebi] using Psyshock vs Sandslash does a max of 17/65 damage
+     [Celebi] using Giga Drain vs Sandslash does a max of 28/65 damage
+     [Celebi] using U-turn vs Sandslash does a max of 9/65 damage
+     [Celebi] using Aura Sphere vs Sandslash does a max of 160/65 damage
+     Sandslash (0)'s best move: Icicle Crash for 87/122 damage
+==============================
+     Sandslash (0) speed (59) vs Celebi speed: 91
+     [Celebi] + 12: for fast kill
+     [Celebi] final Switch score: 12
+==============================
+     [Roserade] using Magical Leaf vs Sandslash does a max of 44/65 damage
+     [Roserade] using Hidden Power vs Sandslash does a max of 59/65 damage
+     [Roserade] using Shadow Ball vs Sandslash does a max of 52/65 damage
+     Sandslash (0)'s best move: Icicle Crash for 117/97 damage
+==============================
+     Sandslash (0) speed (59) vs Roserade speed: 85
+     [Roserade] -  7: for target slow kill
+     [Roserade] final Switch score: -7
+[AI] Highest move score (19) vs Switch In Score (12)
+"Gym Leader Gardenia sent out Glimmora!"
+
+===== Round 3 =====
+
+     move will not affect Sandslash (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Venoshock (target 0): score 0
+   *  50.0% to use Power Gem (target 0): score 21
+   *  50.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Sandslash (0)
+
+"Sandslash, come back!"
+"You're in charge, Tentacruel!"
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Tentacruel lost 49 HP (109 -> 60)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): 0
+     Threat Score for Tentacruel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+[AI] Glimmora (1) is considering using Power Gem (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+[AI] Glimmora (1) is considering using Earth Power (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+      + 17 for slow kill
+[AI] Glimmora (1) is considering using Hidden Power (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Venoshock (target 0): score 0
+   *   0.0% to use Power Gem (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Tentacruel (0), the opposing Glimmora (1)
+
+[Use move] Tentacruel (0) used Bubble Beam
+"Tentacruel used Bubble Beam!"
+[HP change] The opposing Glimmora lost 56 HP (113 -> 57)
+"It's super effective!"
+"The opposing Glimmora is switched out with the Eject Button!"
+[Item consumed] The opposing Glimmora consumed its held Eject Button
+==============================
+     [Torterra] using Seed Bomb vs Tentacruel does a max of 68/60 damage
+     [Torterra] using Stomping Tantrum vs Tentacruel does a max of 129/60 damage
+     [Torterra] using Rock Slide vs Tentacruel does a max of 43/60 damage
+     Tentacruel (0)'s best move: Bubble Beam for 32/119 damage
+==============================
+     Tentacruel (0) speed (77) vs Torterra speed: 53
+     [Torterra] +  9: for slow kill
+     [Torterra] final Switch score: 9
+==============================
+     [Florges] using Dazzling Gleam vs Tentacruel does a max of 30/60 damage
+     [Florges] using Psychic vs Tentacruel does a max of 68/60 damage
+     [Florges] using Giga Drain vs Tentacruel does a max of 29/60 damage
+     Tentacruel (0)'s best move: Bubble Beam for 20/110 damage
+==============================
+     Tentacruel (0) speed (77) vs Florges speed: 68
+     [Florges] +  9: for slow kill
+     [Florges] final Switch score: 9
+==============================
+     [Celebi] using Psyshock vs Tentacruel does a max of 117/60 damage
+     [Celebi] using Giga Drain vs Tentacruel does a max of 33/60 damage
+     [Celebi] using U-turn vs Tentacruel does a max of 16/60 damage
+     [Celebi] using Aura Sphere vs Tentacruel does a max of 12/60 damage
+     Tentacruel (0)'s best move: Hex for 38/122 damage
+==============================
+     Tentacruel (0) speed (77) vs Celebi speed: 91
+     [Celebi] + 12: for fast kill
+     [Celebi] final Switch score: 12
+==============================
+     [Roserade] using Magical Leaf vs Tentacruel does a max of 51/60 damage
+     [Roserade] using Sludge vs Tentacruel does a max of 19/60 damage
+     [Roserade] using Hidden Power vs Tentacruel does a max of 34/60 damage
+     [Roserade] using Shadow Ball vs Tentacruel does a max of 30/60 damage
+     Tentacruel (0)'s best move: Hex for 18/97 damage
+==============================
+     Tentacruel (0) speed (77) vs Roserade speed: 85
+     [Roserade] +  6: for fast 2HKO
+     [Roserade] final Switch score: 6
+[AI] Highest move score (18) vs Switch In Score (12)
+"Gym Leader Gardenia sent out Celebi!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Celebi (1): 0
+Set up score for Celebi (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): 0
+     Threat Score for Tentacruel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Tentacruel (0)...
+     Celebi (1)'s highest damaging move vs Tentacruel: Psyshock
+      + 20 for fast kill
+[AI] Celebi (1) is considering using Giga Drain (1) against Tentacruel (0)...
+     Celebi (1)'s highest damaging move vs Tentacruel: Psyshock
+[AI] Celebi (1) is considering using U-turn (1) against Tentacruel (0)...
+     Celebi (1)'s highest damaging move vs Tentacruel: Psyshock
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Celebi (1) is considering using Aura Sphere (1) against Tentacruel (0)...
+     Celebi (1)'s highest damaging move vs Tentacruel: Psyshock
+[AI] Move choices for Celebi (1):
+   * 100.0% to use Psyshock (target 0): score 21
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Celebi (1), Tentacruel (0)
+
+"Tentacruel, come back!"
+"You're in charge, Staraptor!"
+[Ability triggered] Staraptor's Intimidate
+[Stat change] The opposing Celebi's Attack changed by -1 (0 -> -1)
+"The opposing Celebi's Attack fell!"
+[Use move] The opposing Celebi (1) used Psyshock
+"The opposing Celebi used Psyshock!"
+[HP change] Staraptor lost 45 HP (113 -> 68)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Celebi (1): 0
+Set up score for Celebi (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Celebi (1) is considering using Giga Drain (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+[AI] Celebi (1) is considering using U-turn (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+[AI] Celebi (1) is considering using Aura Sphere (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+[AI] Move choices for Celebi (1):
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Celebi (1), Staraptor (0)
+
+[Use move] The opposing Celebi (1) used Psyshock
+"The opposing Celebi used Psyshock!"
+[HP change] Staraptor lost 51 HP (68 -> 17)
+[HP change] Staraptor gained 28 HP (17 -> 45)
+"Staraptor restored its health using its Sitrus Berry!"
+[Item consumed] Staraptor consumed its held Sitrus Berry
+[Use move] Staraptor (0) used Aerial Ace
+"Staraptor used Aerial Ace!"
+[HP change] The opposing Celebi lost 69 HP (122 -> 53)
+"It's super effective!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Celebi (1): 0
+Set up score for Celebi (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Staraptor (0): 0
+     Threat Score for Staraptor (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+      + 20 for fast kill
+[AI] Celebi (1) is considering using Giga Drain (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+[AI] Celebi (1) is considering using U-turn (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Celebi (1) is considering using Aura Sphere (1) against Staraptor (0)...
+     Celebi (1)'s highest damaging move vs Staraptor: Psyshock
+[AI] Move choices for Celebi (1):
+   * 100.0% to use Psyshock (target 0): score 21
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   => will use Psyshock (target 0)
+
+[Round order] The opposing Celebi (1), Staraptor (0)
+
+"OK, Staraptor! Come back!"
+"Just a little more! Hang in there, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Celebi (1) used Psyshock
+"The opposing Celebi used Psyshock!"
+[Target immune] Houndoom's type immunity
+"It doesn't affect Houndoom..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Houndoom (0)
+Set up score for Celebi (1): 0
+Set up score for Celebi (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Celebi (1) is considering using Psyshock (1) against Houndoom (0)...
+     Celebi (1)'s highest damaging move vs Houndoom: Aura Sphere
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Celebi (1) is considering using Giga Drain (1) against Houndoom (0)...
+     Celebi (1)'s highest damaging move vs Houndoom: Aura Sphere
+[AI] Celebi (1) is considering using U-turn (1) against Houndoom (0)...
+     Celebi (1)'s highest damaging move vs Houndoom: Aura Sphere
+     + 4 for switch initiative against a bad matchup
+[AI] Celebi (1) is considering using Aura Sphere (1) against Houndoom (0)...
+     Celebi (1)'s highest damaging move vs Houndoom: Aura Sphere
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Celebi (1):
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   *  50.0% to use Aura Sphere (target 0): score 5
+   => will use Aura Sphere (target 0)
+
+[Round order] The opposing Celebi (1), Houndoom (0)
+
+[Use move] The opposing Celebi (1) used Aura Sphere
+"The opposing Celebi used Aura Sphere!"
+[HP change] Houndoom lost 49 HP (105 -> 56)
+"It's super effective!"
+[Use move] Houndoom (0) used Snarl
+"Houndoom used Snarl!"
+[HP change] The opposing Celebi lost 53 HP (53 -> 0)
+"It's super effective!"
+"The opposing Celebi fainted!"
+"Staraptor got 1 Exp. Points!"
+"Tentacruel got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+     move will not affect Houndoom (0)
+==============================
+     [Torterra] using Seed Bomb vs Houndoom does a max of 44/56 damage
+     [Torterra] using Stomping Tantrum vs Houndoom does a max of 165/56 damage
+     [Torterra] using Rock Slide vs Houndoom does a max of 110/56 damage
+     Houndoom (0)'s best move: Flame Burst for 81/119 damage
+==============================
+     Houndoom (0) speed (80) vs Torterra speed: 53
+     [Torterra] +  9: for slow kill
+     [Torterra] final Switch score: 9
+==============================
+     [Glimmora] using Venoshock vs Houndoom does a max of 50/56 damage
+     [Glimmora] using Power Gem vs Houndoom does a max of 120/56 damage
+     [Glimmora] using Earth Power vs Houndoom does a max of 90/56 damage
+     [Glimmora] using Hidden Power vs Houndoom does a max of 15/56 damage
+     Houndoom (0)'s best move: Snarl for 33/57 damage
+==============================
+     Houndoom (0) speed (80) vs Glimmora speed: 76
+     [Glimmora] +  9: for slow kill
+     [Glimmora] final Switch score: 9
+==============================
+     [Florges] using Dazzling Gleam vs Houndoom does a max of 72/56 damage
+     [Florges] using Giga Drain vs Houndoom does a max of 17/56 damage
+     Houndoom (0)'s best move: Flame Burst for 24/110 damage
+==============================
+     Houndoom (0) speed (80) vs Florges speed: 68
+     [Florges] +  9: for slow kill
+     [Florges] final Switch score: 9
+==============================
+     [Roserade] using Magical Leaf vs Houndoom does a max of 30/56 damage
+     [Roserade] using Sludge vs Houndoom does a max of 44/56 damage
+     [Roserade] using Hidden Power vs Houndoom does a max of 80/56 damage
+     [Roserade] using Shadow Ball vs Houndoom does a max of 18/56 damage
+     Houndoom (0)'s best move: Flame Burst for 66/97 damage
+==============================
+     Houndoom (0) speed (80) vs Roserade speed: 85
+     [Roserade] + 12: for fast kill
+     [Roserade] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Gardenia sent out Roserade!"
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Houndoom (0)...
+     Roserade (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Roserade (1) is considering using Sludge (1) against Houndoom (0)...
+     Roserade (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Roserade (1) is considering using Hidden Power (1) against Houndoom (0)...
+     Roserade (1)'s highest damaging move vs Houndoom: Hidden Power
+      + 20 for fast kill
+[AI] Roserade (1) is considering using Shadow Ball (1) against Houndoom (0)...
+     Roserade (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Roserade (1), Houndoom (0)
+
+"Houndoom, come back!"
+"You're in charge, Flamigo!"
+[Use move] The opposing Roserade (1) used Hidden Power
+"The opposing Roserade used Hidden Power!"
+[HP change] Flamigo lost 53 HP (106 -> 53)
+[HP change] Flamigo gained 26 HP (53 -> 79)
+"Flamigo restored its health using its Sitrus Berry!"
+[Item consumed] Flamigo consumed its held Sitrus Berry
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+[AI] Roserade (1) is considering using Sludge (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Roserade (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+[AI] Roserade (1) is considering using Shadow Ball (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   * 100.0% to use Sludge (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Sludge (target 0)
+
+[Round order] The opposing Roserade (1), Flamigo (0)
+
+[Use move] The opposing Roserade (1) used Sludge
+"The opposing Roserade used Sludge!"
+[HP change] Flamigo lost 54 HP (79 -> 25)
+[Use move] Flamigo (0) used Dual Wingbeat
+"Flamigo used Dual Wingbeat!"
+[HP change] The opposing Roserade lost 52 HP (97 -> 45)
+[HP change] The opposing Roserade gained 24 HP (45 -> 69)
+"The opposing Roserade restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Roserade consumed its held Sitrus Berry
+[HP change] The opposing Roserade lost 56 HP (69 -> 13)
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Flamigo (0): 0
+     Threat Score for Flamigo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+      + 20 for fast kill
+[AI] Roserade (1) is considering using Sludge (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+      + 20 for fast kill
+[AI] Roserade (1) is considering using Hidden Power (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+      + 20 for fast kill
+[AI] Roserade (1) is considering using Shadow Ball (1) against Flamigo (0)...
+     Roserade (1)'s highest damaging move vs Flamigo: Sludge
+      + 20 for fast kill
+[AI] Move choices for Roserade (1):
+   *  25.0% to use Magical Leaf (target 0): score 21
+   *  25.0% to use Sludge (target 0): score 21
+   *  25.0% to use Hidden Power (target 0): score 21
+   *  25.0% to use Shadow Ball (target 0): score 21
+   => will use Magical Leaf (target 0)
+
+[Round order] The opposing Roserade (1), Flamigo (0)
+
+"Good job, Flamigo! Come back!"
+"Your opponent's weak! Get 'em, Sandslash!"
+[Use move] The opposing Roserade (1) used Magical Leaf
+"The opposing Roserade used Magical Leaf!"
+[HP change] Sandslash lost 38 HP (65 -> 27)
+"It's not very effective..."
+[HP change] Sandslash gained 25 HP (27 -> 52)
+"Sandslash restored its health using its Sitrus Berry!"
+[Item consumed] Sandslash consumed its held Sitrus Berry
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Sandslash (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Roserade (1): 0
+Set up score for Roserade (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roserade (1) is considering using Magical Leaf (1) against Sandslash (0)...
+     Roserade (1)'s highest damaging move vs Sandslash: Hidden Power
+[AI] Roserade (1) is considering using Sludge (1) against Sandslash (0)...
+     Roserade (1)'s highest damaging move vs Sandslash: Hidden Power
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Roserade (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Roserade (1)'s highest damaging move vs Sandslash: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Roserade (1) is considering using Shadow Ball (1) against Sandslash (0)...
+     Roserade (1)'s highest damaging move vs Sandslash: Hidden Power
+      + 20 for fast kill
+[AI] Move choices for Roserade (1):
+   *   0.0% to use Magical Leaf (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 21
+   => will use Shadow Ball (target 0)
+
+[Round order] Sandslash (0), the opposing Roserade (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Roserade lost 13 HP (13 -> 0)
+"It's super effective!"
+"The opposing Roserade fainted!"
+
+[End of round 12]
+Trick Room Turns: 0
+     move will not affect Sandslash (0)
+==============================
+     [Torterra] using Seed Bomb vs Sandslash does a max of 20/52 damage
+     [Torterra] using Stomping Tantrum vs Sandslash does a max of 72/52 damage
+     [Torterra] using Rock Slide vs Sandslash does a max of 24/52 damage
+     Sandslash (0)'s best move: Icicle Crash for 168/119 damage
+==============================
+     Sandslash (0) speed (59) vs Torterra speed: 53
+     [Torterra] -  9: for target fast kill
+     [Torterra] final Switch score: -9
+==============================
+     [Glimmora] using Power Gem vs Sandslash does a max of 89/52 damage
+     [Glimmora] using Earth Power vs Sandslash does a max of 132/52 damage
+     [Glimmora] using Hidden Power vs Sandslash does a max of 22/52 damage
+     Sandslash (0)'s best move: Iron Head for 87/57 damage
+==============================
+     Sandslash (0) speed (59) vs Glimmora speed: 76
+     [Glimmora] + 12: for fast kill
+     [Glimmora] final Switch score: 12
+==============================
+     [Florges] using Dazzling Gleam vs Sandslash does a max of 52/52 damage
+     [Florges] using Psychic vs Sandslash does a max of 30/52 damage
+     [Florges] using Giga Drain vs Sandslash does a max of 25/52 damage
+     Sandslash (0)'s best move: Iron Head for 108/110 damage
+==============================
+     Sandslash (0) speed (59) vs Florges speed: 68
+     [Florges] + 12: for fast kill
+     [Florges] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Gardenia sent out Glimmora!"
+
+===== Round 13 =====
+
+     move will not affect Sandslash (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Venoshock (target 0): score 0
+   *  50.0% to use Power Gem (target 0): score 21
+   *  50.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Power Gem (target 0)
+
+[Round order] The opposing Glimmora (1), Sandslash (0)
+
+"Sandslash, come back!"
+"Go for it, Tentacruel!"
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Tentacruel lost 51 HP (60 -> 9)
+[HP change] Tentacruel gained 27 HP (9 -> 36)
+"Tentacruel restored its health using its Sitrus Berry!"
+[Item consumed] Tentacruel consumed its held Sitrus Berry
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Tentacruel (0): 0
+     Threat Score for Tentacruel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+[AI] Glimmora (1) is considering using Power Gem (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+      + 17 for slow kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+      + 17 for slow kill
+[AI] Glimmora (1) is considering using Hidden Power (1) against Tentacruel (0)...
+     Glimmora (1)'s highest damaging move vs Tentacruel: Earth Power
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Venoshock (target 0): score 0
+   *  50.0% to use Power Gem (target 0): score 18
+   *  50.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Power Gem (target 0)
+
+[Round order] Tentacruel (0), the opposing Glimmora (1)
+
+[Use move] Tentacruel (0) used Bubble Beam
+"Tentacruel used Bubble Beam!"
+[HP change] The opposing Glimmora lost 55 HP (57 -> 2)
+"It's super effective!"
+[Use move] The opposing Glimmora (1) used Power Gem
+"The opposing Glimmora used Power Gem!"
+[HP change] Tentacruel lost 36 HP (36 -> 0)
+"Tentacruel fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Sandslash!"
+
+===== Round 15 =====
+
+     move will not affect Sandslash (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Glimmora (1): 0
+Set up score for Glimmora (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glimmora (1) is considering using Venoshock (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Glimmora (1) is considering using Power Gem (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Earth Power (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+      + 20 for fast kill
+[AI] Glimmora (1) is considering using Hidden Power (1) against Sandslash (0)...
+     Glimmora (1)'s highest damaging move vs Sandslash: Earth Power
+[AI] Move choices for Glimmora (1):
+   *   0.0% to use Venoshock (target 0): score 0
+   *  50.0% to use Power Gem (target 0): score 21
+   *  50.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Sandslash (0), the opposing Glimmora (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Glimmora lost 2 HP (2 -> 0)
+[Ability triggered] The opposing Glimmora's Toxic Debris
+"Poison spikes were scattered on the ground all around your team!"
+"The opposing Glimmora fainted!"
+
+[End of round 15]
+Trick Room Turns: 0
+     move will not affect Sandslash (0)
+==============================
+     [Torterra] using Seed Bomb vs Sandslash does a max of 20/52 damage
+     [Torterra] using Stomping Tantrum vs Sandslash does a max of 72/52 damage
+     [Torterra] using Rock Slide vs Sandslash does a max of 24/52 damage
+     Sandslash (0)'s best move: Icicle Crash for 168/119 damage
+==============================
+     Sandslash (0) speed (59) vs Torterra speed: 53
+     [Torterra] -  9: for target fast kill
+     [Torterra] final Switch score: -9
+==============================
+     [Florges] using Dazzling Gleam vs Sandslash does a max of 52/52 damage
+     [Florges] using Psychic vs Sandslash does a max of 30/52 damage
+     [Florges] using Giga Drain vs Sandslash does a max of 25/52 damage
+     Sandslash (0)'s best move: Iron Head for 108/110 damage
+==============================
+     Sandslash (0) speed (59) vs Florges speed: 68
+     [Florges] + 12: for fast kill
+     [Florges] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Gym Leader Gardenia sent out Florges!"
+
+===== Round 16 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Florges (1): 0
+Set up score for Florges (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (1) is considering using Dazzling Gleam (1)...
+     Florges (1)'s highest damaging move vs Sandslash: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Florges (1) is considering using Psychic (1) against Sandslash (0)...
+     Florges (1)'s highest damaging move vs Sandslash: Dazzling Gleam
+[AI] Florges (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Florges (1)'s highest damaging move vs Sandslash: Dazzling Gleam
+[AI] Florges (1) is considering using Calm Mind (4)...
+[AI] Move choices for Florges (1):
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Florges (1), Sandslash (0)
+
+[Use move] The opposing Florges (1) used Dazzling Gleam
+"The opposing Florges used Dazzling Gleam!"
+[HP change] Sandslash lost 45 HP (52 -> 7)
+"It's not very effective..."
+[Use move] Sandslash (0) used Rapid Spin
+"Sandslash used Rapid Spin!"
+[HP change] The opposing Florges lost 20 HP (110 -> 90)
+[Stat change] Sandslash's Speed changed by +1 (0 -> 1)
+"Sandslash's Speed rose!"
+"Sandslash blew away poison spikes!"
+
+[End of round 16]
+[HP change] The opposing Florges gained 6 HP (90 -> 96)
+"The opposing Florges restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Florges (1): 0
+Set up score for Florges (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 1
+     Threat Score for Sandslash (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (1) is considering using Dazzling Gleam (1)...
+     Florges (1)'s highest damaging move vs Sandslash: Dazzling Gleam
+      + 17 for slow kill
+[AI] Florges (1) is considering using Psychic (1) against Sandslash (0)...
+     Florges (1)'s highest damaging move vs Sandslash: Dazzling Gleam
+      + 17 for slow kill
+[AI] Florges (1) is considering using Giga Drain (1) against Sandslash (0)...
+     Florges (1)'s highest damaging move vs Sandslash: Dazzling Gleam
+      + 17 for slow kill
+[AI] Florges (1) is considering using Calm Mind (4)...
+[AI] Move choices for Florges (1):
+   *  33.3% to use Dazzling Gleam: score 18
+   *  33.3% to use Psychic (target 0): score 18
+   *  33.3% to use Giga Drain (target 0): score 18
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic (target 0)
+
+[Round order] Sandslash (0), the opposing Florges (1)
+
+[Use move] Sandslash (0) used Iron Head
+"Sandslash used Iron Head!"
+[HP change] The opposing Florges lost 96 HP (96 -> 0)
+"It's super effective!"
+"The opposing Florges fainted!"
+
+[End of round 17]
+Trick Room Turns: 0
+==============================
+     [Torterra] using Seed Bomb vs Sandslash does a max of 20/7 damage
+     [Torterra] using Stomping Tantrum vs Sandslash does a max of 72/7 damage
+     [Torterra] using Rock Slide vs Sandslash does a max of 24/7 damage
+     Sandslash (0)'s best move: Icicle Crash for 168/119 damage
+==============================
+     Sandslash (0) speed (88) vs Torterra speed: 53
+     [Torterra] -  9: for target fast kill
+     [Torterra] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (-9)
+"Gym Leader Gardenia sent out Torterra!"
+
+===== Round 18 =====
+
+Set up score for Sandslash (0): 1
+     Threat Score for Sandslash (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Torterra (1) is considering using Seed Bomb (1) against Sandslash (0)...
+     Torterra (1)'s highest damaging move vs Sandslash: Stomping Tantrum
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Stomping Tantrum (1) against Sandslash (0)...
+     Torterra (1)'s highest damaging move vs Sandslash: Stomping Tantrum
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Rock Slide (1)...
+     Torterra (1)'s highest damaging move vs Sandslash: Stomping Tantrum
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Torterra (1):
+   *  33.3% to use Seed Bomb (target 0): score 18
+   *  33.3% to use Stomping Tantrum (target 0): score 18
+   *  33.3% to use Rock Slide: score 18
+   *   0.0% to use Stealth Rock: score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Sandslash (0), the opposing Torterra (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Torterra lost 119 HP (119 -> 0)
+"It's super effective!"
+"The opposing Torterra fainted!"
+
+===== Player won =====
+
+"You defeated Gym Leader Gardenia!"
+"Wow. You're great!"
+
+"You got $3,500 for winning!"
+=============================
+Item Chosen: Rare Bone
+Item Chosen: Sail Fossil
+Item Chosen: Red Shard
+Item Chosen: Yellow Shard
+Current mining restrictions: [:SAILFOSSIL]
+=============================
+Item Chosen: Everstone
+Item Chosen: Iron Plate
+Item Chosen: Yellow Shard
+Current mining restrictions: [:SAILFOSSIL, :IRONPLATE]
+=============================
+Item Chosen: Blue Shard
+Item Chosen: Leaf Stone
+=============================
+Item Chosen: Moon Stone
+Item Chosen: Light Clay
+=============================
+Item Chosen: Dusk Stone
+Item Chosen: Icy Rock
+=============================
+Item Chosen: Icy Rock
+Item Chosen: Jaw Fossil
+Item Chosen: Blank Plate
+Item Chosen: Relic Silver
+Current mining restrictions: [:SAILFOSSIL, :IRONPLATE, :JAWFOSSIL]
+Current mining restrictions: [:SAILFOSSIL, :IRONPLATE, :JAWFOSSIL, :BLANKPLATE]
+=============================
+Item Chosen: Everstone
+Item Chosen: Heat Rock
+=============================
+Item Chosen: Max Revive
+Item Chosen: Zap Plate
+Current mining restrictions: [:SAILFOSSIL, :IRONPLATE, :JAWFOSSIL, :BLANKPLATE, :ZAPPLATE]
