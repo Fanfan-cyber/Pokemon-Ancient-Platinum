@@ -37,9 +37,15 @@ class Game_System
     @autoscroll_y_speed = 0
     @bgm_position       = 0
     @bgs_position       = 0
+    @adventure_magic_number = rand(2**32)
   end
 
   #-----------------------------------------------------------------------------
+
+  def adventure_magic_number
+    @adventure_magic_number ||= rand(2**32)
+    return @adventure_magic_number
+  end
 
   def bgm_play(bgm, track = nil)
     old_pos = @bgm_position

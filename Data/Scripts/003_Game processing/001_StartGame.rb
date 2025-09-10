@@ -108,14 +108,16 @@ module Game
   # @param safe [Boolean] whether $PokemonGlobal.safesave should be set to true
   # @return [Boolean] whether the operation was successful
   # @raise [SaveData::InvalidValueError] if an invalid value is being saved
-  def self.save(save_file = SaveData::FILE_PATH, safe: false)
-    validate save_file => String, safe => [TrueClass, FalseClass]
+  def save(index = 0, directory = SaveData::DIRECTORY, safe: false)
+    validate index => Integer, directory => String, safe => [TrueClass, FalseClass]
+    filename = SaveData.filename_from_index(index)
     $PokemonGlobal.safesave = safe
     $game_system.save_count += 1
     $game_system.magic_number = $data_system.magic_number
     $stats.set_time_last_saved
+    $stats.save_filename_number = index
     begin
-      SaveData.save_to_file(save_file)
+      SaveData.save_to_file(directory + filename)
       Graphics.frame_reset
     rescue IOError, SystemCallError
       $game_system.save_count -= 1

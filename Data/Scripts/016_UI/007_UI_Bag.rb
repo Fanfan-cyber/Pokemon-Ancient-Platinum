@@ -131,7 +131,7 @@ class UI::BagVisualsList < Window_DrawableCommand
       if item_data.show_quantity? && !showing_register_icon
         qty = @items[index][1]
         qtytext = _ISPRINTF("× {1:d}", qty)
-        xQty    = rect.x + rect.width - self.contents.text_size(qtytext).width - 32
+        xQty    = rect.x + rect.width - self.contents.text_size(qtytext).width - 16
         textpos.push([qtytext, xQty, rect.y + 2, :left, baseColor, shadowColor])
       end
     end
@@ -181,7 +181,6 @@ class UI::BagVisuals < UI::BaseVisuals
     @mode = mode
     @show_move_details = false
     @pocket = @bag.last_viewed_pocket
-    $pocket = @pocket
     super()
   end
 
@@ -309,7 +308,6 @@ class UI::BagVisuals < UI::BaseVisuals
   end
 
   def set_pocket(new_pocket)
-    $pocket = new_pocket
     @pocket = new_pocket
     @bag.last_viewed_pocket = @pocket if @mode != :choose_item
     @sprites[:item_list].disable_sorting = !pocket_sortable?
@@ -339,6 +337,7 @@ class UI::BagVisuals < UI::BaseVisuals
     end
     return if new_pocket == @pocket
     pbPlayCursorSE
+    $pocket = GameData::BagPocket.get(new_pocket).id
     set_pocket(new_pocket)
   end
 
@@ -359,6 +358,7 @@ class UI::BagVisuals < UI::BaseVisuals
     end
     return if new_pocket == @pocket
     pbPlayCursorSE
+    $pocket = GameData::BagPocket.get(new_pocket).id
     set_pocket(new_pocket)
   end
 
@@ -465,7 +465,7 @@ class UI::BagVisuals < UI::BaseVisuals
     icon_size = [28, 28]
     icon_overlap = 0
     icon_x = 172 - ((icon_size[0] - icon_overlap) * all_pockets.length / 2)
-    icon_y = 64
+    icon_y = 0
     @sprites[:pocket_icons].bitmap.clear
     # Draw regular pocket icons
     all_pockets.each_with_index do |pckt, i|
@@ -499,7 +499,7 @@ class UI::BagVisuals < UI::BaseVisuals
   def refresh_pocket
     # Draw pocket's name
     @sprites[:pocket_name_overlay].bitmap.clear
-    draw_text(GameData::BagPocket.get(@pocket).name, 26, 10, theme: :black, overlay: :pocket_name_overlay)
+    draw_text(GameData::BagPocket.get(@pocket).name, 16, 6, theme: :black, overlay: :pocket_name_overlay)
     # Set the bag sprite
     bag_sprite_filename = graphics_folder + gendered_filename(sprintf("bag_%s", @pocket.to_s))
     @sprites[:bag].setBitmap(bag_sprite_filename)
@@ -903,38 +903,70 @@ UIActionHandlers.add(UI::Bag::SCREEN_ID, :read_mail, {
   }
 })
 
-UIActionHandlers.add(UI::Bag::SCREEN_ID, :use, {
-  :returns_value => true,
-  :effect        => proc { |screen|
-    item = screen.item.id
-    ret = pbUseItem(screen.bag, item, screen)
-    # ret: 0=Item wasn't used; 1=Item used; 2=Close Bag to use in field
-    if ret == 2
-      screen.result = item
-      next :quit
-    end
-    screen.refresh
-    next nil
-  }
-})
+# UIActionHandlers.add(UI::Bag::SCREEN_ID, :use, {
+#   :returns_value => ($pocket ? $pocket != :Berries : true),
+#   :effect        => proc { |screen|
+#     if $pocket == :Berries
+#       item = screen.item.id
+#       ret = pbUseItem(screen.bag, item, screen)
+#       # ret: 0=Item wasn't used; 1=Item used; 2=Close Bag to use in field
+#       if ret == 2
+#         screen.result = item
+#         screen.end_screen
+#         next :quit
+#       end
+#       screen.refresh
+#       next nil
+#     else
+#       if $player.pokemon_count == 0
+#         screen.show_message(_INTL("There is no Pokémon."))
+#       elsif screen.item.is_important?
+#         screen.show_message(_INTL("The {1} can't be held.", screen.item.portion_name))
+#       else
+#         pbFadeOutInWithUpdate(screen.sprites) do
+#           party_screen = UI::Party.new($player.party, mode: :choose_pokemon)
+#           party_screen.choose_pokemon do |pkmn, party_index|
+#             pbGiveItemToPokemon(screen.item.id, party_screen.pokemon, party_screen, party_index) if party_index >= 0
+#             next true
+#           end
+#           screen.refresh
+#         end
+#       end
+#     end
+#   }
+# })
 
-UIActionHandlers.add(UI::Bag::SCREEN_ID, :give, {
-  :effect => proc { |screen|
-    if $player.pokemon_count == 0
-      screen.show_message(_INTL("There is no Pokémon."))
-    elsif screen.item.is_important?
-      screen.show_message(_INTL("The {1} can't be held.", screen.item.portion_name))
-    else
-      pbFadeOutInWithUpdate(99999,screen.sprites) do
-        sscene = PokemonParty_Scene.new
-        sscreen = PokemonPartyScreen.new(sscene, $player.party)
-        sscreen.pbPokemonGiveScreen(screen.item)
-        @scene.pbRefresh
-        screen.refresh
-      end
-    end
-  }
-})
+# UIActionHandlers.add(UI::Bag::SCREEN_ID, :give, {
+#   :returns_value => ($pocket ? $pocket == :Berries : false),
+#   :effect => proc { |screen|
+#     if $pocket == :Berries
+#       if $player.pokemon_count == 0
+#         screen.show_message(_INTL("There is no Pokémon."))
+#       elsif screen.item.is_important?
+#         screen.show_message(_INTL("The {1} can't be held.", screen.item.portion_name))
+#       else
+#         pbFadeOutInWithUpdate(99999,screen.sprites) do
+#           sscene = PokemonParty_Scene.new
+#           sscreen = PokemonPartyScreen.new(sscene, $player.party)
+#           sscreen.pbPokemonGiveScreen(screen.item)
+#           @scene.pbRefresh
+#           screen.refresh
+#         end
+#       end
+#     else
+#       item = screen.item.id
+#       ret = pbUseItem(screen.bag, item, screen)
+#       # ret: 0=Item wasn't used; 1=Item used; 2=Close Bag to use in field
+#       if ret == 2
+#         screen.result = item
+#         screen.end_screen
+#         next :quit
+#       end
+#       screen.refresh
+#       next nil
+#     end
+#   }
+# })
 
 UIActionHandlers.add(UI::Bag::SCREEN_ID, :toss, {
   :effect => proc { |screen|
@@ -1030,22 +1062,30 @@ MenuHandlers.add(:bag_screen_interact, :read_mail, {
   "condition" => proc { |screen| next screen.item.is_mail? }
 })
 
-MenuHandlers.add(:bag_screen_interact, :use, {
-  "name"      => proc { |screen|
-    #next ItemHandlers.getUseText(screen.item.id) if ItemHandlers.hasUseText(screen.item.id)
-    next _INTL("Use")
-  },
-  "order"     => 30,
-  "condition" => proc { |screen|
-    next ItemHandlers.hasOutHandler(screen.item.id) || (screen.item.is_machine? && $player.party.length > 0)
-  }
-})
+# MenuHandlers.add(:bag_screen_interact, :use, {
+#   "name"      => proc { |screen|
+#     #next ItemHandlers.getUseText(screen.item.id) if ItemHandlers.hasUseText(screen.item.id)
+#     next _INTL("Give") unless $pocket == :Berries
+#     next _INTL("Use")
+#   },
+#   "order"     => 30,
+#   "condition" => proc { |screen|
+#     next $player.pokemon_party.length > 0 && screen.item.can_hold? unless screen.item.pocket == :Berries
+#     next ItemHandlers.hasOutHandler(screen.item.id) || (screen.item.is_machine? && $player.party.length > 0)
+#   }
+# })
 
-MenuHandlers.add(:bag_screen_interact, :give, {
-  "name"      => _INTL("Give"),
-  "order"     => 20,
-  "condition" => proc { |screen| next $player.pokemon_party.length > 0 && screen.item.can_hold? }
-})
+# MenuHandlers.add(:bag_screen_interact, :give, {
+#   "name"      => proc {|screen|
+#     next _INTL("Give") if $pocket == :Berries
+#     next _INTL("Use")
+#   },
+#   "order"     => 20,
+#   "condition" => proc { |screen| 
+#     next $player.pokemon_party.length > 0 && screen.item.can_hold? if screen.item.pocket == :Berries
+#     next ItemHandlers.hasOutHandler(screen.item.id) || (screen.item.is_machine? && $player.party.length > 0)
+#   }
+# })
 
 MenuHandlers.add(:bag_screen_interact, :toss, {
   "name"      => _INTL("Toss"),

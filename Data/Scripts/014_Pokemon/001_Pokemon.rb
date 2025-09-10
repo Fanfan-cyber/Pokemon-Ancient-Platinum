@@ -489,6 +489,21 @@ class Pokemon
     return ret
   end
 
+  #-----------------------------------------------------------------------------
+  # Stats.
+  #-----------------------------------------------------------------------------
+  def stat(id)
+    case id
+    when :HP              then return @totalhp
+    when :ATTACK          then return @attack
+    when :DEFENSE         then return @defense
+    when :SPECIAL_ATTACK  then return @spatk
+    when :SPECIAL_DEFENSE then return @spdef
+    when :SPEED           then return @speed
+    end
+    return 0
+  end
+
   #=============================================================================
   # Nature
   #=============================================================================
@@ -1205,7 +1220,7 @@ class Pokemon
     end
     @obtain_method    = 0   # Met
     @obtain_method    = 4 if $game_switches && $game_switches[Settings::FATEFUL_ENCOUNTER_SWITCH]
-    @obtain_map       = ($game_map) ? $game_map.map_id : 0
+    @obtain_map       = ($game_map) ? $game_map.map_id : 1
     @obtain_map       = 1 if $game_switches[Settings::FATEFUL_ENCOUNTER_SWITCH]
     @obtain_text      = nil
     @obtain_level     = level

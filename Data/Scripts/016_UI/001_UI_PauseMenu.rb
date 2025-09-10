@@ -1,135 +1,180 @@
 #===============================================================================
 #
 #===============================================================================
-class PokemonPauseMenu_Scene
-  def pbStartScene
-    @viewport = Viewport.new(0, 0, Graphics.width, Graphics.height)
-    @viewport.z = 99999
-    @sprites = {}
-    @sprites["cmdwindow"] = Window_CommandPokemon.new([])
-    @sprites["cmdwindow"].visible = false
-    @sprites["cmdwindow"].viewport = @viewport
-    @sprites["infowindow"] = Window_UnformattedTextPokemon.newWithSize("", 0, 0, 32, 32, @viewport)
-    @sprites["infowindow"].visible = false
-    @sprites["helpwindow"] = Window_UnformattedTextPokemon.newWithSize("", 0, 0, 32, 32, @viewport)
-    @sprites["helpwindow"].visible = false
-    @infostate = false
-    @helpstate = false
-    pbSEPlay("GUI menu open")
+class UI::PauseMenuVisuals < UI::BaseVisuals
+  def initialize
+    @info_text_visible = false
+#    @help_text_visible = false
+    super
   end
 
-  def pbShowInfo(text)
-    @sprites["infowindow"].resizeToFit(text, Graphics.height)
-    @sprites["infowindow"].text    = text
-    @sprites["infowindow"].visible = true
-    @infostate = true
+  def initialize_background; end
+  def initialize_overlay; end
+
+  def initialize_sprites
+    # Pause menu
+    @sprites[:commands] = Window_CommandPokemon.new([])
+    @sprites[:commands].visible = false
+    @sprites[:commands].viewport = @viewport
+    # Level Cap box
+    @sprites[:level_cap] = Window_UnformattedTextPokemon.newWithSize("Level Cap: #{Level_Scaling.level_cap}", 0, 64, 208, 64, @viewport)
+    @sprites[:level_cap].visible = false
+    # Info text box
+    @sprites[:info_text] = Window_UnformattedTextPokemon.newWithSize("", 0, 0, 32, 32, @viewport)
+    @sprites[:info_text].visible = false
+#    @sprites[:help_text] = Window_UnformattedTextPokemon.newWithSize("", 0, 0, 32, 32, @viewport)
+#    @sprites[:help_text].visible = false
   end
 
-  def pbShowHelp(text)
-    @sprites["helpwindow"].resizeToFit(text, Graphics.height)
-    @sprites["helpwindow"].text    = text
-    @sprites["helpwindow"].visible = true
-    pbBottomLeft(@sprites["helpwindow"])
-    @helpstate = true
+  #-----------------------------------------------------------------------------
+
+  # commands is [[command IDs], [command names]].
+  def set_commands(commands)
+    @commands = commands
+    cmd_window = @sprites[:commands]
+    cmd_window.commands = @commands[1]
+    cmd_window.index    = $game_temp.menu_last_choice
+    cmd_window.resizeToFit(@commands[1])
+    cmd_window.x        = Graphics.width - cmd_window.width
+    cmd_window.y        = 0
+    cmd_window.visible  = true
   end
 
-  def pbShowMenu
-    @sprites["cmdwindow"].visible = true
-    @sprites["infowindow"].visible = @infostate
-    @sprites["helpwindow"].visible = @helpstate
+  #-----------------------------------------------------------------------------
+
+  def show_menu
+    @sprites[:commands].visible = true
+    @sprites[:level_cap].visible = true
+    @sprites[:info_text].visible = @info_text_visible
+#    @sprites[:help_text].visible = @help_text_visible
   end
 
-  def pbHideMenu
-    @sprites["cmdwindow"].visible = false
-    @sprites["infowindow"].visible = false
-    @sprites["helpwindow"].visible = false
+  def show_caps
+    @sprites[:level_cap].visible = true
   end
 
-  def pbShowCommands(commands)
-    ret = -1
-    cmdwindow = @sprites["cmdwindow"]
-    cmdwindow.commands = commands
-    cmdwindow.index    = $game_temp.menu_last_choice
-    cmdwindow.resizeToFit(commands)
-    cmdwindow.x        = Graphics.width - cmdwindow.width
-    cmdwindow.y        = 0
-    cmdwindow.visible  = true
-    loop do
-      cmdwindow.update
-      Graphics.update
-      Input.update
-      pbUpdateSceneMap
-      if Input.trigger?(Input::BACK) || Input.trigger?(Input::ACTION)
-        ret = -1
-        break
-      elsif Input.trigger?(Input::USE)
-        ret = cmdwindow.index
-        $game_temp.menu_last_choice = ret
-        break
-      end
+  def hide_caps
+    @sprites[:level_cap].visible = false
+  end
+
+  def hide_menu
+    @sprites[:commands].visible = false
+    @sprites[:level_cap].visible = false
+    @sprites[:info_text].visible = false
+#    @sprites[:help_text].visible = false
+  end
+
+  # Used in Safari Zone and Bug-Catching Contest to show extra information.
+  def show_info(text)
+    @sprites[:info_text].resizeToFit(text, Graphics.height)
+    @sprites[:info_text].text    = text
+    @sprites[:info_text].visible = true
+    @info_text_visible = true
+  end
+
+  # Unused.
+#  def show_help(text)
+#    @sprites[:help_text].resizeToFit(text, Graphics.height)
+#    @sprites[:help_text].text    = text
+#    @sprites[:help_text].visible = true
+#    pbBottomLeft(@sprites[:help_text])
+#    @help_text_visible = true
+#  end
+
+  #-----------------------------------------------------------------------------
+
+  def update_visuals
+    pbUpdateSceneMap
+    super
+  end
+
+  def update_input
+    if Input.trigger?(Input::BACK) || Input.trigger?(Input::ACTION)
+      return :quit
     end
-    return ret
+    if Input.trigger?(Input::USE)
+      idx = @sprites[:commands].index
+      $game_temp.menu_last_choice = idx
+      return @commands[0][idx]
+    end
+    return nil
   end
-
-  def pbEndScene
-    pbDisposeSpriteHash(@sprites)
-    @viewport.dispose
-  end
-
-  def pbRefresh; end
 end
 
 #===============================================================================
 #
 #===============================================================================
-class PokemonPauseMenu
-  def initialize(scene)
-    @scene = scene
+class UI::PauseMenu < UI::BaseScreen
+  def initialize
+    raise _INTL("Tried to open the pause menu when $player was not defined.") if !$player
+    initialize_commands
+    super
   end
 
-  def pbShowMenu
-    @scene.pbRefresh
-    @scene.pbShowMenu
-  end
-
-  def pbShowInfo; end
-
-  def pbStartPokemonMenu
-    if !$player
-      if $DEBUG
-        pbMessage(_INTL("The player trainer was not defined, so the pause menu can't be displayed."))
-        pbMessage(_INTL("Please see the documentation to learn how to set up the trainer player."))
-      end
-      return
-    end
-    @scene.pbStartScene
-    # Show extra info window if relevant
-    pbShowInfo
-    # Get all commands
-    command_list = []
-    commands = []
+  def initialize_commands
+    @commands ||= [[], []]
+    @commands[0].clear
+    @commands[1].clear
+    @commands_hashes ||= {}
+    @commands_hashes.clear
     MenuHandlers.each_available(:pause_menu) do |option, hash, name|
-      command_list.push(name)
-      commands.push(hash)
+      @commands[0].push(option)
+      @commands[1].push(name)
+      @commands_hashes[option] = hash
     end
-    # Main loop
-    end_scene = false
-    loop do
-      choice = @scene.pbShowCommands(command_list)
-      if choice < 0
-        pbPlayCloseMenuSE
-        end_scene = true
-        break
-      end
-      break if commands[choice]["effect"].call(@scene)
+  end
+
+  def initialize_visuals
+    @visuals = UI::PauseMenuVisuals.new
+    @visuals.set_commands(@commands)
+    show_info
+  end
+
+  def hide_menu
+    @visuals.hide_menu
+  end
+
+  def show_menu
+    @visuals.show_menu
+  end
+
+  def show_info
+    @visuals.show_info("Level Cap: #{Level_Scaling.level_cap}")
+  end
+
+  def start_screen
+    pbSEPlay("GUI menu open")
+  end
+
+  def end_screen
+    return if @disposed
+    pbPlayCloseMenuSE
+    silent_end_screen
+  end
+
+  #-----------------------------------------------------------------------------
+
+  def refresh
+    initialize_commands
+    @visuals.set_commands(@commands)
+    super
+  end
+
+  def perform_action(command)
+    if @commands_hashes[command]["effect"].call(self)
+      # NOTE: Calling end_screen will have been done in the "effect" proc, so
+      #       there's no need to do anything special here to mark that this
+      #       screen has already been closed/disposed of.
+      return :quit
     end
-    @scene.pbEndScene if end_scene
+    return nil
   end
 end
 
 #===============================================================================
 # Pause menu commands.
 #===============================================================================
+
 MenuHandlers.add(:pause_menu, :pokedex, {
   "name"      => _INTL("Pokédex"),
   "order"     => 10,
@@ -141,7 +186,7 @@ MenuHandlers.add(:pause_menu, :pokedex, {
         scene = PokemonPokedex_Scene.new
         screen = PokemonPokedexScreen.new(scene)
         screen.pbStartScreen
-        menu.pbRefresh
+        menu.refresh
       end
     elsif $player.pokedex.accessible_dexes.length == 1
       $PokemonGlobal.pokedexDex = $player.pokedex.accessible_dexes[0]
@@ -149,14 +194,14 @@ MenuHandlers.add(:pause_menu, :pokedex, {
         scene = PokemonPokedex_Scene.new
         screen = PokemonPokedexScreen.new(scene)
         screen.pbStartScreen
-        menu.pbRefresh
+        menu.refresh
       end
     else
       pbFadeOutIn do
         scene = PokemonPokedexMenu_Scene.new
         screen = PokemonPokedexMenuScreen.new(scene)
         screen.pbStartScreen
-        menu.pbRefresh
+        menu.refresh
       end
     end
     next false
@@ -169,16 +214,15 @@ MenuHandlers.add(:pause_menu, :party, {
   "condition" => proc { next $player.party_count > 0 },
   "effect"    => proc { |menu|
     pbPlayDecisionSE
-    hidden_move = nil
     pbFadeOutIn do
-      sscene = PokemonParty_Scene.new
-      sscreen = PokemonPartyScreen.new(sscene, $player.party)
-      hidden_move = sscreen.pbPokemonScreen
-      (hidden_move) ? menu.pbEndScene : menu.pbRefresh
+      UI::Party.new($player.party).main
+      ($game_temp.field_move_to_use) ? menu.silent_end_screen : menu.refresh
     end
-    next false if !hidden_move
+    next false if !$game_temp.field_move_to_use
     $game_temp.in_menu = false
-    pbUseHiddenMove(hidden_move[0], hidden_move[1])
+    pbUseHiddenMove($game_temp.field_move_user, $game_temp.field_move_to_use)
+    $game_temp.field_move_user = nil
+    $game_temp.field_move_to_use = nil
     next true
   }
 })
@@ -194,7 +238,7 @@ MenuHandlers.add(:pause_menu, :bag, {
       bag_screen = UI::Bag.new($bag)
       bag_screen.main
       item = bag_screen.result
-      (item) ? menu.pbEndScene : menu.pbRefresh
+      (item) ? menu.silent_end_screen : menu.refresh
     end
     next false if !item
     $game_temp.in_menu = false
@@ -202,7 +246,7 @@ MenuHandlers.add(:pause_menu, :bag, {
     next true
   }
 })
-=begin
+
 MenuHandlers.add(:pause_menu, :pokegear, {
   "name"      => _INTL("Pokégear"),
   "order"     => 40,
@@ -213,7 +257,7 @@ MenuHandlers.add(:pause_menu, :pokegear, {
       scene = PokemonPokegear_Scene.new
       screen = PokemonPokegearScreen.new(scene)
       screen.pbStartScreen
-      ($game_temp.fly_destination) ? menu.pbEndScene : menu.pbRefresh
+      ($game_temp.fly_destination) ? menu.silent_end_screen : menu.refresh
     end
     next pbFlyToNewLocation
   }
@@ -222,30 +266,28 @@ MenuHandlers.add(:pause_menu, :pokegear, {
 MenuHandlers.add(:pause_menu, :town_map, {
   "name"      => _INTL("Town Map"),
   "order"     => 40,
-  "condition" => proc { next !$player.has_pokegear && $bag.has?(:TOWNMAP) },
+  "condition" => proc { next Settings::SHOW_TOWN_MAP_IN_PAUSE_MENU && !$player.has_pokegear && $bag.has?(:TOWNMAP) },
   "effect"    => proc { |menu|
     pbPlayDecisionSE
     pbFadeOutIn do
-      scene = PokemonRegionMap_Scene.new(-1, false)
-      screen = PokemonRegionMapScreen.new(scene)
-      ret = screen.pbStartScreen
+      town_map_screen = UI::TownMap.new
+      town_map_screen.main
+      ret = town_map_screen.result
       $game_temp.fly_destination = ret if ret
-      ($game_temp.fly_destination) ? menu.pbEndScene : menu.pbRefresh
+      ($game_temp.fly_destination) ? menu.silent_end_screen : menu.refresh
     end
     next pbFlyToNewLocation
   }
 })
-=end
+
 MenuHandlers.add(:pause_menu, :trainer_card, {
-  "name"      => proc { next $player.name },
+  "name"      => proc { |menu| next $player.name },
   "order"     => 50,
   "effect"    => proc { |menu|
     pbPlayDecisionSE
     pbFadeOutIn do
-      scene = PokemonTrainerCard_Scene.new
-      screen = PokemonTrainerCardScreen.new(scene)
-      screen.pbStartScreen
-      menu.pbRefresh
+      UI::TrainerCard.new.main
+      menu.refresh
     end
     next false
   }
@@ -258,16 +300,17 @@ MenuHandlers.add(:pause_menu, :save, {
     next $game_system && !$game_system.save_disabled && !pbInSafari? && !pbInBugContest?
   },
   "effect"    => proc { |menu|
-    menu.pbHideMenu
-    scene = PokemonSave_Scene.new
-    screen = PokemonSaveScreen.new(scene)
-    if screen.pbSaveScreen
-      menu.pbEndScene
-      next true
+    pbPlayDecisionSE
+    ret = false
+    pbFadeOutIn do
+      ret = UI::Save.new.main
+      if ret
+        menu.silent_end_screen
+      else
+        menu.refresh
+      end
     end
-    menu.pbRefresh
-    menu.pbShowMenu
-    next false
+    next ret
   }
 })
 
@@ -281,7 +324,7 @@ MenuHandlers.add(:pause_menu, :options, {
       screen = PokemonOptionScreen.new(scene)
       screen.pbStartScreen
       pbUpdateSceneMap
-      menu.pbRefresh
+      menu.refresh
     end
     next false
   }
@@ -295,27 +338,8 @@ MenuHandlers.add(:pause_menu, :debug, {
     pbPlayDecisionSE
     pbFadeOutIn do
       pbDebugMenu
-      menu.pbRefresh
+      menu.refresh
     end
-    next false
-  }
-})
-
-MenuHandlers.add(:pause_menu, :quit_game, {
-  "name"      => _INTL("Quit Game"),
-  "order"     => 90,
-  "effect"    => proc { |menu|
-    menu.pbHideMenu
-    if pbConfirmMessage(_INTL("Are you sure you want to quit the game?"))
-      scene = PokemonSave_Scene.new
-      screen = PokemonSaveScreen.new(scene)
-      screen.pbSaveScreen
-      menu.pbEndScene
-      $scene = nil
-      next true
-    end
-    menu.pbRefresh
-    menu.pbShowMenu
     next false
   }
 })

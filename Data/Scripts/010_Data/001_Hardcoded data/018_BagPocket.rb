@@ -115,7 +115,7 @@ GameData::BagPocket.register({
 GameData::BagPocket.register({
   :id            => :Machines,
   :name          => _INTL("TMs & HMs"),
-  :icon_position => 3,
+  :icon_position => 6,
   :order         => 40,
   :auto_sort     => true
 })
@@ -123,7 +123,7 @@ GameData::BagPocket.register({
 GameData::BagPocket.register({
   :id            => :Berries,
   :name          => _INTL("Berries"),
-  :icon_position => 4,
+  :icon_position => 3,
   :order         => 50,
   :auto_sort     => true
 })
@@ -143,7 +143,7 @@ GameData::BagPocket.register({
 GameData::BagPocket.register({
   :id            => :MegaStones,
   :name          => _INTL("Mega Stones"),
-  :icon_position => 5,
+  :icon_position => 4,
   :order         => 60
 })
 
@@ -155,7 +155,7 @@ GameData::BagPocket.register({
 GameData::BagPocket.register({
   :id            => :BattleItems,
   :name          => _INTL("Battle Items"),
-  :icon_position => 6,
+  :icon_position => 5,
   :order         => 70
 })
 

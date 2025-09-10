@@ -3,6 +3,7 @@
 #===============================================================================
 module Battle::DebugVariables
   BATTLER_EFFECTS = {
+    # PBEffects::AllySwitchRate => {name: "Ally Switch success chance 1/x",                  default: 1, max: 999},
     PBEffects::AquaRing       => {name: "Aqua Ring applies",                               default: false},
     PBEffects::Attract        => {name: "Battler that self is attracted to",               default: -1},   # Battler index
     PBEffects::BanefulBunker  => {name: "Baneful Bunker applies this round",               default: false},
@@ -10,12 +11,15 @@ module Battle::DebugVariables
     PBEffects::Bide           => {name: "Bide number of rounds remaining",                 default: 0},
     PBEffects::BideDamage     => {name: "Bide damage accumulated",                         default: 0, max: 999},
     PBEffects::BideTarget     => {name: "Bide last battler to hurt self",                  default: -1},   # Battler index
+    PBEffects::BurningBulwark => {name: "Burning Bulwark applies this round",              default: false},
     PBEffects::BurnUp         => {name: "Burn Up has removed self's Fire type",            default: false},
     PBEffects::Charge         => {name: "Charge number of rounds remaining",               default: 0},
     PBEffects::ChoiceBand     => {name: "Move locked into by Choice items",                default: nil, type: :move},
     PBEffects::Confusion      => {name: "Confusion number of rounds remaining",            default: 0},
 #    PBEffects::Counter - not suitable for setting via debug
 #    PBEffects::CounterTarget - not suitable for setting via debug
+    # PBEffects::CudChewBerry   => {name: "Item to be eaten by Cud Chew",                    default: nil, type: :item},
+    # PBEffects::CudChewCounter => {name: "Cud Chew number of rounds remaining",             default: 0},
     PBEffects::Curse          => {name: "Curse damaging applies",                          default: false},
 #    PBEffects::Dancer - only used while Dancer is running, not suitable for setting via debug
     PBEffects::DefenseCurl    => {name: "Used Defense Curl",                               default: false},
@@ -24,6 +28,7 @@ module Battle::DebugVariables
 #    PBEffects::DestinyBondTarget - not suitable for setting via debug
     PBEffects::Disable        => {name: "Disable number of rounds remaining",              default: 0},
     PBEffects::DisableMove    => {name: "Disabled move",                                   default: nil, type: :move},
+    PBEffects::DoubleShock    => {name: "Double Shock has removed self's Electric type",   default: false},
     PBEffects::Electrify      => {name: "Electrify making moves Electric",                 default: false},
     PBEffects::Embargo        => {name: "Embargo number of rounds remaining",              default: 0},
     PBEffects::Encore         => {name: "Encore number of rounds remaining",               default: 0},
@@ -40,6 +45,7 @@ module Battle::DebugVariables
     PBEffects::FuryCutter     => {name: "Fury Cutter power multiplier 2**x (0-4)",         default: 0, max: 4},
     PBEffects::GastroAcid     => {name: "Gastro Acid is negating self's ability",          default: false},
 #    PBEffects::GemConsumed - only applies during use of move, not suitable for setting via debug
+    # PBEffects::GigatonHammer  => {name: "Gigaton Hammer/Blood Moon is the last used move", default: false},
     PBEffects::Grudge         => {name: "Grudge will apply if self faints",                default: false},
     PBEffects::HealBlock      => {name: "Heal Block number of rounds remaining",           default: 0},
     PBEffects::HelpingHand    => {name: "Helping Hand will power up self's move",          default: false},
@@ -91,6 +97,7 @@ module Battle::DebugVariables
     PBEffects::Rollout        => {name: "Rollout rounds remaining (lower=stronger)",       default: 0},
     PBEffects::Roost          => {name: "Roost removing Flying type this round",           default: false},
 #    PBEffects::ShellTrap - only applies to use of specific move, not suitable for setting via debug
+    PBEffects::SilkTrap       => {name: "Silk Trap applies this round",                    default: false},
 #    PBEffects::SkyDrop - only applies to use of specific move, not suitable for setting via debug
     PBEffects::SlowStart      => {name: "Slow Start rounds remaining",                     default: 0},
     PBEffects::SmackDown      => {name: "Smack Down is grounding self",                    default: false},
@@ -101,6 +108,8 @@ module Battle::DebugVariables
     PBEffects::StockpileDef   => {name: "Def stages gained by Stockpile (0-12)",           default: 0, max: 12},
     PBEffects::StockpileSpDef => {name: "Sp. Def stages gained by Stockpile (0-12)",       default: 0, max: 12},
     PBEffects::Substitute     => {name: "Substitute's HP",                                 default: 0, max: 999},
+    # PBEffects::SyrupBomb      => {name: "Syrup Bomb number of rounds remaining",           default: 0},
+    # PBEffects::SyrupBombUser  => {name: "Battler that used Syrup Bomb on self",            default: -1},   # Battler index
     PBEffects::TarShot        => {name: "Tar Shot weakening self to Fire",                 default: false},
     PBEffects::Taunt          => {name: "Taunt number of rounds remaining",                default: 0},
     PBEffects::Telekinesis    => {name: "Telekinesis number of rounds remaining",          default: 0},

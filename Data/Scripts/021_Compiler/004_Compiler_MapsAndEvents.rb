@@ -4,6 +4,7 @@
 module Compiler
   SCRIPT_REPLACEMENTS = [
     ["Kernel.",                      ""],
+    ["Level_Cap.update",             "$level_caps.update"],
     ["$PokemonBag.pbQuantity",       "$bag.quantity"],
     ["$PokemonBag.pbHasItem?",       "$bag.has?"],
     ["$PokemonBag.pbCanStore?",      "$bag.can_add?"],
