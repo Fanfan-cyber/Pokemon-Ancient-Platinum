@@ -312635,3 +312635,1094 @@ Set up score for Skiddo (0): 0
 "Wow. You're great!"
 
 "You got $144 for winning!"
+Roles for MEOWTH: [:PHYSICALBREAKER]
+Roles for SPRIGATITO: [:NONE]
+Roles for LITTEN: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Natalie!"
+"Lass Natalie sent out Meowth!"
+"Go! Piplup!"
+[Round order] The opposing Meowth (1), Piplup (0)
+
+===== Round 1 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Meowth (1) is considering using Fake Out (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+     + 18 for using turn 1
+[AI] Meowth (1) is considering using Pay Day (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+[AI] Move choices for Meowth (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Pay Day (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Meowth (1), Piplup (0)
+
+[Use move] The opposing Meowth (1) used Fake Out
+"The opposing Meowth used Fake Out!"
+"The Normal Gem strengthened Fake Out's power!"
+[HP change] Piplup lost 8 HP (40 -> 32)
+[Item consumed] The opposing Meowth consumed its held Normal Gem
+[Use move] Piplup (0) used Pound
+"Piplup flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Pay Day (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Pay Day (target 0)
+
+[Round order] The opposing Meowth (1), Piplup (0)
+
+[Use move] The opposing Meowth (1) used Pay Day
+"The opposing Meowth used Pay Day!"
+[HP change] Piplup lost 7 HP (32 -> 25)
+"Coins were scattered everywhere!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Meowth lost 17 HP (26 -> 9)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Meowth (1): 0
+Set up score for Meowth (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowth (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Meowth (1) is considering using Pay Day (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+     + 4 to prioritize highest damaging move
+[AI] Meowth (1) is considering using Bite (1) against Piplup (0)...
+     Meowth (1)'s highest damaging move vs Piplup: Pay Day
+[AI] Move choices for Meowth (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Pay Day (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Pay Day (target 0)
+
+[Round order] The opposing Meowth (1), Piplup (0)
+
+[Use move] The opposing Meowth (1) used Pay Day
+"The opposing Meowth used Pay Day!"
+[HP change] Piplup lost 7 HP (25 -> 18)
+[HP change] Piplup gained 10 HP (18 -> 28)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+"Coins were scattered everywhere!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Meowth lost 9 HP (9 -> 0)
+"The opposing Meowth fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Sprigatito] using Razor Leaf vs Piplup does a max of 18/28 damage
+     [Sprigatito] using Bite vs Piplup does a max of 6/28 damage
+     Piplup (0)'s best move: Icy Wind for 26/28 damage
+==============================
+     Piplup (0) speed (17) vs Sprigatito speed: 20
+     [Sprigatito] +  6: for fast 2HKO
+     [Sprigatito] final Switch score: 6
+==============================
+     [Litten] using Fake Out vs Piplup does a max of 5/28 damage
+     [Litten] using Bite vs Piplup does a max of 6/28 damage
+     [Litten] using Flame Charge vs Piplup does a max of 4/28 damage
+     Piplup (0)'s best move: Water Gun for 30/29 damage
+==============================
+     Piplup (0) speed (17) vs Litten speed: 22
+     [Litten] -  7: for target slow kill
+     [Litten] final Switch score: -7
+[AI] Highest move score (28) vs Switch In Score (6)
+"Lass Natalie sent out Sprigatito!"
+
+===== Round 4 =====
+
+Set up score for Sprigatito (1): 0
+Set up score for Sprigatito (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+     Sprigatito (1)'s highest damaging move vs Piplup: Razor Leaf
+     + 4 to prioritize highest damaging move
+[AI] Sprigatito (1) is considering using Bite (1) against Piplup (0)...
+     Sprigatito (1)'s highest damaging move vs Piplup: Razor Leaf
+[AI] Move choices for Sprigatito (1):
+   * 100.0% to use Razor Leaf: score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Razor Leaf
+
+[Round order] The opposing Sprigatito (1), Piplup (0)
+
+"Piplup, come back!"
+"You're in charge, Litleo!"
+[Use move] The opposing Sprigatito (1) used Razor Leaf
+"The opposing Sprigatito used Razor Leaf!"
+[HP change] Litleo lost 4 HP (41 -> 37)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sprigatito (1): 0
+Set up score for Sprigatito (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sprigatito (1) is considering using Razor Leaf (1)...
+     Sprigatito (1)'s highest damaging move vs Litleo: Bite
+[AI] Sprigatito (1) is considering using Bite (1) against Litleo (0)...
+     Sprigatito (1)'s highest damaging move vs Litleo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sprigatito (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Litleo (0), the opposing Sprigatito (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Sprigatito lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Sprigatito fainted!"
+"Litleo got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Litten] using Fake Out vs Litleo does a max of 5/37 damage
+     [Litten] using Bite vs Litleo does a max of 6/37 damage
+     [Litten] using Flame Charge vs Litleo does a max of 4/37 damage
+     Litleo (0)'s best move: Headbutt for 26/29 damage
+==============================
+     Litleo (0) speed (26) vs Litten speed: 22
+     [Litten] -  5: for target having fast 2HKO and us having no kill
+     [Litten] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Lass Natalie sent out Litten!"
+[Ability triggered] The opposing Litten's Intimidate
+[Stat change] Litleo's Attack changed by -1 (0 -> -1)
+"Litleo's Attack fell!"
+
+===== Round 6 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out (1) against Litleo (0)...
+     Litten (1)'s highest damaging move vs Litleo: Bite
+     + 18 for using turn 1
+[AI] Litten (1) is considering using Bite (1) against Litleo (0)...
+     Litten (1)'s highest damaging move vs Litleo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Litleo (0)...
+     Litten (1)'s highest damaging move vs Litleo: Bite
+[AI] Move choices for Litten (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Litten (1), Litleo (0)
+
+"Litleo, come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Litten (1) used Fake Out
+"The opposing Litten used Fake Out!"
+[HP change] Qwilfish lost 5 HP (42 -> 37)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Litten (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Litten (1) is considering using Bite (1) against Qwilfish (0)...
+     Litten (1)'s highest damaging move vs Qwilfish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Litten (1) is considering using Flame Charge (1) against Qwilfish (0)...
+     Litten (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Move choices for Litten (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Flame Charge (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Qwilfish (0), the opposing Litten (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Litten lost 29 HP (29 -> 0)
+"It's super effective!"
+"The opposing Litten fainted!"
+
+===== Player won =====
+
+"You defeated Lass Natalie!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for GROWLITHE: [:PHYSICALBREAKER]
+Roles for YAMPER: [:SPEEDCONTROL]
+Roles for FIDOUGH: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Logan!"
+"Youngster Logan sent out Growlithe!"
+"Go! Piplup!"
+[Round order] The opposing Growlithe (1), Piplup (0)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+[AI] Growlithe (1) is considering using Bite (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Growlithe (1), Piplup (0)
+
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Piplup lost 18 HP (40 -> 22)
+"A critical hit!"
+"It's super effective!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Growlithe lost 26 HP (31 -> 5)
+"It's super effective!"
+[HP change] The opposing Growlithe gained 10 HP (5 -> 15)
+"The opposing Growlithe restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Growlithe consumed its held Oran Berry
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+[AI] Growlithe (1) is considering using Bite (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Growlithe (1), Piplup (0)
+
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Piplup lost 13 HP (22 -> 9)
+"It's super effective!"
+[HP change] Piplup gained 10 HP (9 -> 19)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Growlithe lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Growlithe fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Yamper] using Spark vs Piplup does a max of 18/19 damage
+     [Yamper] using Bite vs Piplup does a max of 6/19 damage
+     Piplup (0)'s best move: Water Gun for 14/32 damage
+==============================
+     Piplup (0) speed (17) vs Yamper speed: 12
+     [Yamper] +  3: for outdamage
+     [Yamper] final Switch score: 3
+==============================
+     [Fidough] using Covet vs Piplup does a max of 9/19 damage
+     [Fidough] using Bite vs Piplup does a max of 6/19 damage
+     [Fidough] using Headbutt vs Piplup does a max of 6/19 damage
+     Piplup (0)'s best move: Water Gun for 14/28 damage
+==============================
+     Piplup (0) speed (17) vs Fidough speed: 20
+     [Fidough] +  6: for fast 2HKO
+     [Fidough] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Youngster Logan sent out Fidough!"
+
+===== Round 3 =====
+
+Set up score for Fidough (1): 0
+Set up score for Fidough (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Piplup (0)...
+     Fidough (1)'s highest damaging move vs Piplup: Covet
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Bite (1) against Piplup (0)...
+     Fidough (1)'s highest damaging move vs Piplup: Covet
+[AI] Fidough (1) is considering using Headbutt (1) against Piplup (0)...
+     Fidough (1)'s highest damaging move vs Piplup: Covet
+[AI] Move choices for Fidough (1):
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Fidough (1), Piplup (0)
+
+"OK, Piplup! Come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Fidough (1) used Covet
+"The opposing Fidough used Covet!"
+[HP change] Qwilfish lost 4 HP (42 -> 38)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Fidough (1): 0
+Set up score for Fidough (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Qwilfish (0)...
+     Fidough (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Fidough (1) is considering using Bite (1) against Qwilfish (0)...
+     Fidough (1)'s highest damaging move vs Qwilfish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Headbutt (1) against Qwilfish (0)...
+     Fidough (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Qwilfish (0), the opposing Fidough (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Fidough lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Fidough fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Yamper] using Spark vs Qwilfish does a max of 18/38 damage
+     [Yamper] using Bite vs Qwilfish does a max of 5/38 damage
+     Qwilfish (0)'s best move: Poison Fang for 26/32 damage
+==============================
+     Qwilfish (0) speed (29) vs Yamper speed: 12
+     [Yamper] -  5: for target having fast 2HKO and us having no kill
+     [Yamper] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Youngster Logan sent out Yamper!"
+
+===== Round 5 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Qwilfish (0)...
+     Yamper (1)'s highest damaging move vs Qwilfish: Spark
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Bite (1) against Qwilfish (0)...
+     Yamper (1)'s highest damaging move vs Qwilfish: Spark
+[AI] Yamper (1) is considering using Thunder Wave (4) against Qwilfish (0)...
+     Yamper (1)'s highest damaging move vs Qwilfish: Spark
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Yamper (1):
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] Qwilfish (0), the opposing Yamper (1)
+
+"Qwilfish, come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Yamper (1) used Spark
+"The opposing Yamper used Spark!"
+[HP change] Skiddo lost 5 HP (40 -> 35)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Skiddo (0), the opposing Yamper (1)
+
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Yamper lost 19 HP (32 -> 13)
+[HP change] The opposing Yamper gained 10 HP (13 -> 23)
+"The opposing Yamper restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Yamper consumed its held Oran Berry
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 7 HP (35 -> 28)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Skiddo (0), the opposing Yamper (1)
+
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Yamper lost 19 HP (23 -> 4)
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 6 HP (28 -> 22)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Skiddo (0), the opposing Yamper (1)
+
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Yamper lost 4 HP (4 -> 0)
+"The opposing Yamper fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Logan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
+Roles for GROWLITHE: [:PHYSICALBREAKER]
+Roles for YAMPER: [:SPEEDCONTROL]
+Roles for FIDOUGH: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Logan!"
+"Youngster Logan sent out Growlithe!"
+"Go! Piplup!"
+[Round order] The opposing Growlithe (1), Piplup (0)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+[AI] Growlithe (1) is considering using Bite (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Piplup (0)...
+     Growlithe (1)'s highest damaging move vs Piplup: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] The opposing Growlithe (1), Piplup (0)
+
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Piplup lost 12 HP (40 -> 28)
+"It's super effective!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Growlithe lost 31 HP (31 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Growlithe fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Yamper] using Spark vs Piplup does a max of 18/28 damage
+     [Yamper] using Bite vs Piplup does a max of 6/28 damage
+     Piplup (0)'s best move: Water Gun for 14/32 damage
+==============================
+     Piplup (0) speed (17) vs Yamper speed: 12
+     [Yamper] +  3: for outdamage
+     [Yamper] final Switch score: 3
+==============================
+     [Fidough] using Covet vs Piplup does a max of 9/28 damage
+     [Fidough] using Bite vs Piplup does a max of 6/28 damage
+     [Fidough] using Headbutt vs Piplup does a max of 6/28 damage
+     Piplup (0)'s best move: Water Gun for 14/28 damage
+==============================
+     Piplup (0) speed (17) vs Fidough speed: 20
+     [Fidough] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (3)
+"Youngster Logan sent out Yamper!"
+
+===== Round 2 =====
+
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Piplup (0)...
+     Yamper (1)'s highest damaging move vs Piplup: Spark
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Bite (1) against Piplup (0)...
+     Yamper (1)'s highest damaging move vs Piplup: Spark
+[AI] Yamper (1) is considering using Thunder Wave (4) against Piplup (0)...
+     Yamper (1)'s highest damaging move vs Piplup: Spark
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Thunder Wave (target 0): score 6
+   => will use Thunder Wave (target 0)
+
+[Round order] Piplup (0), the opposing Yamper (1)
+
+"Piplup, come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Yamper (1) used Thunder Wave
+"The opposing Yamper used Thunder Wave!"
+"Skiddo is paralyzed! It may be unable to move!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 6 HP (40 -> 34)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo is paralyzed! It can't move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 7 HP (34 -> 27)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo flinched and couldn't move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 7 HP (27 -> 20)
+[HP change] Skiddo gained 10 HP (20 -> 30)
+"Skiddo restored a little HP using its Oran Berry!"
+[Item consumed] Skiddo consumed its held Oran Berry
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Yamper lost 18 HP (32 -> 14)
+[HP change] The opposing Yamper gained 10 HP (14 -> 24)
+"The opposing Yamper restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Yamper consumed its held Oran Berry
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 6 HP (30 -> 24)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo flinched and couldn't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 7 HP (24 -> 17)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo flinched and couldn't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 7 HP (17 -> 10)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo flinched and couldn't move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Skiddo (0)
+Set up score for Yamper (1): 0
+Set up score for Yamper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yamper (1) is considering using Spark (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+[AI] Yamper (1) is considering using Bite (1) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Yamper (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Yamper (1)'s highest damaging move vs Skiddo: Bite
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Yamper (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Yamper (1), Skiddo (0)
+
+[Use move] The opposing Yamper (1) used Bite
+"The opposing Yamper used Bite!"
+[HP change] Skiddo lost 7 HP (10 -> 3)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Yamper lost 24 HP (24 -> 0)
+"A critical hit!"
+"The opposing Yamper fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Skiddo (0)
+==============================
+     [Fidough] using Covet vs Skiddo does a max of 11/3 damage
+     [Fidough] using Bite vs Skiddo does a max of 7/3 damage
+     [Fidough] using Headbutt vs Skiddo does a max of 8/3 damage
+     Skiddo (0)'s best move: Razor Leaf for 17/28 damage
+==============================
+     Skiddo (0) speed (11) vs Fidough speed: 20
+     [Fidough] + 12: for fast kill
+     [Fidough] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Youngster Logan sent out Fidough!"
+
+===== Round 10 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Skiddo (0)...
+     Fidough (1)'s highest damaging move vs Skiddo: Covet
+      + 20 for fast kill
+[AI] Fidough (1) is considering using Bite (1) against Skiddo (0)...
+     Fidough (1)'s highest damaging move vs Skiddo: Covet
+      + 20 for fast kill
+[AI] Fidough (1) is considering using Headbutt (1) against Skiddo (0)...
+     Fidough (1)'s highest damaging move vs Skiddo: Covet
+      + 20 for fast kill
+[AI] Move choices for Fidough (1):
+   *  33.3% to use Covet (target 0): score 21
+   *  33.3% to use Bite (target 0): score 21
+   *  33.3% to use Headbutt (target 0): score 21
+   => will use Covet (target 0)
+
+[Round order] The opposing Fidough (1), Skiddo (0)
+
+"Good job, Skiddo! Come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Fidough (1) used Covet
+"The opposing Fidough used Covet!"
+[HP change] Qwilfish lost 4 HP (42 -> 38)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Fidough (1) is considering using Covet (1) against Qwilfish (0)...
+     Fidough (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Fidough (1) is considering using Bite (1) against Qwilfish (0)...
+     Fidough (1)'s highest damaging move vs Qwilfish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Fidough (1) is considering using Headbutt (1) against Qwilfish (0)...
+     Fidough (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Move choices for Fidough (1):
+   *   0.0% to use Covet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Qwilfish (0), the opposing Fidough (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Fidough lost 28 HP (28 -> 0)
+"It's super effective!"
+"The opposing Fidough fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Logan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"

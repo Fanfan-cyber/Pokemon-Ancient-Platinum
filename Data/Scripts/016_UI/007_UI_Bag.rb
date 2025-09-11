@@ -181,6 +181,7 @@ class UI::BagVisuals < UI::BaseVisuals
     @mode = mode
     @show_move_details = false
     @pocket = @bag.last_viewed_pocket
+    $pocket = GameData::BagPocket.get(@bag.last_viewed_pocket).id
     super()
   end
 
