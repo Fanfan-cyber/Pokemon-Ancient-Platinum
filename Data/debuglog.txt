@@ -313726,3 +313726,61 @@ Set up score for Qwilfish (0): 0
 "Wow. You're great!"
 
 "You got $144 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Shroodle appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Shroodle (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Shroodle (1) is considering using Leer (4)...
+     Shroodle (1)'s highest damaging move vs Piplup: Acid Spray
+[AI] Shroodle (1) is considering using Scratch (1) against Piplup (0)...
+     Shroodle (1)'s highest damaging move vs Piplup: Acid Spray
+[AI] Shroodle (1) is considering using Acid Spray (1) against Piplup (0)...
+     Shroodle (1)'s highest damaging move vs Piplup: Acid Spray
+[AI] Move choices for Shroodle (1):
+   * 100.0% to use Leer: score 4
+   *   0.0% to use Scratch (target 0): score 0
+   *   0.0% to use Scratch (target 0): score 0
+   *   0.0% to use Acid Spray (target 0): score 0
+   => will use Leer
+
+[Round order] Piplup (0), the wild Shroodle (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Shroodle was caught!"
+
+===== Pokémon caught =====
+
+"Shroodle's data was added to the Pokédex."
+"Where do you want to send Shroodle to?"
+"Where do you want to send Shroodle to?"
+"Shroodle has been sent to Box "Box 1"!"
+Roles for PIKACHU: [:NONE]
+Roles for ROWLET: [:PHYSICALBREAKER]
+Roles for CYNDAQUIL: [:NONE]
+Roles for OSHAWOTT: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Sarah!"
+"Lass Sarah sent out Pikachu!"
+"Go! Piplup!"
+[Round order] The opposing Pikachu (1), Piplup (0)
+
+===== Round 1 =====
+
