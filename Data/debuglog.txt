@@ -312156,3 +312156,482 @@ Lucian: Double
 
 "Litleo's data was added to the Pokédex."
 "Litleo has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Hoothoot appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Hoothoot (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hoothoot (1) is considering using Peck (1) against Piplup (0)...
+     Hoothoot (1)'s highest damaging move vs Piplup: Tackle
+[AI] Hoothoot (1) is considering using Growl (4)...
+     Hoothoot (1)'s highest damaging move vs Piplup: Tackle
+[AI] Hoothoot (1) is considering using Tackle (1) against Piplup (0)...
+     Hoothoot (1)'s highest damaging move vs Piplup: Tackle
+[AI] Move choices for Hoothoot (1):
+   *   0.0% to use Peck (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   *   0.0% to use Tackle (target 0): score 0
+   => will use Growl
+
+[Round order] Piplup (0), the wild Hoothoot (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Hoothoot was caught!"
+
+===== Pokémon caught =====
+
+"Hoothoot's data was added to the Pokédex."
+"Hoothoot has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Houndour appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Houndour (1)
+[Ability triggered] The wild Houndour's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Houndour (1) is considering using Leer (4)...
+     Houndour (1)'s highest damaging move vs Piplup: Ember
+[AI] Houndour (1) is considering using Ember (1) against Piplup (0)...
+     Houndour (1)'s highest damaging move vs Piplup: Ember
+[AI] Move choices for Houndour (1):
+   * 100.0% to use Leer: score 4
+   *   0.0% to use Ember (target 0): score 0
+   *   0.0% to use Ember (target 0): score 0
+   => will use Leer
+
+[Round order] Piplup (0), the wild Houndour (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Houndour was caught!"
+
+===== Pokémon caught =====
+
+"Houndour's data was added to the Pokédex."
+"Houndour has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Skiddo appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Skiddo (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Skiddo (1) is considering using Tackle (1) against Piplup (0)...
+     Skiddo (1)'s highest damaging move vs Piplup: Tackle
+[AI] Move choices for Skiddo (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Piplup (0), the wild Skiddo (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Skiddo was caught!"
+
+===== Pokémon caught =====
+
+"Skiddo's data was added to the Pokédex."
+"Skiddo has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Taillow appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Taillow (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Qwilfish appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Qwilfish (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Qwilfish (1) is considering using Poison Sting (1) against Piplup (0)...
+     Qwilfish (1)'s highest damaging move vs Piplup: Tackle
+[AI] Qwilfish (1) is considering using Tackle (1) against Piplup (0)...
+     Qwilfish (1)'s highest damaging move vs Piplup: Tackle
+[AI] Qwilfish (1) is considering using Laser Focus (4)...
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Poison Sting (target 0): score 0
+   *   0.0% to use Poison Sting (target 0): score 0
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Laser Focus: score 4
+   => will use Laser Focus
+
+[Round order] Piplup (0), the wild Qwilfish (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Qwilfish was caught!"
+
+===== Pokémon caught =====
+
+"Qwilfish's data was added to the Pokédex."
+"Qwilfish has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Tadbulb appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Tadbulb (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Tadbulb (1) is considering using Mud-Slap (1) against Piplup (0)...
+     Tadbulb (1)'s highest damaging move vs Piplup: Tackle
+[AI] Tadbulb (1) is considering using Tackle (1) against Piplup (0)...
+     Tadbulb (1)'s highest damaging move vs Piplup: Tackle
+[AI] Move choices for Tadbulb (1):
+   *  33.3% to use Mud-Slap (target 0): score 1
+   *  33.3% to use Tackle (target 0): score 1
+   *  33.3% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Piplup (0), the wild Tadbulb (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Tadbulb was caught!"
+
+===== Pokémon caught =====
+
+"Tadbulb's data was added to the Pokédex."
+"Where do you want to send Tadbulb to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Houndour has been sent to Box "Box 1"."
+"Tadbulb has been added to your party."
+Roles for STARLY: [:NONE]
+Roles for SHINX: [:NONE]
+Roles for BIDOOF: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tristan!"
+"Youngster Tristan sent out Starly!"
+"Go! Piplup!"
+[Round order] The opposing Starly (1), Piplup (0)
+[Ability triggered] The opposing Starly's Keen Eye
+"The opposing Starly is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Starly (1): 0
+Set up score for Starly (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Starly (1) is considering using Wing Attack (1) against Piplup (0)...
+     Starly (1)'s highest damaging move vs Piplup: Wing Attack
+     + 4 to prioritize highest damaging move
+[AI] Starly (1) is considering using Quick Attack (1) against Piplup (0)...
+     Starly (1)'s highest damaging move vs Piplup: Wing Attack
+[AI] Starly (1) is considering using Swagger (4) against Piplup (0)...
+     Starly (1)'s highest damaging move vs Piplup: Wing Attack
+     - 3 because this will be pointless
+[AI] Move choices for Starly (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Starly (1), Piplup (0)
+
+[Use move] The opposing Starly (1) used Wing Attack
+"The opposing Starly used Wing Attack!"
+[HP change] Piplup lost 8 HP (40 -> 32)
+[Use move] Piplup (0) used Icy Wind
+"Piplup used Icy Wind!"
+[HP change] The opposing Starly lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Starly fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Shinx] using Spark vs Piplup does a max of 18/32 damage
+     [Shinx] using Bite vs Piplup does a max of 6/32 damage
+     Piplup (0)'s best move: Water Gun for 18/27 damage
+==============================
+     Piplup (0) speed (17) vs Shinx speed: 15
+     [Shinx] -  5: for target having fast 2HKO and us having no kill
+     [Shinx] final Switch score: -5
+==============================
+     [Bidoof] using Quick Attack vs Piplup does a max of 6/32 damage
+     Piplup (0)'s best move: Water Gun for 15/32 damage
+==============================
+     Piplup (0) speed (17) vs Bidoof speed: 13
+     [Bidoof] final Switch score: 0
+[AI] Highest move score (10) vs Switch In Score (0)
+"Youngster Tristan sent out Bidoof!"
+
+===== Round 2 =====
+
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+[AI] Bidoof (1) is considering using Quick Attack (1) against Piplup (0)...
+     Bidoof (1)'s highest damaging move vs Piplup: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Bidoof (1), Piplup (0)
+
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Piplup lost 6 HP (32 -> 26)
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Bidoof lost 15 HP (32 -> 17)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+[AI] Bidoof (1) is considering using Quick Attack (1) against Piplup (0)...
+     Bidoof (1)'s highest damaging move vs Piplup: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Bidoof (1), Piplup (0)
+
+"Piplup, come back!"
+"Go for it, Qwilfish!"
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Qwilfish lost 6 HP (42 -> 36)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bidoof (1): 0
+Set up score for Bidoof (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bidoof (1) is considering using Work Up (4)...
+[AI] Bidoof (1) is considering using Quick Attack (1) against Qwilfish (0)...
+     Bidoof (1)'s highest damaging move vs Qwilfish: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bidoof (1):
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Bidoof (1), Qwilfish (0)
+
+[Use move] The opposing Bidoof (1) used Quick Attack
+"The opposing Bidoof used Quick Attack!"
+[HP change] Qwilfish lost 6 HP (36 -> 30)
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Bidoof lost 17 HP (17 -> 0)
+"The opposing Bidoof fainted!"
+"Qwilfish got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Shinx] using Spark vs Qwilfish does a max of 18/30 damage
+     [Shinx] using Bite vs Qwilfish does a max of 6/30 damage
+     Qwilfish (0)'s best move: Poison Fang for 33/27 damage
+==============================
+     Qwilfish (0) speed (29) vs Shinx speed: 15
+     [Shinx] -  9: for target fast kill
+     [Shinx] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Youngster Tristan sent out Shinx!"
+[Ability triggered] The opposing Shinx's Intimidate
+[Stat change] Qwilfish's Attack changed by -1 (0 -> -1)
+"Qwilfish's Attack fell!"
+
+===== Round 5 =====
+
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Qwilfish (0)...
+     Shinx (1)'s highest damaging move vs Qwilfish: Spark
+     + 4 to prioritize highest damaging move
+[AI] Shinx (1) is considering using Bite (1) against Qwilfish (0)...
+     Shinx (1)'s highest damaging move vs Qwilfish: Spark
+[AI] Move choices for Shinx (1):
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] Qwilfish (0), the opposing Shinx (1)
+
+"Qwilfish, come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Shinx (1) used Spark
+"The opposing Shinx used Spark!"
+[HP change] Skiddo lost 5 HP (40 -> 35)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Skiddo (0)...
+     Shinx (1)'s highest damaging move vs Skiddo: Bite
+[AI] Shinx (1) is considering using Bite (1) against Skiddo (0)...
+     Shinx (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Skiddo (0), the opposing Shinx (1)
+
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Shinx lost 23 HP (27 -> 4)
+[HP change] The opposing Shinx gained 10 HP (4 -> 14)
+"The opposing Shinx restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Shinx consumed its held Oran Berry
+[Use move] The opposing Shinx (1) used Bite
+"The opposing Shinx used Bite!"
+[HP change] Skiddo lost 7 HP (35 -> 28)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shinx (1) is considering using Spark (1) against Skiddo (0)...
+     Shinx (1)'s highest damaging move vs Skiddo: Bite
+[AI] Shinx (1) is considering using Bite (1) against Skiddo (0)...
+     Shinx (1)'s highest damaging move vs Skiddo: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Shinx (1):
+   *   0.0% to use Spark (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Skiddo (0), the opposing Shinx (1)
+
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Shinx lost 14 HP (14 -> 0)
+"The opposing Shinx fainted!"
+"Skiddo got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Youngster Tristan!"
+"Wow. You're great!"
+
+"You got $144 for winning!"
