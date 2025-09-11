@@ -312114,3 +312114,45 @@ Aaron: Single
 Bertha: Single
 Flint: Double
 Lucian: Double
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Litleo appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Litleo (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Litleo (1) is considering using Tackle (1) against Piplup (0)...
+     Litleo (1)'s highest damaging move vs Piplup: Tackle
+[AI] Litleo (1) is considering using Leer (4)...
+     Litleo (1)'s highest damaging move vs Piplup: Tackle
+[AI] Litleo (1) is considering using Ember (1) against Piplup (0)...
+     Litleo (1)'s highest damaging move vs Piplup: Tackle
+[AI] Move choices for Litleo (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Leer: score 4
+   *   0.0% to use Ember (target 0): score 0
+   *   0.0% to use Ember (target 0): score 0
+   => will use Leer
+
+[Round order] Piplup (0), the wild Litleo (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Litleo was caught!"
+"Piplup got 1 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Litleo's data was added to the Pokédex."
+"Litleo has been added to your party."

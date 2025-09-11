@@ -1361,6 +1361,87 @@ UIActionHandlers.add(UI::Party::SCREEN_ID, :evolve, {
   }
 })
 
+UIActionHandlers.add(UI::Party::SCREEN_ID, :apply_status, {
+  :effect => proc { |screen|
+    pkmn = screen.pokemon
+    if pkmn.fainted? && Nuzlocke.active?
+      screen.pbDisplay(_INTL("This Pokémon can no longer be used in the Nuzlocke."))
+      next false
+    end
+    if pkmn.egg?
+      screen.pbDisplay(_INTL("{1} is an egg.", pkmn.name))
+    elsif pkmn.hp <= 0
+      screen.pbDisplay(_INTL("{1} is fainted, can't change status.", pkmn.name))
+    else
+      cmd = 0
+      commands = [_INTL("[Cure]")]
+      ids = [:NONE]
+      GameData::Status.each do |s|
+        next if s.id == :NONE
+        next if s.id == :FROZEN
+        next if s.id == :DROWSY
+        commands.push(_INTL("Set {1}", s.name))
+        ids.push(s.id)
+      end
+      loop do
+        msg = _INTL("Current status: {1}", GameData::Status.get(pkmn.status).name)
+        if pkmn.status == :SLEEP
+          msg = _INTL("Current status: {1} (turns: {2})",
+                      GameData::Status.get(pkmn.status).name, pkmn.statusCount)
+        end
+        cmd = screen.pbShowCommands(msg, commands, cmd)
+        break if cmd < 0
+        case cmd
+        when 0   # Cure
+          pkmn.heal_status
+          screen.refresh_party
+        else   # Give status problem
+          count = 0
+          cancel = false
+          if ids[cmd] == :SLEEP
+            if [:COMATOSE,:INSOMNIA,:VITALSPIRIT,:CACOPHONY,:PURIFYINGSALT].include?(pkmn.ability_id)
+              pbMessage(_INTL("This Pokemon cannot be put to sleep."))
+              cancel = true
+            end
+            params = ChooseNumberParams.new
+            params.setRange(0, 9)
+            params.setDefaultValue(3)
+            count = pbMessageChooseNumber(
+              _INTL("Set the Pokémon's sleep count."), params
+            ) { screen.pbUpdate }
+            cancel = true if count <= 0
+          elsif ids[cmd] == :BURN
+            if [:WATERBUBBLE,:FAIRYBUBBLE,:WATERVEIL,:PURIFYINGSALT].include?(pkmn.ability_id) || pkmn.types.include?(:FIRE)
+              pbMessage(_INTL("This Pokemon cannot be burned."))
+              cancel = true
+            end
+          elsif ids[cmd] == :POISON
+            if [:IMMUNITY,:FAIRYBUBBLE,:PASTELVEIL,:PURIFYINGSALT].include?(pkmn.ability_id) || pkmn.types.include?(:POISON) || pkmn.types.include?(:STEEL)
+              pbMessage(_INTL("This Pokemon cannot be poisoned."))
+              cancel = true
+            end
+          elsif ids[cmd] == :PARALYSIS
+            if [:LIMBER,:FAIRYBUBBLE,:PURIFYINGSALT].include?(pkmn.ability_id) || pkmn.types.include?(:ELECTRIC)
+              pbMessage(_INTL("This Pokemon cannot be paralyzed."))
+              cancel = true
+            end
+          elsif ids[cmd] == :FROSTBITE
+            if [:MAGMAARMOR,:FAIRYBUBBLE,:PURIFYINGSALT].include?(pkmn.ability_id) || pkmn.types.include?(:ICE)
+              pbMessage(_INTL("This Pokemon cannot be frostbitten."))
+              cancel = true
+            end
+          end
+          if !cancel
+            pkmn.status      = ids[cmd]
+            pkmn.statusCount = count
+            screen.refresh_party
+          end
+        end
+      end
+    end
+  }
+})
+
 UIActionHandlers.add(UI::Party::SCREEN_ID, :open_storage, {
   :effect => proc { |screen|
     pbFadeOutInWithUpdate(screen.sprites) do
@@ -1512,6 +1593,11 @@ MenuHandlers.add(:party_screen_interact, :evolve, {
   "name"      => _INTL("Evolve"),
   "order"     => 50,
   "condition" => proc { |screen| next pbCanPokemonEvolveInMenu?(screen.pokemon) }
+})
+
+MenuHandlers.add(:party_screen_interact, :apply_status, {
+  "name"      => _INTL("Apply Status"),
+  "order"     => 55
 })
 
 MenuHandlers.add(:party_screen_interact, :cancel, {
