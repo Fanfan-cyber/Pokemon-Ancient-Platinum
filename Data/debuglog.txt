@@ -313784,3 +313784,948 @@ Roles for OSHAWOTT: [:SPEEDCONTROL]
 
 ===== Round 1 =====
 
+Roles for TYROGUE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for BONSLY: [:NONE]
+Roles for CHINGLING: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by School Kid Harrison!"
+"School Kid Harrison sent out Tyrogue!"
+"Go! Piplup!"
+[Round order] Piplup (0), the opposing Tyrogue (1)
+
+===== Round 1 =====
+
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Tyrogue (1) is considering using Fake Out (1) against Piplup (0)...
+     Tyrogue (1)'s highest damaging move vs Piplup: Mach Punch
+     + 18 for using turn 1
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Piplup (0)...
+     Tyrogue (1)'s highest damaging move vs Piplup: Mach Punch
+     + 4 to prioritize highest damaging move
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Piplup (0)...
+     Tyrogue (1)'s highest damaging move vs Piplup: Mach Punch
+[AI] Move choices for Tyrogue (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Tyrogue (1), Piplup (0)
+
+"Piplup, switch out! Come back!"
+"You're in charge, Hoothoot!"
+[Use move] The opposing Tyrogue (1) used Fake Out
+"The opposing Tyrogue used Fake Out!"
+[HP change] Hoothoot lost 6 HP (41 -> 35)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tyrogue (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Hoothoot (0)...
+     Tyrogue (1)'s highest damaging move vs Hoothoot: Rock Tomb
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Hoothoot (0)...
+     Tyrogue (1)'s highest damaging move vs Hoothoot: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tyrogue (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Hoothoot (0), the opposing Tyrogue (1)
+
+[Use move] Hoothoot (0) used Reflect
+"Hoothoot used Reflect!"
+"Reflect raised your team's Defense!"
+[Use move] The opposing Tyrogue (1) used Rock Tomb
+"The opposing Tyrogue used Rock Tomb!"
+[HP change] Hoothoot lost 7 HP (35 -> 28)
+"It's super effective!"
+[Stat change] Hoothoot's Speed changed by -1 (0 -> -1)
+"Hoothoot's Speed fell!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): -1
+     Threat Score for Hoothoot (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tyrogue (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Hoothoot (0)...
+     Tyrogue (1)'s highest damaging move vs Hoothoot: Rock Tomb
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Hoothoot (0)...
+     Tyrogue (1)'s highest damaging move vs Hoothoot: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tyrogue (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Tyrogue (1), Hoothoot (0)
+
+[Use move] The opposing Tyrogue (1) used Rock Tomb
+"The opposing Tyrogue used Rock Tomb!"
+[HP change] Hoothoot lost 8 HP (28 -> 20)
+"It's super effective!"
+[HP change] Hoothoot gained 10 HP (20 -> 30)
+"Hoothoot restored a little HP using its Oran Berry!"
+[Item consumed] Hoothoot consumed its held Oran Berry
+[Stat change] Hoothoot's Speed changed by -1 (-1 -> -2)
+"Hoothoot's Speed fell!"
+[Use move] Hoothoot (0) used Confusion
+"Hoothoot used Confusion!"
+[HP change] The opposing Tyrogue lost 19 HP (28 -> 9)
+"It's super effective!"
+[HP change] The opposing Tyrogue gained 10 HP (9 -> 19)
+"The opposing Tyrogue restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Tyrogue consumed its held Oran Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Tyrogue (1): 0
+Set up score for Tyrogue (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): -2
+     Threat Score for Hoothoot (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tyrogue (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tyrogue (1) is considering using Mach Punch (1) against Hoothoot (0)...
+     Tyrogue (1)'s highest damaging move vs Hoothoot: Rock Tomb
+[AI] Tyrogue (1) is considering using Rock Tomb (1) against Hoothoot (0)...
+     Tyrogue (1)'s highest damaging move vs Hoothoot: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tyrogue (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Tyrogue (1), Hoothoot (0)
+
+[Use move] The opposing Tyrogue (1) used Rock Tomb
+"The opposing Tyrogue used Rock Tomb!"
+[HP change] Hoothoot lost 7 HP (30 -> 23)
+"It's super effective!"
+[Stat change] Hoothoot's Speed changed by -1 (-2 -> -3)
+"Hoothoot's Speed fell!"
+[Use move] Hoothoot (0) used Confusion
+"Hoothoot used Confusion!"
+[HP change] The opposing Tyrogue lost 19 HP (19 -> 0)
+"It's super effective!"
+"The opposing Tyrogue fainted!"
+"Hoothoot got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Bonsly] using Rock Throw vs Hoothoot does a max of 15/23 damage
+     [Bonsly] using Payback vs Hoothoot does a max of 5/23 damage
+     Hoothoot (0)'s best move: Confusion for 9/30 damage
+==============================
+     Hoothoot (0) speed (8) vs Bonsly speed: 9
+     [Bonsly] +  6: for fast 2HKO
+     [Bonsly] final Switch score: 6
+==============================
+     [Chingling] using Confusion vs Hoothoot does a max of 14/23 damage
+     [Chingling] using Mach Pulse vs Hoothoot does a max of 8/23 damage
+     Hoothoot (0)'s best move: Echoed Voice for 9/34 damage
+==============================
+     Hoothoot (0) speed (8) vs Chingling speed: 21
+     [Chingling] +  6: for fast 2HKO
+     [Chingling] final Switch score: 6
+[AI] Highest move score (28) vs Switch In Score (6)
+"School Kid Harrison sent out Bonsly!"
+
+===== Round 5 =====
+
+Set up score for Bonsly (1): 0
+Set up score for Bonsly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): -3
+     Threat Score for Hoothoot (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Hoothoot (0)...
+     Bonsly (1)'s highest damaging move vs Hoothoot: Rock Throw
+     + 4 to prioritize highest damaging move
+[AI] Bonsly (1) is considering using Payback (1) against Hoothoot (0)...
+     Bonsly (1)'s highest damaging move vs Hoothoot: Rock Throw
+[AI] Move choices for Bonsly (1):
+   * 100.0% to use Rock Throw (target 0): score 5
+   *   0.0% to use Payback (target 0): score 0
+   => will use Rock Throw (target 0)
+
+[Round order] The opposing Bonsly (1), Hoothoot (0)
+
+"Hoothoot, come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Bonsly (1) used Rock Throw
+"The opposing Bonsly used Rock Throw!"
+[HP change] Skiddo lost 6 HP (40 -> 34)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Bonsly (1): 0
+Set up score for Bonsly (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Skiddo (0)...
+     Bonsly (1)'s highest damaging move vs Skiddo: Rock Throw
+     + 4 to prioritize highest damaging move
+[AI] Bonsly (1) is considering using Payback (1) against Skiddo (0)...
+     Bonsly (1)'s highest damaging move vs Skiddo: Rock Throw
+[AI] Move choices for Bonsly (1):
+   * 100.0% to use Rock Throw (target 0): score 5
+   *   0.0% to use Payback (target 0): score 0
+   => will use Rock Throw (target 0)
+
+[Round order] Skiddo (0), the opposing Bonsly (1)
+
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Bonsly lost 27 HP (30 -> 3)
+"It's super effective!"
+[Use move] The opposing Bonsly (1) used Rock Throw
+"The opposing Bonsly used Rock Throw!"
+[HP change] Skiddo lost 6 HP (34 -> 28)
+
+[End of round 6]
+"Your team's Reflect wore off!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Bonsly (1): 0
+Set up score for Bonsly (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bonsly (1) is considering using Rock Throw (1) against Skiddo (0)...
+     Bonsly (1)'s highest damaging move vs Skiddo: Rock Throw
+     + 4 to prioritize highest damaging move
+[AI] Bonsly (1) is considering using Payback (1) against Skiddo (0)...
+     Bonsly (1)'s highest damaging move vs Skiddo: Rock Throw
+[AI] Move choices for Bonsly (1):
+   * 100.0% to use Rock Throw (target 0): score 5
+   *   0.0% to use Payback (target 0): score 0
+   => will use Rock Throw (target 0)
+
+[Round order] The opposing Bonsly (1), Skiddo (0)
+
+"The opposing Bonsly's Custap Berry let it move first!"
+[Item consumed] The opposing Bonsly consumed its held Custap Berry
+[Use move] The opposing Bonsly (1) used Rock Throw
+"The opposing Bonsly used Rock Throw!"
+[HP change] Skiddo lost 12 HP (28 -> 16)
+[HP change] Skiddo gained 10 HP (16 -> 26)
+"Skiddo restored a little HP using its Oran Berry!"
+[Item consumed] Skiddo consumed its held Oran Berry
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Bonsly lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Bonsly fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Chingling] using Confusion vs Skiddo does a max of 14/26 damage
+     [Chingling] using Mach Pulse vs Skiddo does a max of 7/26 damage
+     Skiddo (0)'s best move: Razor Leaf for 17/34 damage
+==============================
+     Skiddo (0) speed (21) vs Chingling speed: 21
+     [Chingling] -  5: for target having fast 2HKO and us having no kill
+     [Chingling] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"School Kid Harrison sent out Chingling!"
+
+===== Round 8 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Skiddo (0)...
+     Chingling (1)'s highest damaging move vs Skiddo: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Skiddo (0)...
+     Chingling (1)'s highest damaging move vs Skiddo: Confusion
+[AI] Chingling (1) is considering using Yawn (4) against Skiddo (0)...
+     Chingling (1)'s highest damaging move vs Skiddo: Confusion
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Chingling (1):
+   *  50.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *  50.0% to use Yawn (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] The opposing Chingling (1), Skiddo (0)
+
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling used Confusion!"
+[HP change] Skiddo lost 12 HP (26 -> 14)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Chingling lost 16 HP (34 -> 18)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Skiddo (0)...
+     Chingling (1)'s highest damaging move vs Skiddo: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Skiddo (0)...
+     Chingling (1)'s highest damaging move vs Skiddo: Confusion
+[AI] Chingling (1) is considering using Yawn (4) against Skiddo (0)...
+     Chingling (1)'s highest damaging move vs Skiddo: Confusion
+     - 3 because this will be pointless
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] The opposing Chingling (1), Skiddo (0)
+
+"OK, Skiddo! Come back!"
+"Go for it, Litleo!"
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling used Confusion!"
+[HP change] Litleo lost 12 HP (41 -> 29)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+[AI] Chingling (1) is considering using Yawn (4) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+     - 3 because this will be pointless
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Litleo (0), the opposing Chingling (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Chingling lost 10 HP (18 -> 8)
+[HP change] The opposing Chingling gained 10 HP (8 -> 18)
+"The opposing Chingling restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Chingling consumed its held Oran Berry
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling used Confusion!"
+[HP change] Litleo lost 12 HP (29 -> 17)
+[HP change] Litleo gained 10 HP (17 -> 27)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+[AI] Chingling (1) is considering using Yawn (4) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+     - 3 because this will be pointless
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Litleo (0), the opposing Chingling (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Chingling lost 10 HP (18 -> 8)
+[Use move] The opposing Chingling (1) used Confusion
+"The opposing Chingling used Confusion!"
+[HP change] Litleo lost 13 HP (27 -> 14)
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chingling (1) is considering using Confusion (1) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Chingling (1) is considering using Mach Pulse (1) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+[AI] Chingling (1) is considering using Yawn (4) against Litleo (0)...
+     Chingling (1)'s highest damaging move vs Litleo: Confusion
+     - 3 because this will be pointless
+[AI] Move choices for Chingling (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Litleo (0), the opposing Chingling (1)
+
+[Use move] Litleo (0) used Mach Pulse
+"Litleo used Mach Pulse!"
+[HP change] The opposing Chingling lost 8 HP (8 -> 0)
+"The opposing Chingling fainted!"
+
+===== Player won =====
+
+"You defeated School Kid Harrison!"
+"Wow. You're great!"
+
+"You got $320 for winning!"
+Roles for SMOOCHUM: [:SPEEDCONTROL]
+Roles for MAGBY: [:NONE]
+Roles for ELEKID: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by School Kid Christine!"
+"School Kid Christine sent out Smoochum!"
+"Go! Piplup!"
+[Round order] The opposing Smoochum (1), Piplup (0)
+[Ability triggered] The opposing Smoochum's Forewarn
+"The opposing Smoochum was alerted to Icy Wind!"
+[Ability triggered] The opposing Smoochum's Forewarn
+[Stat change] The opposing Smoochum's Special Defense changed by +1 (0 -> 1)
+"The opposing Smoochum's Special Defense rose!"
+
+===== Round 1 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Smoochum (1) is considering using Fake Out (1) against Piplup (0)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+     + 18 for using turn 1
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+[AI] Smoochum (1) is considering using Confusion (1) against Piplup (0)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Confusion (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Smoochum (1), Piplup (0)
+
+[Use move] The opposing Smoochum (1) used Fake Out
+"The opposing Smoochum used Fake Out!"
+[HP change] Piplup lost 3 HP (40 -> 37)
+[Use move] Piplup (0) used Pound
+"Piplup flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+[AI] Smoochum (1) is considering using Confusion (1) against Piplup (0)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Confusion (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] The opposing Smoochum (1), Piplup (0)
+
+[Use move] The opposing Smoochum (1) used Confusion
+"The opposing Smoochum used Confusion!"
+[HP change] Piplup lost 10 HP (37 -> 27)
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Smoochum lost 13 HP (29 -> 16)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+[AI] Smoochum (1) is considering using Confusion (1) against Piplup (0)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Confusion (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] The opposing Smoochum (1), Piplup (0)
+
+[Use move] The opposing Smoochum (1) used Confusion
+"The opposing Smoochum used Confusion!"
+[HP change] Piplup lost 10 HP (27 -> 17)
+[HP change] Piplup gained 10 HP (17 -> 27)
+"Piplup restored a little HP using its Oran Berry!"
+[Item consumed] Piplup consumed its held Oran Berry
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Smoochum lost 13 HP (16 -> 3)
+[HP change] The opposing Smoochum gained 10 HP (3 -> 13)
+"The opposing Smoochum restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Smoochum consumed its held Oran Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-11) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+[AI] Smoochum (1) is considering using Confusion (1) against Piplup (0)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Confusion (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] The opposing Smoochum (1), Piplup (0)
+
+[Use move] The opposing Smoochum (1) used Confusion
+"The opposing Smoochum used Confusion!"
+[HP change] Piplup lost 10 HP (27 -> 17)
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Smoochum lost 12 HP (13 -> 1)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-11) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+[AI] Smoochum (1) is considering using Confusion (1) against Piplup (0)...
+     Smoochum (1)'s highest damaging move vs Piplup: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Confusion (target 0): score 5
+   => will use Confusion (target 0)
+
+[Round order] The opposing Smoochum (1), Piplup (0)
+
+"OK, Piplup! Come back!"
+"Your opponent's weak! Get 'em, Litleo!"
+[Use move] The opposing Smoochum (1) used Confusion
+"The opposing Smoochum used Confusion!"
+[HP change] Litleo lost 10 HP (14 -> 4)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+Set up score for Smoochum (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-16) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smoochum (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Smoochum (1) is considering using Icy Wind (1)...
+     Smoochum (1)'s highest damaging move vs Litleo: Confusion
+      + 17 for slow kill
+[AI] Smoochum (1) is considering using Confusion (1) against Litleo (0)...
+     Smoochum (1)'s highest damaging move vs Litleo: Confusion
+      + 17 for slow kill
+[AI] Move choices for Smoochum (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Icy Wind: score 18
+   *  50.0% to use Confusion (target 0): score 18
+   => will use Icy Wind
+
+[Round order] Litleo (0), the opposing Smoochum (1)
+
+[Use move] Litleo (0) used Mach Pulse
+"Litleo used Mach Pulse!"
+[HP change] The opposing Smoochum lost 1 HP (1 -> 0)
+"The opposing Smoochum fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+==============================
+     [Magby] using Mach Punch vs Litleo does a max of 10/4 damage
+     [Magby] using Incinerate vs Litleo does a max of 5/4 damage
+     [Magby] using Hidden Power vs Litleo does a max of 4/4 damage
+     Litleo (0)'s best move: Headbutt for 26/29 damage
+==============================
+     Litleo (0) speed (26) vs Magby speed: 24
+     [Magby] +  9: for slow kill
+     [Magby] final Switch score: 9
+==============================
+     [Elekid] using Shock Wave vs Litleo does a max of 12/4 damage
+     [Elekid] using Quick Attack vs Litleo does a max of 6/4 damage
+     [Elekid] using Low Kick vs Litleo does a max of 12/4 damage
+     Litleo (0)'s best move: Headbutt for 24/32 damage
+==============================
+     Litleo (0) speed (26) vs Elekid speed: 29
+     [Elekid] + 12: for fast kill
+     [Elekid] final Switch score: 12
+[AI] Highest move score (19) vs Switch In Score (12)
+"School Kid Christine sent out Elekid!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Elekid (1): 0
+Set up score for Elekid (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Litleo (0)...
+     Elekid (1)'s highest damaging move vs Litleo: Low Kick
+      + 20 for fast kill
+[AI] Elekid (1) is considering using Quick Attack (1) against Litleo (0)...
+     Elekid (1)'s highest damaging move vs Litleo: Low Kick
+      + 20 for fast kill
+[AI] Elekid (1) is considering using Low Kick (1) against Litleo (0)...
+     Elekid (1)'s highest damaging move vs Litleo: Low Kick
+      + 20 for fast kill
+[AI] Move choices for Elekid (1):
+   *  33.3% to use Shock Wave (target 0): score 21
+   *  33.3% to use Quick Attack (target 0): score 21
+   *  33.3% to use Low Kick (target 0): score 21
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Elekid (1), Litleo (0)
+
+"Good job, Litleo! Come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Elekid (1) used Quick Attack
+"The opposing Elekid used Quick Attack!"
+[HP change] Skiddo lost 6 HP (14 -> 8)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Elekid (1): 0
+Set up score for Elekid (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Elekid (1)'s highest damaging move vs Skiddo: Quick Attack
+[AI] Elekid (1) is considering using Quick Attack (1) against Skiddo (0)...
+     Elekid (1)'s highest damaging move vs Skiddo: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Low Kick (1) against Skiddo (0)...
+     Elekid (1)'s highest damaging move vs Skiddo: Quick Attack
+[AI] Move choices for Elekid (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Elekid (1), Skiddo (0)
+
+[Use move] The opposing Elekid (1) used Quick Attack
+"The opposing Elekid used Quick Attack!"
+[HP change] Skiddo lost 6 HP (8 -> 2)
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Elekid lost 18 HP (32 -> 14)
+[HP change] The opposing Elekid gained 10 HP (14 -> 24)
+"The opposing Elekid restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Elekid consumed its held Oran Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Elekid (1): 0
+Set up score for Elekid (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Elekid (1)'s highest damaging move vs Skiddo: Quick Attack
+      + 20 for fast kill
+[AI] Elekid (1) is considering using Quick Attack (1) against Skiddo (0)...
+     Elekid (1)'s highest damaging move vs Skiddo: Quick Attack
+      + 20 for fast kill
+[AI] Elekid (1) is considering using Low Kick (1) against Skiddo (0)...
+     Elekid (1)'s highest damaging move vs Skiddo: Quick Attack
+      + 20 for fast kill
+[AI] Move choices for Elekid (1):
+   *  33.3% to use Shock Wave (target 0): score 21
+   *  33.3% to use Quick Attack (target 0): score 21
+   *  33.3% to use Low Kick (target 0): score 21
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Elekid (1), Skiddo (0)
+
+"Good job, Skiddo! Come back!"
+"Go for it, Qwilfish!"
+[Use move] The opposing Elekid (1) used Quick Attack
+"The opposing Elekid used Quick Attack!"
+[HP change] Qwilfish lost 4 HP (42 -> 38)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Elekid (1): 0
+Set up score for Elekid (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Elekid (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Elekid (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Elekid (1) is considering using Quick Attack (1) against Qwilfish (0)...
+     Elekid (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Elekid (1) is considering using Low Kick (1) against Qwilfish (0)...
+     Elekid (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Move choices for Elekid (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Low Kick (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Elekid (1), Qwilfish (0)
+
+[Use move] The opposing Elekid (1) used Shock Wave
+"The opposing Elekid used Shock Wave!"
+[HP change] Qwilfish lost 23 HP (38 -> 15)
+"It's super effective!"
+[HP change] Qwilfish gained 10 HP (15 -> 25)
+"Qwilfish restored a little HP using its Oran Berry!"
+[Item consumed] Qwilfish consumed its held Oran Berry
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Elekid lost 24 HP (24 -> 0)
+"The opposing Elekid fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+==============================
+     [Magby] using Mach Punch vs Qwilfish does a max of 3/25 damage
+     [Magby] using Incinerate vs Qwilfish does a max of 5/25 damage
+     [Magby] using Hidden Power vs Qwilfish does a max of 7/25 damage
+     Qwilfish (0)'s best move: Aqua Jet for 48/29 damage
+==============================
+     Qwilfish (0) speed (29) vs Magby speed: 24
+     [Magby] -  9: for target fast kill
+     [Magby] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"School Kid Christine sent out Magby!"
+
+===== Round 11 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magby (1) is considering using Mach Punch (1) against Qwilfish (0)...
+     Magby (1)'s highest damaging move vs Qwilfish: Hidden Power
+[AI] Magby (1) is considering using Incinerate (1)...
+     Magby (1)'s highest damaging move vs Qwilfish: Hidden Power
+[AI] Magby (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Magby (1)'s highest damaging move vs Qwilfish: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Magby (1):
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Qwilfish (0), the opposing Magby (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Magby lost 29 HP (29 -> 0)
+"It's super effective!"
+"The opposing Magby fainted!"
+
+===== Player won =====
+
+"You defeated School Kid Christine!"
+"Wow. You're great!"
+
+"You got $320 for winning!"
