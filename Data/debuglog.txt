@@ -314729,3 +314729,2616 @@ Set up score for Qwilfish (0): 0
 "Wow. You're great!"
 
 "You got $320 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Finneon appeared!"
+"Go! Piplup!"
+[Round order] Piplup (0), the wild Finneon (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Finneon (1) is considering using Pound (1) against Piplup (0)...
+     Finneon (1)'s highest damaging move vs Piplup: Pound
+[AI] Move choices for Finneon (1):
+   *  50.0% to use Pound (target 0): score 1
+   *  50.0% to use Pound (target 0): score 1
+   => will use Pound (target 0)
+
+[Round order] Piplup (0), the wild Finneon (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Finneon was caught!"
+
+===== Pokémon caught =====
+
+"Finneon's data was added to the Pokédex."
+"Where do you want to send Finneon to?"
+"Finneon has been sent to Box "Box 1"!"
+Roles for PIKACHU: [:NONE]
+Roles for ROWLET: [:PHYSICALBREAKER]
+Roles for CYNDAQUIL: [:NONE]
+Roles for OSHAWOTT: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Sarah!"
+"Lass Sarah sent out Pikachu!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Pikachu (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 6
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pikachu (1) is considering using Fake Out (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 18 for using turn 1
+[AI] Pikachu (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Pikachu (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Move choices for Pikachu (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Pikachu (1), Qwilfish (0)
+
+[Use move] The opposing Pikachu (1) used Fake Out
+"The opposing Pikachu used Fake Out!"
+[HP change] Qwilfish lost 4 HP (42 -> 38)
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Pikachu (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Qwilfish (0), the opposing Pikachu (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Pikachu lost 27 HP (28 -> 1)
+[Ability triggered] The opposing Pikachu's Static
+"Qwilfish is paralyzed! It may be unable to move!"
+[HP change] The opposing Pikachu gained 10 HP (1 -> 11)
+"The opposing Pikachu restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Pikachu consumed its held Oran Berry
+"The opposing Pikachu was badly poisoned!"
+[Use move] The opposing Pikachu (1) used Shock Wave
+"The opposing Pikachu used Shock Wave!"
+[HP change] Qwilfish lost 16 HP (38 -> 22)
+"It's super effective!"
+
+[End of round 2]
+[HP change] The opposing Pikachu lost 1 HP (11 -> 10)
+"The opposing Pikachu was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Pikachu (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Qwilfish (0), the opposing Pikachu (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish is paralyzed! It can't move!"
+[Use move] The opposing Pikachu (1) used Shock Wave
+"The opposing Pikachu used Shock Wave!"
+[HP change] Qwilfish lost 17 HP (22 -> 5)
+"It's super effective!"
+[HP change] Qwilfish gained 10 HP (5 -> 15)
+"Qwilfish restored a little HP using its Oran Berry!"
+[Item consumed] Qwilfish consumed its held Oran Berry
+
+[End of round 3]
+[HP change] The opposing Pikachu lost 3 HP (10 -> 7)
+"The opposing Pikachu was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Pikachu (1): 0
+Set up score for Pikachu (1): 0
+     [Switch AI] +2 Reset Toxic clock
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pikachu (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Pikachu (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+      + 20 for fast kill
+[AI] Pikachu (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Pikachu (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Move choices for Pikachu (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Shock Wave (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Qwilfish (0), the opposing Pikachu (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Pikachu lost 7 HP (7 -> 0)
+"A critical hit!"
+"The opposing Pikachu fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Rowlet] using Razor Leaf vs Qwilfish does a max of 11/15 damage
+     [Rowlet] using Pluck vs Qwilfish does a max of 11/15 damage
+     [Rowlet] using Shadow Sneak vs Qwilfish does a max of 5/15 damage
+     Qwilfish (0)'s best move: Poison Fang for 42/36 damage
+==============================
+     Qwilfish (0) speed (15) vs Rowlet speed: 17
+     [Rowlet] -  7: for target slow kill
+     [Rowlet] final Switch score: -7
+==============================
+     [Cyndaquil] using Incinerate vs Qwilfish does a max of 6/15 damage
+     [Cyndaquil] using Hidden Power vs Qwilfish does a max of 8/15 damage
+     [Cyndaquil] using Quick Attack vs Qwilfish does a max of 5/15 damage
+     Qwilfish (0)'s best move: Aqua Jet for 42/30 damage
+==============================
+     Qwilfish (0) speed (15) vs Cyndaquil speed: 23
+     [Cyndaquil] -  7: for target slow kill
+     [Cyndaquil] final Switch score: -7
+==============================
+     [Oshawott] using Water Pulse vs Qwilfish does a max of 6/15 damage
+     [Oshawott] using Icy Wind vs Qwilfish does a max of 4/15 damage
+     [Oshawott] using Aqua Jet vs Qwilfish does a max of 4/15 damage
+     Qwilfish (0)'s best move: Poison Fang for 24/34 damage
+==============================
+     Qwilfish (0) speed (15) vs Oshawott speed: 18
+     [Oshawott] final Switch score: 0
+[AI] Highest move score (19) vs Switch In Score (0)
+"Lass Sarah sent out Oshawott!"
+
+===== Round 5 =====
+
+Set up score for Oshawott (1): 0
+Set up score for Oshawott (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oshawott (1) is considering using Water Pulse (1) against Qwilfish (0)...
+     Oshawott (1)'s highest damaging move vs Qwilfish: Water Pulse
+     + 4 to prioritize highest damaging move
+[AI] Oshawott (1) is considering using Icy Wind (1)...
+     Oshawott (1)'s highest damaging move vs Qwilfish: Water Pulse
+[AI] Oshawott (1) is considering using Aqua Jet (1) against Qwilfish (0)...
+     Oshawott (1)'s highest damaging move vs Qwilfish: Water Pulse
+[AI] Move choices for Oshawott (1):
+   * 100.0% to use Water Pulse (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Oshawott (1), Qwilfish (0)
+
+"OK, Qwilfish! Come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Oshawott (1) used Water Pulse
+"The opposing Oshawott used Water Pulse!"
+[HP change] Skiddo lost 6 HP (40 -> 34)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Oshawott (1): 0
+Set up score for Oshawott (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oshawott (1) is considering using Water Pulse (1) against Skiddo (0)...
+     Oshawott (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Oshawott (1) is considering using Icy Wind (1)...
+     Oshawott (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Oshawott (1) is considering using Aqua Jet (1) against Skiddo (0)...
+     Oshawott (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Oshawott (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Aqua Jet (target 0): score 10
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Oshawott (1), Skiddo (0)
+
+[Use move] The opposing Oshawott (1) used Aqua Jet
+"The opposing Oshawott used Aqua Jet!"
+[HP change] Skiddo lost 5 HP (34 -> 29)
+"It's not very effective..."
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Oshawott lost 34 HP (34 -> 0)
+"It's super effective!"
+"The opposing Oshawott fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+==============================
+     [Rowlet] using Razor Leaf vs Skiddo does a max of 6/29 damage
+     [Rowlet] using Pluck vs Skiddo does a max of 27/29 damage
+     [Rowlet] using Shadow Sneak vs Skiddo does a max of 7/29 damage
+     Skiddo (0)'s best move: Stomp for 13/36 damage
+==============================
+     Skiddo (0) speed (21) vs Rowlet speed: 17
+     [Rowlet] +  3: for outdamage
+     [Rowlet] final Switch score: 3
+==============================
+     [Cyndaquil] using Incinerate vs Skiddo does a max of 24/29 damage
+     [Cyndaquil] using Hidden Power vs Skiddo does a max of 4/29 damage
+     [Cyndaquil] using Quick Attack vs Skiddo does a max of 6/29 damage
+     Skiddo (0)'s best move: Stomp for 16/30 damage
+==============================
+     Skiddo (0) speed (21) vs Cyndaquil speed: 23
+     [Cyndaquil] +  6: for fast 2HKO
+     [Cyndaquil] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (6)
+"Lass Sarah sent out Cyndaquil!"
+
+===== Round 7 =====
+
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     Cyndaquil (1)'s highest damaging move vs Skiddo: Incinerate
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Skiddo (0)...
+     Cyndaquil (1)'s highest damaging move vs Skiddo: Incinerate
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Skiddo (0)...
+     Cyndaquil (1)'s highest damaging move vs Skiddo: Incinerate
+[AI] Move choices for Cyndaquil (1):
+   * 100.0% to use Incinerate: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Incinerate
+
+[Round order] The opposing Cyndaquil (1), Skiddo (0)
+
+"Skiddo, come back!"
+"You're in charge, Piplup!"
+[Use move] The opposing Cyndaquil (1) used Incinerate
+"The opposing Cyndaquil used Incinerate!"
+[HP change] Piplup lost 6 HP (40 -> 34)
+"It's not very effective..."
+"Piplup's Oran Berry was incinerated!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     Cyndaquil (1)'s highest damaging move vs Piplup: Hidden Power
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Piplup (0)...
+     Cyndaquil (1)'s highest damaging move vs Piplup: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Piplup (0)...
+     Cyndaquil (1)'s highest damaging move vs Piplup: Hidden Power
+[AI] Move choices for Cyndaquil (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Cyndaquil (1), Piplup (0)
+
+[Use move] The opposing Cyndaquil (1) used Hidden Power
+"The opposing Cyndaquil used Hidden Power!"
+[HP change] Piplup lost 16 HP (34 -> 18)
+"It's super effective!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Cyndaquil lost 23 HP (30 -> 7)
+"It's super effective!"
+[HP change] The opposing Cyndaquil gained 10 HP (7 -> 17)
+"The opposing Cyndaquil restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Cyndaquil consumed its held Oran Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Cyndaquil (1): 0
+Set up score for Cyndaquil (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cyndaquil (1) is considering using Incinerate (1)...
+     Cyndaquil (1)'s highest damaging move vs Piplup: Hidden Power
+[AI] Cyndaquil (1) is considering using Hidden Power (1) against Piplup (0)...
+     Cyndaquil (1)'s highest damaging move vs Piplup: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Cyndaquil (1) is considering using Quick Attack (1) against Piplup (0)...
+     Cyndaquil (1)'s highest damaging move vs Piplup: Hidden Power
+[AI] Move choices for Cyndaquil (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Cyndaquil (1), Piplup (0)
+
+[Use move] The opposing Cyndaquil (1) used Hidden Power
+"The opposing Cyndaquil used Hidden Power!"
+[HP change] Piplup lost 16 HP (18 -> 2)
+"It's super effective!"
+[Use move] Piplup (0) used Water Gun
+"Piplup used Water Gun!"
+[HP change] The opposing Cyndaquil lost 17 HP (17 -> 0)
+"It's super effective!"
+"The opposing Cyndaquil fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Rowlet] using Razor Leaf vs Piplup does a max of 21/2 damage
+     [Rowlet] using Pluck vs Piplup does a max of 11/2 damage
+     [Rowlet] using Shadow Sneak vs Piplup does a max of 5/2 damage
+     Piplup (0)'s best move: Icy Wind for 44/36 damage
+==============================
+     Piplup (0) speed (17) vs Rowlet speed: 17
+     [Rowlet] -  9: for target fast kill
+     [Rowlet] final Switch score: -9
+[AI] Highest move score (27) vs Switch In Score (-9)
+"Lass Sarah sent out Rowlet!"
+
+===== Round 10 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+     Rowlet (1)'s highest damaging move vs Piplup: Razor Leaf
+      + 17 for slow kill
+[AI] Rowlet (1) is considering using Pluck (1) against Piplup (0)...
+     Rowlet (1)'s highest damaging move vs Piplup: Razor Leaf
+      + 17 for slow kill
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Piplup (0)...
+     Rowlet (1)'s highest damaging move vs Piplup: Razor Leaf
+      + 17 for slow kill
+[AI] Move choices for Rowlet (1):
+   *  33.3% to use Razor Leaf: score 18
+   *  33.3% to use Pluck (target 0): score 18
+   *  33.3% to use Shadow Sneak (target 0): score 18
+   => will use Razor Leaf
+
+[Round order] The opposing Rowlet (1), Piplup (0)
+
+"Good job, Piplup! Come back!"
+"You're in charge, Hoothoot!"
+[Use move] The opposing Rowlet (1) used Razor Leaf
+"The opposing Rowlet used Razor Leaf!"
+[HP change] Hoothoot lost 10 HP (41 -> 31)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+[AI] Rowlet (1) is considering using Pluck (1) against Hoothoot (0)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Hoothoot (0)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Hoothoot (0), the opposing Rowlet (1)
+
+[Use move] Hoothoot (0) used Peck
+"Hoothoot used Peck!"
+[HP change] The opposing Rowlet lost 14 HP (36 -> 22)
+"It's super effective!"
+[Use move] The opposing Rowlet (1) used Pluck
+"The opposing Rowlet used Pluck!"
+[HP change] Hoothoot lost 16 HP (31 -> 15)
+"The opposing Rowlet stole and ate its target's Oran Berry!"
+[HP change] The opposing Rowlet gained 10 HP (22 -> 32)
+[Item triggered] Forced consuming of Oran Berry
+"The opposing Rowlet's HP was restored."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+[AI] Rowlet (1) is considering using Pluck (1) against Hoothoot (0)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Hoothoot (0)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Hoothoot (0), the opposing Rowlet (1)
+
+[Use move] Hoothoot (0) used Reflect
+"Hoothoot used Reflect!"
+"Reflect raised your team's Defense!"
+[Use move] The opposing Rowlet (1) used Pluck
+"The opposing Rowlet used Pluck!"
+[HP change] Hoothoot lost 7 HP (15 -> 8)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+[AI] Rowlet (1) is considering using Pluck (1) against Hoothoot (0)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+      + 17 for slow kill
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Hoothoot (0)...
+     Rowlet (1)'s highest damaging move vs Hoothoot: Pluck
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Pluck (target 0): score 18
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] Hoothoot (0), the opposing Rowlet (1)
+
+"Good job, Hoothoot! Come back!"
+"Go for it, Qwilfish!"
+[Use move] The opposing Rowlet (1) used Pluck
+"The opposing Rowlet used Pluck!"
+[HP change] Qwilfish lost 5 HP (15 -> 10)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rowlet (1) is considering using Razor Leaf (1)...
+     Rowlet (1)'s highest damaging move vs Qwilfish: Pluck
+[AI] Rowlet (1) is considering using Pluck (1) against Qwilfish (0)...
+     Rowlet (1)'s highest damaging move vs Qwilfish: Pluck
+     + 4 to prioritize highest damaging move
+[AI] Rowlet (1) is considering using Shadow Sneak (1) against Qwilfish (0)...
+     Rowlet (1)'s highest damaging move vs Qwilfish: Pluck
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Rowlet (1):
+   *   0.0% to use Razor Leaf: score 0
+   *   0.0% to use Pluck (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Rowlet (1), Qwilfish (0)
+
+[Use move] The opposing Rowlet (1) used Shadow Sneak
+"The opposing Rowlet used Shadow Sneak!"
+[HP change] Qwilfish lost 2 HP (10 -> 8)
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Rowlet lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Rowlet fainted!"
+
+===== Player won =====
+
+"You defeated Lass Sarah!"
+"Wow. You're great!"
+
+"You got $160 for winning!"
+Roles for CHIKORITA: [:SPECIALBREAKER]
+Roles for TOTODILE: [:NONE]
+Roles for TEPIG: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Samantha!"
+"Lass Samantha sent out Chikorita!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Chikorita (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chikorita (1): 0
+Set up score for Chikorita (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chikorita (1) is considering using Mega Drain (1) against Qwilfish (0)...
+     Chikorita (1)'s highest damaging move vs Qwilfish: Mega Drain
+     + 4 to prioritize highest damaging move
+[AI] Chikorita (1) is considering using Fairy Wind (1) against Qwilfish (0)...
+     Chikorita (1)'s highest damaging move vs Qwilfish: Mega Drain
+[AI] Chikorita (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Chikorita (1)'s highest damaging move vs Qwilfish: Mega Drain
+[AI] Move choices for Chikorita (1):
+   * 100.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Fairy Wind (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Qwilfish (0), the opposing Chikorita (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Chikorita lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Chikorita fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Totodile] using Aqua Jet vs Qwilfish does a max of 5/42 damage
+     [Totodile] using Bite vs Qwilfish does a max of 8/42 damage
+     [Totodile] using Water Pulse vs Qwilfish does a max of 5/42 damage
+     Qwilfish (0)'s best move: Poison Fang for 21/33 damage
+==============================
+     Qwilfish (0) speed (29) vs Totodile speed: 17
+     [Totodile] -  5: for target having fast 2HKO and us having no kill
+     [Totodile] final Switch score: -5
+==============================
+     [Tepig] using Incinerate vs Qwilfish does a max of 5/42 damage
+     [Tepig] using Bulldoze vs Qwilfish does a max of 16/42 damage
+     Qwilfish (0)'s best move: Aqua Jet for 39/36 damage
+==============================
+     Qwilfish (0) speed (29) vs Tepig speed: 17
+     [Tepig] -  9: for target fast kill
+     [Tepig] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Lass Samantha sent out Totodile!"
+
+===== Round 2 =====
+
+Set up score for Totodile (1): 0
+Set up score for Totodile (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Qwilfish (0)...
+     Totodile (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Totodile (1) is considering using Bite (1) against Qwilfish (0)...
+     Totodile (1)'s highest damaging move vs Qwilfish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Water Pulse (1) against Qwilfish (0)...
+     Totodile (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Qwilfish (0), the opposing Totodile (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Totodile lost 18 HP (33 -> 15)
+[HP change] The opposing Totodile gained 10 HP (15 -> 25)
+"The opposing Totodile restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Totodile consumed its held Oran Berry
+"The opposing Totodile was badly poisoned!"
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Qwilfish lost 8 HP (42 -> 34)
+
+[End of round 2]
+[HP change] The opposing Totodile lost 2 HP (25 -> 23)
+"The opposing Totodile was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Totodile (1): 0
+Set up score for Totodile (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Totodile (1) is considering using Aqua Jet (1) against Qwilfish (0)...
+     Totodile (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Totodile (1) is considering using Bite (1) against Qwilfish (0)...
+     Totodile (1)'s highest damaging move vs Qwilfish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Totodile (1) is considering using Water Pulse (1) against Qwilfish (0)...
+     Totodile (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Move choices for Totodile (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] Qwilfish (0), the opposing Totodile (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Totodile lost 20 HP (23 -> 3)
+[Use move] The opposing Totodile (1) used Bite
+"The opposing Totodile used Bite!"
+[HP change] Qwilfish lost 8 HP (34 -> 26)
+
+[End of round 3]
+[HP change] The opposing Totodile lost 3 HP (3 -> 0)
+"The opposing Totodile was hurt by poison!"
+"The opposing Totodile fainted!"
+Trick Room Turns: 0
+==============================
+     [Tepig] using Incinerate vs Qwilfish does a max of 5/26 damage
+     [Tepig] using Bulldoze vs Qwilfish does a max of 16/26 damage
+     Qwilfish (0)'s best move: Aqua Jet for 39/36 damage
+==============================
+     Qwilfish (0) speed (29) vs Tepig speed: 17
+     [Tepig] -  9: for target fast kill
+     [Tepig] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Lass Samantha sent out Tepig!"
+
+===== Round 4 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tepig (1) is considering using Incinerate (1)...
+     Tepig (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Tepig (1) is considering using Bulldoze (1)...
+     Tepig (1)'s highest damaging move vs Qwilfish: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Tepig (1) is considering using Will-O-Wisp (4) against Qwilfish (0)...
+     Tepig (1)'s highest damaging move vs Qwilfish: Bulldoze
+     - 3 because this will be pointless
+[AI] Move choices for Tepig (1):
+   *   0.0% to use Incinerate: score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Qwilfish (0), the opposing Tepig (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Tepig lost 36 HP (36 -> 0)
+"It's super effective!"
+"The opposing Tepig fainted!"
+
+===== Player won =====
+
+"You defeated Lass Samantha!"
+"Wow. You're great!"
+
+"You got $160 for winning!"
+Roles for EEVEE: [:PHYSICALBREAKER]
+Roles for DROWZEE: [:SPECIALBREAKER]
+Roles for MIENFOO: [:PHYSICALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Tyler!"
+"Youngster Tyler sent out Eevee!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Eevee (1)
+
+===== Round 1 =====
+
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Eevee (1) is considering using Quick Attack (1) against Qwilfish (0)...
+     Eevee (1)'s highest damaging move vs Qwilfish: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Qwilfish (0)...
+     Eevee (1)'s highest damaging move vs Qwilfish: Quick Attack
+[AI] Eevee (1) is considering using Double Kick (1) against Qwilfish (0)...
+     Eevee (1)'s highest damaging move vs Qwilfish: Quick Attack
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Eevee (1), Qwilfish (0)
+
+[Use move] The opposing Eevee (1) used Quick Attack
+"The opposing Eevee used Quick Attack!"
+[HP change] Qwilfish lost 10 HP (42 -> 32)
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Eevee lost 20 HP (34 -> 14)
+"The opposing Eevee was badly poisoned!"
+
+[End of round 1]
+[HP change] The opposing Eevee lost 2 HP (14 -> 12)
+"The opposing Eevee was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Eevee (1): 0
+Set up score for Eevee (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Eevee (1) is considering using Quick Attack (1) against Qwilfish (0)...
+     Eevee (1)'s highest damaging move vs Qwilfish: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Eevee (1) is considering using Covet (1) against Qwilfish (0)...
+     Eevee (1)'s highest damaging move vs Qwilfish: Quick Attack
+[AI] Eevee (1) is considering using Double Kick (1) against Qwilfish (0)...
+     Eevee (1)'s highest damaging move vs Qwilfish: Quick Attack
+[AI] Move choices for Eevee (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Quick Attack (target 0)
+
+[Round order] Qwilfish (0), the opposing Eevee (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Eevee lost 12 HP (12 -> 0)
+"The opposing Eevee fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Drowzee] using Confusion vs Qwilfish does a max of 18/32 damage
+     [Drowzee] using Acid vs Qwilfish does a max of 3/32 damage
+     [Drowzee] using Hidden Power vs Qwilfish does a max of 4/32 damage
+     Qwilfish (0)'s best move: Poison Fang for 23/37 damage
+==============================
+     Qwilfish (0) speed (29) vs Drowzee speed: 17
+     [Drowzee] -  5: for target having fast 2HKO and us having no kill
+     [Drowzee] final Switch score: -5
+==============================
+     [Mienfoo] using Fake Out vs Qwilfish does a max of 7/32 damage
+     [Mienfoo] using Force Palm vs Qwilfish does a max of 7/32 damage
+     [Mienfoo] using Rock Tomb vs Qwilfish does a max of 9/32 damage
+     Qwilfish (0)'s best move: Poison Fang for 21/34 damage
+==============================
+     Qwilfish (0) speed (29) vs Mienfoo speed: 24
+     [Mienfoo] -  5: for target having fast 2HKO and us having no kill
+     [Mienfoo] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Youngster Tyler sent out Drowzee!"
+[Ability triggered] The opposing Drowzee's Forewarn
+"The opposing Drowzee was alerted to Poison Fang!"
+[Ability triggered] The opposing Drowzee's Forewarn
+[Stat change] The opposing Drowzee's Defense changed by +1 (0 -> 1)
+"The opposing Drowzee's Defense rose!"
+
+===== Round 3 =====
+
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Qwilfish (0)...
+     Drowzee (1)'s highest damaging move vs Qwilfish: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+     Drowzee (1)'s highest damaging move vs Qwilfish: Confusion
+[AI] Drowzee (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Drowzee (1)'s highest damaging move vs Qwilfish: Confusion
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Qwilfish (0), the opposing Drowzee (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Drowzee lost 16 HP (37 -> 21)
+"The opposing Drowzee was badly poisoned!"
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Qwilfish lost 17 HP (32 -> 15)
+"It's super effective!"
+[HP change] Qwilfish gained 10 HP (15 -> 25)
+"Qwilfish restored a little HP using its Oran Berry!"
+[Item consumed] Qwilfish consumed its held Oran Berry
+
+[End of round 3]
+[HP change] The opposing Drowzee lost 2 HP (21 -> 19)
+"The opposing Drowzee was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Qwilfish (0)...
+     Drowzee (1)'s highest damaging move vs Qwilfish: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+     Drowzee (1)'s highest damaging move vs Qwilfish: Confusion
+[AI] Drowzee (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Drowzee (1)'s highest damaging move vs Qwilfish: Confusion
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Qwilfish (0), the opposing Drowzee (1)
+
+"Qwilfish, come back!"
+"Go for it, Hoothoot!"
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Hoothoot lost 10 HP (41 -> 31)
+
+[End of round 4]
+[HP change] The opposing Drowzee lost 4 HP (19 -> 15)
+"The opposing Drowzee was hurt by poison!"
+[HP change] The opposing Drowzee gained 10 HP (15 -> 25)
+"The opposing Drowzee restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Drowzee consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +2 Reset Toxic clock
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Hoothoot (0)...
+     Drowzee (1)'s highest damaging move vs Hoothoot: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+     Drowzee (1)'s highest damaging move vs Hoothoot: Confusion
+[AI] Drowzee (1) is considering using Hidden Power (1) against Hoothoot (0)...
+     Drowzee (1)'s highest damaging move vs Hoothoot: Confusion
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Hoothoot (0), the opposing Drowzee (1)
+
+[Use move] Hoothoot (0) used Echoed Voice
+"Hoothoot used Echoed Voice!"
+[HP change] The opposing Drowzee lost 7 HP (25 -> 18)
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Hoothoot lost 10 HP (31 -> 21)
+"Hoothoot became confused!"
+[Lingering effect] Hoothoot's confusion count is 3
+
+[End of round 5]
+[HP change] The opposing Drowzee lost 6 HP (18 -> 12)
+"The opposing Drowzee was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +2 Reset Toxic clock
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Hoothoot (0)...
+     Drowzee (1)'s highest damaging move vs Hoothoot: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Drowzee (1) is considering using Acid (1)...
+     Drowzee (1)'s highest damaging move vs Hoothoot: Confusion
+[AI] Drowzee (1) is considering using Hidden Power (1) against Hoothoot (0)...
+     Drowzee (1)'s highest damaging move vs Hoothoot: Confusion
+[AI] Move choices for Drowzee (1):
+   * 100.0% to use Confusion (target 0): score 5
+   *   0.0% to use Acid: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Confusion (target 0)
+
+[Round order] Hoothoot (0), the opposing Drowzee (1)
+
+"Hoothoot, come back!"
+"Just a little more! Hang in there, Litleo!"
+[Use move] The opposing Drowzee (1) used Confusion
+"The opposing Drowzee used Confusion!"
+[HP change] Litleo lost 8 HP (41 -> 33)
+
+[End of round 6]
+[HP change] The opposing Drowzee lost 9 HP (12 -> 3)
+"The opposing Drowzee was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+Set up score for Drowzee (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +2 Reset Toxic clock
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drowzee (1) is considering using Confusion (1) against Litleo (0)...
+     Drowzee (1)'s highest damaging move vs Litleo: Hidden Power
+[AI] Drowzee (1) is considering using Acid (1)...
+     Drowzee (1)'s highest damaging move vs Litleo: Hidden Power
+[AI] Drowzee (1) is considering using Hidden Power (1) against Litleo (0)...
+     Drowzee (1)'s highest damaging move vs Litleo: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drowzee (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Acid: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Litleo (0), the opposing Drowzee (1)
+
+[Use move] Litleo (0) used Mach Pulse
+"Litleo used Mach Pulse!"
+[HP change] The opposing Drowzee lost 3 HP (3 -> 0)
+"The opposing Drowzee fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Mienfoo] using Fake Out vs Litleo does a max of 7/33 damage
+     [Mienfoo] using Force Palm vs Litleo does a max of 30/33 damage
+     [Mienfoo] using Rock Tomb vs Litleo does a max of 20/33 damage
+     Litleo (0)'s best move: Headbutt for 14/34 damage
+==============================
+     Litleo (0) speed (26) vs Mienfoo speed: 24
+     [Mienfoo] +  3: for outdamage
+     [Mienfoo] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Youngster Tyler sent out Mienfoo!"
+
+===== Round 8 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out (1) against Litleo (0)...
+     Mienfoo (1)'s highest damaging move vs Litleo: Force Palm
+     + 18 for using turn 1
+[AI] Mienfoo (1) is considering using Force Palm (1) against Litleo (0)...
+     Mienfoo (1)'s highest damaging move vs Litleo: Force Palm
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Litleo (0)...
+     Mienfoo (1)'s highest damaging move vs Litleo: Force Palm
+[AI] Move choices for Mienfoo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Mienfoo (1), Litleo (0)
+
+"Litleo, come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Mienfoo (1) used Fake Out
+"The opposing Mienfoo used Fake Out!"
+[HP change] Qwilfish lost 7 HP (25 -> 18)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Qwilfish (0)...
+     Mienfoo (1)'s highest damaging move vs Qwilfish: Rock Tomb
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Mienfoo (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Qwilfish (0), the opposing Mienfoo (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Mienfoo lost 19 HP (34 -> 15)
+[Use move] The opposing Mienfoo (1) used Rock Tomb
+"The opposing Mienfoo used Rock Tomb!"
+[HP change] Qwilfish lost 8 HP (18 -> 10)
+[Stat change] Qwilfish's Speed changed by -1 (0 -> -1)
+"Qwilfish's Speed fell!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Qwilfish (0)...
+     Mienfoo (1)'s highest damaging move vs Qwilfish: Rock Tomb
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Mienfoo (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Mienfoo (1), Qwilfish (0)
+
+"Good job, Qwilfish! Come back!"
+"Just a little more! Hang in there, Skiddo!"
+[Use move] The opposing Mienfoo (1) used Rock Tomb
+"The opposing Mienfoo used Rock Tomb!"
+[HP change] Skiddo lost 12 HP (40 -> 28)
+[Stat change] Skiddo's Speed changed by -1 (0 -> -1)
+"Skiddo's Speed fell!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Skiddo (0): -1
+     Threat Score for Skiddo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienfoo (1) is considering using Force Palm (1) against Skiddo (0)...
+     Mienfoo (1)'s highest damaging move vs Skiddo: Force Palm
+     + 4 to prioritize highest damaging move
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Skiddo (0)...
+     Mienfoo (1)'s highest damaging move vs Skiddo: Force Palm
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Force Palm (target 0): score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Mienfoo (1), Skiddo (0)
+
+[Use move] The opposing Mienfoo (1) used Force Palm
+"The opposing Mienfoo used Force Palm!"
+[HP change] Skiddo lost 17 HP (28 -> 11)
+[HP change] Skiddo gained 10 HP (11 -> 21)
+"Skiddo restored a little HP using its Oran Berry!"
+[Item consumed] Skiddo consumed its held Oran Berry
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Mienfoo lost 15 HP (15 -> 0)
+"The opposing Mienfoo fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Tyler!"
+"Wow. You're great!"
+
+"You got $176 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Geodude appeared!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the wild Geodude (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Geodude (1) is considering using Tackle (1) against Qwilfish (0)...
+     Geodude (1)'s highest damaging move vs Qwilfish: Tackle
+[AI] Geodude (1) is considering using Charge (4)...
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Charge: score 4
+   => will use Charge
+
+[Round order] Qwilfish (0), the wild Geodude (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Geodude was caught!"
+
+===== Pokémon caught =====
+
+"Geodude's data was added to the Pokédex."
+"Where do you want to send Geodude to?"
+"Where do you want to send Geodude to?"
+"Geodude has been sent to Box "Box 1"!"
+Roles for BEAUTIFLY: [:SPECIALBREAKER]
+Roles for TRAPINCH: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for FERROSEED: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Sophia!"
+"Ace Trainer Sophia sent out Beautifly!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Beautifly (1)
+
+===== Round 1 =====
+
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+     [Switch AI] +5 Party member [Ferroseed] is immune to strongest move against Beautifly (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Qwilfish (0)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Qwilfish (0), the opposing Beautifly (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Beautifly lost 20 HP (37 -> 17)
+[HP change] The opposing Beautifly gained 10 HP (17 -> 27)
+"The opposing Beautifly restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Beautifly consumed its held Oran Berry
+[Use move] The opposing Beautifly (1) used Air Cutter
+"The opposing Beautifly used Air Cutter!"
+[HP change] Qwilfish lost 23 HP (42 -> 19)
+"A critical hit!"
+[HP change] Qwilfish gained 20 HP (19 -> 39)
+"Qwilfish restored its health using its Berry Juice!"
+[Item consumed] Qwilfish consumed its held Berry Juice
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+     [Switch AI] +5 Party member [Ferroseed] is immune to strongest move against Beautifly (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Qwilfish (0)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Qwilfish (0), the opposing Beautifly (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Beautifly lost 21 HP (27 -> 6)
+[Use move] The opposing Beautifly (1) used Air Cutter
+"The opposing Beautifly used Air Cutter!"
+[HP change] Qwilfish lost 15 HP (39 -> 24)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Beautifly (1): 0
+Set up score for Beautifly (1): 0
+     [Switch AI] +5 Party member [Ferroseed] is immune to strongest move against Beautifly (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beautifly (1) is considering using Struggle Bug (1)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+[AI] Beautifly (1) is considering using Air Cutter (1)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Beautifly (1) is considering using Mega Drain (1) against Qwilfish (0)...
+     Beautifly (1)'s highest damaging move vs Qwilfish: Air Cutter
+[AI] Move choices for Beautifly (1):
+   *   0.0% to use Struggle Bug: score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Air Cutter
+
+[Round order] Qwilfish (0), the opposing Beautifly (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Beautifly lost 6 HP (6 -> 0)
+"The opposing Beautifly fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Trapinch] using Bulldoze vs Qwilfish does a max of 33/24 damage
+     [Trapinch] using Rock Tomb vs Qwilfish does a max of 11/24 damage
+     [Trapinch] using Quick Attack vs Qwilfish does a max of 8/24 damage
+     [Trapinch] using Bite vs Qwilfish does a max of 11/24 damage
+     Qwilfish (0)'s best move: Aqua Jet for 36/34 damage
+==============================
+     Qwilfish (0) speed (29) vs Trapinch speed: 10
+     [Trapinch] -  9: for target fast kill
+     [Trapinch] final Switch score: -9
+==============================
+     [Ferroseed] using Metal Claw vs Qwilfish does a max of 5/24 damage
+     [Ferroseed] using Bullet Seed vs Qwilfish does a max of 14/24 damage
+     Qwilfish (0)'s best move: Aqua Jet for 6/36 damage
+==============================
+     Qwilfish (0) speed (29) vs Ferroseed speed: 9
+     [Ferroseed] +  3: for outdamage
+     [Ferroseed] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Ace Trainer Sophia sent out Ferroseed!"
+
+===== Round 4 =====
+
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Qwilfish (0)...
+     Ferroseed (1)'s highest damaging move vs Qwilfish: Bullet Seed
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Qwilfish (0)...
+     Ferroseed (1)'s highest damaging move vs Qwilfish: Bullet Seed
+      + 17 for slow kill
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Qwilfish (0)...
+     Ferroseed (1)'s highest damaging move vs Qwilfish: Bullet Seed
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+     - 5 because we see kill or target sees 2HKO
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 18
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Qwilfish (0), the opposing Ferroseed (1)
+
+"Qwilfish, come back!"
+"You're in charge, Litleo!"
+[Use move] The opposing Ferroseed (1) used Bullet Seed
+"The opposing Ferroseed used Bullet Seed!"
+[HP change] Litleo lost 3 HP (41 -> 38)
+[HP change] Litleo lost 3 HP (38 -> 35)
+[HP change] Litleo lost 3 HP (35 -> 32)
+[HP change] Litleo lost 3 HP (32 -> 29)
+[HP change] Litleo lost 3 HP (29 -> 26)
+"It's not very effective..."
+"Hit 5 times!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Litleo (0)...
+     Ferroseed (1)'s highest damaging move vs Litleo: Bullet Seed
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Litleo (0)...
+     Ferroseed (1)'s highest damaging move vs Litleo: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Litleo (0)...
+     Ferroseed (1)'s highest damaging move vs Litleo: Bullet Seed
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Litleo (0), the opposing Ferroseed (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Ferroseed lost 22 HP (36 -> 14)
+"It's super effective!"
+"The Occa Berry weakened the damage to the opposing Ferroseed!"
+[Item consumed] The opposing Ferroseed consumed its held Occa Berry
+[Use move] The opposing Ferroseed (1) used Bullet Seed
+"The opposing Ferroseed used Bullet Seed!"
+[HP change] Litleo lost 3 HP (26 -> 23)
+[HP change] Litleo lost 3 HP (23 -> 20)
+[HP change] Litleo gained 10 HP (20 -> 30)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+[HP change] Litleo lost 3 HP (30 -> 27)
+[HP change] Litleo lost 3 HP (27 -> 24)
+[HP change] Litleo lost 3 HP (24 -> 21)
+"It's not very effective..."
+"Hit 5 times!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Metal Claw (1) against Litleo (0)...
+     Ferroseed (1)'s highest damaging move vs Litleo: Bullet Seed
+[AI] Ferroseed (1) is considering using Bullet Seed (1) against Litleo (0)...
+     Ferroseed (1)'s highest damaging move vs Litleo: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Litleo (0)...
+     Ferroseed (1)'s highest damaging move vs Litleo: Bullet Seed
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Bullet Seed (target 0)
+
+[Round order] Litleo (0), the opposing Ferroseed (1)
+
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Ferroseed lost 14 HP (14 -> 0)
+"It's super effective!"
+"The opposing Ferroseed fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+==============================
+     [Trapinch] using Bulldoze vs Litleo does a max of 33/21 damage
+     [Trapinch] using Rock Tomb vs Litleo does a max of 22/21 damage
+     [Trapinch] using Quick Attack vs Litleo does a max of 8/21 damage
+     [Trapinch] using Bite vs Litleo does a max of 11/21 damage
+     Litleo (0)'s best move: Headbutt for 21/34 damage
+==============================
+     Litleo (0) speed (26) vs Trapinch speed: 10
+     [Trapinch] +  9: for slow kill
+     [Trapinch] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Ace Trainer Sophia sent out Trapinch!"
+
+===== Round 7 =====
+
+Set up score for Litleo (0): 0
+     Threat Score for Litleo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     Trapinch (1)'s highest damaging move vs Litleo: Bulldoze
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Litleo (0)...
+     Trapinch (1)'s highest damaging move vs Litleo: Bulldoze
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Quick Attack (1) against Litleo (0)...
+     Trapinch (1)'s highest damaging move vs Litleo: Bulldoze
+[AI] Trapinch (1) is considering using Bite (1) against Litleo (0)...
+     Trapinch (1)'s highest damaging move vs Litleo: Bulldoze
+[AI] Move choices for Trapinch (1):
+   *  50.0% to use Bulldoze: score 18
+   *  50.0% to use Rock Tomb (target 0): score 18
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Litleo (0), the opposing Trapinch (1)
+
+[Use move] Litleo (0) used Headbutt
+"Litleo used Headbutt!"
+[HP change] The opposing Trapinch lost 18 HP (34 -> 16)
+[HP change] The opposing Trapinch gained 10 HP (16 -> 26)
+"The opposing Trapinch restored a little HP using its Oran Berry!"
+[Item consumed] The opposing Trapinch consumed its held Oran Berry
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[HP change] Litleo lost 21 HP (21 -> 0)
+"It's super effective!"
+"Litleo fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+"Go for it, Qwilfish!"
+
+===== Round 8 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     Trapinch (1)'s highest damaging move vs Qwilfish: Bulldoze
+      + 17 for slow kill
+[AI] Trapinch (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Trapinch (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Trapinch (1) is considering using Quick Attack (1) against Qwilfish (0)...
+     Trapinch (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Trapinch (1) is considering using Bite (1) against Qwilfish (0)...
+     Trapinch (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 18
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Qwilfish (0), the opposing Trapinch (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Trapinch lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Trapinch fainted!"
+
+===== Player won =====
+
+"You defeated Ace Trainer Sophia!"
+"Wow. You're great!"
+
+"You got $720 for winning!"
+Roles for MAKUHITA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for VAROOM: [:PHYSICALBREAKER, :SPEEDCONTROL, :TOXICSTALLER]
+Roles for BUIZEL: [:SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Aaron!"
+"Ace Trainer Aaron sent out Makuhita!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Makuhita (1)
+
+===== Round 1 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+     [Switch AI] +5 Party member [Varoom] is immune to strongest move against Makuhita (1)
+[AI] Switch out Score (5) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Makuhita (1) is considering using Fake Out (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 18 for using turn 1
+[AI] Makuhita (1) is considering using Force Palm (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Makuhita (1), Qwilfish (0)
+
+[Use move] The opposing Makuhita (1) used Fake Out
+"The opposing Makuhita used Fake Out!"
+[HP change] Qwilfish lost 6 HP (42 -> 36)
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+     [Switch AI] +5 Party member [Varoom] is immune to strongest move against Makuhita (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Qwilfish (0), the opposing Makuhita (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Makuhita lost 26 HP (43 -> 17)
+[HP change] The opposing Makuhita gained 20 HP (17 -> 37)
+"The opposing Makuhita restored its health using its Berry Juice!"
+[Item consumed] The opposing Makuhita consumed its held Berry Juice
+"The opposing Makuhita was badly poisoned!"
+[Use move] The opposing Makuhita (1) used Rock Tomb
+"The opposing Makuhita used Rock Tomb!"
+[HP change] Qwilfish lost 9 HP (36 -> 27)
+[Stat change] Qwilfish's Speed changed by -1 (0 -> -1)
+"Qwilfish's Speed fell!"
+
+[End of round 2]
+[HP change] The opposing Makuhita lost 2 HP (37 -> 35)
+"The opposing Makuhita was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+     [Switch AI] +5 Party member [Varoom] is immune to strongest move against Makuhita (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Qwilfish (0), the opposing Makuhita (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Makuhita lost 23 HP (35 -> 12)
+[Use move] The opposing Makuhita (1) used Rock Tomb
+"The opposing Makuhita used Rock Tomb!"
+[HP change] Qwilfish lost 8 HP (27 -> 19)
+[HP change] Qwilfish gained 10 HP (19 -> 29)
+"Qwilfish restored a little HP using its Oran Berry!"
+[Item consumed] Qwilfish consumed its held Oran Berry
+[Stat change] Qwilfish's Speed changed by -1 (-1 -> -2)
+"Qwilfish's Speed fell!"
+
+[End of round 3]
+[HP change] The opposing Makuhita lost 5 HP (12 -> 7)
+"The opposing Makuhita was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Makuhita (1): 0
+Set up score for Makuhita (1): 0
+     [Switch AI] +2 Reset Toxic clock
+     [Switch AI] +5 Party member [Varoom] is immune to strongest move against Makuhita (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -2
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Makuhita (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Makuhita (1) is considering using Force Palm (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+[AI] Makuhita (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Makuhita (1)'s highest damaging move vs Qwilfish: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Qwilfish (0), the opposing Makuhita (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Makuhita lost 7 HP (7 -> 0)
+"The opposing Makuhita fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Varoom] using Septic Shot vs Qwilfish does a max of 5/29 damage
+     [Varoom] using Metal Claw vs Qwilfish does a max of 6/29 damage
+     [Varoom] using Bulldoze vs Qwilfish does a max of 18/29 damage
+     Qwilfish (0)'s best move: Aqua Jet for 15/36 damage
+==============================
+     Qwilfish (0) speed (14) vs Varoom speed: 20
+     [Varoom] +  6: for fast 2HKO
+     [Varoom] final Switch score: 6
+==============================
+     [Buizel] using Aqua Jet vs Qwilfish does a max of 6/29 damage
+     [Buizel] using Aerial Ace vs Qwilfish does a max of 12/29 damage
+     [Buizel] using Icy Wind vs Qwilfish does a max of 6/29 damage
+     Qwilfish (0)'s best move: Poison Fang for 24/38 damage
+==============================
+     Qwilfish (0) speed (14) vs Buizel speed: 31
+     [Buizel] final Switch score: 0
+[AI] Highest move score (19) vs Switch In Score (6)
+"Ace Trainer Aaron sent out Varoom!"
+
+===== Round 5 =====
+
+     move will not affect Qwilfish (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -2
+     Threat Score for Qwilfish (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Qwilfish (0)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Varoom (1) is considering using Metal Claw (1) against Qwilfish (0)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Qwilfish (0)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+     move will not affect Qwilfish (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Qwilfish (0), the opposing Varoom (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Varoom lost 13 HP (36 -> 23)
+[Use move] The opposing Varoom (1) used Bulldoze
+"The opposing Varoom used Bulldoze!"
+[HP change] Qwilfish lost 16 HP (29 -> 13)
+"It's super effective!"
+[Stat change] Qwilfish's Speed changed by -1 (-2 -> -3)
+"Qwilfish's Speed fell!"
+
+[End of round 5]
+[HP change] The opposing Varoom gained 2 HP (23 -> 25)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Qwilfish (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -3
+     Threat Score for Qwilfish (0): -6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Qwilfish (0)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Varoom (1) is considering using Metal Claw (1) against Qwilfish (0)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+      + 20 for fast kill
+[AI] Varoom (1) is considering using Toxic (4) against Qwilfish (0)...
+     Varoom (1)'s highest damaging move vs Qwilfish: Bulldoze
+     move will not affect Qwilfish (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bulldoze: score 21
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Varoom (1), Qwilfish (0)
+
+"OK, Qwilfish! Come back!"
+"Go for it, Hoothoot!"
+[Use move] The opposing Varoom (1) used Bulldoze
+"The opposing Varoom used Bulldoze!"
+[Target immune] Hoothoot's type immunity
+"It doesn't affect Hoothoot..."
+
+[End of round 6]
+[HP change] The opposing Varoom gained 2 HP (25 -> 27)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Hoothoot (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+[AI] Varoom (1) is considering using Metal Claw (1) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Varoom (1) is considering using Toxic (4) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     + 2 for being a Toxic Staller
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Toxic (target 0): score 7
+   => will use Toxic (target 0)
+
+[Round order] Hoothoot (0), the opposing Varoom (1)
+
+[Use move] Hoothoot (0) used Confusion
+"Hoothoot used Confusion!"
+[HP change] The opposing Varoom lost 6 HP (27 -> 21)
+[Use move] The opposing Varoom (1) used Toxic
+"The opposing Varoom used Toxic!"
+"Hoothoot was badly poisoned!"
+
+[End of round 7]
+[HP change] The opposing Varoom gained 2 HP (21 -> 23)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+[HP change] Hoothoot lost 2 HP (41 -> 39)
+"Hoothoot was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Hoothoot (0)
+     move will not affect Hoothoot (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+[AI] Varoom (1) is considering using Metal Claw (1) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Varoom (1) is considering using Toxic (4) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     move will not affect Hoothoot (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   * 100.0% to use Metal Claw (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Metal Claw (target 0)
+
+[Round order] The opposing Varoom (1), Hoothoot (0)
+
+[Use move] The opposing Varoom (1) used Metal Claw
+"The opposing Varoom used Metal Claw!"
+[HP change] Hoothoot lost 19 HP (39 -> 20)
+[HP change] Hoothoot gained 10 HP (20 -> 30)
+"Hoothoot restored a little HP using its Oran Berry!"
+[Item consumed] Hoothoot consumed its held Oran Berry
+[Use move] Hoothoot (0) used Confusion
+"Hoothoot used Confusion!"
+[HP change] The opposing Varoom lost 6 HP (23 -> 17)
+
+[End of round 8]
+[HP change] The opposing Varoom gained 2 HP (17 -> 19)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+[HP change] Hoothoot lost 5 HP (30 -> 25)
+"Hoothoot was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Hoothoot (0)
+     move will not affect Hoothoot (0)
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hoothoot (0): 0
+     Threat Score for Hoothoot (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+[AI] Varoom (1) is considering using Metal Claw (1) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Varoom (1) is considering using Toxic (4) against Hoothoot (0)...
+     Varoom (1)'s highest damaging move vs Hoothoot: Metal Claw
+     move will not affect Hoothoot (0)
+     -  4: move will fail
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   * 100.0% to use Metal Claw (target 0): score 5
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Metal Claw (target 0)
+
+[Round order] The opposing Varoom (1), Hoothoot (0)
+
+[Use move] The opposing Varoom (1) used Metal Claw
+"The opposing Varoom used Metal Claw!"
+[HP change] Hoothoot lost 19 HP (25 -> 6)
+[Use move] Hoothoot (0) used Reflect
+"Hoothoot used Reflect!"
+"Reflect raised your team's Defense!"
+
+[End of round 9]
+[HP change] The opposing Varoom gained 2 HP (19 -> 21)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+[HP change] Hoothoot lost 6 HP (6 -> 0)
+"Hoothoot was hurt by poison!"
+"Hoothoot fainted!"
+Trick Room Turns: 0
+"Go for it, Houndour!"
+[Ability triggered] Houndour's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 10 =====
+
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndour (0): 0
+     Threat Score for Houndour (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Houndour (0)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+[AI] Varoom (1) is considering using Metal Claw (1) against Houndour (0)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Houndour (0)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Houndour (0), the opposing Varoom (1)
+
+[Use move] Houndour (0) used Ember
+"Houndour used Ember!"
+[HP change] The opposing Varoom lost 17 HP (21 -> 4)
+"It's super effective!"
+[Use move] The opposing Varoom (1) used Bulldoze
+"The opposing Varoom used Bulldoze!"
+[HP change] Houndour lost 15 HP (37 -> 22)
+"It's super effective!"
+[Stat change] Houndour's Speed changed by -1 (0 -> -1)
+"Houndour's Speed fell!"
+
+[End of round 10]
+[HP change] The opposing Varoom gained 2 HP (4 -> 6)
+"The opposing Varoom restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Varoom (1): 0
+Set up score for Varoom (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndour (0): -1
+     Threat Score for Houndour (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Septic Shot (1) against Houndour (0)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+[AI] Varoom (1) is considering using Metal Claw (1) against Houndour (0)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+[AI] Varoom (1) is considering using Bulldoze (1)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Toxic (4) against Houndour (0)...
+     Varoom (1)'s highest damaging move vs Houndour: Bulldoze
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Septic Shot (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Varoom (1), Houndour (0)
+
+[Use move] The opposing Varoom (1) used Bulldoze
+"The opposing Varoom used Bulldoze!"
+[HP change] Houndour lost 15 HP (22 -> 7)
+"It's super effective!"
+[HP change] Houndour gained 10 HP (7 -> 17)
+"Houndour restored a little HP using its Oran Berry!"
+[Item consumed] Houndour consumed its held Oran Berry
+[Stat change] Houndour's Speed changed by -1 (-1 -> -2)
+"Houndour's Speed fell!"
+[Use move] Houndour (0) used Ember
+"Houndour used Ember!"
+[HP change] The opposing Varoom lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Varoom fainted!"
+"Houndour got 1 Exp. Points!"
+
+[End of round 11]
+Trick Room Turns: 0
+==============================
+     [Buizel] using Aqua Jet vs Houndour does a max of 21/17 damage
+     [Buizel] using Aerial Ace vs Houndour does a max of 10/17 damage
+     [Buizel] using Icy Wind vs Houndour does a max of 7/17 damage
+     Houndour (0)'s best move: Snarl for 20/38 damage
+==============================
+     Houndour (0) speed (12) vs Buizel speed: 31
+     [Buizel] + 12: for fast kill
+     [Buizel] final Switch score: 12
+[AI] Highest move score (10) vs Switch In Score (12)
+"Ace Trainer Aaron sent out Buizel!"
+
+===== Round 12 =====
+
+Set up score for Houndour (0): -2
+     Threat Score for Houndour (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Houndour (0)...
+     Buizel (1)'s highest damaging move vs Houndour: Aqua Jet
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Aerial Ace (1) against Houndour (0)...
+     Buizel (1)'s highest damaging move vs Houndour: Aqua Jet
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     Buizel (1)'s highest damaging move vs Houndour: Aqua Jet
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 21
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Houndour (0)
+
+"OK, Houndour! Come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Skiddo lost 4 HP (40 -> 36)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Skiddo (0)...
+     Buizel (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Buizel (1) is considering using Aerial Ace (1) against Skiddo (0)...
+     Buizel (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     Buizel (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   => will use Icy Wind
+
+[Round order] The opposing Buizel (1), Skiddo (0)
+
+[Use move] The opposing Buizel (1) used Icy Wind
+"The opposing Buizel used Icy Wind!"
+[HP change] Skiddo lost 19 HP (36 -> 17)
+"It's super effective!"
+[HP change] Skiddo gained 10 HP (17 -> 27)
+"Skiddo restored a little HP using its Oran Berry!"
+[Item consumed] Skiddo consumed its held Oran Berry
+[Stat change] Skiddo's Speed changed by -1 (0 -> -1)
+"Skiddo's Speed fell!"
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo used Razor Leaf!"
+[HP change] The opposing Buizel lost 34 HP (38 -> 4)
+"It's super effective!"
+
+[End of round 13]
+"Your team's Reflect wore off!"
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Skiddo (0): -1
+     Threat Score for Skiddo (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Skiddo (0)...
+     Buizel (1)'s highest damaging move vs Skiddo: Aerial Ace
+[AI] Buizel (1) is considering using Aerial Ace (1) against Skiddo (0)...
+     Buizel (1)'s highest damaging move vs Skiddo: Aerial Ace
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     Buizel (1)'s highest damaging move vs Skiddo: Aerial Ace
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 21
+   *   0.0% to use Icy Wind: score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Buizel (1), Skiddo (0)
+
+"Skiddo, come back!"
+"Your opponent's weak! Get 'em, Qwilfish!"
+[Use move] The opposing Buizel (1) used Aerial Ace
+"The opposing Buizel used Aerial Ace!"
+[HP change] Qwilfish lost 10 HP (13 -> 3)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Qwilfish (0)...
+     Buizel (1)'s highest damaging move vs Qwilfish: Aerial Ace
+     + 9 to get a last ditch hit off.
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Aerial Ace (1) against Qwilfish (0)...
+     Buizel (1)'s highest damaging move vs Qwilfish: Aerial Ace
+      + 20 for fast kill
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     Buizel (1)'s highest damaging move vs Qwilfish: Aerial Ace
+      + 20 for fast kill
+[AI] Move choices for Buizel (1):
+   * 100.0% to use Aqua Jet (target 0): score 30
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Buizel (1), Qwilfish (0)
+
+[Use move] The opposing Buizel (1) used Aqua Jet
+"The opposing Buizel used Aqua Jet!"
+[HP change] Qwilfish lost 3 HP (3 -> 0)
+"It's not very effective..."
+"Qwilfish fainted!"
+
+[End of round 15]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Finneon!"
+
+===== Round 16 =====
+
+Set up score for Finneon (0): 0
+     Threat Score for Finneon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Buizel (1) is considering using Aqua Jet (1) against Finneon (0)...
+     Buizel (1)'s highest damaging move vs Finneon: Aerial Ace
+[AI] Buizel (1) is considering using Aerial Ace (1) against Finneon (0)...
+     Buizel (1)'s highest damaging move vs Finneon: Aerial Ace
+     + 4 to prioritize highest damaging move
+[AI] Buizel (1) is considering using Icy Wind (1)...
+     Buizel (1)'s highest damaging move vs Finneon: Aerial Ace
+[AI] Move choices for Buizel (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] The opposing Buizel (1), Finneon (0)
+
+[Use move] The opposing Buizel (1) used Aerial Ace
+"The opposing Buizel used Aerial Ace!"
+[HP change] Finneon lost 13 HP (35 -> 22)
+[Use move] Finneon (0) used Silver Wind
+"Finneon used Silver Wind!"
+[HP change] The opposing Buizel lost 4 HP (4 -> 0)
+"The opposing Buizel fainted!"
+"Finneon got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Ace Trainer Aaron!"
+"Wow. You're great!"
+
+"You got $720 for winning!"
+Roles for TURTWIG: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Barry!"
+"Rival Barry sent out Turtwig!"
+"Go! Piplup!"
+[Round order] Piplup (0), the opposing Turtwig (1)
+
+===== Round 1 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Piplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Growl
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Growl
+"The opposing Turtwig used Growl!"
+[Stat change] Piplup's Attack changed by -1 (0 -> -1)
+"Piplup's Attack fell!"
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (22 -> 19)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Growl
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Growl
+"The opposing Turtwig used Growl!"
+[Stat change] Piplup's Attack changed by -1 (-1 -> -2)
+"Piplup's Attack fell!"
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (19 -> 16)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Growl
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Growl
+"The opposing Turtwig used Growl!"
+[Stat change] Piplup's Attack changed by -1 (-2 -> -3)
+"Piplup's Attack fell!"
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (16 -> 13)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Tackle (target 0)
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 6 HP (21 -> 15)
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (13 -> 10)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Turtwig (1):
+   *  50.0% to use Tackle (target 0): score 5
+   *  50.0% to use Growl: score 5
+   => will use Tackle (target 0)
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 9 HP (15 -> 6)
+"A critical hit!"
+[Use move] Piplup (0) used Pound
+"Piplup used Pound!"
+[HP change] The opposing Turtwig lost 3 HP (10 -> 7)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Piplup (0): 0
+     Threat Score for Piplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtwig (1) is considering using Tackle (1) against Piplup (0)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Turtwig (1) is considering using Growl (4)...
+     Turtwig (1)'s highest damaging move vs Piplup: Tackle
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Turtwig (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use Growl: score 0
+   => will use Tackle (target 0)
+
+[Round order] The opposing Turtwig (1), Piplup (0)
+
+[Use move] The opposing Turtwig (1) used Tackle
+"The opposing Turtwig used Tackle!"
+[HP change] Piplup lost 6 HP (6 -> 0)
+"Piplup fainted!"
+
+===== Player lost =====
+
+"You have no more Pokémon that can fight!"
+"You lost against Rival Barry!"
+"You gave $40 to the winner..."
+Aaron: Single
+Bertha: Double
+Flint: Double
+Lucian: Single

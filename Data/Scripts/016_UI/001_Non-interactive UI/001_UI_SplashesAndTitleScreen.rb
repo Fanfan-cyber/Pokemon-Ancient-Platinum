@@ -74,9 +74,9 @@ class IntroEventScene < EventScene
     onUpdate.clear
     onCTrigger.clear
     # Play random cry
-    species_keys = GameData::Species.keys
-    species_data = GameData::Species.get(species_keys.sample)
-    Pokemon.play_cry(species_data.species, species_data.form)
+    # species_keys = GameData::Species.keys
+    # species_data = GameData::Species.get(species_keys.sample)
+    Pokemon.play_cry(:GIRATINA)
     @pic.moveXY(0, 20, 0, 0)   # Adds 20 ticks (1 second) pause
     pictureWait
     # Fade out
