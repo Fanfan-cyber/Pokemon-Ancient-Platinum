@@ -1,95 +1,90 @@
 
-Qwilfish
-Level: 13
+Houndour
+Level: 19
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Ember
+- Snarl
+- Smog
+- Bite
+
+Qwilfish @ Oran Berry
+Level: 19
 Lonely Nature
 Ability: Swift Swim
 IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
 - Poison Fang
 - Tackle
-- Laser Focus
+- Pin Missile
 - Aqua Jet
 
-Litleo @ Oran Berry
-Level: 13
-Bold Nature
-Ability: Rivalry
-IVs: 16 HP / 24 Atk / 18 Def / 29 SpA / 27 SpD / 23 Spe
-- Tackle
-- Headbutt
-- Ember
-- Mach Pulse
-
-Hoothoot @ Oran Berry
-Level: 13
-Bashful Nature
-Ability: Insomnia
-IVs: 26 HP / 5 Atk / 11 Def / 20 SpA / 12 SpD / 19 Spe
-- Peck
-- Confusion
-- Reflect
-- Echoed Voice
-
-Skiddo
-Level: 13
+Skiddo @ Oran Berry
+Level: 19
 Mild Nature
 Ability: Grass Pelt
 IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
 - Tackle
 - Razor Leaf
-- Tail Whip
+- Worry Seed
 - Stomp
 
-Piplup @ Oran Berry
-Level: 13
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Water Gun
-- Icy Wind
-- Pound
-- Growl
-
-Finneon
-Level: 13
-Calm Nature
-Ability: Adaptability
-IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
-- Pound
-- Water Gun
-- Icy Wind
-- Silver Wind
-
-Houndour
-Level: 3
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Leer
-- Ember
-
-Shroodle
-Level: 5
-Relaxed Nature
-Ability: Unburden
-IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
-- Leer
-- Scratch
-- Acid Spray
-
-Tadbulb @ Oran Berry
-Level: 13
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud-Slap
-- Tackle
-- Thunder Shock
-- Water Gun
-
-Geodude-Alola
-Level: 5
+Geodude-Alola @ Oran Berry
+Level: 19
 Adamant Nature
 Ability: Magnet Pull
 IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
 - Tackle
 - Charge
+- Rock Tomb
+- Spark
+
+Tadbulb @ Oran Berry
+Level: 19
+Adamant Nature
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud-Slap
+- Charge
+- Thunder Shock
+- Water Gun
+
+Prinplup @ Oran Berry
+Level: 19
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Bubble Beam
+- Icy Wind
+- Metal Claw
+- Pluck
+
+Munna @ Oran Berry
+Level: 19
+Timid Nature
+Ability: Forewarn
+IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
+- Moonlight
+- Hypnosis
+- Psybeam
+- Imprison
+
+Shroodle @ Oran Berry
+Level: 19
+Relaxed Nature
+Ability: Unburden
+IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
+- Fury Swipes
+- Scratch
+- Poison Fang
+- Bite
+
+Finneon @ Oran Berry
+Level: 19
+Calm Nature
+Ability: Adaptability
+IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
+- Gust
+- Water Gun
+- Icy Wind
+- Silver Wind
