@@ -1828,7 +1828,7 @@ UIActionHandlers.add(UI::PokemonStorage::SCREEN_ID, :swap_pokemon, {
     held_pkmn = screen.pokemon
     slot_pkmn = screen.slot_pokemon
     if screen.box >= 0
-      if screen.index >= @storage.maxPokemon(screen.box)
+      if screen.index >= screen.storage.maxPokemon(screen.box)
         screen.show_message("Can't place that there.")
         next
       elsif held_pkmn.mail

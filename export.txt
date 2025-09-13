@@ -1,15 +1,5 @@
 
-Houndour
-Level: 19
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Ember
-- Snarl
-- Smog
-- Bite
-
-Qwilfish @ Oran Berry
+Qwilfish @ Muscle Band
 Level: 19
 Lonely Nature
 Ability: Swift Swim
@@ -19,25 +9,45 @@ IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
 - Pin Missile
 - Aqua Jet
 
-Skiddo @ Oran Berry
+Chingling
 Level: 19
-Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Tackle
-- Razor Leaf
-- Worry Seed
-- Stomp
+Lonely Nature
+Ability: Levitate
+IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
+- Psybeam
+- Recover
+- Fairy Wind
+- Mach Pulse
 
-Geodude-Alola @ Oran Berry
+Sandshrew-Alola
+Level: 19
+Lax Nature
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Metal Claw
+- Icicle Spear
+
+Carkol
+Level: 19
+Timid Nature
+Ability: Heatproof
+IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
+- Flame Wheel
+- Rapid Spin
+- Smack Down
+- Rock Tomb
+
+Makuhita
 Level: 19
 Adamant Nature
-Ability: Magnet Pull
-IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
-- Tackle
-- Charge
-- Rock Tomb
-- Spark
+Ability: Thick Fat
+IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
+- Fake Out
+- Knock Off
+- Force Palm
+- Arm Thrust
 
 Tadbulb @ Oran Berry
 Level: 19
@@ -48,26 +58,6 @@ IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
 - Charge
 - Thunder Shock
 - Water Gun
-
-Prinplup @ Oran Berry
-Level: 19
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Bubble Beam
-- Icy Wind
-- Metal Claw
-- Pluck
-
-Munna @ Oran Berry
-Level: 19
-Timid Nature
-Ability: Forewarn
-IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
-- Moonlight
-- Hypnosis
-- Psybeam
-- Imprison
 
 Shroodle @ Oran Berry
 Level: 19
@@ -88,3 +78,53 @@ IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
 - Water Gun
 - Icy Wind
 - Silver Wind
+
+Munna
+Level: 19
+Timid Nature
+Ability: Forewarn
+IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
+- Moonlight
+- Hypnosis
+- Psybeam
+- Imprison
+
+Geodude-Alola @ Oran Berry
+Level: 19
+Adamant Nature
+Ability: Magnet Pull
+IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
+- Tackle
+- Charge
+- Rock Tomb
+- Spark
+
+Skiddo @ Oran Berry
+Level: 19
+Mild Nature
+Ability: Grass Pelt
+IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
+- Tackle
+- Razor Leaf
+- Worry Seed
+- Stomp
+
+Prinplup
+Level: 19
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Bubble Beam
+- Icy Wind
+- Metal Claw
+- Pluck
+
+Houndour @ Oran Berry
+Level: 19
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Ember
+- Snarl
+- Smog
+- Bite

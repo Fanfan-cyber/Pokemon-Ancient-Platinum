@@ -318895,3 +318895,2249 @@ Set up score for Munna (0): 1
 "Wow. You're great!"
 
 "You got $240 for winning!"
+Roles for SWIRLIX: [:LEAD]
+Roles for DUCKLETT: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for MAWILE: [:PHYSICALBREAKER, :TOXICSTALLER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Madeline!"
+"Lass Madeline sent out Swirlix!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Swirlix (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Swirlix (1): 0
+Set up score for Swirlix (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Swirlix (1) is considering using Draining Kiss (1) against Qwilfish (0)...
+     Swirlix (1)'s highest damaging move vs Qwilfish: Magical Leaf
+[AI] Swirlix (1) is considering using Magical Leaf (1) against Qwilfish (0)...
+     Swirlix (1)'s highest damaging move vs Qwilfish: Magical Leaf
+     + 4 to prioritize highest damaging move
+[AI] Swirlix (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Move choices for Swirlix (1):
+   *   0.0% to use Draining Kiss (target 0): score 0
+   * 100.0% to use Magical Leaf (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   => will use Magical Leaf (target 0)
+
+[Round order] Qwilfish (0), the opposing Swirlix (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Swirlix lost 45 HP (45 -> 0)
+"It's super effective!"
+"The opposing Swirlix fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Ducklett] using Bubble Beam vs Qwilfish does a max of 9/57 damage
+     [Ducklett] using Air Cutter vs Qwilfish does a max of 16/57 damage
+     [Ducklett] using Icy Wind vs Qwilfish does a max of 4/57 damage
+     Qwilfish (0)'s best move: Poison Fang for 30/48 damage
+==============================
+     Qwilfish (0) speed (40) vs Ducklett speed: 28
+     [Ducklett] -  5: for target having fast 2HKO and us having no kill
+     [Ducklett] final Switch score: -5
+==============================
+     [Mawile] using Metal Claw vs Qwilfish does a max of 8/57 damage
+     [Mawile] using Covet vs Qwilfish does a max of 9/57 damage
+     [Mawile] using Bite vs Qwilfish does a max of 12/57 damage
+     Qwilfish (0)'s best move: Aqua Jet for 18/44 damage
+==============================
+     Qwilfish (0) speed (40) vs Mawile speed: 24
+     [Mawile] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Lass Madeline sent out Mawile!"
+[Ability triggered] The opposing Mawile's Intimidate
+[Stat change] Qwilfish's Attack changed by -1 (0 -> -1)
+"Qwilfish's Attack fell!"
+
+===== Round 2 =====
+
+     move will not affect Qwilfish (0)
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Qwilfish (0)...
+     Mawile (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Mawile (1) is considering using Covet (1) against Qwilfish (0)...
+     Mawile (1)'s highest damaging move vs Qwilfish: Bite
+[AI] Mawile (1) is considering using Toxic (4) against Qwilfish (0)...
+     Mawile (1)'s highest damaging move vs Qwilfish: Bite
+     move will not affect Qwilfish (0)
+     -  4: move will fail
+[AI] Mawile (1) is considering using Bite (1) against Qwilfish (0)...
+     Mawile (1)'s highest damaging move vs Qwilfish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Covet (target 0): score 0
+   *   0.0% to use Toxic (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Qwilfish (0), the opposing Mawile (1)
+
+"Qwilfish, come back!"
+"You're in charge, Prinplup!"
+[Use move] The opposing Mawile (1) used Bite
+"The opposing Mawile used Bite!"
+[HP change] Prinplup lost 10 HP (59 -> 49)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+[AI] Mawile (1) is considering using Covet (1) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+     + 4 to prioritize highest damaging move
+[AI] Mawile (1) is considering using Toxic (4) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+[AI] Mawile (1) is considering using Bite (1) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] Prinplup (0), the opposing Mawile (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Mawile lost 25 HP (44 -> 19)
+[Use move] The opposing Mawile (1) used Covet
+"The opposing Mawile used Covet!"
+[HP change] Prinplup lost 14 HP (49 -> 35)
+
+[End of round 3]
+[HP change] The opposing Mawile gained 2 HP (19 -> 21)
+"The opposing Mawile restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mawile (1): 0
+Set up score for Mawile (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mawile (1) is considering using Metal Claw (1) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+[AI] Mawile (1) is considering using Covet (1) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+     + 4 to prioritize highest damaging move
+[AI] Mawile (1) is considering using Toxic (4) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+[AI] Mawile (1) is considering using Bite (1) against Prinplup (0)...
+     Mawile (1)'s highest damaging move vs Prinplup: Covet
+[AI] Move choices for Mawile (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] Prinplup (0), the opposing Mawile (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Mawile lost 21 HP (21 -> 0)
+"The opposing Mawile fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Ducklett] using Bubble Beam vs Prinplup does a max of 8/35 damage
+     [Ducklett] using Air Cutter vs Prinplup does a max of 16/35 damage
+     [Ducklett] using Icy Wind vs Prinplup does a max of 4/35 damage
+     Prinplup (0)'s best move: Icy Wind for 17/48 damage
+==============================
+     Prinplup (0) speed (26) vs Ducklett speed: 28
+     [Ducklett] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Lass Madeline sent out Ducklett!"
+
+===== Round 5 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ducklett (1) is considering using Bubble Beam (1) against Prinplup (0)...
+     Ducklett (1)'s highest damaging move vs Prinplup: Air Cutter
+[AI] Ducklett (1) is considering using Air Cutter (1)...
+     Ducklett (1)'s highest damaging move vs Prinplup: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Ducklett (1) is considering using Icy Wind (1)...
+     Ducklett (1)'s highest damaging move vs Prinplup: Air Cutter
+[AI] Move choices for Ducklett (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Air Cutter
+
+[Round order] The opposing Ducklett (1), Prinplup (0)
+
+"Prinplup, come back!"
+"You're in charge, Munna!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Bubble Beam!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Special Defense changed by +1 (0 -> 1)
+"Munna's Special Defense rose!"
+[Use move] The opposing Ducklett (1) used Air Cutter
+"The opposing Ducklett used Air Cutter!"
+[HP change] Munna lost 11 HP (57 -> 46)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ducklett (1) is considering using Bubble Beam (1) against Munna (0)...
+     Ducklett (1)'s highest damaging move vs Munna: Air Cutter
+[AI] Ducklett (1) is considering using Air Cutter (1)...
+     Ducklett (1)'s highest damaging move vs Munna: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Ducklett (1) is considering using Icy Wind (1)...
+     Ducklett (1)'s highest damaging move vs Munna: Air Cutter
+[AI] Move choices for Ducklett (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Air Cutter
+
+[Round order] The opposing Ducklett (1), Munna (0)
+
+[Use move] The opposing Ducklett (1) used Air Cutter
+"The opposing Ducklett used Air Cutter!"
+[HP change] Munna lost 12 HP (46 -> 34)
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Ducklett lost 25 HP (48 -> 23)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ducklett (1) is considering using Bubble Beam (1) against Munna (0)...
+     Ducklett (1)'s highest damaging move vs Munna: Air Cutter
+[AI] Ducklett (1) is considering using Air Cutter (1)...
+     Ducklett (1)'s highest damaging move vs Munna: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Ducklett (1) is considering using Icy Wind (1)...
+     Ducklett (1)'s highest damaging move vs Munna: Air Cutter
+[AI] Move choices for Ducklett (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Air Cutter: score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Air Cutter
+
+[Round order] The opposing Ducklett (1), Munna (0)
+
+[Use move] The opposing Ducklett (1) used Air Cutter
+"The opposing Ducklett used Air Cutter!"
+[HP change] Munna lost 11 HP (34 -> 23)
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Ducklett lost 23 HP (23 -> 0)
+"The opposing Ducklett fainted!"
+
+===== Player won =====
+
+"You defeated Lass Madeline!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+Roles for CLEFAIRY: [:SPEEDCONTROL]
+Roles for MINCCINO: [:SPEEDCONTROL]
+Roles for MUNCHLAX: [:SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Kaitlin!"
+"Lass Kaitlin sent out Clefairy!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Clefairy (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Clefairy (1): 0
+Set up score for Clefairy (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Clefairy (1) is considering using Draining Kiss (1) against Qwilfish (0)...
+     Clefairy (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Clefairy (1) is considering using Thunder Wave (4) against Qwilfish (0)...
+     Clefairy (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Clefairy (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Clefairy (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefairy (1):
+   *   0.0% to use Draining Kiss (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   => will use Shock Wave (target 0)
+
+[Round order] Qwilfish (0), the opposing Clefairy (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Clefairy lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Clefairy fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Minccino] using Double Slap vs Qwilfish does a max of 23/57 damage
+     [Minccino] using Covet vs Qwilfish does a max of 4/57 damage
+     Qwilfish (0)'s best move: Poison Fang for 35/46 damage
+==============================
+     Qwilfish (0) speed (40) vs Minccino speed: 35
+     [Minccino] -  5: for target having fast 2HKO and us having no kill
+     [Minccino] final Switch score: -5
+==============================
+     [Munchlax] using Headbutt vs Qwilfish does a max of 20/57 damage
+     [Munchlax] using Bite vs Qwilfish does a max of 11/57 damage
+     Qwilfish (0)'s best move: Poison Fang for 35/70 damage
+==============================
+     Qwilfish (0) speed (40) vs Munchlax speed: 12
+     [Munchlax] -  5: for target having fast 2HKO and us having no kill
+     [Munchlax] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Lass Kaitlin sent out Minccino!"
+
+===== Round 2 =====
+
+Set up score for Minccino (1): 0
+Set up score for Minccino (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minccino (1) is considering using Thunder Wave (4) against Qwilfish (0)...
+     Minccino (1)'s highest damaging move vs Qwilfish: Double Slap
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Minccino (1) is considering using Double Slap (1) against Qwilfish (0)...
+     Minccino (1)'s highest damaging move vs Qwilfish: Double Slap
+      + 17 for slow kill
+[AI] Minccino (1) is considering using Covet (1) against Qwilfish (0)...
+     Minccino (1)'s highest damaging move vs Qwilfish: Double Slap
+[AI] Move choices for Minccino (1):
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Double Slap (target 0): score 18
+   *   0.0% to use Covet (target 0): score 0
+   => will use Double Slap (target 0)
+
+[Round order] Qwilfish (0), the opposing Minccino (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Minccino lost 46 HP (46 -> 0)
+"A critical hit!"
+"The opposing Minccino fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Munchlax] using Headbutt vs Qwilfish does a max of 20/57 damage
+     [Munchlax] using Bite vs Qwilfish does a max of 11/57 damage
+     Qwilfish (0)'s best move: Poison Fang for 35/70 damage
+==============================
+     Qwilfish (0) speed (40) vs Munchlax speed: 12
+     [Munchlax] -  5: for target having fast 2HKO and us having no kill
+     [Munchlax] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Lass Kaitlin sent out Munchlax!"
+
+===== Round 3 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum (4)...
+[AI] Munchlax (1) is considering using Headbutt (1) against Qwilfish (0)...
+     Munchlax (1)'s highest damaging move vs Qwilfish: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Qwilfish (0)...
+     Munchlax (1)'s highest damaging move vs Qwilfish: Headbutt
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Qwilfish (0), the opposing Munchlax (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Munchlax lost 30 HP (70 -> 40)
+"The opposing Munchlax was badly poisoned!"
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax used Headbutt!"
+[HP change] Qwilfish lost 17 HP (57 -> 40)
+
+[End of round 3]
+[HP change] The opposing Munchlax lost 4 HP (40 -> 36)
+"The opposing Munchlax was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum (4)...
+[AI] Munchlax (1) is considering using Headbutt (1) against Qwilfish (0)...
+     Munchlax (1)'s highest damaging move vs Qwilfish: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Qwilfish (0)...
+     Munchlax (1)'s highest damaging move vs Qwilfish: Headbutt
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Qwilfish (0), the opposing Munchlax (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Munchlax lost 34 HP (36 -> 2)
+[HP change] The opposing Munchlax gained 35 HP (2 -> 37)
+"The opposing Munchlax restored its health using its Iapapa Berry!"
+[Item consumed] The opposing Munchlax consumed its held Iapapa Berry
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax used Headbutt!"
+[HP change] Qwilfish lost 18 HP (40 -> 22)
+[HP change] Qwilfish gained 10 HP (22 -> 32)
+"Qwilfish restored a little HP using its Oran Berry!"
+[Item consumed] Qwilfish consumed its held Oran Berry
+
+[End of round 4]
+[HP change] The opposing Munchlax lost 8 HP (37 -> 29)
+"The opposing Munchlax was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     +  1: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Qwilfish (0)...
+     Munchlax (1)'s highest damaging move vs Qwilfish: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Munchlax (1) is considering using Bite (1) against Qwilfish (0)...
+     Munchlax (1)'s highest damaging move vs Qwilfish: Headbutt
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] Qwilfish (0), the opposing Munchlax (1)
+
+"Qwilfish, that's enough! Come back!"
+"Just a little more! Hang in there, Geodude!"
+[Use move] The opposing Munchlax (1) used Headbutt
+"The opposing Munchlax used Headbutt!"
+[HP change] Geodude lost 7 HP (50 -> 43)
+"It's not very effective..."
+
+[End of round 5]
+[HP change] The opposing Munchlax lost 13 HP (29 -> 16)
+"The opposing Munchlax was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Geodude (0): 0
+     Threat Score for Geodude (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Munchlax (1) is considering using Belly Drum...
+     +  1: move will fail
+[AI] Munchlax (1) is considering using Headbutt (1) against Geodude (0)...
+     Munchlax (1)'s highest damaging move vs Geodude: Bite
+[AI] Munchlax (1) is considering using Bite (1) against Geodude (0)...
+     Munchlax (1)'s highest damaging move vs Geodude: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Munchlax (1):
+   *   0.0% to use Belly Drum: score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] Geodude (0), the opposing Munchlax (1)
+
+[Use move] Geodude (0) used Rock Tomb
+"Geodude used Rock Tomb!"
+[HP change] The opposing Munchlax lost 16 HP (16 -> 0)
+"The opposing Munchlax fainted!"
+"Geodude got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Lass Kaitlin!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Rolycoly appeared!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the wild Rolycoly (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Rolycoly (1) is considering using Tackle (1) against Qwilfish (0)...
+     Rolycoly (1)'s highest damaging move vs Qwilfish: Tackle
+[AI] Move choices for Rolycoly (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Qwilfish (0), the wild Rolycoly (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Rolycoly was caught!"
+
+===== Pokémon caught =====
+
+"Rolycoly's data was added to the Pokédex."
+"Where do you want to send Rolycoly to?"
+"Where do you want to send Rolycoly to?"
+"Rolycoly has been sent to Box "Box 1"!"
+Roles for GROWLITHE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PHANTUMP: [:WEATHERTERRAINABUSER]
+Roles for CHINCHOU: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for TRUMBEAK: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Curtis!"
+"Camper Curtis sent out Growlithe!"
+"Go! Qwilfish!"
+[Round order] Qwilfish (0), the opposing Growlithe (1)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Qwilfish's Attack changed by -1 (0 -> -1)
+"Qwilfish's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+[AI] Growlithe (1) is considering using Bite (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+[AI] Growlithe (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] Qwilfish (0), the opposing Growlithe (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Growlithe lost 39 HP (45 -> 6)
+"It's super effective!"
+"The Passho Berry weakened the damage to the opposing Growlithe!"
+[Item consumed] The opposing Growlithe consumed its held Passho Berry
+[Use move] The opposing Growlithe (1) used Thunder Fang
+"The opposing Growlithe used Thunder Fang!"
+[HP change] Qwilfish lost 16 HP (57 -> 41)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Growlithe (1): 0
+Set up score for Growlithe (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+[AI] Growlithe (1) is considering using Bite (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+[AI] Growlithe (1) is considering using Rock Tomb (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+[AI] Growlithe (1) is considering using Thunder Fang (1) against Qwilfish (0)...
+     Growlithe (1)'s highest damaging move vs Qwilfish: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Flame Wheel (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   => will use Thunder Fang (target 0)
+
+[Round order] Qwilfish (0), the opposing Growlithe (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Growlithe lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Growlithe fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Phantump] using Hex vs Qwilfish does a max of 12/41 damage
+     [Phantump] using Branch Poke vs Qwilfish does a max of 9/41 damage
+     [Phantump] using Shadow Sneak vs Qwilfish does a max of 9/41 damage
+     Qwilfish (0)'s best move: Pin Missile for 24/40 damage
+==============================
+     Qwilfish (0) speed (40) vs Phantump speed: 17
+     [Phantump] -  5: for target having fast 2HKO and us having no kill
+     [Phantump] final Switch score: -5
+==============================
+     [Chinchou] using Bubble Beam vs Qwilfish does a max of 8/41 damage
+     [Chinchou] using Shock Wave vs Qwilfish does a max of 30/41 damage
+     [Chinchou] using Icy Wind vs Qwilfish does a max of 5/41 damage
+     Qwilfish (0)'s best move: Poison Fang for 26/52 damage
+==============================
+     Qwilfish (0) speed (40) vs Chinchou speed: 31
+     [Chinchou] +  3: for outdamage
+     [Chinchou] final Switch score: 3
+==============================
+     [Trumbeak] using Pluck vs Qwilfish does a max of 17/41 damage
+     [Trumbeak] using Quick Attack vs Qwilfish does a max of 12/41 damage
+     [Trumbeak] using Bullet Seed vs Qwilfish does a max of 14/41 damage
+     Qwilfish (0)'s best move: Poison Fang for 23/46 damage
+==============================
+     Qwilfish (0) speed (40) vs Trumbeak speed: 35
+     [Trumbeak] -  5: for target having fast 2HKO and us having no kill
+     [Trumbeak] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (3)
+"Camper Curtis sent out Chinchou!"
+
+===== Round 3 =====
+
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): -1
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Qwilfish (0)...
+     Chinchou (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Qwilfish (0)...
+     Chinchou (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Qwilfish: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Qwilfish (0)...
+     Chinchou (1)'s highest damaging move vs Qwilfish: Shock Wave
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Qwilfish (0), the opposing Chinchou (1)
+
+"Qwilfish, come back!"
+"You're in charge, Skiddo!"
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou used Shock Wave!"
+[HP change] Skiddo lost 7 HP (54 -> 47)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Thunder Wave (target 0): score 6
+   => will use Thunder Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Skiddo (0)
+
+[Use move] The opposing Chinchou (1) used Thunder Wave
+"The opposing Chinchou used Thunder Wave!"
+"Skiddo is paralyzed! It may be unable to move!"
+[Use move] Skiddo (0) used Worry Seed
+"Skiddo used Worry Seed!"
+"The opposing Chinchou acquired Insomnia!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Skiddo (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): 0
+     Threat Score for Skiddo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Chinchou (1), Skiddo (0)
+
+[Use move] The opposing Chinchou (1) used Icy Wind
+"The opposing Chinchou used Icy Wind!"
+[HP change] Skiddo lost 17 HP (47 -> 30)
+"It's super effective!"
+[Stat change] Skiddo's Speed changed by -1 (0 -> -1)
+"Skiddo's Speed fell!"
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo is paralyzed! It can't move!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Skiddo (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): -1
+     Threat Score for Skiddo (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Chinchou (1), Skiddo (0)
+
+[Use move] The opposing Chinchou (1) used Icy Wind
+"The opposing Chinchou used Icy Wind!"
+[HP change] Skiddo lost 16 HP (30 -> 14)
+"It's super effective!"
+[HP change] Skiddo gained 10 HP (14 -> 24)
+"Skiddo restored a little HP using its Oran Berry!"
+[Item consumed] Skiddo consumed its held Oran Berry
+[Stat change] Skiddo's Speed changed by -1 (-1 -> -2)
+"Skiddo's Speed fell!"
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo is paralyzed! It can't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Skiddo (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): -2
+     Threat Score for Skiddo (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Icy Wind: score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Chinchou (1), Skiddo (0)
+
+[Use move] The opposing Chinchou (1) used Icy Wind
+"The opposing Chinchou used Icy Wind!"
+[HP change] Skiddo lost 17 HP (24 -> 7)
+"It's super effective!"
+[Stat change] Skiddo's Speed changed by -1 (-2 -> -3)
+"Skiddo's Speed fell!"
+[Use move] Skiddo (0) used Razor Leaf
+"Skiddo is paralyzed! It can't move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Skiddo (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skiddo (0): -3
+     Threat Score for Skiddo (0): -6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+      + 20 for fast kill
+[AI] Chinchou (1) is considering using Shock Wave (1) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+      + 20 for fast kill
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+      + 20 for fast kill
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Skiddo (0)...
+     Chinchou (1)'s highest damaging move vs Skiddo: Icy Wind
+     move will not affect Skiddo (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *  33.3% to use Bubble Beam (target 0): score 21
+   *  33.3% to use Shock Wave (target 0): score 21
+   *  33.3% to use Icy Wind: score 21
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Icy Wind
+
+[Round order] The opposing Chinchou (1), Skiddo (0)
+
+"Good job, Skiddo! Come back!"
+"You're in charge, Munna!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Bubble Beam!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Special Defense changed by +1 (0 -> 1)
+"Munna's Special Defense rose!"
+[Use move] The opposing Chinchou (1) used Icy Wind
+"The opposing Chinchou used Icy Wind!"
+[HP change] Munna lost 6 HP (57 -> 51)
+[Stat change] Munna's Speed changed by -1 (0 -> -1)
+"Munna's Speed fell!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Thunder Wave (target 0): score 6
+   => will use Thunder Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Thunder Wave
+"The opposing Chinchou used Thunder Wave!"
+"Munna is paralyzed! It may be unable to move!"
+[Use move] Munna (0) used Psybeam
+"Munna is paralyzed! It can't move!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Munna (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou used Shock Wave!"
+[HP change] Munna lost 10 HP (51 -> 41)
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Chinchou lost 21 HP (52 -> 31)
+"The opposing Chinchou became confused!"
+[Lingering effect] The opposing Chinchou's confusion count is 2
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Munna (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou is confused!"
+"The opposing Chinchou used Shock Wave!"
+[HP change] Munna lost 10 HP (41 -> 31)
+[Use move] Munna (0) used Psybeam
+"Munna is paralyzed! It can't move!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Munna (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou snapped out of its confusion."
+"The opposing Chinchou used Shock Wave!"
+[HP change] Munna lost 9 HP (31 -> 22)
+[HP change] Munna gained 10 HP (22 -> 32)
+"Munna restored a little HP using its Oran Berry!"
+[Item consumed] Munna consumed its held Oran Berry
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Chinchou lost 20 HP (31 -> 11)
+[HP change] The opposing Chinchou gained 20 HP (11 -> 31)
+"The opposing Chinchou restored its health using its Berry Juice!"
+[Item consumed] The opposing Chinchou consumed its held Berry Juice
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     move will not affect Munna (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou used Shock Wave!"
+[HP change] Munna lost 10 HP (32 -> 22)
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Chinchou lost 22 HP (31 -> 9)
+"The opposing Chinchou became confused!"
+[Lingering effect] The opposing Chinchou's confusion count is 5
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     move will not affect Munna (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou is confused!"
+"It hurt itself in its confusion!"
+[Use move] Munna (0) used Psybeam
+"Munna is paralyzed! It can't move!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     move will not affect Munna (0)
+Set up score for Chinchou (1): 0
+Set up score for Chinchou (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chinchou (1) is considering using Bubble Beam (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Shock Wave (1) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Chinchou (1) is considering using Icy Wind (1)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+[AI] Chinchou (1) is considering using Thunder Wave (4) against Munna (0)...
+     Chinchou (1)'s highest damaging move vs Munna: Shock Wave
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Move choices for Chinchou (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Chinchou (1), Munna (0)
+
+[Use move] The opposing Chinchou (1) used Shock Wave
+"The opposing Chinchou is confused!"
+"The opposing Chinchou used Shock Wave!"
+[HP change] Munna lost 9 HP (22 -> 13)
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Chinchou lost 2 HP (2 -> 0)
+"The opposing Chinchou fainted!"
+"Skiddo got 1 Exp. Points!"
+
+[End of round 15]
+Trick Room Turns: 0
+     move will not affect Munna (0)
+==============================
+     [Phantump] using Hex vs Munna does a max of 33/13 damage
+     [Phantump] using Branch Poke vs Munna does a max of 12/13 damage
+     [Phantump] using Shadow Sneak vs Munna does a max of 24/13 damage
+     Munna (0)'s best move: Psybeam for 23/40 damage
+==============================
+     Munna (0) speed (7) vs Phantump speed: 17
+     [Phantump] + 12: for fast kill
+     [Phantump] final Switch score: 12
+==============================
+     [Trumbeak] using Pluck vs Munna does a max of 23/13 damage
+     [Trumbeak] using Quick Attack vs Munna does a max of 15/13 damage
+     [Trumbeak] using Bullet Seed vs Munna does a max of 19/13 damage
+     Munna (0)'s best move: Psybeam for 26/46 damage
+==============================
+     Munna (0) speed (7) vs Trumbeak speed: 35
+     [Trumbeak] + 12: for fast kill
+     [Trumbeak] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Camper Curtis sent out Phantump!"
+
+===== Round 16 =====
+
+     move will not affect Munna (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Phantump (1): 0
+Set up score for Phantump (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 0
+     Threat Score for Munna (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Phantump (1) is considering using Will-O-Wisp (4) against Munna (0)...
+     Phantump (1)'s highest damaging move vs Munna: Hex
+     move will not affect Munna (0)
+     -  4: move will fail
+[AI] Phantump (1) is considering using Hex (1) against Munna (0)...
+     Phantump (1)'s highest damaging move vs Munna: Hex
+      + 20 for fast kill
+[AI] Phantump (1) is considering using Branch Poke (1) against Munna (0)...
+     Phantump (1)'s highest damaging move vs Munna: Hex
+[AI] Phantump (1) is considering using Shadow Sneak (1) against Munna (0)...
+     Phantump (1)'s highest damaging move vs Munna: Hex
+      + 20 for fast kill
+[AI] Move choices for Phantump (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *  50.0% to use Hex (target 0): score 21
+   *   0.0% to use Branch Poke (target 0): score 0
+   *  50.0% to use Shadow Sneak (target 0): score 21
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Phantump (1), Munna (0)
+
+"Good job, Munna! Come back!"
+"You're in charge, Houndour!"
+[Ability triggered] Houndour's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Phantump (1) used Shadow Sneak
+"The opposing Phantump used Shadow Sneak!"
+[HP change] Houndour lost 10 HP (50 -> 40)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+     move will not affect Houndour (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Phantump (1): 0
+Set up score for Phantump (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Houndour (0): 0
+     Threat Score for Houndour (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Phantump (1) is considering using Will-O-Wisp (4) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+     move will not affect Houndour (0)
+     -  4: move will fail
+[AI] Phantump (1) is considering using Hex (1) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+[AI] Phantump (1) is considering using Branch Poke (1) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+     + 4 to prioritize highest damaging move
+[AI] Phantump (1) is considering using Shadow Sneak (1) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Phantump (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Branch Poke (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Phantump (1), Houndour (0)
+
+[Use move] The opposing Phantump (1) used Shadow Sneak
+"The opposing Phantump used Shadow Sneak!"
+[HP change] Houndour lost 6 HP (40 -> 34)
+"It's not very effective..."
+[Use move] Houndour (0) used Snarl
+"Houndour used Snarl!"
+[HP change] The opposing Phantump lost 33 HP (40 -> 7)
+"It's super effective!"
+[Stat change] The opposing Phantump's Special Attack changed by -1 (0 -> -1)
+"The opposing Phantump's Special Attack fell!"
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+     move will not affect Houndour (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Phantump (1): 0
+Set up score for Phantump (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Houndour (0): 0
+     Threat Score for Houndour (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Phantump (1) is considering using Will-O-Wisp (4) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+     move will not affect Houndour (0)
+     -  4: move will fail
+[AI] Phantump (1) is considering using Hex (1) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+[AI] Phantump (1) is considering using Branch Poke (1) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+     + 4 to prioritize highest damaging move
+[AI] Phantump (1) is considering using Shadow Sneak (1) against Houndour (0)...
+     Phantump (1)'s highest damaging move vs Houndour: Branch Poke
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Phantump (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Branch Poke (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Phantump (1), Houndour (0)
+
+[Use move] The opposing Phantump (1) used Shadow Sneak
+"The opposing Phantump used Shadow Sneak!"
+[HP change] Houndour lost 7 HP (34 -> 27)
+"It's not very effective..."
+[Use move] Houndour (0) used Bite
+"Houndour used Bite!"
+[HP change] The opposing Phantump lost 7 HP (7 -> 0)
+"It's super effective!"
+"The opposing Phantump fainted!"
+
+[End of round 18]
+Trick Room Turns: 0
+     move will not affect Houndour (0)
+==============================
+     [Trumbeak] using Pluck vs Houndour does a max of 29/27 damage
+     [Trumbeak] using Quick Attack vs Houndour does a max of 20/27 damage
+     [Trumbeak] using Bullet Seed vs Houndour does a max of 12/27 damage
+     Houndour (0)'s best move: Bite for 23/46 damage
+==============================
+     Houndour (0) speed (33) vs Trumbeak speed: 35
+     [Trumbeak] + 12: for fast kill
+     [Trumbeak] final Switch score: 12
+[AI] Highest move score (10) vs Switch In Score (12)
+"Camper Curtis sent out Trumbeak!"
+[Ability triggered] The opposing Trumbeak's Keen Eye
+"The opposing Trumbeak is getting pumped!"
+
+===== Round 19 =====
+
+Set up score for Houndour (0): 0
+     Threat Score for Houndour (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trumbeak (1) is considering using Pluck (1) against Houndour (0)...
+     Trumbeak (1)'s highest damaging move vs Houndour: Pluck
+      + 20 for fast kill
+[AI] Trumbeak (1) is considering using Quick Attack (1) against Houndour (0)...
+     Trumbeak (1)'s highest damaging move vs Houndour: Pluck
+[AI] Trumbeak (1) is considering using Bullet Seed (1) against Houndour (0)...
+     Trumbeak (1)'s highest damaging move vs Houndour: Pluck
+[AI] Move choices for Trumbeak (1):
+   * 100.0% to use Pluck (target 0): score 21
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Bullet Seed (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] The opposing Trumbeak (1), Houndour (0)
+
+"Houndour, come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Trumbeak (1) used Pluck
+"The opposing Trumbeak used Pluck!"
+[HP change] Qwilfish lost 21 HP (41 -> 20)
+"A critical hit!"
+
+[End of round 19]
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trumbeak (1) is considering using Pluck (1) against Qwilfish (0)...
+     Trumbeak (1)'s highest damaging move vs Qwilfish: Pluck
+     + 4 to prioritize highest damaging move
+[AI] Trumbeak (1) is considering using Quick Attack (1) against Qwilfish (0)...
+     Trumbeak (1)'s highest damaging move vs Qwilfish: Pluck
+[AI] Trumbeak (1) is considering using Bullet Seed (1) against Qwilfish (0)...
+     Trumbeak (1)'s highest damaging move vs Qwilfish: Pluck
+      + 17 for slow kill
+[AI] Move choices for Trumbeak (1):
+   *   0.0% to use Pluck (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 18
+   => will use Bullet Seed (target 0)
+
+[Round order] Qwilfish (0), the opposing Trumbeak (1)
+
+[Use move] Qwilfish (0) used Aqua Jet
+"Qwilfish used Aqua Jet!"
+[HP change] The opposing Trumbeak lost 24 HP (46 -> 22)
+[Use move] The opposing Trumbeak (1) used Bullet Seed
+"The opposing Trumbeak used Bullet Seed!"
+[HP change] Qwilfish lost 6 HP (20 -> 14)
+[HP change] Qwilfish lost 9 HP (14 -> 5)
+"A critical hit!"
+[HP change] Qwilfish lost 5 HP (5 -> 0)
+"A critical hit!"
+"Qwilfish fainted!"
+"Hit 3 times!"
+
+[End of round 20]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Geodude!"
+
+===== Round 21 =====
+
+Set up score for Geodude (0): 0
+     Threat Score for Geodude (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trumbeak (1) is considering using Pluck (1) against Geodude (0)...
+     Trumbeak (1)'s highest damaging move vs Geodude: Bullet Seed
+[AI] Trumbeak (1) is considering using Quick Attack (1) against Geodude (0)...
+     Trumbeak (1)'s highest damaging move vs Geodude: Bullet Seed
+[AI] Trumbeak (1) is considering using Bullet Seed (1) against Geodude (0)...
+     Trumbeak (1)'s highest damaging move vs Geodude: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Trumbeak (1):
+   *   0.0% to use Pluck (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] The opposing Trumbeak (1), Geodude (0)
+
+[Use move] The opposing Trumbeak (1) used Bullet Seed
+"The opposing Trumbeak used Bullet Seed!"
+[HP change] Geodude lost 9 HP (50 -> 41)
+[HP change] Geodude lost 14 HP (41 -> 27)
+"A critical hit!"
+[HP change] Geodude lost 14 HP (27 -> 13)
+"A critical hit!"
+[HP change] Geodude gained 10 HP (13 -> 23)
+"Geodude restored a little HP using its Oran Berry!"
+[Item consumed] Geodude consumed its held Oran Berry
+[HP change] Geodude lost 15 HP (23 -> 8)
+"A critical hit!"
+"It's super effective!"
+"Hit 4 times!"
+[Use move] Geodude (0) used Spark
+"Geodude used Spark!"
+[HP change] The opposing Trumbeak lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Trumbeak fainted!"
+
+===== Player won =====
+
+"You defeated Camper Curtis!"
+"Wow. You're great!"
+
+"You got $240 for winning!"
+Roles for LITLEO: [:SETUPSWEEPER]
+Roles for SPRITZEE: [:NONE]
+Roles for QWILFISH: [:PHYSICALBREAKER, :TOXICSTALLER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Diana!"
+"Picnicker Diana sent out Litleo!"
+"Go! Prinplup!"
+[Round order] The opposing Litleo (1), Prinplup (0)
+[Ability triggered] The opposing Litleo's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+Set up score for Litleo (1): 0
+Set up score for Litleo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Litleo (1) is considering using Headbutt (1) against Prinplup (0)...
+     Litleo (1)'s highest damaging move vs Prinplup: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Litleo (1) is considering using Ember (1) against Prinplup (0)...
+     Litleo (1)'s highest damaging move vs Prinplup: Headbutt
+[AI] Litleo (1) is considering using Mach Pulse (1) against Prinplup (0)...
+     Litleo (1)'s highest damaging move vs Prinplup: Headbutt
+[AI] Litleo (1) is considering using Work Up (4)...
+[AI] Move choices for Litleo (1):
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Ember (target 0): score 0
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Work Up: score 0
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Litleo (1), Prinplup (0)
+
+[Use move] The opposing Litleo (1) used Headbutt
+"The opposing Litleo used Headbutt!"
+[HP change] Prinplup lost 13 HP (59 -> 46)
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Litleo lost 48 HP (48 -> 0)
+"It's super effective!"
+"The opposing Litleo fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Spritzee] using Draining Kiss vs Prinplup does a max of 12/46 damage
+     [Spritzee] using Charge Beam vs Prinplup does a max of 16/46 damage
+     Prinplup (0)'s best move: Metal Claw for 26/53 damage
+==============================
+     Prinplup (0) speed (26) vs Spritzee speed: 16
+     [Spritzee] -  5: for target having fast 2HKO and us having no kill
+     [Spritzee] final Switch score: -5
+==============================
+     [Qwilfish] using Aqua Jet vs Prinplup does a max of 6/46 damage
+     [Qwilfish] using Poison Tail vs Prinplup does a max of 15/46 damage
+     [Qwilfish] using Pin Missile vs Prinplup does a max of 14/46 damage
+     Prinplup (0)'s best move: Bubble Beam for 14/51 damage
+==============================
+     Prinplup (0) speed (26) vs Qwilfish speed: 40
+     [Qwilfish] +  5: for fast outdamage
+     [Qwilfish] final Switch score: 5
+[AI] Highest move score (10) vs Switch In Score (5)
+"Picnicker Diana sent out Qwilfish!"
+[Ability triggered] The opposing Qwilfish's Intimidate
+[Stat change] Prinplup's Attack changed by -1 (0 -> -1)
+"Prinplup's Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+[AI] Qwilfish (1) is considering using Toxic (4) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+     + 2 for being a Toxic Staller
+     + 1 to make equal to highest damaging move
+     - 6 because we see kill or target sees 2HKO
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   * 100.0% to use Poison Tail (target 0): score 5
+   *   0.0% to use Pin Missile (target 0): score 0
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Poison Tail (target 0)
+
+[Round order] The opposing Qwilfish (1), Prinplup (0)
+
+"Prinplup, come back!"
+"You're in charge, Munna!"
+[Ability triggered] Munna's Forewarn
+"Munna was alerted to Poison Tail!"
+[Ability triggered] Munna's Forewarn
+[Stat change] Munna's Defense changed by +1 (0 -> 1)
+"Munna's Defense rose!"
+[Use move] The opposing Qwilfish (1) used Poison Tail
+"The opposing Qwilfish used Poison Tail!"
+[HP change] Munna lost 13 HP (57 -> 44)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+      + 20 for fast kill
+[AI] Qwilfish (1) is considering using Toxic (4) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+     + 2 for being a Toxic Staller
+     + 1 to make equal to highest damaging move
+     - 6 because we see kill or target sees 2HKO
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Pin Missile (target 0): score 21
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Pin Missile (target 0)
+
+[Round order] The opposing Qwilfish (1), Munna (0)
+
+[Use move] The opposing Qwilfish (1) used Pin Missile
+"The opposing Qwilfish used Pin Missile!"
+[HP change] Munna lost 12 HP (44 -> 32)
+[HP change] Munna lost 12 HP (32 -> 20)
+[HP change] Munna gained 10 HP (20 -> 30)
+"Munna restored a little HP using its Oran Berry!"
+[Item consumed] Munna consumed its held Oran Berry
+"It's super effective!"
+"Hit 2 times!"
+[Use move] Munna (0) used Psybeam
+"Munna used Psybeam!"
+[HP change] The opposing Qwilfish lost 44 HP (51 -> 7)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Munna (0): 1
+     Threat Score for Munna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+      + 20 for fast kill
+[AI] Qwilfish (1) is considering using Toxic (4) against Munna (0)...
+     Qwilfish (1)'s highest damaging move vs Munna: Pin Missile
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Pin Missile (target 0): score 21
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Pin Missile (target 0)
+
+[Round order] The opposing Qwilfish (1), Munna (0)
+
+"Munna, come back!"
+"Your opponent's weak! Get 'em, Prinplup!"
+[Use move] The opposing Qwilfish (1) used Pin Missile
+"The opposing Qwilfish used Pin Missile!"
+[HP change] Prinplup lost 6 HP (46 -> 40)
+[HP change] Prinplup lost 6 HP (40 -> 34)
+[HP change] Prinplup lost 8 HP (34 -> 26)
+"A critical hit!"
+[HP change] Prinplup gained 10 HP (26 -> 36)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+[HP change] Prinplup lost 6 HP (36 -> 30)
+[HP change] Prinplup lost 6 HP (30 -> 24)
+"Hit 5 times!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Qwilfish (1): 0
+Set up score for Qwilfish (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Aqua Jet (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+[AI] Qwilfish (1) is considering using Poison Tail (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+     + 4 to prioritize highest damaging move
+[AI] Qwilfish (1) is considering using Pin Missile (1) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+      + 20 for fast kill
+[AI] Qwilfish (1) is considering using Toxic (4) against Prinplup (0)...
+     Qwilfish (1)'s highest damaging move vs Prinplup: Poison Tail
+     + 2 for being a Toxic Staller
+     - 5 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Qwilfish (1):
+   *   0.0% to use Aqua Jet (target 0): score 0
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Pin Missile (target 0): score 21
+   *   0.0% to use Toxic (target 0): score 0
+   => will use Pin Missile (target 0)
+
+[Round order] The opposing Qwilfish (1), Prinplup (0)
+
+[Use move] The opposing Qwilfish (1) used Pin Missile
+"The opposing Qwilfish used Pin Missile!"
+[HP change] Prinplup lost 5 HP (24 -> 19)
+[HP change] Prinplup lost 5 HP (19 -> 14)
+[HP change] Prinplup lost 6 HP (14 -> 8)
+"Hit 3 times!"
+[Use move] Prinplup (0) used Pluck
+"Prinplup used Pluck!"
+[HP change] The opposing Qwilfish lost 7 HP (7 -> 0)
+"The opposing Qwilfish fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Spritzee] using Draining Kiss vs Prinplup does a max of 12/8 damage
+     [Spritzee] using Charge Beam vs Prinplup does a max of 16/8 damage
+     Prinplup (0)'s best move: Bubble Beam for 36/53 damage
+==============================
+     Prinplup (0) speed (26) vs Spritzee speed: 16
+     [Spritzee] +  9: for slow kill
+     [Spritzee] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Picnicker Diana sent out Spritzee!"
+
+===== Round 6 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spritzee (1) is considering using Draining Kiss (1) against Prinplup (0)...
+     Spritzee (1)'s highest damaging move vs Prinplup: Charge Beam
+      + 17 for slow kill
+[AI] Spritzee (1) is considering using Charge Beam (1) against Prinplup (0)...
+     Spritzee (1)'s highest damaging move vs Prinplup: Charge Beam
+      + 17 for slow kill
+[AI] Move choices for Spritzee (1):
+   *  50.0% to use Draining Kiss (target 0): score 18
+   *  50.0% to use Charge Beam (target 0): score 18
+   => will use Charge Beam (target 0)
+
+[Round order] Prinplup (0), the opposing Spritzee (1)
+
+"Good job, Prinplup! Come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Spritzee (1) used Charge Beam
+"The opposing Spritzee used Charge Beam!"
+[HP change] Qwilfish lost 18 HP (57 -> 39)
+"It's super effective!"
+[Stat change] The opposing Spritzee's Special Attack changed by +1 (0 -> 1)
+"The opposing Spritzee's Special Attack rose!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spritzee (1) is considering using Draining Kiss (1) against Qwilfish (0)...
+     Spritzee (1)'s highest damaging move vs Qwilfish: Charge Beam
+[AI] Spritzee (1) is considering using Charge Beam (1) against Qwilfish (0)...
+     Spritzee (1)'s highest damaging move vs Qwilfish: Charge Beam
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Spritzee (1):
+   *   0.0% to use Draining Kiss (target 0): score 0
+   * 100.0% to use Charge Beam (target 0): score 5
+   => will use Charge Beam (target 0)
+
+[Round order] Qwilfish (0), the opposing Spritzee (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Spritzee lost 50 HP (53 -> 3)
+"It's super effective!"
+[HP change] The opposing Spritzee gained 20 HP (3 -> 23)
+"The opposing Spritzee restored its health using its Berry Juice!"
+[Item consumed] The opposing Spritzee consumed its held Berry Juice
+"The opposing Spritzee was badly poisoned!"
+[Use move] The opposing Spritzee (1) used Charge Beam
+"The opposing Spritzee used Charge Beam!"
+[HP change] Qwilfish lost 22 HP (39 -> 17)
+"It's super effective!"
+
+[End of round 7]
+[HP change] The opposing Spritzee lost 3 HP (23 -> 20)
+"The opposing Spritzee was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Spritzee (1) is considering using Draining Kiss (1) against Qwilfish (0)...
+     Spritzee (1)'s highest damaging move vs Qwilfish: Charge Beam
+[AI] Spritzee (1) is considering using Charge Beam (1) against Qwilfish (0)...
+     Spritzee (1)'s highest damaging move vs Qwilfish: Charge Beam
+      + 17 for slow kill
+[AI] Move choices for Spritzee (1):
+   *   0.0% to use Draining Kiss (target 0): score 0
+   * 100.0% to use Charge Beam (target 0): score 18
+   => will use Charge Beam (target 0)
+
+[Round order] Qwilfish (0), the opposing Spritzee (1)
+
+[Use move] Qwilfish (0) used Poison Fang
+"Qwilfish used Poison Fang!"
+[HP change] The opposing Spritzee lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Spritzee fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Diana!"
+"Wow. You're great!"
+
+"You got $256 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Flabébé appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Flabébé (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+[Ability triggered] The wild Flabébé's Natural Cure
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Fidough appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Fidough (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Munna appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Munna (1)
+[Ability triggered] The wild Munna's Forewarn
+"The wild Munna was alerted to Bubble Beam!"
+[Ability triggered] The wild Munna's Forewarn
+[Stat change] The wild Munna's Special Defense changed by +1 (0 -> 1)
+"The wild Munna's Special Defense rose!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Ralts appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Ralts (1)
+[Ability triggered] The wild Ralts's Trace
+"The wild Ralts traced Prinplup's Torrent!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Ralts appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Ralts (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Fidough appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Fidough (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Cleffa appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Cleffa (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Munna appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Munna (1)
+[Ability triggered] The wild Munna's Forewarn
+"The wild Munna was alerted to Bubble Beam!"
+[Ability triggered] The wild Munna's Forewarn
+[Stat change] The wild Munna's Special Defense changed by +1 (0 -> 1)
+"The wild Munna's Special Defense rose!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Fidough appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Fidough (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Flabébé appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Flabébé (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+[Ability triggered] The wild Flabébé's Natural Cure
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Cleffa appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Cleffa (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Azurill appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Azurill (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Chingling (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Chingling (1) is considering using Confusion (1) against Prinplup (0)...
+     Chingling (1)'s highest damaging move vs Prinplup: Confusion
+[AI] Chingling (1) is considering using Growl (4)...
+     Chingling (1)'s highest damaging move vs Prinplup: Confusion
+[AI] Move choices for Chingling (1):
+   *   0.0% to use Confusion (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] Prinplup (0), the wild Chingling (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Chingling was caught!"
+
+===== Pokémon caught =====
+
+"Chingling's data was added to the Pokédex."
+"Where do you want to send Chingling to?"
+"Where do you want to send Chingling to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Munna has been sent to Box "Box 1"."
+"Chingling has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Munna appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Munna (1)
+[Ability triggered] The wild Munna's Forewarn
+"The wild Munna was alerted to Bubble Beam!"
+[Ability triggered] The wild Munna's Forewarn
+[Stat change] The wild Munna's Special Defense changed by +1 (0 -> 1)
+"The wild Munna's Special Defense rose!"
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Makuhita appeared!"
+"Go! Prinplup!"
+[Round order] Prinplup (0), the wild Makuhita (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Prinplup (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Makuhita (1) is considering using Tackle (1) against Prinplup (0)...
+     Makuhita (1)'s highest damaging move vs Prinplup: Tackle
+[AI] Makuhita (1) is considering using Focus Energy (4)...
+[AI] Makuhita (1) is considering using Sand Attack (4) against Prinplup (0)...
+     Makuhita (1)'s highest damaging move vs Prinplup: Tackle
+[AI] Move choices for Makuhita (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  33.3% to use Focus Energy: score 4
+   *  33.3% to use Focus Energy: score 4
+   *  33.3% to use Sand Attack (target 0): score 4
+   => will use Sand Attack (target 0)
+
+[Round order] Prinplup (0), the wild Makuhita (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Makuhita was caught!"
+
+===== Pokémon caught =====
+
+"Makuhita's data was added to the Pokédex."
+"Where do you want to send Makuhita to?"
+"Where do you want to send Makuhita to?"
+"Makuhita has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sandshrew appeared!"
+"Go! Geodude!"
+[Round order] Geodude (0), the wild Sandshrew (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Geodude (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sandshrew (1) is considering using Scratch (1) against Geodude (0)...
+     Sandshrew (1)'s highest damaging move vs Geodude: Ice Shard
+[AI] Sandshrew (1) is considering using Ice Shard (1) against Geodude (0)...
+     Sandshrew (1)'s highest damaging move vs Geodude: Ice Shard
+[AI] Move choices for Sandshrew (1):
+   *  33.3% to use Scratch (target 0): score 1
+   *  33.3% to use Ice Shard (target 0): score 1
+   *  33.3% to use Ice Shard (target 0): score 1
+   => will use Scratch (target 0)
+
+[Round order] Geodude (0), the wild Sandshrew (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Sandshrew was caught!"
+
+===== Pokémon caught =====
+
+"Sandshrew's data was added to the Pokédex."
+"Where do you want to send Sandshrew to?"
+"Where do you want to send Sandshrew to?"
+"Sandshrew has been sent to Box "Box 1"!"
