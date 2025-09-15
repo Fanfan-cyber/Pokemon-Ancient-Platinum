@@ -1,26 +1,6 @@
 
-Qwilfish @ Muscle Band
-Level: 19
-Lonely Nature
-Ability: Swift Swim
-IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
-- Poison Fang
-- Tackle
-- Pin Missile
-- Aqua Jet
-
-Chingling
-Level: 19
-Lonely Nature
-Ability: Levitate
-IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
-- Psybeam
-- Recover
-- Fairy Wind
-- Mach Pulse
-
-Sandshrew-Alola
-Level: 19
+Sandshrew-Alola @ Oran Berry
+Level: 25
 Lax Nature
 Ability: Slush Rush
 IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
@@ -29,18 +9,38 @@ IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
 - Metal Claw
 - Icicle Spear
 
-Carkol
-Level: 19
-Timid Nature
-Ability: Heatproof
-IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
-- Flame Wheel
-- Rapid Spin
-- Smack Down
-- Rock Tomb
+Chimecho
+Level: 25
+Lonely Nature
+Ability: Levitate
+IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
+- Extrasensory
+- Draining Kiss
+- Mach Pulse
+- Recover
 
-Makuhita
-Level: 19
+Prinplup @ Oran Berry
+Level: 25
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Bubble Beam
+- Icy Wind
+- Aqua Jet
+- Pluck
+
+Bellibolt @ Oran Berry
+Level: 25
+Adamant Nature
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud Shot
+- Charge
+- Thunder Shock
+- Water Gun
+
+Hariyama @ Oran Berry
+Level: 25
 Adamant Nature
 Ability: Thick Fat
 IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
@@ -49,38 +49,108 @@ IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
 - Force Palm
 - Arm Thrust
 
-Tadbulb @ Oran Berry
-Level: 19
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud-Slap
-- Charge
-- Thunder Shock
-- Water Gun
+Qwilfish @ Muscle Band
+Level: 25
+Lonely Nature
+Ability: Swift Swim
+IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
+- Poison Fang
+- Spike Cannon
+- Pin Missile
+- Aqua Jet
 
-Shroodle @ Oran Berry
-Level: 19
+Houndoom
+Level: 25
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Flame Burst
+- Snarl
+- Smog
+- Bite
+
+Shroodle
+Level: 25
 Relaxed Nature
 Ability: Unburden
 IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
-- Fury Swipes
-- Scratch
+- U-turn
+- Slash
 - Poison Fang
 - Bite
 
-Finneon @ Oran Berry
-Level: 19
+Finneon
+Level: 25
 Calm Nature
 Ability: Adaptability
 IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
 - Gust
-- Water Gun
+- Water Pulse
 - Icy Wind
 - Silver Wind
 
+Dedenne
+Level: 25
+Rash Nature
+Ability: Cheek Pouch
+IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
+- Nuzzle
+- Parabolic Charge
+- Charm
+- Charge
+
+Croagunk
+Level: 25
+Serious Nature
+Ability: Poison Touch
+IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
+- Mach Punch
+- Venoshock
+- Sucker Punch
+- Fake Out
+
+Toedscool
+Level: 25
+Careful Nature
+Ability: Mycelium Might
+IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
+- Poison Powder
+- Stun Spore
+- Mega Drain
+- Scorching Sands
+
+Skiddo
+Level: 25
+Mild Nature
+Ability: Grass Pelt
+IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
+- Synthesis
+- Razor Leaf
+- Worry Seed
+- Stomp
+
+Graveler-Alola
+Level: 25
+Adamant Nature
+Ability: Magnet Pull
+IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
+- Tackle
+- Charge
+- Rock Tomb
+- Thunder Punch
+
+Carkol
+Level: 25
+Timid Nature
+Ability: Heatproof
+IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
+- Flame Wheel
+- Rapid Spin
+- Ancient Power
+- Rock Tomb
+
 Munna
-Level: 19
+Level: 25
 Timid Nature
 Ability: Forewarn
 IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
@@ -88,43 +158,3 @@ IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
 - Hypnosis
 - Psybeam
 - Imprison
-
-Geodude-Alola @ Oran Berry
-Level: 19
-Adamant Nature
-Ability: Magnet Pull
-IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
-- Tackle
-- Charge
-- Rock Tomb
-- Spark
-
-Skiddo @ Oran Berry
-Level: 19
-Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Tackle
-- Razor Leaf
-- Worry Seed
-- Stomp
-
-Prinplup
-Level: 19
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Bubble Beam
-- Icy Wind
-- Metal Claw
-- Pluck
-
-Houndour @ Oran Berry
-Level: 19
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Ember
-- Snarl
-- Smog
-- Bite
