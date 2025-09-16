@@ -1,6 +1,6 @@
 
-Chimecho @ Wise Glasses
-Level: 32
+Chimecho
+Level: 35
 Lonely Nature
 Ability: Levitate
 IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
@@ -9,28 +9,28 @@ IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
 - Mach Pulse
 - Recover
 
-Sandshrew-Alola @ Oran Berry
-Level: 32
-Lax Nature
-Ability: Slush Rush
-IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Iron Head
-- Icicle Spear
+Toxicroak @ Poison Barb
+Level: 35
+Serious Nature
+Ability: Poison Touch
+IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
+- Mach Punch
+- Poison Jab
+- Sucker Punch
+- Fake Out
 
 Grafaiai
-Level: 32
+Level: 35
 Relaxed Nature
 Ability: Unburden
 IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
 - U-turn
 - Slash
-- Poison Fang
+- Poison Jab
 - Bite
 
 Lumineon
-Level: 32
+Level: 35
 Calm Nature
 Ability: Adaptability
 IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
@@ -40,7 +40,7 @@ IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
 - Silver Wind
 
 Dedenne
-Level: 32
+Level: 35
 Rash Nature
 Ability: Cheek Pouch
 IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
@@ -49,98 +49,18 @@ IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
 - Charm
 - Volt Switch
 
-Toxicroak
-Level: 32
-Serious Nature
-Ability: Poison Touch
-IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
-- Mach Punch
-- Poison Jab
-- Sucker Punch
-- Fake Out
-
-Toedscruel
-Level: 32
-Careful Nature
-Ability: Mycelium Might
-IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
-- Poison Powder
-- Hex
-- Mega Drain
-- Scorching Sands
-
-Gogoat
-Level: 32
-Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Synthesis
-- Seed Bomb
-- Worry Seed
-- Bulldoze
-
-Qwilfish @ Muscle Band
-Level: 32
-Lonely Nature
-Ability: Swift Swim
-IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
-- Poison Fang
-- Spike Cannon
-- Pin Missile
-- Aqua Jet
-
-Carkol
-Level: 32
-Timid Nature
-Ability: Heatproof
-IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
-- Flame Wheel
-- Rapid Spin
-- Ancient Power
-- Rock Tomb
-
-Linoone-Galar
-Level: 32
-Bashful Nature
-Ability: Pickup
-IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
-- Pin Missile
-- Night Slash
-- Headbutt
-- Baby-Doll Eyes
-
-Munna
-Level: 32
-Timid Nature
-Ability: Forewarn
-IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
-- Moonlight
-- Yawn
-- Psybeam
-- Dazzling Gleam
-
-Houndoom
-Level: 32
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Flame Burst
-- Snarl
-- Fire Fang
-- Bite
-
-Prinplup @ Oran Berry
-Level: 32
+Sandslash-Alola
+Level: 35
 Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Bubble Beam
-- Icy Wind
-- Aqua Jet
-- Pluck
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Crash
 
 Bellibolt
-Level: 32
+Level: 35
 Adamant Nature
 Ability: Static
 IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
@@ -149,8 +69,58 @@ IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
 - Discharge
 - Water Gun
 
+Gogoat
+Level: 35
+Mild Nature
+Ability: Grass Pelt
+IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
+- Synthesis
+- Seed Bomb
+- Worry Seed
+- Stomping Tantrum
+
+Musharna
+Level: 35
+Timid Nature
+Ability: Forewarn
+IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
+- Moonlight
+- Yawn
+- Psybeam
+- Dazzling Gleam
+
+Coalossal
+Level: 35
+Timid Nature
+Ability: Heatproof
+IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
+- Flame Wheel
+- Rapid Spin
+- Ancient Power
+- Rock Tomb
+
+Prinplup
+Level: 35
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Pluck
+
+Houndoom @ Oran Berry
+Level: 35
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Flame Burst
+- Snarl
+- Fire Fang
+- Bite
+
 Hariyama @ Oran Berry
-Level: 32
+Level: 35
 Adamant Nature
 Ability: Thick Fat
 IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
@@ -160,11 +130,41 @@ IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
 - Detect
 
 Graveler-Alola
-Level: 32
+Level: 35
 Adamant Nature
 Ability: Magnet Pull
 IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
 - Thunder Wave
-- Charge
+- Rock Blast
 - Rock Tomb
 - Thunder Punch
+
+Obstagoon
+Level: 35
+Bashful Nature
+Ability: Reckless
+IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
+- Pin Missile
+- Night Slash
+- Headbutt
+- Obstruct
+
+Qwilfish
+Level: 35
+Lonely Nature
+Ability: Swift Swim
+IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
+- Poison Fang
+- Spike Cannon
+- Pin Missile
+- Aqua Jet
+
+Toedscruel
+Level: 35
+Careful Nature
+Ability: Mycelium Might
+IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
+- Poison Powder
+- Hex
+- Mega Drain
+- Scorching Sands
