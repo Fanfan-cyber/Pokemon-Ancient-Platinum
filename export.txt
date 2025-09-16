@@ -1,16 +1,6 @@
 
-Sandshrew-Alola @ Oran Berry
-Level: 25
-Lax Nature
-Ability: Slush Rush
-IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Metal Claw
-- Icicle Spear
-
-Chimecho
-Level: 25
+Chimecho @ Wise Glasses
+Level: 32
 Lonely Nature
 Ability: Levitate
 IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
@@ -19,58 +9,18 @@ IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
 - Mach Pulse
 - Recover
 
-Prinplup @ Oran Berry
-Level: 25
+Sandshrew-Alola @ Oran Berry
+Level: 32
 Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Bubble Beam
-- Icy Wind
-- Aqua Jet
-- Pluck
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Spear
 
-Bellibolt @ Oran Berry
-Level: 25
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud Shot
-- Charge
-- Thunder Shock
-- Water Gun
-
-Hariyama @ Oran Berry
-Level: 25
-Adamant Nature
-Ability: Thick Fat
-IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
-- Fake Out
-- Knock Off
-- Force Palm
-- Arm Thrust
-
-Qwilfish @ Muscle Band
-Level: 25
-Lonely Nature
-Ability: Swift Swim
-IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
-- Poison Fang
-- Spike Cannon
-- Pin Missile
-- Aqua Jet
-
-Houndoom
-Level: 25
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Flame Burst
-- Snarl
-- Smog
-- Bite
-
-Shroodle
-Level: 25
+Grafaiai
+Level: 32
 Relaxed Nature
 Ability: Unburden
 IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
@@ -79,8 +29,8 @@ IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
 - Poison Fang
 - Bite
 
-Finneon
-Level: 25
+Lumineon
+Level: 32
 Calm Nature
 Ability: Adaptability
 IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
@@ -90,57 +40,57 @@ IVs: 1 HP / 21 Atk / 6 Def / 7 SpA / 14 SpD / 1 Spe
 - Silver Wind
 
 Dedenne
-Level: 25
+Level: 32
 Rash Nature
 Ability: Cheek Pouch
 IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
 - Nuzzle
 - Parabolic Charge
 - Charm
-- Charge
+- Volt Switch
 
-Croagunk
-Level: 25
+Toxicroak
+Level: 32
 Serious Nature
 Ability: Poison Touch
 IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
 - Mach Punch
-- Venoshock
+- Poison Jab
 - Sucker Punch
 - Fake Out
 
-Toedscool
-Level: 25
+Toedscruel
+Level: 32
 Careful Nature
 Ability: Mycelium Might
 IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
 - Poison Powder
-- Stun Spore
+- Hex
 - Mega Drain
 - Scorching Sands
 
-Skiddo
-Level: 25
+Gogoat
+Level: 32
 Mild Nature
 Ability: Grass Pelt
 IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
 - Synthesis
-- Razor Leaf
+- Seed Bomb
 - Worry Seed
-- Stomp
+- Bulldoze
 
-Graveler-Alola
-Level: 25
-Adamant Nature
-Ability: Magnet Pull
-IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
-- Tackle
-- Charge
-- Rock Tomb
-- Thunder Punch
+Qwilfish @ Muscle Band
+Level: 32
+Lonely Nature
+Ability: Swift Swim
+IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
+- Poison Fang
+- Spike Cannon
+- Pin Missile
+- Aqua Jet
 
 Carkol
-Level: 25
+Level: 32
 Timid Nature
 Ability: Heatproof
 IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
@@ -149,12 +99,72 @@ IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
 - Ancient Power
 - Rock Tomb
 
+Linoone-Galar
+Level: 32
+Bashful Nature
+Ability: Pickup
+IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
+- Pin Missile
+- Night Slash
+- Headbutt
+- Baby-Doll Eyes
+
 Munna
-Level: 25
+Level: 32
 Timid Nature
 Ability: Forewarn
 IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
 - Moonlight
-- Hypnosis
+- Yawn
 - Psybeam
-- Imprison
+- Dazzling Gleam
+
+Houndoom
+Level: 32
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Flame Burst
+- Snarl
+- Fire Fang
+- Bite
+
+Prinplup @ Oran Berry
+Level: 32
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Bubble Beam
+- Icy Wind
+- Aqua Jet
+- Pluck
+
+Bellibolt
+Level: 32
+Adamant Nature
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud Shot
+- Charge
+- Discharge
+- Water Gun
+
+Hariyama @ Oran Berry
+Level: 32
+Adamant Nature
+Ability: Thick Fat
+IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
+- Fake Out
+- Knock Off
+- Force Palm
+- Detect
+
+Graveler-Alola
+Level: 32
+Adamant Nature
+Ability: Magnet Pull
+IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
+- Thunder Wave
+- Charge
+- Rock Tomb
+- Thunder Punch
