@@ -330453,3 +330453,56 @@ Roles for ABSOL: [:PHYSICALBREAKER]
 
 ===== Round 1 =====
 
+Roles for PALAFIN: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for LUCARIO: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for PALAFIN: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for LUCARIO: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for CLAYDOL: [:SCREENS]
+Roles for KOMMOO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for AGGRON: [:PHYSICALBREAKER]
+Roles for ARCANINE: [:PHYSICALBREAKER]
+Roles for ELECTRODE: [:SPECIALBREAKER]
+Roles for AERODACTYL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Double trainer battle (2 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Trainer Buck and Pokémon Trainer Marley!"
+"Pokémon Trainer Buck sent out Claydol!
+Pokémon Trainer Marley sent out Arcanine!"
+"Pokémon Trainer Riley sent out Palafin!
+Go! Chimecho!"
+[Round order] The ally Palafin (2), the opposing Arcanine (3), the opposing Claydol (1), Chimecho (0)
+[Ability triggered] The opposing Arcanine's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+[Stat change] The ally Palafin's Attack changed by -1 (0 -> -1)
+"The ally Palafin's Attack fell!"
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+"You defeated Pokémon Trainer Buck and Pokémon Trainer Marley!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $8,520 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Donphan appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Donphan (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
