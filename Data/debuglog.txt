@@ -330506,3 +330506,4086 @@ Go! Chimecho!"
 
 ===== Player won =====
 
+Roles for PURUGLY: [:PHYSICALBREAKER]
+Roles for GOLBAT: [:NONE]
+Roles for BRONZOR: [:SPECIALBREAKER]
+Roles for ABSOL: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Galactic Commander Mars!"
+"Galactic Commander Mars sent out Purugly!"
+"Go! Chimecho!"
+[Round order] The opposing Purugly (1), Chimecho (0)
+
+===== Round 1 =====
+
+Set up score for Purugly (1): 0
+Set up score for Purugly (1): 0
+     [Switch AI] +5 Party member [Absol] is immune to strongest move against Purugly (1)
+[AI] Switch out Score (5) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Purugly (1) is considering using Fake Out (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+     + 18 for using turn 1
+[AI] Purugly (1) is considering using Feint Attack (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+[AI] Purugly (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+[AI] Purugly (1) is considering using Fury Swipes (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Purugly (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Purugly (1), Chimecho (0)
+
+[Use move] The opposing Purugly (1) used Fake Out
+"The opposing Purugly used Fake Out!"
+[HP change] Chimecho lost 16 HP (83 -> 67)
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Purugly (1): 0
+Set up score for Purugly (1): 0
+     [Switch AI] +5 Party member [Absol] is immune to strongest move against Purugly (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Purugly (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Purugly (1) is considering using Feint Attack (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+[AI] Purugly (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+[AI] Purugly (1) is considering using Fury Swipes (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Purugly (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+[Round order] The opposing Purugly (1), Chimecho (0)
+
+[Use move] The opposing Purugly (1) used Fury Swipes
+"The opposing Purugly used Fury Swipes!"
+[HP change] Chimecho lost 9 HP (67 -> 58)
+[HP change] Chimecho lost 8 HP (58 -> 50)
+"Hit 2 times!"
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Purugly lost 47 HP (75 -> 28)
+[HP change] The opposing Purugly gained 18 HP (28 -> 46)
+"The opposing Purugly restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Purugly consumed its held Sitrus Berry
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Purugly (1): 0
+Set up score for Purugly (1): 0
+     [Switch AI] +5 Party member [Absol] is immune to strongest move against Purugly (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Purugly (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Purugly (1) is considering using Feint Attack (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+[AI] Purugly (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+[AI] Purugly (1) is considering using Fury Swipes (1) against Chimecho (0)...
+     Purugly (1)'s highest damaging move vs Chimecho: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Purugly (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Feint Attack (target 0): score 0
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+[Round order] The opposing Purugly (1), Chimecho (0)
+
+[Use move] The opposing Purugly (1) used Fury Swipes
+"The opposing Purugly used Fury Swipes!"
+[HP change] Chimecho lost 8 HP (50 -> 42)
+[HP change] Chimecho lost 13 HP (42 -> 29)
+"A critical hit!"
+"Hit 2 times!"
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Purugly lost 46 HP (46 -> 0)
+"The opposing Purugly fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Golbat] using Aerial Ace vs Chimecho does a max of 23/29 damage
+     [Golbat] using Poison Fang vs Chimecho does a max of 39/29 damage
+     [Golbat] using Mega Drain vs Chimecho does a max of 12/29 damage
+     Chimecho (0)'s best move: Extrasensory for 102/77 damage
+==============================
+     Chimecho (0) speed (51) vs Golbat speed: 60
+     [Golbat] + 12: for fast kill
+     [Golbat] final Switch score: 12
+==============================
+     [Bronzor] using Mirror Shot vs Chimecho does a max of 27/29 damage
+     [Bronzor] using Psybeam vs Chimecho does a max of 7/29 damage
+     Chimecho (0)'s best move: Draining Kiss for 14/71 damage
+==============================
+     Chimecho (0) speed (51) vs Bronzor speed: 24
+     [Bronzor] +  3: for outdamage
+     [Bronzor] final Switch score: 3
+==============================
+     [Absol] using Bite vs Chimecho does a max of 38/29 damage
+     [Absol] using Aerial Ace vs Chimecho does a max of 25/29 damage
+     [Absol] using Psycho Cut vs Chimecho does a max of 14/29 damage
+     [Absol] using Cut vs Chimecho does a max of 60/29 damage
+     Chimecho (0)'s best move: Draining Kiss for 69/75 damage
+==============================
+     Chimecho (0) speed (51) vs Absol speed: 55
+     [Absol] + 12: for fast kill
+     [Absol] final Switch score: 12
+[AI] Highest move score (19) vs Switch In Score (12)
+"Galactic Commander Mars sent out Golbat!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+     [Switch AI] +5 Party member [Absol] is immune to strongest move against Golbat (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Golbat (1)'s highest damaging move vs Chimecho: Poison Fang
+[AI] Golbat (1) is considering using Poison Fang (1) against Chimecho (0)...
+     Golbat (1)'s highest damaging move vs Chimecho: Poison Fang
+      + 20 for fast kill
+[AI] Golbat (1) is considering using Mega Drain (1) against Chimecho (0)...
+     Golbat (1)'s highest damaging move vs Chimecho: Poison Fang
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 21
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] The opposing Golbat (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Bellibolt!"
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat used Poison Fang!"
+[HP change] Bellibolt lost 16 HP (91 -> 75)
+[Ability triggered] Bellibolt's Static
+"The opposing Golbat is paralyzed! It may be unable to move!"
+"Bellibolt was badly poisoned!"
+
+[End of round 4]
+[HP change] Bellibolt lost 5 HP (75 -> 70)
+"Bellibolt was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Bellibolt (0)...
+     Golbat (1)'s highest damaging move vs Bellibolt: Poison Fang
+[AI] Golbat (1) is considering using Poison Fang (1) against Bellibolt (0)...
+     Golbat (1)'s highest damaging move vs Bellibolt: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Mega Drain (1) against Bellibolt (0)...
+     Golbat (1)'s highest damaging move vs Bellibolt: Poison Fang
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Bellibolt (0), the opposing Golbat (1)
+
+[Use move] Bellibolt (0) used Thunder Shock
+"Bellibolt used Thunder Shock!"
+[HP change] The opposing Golbat lost 36 HP (77 -> 41)
+"It's super effective!"
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat is paralyzed! It can't move!"
+
+[End of round 5]
+[HP change] The opposing Golbat gained 4 HP (41 -> 45)
+"The opposing Golbat restored a little HP using its Black Sludge!"
+[HP change] Bellibolt lost 11 HP (70 -> 59)
+"Bellibolt was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Bellibolt (0)...
+     Golbat (1)'s highest damaging move vs Bellibolt: Poison Fang
+[AI] Golbat (1) is considering using Poison Fang (1) against Bellibolt (0)...
+     Golbat (1)'s highest damaging move vs Bellibolt: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Mega Drain (1) against Bellibolt (0)...
+     Golbat (1)'s highest damaging move vs Bellibolt: Poison Fang
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Bellibolt (0), the opposing Golbat (1)
+
+"Bellibolt, come back!"
+"Go for it, Graveler!"
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat used Poison Fang!"
+[HP change] Graveler lost 7 HP (70 -> 63)
+"It's not very effective..."
+
+[End of round 6]
+[HP change] The opposing Golbat gained 4 HP (45 -> 49)
+"The opposing Golbat restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Graveler (0)...
+     Golbat (1)'s highest damaging move vs Graveler: Mega Drain
+[AI] Golbat (1) is considering using Poison Fang (1) against Graveler (0)...
+     Golbat (1)'s highest damaging move vs Graveler: Mega Drain
+[AI] Golbat (1) is considering using Mega Drain (1) against Graveler (0)...
+     Golbat (1)'s highest damaging move vs Graveler: Mega Drain
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Mega Drain (target 0): score 5
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Golbat (1), Graveler (0)
+
+[Use move] The opposing Golbat (1) used Mega Drain
+"The opposing Golbat used Mega Drain!"
+[HP change] Graveler lost 40 HP (63 -> 23)
+"It's super effective!"
+[HP change] Graveler gained 10 HP (23 -> 33)
+"Graveler restored a little HP using its Oran Berry!"
+[Item consumed] Graveler consumed its held Oran Berry
+"Graveler had its energy drained!"
+[HP change] The opposing Golbat gained 20 HP (49 -> 69)
+[Use move] Graveler (0) used Thunder Punch
+"Graveler used Thunder Punch!"
+[HP change] The opposing Golbat lost 68 HP (69 -> 1)
+"It's super effective!"
+
+[End of round 7]
+[HP change] The opposing Golbat gained 4 HP (1 -> 5)
+"The opposing Golbat restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Graveler (0)...
+     Golbat (1)'s highest damaging move vs Graveler: Mega Drain
+[AI] Golbat (1) is considering using Poison Fang (1) against Graveler (0)...
+     Golbat (1)'s highest damaging move vs Graveler: Mega Drain
+[AI] Golbat (1) is considering using Mega Drain (1) against Graveler (0)...
+     Golbat (1)'s highest damaging move vs Graveler: Mega Drain
+      + 20 for fast kill
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Mega Drain (target 0): score 21
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Golbat (1), Graveler (0)
+
+"OK, Graveler! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Golbat (1) used Mega Drain
+"The opposing Golbat is paralyzed! It can't move!"
+
+[End of round 8]
+[HP change] The opposing Golbat gained 4 HP (5 -> 9)
+"The opposing Golbat restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Golbat (1): 0
+Set up score for Golbat (1): 0
+     [Switch AI] +5 Party member [Absol] is immune to strongest move against Golbat (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Golbat (1)'s highest damaging move vs Chimecho: Poison Fang
+[AI] Golbat (1) is considering using Poison Fang (1) against Chimecho (0)...
+     Golbat (1)'s highest damaging move vs Chimecho: Poison Fang
+      + 17 for slow kill
+[AI] Golbat (1) is considering using Mega Drain (1) against Chimecho (0)...
+     Golbat (1)'s highest damaging move vs Chimecho: Poison Fang
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Aerial Ace (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 18
+   *   0.0% to use Mega Drain (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Chimecho (0), the opposing Golbat (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Golbat lost 9 HP (9 -> 0)
+"The opposing Golbat fainted!"
+"Graveler got 1 Exp. Points!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Bronzor] using Mirror Shot vs Chimecho does a max of 27/29 damage
+     [Bronzor] using Psybeam vs Chimecho does a max of 7/29 damage
+     Chimecho (0)'s best move: Draining Kiss for 14/71 damage
+==============================
+     Chimecho (0) speed (51) vs Bronzor speed: 24
+     [Bronzor] +  3: for outdamage
+     [Bronzor] final Switch score: 3
+==============================
+     [Absol] using Bite vs Chimecho does a max of 38/29 damage
+     [Absol] using Aerial Ace vs Chimecho does a max of 25/29 damage
+     [Absol] using Psycho Cut vs Chimecho does a max of 14/29 damage
+     [Absol] using Cut vs Chimecho does a max of 60/29 damage
+     Chimecho (0)'s best move: Draining Kiss for 69/75 damage
+==============================
+     Chimecho (0) speed (51) vs Absol speed: 55
+     [Absol] + 12: for fast kill
+     [Absol] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Galactic Commander Mars sent out Absol!"
+[Ability triggered] The opposing Absol's Pressure
+"The opposing Absol is exerting its pressure!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Absol (1): 0
+Set up score for Absol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Chimecho (0)...
+     Absol (1)'s highest damaging move vs Chimecho: Cut
+      + 20 for fast kill
+[AI] Absol (1) is considering using Aerial Ace (1) against Chimecho (0)...
+     Absol (1)'s highest damaging move vs Chimecho: Cut
+[AI] Absol (1) is considering using Psycho Cut (1) against Chimecho (0)...
+     Absol (1)'s highest damaging move vs Chimecho: Cut
+[AI] Absol (1) is considering using Cut (1) against Chimecho (0)...
+     Absol (1)'s highest damaging move vs Chimecho: Cut
+      + 20 for fast kill
+[AI] Move choices for Absol (1):
+   *  50.0% to use Bite (target 0): score 21
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *  50.0% to use Cut (target 0): score 21
+   => will use Bite (target 0)
+
+[Round order] The opposing Absol (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Bellibolt!"
+[Use move] The opposing Absol (1) used Bite
+"The opposing Absol used Bite!"
+[HP change] Bellibolt lost 31 HP (59 -> 28)
+[HP change] Bellibolt gained 10 HP (28 -> 38)
+"Bellibolt restored a little HP using its Oran Berry!"
+[Item consumed] Bellibolt consumed its held Oran Berry
+
+[End of round 10]
+[HP change] Bellibolt lost 5 HP (38 -> 33)
+"Bellibolt was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Absol (1): 0
+Set up score for Absol (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Bellibolt (0)...
+     Absol (1)'s highest damaging move vs Bellibolt: Bite
+     + 4 to prioritize highest damaging move
+[AI] Absol (1) is considering using Aerial Ace (1) against Bellibolt (0)...
+     Absol (1)'s highest damaging move vs Bellibolt: Bite
+[AI] Absol (1) is considering using Psycho Cut (1) against Bellibolt (0)...
+     Absol (1)'s highest damaging move vs Bellibolt: Bite
+[AI] Absol (1) is considering using Cut (1) against Bellibolt (0)...
+     Absol (1)'s highest damaging move vs Bellibolt: Bite
+[AI] Move choices for Absol (1):
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Absol (1), Bellibolt (0)
+
+"OK, Bellibolt! Come back!"
+"You're in charge, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Absol (1) used Bite
+"The opposing Absol used Bite!"
+[HP change] Houndoom lost 25 HP (78 -> 53)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Houndoom (0)
+Set up score for Absol (1): 0
+Set up score for Absol (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+[AI] Absol (1) is considering using Aerial Ace (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+     + 4 to prioritize highest damaging move
+[AI] Absol (1) is considering using Psycho Cut (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Absol (1) is considering using Cut (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+[AI] Move choices for Absol (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 5
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] Houndoom (0), the opposing Absol (1)
+
+[Use move] Houndoom (0) used Flame Burst
+[Ability triggered] The opposing Absol's Pressure
+"Houndoom used Flame Burst!"
+[HP change] The opposing Absol lost 52 HP (75 -> 23)
+"A critical hit!"
+[Use move] The opposing Absol (1) used Aerial Ace
+"The opposing Absol used Aerial Ace!"
+[HP change] Houndoom lost 33 HP (53 -> 20)
+[HP change] Houndoom gained 10 HP (20 -> 30)
+"Houndoom restored a little HP using its Oran Berry!"
+[Item consumed] Houndoom consumed its held Oran Berry
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Absol (1): 0
+Set up score for Absol (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Absol (1) is considering using Bite (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+[AI] Absol (1) is considering using Aerial Ace (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+      + 17 for slow kill
+[AI] Absol (1) is considering using Psycho Cut (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Absol (1) is considering using Cut (1) against Houndoom (0)...
+     Absol (1)'s highest damaging move vs Houndoom: Aerial Ace
+[AI] Move choices for Absol (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Aerial Ace (target 0): score 18
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Cut (target 0): score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] Houndoom (0), the opposing Absol (1)
+
+[Use move] Houndoom (0) used Flame Burst
+[Ability triggered] The opposing Absol's Pressure
+"Houndoom used Flame Burst!"
+[HP change] The opposing Absol lost 23 HP (23 -> 0)
+"The opposing Absol fainted!"
+
+[End of round 13]
+Trick Room Turns: 0
+     move will not affect Houndoom (0)
+==============================
+     [Bronzor] using Mirror Shot vs Houndoom does a max of 8/30 damage
+     [Bronzor] using Hidden Power vs Houndoom does a max of 20/30 damage
+     Houndoom (0)'s best move: Flame Burst for 54/71 damage
+==============================
+     Houndoom (0) speed (58) vs Bronzor speed: 24
+     [Bronzor] -  5: for target having fast 2HKO and us having no kill
+     [Bronzor] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (-5)
+"Galactic Commander Mars sent out Bronzor!"
+
+===== Round 14 =====
+
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bronzor (1) is considering using Mirror Shot (1) against Houndoom (0)...
+     Bronzor (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Bronzor (1) is considering using Psybeam (1) against Houndoom (0)...
+     Bronzor (1)'s highest damaging move vs Houndoom: Hidden Power
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Bronzor (1) is considering using Hidden Power (1) against Houndoom (0)...
+     Bronzor (1)'s highest damaging move vs Houndoom: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bronzor (1):
+   *   0.0% to use Mirror Shot (target 0): score 0
+   *   0.0% to use Psybeam (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] Houndoom (0), the opposing Bronzor (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Bronzor lost 71 HP (71 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Bronzor fainted!"
+
+===== Player won =====
+
+"You defeated Galactic Commander Mars!"
+"Ugh."
+
+"You got $2,500 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Bidoof appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Bidoof (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Zigzagoon appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Zigzagoon (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Lick (1) against Chimecho (0)...
+     Zigzagoon (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Zigzagoon (1) is considering using Snarl (1)...
+     Zigzagoon (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Zigzagoon (1) is considering using Headbutt (1) against Chimecho (0)...
+     Zigzagoon (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Zigzagoon (1) is considering using Baby-Doll Eyes (4) against Chimecho (0)...
+     Zigzagoon (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Lick (target 0): score 0
+   *   0.0% to use Lick (target 0): score 0
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   * 100.0% to use Baby-Doll Eyes (target 0): score 4
+   => will use Baby-Doll Eyes (target 0)
+
+[Round order] The wild Zigzagoon (1), Chimecho (0)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Zigzagoon was caught!"
+"Chimecho got 97 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Zigzagoon's data was added to the Pokédex."
+"Where do you want to send Zigzagoon to?"
+"Where do you want to send Zigzagoon to?"
+"Zigzagoon has been sent to Box "Box 1"!"
+Roles for BOLTUND: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for HOUNDOOM: [:SPECIALBREAKER]
+Roles for DACHSBUN: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jacob!"
+"Youngster Jacob sent out Boltund!"
+"Go! Graveler!"
+[Round order] The opposing Boltund (1), Graveler (0)
+
+===== Round 1 =====
+
+Set up score for Boltund (1): 0
+Set up score for Boltund (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Graveler (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Boltund (1) is considering using Thunder Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Bite (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Ice Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+     + 4 to prioritize highest damaging move
+[AI] Boltund (1) is considering using Howl (4)...
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Boltund (1):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Ice Fang (target 0): score 5
+   *   0.0% to use Howl: score 0
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Boltund (1), Graveler (0)
+
+[Use move] The opposing Boltund (1) used Ice Fang
+"The opposing Boltund used Ice Fang!"
+[HP change] Graveler lost 16 HP (87 -> 71)
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Boltund lost 45 HP (77 -> 32)
+[Stat change] The opposing Boltund's Speed changed by -1 (0 -> -1)
+"The opposing Boltund's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Boltund (1): -1
+Set up score for Boltund (1): -1
+Set up score for Boltund (1): -1
+Set up score for Boltund (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-9) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Boltund (1) is considering using Thunder Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Bite (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Ice Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+     + 4 to prioritize highest damaging move
+[AI] Boltund (1) is considering using Howl (4)...
+     - 15 to discourage use
+     - -12 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Boltund (1):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Ice Fang (target 0): score 5
+   *   0.0% to use Howl: score 0
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Boltund (1), Graveler (0)
+
+[Use move] The opposing Boltund (1) used Ice Fang
+"The opposing Boltund used Ice Fang!"
+[HP change] Graveler lost 16 HP (71 -> 55)
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Boltund lost 32 HP (32 -> 0)
+"The opposing Boltund fainted!"
+"Graveler got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Houndoom] using Snarl vs Graveler does a max of 42/55 damage
+     [Houndoom] using Flame Burst vs Graveler does a max of 26/55 damage
+     [Houndoom] using Hidden Power vs Graveler does a max of 60/55 damage
+     [Houndoom] using Sucker Punch vs Graveler does a max of 18/55 damage
+     Graveler (0)'s best move: Rock Tomb for 102/83 damage
+==============================
+     Graveler (0) speed (36) vs Houndoom speed: 68
+     [Houndoom] + 12: for fast kill
+     [Houndoom] final Switch score: 12
+==============================
+     [Dachsbun] using Covet vs Graveler does a max of 17/55 damage
+     [Dachsbun] using Bite vs Graveler does a max of 11/55 damage
+     [Dachsbun] using Body Press vs Graveler does a max of 36/55 damage
+     Graveler (0)'s best move: Thunder Punch for 36/71 damage
+==============================
+     Graveler (0) speed (36) vs Dachsbun speed: 66
+     [Dachsbun] +  6: for fast 2HKO
+     [Dachsbun] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Youngster Jacob sent out Houndoom!"
+[Ability triggered] The opposing Houndoom's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Houndoom (1): 0
+Set up score for Houndoom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Houndoom (1) is considering using Snarl (1)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+[AI] Houndoom (1) is considering using Flame Burst (1) against Graveler (0)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+[AI] Houndoom (1) is considering using Hidden Power (1) against Graveler (0)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Houndoom (1) is considering using Sucker Punch (1) against Graveler (0)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+     - 3 for factoring in 2 Status Moves from Graveler (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Houndoom (1):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Houndoom (1), Graveler (0)
+
+[Use move] The opposing Houndoom (1) used Hidden Power
+"The opposing Houndoom used Hidden Power!"
+[HP change] Graveler lost 55 HP (55 -> 0)
+"It's super effective!"
+"Graveler fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+Roles for BOLTUND: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for HOUNDOOM: [:SPECIALBREAKER]
+Roles for DACHSBUN: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Jacob!"
+"Youngster Jacob sent out Boltund!"
+"Go! Graveler!"
+[Round order] The opposing Boltund (1), Graveler (0)
+
+===== Round 1 =====
+
+Set up score for Boltund (1): 0
+Set up score for Boltund (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Graveler (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Boltund (1) is considering using Thunder Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Bite (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Ice Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+     + 4 to prioritize highest damaging move
+[AI] Boltund (1) is considering using Howl (4)...
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Boltund (1):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Ice Fang (target 0): score 5
+   *   0.0% to use Howl: score 0
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Boltund (1), Graveler (0)
+
+[Use move] The opposing Boltund (1) used Ice Fang
+"The opposing Boltund used Ice Fang!"
+[HP change] Graveler lost 16 HP (73 -> 57)
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Boltund lost 48 HP (77 -> 29)
+[Stat change] The opposing Boltund's Speed changed by -1 (0 -> -1)
+"The opposing Boltund's Speed fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Boltund (1): -1
+Set up score for Boltund (1): -1
+Set up score for Boltund (1): -1
+Set up score for Boltund (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-9) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Boltund (1) is considering using Thunder Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Bite (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+[AI] Boltund (1) is considering using Ice Fang (1) against Graveler (0)...
+     Boltund (1)'s highest damaging move vs Graveler: Ice Fang
+     + 4 to prioritize highest damaging move
+[AI] Boltund (1) is considering using Howl (4)...
+     - 15 to discourage use
+     - -12 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Boltund (1):
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Ice Fang (target 0): score 5
+   *   0.0% to use Howl: score 0
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Boltund (1), Graveler (0)
+
+[Use move] The opposing Boltund (1) used Ice Fang
+"The opposing Boltund used Ice Fang!"
+[HP change] Graveler lost 17 HP (57 -> 40)
+[HP change] Graveler gained 10 HP (40 -> 50)
+"Graveler restored a little HP using its Oran Berry!"
+[Item consumed] Graveler consumed its held Oran Berry
+[Use move] Graveler (0) used Rock Tomb
+"Graveler used Rock Tomb!"
+[HP change] The opposing Boltund lost 29 HP (29 -> 0)
+"The opposing Boltund fainted!"
+"Graveler got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Houndoom] using Snarl vs Graveler does a max of 42/50 damage
+     [Houndoom] using Flame Burst vs Graveler does a max of 26/50 damage
+     [Houndoom] using Hidden Power vs Graveler does a max of 60/50 damage
+     [Houndoom] using Sucker Punch vs Graveler does a max of 18/50 damage
+     Graveler (0)'s best move: Rock Tomb for 102/83 damage
+==============================
+     Graveler (0) speed (36) vs Houndoom speed: 68
+     [Houndoom] + 12: for fast kill
+     [Houndoom] final Switch score: 12
+==============================
+     [Dachsbun] using Covet vs Graveler does a max of 17/50 damage
+     [Dachsbun] using Bite vs Graveler does a max of 11/50 damage
+     [Dachsbun] using Body Press vs Graveler does a max of 36/50 damage
+     Graveler (0)'s best move: Thunder Punch for 36/71 damage
+==============================
+     Graveler (0) speed (36) vs Dachsbun speed: 66
+     [Dachsbun] +  6: for fast 2HKO
+     [Dachsbun] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Youngster Jacob sent out Houndoom!"
+[Ability triggered] The opposing Houndoom's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Houndoom (1): 0
+Set up score for Houndoom (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Graveler (0): 0
+     Threat Score for Graveler (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Houndoom (1) is considering using Snarl (1)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+[AI] Houndoom (1) is considering using Flame Burst (1) against Graveler (0)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+[AI] Houndoom (1) is considering using Hidden Power (1) against Graveler (0)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+      + 20 for fast kill
+[AI] Houndoom (1) is considering using Sucker Punch (1) against Graveler (0)...
+     Houndoom (1)'s highest damaging move vs Graveler: Hidden Power
+     - 3 for factoring in 2 Status Moves from Graveler (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Houndoom (1):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Houndoom (1), Graveler (0)
+
+"Graveler, come back!"
+"You're in charge, Toxicroak!"
+[Use move] The opposing Houndoom (1) used Hidden Power
+"The opposing Houndoom used Hidden Power!"
+[HP change] Toxicroak lost 9 HP (103 -> 94)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Houndoom (1): 0
+Set up score for Houndoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Houndoom (1) is considering using Snarl (1)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+[AI] Houndoom (1) is considering using Flame Burst (1) against Toxicroak (0)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+     + 4 to prioritize highest damaging move
+[AI] Houndoom (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+[AI] Houndoom (1) is considering using Sucker Punch (1) against Toxicroak (0)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+     + 2 for factoring in 0 Status Moves from Toxicroak (0)
+     no added score due to target having faster priority or being slower with no priority
+[AI] Move choices for Houndoom (1):
+   *   0.0% to use Snarl: score 0
+   * 100.0% to use Flame Burst (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Flame Burst (target 0)
+
+[Round order] Toxicroak (0), the opposing Houndoom (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Houndoom lost 23 HP (83 -> 60)
+[Use move] The opposing Houndoom (1) used Flame Burst
+"The opposing Houndoom flinched and couldn't move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Houndoom (1): 0
+Set up score for Houndoom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (12)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Houndoom (1) is considering using Snarl (1)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+[AI] Houndoom (1) is considering using Flame Burst (1) against Toxicroak (0)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+     + 4 to prioritize highest damaging move
+[AI] Houndoom (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+[AI] Houndoom (1) is considering using Sucker Punch (1) against Toxicroak (0)...
+     Houndoom (1)'s highest damaging move vs Toxicroak: Flame Burst
+     + 2 for factoring in 0 Status Moves from Toxicroak (0)
+     no added score due to target having faster priority or being slower with no priority
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Houndoom (1):
+   *   0.0% to use Snarl: score 0
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 12
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Houndoom (1), Toxicroak (0)
+
+[Use move] The opposing Houndoom (1) used Sucker Punch
+"The opposing Houndoom used Sucker Punch!"
+[HP change] Toxicroak lost 13 HP (94 -> 81)
+"It's not very effective..."
+[Use move] Toxicroak (0) used Mach Punch
+"Toxicroak used Mach Punch!"
+[HP change] The opposing Houndoom lost 60 HP (60 -> 0)
+"It's super effective!"
+"The opposing Houndoom fainted!"
+"Toxicroak got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Dachsbun] using Covet vs Toxicroak does a max of 24/81 damage
+     [Dachsbun] using Bite vs Toxicroak does a max of 8/81 damage
+     [Dachsbun] using Body Press vs Toxicroak does a max of 14/81 damage
+     Toxicroak (0)'s best move: Poison Jab for 84/71 damage
+==============================
+     Toxicroak (0) speed (66) vs Dachsbun speed: 66
+     [Dachsbun] -  9: for target fast kill
+     [Dachsbun] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Youngster Jacob sent out Dachsbun!"
+
+===== Round 6 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dachsbun (1) is considering using Covet (1) against Toxicroak (0)...
+     Dachsbun (1)'s highest damaging move vs Toxicroak: Covet
+     + 4 to prioritize highest damaging move
+[AI] Dachsbun (1) is considering using Bite (1) against Toxicroak (0)...
+     Dachsbun (1)'s highest damaging move vs Toxicroak: Covet
+[AI] Dachsbun (1) is considering using Body Press (1) against Toxicroak (0)...
+     Dachsbun (1)'s highest damaging move vs Toxicroak: Covet
+[AI] Move choices for Dachsbun (1):
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Body Press (target 0): score 0
+   => will use Covet (target 0)
+
+[Round order] The opposing Dachsbun (1), Toxicroak (0)
+
+[Use move] The opposing Dachsbun (1) used Covet
+"The opposing Dachsbun used Covet!"
+[HP change] Toxicroak lost 24 HP (81 -> 57)
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Dachsbun lost 71 HP (71 -> 0)
+"It's super effective!"
+"The opposing Dachsbun fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Jacob!"
+"Wow. You're great!"
+
+"You got $416 for winning!"
+Roles for BRELOOM: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for GRAVELER: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PALPITOAD: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for MAGMAR: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Daniel!"
+"Hiker Daniel sent out Breloom!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Breloom (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Breloom (1): 0
+Set up score for Breloom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 3
+     End flag assignment.
+[AI] Breloom (1) is considering using Spore (4) against Toxicroak (0)...
+     Breloom (1)'s highest damaging move vs Toxicroak: Bullet Seed
+     - 3 because this will be pointless
+[AI] Breloom (1) is considering using Mach Punch (1) against Toxicroak (0)...
+     Breloom (1)'s highest damaging move vs Toxicroak: Bullet Seed
+[AI] Breloom (1) is considering using Rock Tomb (1) against Toxicroak (0)...
+     Breloom (1)'s highest damaging move vs Toxicroak: Bullet Seed
+[AI] Breloom (1) is considering using Bullet Seed (1) against Toxicroak (0)...
+     Breloom (1)'s highest damaging move vs Toxicroak: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Breloom (1):
+   *   0.0% to use Spore (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Toxicroak (0), the opposing Breloom (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Breloom lost 75 HP (75 -> 0)
+"It's super effective!"
+"The opposing Breloom fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Graveler] using Thunder Punch vs Toxicroak does a max of 38/103 damage
+     [Graveler] using Rock Slide vs Toxicroak does a max of 19/103 damage
+     [Graveler] using Bulldoze vs Toxicroak does a max of 40/103 damage
+     [Graveler] using Steamroller vs Toxicroak does a max of 6/103 damage
+     Toxicroak (0)'s best move: Mach Punch for 42/72 damage
+==============================
+     Toxicroak (0) speed (66) vs Graveler speed: 31
+     [Graveler] -  5: for target having fast 2HKO and us having no kill
+     [Graveler] final Switch score: -5
+==============================
+     [Palpitoad] using Bubble Beam vs Toxicroak does a max of 24/103 damage
+     [Palpitoad] using Mud Bomb vs Toxicroak does a max of 48/103 damage
+     [Palpitoad] using Icy Wind vs Toxicroak does a max of 14/103 damage
+     [Palpitoad] using Sludge vs Toxicroak does a max of 8/103 damage
+     Toxicroak (0)'s best move: Sucker Punch for 41/83 damage
+==============================
+     Toxicroak (0) speed (66) vs Palpitoad speed: 48
+     [Palpitoad] +  3: for outdamage
+     [Palpitoad] final Switch score: 3
+==============================
+     [Magmar] using Flame Burst vs Toxicroak does a max of 32/103 damage
+     [Magmar] using Thunder Punch vs Toxicroak does a max of 23/103 damage
+     [Magmar] using Mach Punch vs Toxicroak does a max of 7/103 damage
+     [Magmar] using Hidden Power vs Toxicroak does a max of 10/103 damage
+     Toxicroak (0)'s best move: Poison Jab for 68/77 damage
+==============================
+     Toxicroak (0) speed (66) vs Magmar speed: 67
+     [Magmar] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (3)
+"Hiker Daniel sent out Palpitoad!"
+
+===== Round 2 =====
+
+Set up score for Palpitoad (1): 0
+Set up score for Palpitoad (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palpitoad (1) is considering using Bubble Beam (1) against Toxicroak (0)...
+     Palpitoad (1)'s highest damaging move vs Toxicroak: Mud Bomb
+[AI] Palpitoad (1) is considering using Mud Bomb (1) against Toxicroak (0)...
+     Palpitoad (1)'s highest damaging move vs Toxicroak: Mud Bomb
+     + 4 to prioritize highest damaging move
+[AI] Palpitoad (1) is considering using Icy Wind (1)...
+     Palpitoad (1)'s highest damaging move vs Toxicroak: Mud Bomb
+[AI] Palpitoad (1) is considering using Sludge (1) against Toxicroak (0)...
+     Palpitoad (1)'s highest damaging move vs Toxicroak: Mud Bomb
+[AI] Move choices for Palpitoad (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Mud Bomb (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Sludge (target 0): score 0
+   => will use Mud Bomb (target 0)
+
+[Round order] Toxicroak (0), the opposing Palpitoad (1)
+
+"Toxicroak, come back!"
+"You're in charge, Gogoat!"
+[Use move] The opposing Palpitoad (1) used Mud Bomb
+"The opposing Palpitoad used Mud Bomb!"
+[HP change] Gogoat lost 9 HP (120 -> 111)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Palpitoad (1): 0
+Set up score for Palpitoad (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palpitoad (1) is considering using Bubble Beam (1) against Gogoat (0)...
+     Palpitoad (1)'s highest damaging move vs Gogoat: Sludge
+[AI] Palpitoad (1) is considering using Mud Bomb (1) against Gogoat (0)...
+     Palpitoad (1)'s highest damaging move vs Gogoat: Sludge
+[AI] Palpitoad (1) is considering using Icy Wind (1)...
+     Palpitoad (1)'s highest damaging move vs Gogoat: Sludge
+[AI] Palpitoad (1) is considering using Sludge (1) against Gogoat (0)...
+     Palpitoad (1)'s highest damaging move vs Gogoat: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Palpitoad (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Mud Bomb (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Sludge (target 0): score 5
+   => will use Sludge (target 0)
+
+[Round order] Gogoat (0), the opposing Palpitoad (1)
+
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[HP change] The opposing Palpitoad lost 83 HP (83 -> 0)
+"It's super effective!"
+"The opposing Palpitoad fainted!"
+"The Rindo Berry weakened the damage to the opposing Palpitoad!"
+[Item consumed] The opposing Palpitoad consumed its held Rindo Berry
+"Gogoat got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Graveler] using Thunder Punch vs Gogoat does a max of 20/111 damage
+     [Graveler] using Rock Slide vs Gogoat does a max of 41/111 damage
+     [Graveler] using Bulldoze vs Gogoat does a max of 11/111 damage
+     [Graveler] using Steamroller vs Gogoat does a max of 48/111 damage
+     Gogoat (0)'s best move: Bulldoze for 76/72 damage
+==============================
+     Gogoat (0) speed (56) vs Graveler speed: 31
+     [Graveler] -  9: for target fast kill
+     [Graveler] final Switch score: -9
+==============================
+     [Magmar] using Flame Burst vs Gogoat does a max of 57/111 damage
+     [Magmar] using Thunder Punch vs Gogoat does a max of 13/111 damage
+     [Magmar] using Mach Punch vs Gogoat does a max of 14/111 damage
+     [Magmar] using Hidden Power vs Gogoat does a max of 8/111 damage
+     Gogoat (0)'s best move: Bulldoze for 64/77 damage
+==============================
+     Gogoat (0) speed (56) vs Magmar speed: 67
+     [Magmar] +  6: for fast 2HKO
+     [Magmar] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Hiker Daniel sent out Magmar!"
+
+===== Round 4 =====
+
+Set up score for Magmar (1): 0
+Set up score for Magmar (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmar (1) is considering using Flame Burst (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+     + 4 to prioritize highest damaging move
+[AI] Magmar (1) is considering using Thunder Punch (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+[AI] Magmar (1) is considering using Mach Punch (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+[AI] Magmar (1) is considering using Hidden Power (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+[AI] Move choices for Magmar (1):
+   * 100.0% to use Flame Burst (target 0): score 5
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flame Burst (target 0)
+
+[Round order] The opposing Magmar (1), Gogoat (0)
+
+[Use move] The opposing Magmar (1) used Flame Burst
+"The opposing Magmar used Flame Burst!"
+[HP change] Gogoat lost 51 HP (111 -> 60)
+"It's super effective!"
+[HP change] Gogoat gained 10 HP (60 -> 70)
+"Gogoat restored a little HP using its Oran Berry!"
+[Item consumed] Gogoat consumed its held Oran Berry
+[Use move] Gogoat (0) used Bulldoze
+"Gogoat used Bulldoze!"
+[HP change] The opposing Magmar lost 58 HP (77 -> 19)
+"It's super effective!"
+[Stat change] The opposing Magmar's Speed changed by -1 (0 -> -1)
+"The opposing Magmar's Speed fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magmar (1): -1
+Set up score for Magmar (1): -1
+Set up score for Magmar (1): -1
+Set up score for Magmar (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-7) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magmar (1) is considering using Flame Burst (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+     + 4 to prioritize highest damaging move
+[AI] Magmar (1) is considering using Thunder Punch (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+[AI] Magmar (1) is considering using Mach Punch (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+     + 9 to get a last ditch hit off.
+[AI] Magmar (1) is considering using Hidden Power (1) against Gogoat (0)...
+     Magmar (1)'s highest damaging move vs Gogoat: Flame Burst
+[AI] Move choices for Magmar (1):
+   *   0.0% to use Flame Burst (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   * 100.0% to use Mach Punch (target 0): score 10
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Mach Punch (target 0)
+
+[Round order] The opposing Magmar (1), Gogoat (0)
+
+[Use move] The opposing Magmar (1) used Mach Punch
+"The opposing Magmar used Mach Punch!"
+[HP change] Gogoat lost 14 HP (70 -> 56)
+[Use move] Gogoat (0) used Bulldoze
+"Gogoat used Bulldoze!"
+[HP change] The opposing Magmar lost 19 HP (19 -> 0)
+"It's super effective!"
+"The opposing Magmar fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Graveler] using Thunder Punch vs Gogoat does a max of 20/56 damage
+     [Graveler] using Rock Slide vs Gogoat does a max of 41/56 damage
+     [Graveler] using Bulldoze vs Gogoat does a max of 11/56 damage
+     [Graveler] using Steamroller vs Gogoat does a max of 48/56 damage
+     Gogoat (0)'s best move: Bulldoze for 76/72 damage
+==============================
+     Gogoat (0) speed (56) vs Graveler speed: 31
+     [Graveler] -  9: for target fast kill
+     [Graveler] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (-9)
+"Hiker Daniel sent out Graveler!"
+"The opposing Graveler floats in the air with its Air Balloon!"
+
+===== Round 6 =====
+
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Thunder Punch (1) against Gogoat (0)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+[AI] Graveler (1) is considering using Rock Slide (1)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+[AI] Graveler (1) is considering using Bulldoze (1)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+[AI] Graveler (1) is considering using Steamroller (1) against Gogoat (0)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Graveler (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Steamroller (target 0): score 5
+   => will use Steamroller (target 0)
+
+[Round order] Gogoat (0), the opposing Graveler (1)
+
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[HP change] The opposing Graveler lost 70 HP (72 -> 2)
+"It's super effective!"
+"The opposing Graveler's Air Balloon popped!"
+[Item consumed] The opposing Graveler consumed its held Air Balloon
+[Use move] The opposing Graveler (1) used Steamroller
+"The opposing Graveler used Steamroller!"
+[HP change] Gogoat lost 45 HP (56 -> 11)
+"It's super effective!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Thunder Punch (1) against Gogoat (0)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+      + 17 for slow kill
+[AI] Graveler (1) is considering using Rock Slide (1)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+      + 17 for slow kill
+[AI] Graveler (1) is considering using Bulldoze (1)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+      + 17 for slow kill
+[AI] Graveler (1) is considering using Steamroller (1) against Gogoat (0)...
+     Graveler (1)'s highest damaging move vs Gogoat: Steamroller
+      + 17 for slow kill
+[AI] Move choices for Graveler (1):
+   *  25.0% to use Thunder Punch (target 0): score 18
+   *  25.0% to use Rock Slide: score 18
+   *  25.0% to use Bulldoze: score 18
+   *  25.0% to use Steamroller (target 0): score 18
+   => will use Thunder Punch (target 0)
+
+[Round order] Gogoat (0), the opposing Graveler (1)
+
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[HP change] The opposing Graveler lost 2 HP (2 -> 0)
+"It's super effective!"
+"The opposing Graveler fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Daniel!"
+"Wow. You're great!"
+
+"You got $832 for winning!"
+Roles for MIENFOO: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PIGNITE: [:PHYSICALBREAKER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Battle Girl Kelsey!"
+"Battle Girl Kelsey sent out Mienfoo!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mienfoo (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mienfoo (1) is considering using Fake Out (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+     + 18 for using turn 1
+[AI] Mienfoo (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+[AI] Mienfoo (1) is considering using Acrobatics (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienfoo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Mienfoo (1), Chimecho (0)
+
+[Use move] The opposing Mienfoo (1) used Fake Out
+"The opposing Mienfoo used Fake Out!"
+[HP change] Chimecho lost 9 HP (103 -> 94)
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mienfoo (1): 0
+Set up score for Mienfoo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mienfoo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Mienfoo (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+[AI] Mienfoo (1) is considering using Acrobatics (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+[AI] Mienfoo (1) is considering using Rock Tomb (1) against Chimecho (0)...
+     Mienfoo (1)'s highest damaging move vs Chimecho: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mienfoo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Acrobatics (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Chimecho (0), the opposing Mienfoo (1)
+
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Mienfoo lost 65 HP (65 -> 0)
+"It's super effective!"
+"The opposing Mienfoo fainted!"
+"The opposing Mienfoo had its energy drained!"
+[HP change] Chimecho gained 9 HP (94 -> 103)
+"Chimecho got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Pignite] using Flame Charge vs Chimecho does a max of 23/103 damage
+     [Pignite] using Brick Break vs Chimecho does a max of 8/103 damage
+     [Pignite] using Thunder Punch vs Chimecho does a max of 21/103 damage
+     Chimecho (0)'s best move: Extrasensory for 156/90 damage
+==============================
+     Chimecho (0) speed (63) vs Pignite speed: 41
+     [Pignite] -  9: for target fast kill
+     [Pignite] final Switch score: -9
+==============================
+     [Bewear] using Headbutt vs Chimecho does a max of 36/103 damage
+     [Bewear] using Brick Break vs Chimecho does a max of 9/103 damage
+     [Bewear] using Brutal Swing vs Chimecho does a max of 20/103 damage
+     Chimecho (0)'s best move: Extrasensory for 141/110 damage
+==============================
+     Chimecho (0) speed (63) vs Bewear speed: 49
+     [Bewear] -  9: for target fast kill
+     [Bewear] final Switch score: -9
+[AI] Highest move score (19) vs Switch In Score (-9)
+"Battle Girl Kelsey sent out Pignite!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Pignite (1): 0
+Set up score for Pignite (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pignite (1) is considering using Flame Charge (1) against Chimecho (0)...
+     Pignite (1)'s highest damaging move vs Chimecho: Flame Charge
+     + 4 to prioritize highest damaging move
+[AI] Pignite (1) is considering using Brick Break (1) against Chimecho (0)...
+     Pignite (1)'s highest damaging move vs Chimecho: Flame Charge
+[AI] Pignite (1) is considering using Thunder Punch (1) against Chimecho (0)...
+     Pignite (1)'s highest damaging move vs Chimecho: Flame Charge
+[AI] Pignite (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Pignite (1)'s highest damaging move vs Chimecho: Flame Charge
+     - 3 because this will be pointless
+[AI] Move choices for Pignite (1):
+   * 100.0% to use Flame Charge (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flame Charge (target 0)
+
+[Round order] Chimecho (0), the opposing Pignite (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Pignite lost 90 HP (90 -> 0)
+"It's super effective!"
+"The opposing Pignite fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Bewear] using Headbutt vs Chimecho does a max of 36/103 damage
+     [Bewear] using Brick Break vs Chimecho does a max of 9/103 damage
+     [Bewear] using Brutal Swing vs Chimecho does a max of 20/103 damage
+     Chimecho (0)'s best move: Extrasensory for 141/110 damage
+==============================
+     Chimecho (0) speed (63) vs Bewear speed: 49
+     [Bewear] -  9: for target fast kill
+     [Bewear] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Battle Girl Kelsey sent out Bewear!"
+
+===== Round 4 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Headbutt (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Bewear (1) is considering using Brick Break (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Bewear (1) is considering using Brutal Swing (1)...
+     Bewear (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Move choices for Bewear (1):
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brutal Swing: score 0
+   => will use Headbutt (target 0)
+
+[Round order] Chimecho (0), the opposing Bewear (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Bewear lost 69 HP (110 -> 41)
+"It's super effective!"
+"The Payapa Berry weakened the damage to the opposing Bewear!"
+[Item consumed] The opposing Bewear consumed its held Payapa Berry
+[Use move] The opposing Bewear (1) used Headbutt
+"The opposing Bewear used Headbutt!"
+[HP change] Chimecho lost 31 HP (103 -> 72)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Headbutt (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Bewear (1) is considering using Brick Break (1) against Chimecho (0)...
+     Bewear (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Bewear (1) is considering using Brutal Swing (1)...
+     Bewear (1)'s highest damaging move vs Chimecho: Headbutt
+[AI] Move choices for Bewear (1):
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brutal Swing: score 0
+   => will use Headbutt (target 0)
+
+[Round order] Chimecho (0), the opposing Bewear (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Bewear lost 41 HP (41 -> 0)
+"It's super effective!"
+"The opposing Bewear fainted!"
+
+===== Player won =====
+
+"You defeated Battle Girl Kelsey!"
+"Wow. You're great!"
+
+"You got $864 for winning!"
+Roles for SHIINOTIC: [:SPECIALBREAKER]
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for HEATMOR: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Siena!"
+"Picnicker Siena sent out Shiinotic!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Shiinotic (1)
+
+===== Round 1 =====
+
+     move will not affect Chimecho (0)
+Set up score for Shiinotic (1): 0
+Set up score for Shiinotic (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Shiinotic (1) is considering using Giga Drain (1) against Chimecho (0)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Shiinotic (1) is considering using Dazzling Gleam (1)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Shiinotic (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Shiinotic (1) is considering using Spore (4) against Chimecho (0)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     - 3 because this will be pointless
+[AI] Move choices for Shiinotic (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Spore (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Chimecho (0), the opposing Shiinotic (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Shiinotic lost 39 HP (75 -> 36)
+[Use move] The opposing Shiinotic (1) used Dazzling Gleam
+"The opposing Shiinotic used Dazzling Gleam!"
+[HP change] Chimecho lost 28 HP (103 -> 75)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Shiinotic (1): 0
+Set up score for Shiinotic (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shiinotic (1) is considering using Giga Drain (1) against Chimecho (0)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Shiinotic (1) is considering using Dazzling Gleam (1)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Shiinotic (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Shiinotic (1) is considering using Spore (4) against Chimecho (0)...
+     Shiinotic (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     - 3 because this will be pointless
+[AI] Move choices for Shiinotic (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Spore (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Chimecho (0), the opposing Shiinotic (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Shiinotic lost 36 HP (36 -> 0)
+"The opposing Shiinotic fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+==============================
+     [Pelipper] using Water Pulse vs Chimecho does a max of 23/75 damage
+     [Pelipper] using Air Cutter vs Chimecho does a max of 23/75 damage
+     [Pelipper] using U-turn vs Chimecho does a max of 11/75 damage
+     Chimecho (0)'s best move: Extrasensory for 57/77 damage
+==============================
+     Chimecho (0) speed (63) vs Pelipper speed: 52
+     [Pelipper] -  5: for target having fast 2HKO and us having no kill
+     [Pelipper] final Switch score: -5
+==============================
+     [Heatmor] using Flame Burst vs Chimecho does a max of 29/75 damage
+     [Heatmor] using Giga Drain vs Chimecho does a max of 20/75 damage
+     Chimecho (0)'s best move: Extrasensory for 60/91 damage
+==============================
+     Chimecho (0) speed (63) vs Heatmor speed: 52
+     [Heatmor] -  5: for target having fast 2HKO and us having no kill
+     [Heatmor] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Picnicker Siena sent out Pelipper!"
+[Ability triggered] The opposing Pelipper's Keen Eye
+"The opposing Pelipper is getting pumped!"
+
+===== Round 3 =====
+
+     move will not affect Chimecho (0)
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Chimecho (0)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+[AI] Pelipper (1) is considering using Air Cutter (1)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Pelipper (1) is considering using U-turn (1) against Chimecho (0)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *  50.0% to use Air Cutter: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Air Cutter
+
+[Round order] Chimecho (0), the opposing Pelipper (1)
+
+[Use move] Chimecho (0) used Draining Kiss
+"Chimecho used Draining Kiss!"
+[HP change] The opposing Pelipper lost 33 HP (77 -> 44)
+"The opposing Pelipper had its energy drained!"
+[HP change] Chimecho gained 25 HP (75 -> 100)
+[Use move] The opposing Pelipper (1) used Air Cutter
+"The opposing Pelipper used Air Cutter!"
+[HP change] Chimecho lost 33 HP (100 -> 67)
+"A critical hit!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Water Pulse (1) against Chimecho (0)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+[AI] Pelipper (1) is considering using Air Cutter (1)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Pelipper (1) is considering using U-turn (1) against Chimecho (0)...
+     Pelipper (1)'s highest damaging move vs Chimecho: Air Cutter
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Water Pulse (target 0): score 0
+   *  50.0% to use Air Cutter: score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Chimecho (0), the opposing Pelipper (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Pelipper lost 44 HP (44 -> 0)
+"The opposing Pelipper fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+==============================
+     [Heatmor] using Flame Burst vs Chimecho does a max of 29/67 damage
+     [Heatmor] using Giga Drain vs Chimecho does a max of 20/67 damage
+     Chimecho (0)'s best move: Extrasensory for 60/91 damage
+==============================
+     Chimecho (0) speed (63) vs Heatmor speed: 52
+     [Heatmor] -  5: for target having fast 2HKO and us having no kill
+     [Heatmor] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Picnicker Siena sent out Heatmor!"
+
+===== Round 5 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heatmor (1) is considering using Flame Burst (1) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+     + 4 to prioritize highest damaging move
+[AI] Heatmor (1) is considering using Scorching Sands (1) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Heatmor (1) is considering using Giga Drain (1) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+[AI] Heatmor (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+     - 3 because this will be pointless
+[AI] Move choices for Heatmor (1):
+   * 100.0% to use Flame Burst (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flame Burst (target 0)
+
+[Round order] Chimecho (0), the opposing Heatmor (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Heatmor lost 54 HP (91 -> 37)
+[Use move] The opposing Heatmor (1) used Flame Burst
+"The opposing Heatmor used Flame Burst!"
+[HP change] Chimecho lost 41 HP (67 -> 26)
+"A critical hit!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heatmor (1) is considering using Flame Burst (1) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+      + 17 for slow kill
+[AI] Heatmor (1) is considering using Scorching Sands (1) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Heatmor (1) is considering using Giga Drain (1) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+[AI] Heatmor (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Heatmor (1)'s highest damaging move vs Chimecho: Flame Burst
+     - 3 because this will be pointless
+[AI] Move choices for Heatmor (1):
+   * 100.0% to use Flame Burst (target 0): score 18
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flame Burst (target 0)
+
+[Round order] Chimecho (0), the opposing Heatmor (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Heatmor lost 37 HP (37 -> 0)
+"The opposing Heatmor fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Siena!"
+"Wow. You're great!"
+
+"You got $432 for winning!"
+Roles for LUDICOLO: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for SCOVILLAIN: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for ROSELIA: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Elizabeth!"
+"Aroma Lady Elizabeth sent out Ludicolo!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Ludicolo (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 3
+     End flag assignment.
+[AI] Ludicolo (1) is considering using Fake Out (1) against Toxicroak (0)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+     + 18 for using turn 1
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+[AI] Ludicolo (1) is considering using Bubble Beam (1) against Toxicroak (0)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Ludicolo (1) is considering using Icy Wind (1)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+[AI] Move choices for Ludicolo (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   => will use Fake Out (target 0)
+
+[Round order] Toxicroak (0), the opposing Ludicolo (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Ludicolo lost 18 HP (85 -> 67)
+[Ability triggered] Toxicroak's Poison Touch
+"The opposing Ludicolo was poisoned!"
+[Use move] The opposing Ludicolo (1) used Fake Out
+"The opposing Ludicolo flinched and couldn't move!"
+
+[End of round 1]
+[HP change] The opposing Ludicolo lost 10 HP (67 -> 57)
+"The opposing Ludicolo was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+[AI] Ludicolo (1) is considering using Bubble Beam (1) against Toxicroak (0)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Ludicolo (1) is considering using Icy Wind (1)...
+     Ludicolo (1)'s highest damaging move vs Toxicroak: Bubble Beam
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Icy Wind: score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Toxicroak (0), the opposing Ludicolo (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Ludicolo lost 57 HP (57 -> 0)
+"It's super effective!"
+"The opposing Ludicolo fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Scovillain] using Mega Drain vs Toxicroak does a max of 15/103 damage
+     [Scovillain] using Flame Burst vs Toxicroak does a max of 35/103 damage
+     [Scovillain] using Hidden Power vs Toxicroak does a max of 10/103 damage
+     Toxicroak (0)'s best move: Poison Jab for 120/80 damage
+==============================
+     Toxicroak (0) speed (66) vs Scovillain speed: 58
+     [Scovillain] -  9: for target fast kill
+     [Scovillain] final Switch score: -9
+==============================
+     [Roselia] using Giga Drain vs Toxicroak does a max of 17/103 damage
+     [Roselia] using Sludge vs Toxicroak does a max of 16/103 damage
+     [Roselia] using Hidden Power vs Toxicroak does a max of 10/103 damage
+     [Roselia] using Extrasensory vs Toxicroak does a max of 100/103 damage
+     Toxicroak (0)'s best move: Poison Jab for 77/72 damage
+==============================
+     Toxicroak (0) speed (66) vs Roselia speed: 52
+     [Roselia] +  3: for outdamage
+     [Roselia] final Switch score: 3
+[AI] Highest move score (19) vs Switch In Score (3)
+"Aroma Lady Elizabeth sent out Roselia!"
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Roselia (1): 0
+Set up score for Roselia (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roselia (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+[AI] Roselia (1) is considering using Sludge (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+[AI] Roselia (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+[AI] Roselia (1) is considering using Extrasensory (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roselia (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Extrasensory (target 0): score 5
+   => will use Extrasensory (target 0)
+
+[Round order] Toxicroak (0), the opposing Roselia (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Roselia lost 70 HP (72 -> 2)
+[Ability triggered] Toxicroak's Poison Touch
+"It doesn't affect the opposing Roselia..."
+[HP change] The opposing Roselia gained 18 HP (2 -> 20)
+"The opposing Roselia restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Roselia consumed its held Sitrus Berry
+[Use move] The opposing Roselia (1) used Extrasensory
+"The opposing Roselia used Extrasensory!"
+[HP change] Toxicroak lost 91 HP (103 -> 12)
+"It's super effective!"
+[HP change] Toxicroak gained 10 HP (12 -> 22)
+"Toxicroak restored a little HP using its Oran Berry!"
+[Item consumed] Toxicroak consumed its held Oran Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Roselia (1): 0
+Set up score for Roselia (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roselia (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+[AI] Roselia (1) is considering using Sludge (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+[AI] Roselia (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+[AI] Roselia (1) is considering using Extrasensory (1) against Toxicroak (0)...
+     Roselia (1)'s highest damaging move vs Toxicroak: Extrasensory
+      + 17 for slow kill
+[AI] Move choices for Roselia (1):
+   *   0.0% to use Giga Drain (target 0): score 0
+   *   0.0% to use Sludge (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Extrasensory (target 0): score 18
+   => will use Extrasensory (target 0)
+
+[Round order] Toxicroak (0), the opposing Roselia (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Roselia lost 20 HP (20 -> 0)
+"The opposing Roselia fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Scovillain] using Mega Drain vs Toxicroak does a max of 15/22 damage
+     [Scovillain] using Flame Burst vs Toxicroak does a max of 35/22 damage
+     [Scovillain] using Hidden Power vs Toxicroak does a max of 10/22 damage
+     Toxicroak (0)'s best move: Poison Jab for 120/80 damage
+==============================
+     Toxicroak (0) speed (66) vs Scovillain speed: 58
+     [Scovillain] -  9: for target fast kill
+     [Scovillain] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (-9)
+"Aroma Lady Elizabeth sent out Scovillain!"
+
+===== Round 5 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scovillain (1) is considering using Mega Drain (1) against Toxicroak (0)...
+     Scovillain (1)'s highest damaging move vs Toxicroak: Flame Burst
+[AI] Scovillain (1) is considering using Flame Burst (1) against Toxicroak (0)...
+     Scovillain (1)'s highest damaging move vs Toxicroak: Flame Burst
+      + 17 for slow kill
+[AI] Scovillain (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Scovillain (1)'s highest damaging move vs Toxicroak: Flame Burst
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   * 100.0% to use Flame Burst (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Growth: score 0
+   => will use Flame Burst (target 0)
+
+[Round order] Toxicroak (0), the opposing Scovillain (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Scovillain lost 80 HP (80 -> 0)
+"It's super effective!"
+"The opposing Scovillain fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Elizabeth!"
+"Wow. You're great!"
+
+"You got $864 for winning!"
+Roles for MONFERNO: [:PHYSICALBREAKER]
+Roles for GROTLE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for PRINPLUP: [:SPECIALBREAKER, :SPEEDCONTROL, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Karina!"
+"Picnicker Karina sent out Monferno!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Monferno (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Monferno (1): 0
+Set up score for Monferno (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 6
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 3
+     End flag assignment.
+[AI] Monferno (1) is considering using Fake Out (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+     + 18 for using turn 1
+[AI] Monferno (1) is considering using Fire Punch (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+     + 4 to prioritize highest damaging move
+[AI] Monferno (1) is considering using Thunder Punch (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+[AI] Monferno (1) is considering using Mach Punch (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+[AI] Move choices for Monferno (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] Toxicroak (0), the opposing Monferno (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Monferno lost 22 HP (77 -> 55)
+[Use move] The opposing Monferno (1) used Fake Out
+"The opposing Monferno flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Monferno (1): 0
+Set up score for Monferno (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Monferno (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Monferno (1) is considering using Fire Punch (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+     + 4 to prioritize highest damaging move
+[AI] Monferno (1) is considering using Thunder Punch (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+[AI] Monferno (1) is considering using Mach Punch (1) against Toxicroak (0)...
+     Monferno (1)'s highest damaging move vs Toxicroak: Fire Punch
+[AI] Move choices for Monferno (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Fire Punch (target 0): score 5
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Mach Punch (target 0): score 0
+   => will use Fire Punch (target 0)
+
+[Round order] Toxicroak (0), the opposing Monferno (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Monferno lost 55 HP (55 -> 0)
+"The opposing Monferno fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Grotle] using Seed Bomb vs Toxicroak does a max of 20/103 damage
+     [Grotle] using Rock Tomb vs Toxicroak does a max of 10/103 damage
+     [Grotle] using Stomping Tantrum vs Toxicroak does a max of 48/103 damage
+     [Grotle] using Bite vs Toxicroak does a max of 10/103 damage
+     Toxicroak (0)'s best move: Poison Jab for 117/85 damage
+==============================
+     Toxicroak (0) speed (66) vs Grotle speed: 32
+     [Grotle] -  9: for target fast kill
+     [Grotle] final Switch score: -9
+==============================
+     [Prinplup] using Brine vs Toxicroak does a max of 32/103 damage
+     [Prinplup] using Icy Wind vs Toxicroak does a max of 18/103 damage
+     [Prinplup] using Hidden Power vs Toxicroak does a max of 40/103 damage
+     [Prinplup] using Aqua Jet vs Toxicroak does a max of 15/103 damage
+     Toxicroak (0)'s best move: Poison Jab for 68/82 damage
+==============================
+     Toxicroak (0) speed (66) vs Prinplup speed: 41
+     [Prinplup] -  5: for target having fast 2HKO and us having no kill
+     [Prinplup] final Switch score: -5
+[AI] Highest move score (19) vs Switch In Score (-5)
+"Picnicker Karina sent out Prinplup!"
+
+===== Round 3 =====
+
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Toxicroak (0)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Prinplup (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Toxicroak (0)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Toxicroak (0), the opposing Prinplup (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Prinplup lost 58 HP (82 -> 24)
+[Ability triggered] Toxicroak's Poison Touch
+"The opposing Prinplup was poisoned!"
+[Status change] The opposing Prinplup's status was cured
+"The opposing Prinplup's Lum Berry cured its poisoning!"
+[Item consumed] The opposing Prinplup consumed its held Lum Berry
+"The opposing Prinplup was poisoned!"
+[Use move] The opposing Prinplup (1) used Hidden Power
+"The opposing Prinplup used Hidden Power!"
+[HP change] Toxicroak lost 34 HP (103 -> 69)
+"It's super effective!"
+
+[End of round 3]
+[HP change] The opposing Prinplup lost 10 HP (24 -> 14)
+"The opposing Prinplup was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Prinplup (1): 0
+Set up score for Prinplup (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Brine (1) against Toxicroak (0)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Prinplup (1) is considering using Icy Wind (1)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Prinplup (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Aqua Jet (1) against Toxicroak (0)...
+     Prinplup (1)'s highest damaging move vs Toxicroak: Hidden Power
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Brine (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Toxicroak (0), the opposing Prinplup (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Prinplup lost 14 HP (14 -> 0)
+"The opposing Prinplup fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Grotle] using Seed Bomb vs Toxicroak does a max of 20/69 damage
+     [Grotle] using Rock Tomb vs Toxicroak does a max of 10/69 damage
+     [Grotle] using Stomping Tantrum vs Toxicroak does a max of 48/69 damage
+     [Grotle] using Bite vs Toxicroak does a max of 10/69 damage
+     Toxicroak (0)'s best move: Poison Jab for 117/85 damage
+==============================
+     Toxicroak (0) speed (66) vs Grotle speed: 32
+     [Grotle] -  9: for target fast kill
+     [Grotle] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Picnicker Karina sent out Grotle!"
+
+===== Round 5 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grotle (1) is considering using Seed Bomb (1) against Toxicroak (0)...
+     Grotle (1)'s highest damaging move vs Toxicroak: Stomping Tantrum
+[AI] Grotle (1) is considering using Rock Tomb (1) against Toxicroak (0)...
+     Grotle (1)'s highest damaging move vs Toxicroak: Stomping Tantrum
+[AI] Grotle (1) is considering using Stomping Tantrum (1) against Toxicroak (0)...
+     Grotle (1)'s highest damaging move vs Toxicroak: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Grotle (1) is considering using Bite (1) against Toxicroak (0)...
+     Grotle (1)'s highest damaging move vs Toxicroak: Stomping Tantrum
+[AI] Move choices for Grotle (1):
+   *   0.0% to use Seed Bomb (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Toxicroak (0), the opposing Grotle (1)
+
+[Use move] Toxicroak (0) used Poison Jab
+"Toxicroak used Poison Jab!"
+[HP change] The opposing Grotle lost 85 HP (85 -> 0)
+"It's super effective!"
+"The opposing Grotle fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Karina!"
+"Wow. You're great!"
+
+"You got $448 for winning!"
+Roles for DREDNAW: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for FERROSEED: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for COALOSSAL: [:PHYSICALBREAKER]
+Roles for PROBOPASS: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Nicholas!"
+"Hiker Nicholas sent out Drednaw!"
+"Go! Gogoat!"
+[Round order] The opposing Drednaw (1), Gogoat (0)
+
+===== Round 1 =====
+
+Set up score for Drednaw (1): 0
+Set up score for Drednaw (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Gogoat (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Drednaw (1) is considering using Hydro Fangs (1) against Gogoat (0)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+[AI] Drednaw (1) is considering using Rock Slide (1)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+[AI] Drednaw (1) is considering using Crunch (1) against Gogoat (0)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Drednaw (1) is considering using Flip Turn (1) against Gogoat (0)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Hydro Fangs (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   *  50.0% to use Crunch (target 0): score 5
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Crunch (target 0)
+
+[Round order] The opposing Drednaw (1), Gogoat (0)
+
+[Use move] The opposing Drednaw (1) used Crunch
+"The opposing Drednaw used Crunch!"
+[HP change] Gogoat lost 43 HP (120 -> 77)
+[Stat change] Gogoat's Defense changed by -1 (0 -> -1)
+"Gogoat's Defense fell!"
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[HP change] The opposing Drednaw lost 80 HP (93 -> 13)
+"It's super effective!"
+"The Rindo Berry weakened the damage to the opposing Drednaw!"
+[Item consumed] The opposing Drednaw consumed its held Rindo Berry
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Drednaw (1): 0
+Set up score for Drednaw (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): -1
+     Threat Score for Gogoat (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Hydro Fangs (1) against Gogoat (0)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+[AI] Drednaw (1) is considering using Rock Slide (1)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+[AI] Drednaw (1) is considering using Crunch (1) against Gogoat (0)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Drednaw (1) is considering using Flip Turn (1) against Gogoat (0)...
+     Drednaw (1)'s highest damaging move vs Gogoat: Crunch
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Hydro Fangs (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   *  50.0% to use Crunch (target 0): score 5
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Flip Turn (target 0)
+
+[Round order] The opposing Drednaw (1), Gogoat (0)
+
+[Use move] The opposing Drednaw (1) used Flip Turn
+"The opposing Drednaw used Flip Turn!"
+[HP change] Gogoat lost 25 HP (77 -> 52)
+"It's not very effective..."
+[HP change] Gogoat gained 10 HP (52 -> 62)
+"Gogoat restored a little HP using its Oran Berry!"
+[Item consumed] Gogoat consumed its held Oran Berry
+"The opposing Drednaw went back to Hiker Nicholas!"
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Ferroseed] using Gyro Ball vs Gogoat does a max of 45/62 damage
+     [Ferroseed] using Seed Bomb vs Gogoat does a max of 21/62 damage
+     [Ferroseed] using Self-Destruct vs Gogoat does a max of 68/62 damage
+     Gogoat (0)'s best move: Bulldoze for 22/69 damage
+==============================
+     Gogoat (0) speed (56) vs Ferroseed speed: 16
+     [Ferroseed] +  9: for slow kill
+     [Ferroseed] final Switch score: 9
+==============================
+     [Coalossal] using Heat Crash vs Gogoat does a max of 126/62 damage
+     [Coalossal] using Rock Slide vs Gogoat does a max of 60/62 damage
+     [Coalossal] using Stomping Tantrum vs Gogoat does a max of 20/62 damage
+     Gogoat (0)'s best move: Bulldoze for 72/108 damage
+==============================
+     Gogoat (0) speed (56) vs Coalossal speed: 30
+     [Coalossal] +  9: for slow kill
+     [Coalossal] final Switch score: 9
+==============================
+     [Probopass] using Discharge vs Gogoat does a max of 14/62 damage
+     [Probopass] using Flash Cannon vs Gogoat does a max of 29/62 damage
+     [Probopass] using Explosion vs Gogoat does a max of 82/62 damage
+     [Probopass] using Earth Power vs Gogoat does a max of 11/62 damage
+     Gogoat (0)'s best move: Bulldoze for 64/77 damage
+==============================
+     Gogoat (0) speed (56) vs Probopass speed: 30
+     [Probopass] +  9: for slow kill
+     [Probopass] final Switch score: 9
+[AI] Highest move score (21) vs Switch In Score (9)
+"Hiker Nicholas sent out Ferroseed!"
+[Use move] Gogoat (0) used Synthesis
+"Gogoat used Synthesis!"
+[HP change] Gogoat gained 58 HP (62 -> 120)
+"Gogoat's HP was restored."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): -1
+     Threat Score for Gogoat (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Gyro Ball (1) against Gogoat (0)...
+     Ferroseed (1)'s highest damaging move vs Gogoat: Gyro Ball
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Seed Bomb (1) against Gogoat (0)...
+     Ferroseed (1)'s highest damaging move vs Gogoat: Gyro Ball
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Gogoat (0)...
+     Ferroseed (1)'s highest damaging move vs Gogoat: Gyro Ball
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Ferroseed (1) is considering using Self-Destruct (1)...
+     Ferroseed (1)'s highest damaging move vs Gogoat: Gyro Ball
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Gyro Ball (target 0): score 0
+   *   0.0% to use Seed Bomb (target 0): score 0
+   * 100.0% to use Thunder Wave (target 0): score 6
+   *   0.0% to use Self-Destruct: score 0
+   => will use Thunder Wave (target 0)
+
+[Round order] Gogoat (0), the opposing Ferroseed (1)
+
+"Gogoat, come back!"
+"You're in charge, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Ferroseed (1) used Thunder Wave
+"The opposing Ferroseed used Thunder Wave!"
+"Houndoom is paralyzed! It may be unable to move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Ferroseed (1): 0
+Set up score for Ferroseed (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ferroseed (1) is considering using Gyro Ball (1) against Houndoom (0)...
+     Ferroseed (1)'s highest damaging move vs Houndoom: Seed Bomb
+[AI] Ferroseed (1) is considering using Seed Bomb (1) against Houndoom (0)...
+     Ferroseed (1)'s highest damaging move vs Houndoom: Seed Bomb
+     + 4 to prioritize highest damaging move
+[AI] Ferroseed (1) is considering using Thunder Wave (4) against Houndoom (0)...
+     Ferroseed (1)'s highest damaging move vs Houndoom: Seed Bomb
+     move will not affect Houndoom (0)
+     -  4: move will fail
+[AI] Ferroseed (1) is considering using Self-Destruct (1)...
+     Ferroseed (1)'s highest damaging move vs Houndoom: Seed Bomb
+[AI] Move choices for Ferroseed (1):
+   *   0.0% to use Gyro Ball (target 0): score 0
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Self-Destruct: score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] Houndoom (0), the opposing Ferroseed (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Ferroseed lost 69 HP (69 -> 0)
+"It's super effective!"
+"The opposing Ferroseed fainted!"
+"Houndoom got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+     move will not affect Houndoom (0)
+==============================
+     [Drednaw] using Hydro Fangs vs Houndoom does a max of 123/97 damage
+     [Drednaw] using Rock Slide vs Houndoom does a max of 102/97 damage
+     [Drednaw] using Crunch vs Houndoom does a max of 27/97 damage
+     [Drednaw] using Flip Turn vs Houndoom does a max of 84/97 damage
+     Houndoom (0)'s best move: Snarl for 33/13 damage
+==============================
+     Houndoom (0) speed (36) vs Drednaw speed: 58
+     [Drednaw] + 12: for fast kill
+     [Drednaw] - 20: to avoid dying on switch in
+     [Drednaw] final Switch score: -8
+==============================
+     [Coalossal] using Heat Crash vs Houndoom does a max of 37/97 damage
+     [Coalossal] using Rock Slide vs Houndoom does a max of 93/97 damage
+     [Coalossal] using Stomping Tantrum vs Houndoom does a max of 62/97 damage
+     Houndoom (0)'s best move: Snarl for 27/108 damage
+==============================
+     Houndoom (0) speed (36) vs Coalossal speed: 30
+     [Coalossal] +  3: for outdamage
+     [Coalossal] final Switch score: 3
+==============================
+     [Probopass] using Discharge vs Houndoom does a max of 32/97 damage
+     [Probopass] using Flash Cannon vs Houndoom does a max of 16/97 damage
+     [Probopass] using Explosion vs Houndoom does a max of 64/97 damage
+     [Probopass] using Earth Power vs Houndoom does a max of 48/97 damage
+     Houndoom (0)'s best move: Fire Fang for 45/77 damage
+==============================
+     Houndoom (0) speed (36) vs Probopass speed: 30
+     [Probopass] +  3: for outdamage
+     [Probopass] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Hiker Nicholas sent out Coalossal!"
+
+===== Round 5 =====
+
+Set up score for Coalossal (1): 0
+Set up score for Coalossal (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Coalossal (1) is considering using Heat Crash (1) against Houndoom (0)...
+     Coalossal (1)'s highest damaging move vs Houndoom: Rock Slide
+[AI] Coalossal (1) is considering using Rock Slide (1)...
+     Coalossal (1)'s highest damaging move vs Houndoom: Rock Slide
+     + 4 to prioritize highest damaging move
+[AI] Coalossal (1) is considering using Stomping Tantrum (1) against Houndoom (0)...
+     Coalossal (1)'s highest damaging move vs Houndoom: Rock Slide
+[AI] Move choices for Coalossal (1):
+   *   0.0% to use Heat Crash (target 0): score 0
+   * 100.0% to use Rock Slide: score 5
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   => will use Rock Slide
+
+[Round order] Houndoom (0), the opposing Coalossal (1)
+
+"Houndoom, come back!"
+"You're in charge, Hariyama!"
+[Use move] The opposing Coalossal (1) used Rock Slide
+"The opposing Coalossal used Rock Slide!"
+[HP change] Hariyama lost 19 HP (134 -> 115)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Coalossal (1): 0
+Set up score for Coalossal (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Coalossal (1) is considering using Heat Crash (1) against Hariyama (0)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+[AI] Coalossal (1) is considering using Rock Slide (1)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+[AI] Coalossal (1) is considering using Stomping Tantrum (1) against Hariyama (0)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Coalossal (1):
+   *   0.0% to use Heat Crash (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Hariyama (0), the opposing Coalossal (1)
+
+[Use move] Hariyama (0) used Fake Out
+"Hariyama used Fake Out!"
+[HP change] The opposing Coalossal lost 7 HP (108 -> 101)
+"It's not very effective..."
+[Use move] The opposing Coalossal (1) used Stomping Tantrum
+"The opposing Coalossal flinched and couldn't move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Coalossal (1): 0
+Set up score for Coalossal (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Coalossal (1) is considering using Heat Crash (1) against Hariyama (0)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+[AI] Coalossal (1) is considering using Rock Slide (1)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+[AI] Coalossal (1) is considering using Stomping Tantrum (1) against Hariyama (0)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Coalossal (1):
+   *   0.0% to use Heat Crash (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Hariyama (0), the opposing Coalossal (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Coalossal lost 59 HP (101 -> 42)
+"It's super effective!"
+"The opposing Coalossal is paralyzed! It may be unable to move!"
+[Use move] The opposing Coalossal (1) used Stomping Tantrum
+"The opposing Coalossal used Stomping Tantrum!"
+[HP change] Hariyama lost 50 HP (115 -> 65)
+[HP change] Hariyama gained 10 HP (65 -> 75)
+"Hariyama restored a little HP using its Oran Berry!"
+[Item consumed] Hariyama consumed its held Oran Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Coalossal (1): 0
+Set up score for Coalossal (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Coalossal (1) is considering using Heat Crash (1) against Hariyama (0)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+[AI] Coalossal (1) is considering using Rock Slide (1)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+[AI] Coalossal (1) is considering using Stomping Tantrum (1) against Hariyama (0)...
+     Coalossal (1)'s highest damaging move vs Hariyama: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Coalossal (1):
+   *   0.0% to use Heat Crash (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Hariyama (0), the opposing Coalossal (1)
+
+[Use move] Hariyama (0) used Force Palm
+"Hariyama used Force Palm!"
+[HP change] The opposing Coalossal lost 42 HP (42 -> 0)
+"It's super effective!"
+"The opposing Coalossal fainted!"
+"Hariyama got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Drednaw] using Hydro Fangs vs Hariyama does a max of 53/75 damage
+     [Drednaw] using Rock Slide vs Hariyama does a max of 22/75 damage
+     [Drednaw] using Crunch vs Hariyama does a max of 23/75 damage
+     [Drednaw] using Flip Turn vs Hariyama does a max of 36/75 damage
+     Hariyama (0)'s best move: Force Palm for 87/13 damage
+==============================
+     Hariyama (0) speed (40) vs Drednaw speed: 58
+     [Drednaw] -  7: for target slow kill
+     [Drednaw] - 20: to avoid dying on switch in
+     [Drednaw] final Switch score: -27
+==============================
+     [Probopass] using Discharge vs Hariyama does a max of 36/75 damage
+     [Probopass] using Flash Cannon vs Hariyama does a max of 36/75 damage
+     [Probopass] using Explosion vs Hariyama does a max of 54/75 damage
+     [Probopass] using Earth Power vs Hariyama does a max of 27/75 damage
+     Hariyama (0)'s best move: Force Palm for 60/77 damage
+==============================
+     Hariyama (0) speed (40) vs Probopass speed: 30
+     [Probopass] -  5: for target having fast 2HKO and us having no kill
+     [Probopass] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Hiker Nicholas sent out Probopass!"
+
+===== Round 9 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Hariyama (0): 0
+     Threat Score for Hariyama (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Discharge (1)...
+     Probopass (1)'s highest damaging move vs Hariyama: Flash Cannon
+[AI] Probopass (1) is considering using Flash Cannon (1) against Hariyama (0)...
+     Probopass (1)'s highest damaging move vs Hariyama: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Hariyama: Flash Cannon
+[AI] Probopass (1) is considering using Earth Power (1) against Hariyama (0)...
+     Probopass (1)'s highest damaging move vs Hariyama: Flash Cannon
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Explosion: score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Hariyama (0), the opposing Probopass (1)
+
+"Hariyama, come back!"
+"You're in charge, Gogoat!"
+[Use move] The opposing Probopass (1) used Flash Cannon
+"The opposing Probopass used Flash Cannon!"
+[HP change] Gogoat lost 28 HP (120 -> 92)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Discharge (1)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Probopass (1) is considering using Flash Cannon (1) against Gogoat (0)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Probopass (1) is considering using Earth Power (1) against Gogoat (0)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Explosion: score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Gogoat (0), the opposing Probopass (1)
+
+[Use move] Gogoat (0) used Worry Seed
+"Gogoat used Worry Seed!"
+"The opposing Probopass acquired Insomnia!"
+[Use move] The opposing Probopass (1) used Flash Cannon
+"The opposing Probopass used Flash Cannon!"
+[HP change] Gogoat lost 26 HP (92 -> 66)
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Discharge (1)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Probopass (1) is considering using Flash Cannon (1) against Gogoat (0)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Probopass (1) is considering using Earth Power (1) against Gogoat (0)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Explosion: score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Gogoat (0), the opposing Probopass (1)
+
+[Use move] Gogoat (0) used Bulldoze
+"Gogoat used Bulldoze!"
+[HP change] The opposing Probopass lost 61 HP (77 -> 16)
+"It's super effective!"
+[Stat change] The opposing Probopass's Speed changed by -1 (0 -> -1)
+"The opposing Probopass's Speed fell!"
+[Use move] The opposing Probopass (1) used Flash Cannon
+"The opposing Probopass used Flash Cannon!"
+[HP change] Gogoat lost 27 HP (66 -> 39)
+[Stat change] Gogoat's Special Defense changed by -1 (0 -> -1)
+"Gogoat's Special Defense fell!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Probopass (1): -1
+Set up score for Probopass (1): -1
+Set up score for Probopass (1): -1
+Set up score for Probopass (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-14) vs Highest Moves Score (22)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): -1
+     Threat Score for Gogoat (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Discharge (1)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Probopass (1) is considering using Flash Cannon (1) against Gogoat (0)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+      + 5 for having a kill even if we are killed first
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+     + 4 to incentivize exploding the lower HP we are
+      + 17 for slow kill
+[AI] Probopass (1) is considering using Earth Power (1) against Gogoat (0)...
+     Probopass (1)'s highest damaging move vs Gogoat: Flash Cannon
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Discharge: score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Explosion: score 22
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Explosion
+
+[Round order] The opposing Probopass (1), Gogoat (0)
+
+"The opposing Probopass's Custap Berry let it move first!"
+[Item consumed] The opposing Probopass consumed its held Custap Berry
+"OK, Gogoat! Come back!"
+"Your opponent's weak! Get 'em, Bellibolt!"
+[Use move] The opposing Probopass (1) used Explosion
+"The opposing Probopass used Explosion!"
+[HP change] Bellibolt lost 42 HP (114 -> 72)
+[HP change] The opposing Probopass lost 16 HP (16 -> 0)
+"The opposing Probopass fainted!"
+"Bellibolt got 1 Exp. Points!"
+
+[End of round 12]
+Trick Room Turns: 0
+==============================
+     [Drednaw] using Hydro Fangs vs Bellibolt does a max of 41/72 damage
+     [Drednaw] using Rock Slide vs Bellibolt does a max of 35/72 damage
+     [Drednaw] using Crunch vs Bellibolt does a max of 35/72 damage
+     [Drednaw] using Flip Turn vs Bellibolt does a max of 27/72 damage
+     Bellibolt (0)'s best move: Discharge for 93/13 damage
+==============================
+     Bellibolt (0) speed (37) vs Drednaw speed: 58
+     [Drednaw] -  7: for target slow kill
+     [Drednaw] - 20: to avoid dying on switch in
+     [Drednaw] final Switch score: -27
+[AI] Highest move score (5) vs Switch In Score (-27)
+"Hiker Nicholas sent out Drednaw!"
+
+===== Round 13 =====
+
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Hydro Fangs (1) against Bellibolt (0)...
+     Drednaw (1)'s highest damaging move vs Bellibolt: Hydro Fangs
+     + 4 to prioritize highest damaging move
+[AI] Drednaw (1) is considering using Rock Slide (1)...
+     Drednaw (1)'s highest damaging move vs Bellibolt: Hydro Fangs
+[AI] Drednaw (1) is considering using Crunch (1) against Bellibolt (0)...
+     Drednaw (1)'s highest damaging move vs Bellibolt: Hydro Fangs
+[AI] Drednaw (1) is considering using Flip Turn (1) against Bellibolt (0)...
+     Drednaw (1)'s highest damaging move vs Bellibolt: Hydro Fangs
+[AI] Move choices for Drednaw (1):
+   * 100.0% to use Hydro Fangs (target 0): score 5
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Hydro Fangs (target 0)
+
+[Round order] The opposing Drednaw (1), Bellibolt (0)
+
+[Use move] The opposing Drednaw (1) used Hydro Fangs
+"The opposing Drednaw used Hydro Fangs!"
+[HP change] Bellibolt lost 36 HP (72 -> 36)
+[HP change] Bellibolt gained 10 HP (36 -> 46)
+"Bellibolt restored a little HP using its Oran Berry!"
+[Item consumed] Bellibolt consumed its held Oran Berry
+[Use move] Bellibolt (0) used Discharge
+"Bellibolt used Discharge!"
+[HP change] The opposing Drednaw lost 13 HP (13 -> 0)
+"It's super effective!"
+"The opposing Drednaw fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Nicholas!"
+"Wow. You're great!"
+
+"You got $896 for winning!"
+Roles for LANTURN: [:SPECIALBREAKER, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for LEAVANNY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for CLEFABLE: [:SPECIALBREAKER, :SPEEDCONTROL]
+Roles for DRIFBLIM: [:SPECIALBREAKER]
+Roles for SANDACONDA: [:PHYSICALBREAKER, :SPEEDCONTROL, :STATUSABSORBER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Ace Trainer Isabella!"
+"Ace Trainer Isabella sent out Lanturn!"
+"Go! Gogoat!"
+[Round order] Gogoat (0), the opposing Lanturn (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Lanturn (1): 0
+Set up score for Lanturn (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 6
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Gogoat (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Lanturn (1) is considering using Bubble Beam (1) against Gogoat (0)...
+     Lanturn (1)'s highest damaging move vs Gogoat: Icy Wind
+[AI] Lanturn (1) is considering using Icy Wind (1)...
+     Lanturn (1)'s highest damaging move vs Gogoat: Icy Wind
+     + 4 to prioritize highest damaging move
+[AI] Lanturn (1) is considering using Discharge (1)...
+     Lanturn (1)'s highest damaging move vs Gogoat: Icy Wind
+[AI] Lanturn (1) is considering using Volt Switch (1) against Gogoat (0)...
+     Lanturn (1)'s highest damaging move vs Gogoat: Icy Wind
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Lanturn (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   *   0.0% to use Icy Wind: score 0
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   => will use Volt Switch (target 0)
+
+[Round order] Gogoat (0), the opposing Lanturn (1)
+
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[HP change] The opposing Lanturn lost 109 HP (109 -> 0)
+"It's super effective!"
+"The opposing Lanturn fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Leavanny] using Razor Leaf vs Gogoat does a max of 15/120 damage
+     [Leavanny] using Bug Bite vs Gogoat does a max of 66/120 damage
+     [Leavanny] using Aerial Ace vs Gogoat does a max of 44/120 damage
+     Gogoat (0)'s best move: Seed Bomb for 12/85 damage
+==============================
+     Gogoat (0) speed (56) vs Leavanny speed: 69
+     [Leavanny] +  6: for fast 2HKO
+     [Leavanny] final Switch score: 6
+==============================
+     [Clefable] using Dazzling Gleam vs Gogoat does a max of 32/120 damage
+     [Clefable] using Flamethrower vs Gogoat does a max of 46/120 damage
+     [Clefable] using Thunderbolt vs Gogoat does a max of 12/120 damage
+     Gogoat (0)'s best move: Seed Bomb for 53/96 damage
+==============================
+     Gogoat (0) speed (56) vs Clefable speed: 49
+     [Clefable] -  5: for target having fast 2HKO and us having no kill
+     [Clefable] final Switch score: -5
+==============================
+     [Drifblim] using Hex vs Gogoat does a max of 29/120 damage
+     [Drifblim] using Air Cutter vs Gogoat does a max of 51/120 damage
+     [Drifblim] using Hidden Power vs Gogoat does a max of 17/120 damage
+     Gogoat (0)'s best move: Seed Bomb for 35/130 damage
+==============================
+     Gogoat (0) speed (56) vs Drifblim speed: 63
+     [Drifblim] +  5: for fast outdamage
+     [Drifblim] final Switch score: 5
+==============================
+     [Sandaconda] using Stomping Tantrum vs Gogoat does a max of 23/120 damage
+     [Sandaconda] using Crunch vs Gogoat does a max of 33/120 damage
+     [Sandaconda] using Rock Slide vs Gogoat does a max of 31/120 damage
+     Gogoat (0)'s best move: Seed Bomb for 66/87 damage
+==============================
+     Gogoat (0) speed (56) vs Sandaconda speed: 58
+     [Sandaconda] final Switch score: 0
+[AI] Highest move score (10) vs Switch In Score (6)
+"Ace Trainer Isabella sent out Leavanny!"
+
+===== Round 2 =====
+
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Razor Leaf (1)...
+     Leavanny (1)'s highest damaging move vs Gogoat: Bug Bite
+[AI] Leavanny (1) is considering using Bug Bite (1) against Gogoat (0)...
+     Leavanny (1)'s highest damaging move vs Gogoat: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using Aerial Ace (1) against Gogoat (0)...
+     Leavanny (1)'s highest damaging move vs Gogoat: Bug Bite
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] The opposing Leavanny (1), Gogoat (0)
+
+"Gogoat, come back!"
+"You're in charge, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Leavanny (1) used Bug Bite
+"The opposing Leavanny used Bug Bite!"
+[HP change] Houndoom lost 37 HP (97 -> 60)
+"The opposing Leavanny stole and ate its target's Oran Berry!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Razor Leaf (1)...
+     Leavanny (1)'s highest damaging move vs Houndoom: Bug Bite
+[AI] Leavanny (1) is considering using Bug Bite (1) against Houndoom (0)...
+     Leavanny (1)'s highest damaging move vs Houndoom: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using Aerial Ace (1) against Houndoom (0)...
+     Leavanny (1)'s highest damaging move vs Houndoom: Bug Bite
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Aerial Ace (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Houndoom (0), the opposing Leavanny (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Leavanny lost 84 HP (85 -> 1)
+"It's super effective!"
+"The opposing Leavanny hung on using its Focus Sash!"
+[Item consumed] The opposing Leavanny consumed its held Focus Sash
+[Use move] The opposing Leavanny (1) used Bug Bite
+"The opposing Leavanny used Bug Bite!"
+[HP change] Houndoom lost 36 HP (60 -> 24)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Razor Leaf (1)...
+     Leavanny (1)'s highest damaging move vs Houndoom: Bug Bite
+[AI] Leavanny (1) is considering using Bug Bite (1) against Houndoom (0)...
+     Leavanny (1)'s highest damaging move vs Houndoom: Bug Bite
+      + 17 for slow kill
+[AI] Leavanny (1) is considering using Aerial Ace (1) against Houndoom (0)...
+     Leavanny (1)'s highest damaging move vs Houndoom: Bug Bite
+      + 17 for slow kill
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *   0.0% to use Razor Leaf: score 0
+   *  50.0% to use Bug Bite (target 0): score 18
+   *  50.0% to use Aerial Ace (target 0): score 18
+   *   0.0% to use Swords Dance: score 0
+   => will use Aerial Ace (target 0)
+
+[Round order] Houndoom (0), the opposing Leavanny (1)
+
+[Use move] Houndoom (0) used Flame Burst
+"Houndoom used Flame Burst!"
+[HP change] The opposing Leavanny lost 1 HP (1 -> 0)
+"It's super effective!"
+"The opposing Leavanny fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Clefable] using Dazzling Gleam vs Houndoom does a max of 35/24 damage
+     [Clefable] using Flamethrower vs Houndoom does a max of 13/24 damage
+     [Clefable] using Thunderbolt vs Houndoom does a max of 26/24 damage
+     Houndoom (0)'s best move: Fire Fang for 36/96 damage
+==============================
+     Houndoom (0) speed (72) vs Clefable speed: 49
+     [Clefable] +  9: for slow kill
+     [Clefable] final Switch score: 9
+==============================
+     [Drifblim] using Hex vs Houndoom does a max of 16/24 damage
+     [Drifblim] using Air Cutter vs Houndoom does a max of 29/24 damage
+     [Drifblim] using Hidden Power vs Houndoom does a max of 38/24 damage
+     Houndoom (0)'s best move: Bite for 90/130 damage
+==============================
+     Houndoom (0) speed (72) vs Drifblim speed: 63
+     [Drifblim] +  9: for slow kill
+     [Drifblim] final Switch score: 9
+==============================
+     [Sandaconda] using Stomping Tantrum vs Houndoom does a max of 108/24 damage
+     [Sandaconda] using Crunch vs Houndoom does a max of 20/24 damage
+     [Sandaconda] using Rock Slide vs Houndoom does a max of 72/24 damage
+     Houndoom (0)'s best move: Flame Burst for 41/87 damage
+==============================
+     Houndoom (0) speed (72) vs Sandaconda speed: 58
+     [Sandaconda] +  9: for slow kill
+     [Sandaconda] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Ace Trainer Isabella sent out Clefable!"
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Clefable (1): 0
+Set up score for Clefable (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Dazzling Gleam (1)...
+     Clefable (1)'s highest damaging move vs Houndoom: Dazzling Gleam
+      + 17 for slow kill
+[AI] Clefable (1) is considering using Flamethrower (1) against Houndoom (0)...
+     Clefable (1)'s highest damaging move vs Houndoom: Dazzling Gleam
+[AI] Clefable (1) is considering using Thunderbolt (1) against Houndoom (0)...
+     Clefable (1)'s highest damaging move vs Houndoom: Dazzling Gleam
+      + 17 for slow kill
+[AI] Clefable (1) is considering using Thunder Wave (4) against Houndoom (0)...
+     Clefable (1)'s highest damaging move vs Houndoom: Dazzling Gleam
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+     - 5 because we see kill or target sees 2HKO
+[AI] Move choices for Clefable (1):
+   *  50.0% to use Dazzling Gleam: score 18
+   *   0.0% to use Flamethrower (target 0): score 0
+   *  50.0% to use Thunderbolt (target 0): score 18
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Houndoom (0), the opposing Clefable (1)
+
+"Good job, Houndoom! Come back!"
+"You're in charge, Gogoat!"
+[Use move] The opposing Clefable (1) used Thunderbolt
+"The opposing Clefable used Thunderbolt!"
+[HP change] Gogoat lost 11 HP (120 -> 109)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Clefable (1): 0
+Set up score for Clefable (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Dazzling Gleam (1)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+[AI] Clefable (1) is considering using Flamethrower (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Clefable (1) is considering using Thunderbolt (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+[AI] Clefable (1) is considering using Thunder Wave (4) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Clefable (1):
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Thunder Wave (target 0): score 6
+   => will use Thunder Wave (target 0)
+
+[Round order] Gogoat (0), the opposing Clefable (1)
+
+[Use move] Gogoat (0) used Worry Seed
+"Gogoat used Worry Seed!"
+"The opposing Clefable acquired Insomnia!"
+[Use move] The opposing Clefable (1) used Thunder Wave
+"The opposing Clefable used Thunder Wave!"
+"Gogoat is paralyzed! It may be unable to move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Gogoat (0)
+Set up score for Clefable (1): 0
+Set up score for Clefable (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Dazzling Gleam (1)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+[AI] Clefable (1) is considering using Flamethrower (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Clefable (1) is considering using Thunderbolt (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+[AI] Clefable (1) is considering using Thunder Wave (4) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     move will not affect Gogoat (0)
+     -  4: move will fail
+[AI] Move choices for Clefable (1):
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Clefable (1), Gogoat (0)
+
+[Use move] The opposing Clefable (1) used Flamethrower
+"The opposing Clefable used Flamethrower!"
+[HP change] Gogoat lost 39 HP (109 -> 70)
+"It's super effective!"
+[Use move] Gogoat (0) used Bulldoze
+"Gogoat used Bulldoze!"
+[HP change] The opposing Clefable lost 24 HP (96 -> 72)
+[Stat change] The opposing Clefable's Speed changed by -1 (0 -> -1)
+"The opposing Clefable's Speed fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Gogoat (0)
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Dazzling Gleam (1)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+[AI] Clefable (1) is considering using Flamethrower (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Clefable (1) is considering using Thunderbolt (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+[AI] Clefable (1) is considering using Thunder Wave (4) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     move will not affect Gogoat (0)
+     -  4: move will fail
+[AI] Move choices for Clefable (1):
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Clefable (1), Gogoat (0)
+
+[Use move] The opposing Clefable (1) used Flamethrower
+"The opposing Clefable used Flamethrower!"
+[HP change] Gogoat lost 66 HP (70 -> 4)
+"A critical hit!"
+"It's super effective!"
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[HP change] The opposing Clefable lost 46 HP (72 -> 26)
+[HP change] The opposing Clefable gained 24 HP (26 -> 50)
+"The opposing Clefable restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Clefable consumed its held Sitrus Berry
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Gogoat (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Dazzling Gleam (1)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+      + 20 for fast kill
+[AI] Clefable (1) is considering using Flamethrower (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+      + 20 for fast kill
+[AI] Clefable (1) is considering using Thunderbolt (1) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+      + 20 for fast kill
+[AI] Clefable (1) is considering using Thunder Wave (4) against Gogoat (0)...
+     Clefable (1)'s highest damaging move vs Gogoat: Flamethrower
+     move will not affect Gogoat (0)
+     -  4: move will fail
+[AI] Move choices for Clefable (1):
+   *  33.3% to use Dazzling Gleam: score 21
+   *  33.3% to use Flamethrower (target 0): score 21
+   *  33.3% to use Thunderbolt (target 0): score 21
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Clefable (1), Gogoat (0)
+
+"Good job, Gogoat! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Clefable (1) used Thunderbolt
+"The opposing Clefable used Thunderbolt!"
+[HP change] Chimecho lost 22 HP (103 -> 81)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+Set up score for Clefable (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Dazzling Gleam (1)...
+     Clefable (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Clefable (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Clefable (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Clefable (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Clefable (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Clefable (1) is considering using Thunder Wave (4) against Chimecho (0)...
+     Clefable (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Clefable (1):
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Dazzling Gleam
+
+[Round order] Chimecho (0), the opposing Clefable (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Clefable lost 50 HP (50 -> 0)
+"A critical hit!"
+"The opposing Clefable fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+==============================
+     [Drifblim] using Hex vs Chimecho does a max of 51/81 damage
+     [Drifblim] using Air Cutter vs Chimecho does a max of 24/81 damage
+     [Drifblim] using Hidden Power vs Chimecho does a max of 4/81 damage
+     Chimecho (0)'s best move: Extrasensory for 68/130 damage
+==============================
+     Chimecho (0) speed (63) vs Drifblim speed: 63
+     [Drifblim] -  5: for target having fast 2HKO and us having no kill
+     [Drifblim] final Switch score: -5
+==============================
+     [Sandaconda] using Crunch vs Chimecho does a max of 26/81 damage
+     [Sandaconda] using Rock Slide vs Chimecho does a max of 25/81 damage
+     Chimecho (0)'s best move: Extrasensory for 57/87 damage
+==============================
+     Chimecho (0) speed (63) vs Sandaconda speed: 58
+     [Sandaconda] -  5: for target having fast 2HKO and us having no kill
+     [Sandaconda] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Ace Trainer Isabella sent out Drifblim!"
+
+===== Round 11 =====
+
+Set up score for Drifblim (1): 0
+Set up score for Drifblim (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drifblim (1) is considering using Hex (1) against Chimecho (0)...
+     Drifblim (1)'s highest damaging move vs Chimecho: Hex
+     + 4 to prioritize highest damaging move
+[AI] Drifblim (1) is considering using Air Cutter (1)...
+     Drifblim (1)'s highest damaging move vs Chimecho: Hex
+[AI] Drifblim (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Drifblim (1)'s highest damaging move vs Chimecho: Hex
+[AI] Drifblim (1) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Move choices for Drifblim (1):
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Air Cutter: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Protect: score 9
+   => will use Protect
+
+[Round order] The opposing Drifblim (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Bellibolt!"
+[Use move] The opposing Drifblim (1) used Protect
+"The opposing Drifblim used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+
+[End of round 11]
+Trick Room Turns: 0
+"The opposing Drifblim was burned by the Flame Orb!"
+
+===== Round 12 =====
+
+Set up score for Drifblim (1): 0
+Set up score for Drifblim (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Sandaconda] is immune to strongest move against Drifblim (1)
+[AI] Switch out Score (14) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+==============================
+     [Sandaconda] using Stomping Tantrum vs Bellibolt does a max of 72/114 damage
+     [Sandaconda] using Crunch vs Bellibolt does a max of 25/114 damage
+     [Sandaconda] using Rock Slide vs Bellibolt does a max of 24/114 damage
+     Bellibolt (0)'s best move: Water Gun for 32/87 damage
+==============================
+     Bellibolt (0) speed (37) vs Sandaconda speed: 58
+     [Sandaconda] +  6: for fast 2HKO
+     [Sandaconda] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+   => will switch with Sandaconda
+
+[Round order] The opposing Drifblim (1), Bellibolt (0)
+
+"Ace Trainer Isabella withdrew Drifblim!"
+"Ace Trainer Isabella sent out Sandaconda!"
+[Use move] Bellibolt (0) used Mud Shot
+"Bellibolt used Mud Shot!"
+[HP change] The opposing Sandaconda lost 20 HP (87 -> 67)
+[Stat change] The opposing Sandaconda's Speed changed by -1 (0 -> -1)
+"The opposing Sandaconda's Speed fell!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     move will not affect Bellibolt (0)
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sandaconda (1) is considering using Stomping Tantrum (1) against Bellibolt (0)...
+     Sandaconda (1)'s highest damaging move vs Bellibolt: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Sandaconda (1) is considering using Crunch (1) against Bellibolt (0)...
+     Sandaconda (1)'s highest damaging move vs Bellibolt: Stomping Tantrum
+[AI] Sandaconda (1) is considering using Rock Slide (1)...
+     Sandaconda (1)'s highest damaging move vs Bellibolt: Stomping Tantrum
+[AI] Sandaconda (1) is considering using Glare (4) against Bellibolt (0)...
+     Sandaconda (1)'s highest damaging move vs Bellibolt: Stomping Tantrum
+     move will not affect Bellibolt (0)
+     -  4: move will fail
+[AI] Move choices for Sandaconda (1):
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Glare (target 0): score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] The opposing Sandaconda (1), Bellibolt (0)
+
+"Bellibolt, come back!"
+"Go for it, Prinplup!"
+[Use move] The opposing Sandaconda (1) used Stomping Tantrum
+"The opposing Sandaconda used Stomping Tantrum!"
+[HP change] Prinplup lost 35 HP (92 -> 57)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sandaconda (1) is considering using Stomping Tantrum (1) against Prinplup (0)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Sandaconda (1) is considering using Crunch (1) against Prinplup (0)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+[AI] Sandaconda (1) is considering using Rock Slide (1)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+[AI] Sandaconda (1) is considering using Glare (4) against Prinplup (0)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Sandaconda (1):
+   * 100.0% to use Stomping Tantrum (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Glare (target 0): score 0
+   => will use Stomping Tantrum (target 0)
+
+[Round order] Prinplup (0), the opposing Sandaconda (1)
+
+[Use move] Prinplup (0) used Bubble Beam
+"Prinplup used Bubble Beam!"
+[HP change] The opposing Sandaconda lost 66 HP (67 -> 1)
+"It's super effective!"
+[Use move] The opposing Sandaconda (1) used Stomping Tantrum
+"The opposing Sandaconda used Stomping Tantrum!"
+[HP change] Prinplup lost 50 HP (57 -> 7)
+"A critical hit!"
+[HP change] Prinplup gained 10 HP (7 -> 17)
+"Prinplup restored a little HP using its Oran Berry!"
+[Item consumed] Prinplup consumed its held Oran Berry
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+Set up score for Sandaconda (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-14) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sandaconda (1) is considering using Stomping Tantrum (1) against Prinplup (0)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+      + 17 for slow kill
+[AI] Sandaconda (1) is considering using Crunch (1) against Prinplup (0)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+      + 17 for slow kill
+[AI] Sandaconda (1) is considering using Rock Slide (1)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+      + 17 for slow kill
+[AI] Sandaconda (1) is considering using Glare (4) against Prinplup (0)...
+     Sandaconda (1)'s highest damaging move vs Prinplup: Stomping Tantrum
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Sandaconda (1):
+   *  33.3% to use Stomping Tantrum (target 0): score 18
+   *  33.3% to use Crunch (target 0): score 18
+   *  33.3% to use Rock Slide: score 18
+   *   0.0% to use Glare (target 0): score 0
+   => will use Rock Slide
+
+[Round order] Prinplup (0), the opposing Sandaconda (1)
+
+[Use move] Prinplup (0) used Aqua Jet
+"Prinplup used Aqua Jet!"
+[HP change] The opposing Sandaconda lost 1 HP (1 -> 0)
+"It's super effective!"
+"The opposing Sandaconda fainted!"
+"Prinplup got 1 Exp. Points!"
+
+[End of round 15]
+Trick Room Turns: 0
+==============================
+     [Drifblim] using Hex vs Prinplup does a max of 47/17 damage
+     [Drifblim] using Air Cutter vs Prinplup does a max of 42/17 damage
+     [Drifblim] using Hidden Power vs Prinplup does a max of 28/17 damage
+     Prinplup (0)'s best move: Bubble Beam for 60/130 damage
+==============================
+     Prinplup (0) speed (41) vs Drifblim speed: 63
+     [Drifblim] + 12: for fast kill
+     [Drifblim] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Ace Trainer Isabella sent out Drifblim!"
+
+===== Round 16 =====
+
+Set up score for Prinplup (0): 0
+     Threat Score for Prinplup (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drifblim (1) is considering using Hex (1) against Prinplup (0)...
+     Drifblim (1)'s highest damaging move vs Prinplup: Hex
+      + 20 for fast kill
+[AI] Drifblim (1) is considering using Air Cutter (1)...
+     Drifblim (1)'s highest damaging move vs Prinplup: Hex
+      + 20 for fast kill
+[AI] Drifblim (1) is considering using Hidden Power (1) against Prinplup (0)...
+     Drifblim (1)'s highest damaging move vs Prinplup: Hex
+      + 20 for fast kill
+[AI] Drifblim (1) is considering using Protect (4)...
+[AI] Move choices for Drifblim (1):
+   *  33.3% to use Hex (target 0): score 21
+   *  33.3% to use Air Cutter: score 21
+   *  33.3% to use Hidden Power (target 0): score 21
+   *   0.0% to use Protect: score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Drifblim (1), Prinplup (0)
+
+"Good job, Prinplup! Come back!"
+"You're in charge, Bellibolt!"
+[Use move] The opposing Drifblim (1) used Hex
+"The opposing Drifblim used Hex!"
+[HP change] Bellibolt lost 40 HP (114 -> 74)
+
+[End of round 16]
+[HP change] The opposing Drifblim lost 8 HP (130 -> 122)
+"The opposing Drifblim was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drifblim (1) is considering using Hex (1) against Bellibolt (0)...
+     Drifblim (1)'s highest damaging move vs Bellibolt: Hex
+     + 4 to prioritize highest damaging move
+[AI] Drifblim (1) is considering using Air Cutter (1)...
+     Drifblim (1)'s highest damaging move vs Bellibolt: Hex
+[AI] Drifblim (1) is considering using Hidden Power (1) against Bellibolt (0)...
+     Drifblim (1)'s highest damaging move vs Bellibolt: Hex
+[AI] Drifblim (1) is considering using Protect (4)...
+[AI] Move choices for Drifblim (1):
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Air Cutter: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Protect: score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Drifblim (1), Bellibolt (0)
+
+[Use move] The opposing Drifblim (1) used Hex
+"The opposing Drifblim used Hex!"
+[HP change] Bellibolt lost 42 HP (74 -> 32)
+[Use move] Bellibolt (0) used Discharge
+"Bellibolt used Discharge!"
+[HP change] The opposing Drifblim lost 108 HP (122 -> 14)
+"It's super effective!"
+
+[End of round 17]
+[HP change] The opposing Drifblim lost 8 HP (14 -> 6)
+"The opposing Drifblim was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drifblim (1) is considering using Hex (1) against Bellibolt (0)...
+     Drifblim (1)'s highest damaging move vs Bellibolt: Hex
+      + 20 for fast kill
+[AI] Drifblim (1) is considering using Air Cutter (1)...
+     Drifblim (1)'s highest damaging move vs Bellibolt: Hex
+[AI] Drifblim (1) is considering using Hidden Power (1) against Bellibolt (0)...
+     Drifblim (1)'s highest damaging move vs Bellibolt: Hex
+[AI] Drifblim (1) is considering using Protect (4)...
+[AI] Move choices for Drifblim (1):
+   * 100.0% to use Hex (target 0): score 21
+   *   0.0% to use Air Cutter: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Protect: score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Drifblim (1), Bellibolt (0)
+
+"OK, Bellibolt! Come back!"
+"Your opponent's weak! Get 'em, Hariyama!"
+[Use move] The opposing Drifblim (1) used Hex
+"The opposing Drifblim used Hex!"
+[HP change] Hariyama lost 47 HP (134 -> 87)
+
+[End of round 18]
+[HP change] The opposing Drifblim lost 6 HP (6 -> 0)
+"The opposing Drifblim was hurt by its burn!"
+"The opposing Drifblim fainted!"
+Trick Room Turns: 0
+
+===== Player won =====
+
+"You defeated Ace Trainer Isabella!"
+"Wow. You're great!"
+
+"You got $1,680 for winning!"
