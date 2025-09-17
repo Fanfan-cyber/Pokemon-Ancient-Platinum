@@ -360299,3 +360299,2983 @@ Set up score for Golem (0): 0
 "Wow. You're great!"
 
 "You got $1,248 for winning!"
+Roles for MAGNEZONE: [:SPECIALBREAKER]
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHANDELURE: [:SPECIALBREAKER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Trainer Mira!"
+"Pokémon Trainer Mira sent out Magnezone!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+===== Round 1 =====
+
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Magnezone lost 9 HP (112 -> 103)
+"It's not very effective..."
+[Ability triggered] Toxicroak's Poison Touch
+"It doesn't affect the opposing Magnezone..."
+[Use move] The opposing Magnezone (1) used Flash Cannon
+"The opposing Magnezone flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Magnezone lost 103 HP (103 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Magnezone fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Porygon-Z] using Tri Attack vs Toxicroak does a max of 140/133 damage
+     [Porygon-Z] using Psychic vs Toxicroak does a max of 324/133 damage
+     [Porygon-Z] using Dark Pulse vs Toxicroak does a max of 36/133 damage
+     [Porygon-Z] using Ice Beam vs Toxicroak does a max of 81/133 damage
+     Toxicroak (0)'s best move: Close Combat for 219/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Porygon-Z speed: 95
+     [Porygon-Z] + 12: for fast kill
+     [Porygon-Z] final Switch score: 12
+==============================
+     [Chandelure] using Shadow Ball vs Toxicroak does a max of 111/133 damage
+     [Chandelure] using Flamethrower vs Toxicroak does a max of 126/133 damage
+     [Chandelure] using Dazzling Gleam vs Toxicroak does a max of 74/133 damage
+     [Chandelure] using Energy Ball vs Toxicroak does a max of 42/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 72/105 damage
+==============================
+     Toxicroak (0) speed (85) vs Chandelure speed: 84
+     [Chandelure] +  3: for outdamage
+     [Chandelure] final Switch score: 3
+==============================
+     [Togekiss] using Air Slash vs Toxicroak does a max of 183/133 damage
+     [Togekiss] using Dazzling Gleam vs Toxicroak does a max of 98/133 damage
+     [Togekiss] using Flamethrower vs Toxicroak does a max of 73/133 damage
+     Toxicroak (0)'s best move: Poison Jab for 117/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Togekiss speed: 86
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+==============================
+     [Alakazam] using Psychic vs Toxicroak does a max of 528/133 damage
+     [Alakazam] using Shadow Ball vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Dazzling Gleam vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Hidden Power vs Toxicroak does a max of 30/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 114/106 damage
+==============================
+     Toxicroak (0) speed (85) vs Alakazam speed: 124
+     [Alakazam] + 12: for fast kill
+     [Alakazam] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Porygon-Z!"
+[Ability triggered] The opposing Porygon-Z's Download
+[Stat change] The opposing Porygon-Z's Attack changed by +1 (0 -> 1)
+"The opposing Porygon-Z's Attack rose!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Psychic (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+      + 20 for fast kill
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Move choices for Porygon-Z (1):
+   *   0.0% to use Tri Attack (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Porygon-Z (1), Toxicroak (0)
+
+"Toxicroak, come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Psychic!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Special Defense changed by +1 (0 -> 1)
+"Musharna's Special Defense rose!"
+[Use move] The opposing Porygon-Z (1) used Psychic
+"The opposing Porygon-Z used Psychic!"
+[HP change] Musharna lost 13 HP (149 -> 136)
+"It's not very effective..."
+
+[End of round 3]
+[HP change] Musharna lost 9 HP (136 -> 127)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+"The Normal Gem strengthened Tri Attack's power!"
+[HP change] Musharna lost 46 HP (127 -> 81)
+[Item consumed] The opposing Porygon-Z consumed its held Normal Gem
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 60 HP (127 -> 67)
+
+[End of round 4]
+[HP change] Musharna lost 9 HP (81 -> 72)
+"Musharna was hurt by its burn!"
+[HP change] Musharna gained 10 HP (72 -> 82)
+"Musharna restored a little HP using its Oran Berry!"
+[Item consumed] Musharna consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 36 HP (82 -> 46)
+[Use move] Musharna (0) used Moonlight
+"Musharna used Moonlight!"
+[HP change] Musharna gained 75 HP (46 -> 121)
+"Musharna's HP was restored."
+
+[End of round 5]
+[HP change] Musharna lost 9 HP (121 -> 112)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 37 HP (112 -> 75)
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 67 HP (67 -> 0)
+"The opposing Porygon-Z fainted!"
+
+[End of round 6]
+[HP change] Musharna lost 9 HP (75 -> 66)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Chandelure] using Shadow Ball vs Musharna does a max of 75/66 damage
+     [Chandelure] using Flamethrower vs Musharna does a max of 42/66 damage
+     [Chandelure] using Dazzling Gleam vs Musharna does a max of 25/66 damage
+     [Chandelure] using Energy Ball vs Musharna does a max of 28/66 damage
+     Musharna (0)'s best move: Psychic for 59/105 damage
+==============================
+     Musharna (0) speed (44) vs Chandelure speed: 84
+     [Chandelure] + 12: for fast kill
+     [Chandelure] final Switch score: 12
+==============================
+     [Togekiss] using Air Slash vs Musharna does a max of 32/66 damage
+     [Togekiss] using Dazzling Gleam vs Musharna does a max of 33/66 damage
+     [Togekiss] using Flamethrower vs Musharna does a max of 25/66 damage
+     Musharna (0)'s best move: Moonblast for 50/127 damage
+==============================
+     Musharna (0) speed (44) vs Togekiss speed: 86
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+==============================
+     [Alakazam] using Psychic vs Musharna does a max of 23/66 damage
+     [Alakazam] using Shadow Ball vs Musharna does a max of 54/66 damage
+     [Alakazam] using Dazzling Gleam vs Musharna does a max of 27/66 damage
+     [Alakazam] using Hidden Power vs Musharna does a max of 5/66 damage
+     Musharna (0)'s best move: Moonblast for 57/106 damage
+==============================
+     Musharna (0) speed (44) vs Alakazam speed: 124
+     [Alakazam] +  6: for fast 2HKO
+     [Alakazam] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Chandelure!"
+"The opposing Chandelure floats in the air with its Air Balloon!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+      + 20 for fast kill
+[AI] Chandelure (1) is considering using Flamethrower (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Musharna (0)
+
+"OK, Musharna! Come back!"
+"You're in charge, Coalossal!"
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 55 HP (156 -> 101)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Coalossal (0)
+
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 53 HP (101 -> 48)
+[HP change] Coalossal gained 39 HP (48 -> 87)
+"Coalossal restored its health using its Sitrus Berry!"
+[Item consumed] Coalossal consumed its held Sitrus Berry
+[Use move] Coalossal (0) used Rock Tomb
+"Coalossal used Rock Tomb!"
+[HP change] The opposing Chandelure lost 55 HP (105 -> 50)
+"It's super effective!"
+"The opposing Chandelure's Air Balloon popped!"
+[Item consumed] The opposing Chandelure consumed its held Air Balloon
+[Stat change] The opposing Chandelure's Speed changed by -1 (0 -> -1)
+"The opposing Chandelure's Speed fell!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Chandelure (1): -1
+Set up score for Chandelure (1): -1
+Set up score for Chandelure (1): -1
+Set up score for Chandelure (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-9) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Coalossal (0)
+
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 55 HP (87 -> 32)
+[Stat change] Coalossal's Special Defense changed by -1 (0 -> -1)
+"Coalossal's Special Defense fell!"
+[Use move] Coalossal (0) used Rock Blast
+"Coalossal used Rock Blast!"
+[HP change] The opposing Chandelure lost 24 HP (50 -> 26)
+[HP change] The opposing Chandelure lost 24 HP (26 -> 2)
+[HP change] The opposing Chandelure lost 2 HP (2 -> 0)
+"The opposing Chandelure fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 9]
+Trick Room Turns: 0
+==============================
+     [Togekiss] using Air Slash vs Coalossal does a max of 38/32 damage
+     [Togekiss] using Dazzling Gleam vs Coalossal does a max of 40/32 damage
+     [Togekiss] using Flamethrower vs Coalossal does a max of 8/32 damage
+     Coalossal (0)'s best move: Rock Blast for 69/127 damage
+==============================
+     Coalossal (0) speed (39) vs Togekiss speed: 86
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+==============================
+     [Alakazam] using Psychic vs Coalossal does a max of 107/32 damage
+     [Alakazam] using Shadow Ball vs Coalossal does a max of 64/32 damage
+     [Alakazam] using Dazzling Gleam vs Coalossal does a max of 32/32 damage
+     [Alakazam] using Hidden Power vs Coalossal does a max of 96/32 damage
+     Coalossal (0)'s best move: Rock Blast for 59/106 damage
+==============================
+     Coalossal (0) speed (39) vs Alakazam speed: 124
+     [Alakazam] + 12: for fast kill
+     [Alakazam] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Togekiss!"
+
+===== Round 10 =====
+
+Roles for MAGNEZONE: [:SPECIALBREAKER]
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHANDELURE: [:SPECIALBREAKER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Trainer Mira!"
+"Pokémon Trainer Mira sent out Magnezone!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+===== Round 1 =====
+
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Magnezone lost 9 HP (112 -> 103)
+"It's not very effective..."
+[Use move] The opposing Magnezone (1) used Flash Cannon
+"The opposing Magnezone flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Magnezone lost 103 HP (103 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Magnezone fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Porygon-Z] using Tri Attack vs Toxicroak does a max of 140/133 damage
+     [Porygon-Z] using Psychic vs Toxicroak does a max of 324/133 damage
+     [Porygon-Z] using Dark Pulse vs Toxicroak does a max of 36/133 damage
+     [Porygon-Z] using Ice Beam vs Toxicroak does a max of 81/133 damage
+     Toxicroak (0)'s best move: Close Combat for 219/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Porygon-Z speed: 95
+     [Porygon-Z] + 12: for fast kill
+     [Porygon-Z] final Switch score: 12
+==============================
+     [Chandelure] using Shadow Ball vs Toxicroak does a max of 111/133 damage
+     [Chandelure] using Flamethrower vs Toxicroak does a max of 126/133 damage
+     [Chandelure] using Dazzling Gleam vs Toxicroak does a max of 74/133 damage
+     [Chandelure] using Energy Ball vs Toxicroak does a max of 42/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 72/105 damage
+==============================
+     Toxicroak (0) speed (85) vs Chandelure speed: 84
+     [Chandelure] +  3: for outdamage
+     [Chandelure] final Switch score: 3
+==============================
+     [Togekiss] using Air Slash vs Toxicroak does a max of 183/133 damage
+     [Togekiss] using Dazzling Gleam vs Toxicroak does a max of 98/133 damage
+     [Togekiss] using Flamethrower vs Toxicroak does a max of 73/133 damage
+     Toxicroak (0)'s best move: Poison Jab for 117/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Togekiss speed: 86
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+==============================
+     [Alakazam] using Psychic vs Toxicroak does a max of 528/133 damage
+     [Alakazam] using Shadow Ball vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Dazzling Gleam vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Hidden Power vs Toxicroak does a max of 30/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 114/106 damage
+==============================
+     Toxicroak (0) speed (85) vs Alakazam speed: 124
+     [Alakazam] + 12: for fast kill
+     [Alakazam] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Porygon-Z!"
+[Ability triggered] The opposing Porygon-Z's Download
+[Stat change] The opposing Porygon-Z's Attack changed by +1 (0 -> 1)
+"The opposing Porygon-Z's Attack rose!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+      + 20 for fast kill
+[AI] Porygon-Z (1) is considering using Psychic (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+      + 20 for fast kill
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Move choices for Porygon-Z (1):
+   *  50.0% to use Tri Attack (target 0): score 21
+   *  50.0% to use Psychic (target 0): score 21
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Porygon-Z (1), Toxicroak (0)
+
+"Toxicroak, come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Psychic!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Special Defense changed by +1 (0 -> 1)
+"Musharna's Special Defense rose!"
+[Use move] The opposing Porygon-Z (1) used Psychic
+"The opposing Porygon-Z used Psychic!"
+[HP change] Musharna lost 12 HP (149 -> 137)
+"It's not very effective..."
+
+[End of round 3]
+[HP change] Musharna lost 9 HP (137 -> 128)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+"The Normal Gem strengthened Tri Attack's power!"
+[HP change] Musharna lost 44 HP (128 -> 84)
+[Item consumed] The opposing Porygon-Z consumed its held Normal Gem
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 68 HP (127 -> 59)
+
+[End of round 4]
+[HP change] Musharna lost 9 HP (84 -> 75)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 33 HP (75 -> 42)
+[HP change] Musharna gained 10 HP (42 -> 52)
+"Musharna restored a little HP using its Oran Berry!"
+[Item consumed] Musharna consumed its held Oran Berry
+[Use move] Musharna (0) used Moonlight
+"Musharna used Moonlight!"
+[HP change] Musharna gained 75 HP (52 -> 127)
+"Musharna's HP was restored."
+
+[End of round 5]
+[HP change] Musharna lost 9 HP (127 -> 118)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 32 HP (118 -> 86)
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 59 HP (59 -> 0)
+"The opposing Porygon-Z fainted!"
+
+[End of round 6]
+[HP change] Musharna lost 9 HP (86 -> 77)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Chandelure] using Shadow Ball vs Musharna does a max of 75/77 damage
+     [Chandelure] using Flamethrower vs Musharna does a max of 42/77 damage
+     [Chandelure] using Dazzling Gleam vs Musharna does a max of 25/77 damage
+     [Chandelure] using Energy Ball vs Musharna does a max of 28/77 damage
+     Musharna (0)'s best move: Psychic for 59/105 damage
+==============================
+     Musharna (0) speed (44) vs Chandelure speed: 84
+     [Chandelure] +  6: for fast 2HKO
+     [Chandelure] final Switch score: 6
+==============================
+     [Togekiss] using Air Slash vs Musharna does a max of 32/77 damage
+     [Togekiss] using Dazzling Gleam vs Musharna does a max of 33/77 damage
+     [Togekiss] using Flamethrower vs Musharna does a max of 25/77 damage
+     Musharna (0)'s best move: Moonblast for 50/127 damage
+==============================
+     Musharna (0) speed (44) vs Togekiss speed: 86
+     [Togekiss] final Switch score: 0
+==============================
+     [Alakazam] using Psychic vs Musharna does a max of 23/77 damage
+     [Alakazam] using Shadow Ball vs Musharna does a max of 54/77 damage
+     [Alakazam] using Dazzling Gleam vs Musharna does a max of 27/77 damage
+     [Alakazam] using Hidden Power vs Musharna does a max of 5/77 damage
+     Musharna (0)'s best move: Moonblast for 57/106 damage
+==============================
+     Musharna (0) speed (44) vs Alakazam speed: 124
+     [Alakazam] +  6: for fast 2HKO
+     [Alakazam] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Pokémon Trainer Mira sent out Chandelure!"
+"The opposing Chandelure floats in the air with its Air Balloon!"
+
+===== Round 7 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Musharna (0)
+
+"Musharna, come back!"
+"You're in charge, Coalossal!"
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 56 HP (156 -> 100)
+[Stat change] Coalossal's Special Defense changed by -1 (0 -> -1)
+"Coalossal's Special Defense fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Coalossal (0)
+
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 100 HP (100 -> 0)
+"A critical hit!"
+"Coalossal fainted!"
+Roles for MAGNEZONE: [:SPECIALBREAKER]
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHANDELURE: [:SPECIALBREAKER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Trainer Mira!"
+"Pokémon Trainer Mira sent out Magnezone!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+===== Round 1 =====
+
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Magnezone lost 14 HP (112 -> 98)
+"A critical hit!"
+"It's not very effective..."
+[Use move] The opposing Magnezone (1) used Flash Cannon
+"The opposing Magnezone flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Magnezone lost 98 HP (98 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Magnezone fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Porygon-Z] using Tri Attack vs Toxicroak does a max of 140/133 damage
+     [Porygon-Z] using Psychic vs Toxicroak does a max of 324/133 damage
+     [Porygon-Z] using Dark Pulse vs Toxicroak does a max of 36/133 damage
+     [Porygon-Z] using Ice Beam vs Toxicroak does a max of 81/133 damage
+     Toxicroak (0)'s best move: Close Combat for 219/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Porygon-Z speed: 95
+     [Porygon-Z] + 12: for fast kill
+     [Porygon-Z] final Switch score: 12
+==============================
+     [Chandelure] using Shadow Ball vs Toxicroak does a max of 111/133 damage
+     [Chandelure] using Flamethrower vs Toxicroak does a max of 126/133 damage
+     [Chandelure] using Dazzling Gleam vs Toxicroak does a max of 74/133 damage
+     [Chandelure] using Energy Ball vs Toxicroak does a max of 42/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 72/105 damage
+==============================
+     Toxicroak (0) speed (85) vs Chandelure speed: 84
+     [Chandelure] +  3: for outdamage
+     [Chandelure] final Switch score: 3
+==============================
+     [Togekiss] using Air Slash vs Toxicroak does a max of 183/133 damage
+     [Togekiss] using Dazzling Gleam vs Toxicroak does a max of 98/133 damage
+     [Togekiss] using Flamethrower vs Toxicroak does a max of 73/133 damage
+     Toxicroak (0)'s best move: Poison Jab for 117/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Togekiss speed: 86
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+==============================
+     [Alakazam] using Psychic vs Toxicroak does a max of 528/133 damage
+     [Alakazam] using Shadow Ball vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Dazzling Gleam vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Hidden Power vs Toxicroak does a max of 30/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 114/106 damage
+==============================
+     Toxicroak (0) speed (85) vs Alakazam speed: 124
+     [Alakazam] + 12: for fast kill
+     [Alakazam] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Porygon-Z!"
+[Ability triggered] The opposing Porygon-Z's Download
+[Stat change] The opposing Porygon-Z's Attack changed by +1 (0 -> 1)
+"The opposing Porygon-Z's Attack rose!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Psychic (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+      + 20 for fast kill
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Move choices for Porygon-Z (1):
+   *   0.0% to use Tri Attack (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Porygon-Z (1), Toxicroak (0)
+
+"Toxicroak, come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Ice Beam!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Special Defense changed by +1 (0 -> 1)
+"Musharna's Special Defense rose!"
+[Use move] The opposing Porygon-Z (1) used Psychic
+"The opposing Porygon-Z used Psychic!"
+[HP change] Musharna lost 13 HP (149 -> 136)
+"It's not very effective..."
+
+[End of round 3]
+[HP change] Musharna lost 9 HP (136 -> 127)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+"The Normal Gem strengthened Tri Attack's power!"
+[HP change] Musharna lost 47 HP (127 -> 80)
+[Item consumed] The opposing Porygon-Z consumed its held Normal Gem
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 59 HP (127 -> 68)
+[Stat change] The opposing Porygon-Z's Special Attack changed by -1 (0 -> -1)
+"The opposing Porygon-Z's Special Attack fell!"
+
+[End of round 4]
+[HP change] Musharna lost 9 HP (80 -> 71)
+"Musharna was hurt by its burn!"
+[HP change] Musharna gained 10 HP (71 -> 81)
+"Musharna restored a little HP using its Oran Berry!"
+[Item consumed] Musharna consumed its held Oran Berry
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 22 HP (81 -> 59)
+[Use move] Musharna (0) used Moonlight
+"Musharna used Moonlight!"
+[HP change] Musharna gained 75 HP (59 -> 134)
+"Musharna's HP was restored."
+
+[End of round 5]
+[HP change] Musharna lost 9 HP (134 -> 125)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 23 HP (125 -> 102)
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 61 HP (68 -> 7)
+
+[End of round 6]
+[HP change] Musharna lost 9 HP (102 -> 93)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 22 HP (93 -> 71)
+[Use move] Musharna (0) used Moonlight
+"Musharna used Moonlight!"
+[HP change] Musharna gained 75 HP (71 -> 146)
+"Musharna's HP was restored."
+
+[End of round 7]
+[HP change] Musharna lost 9 HP (146 -> 137)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 22 HP (137 -> 115)
+[Use move] Musharna (0) used Psychic
+"Musharna used Psychic!"
+[HP change] The opposing Porygon-Z lost 7 HP (7 -> 0)
+"The opposing Porygon-Z fainted!"
+
+[End of round 8]
+[HP change] Musharna lost 9 HP (115 -> 106)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Chandelure] using Shadow Ball vs Musharna does a max of 75/106 damage
+     [Chandelure] using Flamethrower vs Musharna does a max of 42/106 damage
+     [Chandelure] using Dazzling Gleam vs Musharna does a max of 25/106 damage
+     [Chandelure] using Energy Ball vs Musharna does a max of 28/106 damage
+     Musharna (0)'s best move: Psychic for 59/105 damage
+==============================
+     Musharna (0) speed (44) vs Chandelure speed: 84
+     [Chandelure] +  6: for fast 2HKO
+     [Chandelure] final Switch score: 6
+==============================
+     [Togekiss] using Air Slash vs Musharna does a max of 32/106 damage
+     [Togekiss] using Dazzling Gleam vs Musharna does a max of 33/106 damage
+     [Togekiss] using Flamethrower vs Musharna does a max of 25/106 damage
+     Musharna (0)'s best move: Moonblast for 50/127 damage
+==============================
+     Musharna (0) speed (44) vs Togekiss speed: 86
+     [Togekiss] final Switch score: 0
+==============================
+     [Alakazam] using Psychic vs Musharna does a max of 23/106 damage
+     [Alakazam] using Shadow Ball vs Musharna does a max of 54/106 damage
+     [Alakazam] using Dazzling Gleam vs Musharna does a max of 27/106 damage
+     [Alakazam] using Hidden Power vs Musharna does a max of 5/106 damage
+     Musharna (0)'s best move: Moonblast for 57/106 damage
+==============================
+     Musharna (0) speed (44) vs Alakazam speed: 124
+     [Alakazam] +  6: for fast 2HKO
+     [Alakazam] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Pokémon Trainer Mira sent out Chandelure!"
+"The opposing Chandelure floats in the air with its Air Balloon!"
+
+===== Round 9 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Musharna (0)
+
+"Musharna, that's enough! Come back!"
+"You're in charge, Coalossal!"
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 54 HP (156 -> 102)
+[Stat change] Coalossal's Special Defense changed by -1 (0 -> -1)
+"Coalossal's Special Defense fell!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Coalossal (0)
+
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 102 HP (102 -> 0)
+"A critical hit!"
+"Coalossal fainted!"
+Roles for MAGNEZONE: [:SPECIALBREAKER]
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHANDELURE: [:SPECIALBREAKER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Pokémon Trainer Mira!"
+"Pokémon Trainer Mira sent out Magnezone!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+===== Round 1 =====
+
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Magnezone lost 9 HP (112 -> 103)
+"It's not very effective..."
+[Ability triggered] Toxicroak's Poison Touch
+"It doesn't affect the opposing Magnezone..."
+[Use move] The opposing Magnezone (1) used Flash Cannon
+"The opposing Magnezone flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magnezone (1): 0
+Set up score for Magnezone (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magnezone (1) is considering using Discharge (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Flash Cannon (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Magnezone (1) is considering using Hidden Power (1) against Toxicroak (0)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Magnezone (1) is considering using Explosion (1)...
+     Magnezone (1)'s highest damaging move vs Toxicroak: Flash Cannon
+[AI] Move choices for Magnezone (1):
+   *   0.0% to use Discharge: score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Toxicroak (0), the opposing Magnezone (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Magnezone lost 103 HP (103 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Magnezone fainted!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Porygon-Z] using Tri Attack vs Toxicroak does a max of 140/133 damage
+     [Porygon-Z] using Psychic vs Toxicroak does a max of 324/133 damage
+     [Porygon-Z] using Dark Pulse vs Toxicroak does a max of 36/133 damage
+     [Porygon-Z] using Ice Beam vs Toxicroak does a max of 81/133 damage
+     Toxicroak (0)'s best move: Close Combat for 219/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Porygon-Z speed: 95
+     [Porygon-Z] + 12: for fast kill
+     [Porygon-Z] final Switch score: 12
+==============================
+     [Chandelure] using Shadow Ball vs Toxicroak does a max of 111/133 damage
+     [Chandelure] using Flamethrower vs Toxicroak does a max of 126/133 damage
+     [Chandelure] using Dazzling Gleam vs Toxicroak does a max of 74/133 damage
+     [Chandelure] using Energy Ball vs Toxicroak does a max of 42/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 72/105 damage
+==============================
+     Toxicroak (0) speed (85) vs Chandelure speed: 84
+     [Chandelure] +  3: for outdamage
+     [Chandelure] final Switch score: 3
+==============================
+     [Togekiss] using Air Slash vs Toxicroak does a max of 183/133 damage
+     [Togekiss] using Dazzling Gleam vs Toxicroak does a max of 98/133 damage
+     [Togekiss] using Flamethrower vs Toxicroak does a max of 73/133 damage
+     Toxicroak (0)'s best move: Poison Jab for 117/127 damage
+==============================
+     Toxicroak (0) speed (85) vs Togekiss speed: 86
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+==============================
+     [Alakazam] using Psychic vs Toxicroak does a max of 528/133 damage
+     [Alakazam] using Shadow Ball vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Dazzling Gleam vs Toxicroak does a max of 78/133 damage
+     [Alakazam] using Hidden Power vs Toxicroak does a max of 30/133 damage
+     Toxicroak (0)'s best move: Sucker Punch for 114/106 damage
+==============================
+     Toxicroak (0) speed (85) vs Alakazam speed: 124
+     [Alakazam] + 12: for fast kill
+     [Alakazam] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Porygon-Z!"
+[Ability triggered] The opposing Porygon-Z's Download
+[Stat change] The opposing Porygon-Z's Attack changed by +1 (0 -> 1)
+"The opposing Porygon-Z's Attack rose!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Psychic (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+      + 20 for fast kill
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Porygon-Z (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Move choices for Porygon-Z (1):
+   *   0.0% to use Tri Attack (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Porygon-Z (1), Toxicroak (0)
+
+"Toxicroak, come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Psychic!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Special Defense changed by +1 (0 -> 1)
+"Musharna's Special Defense rose!"
+[Use move] The opposing Porygon-Z (1) used Psychic
+"The opposing Porygon-Z used Psychic!"
+[HP change] Musharna lost 11 HP (149 -> 138)
+"It's not very effective..."
+
+[End of round 3]
+[HP change] Musharna lost 9 HP (138 -> 129)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+"The Normal Gem strengthened Tri Attack's power!"
+[HP change] Musharna lost 40 HP (129 -> 89)
+[Item consumed] The opposing Porygon-Z consumed its held Normal Gem
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 66 HP (127 -> 61)
+
+[End of round 4]
+[HP change] Musharna lost 9 HP (89 -> 80)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 32 HP (80 -> 48)
+[HP change] Musharna gained 10 HP (48 -> 58)
+"Musharna restored a little HP using its Oran Berry!"
+[Item consumed] Musharna consumed its held Oran Berry
+[Use move] Musharna (0) used Moonlight
+"Musharna used Moonlight!"
+[HP change] Musharna gained 75 HP (58 -> 133)
+"Musharna's HP was restored."
+
+[End of round 5]
+[HP change] Musharna lost 9 HP (133 -> 124)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Porygon-Z (1): 0
+Set up score for Porygon-Z (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (1) is considering using Tri Attack (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (1) is considering using Psychic (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Dark Pulse (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Porygon-Z (1) is considering using Ice Beam (1) against Musharna (0)...
+     Porygon-Z (1)'s highest damaging move vs Musharna: Tri Attack
+[AI] Move choices for Porygon-Z (1):
+   * 100.0% to use Tri Attack (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Tri Attack (target 0)
+
+[Round order] The opposing Porygon-Z (1), Musharna (0)
+
+[Use move] The opposing Porygon-Z (1) used Tri Attack
+"The opposing Porygon-Z used Tri Attack!"
+[HP change] Musharna lost 32 HP (124 -> 92)
+[Use move] Musharna (0) used Moonblast
+"Musharna used Moonblast!"
+[HP change] The opposing Porygon-Z lost 61 HP (61 -> 0)
+"The opposing Porygon-Z fainted!"
+
+[End of round 6]
+[HP change] Musharna lost 9 HP (92 -> 83)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Chandelure] using Shadow Ball vs Musharna does a max of 75/83 damage
+     [Chandelure] using Flamethrower vs Musharna does a max of 42/83 damage
+     [Chandelure] using Dazzling Gleam vs Musharna does a max of 25/83 damage
+     [Chandelure] using Energy Ball vs Musharna does a max of 28/83 damage
+     Musharna (0)'s best move: Psychic for 59/105 damage
+==============================
+     Musharna (0) speed (44) vs Chandelure speed: 84
+     [Chandelure] +  6: for fast 2HKO
+     [Chandelure] final Switch score: 6
+==============================
+     [Togekiss] using Air Slash vs Musharna does a max of 32/83 damage
+     [Togekiss] using Dazzling Gleam vs Musharna does a max of 33/83 damage
+     [Togekiss] using Flamethrower vs Musharna does a max of 25/83 damage
+     Musharna (0)'s best move: Moonblast for 50/127 damage
+==============================
+     Musharna (0) speed (44) vs Togekiss speed: 86
+     [Togekiss] final Switch score: 0
+==============================
+     [Alakazam] using Psychic vs Musharna does a max of 23/83 damage
+     [Alakazam] using Shadow Ball vs Musharna does a max of 54/83 damage
+     [Alakazam] using Dazzling Gleam vs Musharna does a max of 27/83 damage
+     [Alakazam] using Hidden Power vs Musharna does a max of 5/83 damage
+     Musharna (0)'s best move: Moonblast for 57/106 damage
+==============================
+     Musharna (0) speed (44) vs Alakazam speed: 124
+     [Alakazam] +  6: for fast 2HKO
+     [Alakazam] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Pokémon Trainer Mira sent out Chandelure!"
+"The opposing Chandelure floats in the air with its Air Balloon!"
+
+===== Round 7 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Musharna (0)...
+     Chandelure (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Musharna (0)
+
+"Musharna, come back!"
+"You're in charge, Coalossal!"
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 53 HP (156 -> 103)
+[Stat change] Coalossal's Special Defense changed by -1 (0 -> -1)
+"Coalossal's Special Defense fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Chandelure (1): 0
+Set up score for Chandelure (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chandelure (1) is considering using Shadow Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Chandelure (1) is considering using Flamethrower (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Dazzling Gleam (1)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Chandelure (1) is considering using Energy Ball (1) against Coalossal (0)...
+     Chandelure (1)'s highest damaging move vs Coalossal: Shadow Ball
+[AI] Move choices for Chandelure (1):
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Chandelure (1), Coalossal (0)
+
+[Use move] The opposing Chandelure (1) used Shadow Ball
+"The opposing Chandelure used Shadow Ball!"
+[HP change] Coalossal lost 86 HP (103 -> 17)
+[HP change] Coalossal gained 39 HP (17 -> 56)
+"Coalossal restored its health using its Sitrus Berry!"
+[Item consumed] Coalossal consumed its held Sitrus Berry
+[Stat change] Coalossal's Special Defense changed by -1 (-1 -> -2)
+"Coalossal's Special Defense fell!"
+[Use move] Coalossal (0) used Rock Blast
+"Coalossal used Rock Blast!"
+[HP change] The opposing Chandelure lost 26 HP (105 -> 79)
+"The opposing Chandelure's Air Balloon popped!"
+[Item consumed] The opposing Chandelure consumed its held Air Balloon
+[HP change] The opposing Chandelure lost 25 HP (79 -> 54)
+[HP change] The opposing Chandelure lost 25 HP (54 -> 29)
+[HP change] The opposing Chandelure lost 25 HP (29 -> 4)
+[HP change] The opposing Chandelure lost 4 HP (4 -> 0)
+"The opposing Chandelure fainted!"
+"It's super effective!"
+"Hit 5 times!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Togekiss] using Air Slash vs Coalossal does a max of 49/56 damage
+     [Togekiss] using Dazzling Gleam vs Coalossal does a max of 53/56 damage
+     [Togekiss] using Flamethrower vs Coalossal does a max of 10/56 damage
+     Coalossal (0)'s best move: Rock Blast for 69/127 damage
+==============================
+     Coalossal (0) speed (39) vs Togekiss speed: 86
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+==============================
+     [Alakazam] using Psychic vs Coalossal does a max of 141/56 damage
+     [Alakazam] using Shadow Ball vs Coalossal does a max of 83/56 damage
+     [Alakazam] using Dazzling Gleam vs Coalossal does a max of 42/56 damage
+     [Alakazam] using Hidden Power vs Coalossal does a max of 126/56 damage
+     Coalossal (0)'s best move: Rock Blast for 59/106 damage
+==============================
+     Coalossal (0) speed (39) vs Alakazam speed: 124
+     [Alakazam] + 12: for fast kill
+     [Alakazam] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Pokémon Trainer Mira sent out Alakazam!"
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Alakazam (1): 0
+Set up score for Alakazam (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alakazam (1) is considering using Psychic (1) against Coalossal (0)...
+     Alakazam (1)'s highest damaging move vs Coalossal: Psychic
+      + 20 for fast kill
+[AI] Alakazam (1) is considering using Shadow Ball (1) against Coalossal (0)...
+     Alakazam (1)'s highest damaging move vs Coalossal: Psychic
+      + 20 for fast kill
+[AI] Alakazam (1) is considering using Dazzling Gleam (1)...
+     Alakazam (1)'s highest damaging move vs Coalossal: Psychic
+[AI] Alakazam (1) is considering using Hidden Power (1) against Coalossal (0)...
+     Alakazam (1)'s highest damaging move vs Coalossal: Psychic
+      + 20 for fast kill
+[AI] Move choices for Alakazam (1):
+   *  33.3% to use Psychic (target 0): score 21
+   *  33.3% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Dazzling Gleam: score 0
+   *  33.3% to use Hidden Power (target 0): score 21
+   => will use Psychic (target 0)
+
+[Round order] The opposing Alakazam (1), Coalossal (0)
+
+"OK, Coalossal! Come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to Psychic!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Special Defense changed by +1 (0 -> 1)
+"Musharna's Special Defense rose!"
+[Use move] The opposing Alakazam (1) used Psychic
+"The opposing Alakazam used Psychic!"
+[HP change] Musharna lost 21 HP (83 -> 62)
+"It's not very effective..."
+[Stat change] Musharna's Special Defense changed by -1 (1 -> 0)
+"Musharna's Special Defense fell!"
+
+[End of round 9]
+[HP change] Musharna lost 9 HP (62 -> 53)
+"Musharna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Alakazam (1): 0
+Set up score for Alakazam (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Musharna (0): 0
+     Threat Score for Musharna (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alakazam (1) is considering using Psychic (1) against Musharna (0)...
+     Alakazam (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Alakazam (1) is considering using Shadow Ball (1) against Musharna (0)...
+     Alakazam (1)'s highest damaging move vs Musharna: Shadow Ball
+      + 20 for fast kill
+[AI] Alakazam (1) is considering using Dazzling Gleam (1)...
+     Alakazam (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Alakazam (1) is considering using Hidden Power (1) against Musharna (0)...
+     Alakazam (1)'s highest damaging move vs Musharna: Shadow Ball
+[AI] Move choices for Alakazam (1):
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] The opposing Alakazam (1), Musharna (0)
+
+"OK, Musharna! Come back!"
+"You're in charge, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Alakazam (1) used Shadow Ball
+"The opposing Alakazam used Shadow Ball!"
+[HP change] Houndoom lost 22 HP (124 -> 102)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Houndoom (0)
+Set up score for Alakazam (1): 0
+Set up score for Alakazam (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alakazam (1) is considering using Psychic (1) against Houndoom (0)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Alakazam (1) is considering using Shadow Ball (1) against Houndoom (0)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Alakazam (1) is considering using Dazzling Gleam (1)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Alakazam (1) is considering using Hidden Power (1) against Houndoom (0)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Alakazam (1):
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Alakazam (1), Houndoom (0)
+
+[Use move] The opposing Alakazam (1) used Hidden Power
+"The opposing Alakazam used Hidden Power!"
+[HP change] Houndoom lost 69 HP (102 -> 33)
+"It's super effective!"
+[HP change] Houndoom gained 10 HP (33 -> 43)
+"Houndoom restored a little HP using its Oran Berry!"
+[Item consumed] Houndoom consumed its held Oran Berry
+[Use move] Houndoom (0) used Bite
+"Houndoom used Bite!"
+[HP change] The opposing Alakazam lost 104 HP (106 -> 2)
+"It's super effective!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Alakazam (1): 0
+Set up score for Alakazam (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alakazam (1) is considering using Psychic (1) against Houndoom (0)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Alakazam (1) is considering using Shadow Ball (1) against Houndoom (0)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+[AI] Alakazam (1) is considering using Dazzling Gleam (1)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+      + 20 for fast kill
+[AI] Alakazam (1) is considering using Hidden Power (1) against Houndoom (0)...
+     Alakazam (1)'s highest damaging move vs Houndoom: Hidden Power
+      + 20 for fast kill
+[AI] Move choices for Alakazam (1):
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Hidden Power (target 0): score 21
+   => will use Dazzling Gleam
+
+[Round order] The opposing Alakazam (1), Houndoom (0)
+
+"OK, Houndoom! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Alakazam (1) used Dazzling Gleam
+"The opposing Alakazam used Dazzling Gleam!"
+[HP change] Chimecho lost 62 HP (133 -> 71)
+"A critical hit!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Alakazam (1): 0
+Set up score for Alakazam (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alakazam (1) is considering using Psychic (1) against Chimecho (0)...
+     Alakazam (1)'s highest damaging move vs Chimecho: Shadow Ball
+[AI] Alakazam (1) is considering using Shadow Ball (1) against Chimecho (0)...
+     Alakazam (1)'s highest damaging move vs Chimecho: Shadow Ball
+      + 20 for fast kill
+[AI] Alakazam (1) is considering using Dazzling Gleam (1)...
+     Alakazam (1)'s highest damaging move vs Chimecho: Shadow Ball
+[AI] Alakazam (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Alakazam (1)'s highest damaging move vs Chimecho: Shadow Ball
+[AI] Move choices for Alakazam (1):
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 21
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] Chimecho (0), the opposing Alakazam (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Alakazam lost 2 HP (2 -> 0)
+"The opposing Alakazam fainted!"
+"Houndoom got 1 Exp. Points!"
+
+[End of round 13]
+Trick Room Turns: 0
+==============================
+     [Togekiss] using Air Slash vs Chimecho does a max of 50/71 damage
+     [Togekiss] using Dazzling Gleam vs Chimecho does a max of 53/71 damage
+     [Togekiss] using Flamethrower vs Chimecho does a max of 39/71 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 47/127 damage
+==============================
+     Chimecho (0) speed (82) vs Togekiss speed: 86
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+[AI] Highest move score (18) vs Switch In Score (6)
+"Pokémon Trainer Mira sent out Togekiss!"
+
+===== Round 14 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Soft-Boiled...
+     +  1: move will fail
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Soft-Boiled: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Togekiss (1), Chimecho (0)
+
+[Use move] The opposing Togekiss (1) used Dazzling Gleam
+"The opposing Togekiss used Dazzling Gleam!"
+[HP change] Chimecho lost 45 HP (71 -> 26)
+[HP change] Chimecho gained 33 HP (26 -> 59)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 67 HP (59 -> 126)
+"Chimecho's HP was restored."
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Soft-Boiled...
+     +  1: move will fail
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Soft-Boiled: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Togekiss (1), Chimecho (0)
+
+[Use move] The opposing Togekiss (1) used Dazzling Gleam
+"The opposing Togekiss used Dazzling Gleam!"
+[HP change] Chimecho lost 50 HP (126 -> 76)
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Togekiss lost 40 HP (127 -> 87)
+
+[End of round 15]
+[HP change] The opposing Togekiss gained 7 HP (87 -> 94)
+"The opposing Togekiss restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Soft-Boiled (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Soft-Boiled: score 7
+   => will use Soft-Boiled
+
+[Round order] The opposing Togekiss (1), Chimecho (0)
+
+[Use move] The opposing Togekiss (1) used Soft-Boiled
+"The opposing Togekiss used Soft-Boiled!"
+[HP change] The opposing Togekiss gained 33 HP (94 -> 127)
+"The opposing Togekiss's HP was restored."
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 57 HP (76 -> 133)
+"Chimecho's HP was restored."
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Soft-Boiled...
+     +  1: move will fail
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Dazzling Gleam: score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Soft-Boiled: score 0
+   => will use Dazzling Gleam
+
+[Round order] The opposing Togekiss (1), Chimecho (0)
+
+[Use move] The opposing Togekiss (1) used Dazzling Gleam
+"The opposing Togekiss used Dazzling Gleam!"
+[HP change] Chimecho lost 51 HP (133 -> 82)
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Togekiss lost 44 HP (127 -> 83)
+
+[End of round 17]
+[HP change] The opposing Togekiss gained 7 HP (83 -> 90)
+"The opposing Togekiss restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Togekiss (1)'s highest damaging move vs Chimecho: Dazzling Gleam
+[AI] Togekiss (1) is considering using Soft-Boiled (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Soft-Boiled: score 7
+   => will use Soft-Boiled
+
+[Round order] The opposing Togekiss (1), Chimecho (0)
+
+"Chimecho, that's enough! Come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Togekiss (1) used Soft-Boiled
+"The opposing Togekiss used Soft-Boiled!"
+[HP change] The opposing Togekiss gained 37 HP (90 -> 127)
+"The opposing Togekiss's HP was restored."
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Soft-Boiled...
+     +  1: move will fail
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Soft-Boiled: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Togekiss (1), Empoleon (0)
+
+[Use move] The opposing Togekiss (1) used Flamethrower
+"The opposing Togekiss used Flamethrower!"
+[HP change] Empoleon lost 55 HP (135 -> 80)
+"A critical hit!"
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Togekiss lost 77 HP (127 -> 50)
+"It's super effective!"
+
+[End of round 19]
+[HP change] The opposing Togekiss gained 7 HP (50 -> 57)
+"The opposing Togekiss restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Soft-Boiled (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Soft-Boiled: score 7
+   => will use Soft-Boiled
+
+[Round order] The opposing Togekiss (1), Empoleon (0)
+
+[Use move] The opposing Togekiss (1) used Soft-Boiled
+"The opposing Togekiss used Soft-Boiled!"
+[HP change] The opposing Togekiss gained 64 HP (57 -> 121)
+"The opposing Togekiss's HP was restored."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Togekiss lost 87 HP (121 -> 34)
+"It's super effective!"
+
+[End of round 20]
+[HP change] The opposing Togekiss gained 7 HP (34 -> 41)
+"The opposing Togekiss restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Soft-Boiled (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Soft-Boiled: score 7
+   => will use Soft-Boiled
+
+[Round order] The opposing Togekiss (1), Empoleon (0)
+
+[Use move] The opposing Togekiss (1) used Soft-Boiled
+"The opposing Togekiss used Soft-Boiled!"
+[HP change] The opposing Togekiss gained 64 HP (41 -> 105)
+"The opposing Togekiss's HP was restored."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Togekiss lost 90 HP (105 -> 15)
+"It's super effective!"
+
+[End of round 21]
+[HP change] The opposing Togekiss gained 7 HP (15 -> 22)
+"The opposing Togekiss restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 22 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) is considering using Soft-Boiled (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Soft-Boiled: score 7
+   => will use Soft-Boiled
+
+[Round order] The opposing Togekiss (1), Empoleon (0)
+
+[Use move] The opposing Togekiss (1) used Soft-Boiled
+"The opposing Togekiss used Soft-Boiled!"
+[HP change] The opposing Togekiss gained 64 HP (22 -> 86)
+"The opposing Togekiss's HP was restored."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Togekiss lost 85 HP (86 -> 1)
+"It's super effective!"
+
+[End of round 22]
+[HP change] The opposing Togekiss gained 7 HP (1 -> 8)
+"The opposing Togekiss restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 23 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Dazzling Gleam (1)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Togekiss (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Togekiss (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Togekiss (1) cannot use Soft-Boiled (no PP left)
+[AI] Move choices for Togekiss (1):
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Soft-Boiled: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Empoleon (0), the opposing Togekiss (1)
+
+[Use move] Empoleon (0) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[HP change] The opposing Togekiss lost 8 HP (8 -> 0)
+"The opposing Togekiss fainted!"
+
+===== Player won =====
+
+"You defeated Pokémon Trainer Mira!"
+"Wow. You're great!"
+
+"You got $2,400 for winning!"
+Roles for PORYGONZ: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOGEKISS: [:SPECIALBREAKER, :TANK]
+Roles for ALAKAZAM: [:SPECIALBREAKER]
+Roles for KABUTOPS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for AERODACTYL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MAROWAK: [:PHYSICALBREAKER]
+Roles for RHYDON: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (2 trainer(s) vs. 2 trainer(s))
+"You are challenged by Hiker Reginald and Hiker Lorenzo!"
+"Hiker Reginald sent out Marowak!
+Hiker Lorenzo sent out Kabutops!"
+"Pokémon Trainer Mira sent out Porygon-Z!
+Go! Toxicroak!"
+[Round order] The ally Porygon-Z (2), the opposing Kabutops (3), Toxicroak (0), the opposing Marowak (1)
+[Ability triggered] The ally Porygon-Z's Download
+[Stat change] The ally Porygon-Z's Special Attack changed by +1 (0 -> 1)
+"The ally Porygon-Z's Special Attack rose!"
+
+===== Round 1 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Porygon-Z (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Marowak (1) is considering using Bonemerang (1) against Toxicroak (0)...
+     Marowak (1)'s highest damaging move vs Toxicroak: Bonemerang
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Marowak (1) is considering using Bonemerang (1) against Porygon-Z (2)...
+     Marowak (1)'s highest damaging move vs Porygon-Z: Bonemerang
+     + 4 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Marowak (1) is considering using Rock Slide (1)...
+     Marowak (1)'s highest damaging move vs Toxicroak: Bonemerang
+     + 1 to factor in threat scoring.
+     Marowak (1)'s highest damaging move vs Porygon-Z: Bonemerang
+     + 4 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Marowak (1) is considering using Fire Punch (1) against Toxicroak (0)...
+     Marowak (1)'s highest damaging move vs Toxicroak: Bonemerang
+     + 1 to factor in threat scoring.
+[AI] Marowak (1) is considering using Fire Punch (1) against Porygon-Z (2)...
+     Marowak (1)'s highest damaging move vs Porygon-Z: Bonemerang
+     + 4 to factor in threat scoring.
+[AI] Marowak (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Marowak (1)'s highest damaging move vs Toxicroak: Bonemerang
+     + 1 to factor in threat scoring.
+[AI] Marowak (1) is considering using Ice Beam (1) against Porygon-Z (2)...
+     Marowak (1)'s highest damaging move vs Porygon-Z: Bonemerang
+     + 4 to factor in threat scoring.
+[AI] Move choices for Marowak (1):
+   *   0.0% to use Bonemerang (target 0): score 0
+   * 100.0% to use Bonemerang (target 2): score 22
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   *   0.0% to use Fire Punch (target 2): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Ice Beam (target 2): score 0
+   => will use Bonemerang (target 2)
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (2) is considering using Tri Attack (1) against Marowak (1)...
+     Porygon-Z (2)'s highest damaging move vs Marowak: Ice Beam
+     + 0 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Porygon-Z (2) is considering using Tri Attack (1) against Kabutops (3)...
+     Porygon-Z (2)'s highest damaging move vs Kabutops: Psychic
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Psychic (1) against Marowak (1)...
+     Porygon-Z (2)'s highest damaging move vs Marowak: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Psychic (1) against Kabutops (3)...
+     Porygon-Z (2)'s highest damaging move vs Kabutops: Psychic
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (2) is considering using Dark Pulse (1) against Marowak (1)...
+     Porygon-Z (2)'s highest damaging move vs Marowak: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Dark Pulse (1) against Kabutops (3)...
+     Porygon-Z (2)'s highest damaging move vs Kabutops: Psychic
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Ice Beam (1) against Marowak (1)...
+     Porygon-Z (2)'s highest damaging move vs Marowak: Ice Beam
+     + 0 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Porygon-Z (2) is considering using Ice Beam (1) against Kabutops (3)...
+     Porygon-Z (2)'s highest damaging move vs Kabutops: Psychic
+     + 0 to factor in threat scoring.
+[AI] Move choices for Porygon-Z (2):
+   *  50.0% to use Tri Attack (target 1): score 21
+   *   0.0% to use Tri Attack (target 3): score 0
+   *   0.0% to use Psychic (target 1): score 0
+   *   0.0% to use Psychic (target 3): score 0
+   *   0.0% to use Dark Pulse (target 1): score 0
+   *   0.0% to use Dark Pulse (target 3): score 0
+   *  50.0% to use Ice Beam (target 1): score 21
+   *   0.0% to use Ice Beam (target 3): score 0
+   => will use Tri Attack (target 1)
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kabutops (3) is considering using Razor Shell (1) against Toxicroak (0)...
+     Kabutops (3)'s highest damaging move vs Toxicroak: Razor Shell
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kabutops (3) is considering using Razor Shell (1) against Porygon-Z (2)...
+     Kabutops (3)'s highest damaging move vs Porygon-Z: Razor Shell
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Kabutops (3) is considering using Rock Slide (1)...
+     Kabutops (3)'s highest damaging move vs Toxicroak: Razor Shell
+     + 2 to factor in threat scoring.
+     Kabutops (3)'s highest damaging move vs Porygon-Z: Razor Shell
+     + 5 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Kabutops (3) is considering using Swords Dance (4)...
+[AI] Kabutops (3) is considering using Aqua Jet (1) against Toxicroak (0)...
+     Kabutops (3)'s highest damaging move vs Toxicroak: Razor Shell
+     + 9 to get a last ditch hit off.
+     + 2 to factor in threat scoring.
+[AI] Kabutops (3) is considering using Aqua Jet (1) against Porygon-Z (2)...
+     Kabutops (3)'s highest damaging move vs Porygon-Z: Razor Shell
+     + 5 to factor in threat scoring.
+[AI] Move choices for Kabutops (3):
+   *   0.0% to use Razor Shell (target 0): score 0
+   *  45.5% to use Razor Shell (target 2): score 10
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Swords Dance: score 0
+   *  54.5% to use Aqua Jet (target 0): score 12
+   *   0.0% to use Aqua Jet (target 2): score 0
+   => will use Aqua Jet (target 0)
+
+[Round order] The opposing Kabutops (3), the ally Porygon-Z (2), Toxicroak (0), the opposing Marowak (1)
+
+[Use move] The opposing Kabutops (3) used Aqua Jet
+"The opposing Kabutops used Aqua Jet!"
+[HP change] Toxicroak lost 32 HP (133 -> 101)
+[Use move] The ally Porygon-Z (2) used Tri Attack
+"The ally Porygon-Z used Tri Attack!"
+"The Normal Gem strengthened Tri Attack's power!"
+[HP change] The opposing Marowak lost 107 HP (107 -> 0)
+"The opposing Marowak fainted!"
+[Item consumed] The ally Porygon-Z consumed its held Normal Gem
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Kabutops lost 107 HP (107 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Kabutops fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Rhydon] using Rock Slide vs Toxicroak does a max of 46/101 damage
+     [Rhydon] using Rock Slide vs Porygon-Z does a max of 57/130 damage
+     [Rhydon] using High Horsepower vs Toxicroak does a max of 309/101 damage
+     [Rhydon] using High Horsepower vs Porygon-Z does a max of 96/130 damage
+     [Rhydon] using Avalanche vs Toxicroak does a max of 65/101 damage
+     [Rhydon] using Avalanche vs Porygon-Z does a max of 41/130 damage
+     [Rhydon] using Heat Crash vs Toxicroak does a max of 65/101 damage
+     [Rhydon] using Heat Crash vs Porygon-Z does a max of 54/130 damage
+     Toxicroak (0)'s best move: Close Combat for 93/146 damage
+==============================
+     Toxicroak (0) speed (85) vs Rhydon speed: 44
+     [Rhydon] +  9: for slow kill
+==============================
+     [Rhydon] using Rock Slide vs Toxicroak does a max of 46/101 damage
+     [Rhydon] using Rock Slide vs Porygon-Z does a max of 57/130 damage
+     [Rhydon] using High Horsepower vs Toxicroak does a max of 309/101 damage
+     [Rhydon] using High Horsepower vs Porygon-Z does a max of 96/130 damage
+     [Rhydon] using Avalanche vs Toxicroak does a max of 65/101 damage
+     [Rhydon] using Avalanche vs Porygon-Z does a max of 41/130 damage
+     [Rhydon] using Heat Crash vs Toxicroak does a max of 65/101 damage
+     [Rhydon] using Heat Crash vs Porygon-Z does a max of 54/130 damage
+     Toxicroak (0)'s best move: Close Combat for 93/146 damage
+==============================     Porygon-Z (2)'s best move: Ice Beam for 154/146 damage
+==============================
+     Porygon-Z (2) speed (97) vs Rhydon speed: 44
+     [Rhydon] +  3: for outdamage
+     [Rhydon] final Switch score: 12
+[AI] Highest move score (19) vs Switch In Score (12)
+"Hiker Reginald sent out Rhydon!"
+==============================
+     [Aerodactyl] using Dual Wingbeat vs Toxicroak does a max of 198/101 damage
+     [Aerodactyl] using Dual Wingbeat vs Porygon-Z does a max of 62/130 damage
+     [Aerodactyl] using Rock Slide vs Toxicroak does a max of 46/101 damage
+     [Aerodactyl] using Rock Slide vs Porygon-Z does a max of 56/130 damage
+     [Aerodactyl] using Thunder Fang vs Toxicroak does a max of 54/101 damage
+     [Aerodactyl] using Thunder Fang vs Porygon-Z does a max of 34/130 damage
+     Toxicroak (0)'s best move: Close Combat for 113/126 damage
+==============================
+     Toxicroak (0) speed (85) vs Aerodactyl speed: 133
+     [Aerodactyl] + 12: for fast kill
+==============================
+     [Aerodactyl] using Dual Wingbeat vs Toxicroak does a max of 198/101 damage
+     [Aerodactyl] using Dual Wingbeat vs Porygon-Z does a max of 62/130 damage
+     [Aerodactyl] using Rock Slide vs Toxicroak does a max of 46/101 damage
+     [Aerodactyl] using Rock Slide vs Porygon-Z does a max of 56/130 damage
+     [Aerodactyl] using Thunder Fang vs Toxicroak does a max of 54/101 damage
+     [Aerodactyl] using Thunder Fang vs Porygon-Z does a max of 34/130 damage
+     Toxicroak (0)'s best move: Close Combat for 113/126 damage
+==============================     Porygon-Z (2)'s best move: Ice Beam for 160/126 damage
+==============================
+     Porygon-Z (2) speed (97) vs Aerodactyl speed: 133
+     [Aerodactyl] + 12: for fast kill
+     [Aerodactyl] final Switch score: 24
+[AI] Highest move score (15) vs Switch In Score (24)
+"Hiker Lorenzo sent out Aerodactyl!"
+[Ability triggered] The opposing Aerodactyl's Unnerve
+"Your team is too nervous to eat Berries!"
+
+===== Round 2 =====
+
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rhydon (1) is considering using Rock Slide (1)...
+     Rhydon (1)'s highest damaging move vs Toxicroak: High Horsepower
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 4 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Rhydon (1) is considering using High Horsepower (1) against Toxicroak (0)...
+     Rhydon (1)'s highest damaging move vs Toxicroak: High Horsepower
+     + -1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Rhydon (1) is considering using High Horsepower (1) against Porygon-Z (2)...
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Rhydon (1) is considering using Avalanche (1) against Toxicroak (0)...
+     Rhydon (1)'s highest damaging move vs Toxicroak: High Horsepower
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Rhydon (1) is considering using Avalanche (1) against Porygon-Z (2)...
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 4 to factor in threat scoring.
+[AI] Rhydon (1) is considering using Heat Crash (1) against Toxicroak (0)...
+     Rhydon (1)'s highest damaging move vs Toxicroak: High Horsepower
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Rhydon (1) is considering using Heat Crash (1) against Porygon-Z (2)...
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 4 to factor in threat scoring.
+[AI] Move choices for Rhydon (1):
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use High Horsepower (target 0): score 17
+   *   0.0% to use High Horsepower (target 2): score 0
+   *   0.0% to use Avalanche (target 0): score 0
+   *   0.0% to use Avalanche (target 2): score 0
+   *   0.0% to use Heat Crash (target 0): score 0
+   *   0.0% to use Heat Crash (target 2): score 0
+   => will use High Horsepower (target 0)
+
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (2) is considering using Tri Attack (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Tri Attack (1) against Aerodactyl (3)...
+     Porygon-Z (2)'s highest damaging move vs Aerodactyl: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Psychic (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Psychic (1) against Aerodactyl (3)...
+     Porygon-Z (2)'s highest damaging move vs Aerodactyl: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Dark Pulse (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Dark Pulse (1) against Aerodactyl (3)...
+     Porygon-Z (2)'s highest damaging move vs Aerodactyl: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Ice Beam (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Porygon-Z (2) is considering using Ice Beam (1) against Aerodactyl (3)...
+     Porygon-Z (2)'s highest damaging move vs Aerodactyl: Ice Beam
+     + 0 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Move choices for Porygon-Z (2):
+   *   0.0% to use Tri Attack (target 1): score 0
+   *   0.0% to use Tri Attack (target 3): score 0
+   *   0.0% to use Psychic (target 1): score 0
+   *   0.0% to use Psychic (target 3): score 0
+   *   0.0% to use Dark Pulse (target 1): score 0
+   *   0.0% to use Dark Pulse (target 3): score 0
+   *   0.0% to use Ice Beam (target 1): score 0
+   * 100.0% to use Ice Beam (target 3): score 18
+   => will use Ice Beam (target 3)
+
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Aerodactyl (3) is considering using Dual Wingbeat (1) against Toxicroak (0)...
+     Aerodactyl (3)'s highest damaging move vs Toxicroak: Dual Wingbeat
+     + -5 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Aerodactyl (3) is considering using Dual Wingbeat (1) against Porygon-Z (2)...
+     Aerodactyl (3)'s highest damaging move vs Porygon-Z: Dual Wingbeat
+     + 3 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Aerodactyl (3) is considering using Rock Slide (1)...
+     Aerodactyl (3)'s highest damaging move vs Toxicroak: Dual Wingbeat
+     + -5 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     Aerodactyl (3)'s highest damaging move vs Porygon-Z: Dual Wingbeat
+     + 3 to factor in threat scoring.
+     +  2: affects multiple battlers
+     no valid targets
+[AI] Aerodactyl (3) is considering using Hone Claws (4)...
+[AI] Move choices for Aerodactyl (3):
+   * 100.0% to use Dual Wingbeat (target 0): score 16
+   *   0.0% to use Dual Wingbeat (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Hone Claws: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Aerodactyl (3), the ally Porygon-Z (2), Toxicroak (0), the opposing Rhydon (1)
+
+"Toxicroak, come back!"
+"You're in charge, Musharna!"
+[Ability triggered] Musharna's Forewarn
+"Musharna was alerted to High Horsepower!"
+[Ability triggered] Musharna's Forewarn
+[Stat change] Musharna's Defense changed by +1 (0 -> 1)
+"Musharna's Defense rose!"
+[Use move] The opposing Aerodactyl (3) used Dual Wingbeat
+"The opposing Aerodactyl used Dual Wingbeat!"
+[HP change] Musharna lost 38 HP (149 -> 111)
+"A critical hit!"
+[HP change] Musharna lost 17 HP (111 -> 94)
+"Hit 2 times!"
+[Use move] The ally Porygon-Z (2) used Ice Beam
+"The ally Porygon-Z used Ice Beam!"
+[HP change] The opposing Aerodactyl lost 126 HP (126 -> 0)
+"It's super effective!"
+"The opposing Aerodactyl fainted!"
+[Use move] The opposing Rhydon (1) used High Horsepower
+"The opposing Rhydon used High Horsepower!"
+[HP change] Musharna lost 55 HP (94 -> 39)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rhydon (1) is considering using Rock Slide (1)...
+     Rhydon (1)'s highest damaging move vs Musharna: High Horsepower
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 5 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Rhydon (1) is considering using High Horsepower (1) against Musharna (0)...
+     Rhydon (1)'s highest damaging move vs Musharna: High Horsepower
+     + -1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Rhydon (1) is considering using High Horsepower (1) against Porygon-Z (2)...
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Rhydon (1) is considering using Avalanche (1) against Musharna (0)...
+     Rhydon (1)'s highest damaging move vs Musharna: High Horsepower
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Rhydon (1) is considering using Avalanche (1) against Porygon-Z (2)...
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 5 to factor in threat scoring.
+[AI] Rhydon (1) is considering using Heat Crash (1) against Musharna (0)...
+     Rhydon (1)'s highest damaging move vs Musharna: High Horsepower
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Rhydon (1) is considering using Heat Crash (1) against Porygon-Z (2)...
+     Rhydon (1)'s highest damaging move vs Porygon-Z: High Horsepower
+     + 5 to factor in threat scoring.
+[AI] Move choices for Rhydon (1):
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use High Horsepower (target 0): score 17
+   *   0.0% to use High Horsepower (target 2): score 0
+   *   0.0% to use Avalanche (target 0): score 0
+   *   0.0% to use Avalanche (target 2): score 0
+   *   0.0% to use Heat Crash (target 0): score 0
+   *   0.0% to use Heat Crash (target 2): score 0
+   => will use High Horsepower (target 0)
+
+Set up score for Musharna (0): 1
+     Threat Score for Musharna (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Porygon-Z (2): 1
+     Threat Score for Porygon-Z (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Porygon-Z (2) is considering using Tri Attack (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Psychic (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Dark Pulse (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+[AI] Porygon-Z (2) is considering using Ice Beam (1) against Rhydon (1)...
+     Porygon-Z (2)'s highest damaging move vs Rhydon: Ice Beam
+     + 0 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Move choices for Porygon-Z (2):
+   *   0.0% to use Tri Attack (target 1): score 0
+   *   0.0% to use Psychic (target 1): score 0
+   *   0.0% to use Dark Pulse (target 1): score 0
+   * 100.0% to use Ice Beam (target 1): score 21
+   => will use Ice Beam (target 1)
+
+[Command phase] The opposing Aerodactyl (3) is forced to use a multi-turn move
+[Round order] The ally Porygon-Z (2), Musharna (0), the opposing Rhydon (1), the opposing Aerodactyl (3)
+
+"OK, Musharna! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The ally Porygon-Z (2) used Ice Beam
+"The ally Porygon-Z used Ice Beam!"
+[HP change] The opposing Rhydon lost 146 HP (146 -> 0)
+"It's super effective!"
+"The opposing Rhydon fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Reginald and Hiker Lorenzo!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $2,560 for winning!"

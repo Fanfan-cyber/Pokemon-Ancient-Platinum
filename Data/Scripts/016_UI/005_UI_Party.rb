@@ -1597,7 +1597,8 @@ MenuHandlers.add(:party_screen_interact, :evolve, {
 
 MenuHandlers.add(:party_screen_interact, :apply_status, {
   "name"      => _INTL("Apply Status"),
-  "order"     => 55
+  "order"     => 55,
+  "condition" => proc { next !$game_switches[Settings::GAUNTLET_SWITCH] && $game_map.map_id != 251},
 })
 
 MenuHandlers.add(:party_screen_interact, :cancel, {
