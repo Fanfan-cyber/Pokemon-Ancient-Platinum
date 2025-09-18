@@ -1442,6 +1442,15 @@ UIActionHandlers.add(UI::Party::SCREEN_ID, :apply_status, {
   }
 })
 
+UIActionHandlers.add(UI::Party::SCREEN_ID, :nickname, {
+  "name"      => _INTL("Nickname..."),
+  "order"     => 33,
+  "effect"    => proc { |screen|
+    nickname = pbEnterPokemonName(_INTL("{1}'s nickname?", screen.pokemon.name), 0, Pokemon::MAX_NAME_SIZE, "", screen.pokemon, true)
+    screen.pokemon.name = nickname
+  }
+})
+
 UIActionHandlers.add(UI::Party::SCREEN_ID, :open_storage, {
   :effect => proc { |screen|
     pbFadeOutInWithUpdate(screen.sprites) do
@@ -1587,6 +1596,12 @@ MenuHandlers.add(:party_screen_interact_mail, :mail_take, {
 MenuHandlers.add(:party_screen_interact_mail, :mail_cancel, {
   "name"      => _INTL("Cancel"),
   "order"     => 30
+})
+
+MenuHandlers.add(:party_screen_interact, :nickname, {
+  "name"      => _INTL("Apply Status"),
+  "order"     => 35,
+  "condition" => proc { next !screen.pokemon.egg?},
 })
 
 MenuHandlers.add(:party_screen_interact, :evolve, {

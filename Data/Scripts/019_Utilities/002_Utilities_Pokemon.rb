@@ -96,6 +96,8 @@ end
 def pbAddToParty(pkmn, level = 1, see_form = true)
   return false if !pkmn || $player.party_full?
   pkmn = Pokemon.new(pkmn, level) if !pkmn.is_a?(Pokemon)
+  pkmn.three_random_ivs
+  pkmn.calc_stats
   species_name = pkmn.speciesName
   pbMessage(_INTL("{1} obtained {2}!", $player.name, species_name) + "\\me[Pkmn get]\\wtnp[80]")
   was_owned = $player.owned?(pkmn.species)

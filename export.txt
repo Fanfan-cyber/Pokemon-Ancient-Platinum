@@ -1,6 +1,6 @@
 
-Chimecho @ Cheri Berry
-Level: 42
+Chimecho
+Level: 46
 Lonely Nature
 Ability: Levitate
 IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
@@ -9,48 +9,8 @@ IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
 - Mach Pulse
 - Recover
 
-Empoleon @ Sitrus Berry
-Level: 42
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Brine
-- Icy Wind
-- Aqua Jet
-- Flash Cannon
-
-Houndoom @ Oran Berry
-Level: 42
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Flamethrower
-- Snarl
-- Fire Fang
-- Bite
-
-Gogoat
-Level: 42
-Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Synthesis
-- Seed Bomb
-- Worry Seed
-- Stomping Tantrum
-
-Sandslash-Alola @ Oran Berry
-Level: 42
-Lax Nature
-Ability: Slush Rush
-IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Iron Head
-- Icicle Crash
-
 Obstagoon
-Level: 42
+Level: 46
 Bashful Nature
 Ability: Guts
 IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
@@ -59,8 +19,28 @@ IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
 - Headbutt
 - Obstruct
 
-Toxicroak @ Oran Berry
-Level: 42
+Sandslash-Alola @ Icicle Plate
+Level: 46
+Lax Nature
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Crash
+
+Skarmory
+Level: 46
+Mild Nature
+Ability: Sturdy
+IVs: 22 HP / 9 Atk / 18 Def / 8 SpA / 5 SpD / 14 Spe
+- Iron Head
+- Drill Peck
+- Slash
+- Spike Cannon
+
+Toxicroak
+Level: 46
 Serious Nature
 Ability: Poison Touch
 IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
@@ -69,38 +49,58 @@ IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
 - Sucker Punch
 - Fake Out
 
+Empoleon
+Level: 46
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Flash Cannon
+
+Hariyama
+Level: 46
+Adamant Nature
+Ability: Thick Fat
+IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
+- Fake Out
+- Knock Off
+- Close Combat
+- Detect
+
 Grafaiai
-Level: 42
+Level: 46
 Relaxed Nature
 Ability: Unburden
 IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
 - U-turn
 - Slash
 - Poison Jab
-- Taunt
+- Knock Off
 
-Dedenne @ Magnet
-Level: 42
-Rash Nature
-Ability: Cheek Pouch
-IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
-- Nuzzle
-- Parabolic Charge
-- Charm
-- Volt Switch
+Qwilfish
+Level: 46
+Lonely Nature
+Ability: Swift Swim
+IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
+- Barb Barrage
+- Liquidation
+- Pin Missile
+- Aqua Jet
 
 Beedrill
-Level: 42
+Level: 46
 Mild Nature
 Ability: Swarm
 IVs: 13 HP / 10 Atk / 10 Def / 27 SpA / 24 SpD / 0 Spe
 - Poison Jab
 - Dual Wingbeat
-- Bug Bite
+- X-Scissor
 - Pin Missile
 
 Kadabra
-Level: 42
+Level: 46
 Sassy Nature
 Ability: Synchronize
 IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
@@ -109,58 +109,28 @@ IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
 - Psyshock
 - Recover
 
-Musharna
-Level: 42
-Timid Nature
-Ability: Forewarn
-IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
-- Moonlight
-- Yawn
-- Psychic
-- Moonblast
+Dedenne
+Level: 46
+Rash Nature
+Ability: Cheek Pouch
+IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
+- Nuzzle
+- Parabolic Charge
+- Charm
+- Volt Switch
 
-Golem-Alola @ Sitrus Berry
-Level: 42
-Adamant Nature
-Ability: Magnet Pull
-IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
-- Thunder Wave
-- Rock Blast
-- Rock Tomb
-- Thunder Punch
-
-Coalossal
-Level: 42
-Timid Nature
-Ability: Heatproof
-IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
-- Flame Wheel
-- Rapid Spin
-- Rock Blast
-- Rock Tomb
-
-Qwilfish
-Level: 42
-Lonely Nature
-Ability: Swift Swim
-IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
-- Poison Jab
-- Liquidation
-- Pin Missile
-- Aqua Jet
-
-Bellibolt
-Level: 42
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud Shot
-- Weather Ball
-- Discharge
-- Muddy Water
+Gogoat
+Level: 46
+Mild Nature
+Ability: Grass Pelt
+IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
+- Synthesis
+- Seed Bomb
+- Worry Seed
+- Stomping Tantrum
 
 Toedscruel
-Level: 42
+Level: 46
 Careful Nature
 Ability: Mycelium Might
 IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
@@ -169,12 +139,62 @@ IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
 - Mega Drain
 - Scorching Sands
 
-Hariyama
-Level: 42
+Bellibolt
+Level: 46
 Adamant Nature
-Ability: Thick Fat
-IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
-- Fake Out
-- Knock Off
-- Force Palm
-- Detect
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud Shot
+- Weather Ball
+- Discharge
+- Muddy Water
+
+Magneton
+Level: 46
+Lonely Nature
+Ability: Sturdy
+IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
+- Discharge
+- Flash Cannon
+- Spark
+- Tri Attack
+
+Golem-Alola
+Level: 46
+Adamant Nature
+Ability: Magnet Pull
+IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
+- Thunder Wave
+- Rock Blast
+- Explosion
+- Thunder Punch
+
+Coalossal
+Level: 46
+Timid Nature
+Ability: Heatproof
+IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
+- Heat Crash
+- Rapid Spin
+- Rock Blast
+- Rock Tomb
+
+Musharna
+Level: 46
+Timid Nature
+Ability: Forewarn
+IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
+- Moonlight
+- Yawn
+- Psychic
+- Moonblast
+
+Houndoom
+Level: 46
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Flamethrower
+- Dark Pulse
+- Fire Fang
+- Bite
