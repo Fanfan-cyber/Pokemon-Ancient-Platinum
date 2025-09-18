@@ -1,14 +1,4 @@
 
-Chimecho
-Level: 46
-Lonely Nature
-Ability: Levitate
-IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
-- Extrasensory
-- Dazzling Gleam
-- Mach Pulse
-- Recover
-
 Obstagoon
 Level: 46
 Bashful Nature
@@ -19,45 +9,15 @@ IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
 - Headbutt
 - Obstruct
 
-Sandslash-Alola @ Icicle Plate
+Musharna
 Level: 46
-Lax Nature
-Ability: Slush Rush
-IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Iron Head
-- Icicle Crash
-
-Skarmory
-Level: 46
-Mild Nature
-Ability: Sturdy
-IVs: 22 HP / 9 Atk / 18 Def / 8 SpA / 5 SpD / 14 Spe
-- Iron Head
-- Drill Peck
-- Slash
-- Spike Cannon
-
-Toxicroak
-Level: 46
-Serious Nature
-Ability: Poison Touch
-IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
-- Close Combat
-- Poison Jab
-- Sucker Punch
-- Fake Out
-
-Empoleon
-Level: 46
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Brine
-- Icy Wind
-- Aqua Jet
-- Flash Cannon
+Timid Nature
+Ability: Forewarn
+IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
+- Moonlight
+- Yawn
+- Psychic
+- Moonblast
 
 Hariyama
 Level: 46
@@ -68,6 +28,36 @@ IVs: 0 HP / 26 Atk / 20 Def / 9 SpA / 18 SpD / 10 Spe
 - Knock Off
 - Close Combat
 - Detect
+
+Chimecho
+Level: 46
+Lonely Nature
+Ability: Levitate
+IVs: 23 HP / 30 Atk / 19 Def / 18 SpA / 1 SpD / 14 Spe
+- Extrasensory
+- Dazzling Gleam
+- Mach Pulse
+- Recover
+
+Magnezone @ Oran Berry
+Level: 46
+Lonely Nature
+Ability: Sturdy
+IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
+- Discharge
+- Flash Cannon
+- Spark
+- Tri Attack
+
+Archeops
+Level: 46
+Hardy Nature
+Ability: Defeatist
+IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
+- Dual Wingbeat
+- U-turn
+- Rock Slide
+- Acrobatics
 
 Grafaiai
 Level: 46
@@ -119,15 +109,15 @@ IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
 - Charm
 - Volt Switch
 
-Gogoat
+Skarmory @ Oran Berry
 Level: 46
 Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Synthesis
-- Seed Bomb
-- Worry Seed
-- Stomping Tantrum
+Ability: Sturdy
+IVs: 22 HP / 9 Atk / 18 Def / 8 SpA / 5 SpD / 14 Spe
+- Iron Head
+- Drill Peck
+- Slash
+- Spike Cannon
 
 Toedscruel
 Level: 46
@@ -139,25 +129,15 @@ IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
 - Mega Drain
 - Scorching Sands
 
-Bellibolt
+Gogoat
 Level: 46
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud Shot
-- Weather Ball
-- Discharge
-- Muddy Water
-
-Magneton
-Level: 46
-Lonely Nature
-Ability: Sturdy
-IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
-- Discharge
-- Flash Cannon
-- Spark
-- Tri Attack
+Mild Nature
+Ability: Grass Pelt
+IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
+- Synthesis
+- Seed Bomb
+- Worry Seed
+- Stomping Tantrum
 
 Golem-Alola
 Level: 46
@@ -169,7 +149,27 @@ IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
 - Explosion
 - Thunder Punch
 
-Coalossal
+Sandslash-Alola @ Icicle Plate
+Level: 46
+Lax Nature
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Crash
+
+Empoleon @ Oran Berry
+Level: 46
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Flash Cannon
+
+Coalossal @ Oran Berry
 Level: 46
 Timid Nature
 Ability: Heatproof
@@ -178,16 +178,6 @@ IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
 - Rapid Spin
 - Rock Blast
 - Rock Tomb
-
-Musharna
-Level: 46
-Timid Nature
-Ability: Forewarn
-IVs: 0 HP / 27 Atk / 18 Def / 8 SpA / 27 SpD / 27 Spe
-- Moonlight
-- Yawn
-- Psychic
-- Moonblast
 
 Houndoom
 Level: 46
@@ -198,3 +188,23 @@ IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
 - Dark Pulse
 - Fire Fang
 - Bite
+
+Toxicroak
+Level: 46
+Serious Nature
+Ability: Poison Touch
+IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
+- Close Combat
+- Poison Jab
+- Sucker Punch
+- Fake Out
+
+Bellibolt @ Oran Berry
+Level: 46
+Adamant Nature
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud Shot
+- Weather Ball
+- Discharge
+- Muddy Water

@@ -1598,7 +1598,7 @@ MenuHandlers.add(:party_screen_interact_mail, :mail_cancel, {
 
 MenuHandlers.add(:party_screen_interact, :nickname, {
   "name"      => _INTL("Nickname"),
-  "order"     => 35,
+  "order"     => 45,
   "condition" => proc { |screen| next !screen.pokemon.egg?},
 })
 
