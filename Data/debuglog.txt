@@ -387204,3 +387204,487 @@ Item Chosen: Ice Stone
 Item Chosen: Big Nugget
 Item Chosen: Dawn Stone
 Item Chosen: Leaf Stone
+Roles for SMEARGLE: [:LEAD]
+Roles for SUDOWOODO: [:PHYSICALBREAKER]
+Roles for SNORLAX: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MRMIME: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Artist William!"
+"Artist William sent out Smeargle!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Smeargle (1)
+
+===== Round 1 =====
+
+Set up score for Smeargle (1): 0
+     [Switch AI] +2 Target has fast kill
+Set up score for Smeargle (1): 0
+Set up score for Smeargle (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass (4)...
+     + 4 for switch initiative against a bad matchup
+Set up score for Smeargle (1): 0
+[AI] Smeargle (1) is considering using Fake Out (1) against Archeops (0)...
+     Smeargle (1)'s highest damaging move vs Archeops: Fake Out
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Baton Pass: score 0
+   * 100.0% to use Fake Out (target 0): score 28
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Smeargle (1), Archeops (0)
+
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+[HP change] Archeops lost 6 HP (142 -> 136)
+"It's not very effective..."
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+[Ability triggered] The opposing Smeargle's Moody
+[Stat change] The opposing Smeargle's Attack changed by +2 (0 -> 2)
+"The opposing Smeargle's Attack rose sharply!"
+[Stat change] The opposing Smeargle's Special Attack changed by -1 (0 -> -1)
+"The opposing Smeargle's Special Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+     [Switch AI] +2 Target has fast kill
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+     [Switch AI] +2 Do not reset buffed stats
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Smeargle (1) is considering using Protect (4)...
+[AI] Smeargle (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Smeargle (1) is considering using Baton Pass (4)...
+     + 4 for switch initiative against a bad matchup
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+Set up score for Smeargle (1): 2
+     + 2 to encourage stat passing
+[AI] Smeargle (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Sticky Web: score 0
+   * 100.0% to use Baton Pass: score 10
+   *   0.0% to use Fake Out: score 0
+   => will use Baton Pass
+
+[Round order] Archeops (0), the opposing Smeargle (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Smeargle lost 84 HP (120 -> 36)
+[HP change] The opposing Smeargle lost 36 HP (36 -> 0)
+"The opposing Smeargle fainted!"
+"Hit 2 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+Set up score for Smeargle (1): 0
+==============================
+     [Sudowoodo] using Stone Edge vs Archeops does a max of 240/136 damage
+     [Sudowoodo] using Wood Hammer vs Archeops does a max of 74/136 damage
+     [Sudowoodo] using Sucker Punch vs Archeops does a max of 44/136 damage
+     Archeops (0)'s best move: Rock Slide for 66/137 damage
+==============================
+     Archeops (0) speed (133) vs Sudowoodo speed: 47
+     [Sudowoodo] +  9: for slow kill
+     [Sudowoodo] final Switch score: 9
+==============================
+     [Snorlax] using Body Slam vs Archeops does a max of 42/136 damage
+     [Snorlax] using Darkest Lariat vs Archeops does a max of 56/136 damage
+     Archeops (0)'s best move: Dual Wingbeat for 107/226 damage
+==============================
+     Archeops (0) speed (133) vs Snorlax speed: 48
+     [Snorlax] final Switch score: 0
+==============================
+     [Mr. Mime] using Psychic vs Archeops does a max of 78/136 damage
+     [Mr. Mime] using Dazzling Gleam vs Archeops does a max of 69/136 damage
+     [Mr. Mime] using Thunderbolt vs Archeops does a max of 104/136 damage
+     Archeops (0)'s best move: Dual Wingbeat for 110/109 damage
+==============================
+     Archeops (0) speed (133) vs Mr. Mime speed: 114
+     [Mr. Mime] -  9: for target fast kill
+     [Mr. Mime] final Switch score: -9
+[AI] Highest move score (32) vs Switch In Score (9)
+"Artist William sent out Sudowoodo!"
+
+===== Round 3 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Sudowoodo (1): 0
+Set up score for Sudowoodo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sudowoodo (1) is considering using Stone Edge (1) against Archeops (0)...
+     Sudowoodo (1)'s highest damaging move vs Archeops: Stone Edge
+      + 17 for slow kill
+[AI] Sudowoodo (1) is considering using Wood Hammer (1) against Archeops (0)...
+     Sudowoodo (1)'s highest damaging move vs Archeops: Stone Edge
+[AI] Sudowoodo (1) is considering using Sucker Punch (1) against Archeops (0)...
+     Sudowoodo (1)'s highest damaging move vs Archeops: Stone Edge
+     + 2 for factoring in 0 Status Moves from Archeops (0)
+     no added score due to target having faster priority or being slower with no priority
+[AI] Sudowoodo (1) is considering using Earthquake (1)...
+     Sudowoodo (1)'s highest damaging move vs Archeops: Stone Edge
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Sudowoodo (1):
+   * 100.0% to use Stone Edge (target 0): score 18
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Archeops (0), the opposing Sudowoodo (1)
+
+"Archeops, come back!"
+"You're in charge, Toxicroak!"
+[Use move] The opposing Sudowoodo (1) used Stone Edge
+"The opposing Sudowoodo used Stone Edge!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Sudowoodo's attack missed!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sudowoodo (1): 0
+Set up score for Sudowoodo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sudowoodo (1) is considering using Stone Edge (1) against Toxicroak (0)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+[AI] Sudowoodo (1) is considering using Wood Hammer (1) against Toxicroak (0)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+[AI] Sudowoodo (1) is considering using Sucker Punch (1) against Toxicroak (0)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+     + 2 for factoring in 0 Status Moves from Toxicroak (0)
+     no added score due to target having faster priority or being slower with no priority
+[AI] Sudowoodo (1) is considering using Earthquake (1)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sudowoodo (1):
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] Toxicroak (0), the opposing Sudowoodo (1)
+
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Sudowoodo lost 8 HP (137 -> 129)
+"It's not very effective..."
+[Use move] The opposing Sudowoodo (1) used Earthquake
+"The opposing Sudowoodo flinched and couldn't move!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Sudowoodo (1): 0
+Set up score for Sudowoodo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sudowoodo (1) is considering using Stone Edge (1) against Toxicroak (0)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+[AI] Sudowoodo (1) is considering using Wood Hammer (1) against Toxicroak (0)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+[AI] Sudowoodo (1) is considering using Sucker Punch (1) against Toxicroak (0)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+     + 2 for factoring in 0 Status Moves from Toxicroak (0)
+     no added score due to target having faster priority or being slower with no priority
+[AI] Sudowoodo (1) is considering using Earthquake (1)...
+     Sudowoodo (1)'s highest damaging move vs Toxicroak: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sudowoodo (1):
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] Toxicroak (0), the opposing Sudowoodo (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Sudowoodo lost 129 HP (129 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Sudowoodo fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Snorlax] using Body Slam vs Toxicroak does a max of 126/159 damage
+     [Snorlax] using Darkest Lariat vs Toxicroak does a max of 29/159 damage
+     [Snorlax] using Earthquake vs Toxicroak does a max of 198/159 damage
+     Toxicroak (0)'s best move: Close Combat for 252/226 damage
+==============================
+     Toxicroak (0) speed (102) vs Snorlax speed: 48
+     [Snorlax] -  9: for target fast kill
+     [Snorlax] final Switch score: -9
+==============================
+     [Mr. Mime] using Psychic vs Toxicroak does a max of 444/159 damage
+     [Mr. Mime] using Dazzling Gleam vs Toxicroak does a max of 99/159 damage
+     [Mr. Mime] using Thunderbolt vs Toxicroak does a max of 74/159 damage
+     Toxicroak (0)'s best move: Poison Jab for 207/109 damage
+==============================
+     Toxicroak (0) speed (102) vs Mr. Mime speed: 114
+     [Mr. Mime] + 12: for fast kill
+     [Mr. Mime] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Artist William sent out Mr. Mime!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Mr. Mime (1): 0
+Set up score for Mr. Mime (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Psychic (1) against Toxicroak (0)...
+     Mr. Mime (1)'s highest damaging move vs Toxicroak: Psychic
+      + 20 for fast kill
+[AI] Mr. Mime (1) is considering using Dazzling Gleam (1)...
+     Mr. Mime (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Mr. Mime (1) is considering using Thunderbolt (1) against Toxicroak (0)...
+     Mr. Mime (1)'s highest damaging move vs Toxicroak: Psychic
+[AI] Mr. Mime (1) is considering using Calm Mind (4)...
+[AI] Move choices for Mr. Mime (1):
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic (target 0)
+
+[Round order] The opposing Mr. Mime (1), Toxicroak (0)
+
+"Toxicroak, come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Mr. Mime (1) used Psychic
+"The opposing Mr. Mime used Psychic!"
+[HP change] Archeops lost 66 HP (136 -> 70)
+[HP change] Archeops gained 38 HP (70 -> 108)
+"Archeops restored its health using its Sitrus Berry!"
+[Item consumed] Archeops consumed its held Sitrus Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mr. Mime (1): 0
+Set up score for Mr. Mime (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Psychic (1) against Archeops (0)...
+     Mr. Mime (1)'s highest damaging move vs Archeops: Thunderbolt
+[AI] Mr. Mime (1) is considering using Dazzling Gleam (1)...
+     Mr. Mime (1)'s highest damaging move vs Archeops: Thunderbolt
+[AI] Mr. Mime (1) is considering using Thunderbolt (1) against Archeops (0)...
+     Mr. Mime (1)'s highest damaging move vs Archeops: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Mr. Mime (1) is considering using Calm Mind (4)...
+[AI] Move choices for Mr. Mime (1):
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Calm Mind: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Archeops (0), the opposing Mr. Mime (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Mr. Mime lost 109 HP (109 -> 0)
+"The opposing Mr. Mime fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Snorlax] using Body Slam vs Archeops does a max of 42/108 damage
+     [Snorlax] using Darkest Lariat vs Archeops does a max of 56/108 damage
+     Archeops (0)'s best move: Acrobatics for 147/226 damage
+==============================
+     Archeops (0) speed (133) vs Snorlax speed: 48
+     [Snorlax] -  5: for target having fast 2HKO and us having no kill
+     [Snorlax] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Artist William sent out Snorlax!"
+
+===== Round 8 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Snorlax (1) is considering using Curse (4)...
+[AI] Snorlax (1) is considering using Body Slam (1) against Archeops (0)...
+     Snorlax (1)'s highest damaging move vs Archeops: Darkest Lariat
+[AI] Snorlax (1) is considering using Darkest Lariat (1) against Archeops (0)...
+     Snorlax (1)'s highest damaging move vs Archeops: Darkest Lariat
+     + 4 to prioritize highest damaging move
+[AI] Snorlax (1) is considering using Earthquake (1)...
+     Snorlax (1)'s highest damaging move vs Archeops: Darkest Lariat
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Snorlax (1):
+   *   0.0% to use Curse: score 0
+   *   0.0% to use Body Slam (target 0): score 0
+   * 100.0% to use Darkest Lariat (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   => will use Darkest Lariat (target 0)
+
+[Round order] Archeops (0), the opposing Snorlax (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Snorlax lost 141 HP (226 -> 85)
+[Use move] The opposing Snorlax (1) used Darkest Lariat
+"The opposing Snorlax used Darkest Lariat!"
+[HP change] Archeops lost 51 HP (108 -> 57)
+
+[End of round 8]
+[HP change] The opposing Snorlax gained 14 HP (85 -> 99)
+"The opposing Snorlax restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Snorlax (1) is considering using Curse (4)...
+[AI] Snorlax (1) is considering using Body Slam (1) against Archeops (0)...
+     Snorlax (1)'s highest damaging move vs Archeops: Darkest Lariat
+[AI] Snorlax (1) is considering using Darkest Lariat (1) against Archeops (0)...
+     Snorlax (1)'s highest damaging move vs Archeops: Darkest Lariat
+     + 4 to prioritize highest damaging move
+[AI] Snorlax (1) is considering using Earthquake (1)...
+     Snorlax (1)'s highest damaging move vs Archeops: Darkest Lariat
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Snorlax (1):
+   *   0.0% to use Curse: score 0
+   *   0.0% to use Body Slam (target 0): score 0
+   * 100.0% to use Darkest Lariat (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   => will use Darkest Lariat (target 0)
+
+[Round order] Archeops (0), the opposing Snorlax (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Snorlax lost 28 HP (99 -> 71)
+"Archeops went back to Tyler!"
+"Just a little more! Hang in there, Toxicroak!"
+[Use move] The opposing Snorlax (1) used Darkest Lariat
+"The opposing Snorlax used Darkest Lariat!"
+[HP change] Toxicroak lost 25 HP (159 -> 134)
+"It's not very effective..."
+
+[End of round 9]
+[HP change] The opposing Snorlax gained 14 HP (71 -> 85)
+"The opposing Snorlax restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Snorlax (1) is considering using Curse (4)...
+[AI] Snorlax (1) is considering using Body Slam (1) against Toxicroak (0)...
+     Snorlax (1)'s highest damaging move vs Toxicroak: Earthquake
+[AI] Snorlax (1) is considering using Darkest Lariat (1) against Toxicroak (0)...
+     Snorlax (1)'s highest damaging move vs Toxicroak: Earthquake
+[AI] Snorlax (1) is considering using Earthquake (1)...
+     Snorlax (1)'s highest damaging move vs Toxicroak: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Snorlax (1):
+   *   0.0% to use Curse: score 0
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] Toxicroak (0), the opposing Snorlax (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Snorlax lost 85 HP (85 -> 0)
+"It's super effective!"
+"The opposing Snorlax fainted!"
+
+===== Player won =====
+
+"You defeated Artist William!"
+"Wow. You're great!"
+
+"You got $1,536 for winning!"
