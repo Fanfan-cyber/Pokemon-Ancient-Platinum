@@ -387688,3 +387688,1345 @@ Set up score for Toxicroak (0): 0
 "Wow. You're great!"
 
 "You got $1,536 for winning!"
+Roles for ARCANINE: [:PHYSICALBREAKER]
+Roles for TENTACRUEL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for REUNICLUS: [:SETUPSWEEPER]
+Roles for DRAMPA: [:SPECIALBREAKER, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Bobby!"
+"Policeman Bobby sent out Arcanine!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Arcanine (1)
+[Ability triggered] The opposing Arcanine's Intimidate
+[Stat change] Archeops's Attack changed by -1 (0 -> -1)
+"Archeops's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Thunder Fang (target 0)
+
+[Round order] Archeops (0), the opposing Arcanine (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Arcanine lost 17 HP (156 -> 139)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Coalossal!"
+[Use move] The opposing Arcanine (1) used Thunder Fang
+"The opposing Arcanine used Thunder Fang!"
+[HP change] Coalossal lost 29 HP (187 -> 158)
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (139 -> 124)
+"The opposing Arcanine lost some of its HP!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   * 100.0% to use Psychic Fangs (target 0): score 5
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Psychic Fangs (target 0)
+
+[Round order] The opposing Arcanine (1), Coalossal (0)
+
+[Use move] The opposing Arcanine (1) used Psychic Fangs
+"The opposing Arcanine used Psychic Fangs!"
+[HP change] Coalossal lost 37 HP (158 -> 121)
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (124 -> 109)
+"The opposing Arcanine lost some of its HP!"
+[Use move] Coalossal (0) used Rock Blast
+"Coalossal used Rock Blast!"
+[HP change] The opposing Arcanine lost 31 HP (109 -> 78)
+[HP change] The opposing Arcanine lost 32 HP (78 -> 46)
+[HP change] The opposing Arcanine lost 33 HP (46 -> 13)
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   * 100.0% to use Psychic Fangs (target 0): score 5
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Psychic Fangs (target 0)
+
+[Round order] The opposing Arcanine (1), Coalossal (0)
+
+[Use move] The opposing Arcanine (1) used Psychic Fangs
+"The opposing Arcanine used Psychic Fangs!"
+[HP change] Coalossal lost 43 HP (121 -> 78)
+[HP change] Coalossal gained 10 HP (78 -> 88)
+"Coalossal restored a little HP using its Oran Berry!"
+[Item consumed] Coalossal consumed its held Oran Berry
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 13 HP (13 -> 0)
+"The opposing Arcanine lost some of its HP!"
+"The opposing Arcanine fainted!"
+"Coalossal got 1 Exp. Points!"
+[Use move] Coalossal (0) used Rapid Spin
+"Coalossal used Rapid Spin!"
+"But there was no target..."
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Tentacruel] using Liquidation vs Coalossal does a max of 138/88 damage
+     [Tentacruel] using Poison Jab vs Coalossal does a max of 17/88 damage
+     [Tentacruel] using Knock Off vs Coalossal does a max of 18/88 damage
+     Coalossal (0)'s best move: Rock Blast for 59/146 damage
+==============================
+     Coalossal (0) speed (46) vs Tentacruel speed: 124
+     [Tentacruel] + 12: for fast kill
+     [Tentacruel] final Switch score: 12
+==============================
+     [Reuniclus] using Psyshock vs Coalossal does a max of 56/88 damage
+     [Reuniclus] using Focus Blast vs Coalossal does a max of 136/88 damage
+     Coalossal (0)'s best move: Heat Crash for 72/178 damage
+==============================
+     Coalossal (0) speed (46) vs Reuniclus speed: 48
+     [Reuniclus] + 12: for fast kill
+     [Reuniclus] final Switch score: 12
+==============================
+     [Drampa] using Hyper Voice vs Coalossal does a max of 45/88 damage
+     [Drampa] using Dragon Pulse vs Coalossal does a max of 84/88 damage
+     [Drampa] using Flamethrower vs Coalossal does a max of 8/88 damage
+     Coalossal (0)'s best move: Rock Blast for 47/147 damage
+==============================
+     Coalossal (0) speed (46) vs Drampa speed: 54
+     [Drampa] +  6: for fast 2HKO
+     [Drampa] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (12)
+"Policeman Bobby sent out Tentacruel!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Coalossal (0)...
+     Tentacruel (1)'s highest damaging move vs Coalossal: Liquidation
+      + 20 for fast kill
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Coalossal (0)...
+     Tentacruel (1)'s highest damaging move vs Coalossal: Liquidation
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Coalossal (0)...
+     Tentacruel (1)'s highest damaging move vs Coalossal: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Coalossal (0)
+
+"OK, Coalossal! Come back!"
+"You're in charge, Alakazam!"
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Alakazam lost 69 HP (132 -> 63)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Alakazam (0)...
+     Tentacruel (1)'s highest damaging move vs Alakazam: Knock Off
+      + 20 for fast kill
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Alakazam (0)...
+     Tentacruel (1)'s highest damaging move vs Alakazam: Knock Off
+      + 20 for fast kill
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Alakazam (0)...
+     Tentacruel (1)'s highest damaging move vs Alakazam: Knock Off
+      + 20 for fast kill
+[AI] Move choices for Tentacruel (1):
+   *  33.3% to use Liquidation (target 0): score 21
+   *  33.3% to use Poison Jab (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   *  33.3% to use Knock Off (target 0): score 21
+   => will use Poison Jab (target 0)
+
+[Round order] The opposing Tentacruel (1), Alakazam (0)
+
+[Use move] The opposing Tentacruel (1) used Poison Jab
+"The opposing Tentacruel used Poison Jab!"
+[HP change] Alakazam lost 63 HP (63 -> 0)
+"Alakazam fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Archeops!"
+
+===== Round 6 =====
+
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Archeops (0)...
+     Tentacruel (1)'s highest damaging move vs Archeops: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Archeops (0)...
+     Tentacruel (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Archeops (0)...
+     Tentacruel (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Tentacruel (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Tentacruel lost 100 HP (146 -> 46)
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Archeops lost 110 HP (153 -> 43)
+"It's super effective!"
+[HP change] Archeops gained 38 HP (43 -> 81)
+"Archeops restored its health using its Sitrus Berry!"
+[Item consumed] Archeops consumed its held Sitrus Berry
+
+[End of round 6]
+[HP change] The opposing Tentacruel gained 9 HP (46 -> 55)
+"The opposing Tentacruel restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Archeops (0)...
+     Tentacruel (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Archeops (0)...
+     Tentacruel (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Archeops (0)...
+     Tentacruel (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Tentacruel (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Tentacruel lost 55 HP (55 -> 0)
+"The opposing Tentacruel fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Reuniclus] using Psyshock vs Archeops does a max of 87/81 damage
+     [Reuniclus] using Focus Blast vs Archeops does a max of 88/81 damage
+     Archeops (0)'s best move: Acrobatics for 120/178 damage
+==============================
+     Archeops (0) speed (133) vs Reuniclus speed: 48
+     [Reuniclus] +  9: for slow kill
+     [Reuniclus] final Switch score: 9
+==============================
+     [Drampa] using Hyper Voice vs Archeops does a max of 59/81 damage
+     [Drampa] using Dragon Pulse vs Archeops does a max of 110/81 damage
+     [Drampa] using Flamethrower vs Archeops does a max of 39/81 damage
+     Archeops (0)'s best move: Acrobatics for 120/147 damage
+==============================
+     Archeops (0) speed (133) vs Drampa speed: 54
+     [Drampa] +  9: for slow kill
+     [Drampa] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Bobby sent out Reuniclus!"
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Archeops (0)...
+     Reuniclus (1)'s highest damaging move vs Archeops: Focus Blast
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Archeops (0)...
+     Reuniclus (1)'s highest damaging move vs Archeops: Focus Blast
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   * 100.0% to use Focus Blast (target 0): score 5
+   *   0.0% to use Recover: score 0
+   => will use Focus Blast (target 0)
+
+[Round order] Archeops (0), the opposing Reuniclus (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Reuniclus lost 97 HP (178 -> 81)
+"It's super effective!"
+"Archeops went back to Tyler!"
+"Just a little more! Hang in there, Chimecho!"
+[Use move] The opposing Reuniclus (1) used Focus Blast
+"The opposing Reuniclus used Focus Blast!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Reuniclus's attack missed!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 79 HP (81 -> 2)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (2 -> 91)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 86 HP (91 -> 5)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (5 -> 94)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 81 HP (94 -> 13)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (13 -> 102)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 77 HP (102 -> 25)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (25 -> 114)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 81 HP (114 -> 33)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (33 -> 122)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) cannot use Recover (no PP left)
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+"Chimecho, that's enough! Come back!"
+"Go for it, Archeops!"
+[Use move] The opposing Reuniclus (1) used Psyshock
+"The opposing Reuniclus used Psyshock!"
+[HP change] Archeops lost 81 HP (81 -> 0)
+"Archeops fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+Roles for ARCANINE: [:PHYSICALBREAKER]
+Roles for TENTACRUEL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for REUNICLUS: [:SETUPSWEEPER]
+Roles for DRAMPA: [:SPECIALBREAKER, :TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Bobby!"
+"Policeman Bobby sent out Arcanine!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Arcanine (1)
+[Ability triggered] The opposing Arcanine's Intimidate
+[Stat change] Archeops's Attack changed by -1 (0 -> -1)
+"Archeops's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Thunder Fang
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   * 100.0% to use Thunder Fang (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Thunder Fang (target 0)
+
+[Round order] Archeops (0), the opposing Arcanine (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Arcanine lost 18 HP (156 -> 138)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Coalossal!"
+[Use move] The opposing Arcanine (1) used Thunder Fang
+"The opposing Arcanine used Thunder Fang!"
+[HP change] Coalossal lost 32 HP (187 -> 155)
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (138 -> 123)
+"The opposing Arcanine lost some of its HP!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Arcanine (1) is considering using Thunder Fang (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Arcanine (1) is considering using Psychic Fangs (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+     + 4 to prioritize highest damaging move
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Coalossal (0)...
+     Arcanine (1)'s highest damaging move vs Coalossal: Psychic Fangs
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   *   0.0% to use Thunder Fang (target 0): score 0
+   * 100.0% to use Psychic Fangs (target 0): score 5
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Psychic Fangs (target 0)
+
+[Round order] The opposing Arcanine (1), Coalossal (0)
+
+[Use move] The opposing Arcanine (1) used Psychic Fangs
+"The opposing Arcanine used Psychic Fangs!"
+[HP change] Coalossal lost 40 HP (155 -> 115)
+[Item triggered] The opposing Arcanine's Life Orb (recoil)
+[HP change] The opposing Arcanine lost 15 HP (123 -> 108)
+"The opposing Arcanine lost some of its HP!"
+[Use move] Coalossal (0) used Rock Blast
+"Coalossal used Rock Blast!"
+[HP change] The opposing Arcanine lost 35 HP (108 -> 73)
+[HP change] The opposing Arcanine lost 35 HP (73 -> 38)
+[HP change] The opposing Arcanine lost 33 HP (38 -> 5)
+[HP change] The opposing Arcanine lost 5 HP (5 -> 0)
+"The opposing Arcanine fainted!"
+"It's super effective!"
+"Hit 4 times!"
+"Coalossal got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Tentacruel] using Liquidation vs Coalossal does a max of 138/115 damage
+     [Tentacruel] using Poison Jab vs Coalossal does a max of 17/115 damage
+     [Tentacruel] using Knock Off vs Coalossal does a max of 27/115 damage
+     Coalossal (0)'s best move: Rock Blast for 59/146 damage
+==============================
+     Coalossal (0) speed (46) vs Tentacruel speed: 124
+     [Tentacruel] + 12: for fast kill
+     [Tentacruel] final Switch score: 12
+==============================
+     [Reuniclus] using Psyshock vs Coalossal does a max of 56/115 damage
+     [Reuniclus] using Focus Blast vs Coalossal does a max of 136/115 damage
+     Coalossal (0)'s best move: Heat Crash for 72/178 damage
+==============================
+     Coalossal (0) speed (46) vs Reuniclus speed: 48
+     [Reuniclus] + 12: for fast kill
+     [Reuniclus] final Switch score: 12
+==============================
+     [Drampa] using Hyper Voice vs Coalossal does a max of 45/115 damage
+     [Drampa] using Dragon Pulse vs Coalossal does a max of 84/115 damage
+     [Drampa] using Flamethrower vs Coalossal does a max of 8/115 damage
+     Coalossal (0)'s best move: Rock Blast for 47/147 damage
+==============================
+     Coalossal (0) speed (46) vs Drampa speed: 54
+     [Drampa] +  6: for fast 2HKO
+     [Drampa] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (12)
+"Policeman Bobby sent out Tentacruel!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Coalossal (0): 0
+     Threat Score for Coalossal (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Coalossal (0)...
+     Tentacruel (1)'s highest damaging move vs Coalossal: Liquidation
+      + 20 for fast kill
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Coalossal (0)...
+     Tentacruel (1)'s highest damaging move vs Coalossal: Liquidation
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Coalossal (0)...
+     Tentacruel (1)'s highest damaging move vs Coalossal: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Coalossal (0)
+
+"Coalossal, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Magnezone lost 36 HP (143 -> 107)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Magnezone (0)
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Magnezone (0)...
+     Tentacruel (1)'s highest damaging move vs Magnezone: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Magnezone (0)...
+     Tentacruel (1)'s highest damaging move vs Magnezone: Liquidation
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Magnezone (0)...
+     Tentacruel (1)'s highest damaging move vs Magnezone: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Magnezone (0)
+
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Magnezone lost 36 HP (107 -> 71)
+[HP change] Magnezone gained 10 HP (71 -> 81)
+"Magnezone restored a little HP using its Oran Berry!"
+[Item consumed] Magnezone consumed its held Oran Berry
+[Use move] Magnezone (0) used Discharge
+"Magnezone used Discharge!"
+[HP change] The opposing Tentacruel lost 123 HP (146 -> 23)
+"It's super effective!"
+
+[End of round 4]
+[HP change] The opposing Tentacruel gained 9 HP (23 -> 32)
+"The opposing Tentacruel restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Magnezone (0)
+Set up score for Tentacruel (1): 0
+Set up score for Tentacruel (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tentacruel (1) is considering using Liquidation (1) against Magnezone (0)...
+     Tentacruel (1)'s highest damaging move vs Magnezone: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Tentacruel (1) is considering using Poison Jab (1) against Magnezone (0)...
+     Tentacruel (1)'s highest damaging move vs Magnezone: Liquidation
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Tentacruel (1) is considering using Swords Dance (4)...
+[AI] Tentacruel (1) is considering using Knock Off (1) against Magnezone (0)...
+     Tentacruel (1)'s highest damaging move vs Magnezone: Liquidation
+[AI] Move choices for Tentacruel (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Tentacruel (1), Magnezone (0)
+
+[Use move] The opposing Tentacruel (1) used Liquidation
+"The opposing Tentacruel used Liquidation!"
+[HP change] Magnezone lost 41 HP (81 -> 40)
+[Use move] Magnezone (0) used Discharge
+"Magnezone used Discharge!"
+[HP change] The opposing Tentacruel lost 32 HP (32 -> 0)
+"It's super effective!"
+"The opposing Tentacruel fainted!"
+"Magnezone got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Magnezone (0)
+==============================
+     [Reuniclus] using Psyshock vs Magnezone does a max of 33/40 damage
+     [Reuniclus] using Focus Blast vs Magnezone does a max of 140/40 damage
+     Magnezone (0)'s best move: Flash Cannon for 80/178 damage
+==============================
+     Magnezone (0) speed (72) vs Reuniclus speed: 48
+     [Reuniclus] +  9: for slow kill
+     [Reuniclus] final Switch score: 9
+==============================
+     [Drampa] using Hyper Voice vs Magnezone does a max of 47/40 damage
+     [Drampa] using Dragon Pulse vs Magnezone does a max of 44/40 damage
+     [Drampa] using Flamethrower vs Magnezone does a max of 124/40 damage
+     Magnezone (0)'s best move: Flash Cannon for 77/147 damage
+==============================
+     Magnezone (0) speed (72) vs Drampa speed: 54
+     [Drampa] +  9: for slow kill
+     [Drampa] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Policeman Bobby sent out Reuniclus!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Magnezone (0)...
+     Reuniclus (1)'s highest damaging move vs Magnezone: Focus Blast
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Magnezone (0)...
+     Reuniclus (1)'s highest damaging move vs Magnezone: Focus Blast
+      + 17 for slow kill
+[AI] Reuniclus (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   * 100.0% to use Focus Blast (target 0): score 18
+   *   0.0% to use Recover: score 0
+   => will use Focus Blast (target 0)
+
+[Round order] Magnezone (0), the opposing Reuniclus (1)
+
+"OK, Magnezone! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Reuniclus (1) used Focus Blast
+"The opposing Reuniclus used Focus Blast!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Reuniclus's attack missed!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 80 HP (178 -> 98)
+[Use move] The opposing Reuniclus (1) used Psyshock
+"The opposing Reuniclus used Psyshock!"
+[HP change] Chimecho lost 38 HP (159 -> 121)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 77 HP (98 -> 21)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (21 -> 110)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 81 HP (110 -> 29)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (29 -> 118)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 80 HP (118 -> 38)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (38 -> 127)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 80 HP (127 -> 47)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (47 -> 136)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Focus Blast (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 87 HP (136 -> 49)
+[Use move] The opposing Reuniclus (1) used Recover
+"The opposing Reuniclus used Recover!"
+[HP change] The opposing Reuniclus gained 89 HP (49 -> 138)
+"The opposing Reuniclus's HP was restored."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) cannot use Recover (no PP left)
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 77 HP (138 -> 61)
+[Use move] The opposing Reuniclus (1) used Psyshock
+"The opposing Reuniclus used Psyshock!"
+[HP change] Chimecho lost 37 HP (121 -> 84)
+"It's not very effective..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Reuniclus (1): 0
+Set up score for Reuniclus (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Reuniclus (1) is considering using Calm Mind (4)...
+[AI] Reuniclus (1) is considering using Psyshock (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+     + 4 to prioritize highest damaging move
+[AI] Reuniclus (1) is considering using Focus Blast (1) against Chimecho (0)...
+     Reuniclus (1)'s highest damaging move vs Chimecho: Psyshock
+[AI] Reuniclus (1) cannot use Recover (no PP left)
+[AI] Move choices for Reuniclus (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psyshock (target 0): score 5
+   *   0.0% to use Focus Blast (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Psyshock (target 0)
+
+[Round order] Chimecho (0), the opposing Reuniclus (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Reuniclus lost 61 HP (61 -> 0)
+"The opposing Reuniclus fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+==============================
+     [Drampa] using Hyper Voice vs Chimecho does a max of 89/84 damage
+     [Drampa] using Dragon Pulse vs Chimecho does a max of 1/84 damage
+     [Drampa] using Flamethrower vs Chimecho does a max of 59/84 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 168/147 damage
+==============================
+     Chimecho (0) speed (98) vs Drampa speed: 54
+     [Drampa] -  9: for target fast kill
+     [Drampa] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Policeman Bobby sent out Drampa!"
+
+===== Round 15 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drampa (1) is considering using Hyper Voice (1)...
+     Drampa (1)'s highest damaging move vs Chimecho: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Drampa (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Drampa (1)'s highest damaging move vs Chimecho: Hyper Voice
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Drampa (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Drampa (1)'s highest damaging move vs Chimecho: Hyper Voice
+[AI] Drampa (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Drampa (1):
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Hyper Voice
+
+[Round order] Chimecho (0), the opposing Drampa (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 75 HP (84 -> 159)
+"Chimecho's HP was restored."
+[Use move] The opposing Drampa (1) used Hyper Voice
+"The opposing Drampa used Hyper Voice!"
+[HP change] Chimecho lost 76 HP (159 -> 83)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drampa (1) is considering using Hyper Voice (1)...
+     Drampa (1)'s highest damaging move vs Chimecho: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Drampa (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Drampa (1)'s highest damaging move vs Chimecho: Hyper Voice
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Drampa (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Drampa (1)'s highest damaging move vs Chimecho: Hyper Voice
+[AI] Drampa (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Drampa (1):
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Hyper Voice
+
+[Round order] Chimecho (0), the opposing Drampa (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Drampa lost 147 HP (147 -> 0)
+"It's super effective!"
+"The opposing Drampa fainted!"
+
+===== Player won =====
+
+"You defeated Policeman Bobby!"
+"Wow. You're great!"
+
+"You got $1,536 for winning!"
