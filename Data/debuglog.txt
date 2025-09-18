@@ -384930,3 +384930,2277 @@ Trick Room Turns: 0
 
 "Duraludon's data was added to the Pokédex."
 "Duraludon has been added to your party."
+Roles for CRADILY: [:LEAD]
+Roles for NIDOKING: [:SPECIALBREAKER]
+Roles for ESCAVALIER: [:PHYSICALBREAKER]
+Roles for MINIOR: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Robert!"
+"Hiker Robert sent out Cradily!"
+"Go! Toxicroak!"
+[Round order] Toxicroak (0), the opposing Cradily (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Cradily (1): 0
+Set up score for Cradily (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Cradily (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Cradily (1) is considering using Stockpile (4)...
+[AI] Cradily (1) is considering using Giga Drain (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Power Gem
+[AI] Cradily (1) is considering using Power Gem (1) against Toxicroak (0)...
+     Cradily (1)'s highest damaging move vs Toxicroak: Power Gem
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Cradily (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Stockpile: score 0
+   *   0.0% to use Giga Drain (target 0): score 0
+   * 100.0% to use Power Gem (target 0): score 5
+   => will use Power Gem (target 0)
+
+[Round order] Toxicroak (0), the opposing Cradily (1)
+
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Cradily lost 149 HP (149 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Cradily fainted!"
+"Toxicroak got 1 Exp. Points!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Nidoking] using Earth Power vs Toxicroak does a max of 324/159 damage
+     [Nidoking] using Sludge Bomb vs Toxicroak does a max of 81/159 damage
+     [Nidoking] using Ice Beam vs Toxicroak does a max of 108/159 damage
+     [Nidoking] using Thunderbolt vs Toxicroak does a max of 108/159 damage
+     Toxicroak (0)'s best move: Close Combat for 58/144 damage
+==============================
+     Toxicroak (0) speed (102) vs Nidoking speed: 106
+     [Nidoking] + 12: for fast kill
+     [Nidoking] final Switch score: 12
+==============================
+     [Escavalier] using Iron Head vs Toxicroak does a max of 143/159 damage
+     [Escavalier] using X-Scissor vs Toxicroak does a max of 36/159 damage
+     [Escavalier] using Drill Run vs Toxicroak does a max of 190/159 damage
+     [Escavalier] using Pursuit vs Toxicroak does a max of 24/159 damage
+     Toxicroak (0)'s best move: Close Combat for 90/134 damage
+==============================
+     Toxicroak (0) speed (102) vs Escavalier speed: 37
+     [Escavalier] +  9: for slow kill
+     [Escavalier] final Switch score: 9
+==============================
+     [Minior] using Rock Slide vs Toxicroak does a max of 47/159 damage
+     [Minior] using Earthquake vs Toxicroak does a max of 168/159 damage
+     [Minior] using Acrobatics vs Toxicroak does a max of 141/159 damage
+     Toxicroak (0)'s best move: Close Combat for 140/125 damage
+==============================
+     Toxicroak (0) speed (102) vs Minior speed: 141
+     [Minior] + 12: for fast kill
+     [Minior] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Hiker Robert sent out Nidoking!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Nidoking (1): 0
+Set up score for Nidoking (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toxicroak (0): -2
+     Threat Score for Toxicroak (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nidoking (1) is considering using Earth Power (1) against Toxicroak (0)...
+     Nidoking (1)'s highest damaging move vs Toxicroak: Earth Power
+      + 20 for fast kill
+[AI] Nidoking (1) is considering using Sludge Bomb (1) against Toxicroak (0)...
+     Nidoking (1)'s highest damaging move vs Toxicroak: Earth Power
+[AI] Nidoking (1) is considering using Ice Beam (1) against Toxicroak (0)...
+     Nidoking (1)'s highest damaging move vs Toxicroak: Earth Power
+[AI] Nidoking (1) is considering using Thunderbolt (1) against Toxicroak (0)...
+     Nidoking (1)'s highest damaging move vs Toxicroak: Earth Power
+[AI] Move choices for Nidoking (1):
+   * 100.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Nidoking (1), Toxicroak (0)
+
+"Toxicroak, come back!"
+"You're in charge, Alakazam!"
+[Use move] The opposing Nidoking (1) used Earth Power
+"The opposing Nidoking used Earth Power!"
+[HP change] Alakazam lost 79 HP (132 -> 53)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Nidoking (1): 0
+Set up score for Nidoking (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nidoking (1) is considering using Earth Power (1) against Alakazam (0)...
+     Nidoking (1)'s highest damaging move vs Alakazam: Sludge Bomb
+      + 17 for slow kill
+[AI] Nidoking (1) is considering using Sludge Bomb (1) against Alakazam (0)...
+     Nidoking (1)'s highest damaging move vs Alakazam: Sludge Bomb
+      + 17 for slow kill
+[AI] Nidoking (1) is considering using Ice Beam (1) against Alakazam (0)...
+     Nidoking (1)'s highest damaging move vs Alakazam: Sludge Bomb
+[AI] Nidoking (1) is considering using Thunderbolt (1) against Alakazam (0)...
+     Nidoking (1)'s highest damaging move vs Alakazam: Sludge Bomb
+[AI] Move choices for Nidoking (1):
+   *  50.0% to use Earth Power (target 0): score 18
+   *  50.0% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Alakazam (0), the opposing Nidoking (1)
+
+[Use move] Alakazam (0) used Psychic
+"Alakazam used Psychic!"
+[HP change] The opposing Nidoking lost 144 HP (144 -> 0)
+"It's super effective!"
+"The opposing Nidoking fainted!"
+"Alakazam got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Escavalier] using Iron Head vs Alakazam does a max of 135/53 damage
+     [Escavalier] using X-Scissor vs Alakazam does a max of 270/53 damage
+     [Escavalier] using Drill Run vs Alakazam does a max of 90/53 damage
+     [Escavalier] using Pursuit vs Alakazam does a max of 92/53 damage
+     Alakazam (0)'s best move: Psychic for 38/134 damage
+==============================
+     Alakazam (0) speed (117) vs Escavalier speed: 37
+     [Escavalier] +  9: for slow kill
+     [Escavalier] final Switch score: 9
+==============================
+     [Minior] using Rock Slide vs Alakazam does a max of 90/53 damage
+     [Minior] using Earthquake vs Alakazam does a max of 79/53 damage
+     [Minior] using Acrobatics vs Alakazam does a max of 66/53 damage
+     Alakazam (0)'s best move: Psychic for 119/125 damage
+==============================
+     Alakazam (0) speed (117) vs Minior speed: 141
+     [Minior] + 12: for fast kill
+     [Minior] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Hiker Robert sent out Minior!"
+[Ability triggered] The opposing Minior's Shields Down
+"Shields Down deactivated!"
+[Form changed] The opposing Minior changed from form 13 to form 6
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Minior (1): 0
+Set up score for Minior (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minior (1) is considering using Rock Slide (1)...
+     Minior (1)'s highest damaging move vs Alakazam: Rock Slide
+      + 17 for slow kill
+[AI] Minior (1) is considering using Earthquake (1)...
+     Minior (1)'s highest damaging move vs Alakazam: Rock Slide
+[AI] Minior (1) is considering using Acrobatics (1) against Alakazam (0)...
+     Minior (1)'s highest damaging move vs Alakazam: Rock Slide
+[AI] Minior (1) is considering using Shell Smash (4)...
+[AI] Move choices for Minior (1):
+   * 100.0% to use Rock Slide: score 18
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Rock Slide
+
+[Round order] Alakazam (0), the opposing Minior (1)
+
+"OK, Alakazam! Come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Minior (1) used Rock Slide
+"The opposing Minior used Rock Slide!"
+[HP change] Duraludon lost 12 HP (147 -> 135)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Minior (1): 0
+Set up score for Minior (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minior (1) is considering using Rock Slide (1)...
+     Minior (1)'s highest damaging move vs Duraludon: Earthquake
+[AI] Minior (1) is considering using Earthquake (1)...
+     Minior (1)'s highest damaging move vs Duraludon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Minior (1) is considering using Acrobatics (1) against Duraludon (0)...
+     Minior (1)'s highest damaging move vs Duraludon: Earthquake
+[AI] Minior (1) is considering using Shell Smash (4)...
+[AI] Move choices for Minior (1):
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Earthquake
+
+[Round order] Duraludon (0), the opposing Minior (1)
+
+[Use move] Duraludon (0) used Flash Cannon
+"Duraludon used Flash Cannon!"
+[HP change] The opposing Minior lost 108 HP (125 -> 17)
+"It's super effective!"
+[Use move] The opposing Minior (1) used Earthquake
+"The opposing Minior used Earthquake!"
+[HP change] Duraludon lost 65 HP (135 -> 70)
+"A critical hit!"
+"It's super effective!"
+
+[End of round 5]
+Trick Room Turns: 0
+[Ability triggered] The opposing Minior's Shields Down
+"Shields Down activated!"
+[Form changed] The opposing Minior changed from form 6 to form 13
+
+===== Round 6 =====
+
+Set up score for Minior (1): 0
+Set up score for Minior (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minior (1) is considering using Rock Slide (1)...
+     Minior (1)'s highest damaging move vs Duraludon: Earthquake
+[AI] Minior (1) is considering using Earthquake (1)...
+     Minior (1)'s highest damaging move vs Duraludon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Minior (1) is considering using Acrobatics (1) against Duraludon (0)...
+     Minior (1)'s highest damaging move vs Duraludon: Earthquake
+[AI] Minior (1) is considering using Shell Smash (4)...
+[AI] Move choices for Minior (1):
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Earthquake
+
+[Round order] The opposing Minior (1), Duraludon (0)
+
+"OK, Duraludon! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Minior (1) used Earthquake
+"The opposing Minior used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Chimecho (0)
+Set up score for Minior (1): 0
+Set up score for Minior (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Minior (1) is considering using Rock Slide (1)...
+     Minior (1)'s highest damaging move vs Chimecho: Rock Slide
+     + 4 to prioritize highest damaging move
+[AI] Minior (1) is considering using Earthquake (1)...
+     Minior (1)'s highest damaging move vs Chimecho: Rock Slide
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Minior (1) is considering using Acrobatics (1) against Chimecho (0)...
+     Minior (1)'s highest damaging move vs Chimecho: Rock Slide
+[AI] Minior (1) is considering using Shell Smash (4)...
+[AI] Move choices for Minior (1):
+   * 100.0% to use Rock Slide: score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Acrobatics (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Rock Slide
+
+[Round order] Chimecho (0), the opposing Minior (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Minior lost 17 HP (17 -> 0)
+"It's not very effective..."
+"The opposing Minior fainted!"
+"Chimecho got 1 Exp. Points!"
+"Duraludon got 1 Exp. Points!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+==============================
+     [Escavalier] using Iron Head vs Chimecho does a max of 162/159 damage
+     [Escavalier] using X-Scissor vs Chimecho does a max of 81/159 damage
+     [Escavalier] using Pursuit vs Chimecho does a max of 28/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 39/134 damage
+==============================
+     Chimecho (0) speed (98) vs Escavalier speed: 37
+     [Escavalier] +  9: for slow kill
+     [Escavalier] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Hiker Robert sent out Escavalier!"
+
+===== Round 8 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Escavalier (1) is considering using Iron Head (1) against Chimecho (0)...
+     Escavalier (1)'s highest damaging move vs Chimecho: Iron Head
+     + 4 to prioritize highest damaging move
+[AI] Escavalier (1) is considering using X-Scissor (1) against Chimecho (0)...
+     Escavalier (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Escavalier (1) is considering using Drill Run (1) against Chimecho (0)...
+     Escavalier (1)'s highest damaging move vs Chimecho: Iron Head
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Escavalier (1) is considering using Pursuit (1) against Chimecho (0)...
+     Escavalier (1)'s highest damaging move vs Chimecho: Iron Head
+[AI] Move choices for Escavalier (1):
+   * 100.0% to use Iron Head (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Drill Run (target 0): score 0
+   *   0.0% to use Pursuit (target 0): score 0
+   => will use Iron Head (target 0)
+
+[Round order] Chimecho (0), the opposing Escavalier (1)
+
+"Chimecho, come back!"
+"You're in charge, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Escavalier (1) used Iron Head
+"The opposing Escavalier used Iron Head!"
+[HP change] Houndoom lost 56 HP (148 -> 92)
+"It's not very effective..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Escavalier (1) is considering using Iron Head (1) against Houndoom (0)...
+     Escavalier (1)'s highest damaging move vs Houndoom: Drill Run
+[AI] Escavalier (1) is considering using X-Scissor (1) against Houndoom (0)...
+     Escavalier (1)'s highest damaging move vs Houndoom: Drill Run
+      + 17 for slow kill
+[AI] Escavalier (1) is considering using Drill Run (1) against Houndoom (0)...
+     Escavalier (1)'s highest damaging move vs Houndoom: Drill Run
+      + 17 for slow kill
+[AI] Escavalier (1) is considering using Pursuit (1) against Houndoom (0)...
+     Escavalier (1)'s highest damaging move vs Houndoom: Drill Run
+[AI] Move choices for Escavalier (1):
+   *   0.0% to use Iron Head (target 0): score 0
+   *  50.0% to use X-Scissor (target 0): score 18
+   *  50.0% to use Drill Run (target 0): score 18
+   *   0.0% to use Pursuit (target 0): score 0
+   => will use Drill Run (target 0)
+
+[Round order] Houndoom (0), the opposing Escavalier (1)
+
+[Use move] Houndoom (0) used Flamethrower
+"Houndoom used Flamethrower!"
+[HP change] The opposing Escavalier lost 134 HP (134 -> 0)
+"It's super effective!"
+"The opposing Escavalier fainted!"
+"Houndoom got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Hiker Robert!"
+"Wow. You're great!"
+
+"You got $1,472 for winning!"
+Roles for HIPPOWDON: [:LEAD, :WEATHERTERRAIN]
+Roles for TINKATON: [:PHYSICALBREAKER]
+Roles for LYCANROC: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for PALOSSAND: [:TANK, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Alexander!"
+"Hiker Alexander sent out Hippowdon!"
+"Go! Sandslash!"
+[Round order] Sandslash (0), the opposing Hippowdon (1)
+[Ability triggered] The opposing Hippowdon's Sand Stream
+"A sandstorm brewed!"
+
+===== Round 1 =====
+
+Set up score for Hippowdon (1): 0
+Set up score for Hippowdon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Hippowdon (1) is considering using Earthquake (1)...
+     Hippowdon (1)'s highest damaging move vs Sandslash: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Hippowdon (1) is considering using Rock Slide (1)...
+     Hippowdon (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Hippowdon (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Hippowdon (1) is considering using Slack Off...
+     +  1: move will fail
+[AI] Move choices for Hippowdon (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Slack Off: score 0
+   => will use Earthquake
+
+[Round order] Sandslash (0), the opposing Hippowdon (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Hippowdon lost 97 HP (169 -> 72)
+"It's super effective!"
+[Use move] The opposing Hippowdon (1) used Earthquake
+"The opposing Hippowdon used Earthquake!"
+[HP change] Sandslash lost 105 HP (149 -> 44)
+"It's super effective!"
+[HP change] Sandslash gained 37 HP (44 -> 81)
+"Sandslash restored its health using its Sitrus Berry!"
+[Item consumed] Sandslash consumed its held Sitrus Berry
+
+[End of round 1]
+"The sandstorm is raging."
+[HP change] The opposing Hippowdon gained 10 HP (72 -> 82)
+"The opposing Hippowdon restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Hippowdon (1): 0
+Set up score for Hippowdon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hippowdon (1) is considering using Earthquake (1)...
+     Hippowdon (1)'s highest damaging move vs Sandslash: Earthquake
+      + 17 for slow kill
+[AI] Hippowdon (1) is considering using Rock Slide (1)...
+     Hippowdon (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Hippowdon (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Hippowdon (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Hippowdon (1):
+   * 100.0% to use Earthquake: score 18
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Slack Off: score 0
+   => will use Earthquake
+
+[Round order] Sandslash (0), the opposing Hippowdon (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Hippowdon lost 82 HP (82 -> 0)
+"It's super effective!"
+"The opposing Hippowdon fainted!"
+"Sandslash got 1 Exp. Points!"
+
+[End of round 2]
+"The sandstorm is raging."
+Trick Room Turns: 0
+==============================
+     [Tinkaton] using Fake Out vs Sandslash does a max of 6/81 damage
+     [Tinkaton] using Gigaton Hammer vs Sandslash does a max of 62/81 damage
+     [Tinkaton] using Play Rough vs Sandslash does a max of 18/81 damage
+     [Tinkaton] using Knock Off vs Sandslash does a max of 17/81 damage
+     Sandslash (0)'s best move: Iron Head for 71/148 damage
+==============================
+     Sandslash (0) speed (84) vs Tinkaton speed: 115
+     [Tinkaton] +  6: for fast 2HKO
+     [Tinkaton] final Switch score: 6
+==============================
+     [Lycanroc] using Rock Slide vs Sandslash does a max of 59/81 damage
+     [Lycanroc] using Close Combat vs Sandslash does a max of 188/81 damage
+     [Lycanroc] using Psychic Fangs vs Sandslash does a max of 17/81 damage
+     [Lycanroc] using Accelerock vs Sandslash does a max of 32/81 damage
+     Sandslash (0)'s best move: Iron Head for 159/139 damage
+==============================
+     Sandslash (0) speed (84) vs Lycanroc speed: 244
+     [Lycanroc] + 12: for fast kill
+     [Lycanroc] final Switch score: 12
+==============================
+     [Palossand] using Earth Power vs Sandslash does a max of 174/81 damage
+     [Palossand] using Shadow Ball vs Sandslash does a max of 78/81 damage
+     Sandslash (0)'s best move: Icicle Crash for 102/151 damage
+==============================
+     Sandslash (0) speed (84) vs Palossand speed: 52
+     [Palossand] +  9: for slow kill
+     [Palossand] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Hiker Alexander sent out Lycanroc!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lycanroc (1): 0
+Set up score for Lycanroc (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lycanroc (1) is considering using Rock Slide (1)...
+     Lycanroc (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Lycanroc (1) is considering using Close Combat (1) against Sandslash (0)...
+     Lycanroc (1)'s highest damaging move vs Sandslash: Close Combat
+      + 20 for fast kill
+[AI] Lycanroc (1) is considering using Psychic Fangs (1) against Sandslash (0)...
+     Lycanroc (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Lycanroc (1) is considering using Accelerock (1) against Sandslash (0)...
+     Lycanroc (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Move choices for Lycanroc (1):
+   *   0.0% to use Rock Slide: score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Accelerock (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Lycanroc (1), Sandslash (0)
+
+"Sandslash, come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Lycanroc (1) used Close Combat
+"The opposing Lycanroc used Close Combat!"
+[HP change] Qwilfish lost 35 HP (136 -> 101)
+"It's not very effective..."
+[Stat change] The opposing Lycanroc's Defense changed by -1 (0 -> -1)
+"The opposing Lycanroc's Defense fell!"
+[Stat change] The opposing Lycanroc's Special Defense changed by -1 (0 -> -1)
+"The opposing Lycanroc's Special Defense fell!"
+
+[End of round 3]
+"The sandstorm is raging."
+"Qwilfish is buffeted by the sandstorm!"
+[HP change] Qwilfish lost 8 HP (101 -> 93)
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lycanroc (1) is considering using Rock Slide (1)...
+     Lycanroc (1)'s highest damaging move vs Qwilfish: Psychic Fangs
+[AI] Lycanroc (1) is considering using Close Combat (1) against Qwilfish (0)...
+     Lycanroc (1)'s highest damaging move vs Qwilfish: Psychic Fangs
+[AI] Lycanroc (1) is considering using Psychic Fangs (1) against Qwilfish (0)...
+     Lycanroc (1)'s highest damaging move vs Qwilfish: Psychic Fangs
+      + 20 for fast kill
+[AI] Lycanroc (1) is considering using Accelerock (1) against Qwilfish (0)...
+     Lycanroc (1)'s highest damaging move vs Qwilfish: Psychic Fangs
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Lycanroc (1):
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   * 100.0% to use Psychic Fangs (target 0): score 21
+   *   0.0% to use Accelerock (target 0): score 0
+   => will use Psychic Fangs (target 0)
+
+[Round order] The opposing Lycanroc (1), Qwilfish (0)
+
+[Use move] The opposing Lycanroc (1) used Psychic Fangs
+"The opposing Lycanroc used Psychic Fangs!"
+[HP change] Qwilfish lost 93 HP (93 -> 0)
+"It's super effective!"
+"Qwilfish fainted!"
+
+[End of round 4]
+"The sandstorm is raging."
+Trick Room Turns: 0
+"You're in charge, Empoleon!"
+
+===== Round 5 =====
+
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lycanroc (1) is considering using Rock Slide (1)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+[AI] Lycanroc (1) is considering using Close Combat (1) against Empoleon (0)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Lycanroc (1) is considering using Psychic Fangs (1) against Empoleon (0)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+[AI] Lycanroc (1) is considering using Accelerock (1) against Empoleon (0)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Lycanroc (1):
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   * 100.0% to use Accelerock (target 0): score 10
+   => will use Accelerock (target 0)
+
+[Round order] The opposing Lycanroc (1), Empoleon (0)
+
+[Use move] The opposing Lycanroc (1) used Accelerock
+"The opposing Lycanroc used Accelerock!"
+"The Rock Gem strengthened Accelerock's power!"
+[HP change] Empoleon lost 17 HP (162 -> 145)
+"It's not very effective..."
+[Item consumed] The opposing Lycanroc consumed its held Rock Gem
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Lycanroc lost 121 HP (139 -> 18)
+"It's super effective!"
+
+[End of round 5]
+"The sandstorm is raging."
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+Set up score for Lycanroc (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lycanroc (1) is considering using Rock Slide (1)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+[AI] Lycanroc (1) is considering using Close Combat (1) against Empoleon (0)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Lycanroc (1) is considering using Psychic Fangs (1) against Empoleon (0)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+[AI] Lycanroc (1) is considering using Accelerock (1) against Empoleon (0)...
+     Lycanroc (1)'s highest damaging move vs Empoleon: Close Combat
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Lycanroc (1):
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   * 100.0% to use Accelerock (target 0): score 10
+   => will use Accelerock (target 0)
+
+[Round order] The opposing Lycanroc (1), Empoleon (0)
+
+[Use move] The opposing Lycanroc (1) used Accelerock
+"The opposing Lycanroc used Accelerock!"
+[HP change] Empoleon lost 14 HP (145 -> 131)
+"It's not very effective..."
+[Use move] Empoleon (0) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[HP change] The opposing Lycanroc lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Lycanroc fainted!"
+"Empoleon got 1 Exp. Points!"
+
+[End of round 6]
+"The sandstorm is raging."
+Trick Room Turns: 0
+==============================
+     [Tinkaton] using Fake Out vs Empoleon does a max of 7/131 damage
+     [Tinkaton] using Gigaton Hammer vs Empoleon does a max of 18/131 damage
+     [Tinkaton] using Play Rough vs Empoleon does a max of 21/131 damage
+     [Tinkaton] using Knock Off vs Empoleon does a max of 20/131 damage
+     Empoleon (0)'s best move: Flash Cannon for 60/148 damage
+==============================
+     Empoleon (0) speed (73) vs Tinkaton speed: 115
+     [Tinkaton] final Switch score: 0
+==============================
+     [Palossand] using Earth Power vs Empoleon does a max of 114/131 damage
+     [Palossand] using Shadow Ball vs Empoleon does a max of 51/131 damage
+     Empoleon (0)'s best move: Brine for 123/151 damage
+==============================
+     Empoleon (0) speed (73) vs Palossand speed: 52
+     [Palossand] -  5: for target having fast 2HKO and us having no kill
+     [Palossand] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (0)
+"Hiker Alexander sent out Tinkaton!"
+[Ability triggered] The opposing Tinkaton's Mold Breaker
+"The opposing Tinkaton breaks the mold!"
+
+===== Round 7 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+     + 18 for using turn 1
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Tinkaton (1) is considering using Play Rough (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Knock Off (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Move choices for Tinkaton (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Gigaton Hammer (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Tinkaton (1), Empoleon (0)
+
+[Use move] The opposing Tinkaton (1) used Fake Out
+"The opposing Tinkaton used Fake Out!"
+[HP change] Empoleon lost 6 HP (131 -> 125)
+"It's not very effective..."
+[Use move] Empoleon (0) used Brine
+"Empoleon flinched and couldn't move!"
+
+[End of round 7]
+"The sandstorm is raging."
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Tinkaton (1) is considering using Play Rough (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Knock Off (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gigaton Hammer (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Tinkaton (1), Empoleon (0)
+
+[Use move] The opposing Tinkaton (1) used Play Rough
+"The opposing Tinkaton used Play Rough!"
+[HP change] Empoleon lost 19 HP (125 -> 106)
+"It's not very effective..."
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Tinkaton lost 45 HP (148 -> 103)
+
+[End of round 8]
+"The sandstorm is raging."
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Tinkaton (1) is considering using Play Rough (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Knock Off (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gigaton Hammer (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Tinkaton (1), Empoleon (0)
+
+"Empoleon, that's enough! Come back!"
+"Go for it, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Tinkaton (1) used Play Rough
+"The opposing Tinkaton used Play Rough!"
+[HP change] Houndoom lost 101 HP (148 -> 47)
+"A critical hit!"
+
+[End of round 9]
+"The sandstorm is raging."
+"Houndoom is buffeted by the sandstorm!"
+[HP change] Houndoom lost 9 HP (47 -> 38)
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Play Rough
+      + 20 for fast kill
+[AI] Tinkaton (1) is considering using Play Rough (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Play Rough
+      + 20 for fast kill
+[AI] Tinkaton (1) is considering using Knock Off (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Play Rough
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Gigaton Hammer (target 0): score 21
+   *  50.0% to use Play Rough (target 0): score 21
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Gigaton Hammer (target 0)
+
+[Round order] The opposing Tinkaton (1), Houndoom (0)
+
+[Use move] The opposing Tinkaton (1) used Gigaton Hammer
+"The opposing Tinkaton used Gigaton Hammer!"
+[HP change] Houndoom lost 38 HP (38 -> 0)
+"It's not very effective..."
+"Houndoom fainted!"
+
+[End of round 10]
+"The sandstorm is raging."
+Trick Room Turns: 0
+"Go for it, Empoleon!"
+
+===== Round 11 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Play Rough (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Knock Off (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gigaton Hammer: score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Tinkaton (1), Empoleon (0)
+
+[Use move] The opposing Tinkaton (1) used Play Rough
+"The opposing Tinkaton used Play Rough!"
+[HP change] Empoleon lost 30 HP (106 -> 76)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Tinkaton lost 49 HP (103 -> 54)
+
+[End of round 11]
+"The sandstorm is raging."
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Tinkaton (1) is considering using Play Rough (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Knock Off (1) against Empoleon (0)...
+     Tinkaton (1)'s highest damaging move vs Empoleon: Play Rough
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gigaton Hammer (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Knock Off (target 0): score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Tinkaton (1), Empoleon (0)
+
+[Use move] The opposing Tinkaton (1) used Play Rough
+"The opposing Tinkaton used Play Rough!"
+[HP change] Empoleon lost 28 HP (76 -> 48)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Tinkaton lost 54 HP (54 -> 0)
+"The opposing Tinkaton fainted!"
+
+[End of round 12]
+"The sandstorm is raging."
+Trick Room Turns: 0
+==============================
+     [Palossand] using Earth Power vs Empoleon does a max of 114/48 damage
+     [Palossand] using Shadow Ball vs Empoleon does a max of 51/48 damage
+     Empoleon (0)'s best move: Brine for 183/151 damage
+==============================
+     Empoleon (0) speed (73) vs Palossand speed: 52
+     [Palossand] -  9: for target fast kill
+     [Palossand] final Switch score: -9
+[AI] Highest move score (19) vs Switch In Score (-9)
+"Hiker Alexander sent out Palossand!"
+
+===== Round 13 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palossand (1) is considering using Earth Power (1) against Empoleon (0)...
+     Palossand (1)'s highest damaging move vs Empoleon: Earth Power
+      + 17 for slow kill
+[AI] Palossand (1) is considering using Shadow Ball (1) against Empoleon (0)...
+     Palossand (1)'s highest damaging move vs Empoleon: Earth Power
+      + 17 for slow kill
+[AI] Palossand (1) is considering using Shore Up...
+     +  1: move will fail
+[AI] Palossand (1) is considering using Will-O-Wisp (4) against Empoleon (0)...
+     Palossand (1)'s highest damaging move vs Empoleon: Earth Power
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Palossand (1):
+   *  50.0% to use Earth Power (target 0): score 18
+   *  50.0% to use Shadow Ball (target 0): score 18
+   *   0.0% to use Shore Up: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Empoleon (0), the opposing Palossand (1)
+
+"OK, Empoleon! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Palossand (1) used Earth Power
+"The opposing Palossand used Earth Power!"
+[HP change] Obstagoon lost 57 HP (157 -> 100)
+
+[End of round 13]
+"The sandstorm is raging."
+"Obstagoon is buffeted by the sandstorm!"
+[HP change] Obstagoon lost 9 HP (100 -> 91)
+[HP change] Obstagoon lost 9 HP (91 -> 82)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palossand (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Palossand (1)'s highest damaging move vs Obstagoon: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Palossand (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Palossand (1)'s highest damaging move vs Obstagoon: Earth Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Palossand (1) is considering using Shore Up...
+     +  1: move will fail
+[AI] Palossand (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Palossand (1)'s highest damaging move vs Obstagoon: Earth Power
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Palossand (1):
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shore Up: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Palossand (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[Move failed] Failed pbAccuracyCheck
+"Obstagoon's attack missed!"
+[Use move] The opposing Palossand (1) used Earth Power
+"The opposing Palossand used Earth Power!"
+[HP change] Obstagoon lost 54 HP (82 -> 28)
+[HP change] Obstagoon gained 39 HP (28 -> 67)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+[Stat change] Obstagoon's Special Defense changed by -1 (0 -> -1)
+"Obstagoon's Special Defense fell!"
+
+[End of round 14]
+"The sandstorm is raging."
+"Obstagoon is buffeted by the sandstorm!"
+[HP change] Obstagoon lost 9 HP (67 -> 58)
+[HP change] Obstagoon lost 9 HP (58 -> 49)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Obstagoon (0): -1
+     Threat Score for Obstagoon (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palossand (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Palossand (1)'s highest damaging move vs Obstagoon: Earth Power
+      + 17 for slow kill
+[AI] Palossand (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Palossand (1)'s highest damaging move vs Obstagoon: Earth Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Palossand (1) is considering using Shore Up...
+     +  1: move will fail
+[AI] Palossand (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Palossand (1)'s highest damaging move vs Obstagoon: Earth Power
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Palossand (1):
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shore Up: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Palossand (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Palossand lost 51 HP (151 -> 100)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Palossand!"
+[Item consumed] The opposing Palossand consumed its held Colbur Berry
+[Use move] The opposing Palossand (1) used Earth Power
+"The opposing Palossand used Earth Power!"
+[HP change] Obstagoon lost 49 HP (49 -> 0)
+"Obstagoon fainted!"
+
+[End of round 15]
+"The sandstorm is raging."
+Trick Room Turns: 0
+"Go for it, Sandslash!"
+
+===== Round 16 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palossand (1) is considering using Earth Power (1) against Sandslash (0)...
+     Palossand (1)'s highest damaging move vs Sandslash: Earth Power
+      + 17 for slow kill
+[AI] Palossand (1) is considering using Shadow Ball (1) against Sandslash (0)...
+     Palossand (1)'s highest damaging move vs Sandslash: Earth Power
+[AI] Palossand (1) is considering using Shore Up (4)...
+     - 5 because we will not gain any HP in this exchange
+[AI] Palossand (1) is considering using Will-O-Wisp (4) against Sandslash (0)...
+     Palossand (1)'s highest damaging move vs Sandslash: Earth Power
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Palossand (1):
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shore Up: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Sandslash (0), the opposing Palossand (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Palossand lost 96 HP (100 -> 4)
+"It's super effective!"
+[Use move] The opposing Palossand (1) used Earth Power
+"The opposing Palossand flinched and couldn't move!"
+
+[End of round 16]
+"The sandstorm is raging."
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Palossand (1) is considering using Earth Power (1) against Sandslash (0)...
+     Palossand (1)'s highest damaging move vs Sandslash: Earth Power
+      + 17 for slow kill
+[AI] Palossand (1) is considering using Shadow Ball (1) against Sandslash (0)...
+     Palossand (1)'s highest damaging move vs Sandslash: Earth Power
+[AI] Palossand (1) is considering using Shore Up (4)...
+     - 5 because we will not gain any HP in this exchange
+[AI] Palossand (1) is considering using Will-O-Wisp (4) against Sandslash (0)...
+     Palossand (1)'s highest damaging move vs Sandslash: Earth Power
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Palossand (1):
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Shore Up: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Sandslash (0), the opposing Palossand (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Palossand lost 4 HP (4 -> 0)
+"It's super effective!"
+"The opposing Palossand fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Alexander!"
+"Wow. You're great!"
+
+"You got $1,504 for winning!"
+Roles for PANGORO: [:PHYSICALBREAKER]
+Roles for FALINKS: [:PHYSICALBREAKER]
+Roles for HERACROSS: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for FLAMIGO: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for TAUROS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Black Belt Kyle!"
+"Black Belt Kyle sent out Pangoro!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Pangoro (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Pangoro (1): 0
+Set up score for Pangoro (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pangoro (1) is considering using Darkest Lariat (1) against Chimecho (0)...
+     Pangoro (1)'s highest damaging move vs Chimecho: Darkest Lariat
+     + 4 to prioritize highest damaging move
+[AI] Pangoro (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Pangoro (1)'s highest damaging move vs Chimecho: Darkest Lariat
+[AI] Pangoro (1) is considering using Bullet Punch (1) against Chimecho (0)...
+     Pangoro (1)'s highest damaging move vs Chimecho: Darkest Lariat
+[AI] Pangoro (1) is considering using Ice Punch (1) against Chimecho (0)...
+     Pangoro (1)'s highest damaging move vs Chimecho: Darkest Lariat
+[AI] Move choices for Pangoro (1):
+   * 100.0% to use Darkest Lariat (target 0): score 5
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   => will use Darkest Lariat (target 0)
+
+[Round order] Chimecho (0), the opposing Pangoro (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Pangoro lost 157 HP (157 -> 0)
+"It's super effective!"
+"The opposing Pangoro fainted!"
+"The Roseli Berry weakened the damage to the opposing Pangoro!"
+[Item consumed] The opposing Pangoro consumed its held Roseli Berry
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Falinks] using Arm Thrust vs Chimecho does a max of 14/159 damage
+     [Falinks] using Rock Blast vs Chimecho does a max of 60/159 damage
+     [Falinks] using Fury Attack vs Chimecho does a max of 37/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 240/130 damage
+==============================
+     Chimecho (0) speed (98) vs Falinks speed: 96
+     [Falinks] -  9: for target fast kill
+     [Falinks] final Switch score: -9
+==============================
+     [Heracross] using Close Combat vs Chimecho does a max of 27/159 damage
+     [Heracross] using X-Scissor vs Chimecho does a max of 72/159 damage
+     [Heracross] using Stone Edge vs Chimecho does a max of 59/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 165/146 damage
+==============================
+     Chimecho (0) speed (98) vs Heracross speed: 108
+     [Heracross] -  7: for target slow kill
+     [Heracross] final Switch score: -7
+==============================
+     [Flamigo] using Dual Wingbeat vs Chimecho does a max of 66/159 damage
+     [Flamigo] using Close Combat vs Chimecho does a max of 24/159 damage
+     [Flamigo] using Throat Chop vs Chimecho does a max of 44/159 damage
+     [Flamigo] using U-turn vs Chimecho does a max of 38/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 228/145 damage
+==============================
+     Chimecho (0) speed (98) vs Flamigo speed: 112
+     [Flamigo] -  7: for target slow kill
+     [Flamigo] final Switch score: -7
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 48/159 damage
+     [Tauros] using Throat Chop vs Chimecho does a max of 43/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 210/142 damage
+==============================
+     Chimecho (0) speed (98) vs Tauros speed: 124
+     [Tauros] -  7: for target slow kill
+     [Tauros] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Black Belt Kyle sent out Heracross!"
+
+===== Round 2 =====
+
+Set up score for Heracross (1): 0
+Set up score for Heracross (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heracross (1) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Heracross (1) is considering using Close Combat (1) against Chimecho (0)...
+     Heracross (1)'s highest damaging move vs Chimecho: X-Scissor
+[AI] Heracross (1) is considering using X-Scissor (1) against Chimecho (0)...
+     Heracross (1)'s highest damaging move vs Chimecho: X-Scissor
+     + 4 to prioritize highest damaging move
+[AI] Heracross (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Heracross (1)'s highest damaging move vs Chimecho: X-Scissor
+[AI] Move choices for Heracross (1):
+   * 100.0% to use Protect: score 9
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   => will use Protect
+
+[Round order] The opposing Heracross (1), Chimecho (0)
+
+[Use move] The opposing Heracross (1) used Protect
+"The opposing Heracross used Protect!"
+"The opposing Heracross protected itself!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+"The opposing Heracross protected itself!"
+
+[End of round 2]
+Trick Room Turns: 0
+"The opposing Heracross was burned by the Flame Orb!"
+
+===== Round 3 =====
+
+Set up score for Heracross (1): 0
+Set up score for Heracross (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heracross (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Heracross (1) is considering using Close Combat (1) against Chimecho (0)...
+     Heracross (1)'s highest damaging move vs Chimecho: X-Scissor
+[AI] Heracross (1) is considering using X-Scissor (1) against Chimecho (0)...
+     Heracross (1)'s highest damaging move vs Chimecho: X-Scissor
+     + 4 to prioritize highest damaging move
+[AI] Heracross (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Heracross (1)'s highest damaging move vs Chimecho: X-Scissor
+[AI] Move choices for Heracross (1):
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   * 100.0% to use X-Scissor (target 0): score 5
+   *   0.0% to use Stone Edge (target 0): score 0
+   => will use X-Scissor (target 0)
+
+[Round order] The opposing Heracross (1), Chimecho (0)
+
+[Use move] The opposing Heracross (1) used X-Scissor
+"The opposing Heracross used X-Scissor!"
+[HP change] Chimecho lost 155 HP (159 -> 4)
+"A critical hit!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Heracross lost 146 HP (146 -> 0)
+"It's super effective!"
+"The opposing Heracross fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Falinks] using Arm Thrust vs Chimecho does a max of 14/4 damage
+     [Falinks] using Rock Blast vs Chimecho does a max of 60/4 damage
+     [Falinks] using Fury Attack vs Chimecho does a max of 37/4 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 240/130 damage
+==============================
+     Chimecho (0) speed (98) vs Falinks speed: 96
+     [Falinks] -  9: for target fast kill
+     [Falinks] final Switch score: -9
+==============================
+     [Flamigo] using Dual Wingbeat vs Chimecho does a max of 66/4 damage
+     [Flamigo] using Close Combat vs Chimecho does a max of 24/4 damage
+     [Flamigo] using Throat Chop vs Chimecho does a max of 44/4 damage
+     [Flamigo] using U-turn vs Chimecho does a max of 38/4 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 228/145 damage
+==============================
+     Chimecho (0) speed (98) vs Flamigo speed: 112
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Tauros] using Raging Bull vs Chimecho does a max of 48/4 damage
+     [Tauros] using Throat Chop vs Chimecho does a max of 43/4 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 210/142 damage
+==============================
+     Chimecho (0) speed (98) vs Tauros speed: 124
+     [Tauros] + 12: for fast kill
+     [Tauros] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Black Belt Kyle sent out Flamigo!"
+
+===== Round 4 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Dual Wingbeat
+      + 20 for fast kill
+[AI] Flamigo (1) is considering using Close Combat (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Dual Wingbeat
+      + 20 for fast kill
+[AI] Flamigo (1) is considering using Throat Chop (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Dual Wingbeat
+      + 20 for fast kill
+[AI] Flamigo (1) is considering using U-turn (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Dual Wingbeat
+     - 9 to prevent switching when we have a kill with another move
+      + 20 for fast kill
+[AI] Move choices for Flamigo (1):
+   *  33.3% to use Dual Wingbeat (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   *  33.3% to use Throat Chop (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"You're in charge, Alakazam!"
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Alakazam lost 120 HP (132 -> 12)
+"A critical hit!"
+"It's not very effective..."
+[Stat change] The opposing Flamigo's Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Special Defense fell!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Dual Wingbeat (1) against Alakazam (0)...
+     Flamigo (1)'s highest damaging move vs Alakazam: Throat Chop
+      + 17 for slow kill
+[AI] Flamigo (1) is considering using Close Combat (1) against Alakazam (0)...
+     Flamigo (1)'s highest damaging move vs Alakazam: Throat Chop
+      + 17 for slow kill
+[AI] Flamigo (1) is considering using Throat Chop (1) against Alakazam (0)...
+     Flamigo (1)'s highest damaging move vs Alakazam: Throat Chop
+      + 17 for slow kill
+[AI] Flamigo (1) is considering using U-turn (1) against Alakazam (0)...
+     Flamigo (1)'s highest damaging move vs Alakazam: Throat Chop
+     - 9 to prevent switching when we have a kill with another move
+      + 17 for slow kill
+[AI] Move choices for Flamigo (1):
+   *  33.3% to use Dual Wingbeat (target 0): score 18
+   *  33.3% to use Close Combat (target 0): score 18
+   *  33.3% to use Throat Chop (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] Alakazam (0), the opposing Flamigo (1)
+
+[Use move] Alakazam (0) used Psychic
+"Alakazam used Psychic!"
+[HP change] The opposing Flamigo lost 145 HP (145 -> 0)
+"It's super effective!"
+"The opposing Flamigo fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Falinks] using Arm Thrust vs Alakazam does a max of 45/12 damage
+     [Falinks] using Rock Blast vs Alakazam does a max of 99/12 damage
+     [Falinks] using Fury Attack vs Alakazam does a max of 60/12 damage
+     Alakazam (0)'s best move: Psychic for 237/130 damage
+==============================
+     Alakazam (0) speed (117) vs Falinks speed: 96
+     [Falinks] -  9: for target fast kill
+     [Falinks] final Switch score: -9
+==============================
+     [Tauros] using Raging Bull vs Alakazam does a max of 79/12 damage
+     [Tauros] using Earthquake vs Alakazam does a max of 87/12 damage
+     [Tauros] using Throat Chop vs Alakazam does a max of 140/12 damage
+     Alakazam (0)'s best move: Psychic for 207/142 damage
+==============================
+     Alakazam (0) speed (117) vs Tauros speed: 124
+     [Tauros] + 12: for fast kill
+     [Tauros] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Black Belt Kyle sent out Tauros!"
+[Ability triggered] The opposing Tauros's Intimidate
+[Stat change] Alakazam's Attack changed by -1 (0 -> -1)
+"Alakazam's Attack fell!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Alakazam (0)...
+     Tauros (1)'s highest damaging move vs Alakazam: Throat Chop
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Alakazam: Throat Chop
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Throat Chop (1) against Alakazam (0)...
+     Tauros (1)'s highest damaging move vs Alakazam: Throat Chop
+      + 20 for fast kill
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   *  33.3% to use Raging Bull (target 0): score 21
+   *  33.3% to use Earthquake: score 21
+   *  33.3% to use Throat Chop (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Raging Bull (target 0)
+
+[Round order] The opposing Tauros (1), Alakazam (0)
+
+[Use move] The opposing Tauros (1) used Raging Bull
+"The opposing Tauros used Raging Bull!"
+"The Fighting Gem strengthened Raging Bull's power!"
+[HP change] Alakazam lost 12 HP (12 -> 0)
+"It's not very effective..."
+"Alakazam fainted!"
+[Item consumed] The opposing Tauros consumed its held Fighting Gem
+
+[End of round 6]
+Trick Room Turns: 0
+"You're in charge, Archeops!"
+
+===== Round 7 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Tauros (1): 0
+Set up score for Tauros (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tauros (1) is considering using Raging Bull (1) against Archeops (0)...
+     Tauros (1)'s highest damaging move vs Archeops: Raging Bull
+     + 4 to prioritize highest damaging move
+[AI] Tauros (1) is considering using Earthquake (1)...
+     Tauros (1)'s highest damaging move vs Archeops: Raging Bull
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Tauros (1) is considering using Throat Chop (1) against Archeops (0)...
+     Tauros (1)'s highest damaging move vs Archeops: Raging Bull
+[AI] Tauros (1) is considering using Bulk Up (4)...
+[AI] Move choices for Tauros (1):
+   * 100.0% to use Raging Bull (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Raging Bull (target 0)
+
+[Round order] Archeops (0), the opposing Tauros (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Tauros lost 142 HP (142 -> 0)
+"It's super effective!"
+"The opposing Tauros fainted!"
+"Archeops got 1 Exp. Points!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Falinks] using Arm Thrust vs Archeops does a max of 63/153 damage
+     [Falinks] using Rock Blast vs Archeops does a max of 138/153 damage
+     [Falinks] using Fury Attack vs Archeops does a max of 21/153 damage
+     Archeops (0)'s best move: Acrobatics for 219/130 damage
+==============================
+     Archeops (0) speed (133) vs Falinks speed: 96
+     [Falinks] -  9: for target fast kill
+     [Falinks] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Black Belt Kyle sent out Falinks!"
+
+===== Round 8 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Falinks (1) is considering using Arm Thrust (1) against Archeops (0)...
+     Falinks (1)'s highest damaging move vs Archeops: Rock Blast
+      + 17 for slow kill
+[AI] Falinks (1) is considering using Rock Blast (1) against Archeops (0)...
+     Falinks (1)'s highest damaging move vs Archeops: Rock Blast
+      + 17 for slow kill
+[AI] Falinks (1) is considering using Fury Attack (1) against Archeops (0)...
+     Falinks (1)'s highest damaging move vs Archeops: Rock Blast
+[AI] Falinks (1) is considering using No Retreat (4)...
+[AI] Move choices for Falinks (1):
+   *  50.0% to use Arm Thrust (target 0): score 18
+   *  50.0% to use Rock Blast (target 0): score 18
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use No Retreat: score 0
+   => will use Rock Blast (target 0)
+
+[Round order] Archeops (0), the opposing Falinks (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Falinks lost 130 HP (130 -> 0)
+"It's super effective!"
+"The opposing Falinks fainted!"
+
+===== Player won =====
+
+"You defeated Black Belt Kyle!"
+"Wow. You're great!"
+
+"You got $1,504 for winning!"
+Roles for SCOVILLAIN: [:PHYSICALBREAKER, :SETUPSWEEPER, :WEATHERTERRAINABUSER]
+Roles for LEAVANNY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for ABOMASNOW: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for MEOWSCARADA: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Aroma Lady Hannah!"
+"Aroma Lady Hannah sent out Scovillain!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Scovillain (1)
+
+===== Round 1 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Scovillain (1): 0
+Set up score for Scovillain (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Scovillain (1) is considering using Seed Bomb (1) against Archeops (0)...
+     Scovillain (1)'s highest damaging move vs Archeops: Seed Bomb
+     + 4 to prioritize highest damaging move
+[AI] Scovillain (1) is considering using Temper Flare (1) against Archeops (0)...
+     Scovillain (1)'s highest damaging move vs Archeops: Seed Bomb
+[AI] Scovillain (1) is considering using Stomping Tantrum (1) against Archeops (0)...
+     Scovillain (1)'s highest damaging move vs Archeops: Seed Bomb
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Scovillain (1) is considering using Growth (4)...
+[AI] Move choices for Scovillain (1):
+   * 100.0% to use Seed Bomb (target 0): score 5
+   *   0.0% to use Temper Flare (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Growth: score 0
+   => will use Seed Bomb (target 0)
+
+[Round order] Archeops (0), the opposing Scovillain (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Scovillain lost 130 HP (130 -> 0)
+"It's super effective!"
+"The opposing Scovillain fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Leavanny] using Leaf Blade vs Archeops does a max of 117/153 damage
+     [Leavanny] using X-Scissor vs Archeops does a max of 52/153 damage
+     [Leavanny] using Brick Break vs Archeops does a max of 65/153 damage
+     Archeops (0)'s best move: Acrobatics for 510/142 damage
+==============================
+     Archeops (0) speed (133) vs Leavanny speed: 116
+     [Leavanny] -  9: for target fast kill
+     [Leavanny] final Switch score: -9
+==============================
+     [Abomasnow] using Blizzard vs Archeops does a max of 195/153 damage
+     [Abomasnow] using Energy Ball vs Archeops does a max of 80/153 damage
+     [Abomasnow] using Hidden Power vs Archeops does a max of 72/153 damage
+     Archeops (0)'s best move: Acrobatics for 267/156 damage
+==============================
+     Archeops (0) speed (133) vs Abomasnow speed: 75
+     [Abomasnow] -  9: for target fast kill
+     [Abomasnow] final Switch score: -9
+==============================
+     [Meowscarada] using Flower Trick vs Archeops does a max of 97/153 damage
+     [Meowscarada] using Night Slash vs Archeops does a max of 65/153 damage
+     [Meowscarada] using Triple Axel vs Archeops does a max of 146/153 damage
+     [Meowscarada] using U-turn vs Archeops does a max of 22/153 damage
+     Archeops (0)'s best move: Acrobatics for 282/143 damage
+==============================
+     Archeops (0) speed (133) vs Meowscarada speed: 148
+     [Meowscarada] -  7: for target slow kill
+     [Meowscarada] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Aroma Lady Hannah sent out Meowscarada!"
+
+===== Round 2 =====
+
+     - 9 to prevent switching when we have a kill with another move
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Archeops (0)...
+     Meowscarada (1)'s highest damaging move vs Archeops: Triple Axel
+[AI] Meowscarada (1) is considering using Night Slash (1) against Archeops (0)...
+     Meowscarada (1)'s highest damaging move vs Archeops: Triple Axel
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Archeops (0)...
+     Meowscarada (1)'s highest damaging move vs Archeops: Triple Axel
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using U-turn (1) against Archeops (0)...
+     Meowscarada (1)'s highest damaging move vs Archeops: Triple Axel
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Meowscarada (1):
+   *   0.0% to use Flower Trick (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Archeops (0)
+
+"Archeops, come back!"
+"You're in charge, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Ice!"
+[HP change] Houndoom lost 11 HP (148 -> 137)
+[HP change] Houndoom lost 22 HP (137 -> 115)
+[HP change] Houndoom lost 36 HP (115 -> 79)
+"It's not very effective..."
+"Hit 3 times!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     - 9 to prevent switching when we have a kill with another move
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+[AI] Meowscarada (1) is considering using Night Slash (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using U-turn (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Meowscarada (1):
+   *   0.0% to use Flower Trick (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Triple Axel (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] The opposing Meowscarada (1), Houndoom (0)
+
+[Use move] The opposing Meowscarada (1) used Triple Axel
+"The opposing Meowscarada used Triple Axel!"
+[HP change] Houndoom lost 11 HP (79 -> 68)
+[HP change] Houndoom lost 20 HP (68 -> 48)
+[HP change] Houndoom lost 33 HP (48 -> 15)
+"It's not very effective..."
+"Hit 3 times!"
+[Use move] Houndoom (0) used Flamethrower
+"Houndoom used Flamethrower!"
+[HP change] The opposing Meowscarada lost 127 HP (143 -> 16)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using Night Slash (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using U-turn (1) against Houndoom (0)...
+     Meowscarada (1)'s highest damaging move vs Houndoom: Triple Axel
+     - 9 to prevent switching when we have a kill with another move
+      + 20 for fast kill
+[AI] Move choices for Meowscarada (1):
+   *  33.3% to use Flower Trick (target 0): score 21
+   *  33.3% to use Night Slash (target 0): score 21
+   *  33.3% to use Triple Axel (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Flower Trick (target 0)
+
+[Round order] The opposing Meowscarada (1), Houndoom (0)
+
+"Good job, Houndoom! Come back!"
+"Your opponent's weak! Get 'em, Chimecho!"
+[Use move] The opposing Meowscarada (1) used Flower Trick
+"The opposing Meowscarada used Flower Trick!"
+[Ability triggered] The opposing Meowscarada's Protean
+"The opposing Meowscarada's type changed to Grass!"
+[HP change] Chimecho lost 77 HP (159 -> 82)
+"A critical hit!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Meowscarada (1): 0
+Set up score for Meowscarada (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Meowscarada (1) is considering using Flower Trick (1) against Chimecho (0)...
+     Meowscarada (1)'s highest damaging move vs Chimecho: Flower Trick
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using Night Slash (1) against Chimecho (0)...
+     Meowscarada (1)'s highest damaging move vs Chimecho: Flower Trick
+[AI] Meowscarada (1) is considering using Triple Axel (1) against Chimecho (0)...
+     Meowscarada (1)'s highest damaging move vs Chimecho: Flower Trick
+      + 20 for fast kill
+[AI] Meowscarada (1) is considering using U-turn (1) against Chimecho (0)...
+     Meowscarada (1)'s highest damaging move vs Chimecho: Flower Trick
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Meowscarada (1):
+   *  50.0% to use Flower Trick (target 0): score 21
+   *   0.0% to use Night Slash (target 0): score 0
+   *  50.0% to use Triple Axel (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Triple Axel (target 0)
+
+[Round order] Chimecho (0), the opposing Meowscarada (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Meowscarada lost 16 HP (16 -> 0)
+"A critical hit!"
+"The opposing Meowscarada fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Leavanny] using Leaf Blade vs Chimecho does a max of 101/82 damage
+     [Leavanny] using X-Scissor vs Chimecho does a max of 90/82 damage
+     [Leavanny] using Brick Break vs Chimecho does a max of 14/82 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 96/142 damage
+==============================
+     Chimecho (0) speed (98) vs Leavanny speed: 116
+     [Leavanny] + 12: for fast kill
+     [Leavanny] final Switch score: 12
+==============================
+     [Abomasnow] using Blizzard vs Chimecho does a max of 74/82 damage
+     [Abomasnow] using Energy Ball vs Chimecho does a max of 62/82 damage
+     [Abomasnow] using Hidden Power vs Chimecho does a max of 28/82 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 90/156 damage
+==============================
+     Chimecho (0) speed (98) vs Abomasnow speed: 75
+     [Abomasnow] -  5: for target having fast 2HKO and us having no kill
+     [Abomasnow] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (12)
+"Aroma Lady Hannah sent out Leavanny!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Chimecho (0)...
+     Leavanny (1)'s highest damaging move vs Chimecho: Leaf Blade
+      + 20 for fast kill
+[AI] Leavanny (1) is considering using X-Scissor (1) against Chimecho (0)...
+     Leavanny (1)'s highest damaging move vs Chimecho: Leaf Blade
+      + 20 for fast kill
+[AI] Leavanny (1) is considering using Brick Break (1) against Chimecho (0)...
+     Leavanny (1)'s highest damaging move vs Chimecho: Leaf Blade
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   *  50.0% to use Leaf Blade (target 0): score 21
+   *  50.0% to use X-Scissor (target 0): score 21
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] The opposing Leavanny (1), Chimecho (0)
+
+[Use move] The opposing Leavanny (1) used Leaf Blade
+"The opposing Leavanny used Leaf Blade!"
+[HP change] Chimecho lost 82 HP (82 -> 0)
+"Chimecho fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"You're in charge, Archeops!"
+
+===== Round 7 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Leavanny (1): 0
+Set up score for Leavanny (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leavanny (1) is considering using Leaf Blade (1) against Archeops (0)...
+     Leavanny (1)'s highest damaging move vs Archeops: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leavanny (1) is considering using X-Scissor (1) against Archeops (0)...
+     Leavanny (1)'s highest damaging move vs Archeops: Leaf Blade
+[AI] Leavanny (1) is considering using Brick Break (1) against Archeops (0)...
+     Leavanny (1)'s highest damaging move vs Archeops: Leaf Blade
+[AI] Leavanny (1) is considering using Swords Dance (4)...
+[AI] Move choices for Leavanny (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Archeops (0), the opposing Leavanny (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Leavanny lost 141 HP (142 -> 1)
+"A critical hit!"
+"The opposing Leavanny hung on using its Focus Sash!"
+[Item consumed] The opposing Leavanny consumed its held Focus Sash
+[HP change] The opposing Leavanny lost 1 HP (1 -> 0)
+"The opposing Leavanny fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Abomasnow] using Blizzard vs Archeops does a max of 195/153 damage
+     [Abomasnow] using Energy Ball vs Archeops does a max of 80/153 damage
+     [Abomasnow] using Hidden Power vs Archeops does a max of 72/153 damage
+     Archeops (0)'s best move: Acrobatics for 267/156 damage
+==============================
+     Archeops (0) speed (133) vs Abomasnow speed: 75
+     [Abomasnow] -  9: for target fast kill
+     [Abomasnow] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Aroma Lady Hannah sent out Abomasnow!"
+[Ability triggered] The opposing Abomasnow's Snow Warning
+"It started to snow!"
+
+===== Round 8 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Abomasnow (1) is considering using Blizzard (1)...
+     Abomasnow (1)'s highest damaging move vs Archeops: Blizzard
+      + 17 for slow kill
+[AI] Abomasnow (1) is considering using Energy Ball (1) against Archeops (0)...
+     Abomasnow (1)'s highest damaging move vs Archeops: Blizzard
+[AI] Abomasnow (1) is considering using Earth Power (1) against Archeops (0)...
+     Abomasnow (1)'s highest damaging move vs Archeops: Blizzard
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Abomasnow (1) is considering using Hidden Power (1) against Archeops (0)...
+     Abomasnow (1)'s highest damaging move vs Archeops: Blizzard
+[AI] Move choices for Abomasnow (1):
+   * 100.0% to use Blizzard: score 18
+   *   0.0% to use Energy Ball (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Blizzard
+
+[Round order] Archeops (0), the opposing Abomasnow (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Abomasnow lost 156 HP (156 -> 0)
+"It's super effective!"
+"The opposing Abomasnow fainted!"
+
+===== Player won =====
+
+"You defeated Aroma Lady Hannah!"
+"Wow. You're great!"
+
+"You got $1,504 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Budew appeared!"
+"Go! Bellibolt!"
+[Round order] Bellibolt (0), the wild Budew (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Rowlet appeared!"
+"Go! Bellibolt!"
+[Round order] Bellibolt (0), the wild Rowlet (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Budew appeared!"
+"Go! Bellibolt!"
+[Round order] Bellibolt (0), the wild Budew (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Petilil appeared!"
+"Go! Bellibolt!"
+[Round order] Bellibolt (0), the wild Petilil (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Voltorb appeared!"
+"Go! Bellibolt!"
+[Round order] Bellibolt (0), the wild Voltorb (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Bellibolt (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Voltorb (1) is considering using Screech (4) against Bellibolt (0)...
+     Voltorb (1)'s highest damaging move vs Bellibolt: Swift
+[AI] Voltorb (1) is considering using Shock Wave (1) against Bellibolt (0)...
+     Voltorb (1)'s highest damaging move vs Bellibolt: Swift
+[AI] Voltorb (1) is considering using Swift (1)...
+     Voltorb (1)'s highest damaging move vs Bellibolt: Swift
+[AI] Voltorb (1) is considering using Electro Ball (1) against Bellibolt (0)...
+     Voltorb (1)'s highest damaging move vs Bellibolt: Swift
+[AI] Move choices for Voltorb (1):
+   *  50.0% to use Screech (target 0): score 4
+   *  50.0% to use Screech (target 0): score 4
+   *   0.0% to use Shock Wave (target 0): score 0
+   *   0.0% to use Swift: score 0
+   *   0.0% to use Electro Ball (target 0): score 0
+   => will use Screech (target 0)
+
+[Round order] Bellibolt (0), the wild Voltorb (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Voltorb was caught!"
+"Bellibolt got 1 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Voltorb's data was added to the Pokédex."
+"Voltorb has been added to your party."
+=============================
+Item Chosen: Yellow Shard
+Item Chosen: Hard Stone
+=============================
+Item Chosen: Damp Rock
+Item Chosen: Dawn Stone
+Item Chosen: Relic Copper
+=============================
+Item Chosen: Relic Copper
+Item Chosen: Smooth Rock
+=============================
+Item Chosen: Max Revive
+Item Chosen: Mind Plate
+Item Chosen: Old Amber
+Item Chosen: Iron Ball
+=============================
+Item Chosen: Icy Rock
+Item Chosen: Green Shard
+Item Chosen: Yellow Shard
+=============================
+Item Chosen: Heat Rock
+Item Chosen: Smooth Rock
+=============================
+Item Chosen: Revive
+Item Chosen: Relic Silver
+Item Chosen: Hard Stone
+=============================
+Item Chosen: Icy Rock
+Item Chosen: Ice Stone
+Item Chosen: Relic Copper
+=============================
+Item Chosen: Relic Copper
+Item Chosen: Heat Rock
+=============================
+Item Chosen: Moon Stone
+Item Chosen: Relic Copper
+Item Chosen: Shiny Stone
+=============================
+Item Chosen: Relic Silver
+Item Chosen: Relic Copper
+Item Chosen: Yellow Shard
+Item Chosen: Icy Rock
+=============================
+Item Chosen: Dusk Stone
+Item Chosen: Relic Copper
+Item Chosen: Shiny Stone
+Item Chosen: Water Stone
+=============================
+Item Chosen: Ice Stone
+Item Chosen: Relic Copper
+Item Chosen: Comet Shard
+Item Chosen: Green Shard
+=============================
+Item Chosen: Ice Stone
+Item Chosen: Big Nugget
+Item Chosen: Dawn Stone
+Item Chosen: Leaf Stone
