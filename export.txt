@@ -1,4 +1,64 @@
 
+Archeops
+Level: 51
+Hardy Nature
+Ability: Defeatist
+IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
+- Dual Wingbeat
+- U-turn
+- Rock Slide
+- Acrobatics
+
+Chimecho
+Level: 51
+Lonely Nature
+Ability: Levitate
+IVs: 23 HP / 30 Atk / 19 Def / 31 SpA / 1 SpD / 14 Spe
+- Extrasensory
+- Dazzling Gleam
+- Mach Pulse
+- Recover
+
+Sandslash-Alola
+Level: 51
+Lax Nature
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Crash
+
+Gogoat
+Level: 51
+Mild Nature
+Ability: Grass Pelt
+IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
+- Synthesis
+- Seed Bomb
+- Horn Leech
+- Stomping Tantrum
+
+Golem-Alola
+Level: 51
+Adamant Nature
+Ability: Magnet Pull
+IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
+- Thunder Wave
+- Rock Blast
+- Explosion
+- Thunder Punch
+
+Heracross
+Level: 51
+Serious Nature
+Ability: Guts
+IVs: 16 HP / 27 Atk / 31 Def / 31 SpA / 26 SpD / 31 Spe
+- Brick Break
+- Rock Blast
+- Pin Missile
+- Throat Chop
+
 Obstagoon
 Level: 51
 Bashful Nature
@@ -9,77 +69,17 @@ IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
 - Headbutt
 - Obstruct
 
-Electrode-Hisui @ Magnet
+Qwilfish
 Level: 51
-Hasty Nature
-Ability: Soundproof
-IVs: 29 HP / 26 Atk / 27 Def / 31 SpA / 3 SpD / 4 Spe
-- Energy Ball
-- Discharge
-- Explosion
-- Volt Switch
-
-Archeops @ Cheri Berry
-Level: 51
-Hardy Nature
-Ability: Defeatist
-IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
-- Dual Wingbeat
-- U-turn
-- Rock Slide
-- Acrobatics
-
-Toedscruel @ Sitrus Berry
-Level: 51
-Careful Nature
-Ability: Mycelium Might
-IVs: 18 HP / 4 Atk / 4 Def / 25 SpA / 20 SpD / 29 Spe
-- Giga Drain
-- Hex
-- Scorching Sands
-- Spore
-
-Empoleon @ Sitrus Berry
-Level: 51
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Brine
-- Icy Wind
-- Aqua Jet
-- Flash Cannon
-
-Floatzel
-Level: 51
-Docile Nature
+Lonely Nature
 Ability: Swift Swim
-IVs: 26 HP / 30 Atk / 28 Def / 13 SpA / 5 SpD / 25 Spe
-- Aqua Tail
-- Ice Spinner
-- Flip Turn
-- Fake Out
+IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
+- Barb Barrage
+- Liquidation
+- Pin Missile
+- Aqua Jet
 
-Skarmory
-Level: 51
-Mild Nature
-Ability: Sturdy
-IVs: 22 HP / 9 Atk / 18 Def / 8 SpA / 5 SpD / 14 Spe
-- Iron Head
-- Drill Peck
-- Slash
-- Body Press
-
-Sandslash-Alola @ Sitrus Berry
-Level: 51
-Lax Nature
-Ability: Slush Rush
-IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Iron Head
-- Icicle Crash
-
-Coalossal @ Oran Berry
+Coalossal
 Level: 51
 Timid Nature
 Ability: Heatproof
@@ -99,35 +99,25 @@ IVs: 13 HP / 10 Atk / 10 Def / 27 SpA / 24 SpD / 0 Spe
 - X-Scissor
 - Pin Missile
 
-Toxicroak @ Poison Barb
+Alakazam
 Level: 51
-Serious Nature
-Ability: Poison Touch
-IVs: 27 HP / 31 Atk / 20 Def / 4 SpA / 28 SpD / 22 Spe
-- Close Combat
-- Poison Jab
-- Sucker Punch
-- Fake Out
+Sassy Nature
+Ability: Synchronize
+IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
+- Role Play
+- Psychic
+- Psyshock
+- Recover
 
-Dedenne @ Sitrus Berry
+Mr. Rime
 Level: 51
-Rash Nature
-Ability: Cheek Pouch
-IVs: 4 HP / 27 Atk / 20 Def / 10 SpA / 28 SpD / 31 Spe
-- Super Fang
-- Parabolic Charge
-- Charm
-- Volt Switch
-
-Bellibolt @ Oran Berry
-Level: 51
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud Shot
-- Weather Ball
-- Discharge
-- Muddy Water
+Calm Nature
+Ability: Tangled Feet
+IVs: 5 HP / 27 Atk / 23 Def / 10 SpA / 11 SpD / 17 Spe
+- Encore
+- Psychic
+- Freeze-Dry
+- Protect
 
 Houndoom
 Level: 51
@@ -139,55 +129,25 @@ IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
 - Fire Blast
 - Bite
 
-Chimecho @ Pixie Plate
+Floatzel
 Level: 51
-Lonely Nature
-Ability: Levitate
-IVs: 23 HP / 30 Atk / 19 Def / 31 SpA / 1 SpD / 14 Spe
-- Extrasensory
-- Dazzling Gleam
-- Mach Pulse
-- Recover
+Docile Nature
+Ability: Swift Swim
+IVs: 26 HP / 30 Atk / 28 Def / 13 SpA / 5 SpD / 25 Spe
+- Aqua Tail
+- Ice Spinner
+- Flip Turn
+- Fake Out
 
-Gogoat
-Level: 51
-Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Synthesis
-- Seed Bomb
-- Horn Leech
-- Stomping Tantrum
-
-Alakazam
-Level: 51
-Sassy Nature
-Ability: Synchronize
-IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
-- Role Play
-- Psychic
-- Psyshock
-- Recover
-
-Duraludon @ Metal Coat
-Level: 51
-Bold Nature
-Ability: Light Metal
-IVs: 29 HP / 19 Atk / 15 Def / 1 SpA / 11 SpD / 8 Spe
-- Rock Smash
-- Dragon Pulse
-- Flash Cannon
-- Breaking Swipe
-
-Golem-Alola
+Bellibolt
 Level: 51
 Adamant Nature
-Ability: Magnet Pull
-IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
-- Thunder Wave
-- Rock Blast
-- Explosion
-- Thunder Punch
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud Shot
+- Weather Ball
+- Discharge
+- Muddy Water
 
 Magnezone
 Level: 51
@@ -199,22 +159,22 @@ IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
 - Spark
 - Tri Attack
 
-Qwilfish
+Duraludon
 Level: 51
-Lonely Nature
-Ability: Swift Swim
-IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
-- Barb Barrage
-- Liquidation
-- Pin Missile
-- Aqua Jet
+Bold Nature
+Ability: Light Metal
+IVs: 29 HP / 19 Atk / 15 Def / 1 SpA / 11 SpD / 8 Spe
+- Rock Smash
+- Dragon Pulse
+- Flash Cannon
+- Breaking Swipe
 
-Grafaiai
+Empoleon
 Level: 51
-Relaxed Nature
-Ability: Unburden
-IVs: 22 HP / 10 Atk / 26 Def / 4 SpA / 29 SpD / 1 Spe
-- U-turn
-- Slash
-- Poison Jab
-- Knock Off
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Flash Cannon
