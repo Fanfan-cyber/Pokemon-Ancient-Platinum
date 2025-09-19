@@ -1,6 +1,16 @@
 
-Archeops
-Level: 51
+Chimecho
+Level: 55
+Lonely Nature
+Ability: Levitate
+IVs: 23 HP / 30 Atk / 19 Def / 31 SpA / 1 SpD / 14 Spe
+- Extrasensory
+- Moonblast
+- Mach Pulse
+- Recover
+
+Archeops @ Sitrus Berry
+Level: 55
 Hardy Nature
 Ability: Defeatist
 IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
@@ -9,48 +19,28 @@ IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
 - Rock Slide
 - Acrobatics
 
-Chimecho
-Level: 51
-Lonely Nature
-Ability: Levitate
-IVs: 23 HP / 30 Atk / 19 Def / 31 SpA / 1 SpD / 14 Spe
-- Extrasensory
-- Dazzling Gleam
-- Mach Pulse
-- Recover
-
-Sandslash-Alola
-Level: 51
-Lax Nature
-Ability: Slush Rush
-IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
-- Rapid Spin
-- Ice Shard
-- Iron Head
-- Icicle Crash
-
 Gogoat
-Level: 51
+Level: 55
 Mild Nature
 Ability: Grass Pelt
 IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
 - Synthesis
-- Seed Bomb
+- Leaf Blade
 - Horn Leech
 - Stomping Tantrum
 
-Golem-Alola
-Level: 51
-Adamant Nature
-Ability: Magnet Pull
-IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
-- Thunder Wave
-- Rock Blast
-- Explosion
-- Thunder Punch
+Empoleon
+Level: 55
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Flash Cannon
 
 Heracross
-Level: 51
+Level: 55
 Serious Nature
 Ability: Guts
 IVs: 16 HP / 27 Atk / 31 Def / 31 SpA / 26 SpD / 31 Spe
@@ -60,7 +50,7 @@ IVs: 16 HP / 27 Atk / 31 Def / 31 SpA / 26 SpD / 31 Spe
 - Throat Chop
 
 Obstagoon
-Level: 51
+Level: 55
 Bashful Nature
 Ability: Guts
 IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
@@ -70,7 +60,7 @@ IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
 - Obstruct
 
 Qwilfish
-Level: 51
+Level: 55
 Lonely Nature
 Ability: Swift Swim
 IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
@@ -80,17 +70,17 @@ IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
 - Aqua Jet
 
 Coalossal
-Level: 51
+Level: 55
 Timid Nature
 Ability: Heatproof
 IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
 - Heat Crash
 - Rapid Spin
 - Rock Blast
-- Rock Tomb
+- Stone Edge
 
 Beedrill
-Level: 51
+Level: 55
 Mild Nature
 Ability: Swarm
 IVs: 13 HP / 10 Atk / 10 Def / 27 SpA / 24 SpD / 0 Spe
@@ -100,7 +90,7 @@ IVs: 13 HP / 10 Atk / 10 Def / 27 SpA / 24 SpD / 0 Spe
 - Pin Missile
 
 Alakazam
-Level: 51
+Level: 55
 Sassy Nature
 Ability: Synchronize
 IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
@@ -109,38 +99,8 @@ IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
 - Psyshock
 - Recover
 
-Mr. Rime
-Level: 51
-Calm Nature
-Ability: Tangled Feet
-IVs: 5 HP / 27 Atk / 23 Def / 10 SpA / 11 SpD / 17 Spe
-- Encore
-- Psychic
-- Freeze-Dry
-- Protect
-
-Houndoom
-Level: 51
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Flamethrower
-- Dark Pulse
-- Fire Blast
-- Bite
-
-Floatzel
-Level: 51
-Docile Nature
-Ability: Swift Swim
-IVs: 26 HP / 30 Atk / 28 Def / 13 SpA / 5 SpD / 25 Spe
-- Aqua Tail
-- Ice Spinner
-- Flip Turn
-- Fake Out
-
 Bellibolt
-Level: 51
+Level: 55
 Adamant Nature
 Ability: Static
 IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
@@ -150,7 +110,7 @@ IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
 - Muddy Water
 
 Magnezone
-Level: 51
+Level: 55
 Lonely Nature
 Ability: Sturdy
 IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
@@ -159,22 +119,62 @@ IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
 - Spark
 - Tri Attack
 
+Golem-Alola
+Level: 55
+Adamant Nature
+Ability: Magnet Pull
+IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
+- Thunder Wave
+- Rock Blast
+- Explosion
+- Thunder Punch
+
+Sandslash-Alola
+Level: 55
+Lax Nature
+Ability: Slush Rush
+IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
+- Rapid Spin
+- Ice Shard
+- Iron Head
+- Icicle Crash
+
 Duraludon
-Level: 51
+Level: 55
 Bold Nature
 Ability: Light Metal
 IVs: 29 HP / 19 Atk / 15 Def / 1 SpA / 11 SpD / 8 Spe
 - Rock Smash
 - Dragon Pulse
-- Flash Cannon
+- Polarity Pulse
 - Breaking Swipe
 
-Empoleon
-Level: 51
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Brine
-- Icy Wind
-- Aqua Jet
-- Flash Cannon
+Mr. Rime
+Level: 55
+Calm Nature
+Ability: Tangled Feet
+IVs: 5 HP / 27 Atk / 23 Def / 10 SpA / 11 SpD / 17 Spe
+- Encore
+- Psychic
+- Freeze-Dry
+- Protect
+
+Houndoom
+Level: 55
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Flamethrower
+- Dark Pulse
+- Fire Blast
+- Foul Play
+
+Floatzel
+Level: 55
+Docile Nature
+Ability: Swift Swim
+IVs: 26 HP / 30 Atk / 28 Def / 13 SpA / 5 SpD / 25 Spe
+- Aqua Tail
+- Ice Spinner
+- Flip Turn
+- Fake Out
