@@ -395684,3 +395684,1519 @@ Set up score for Sandslash (0): 0
 ===== Player won =====
 
      => Pokemon Chosen: HERACROSS
+Roles for MRMIME: [:SCREENS]
+Roles for ZOROARK: [:SPECIALBREAKER]
+Roles for SLOWBRO: [:SPECIALBREAKER]
+Roles for HAWLUCHA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Mr. Mime!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Mr. Mime (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mr. Mime (1): 0
+Set up score for Mr. Mime (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (14)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Mr. Mime (1) is considering using Freeze-Dry (1) against Archeops (0)...
+     Mr. Mime (1)'s highest damaging move vs Archeops: Freeze-Dry
+     + 4 to prioritize highest damaging move
+[AI] Mr. Mime (1) is considering using Psychic (1) against Archeops (0)...
+     Mr. Mime (1)'s highest damaging move vs Archeops: Freeze-Dry
+[AI] Mr. Mime (1) is considering using Reflect (4)...
+     + 10 based on enemy and physical enemy count
+[AI] Mr. Mime (1) is considering using Light Screen (4)...
+     + 8 based on enemy and special enemy count
+[AI] Move choices for Mr. Mime (1):
+   *   0.0% to use Freeze-Dry (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Reflect: score 14
+   *   0.0% to use Light Screen: score 0
+   => will use Reflect
+
+[Round order] Archeops (0), the opposing Mr. Mime (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Mr. Mime lost 123 HP (123 -> 0)
+"It's super effective!"
+"The opposing Mr. Mime fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Zoroark] using Night Daze vs Archeops does a max of 93/153 damage
+     [Zoroark] using Flamethrower vs Archeops does a max of 33/153 damage
+     [Zoroark] using Extrasensory vs Archeops does a max of 58/153 damage
+     [Zoroark] using Sludge Bomb vs Archeops does a max of 33/153 damage
+     Archeops (0)'s best move: U-turn for 132/132 damage
+==============================
+     Archeops (0) speed (133) vs Hawlucha speed: 135
+     [Zoroark] -  7: for target slow kill
+     [Zoroark] final Switch score: -7
+==============================
+     [Slowbro] using Shell Side Arm vs Archeops does a max of 50/153 damage
+     [Slowbro] using Psychic vs Archeops does a max of 99/153 damage
+     [Slowbro] using Flamethrower vs Archeops does a max of 33/153 damage
+     Archeops (0)'s best move: Rock Slide for 87/170 damage
+==============================
+     Archeops (0) speed (133) vs Slowbro speed: 50
+     [Slowbro] +  3: for outdamage
+     [Slowbro] final Switch score: 3
+==============================
+     [Hawlucha] using Acrobatics vs Archeops does a max of 29/153 damage
+     [Hawlucha] using Close Combat vs Archeops does a max of 122/153 damage
+     [Hawlucha] using Throat Chop vs Archeops does a max of 54/153 damage
+     Archeops (0)'s best move: Dual Wingbeat for 186/153 damage
+==============================
+     Archeops (0) speed (133) vs Hawlucha speed: 138
+     [Hawlucha] -  7: for target slow kill
+     [Hawlucha] final Switch score: -7
+[AI] Highest move score (14) vs Switch In Score (3)
+"Team Galactic Grunt sent out Slowbro!"
+
+===== Round 2 =====
+
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Archeops (0)...
+     Slowbro (1)'s highest damaging move vs Archeops: Psychic
+[AI] Slowbro (1) is considering using Psychic (1) against Archeops (0)...
+     Slowbro (1)'s highest damaging move vs Archeops: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) is considering using Flamethrower (1) against Archeops (0)...
+     Slowbro (1)'s highest damaging move vs Archeops: Psychic
+[AI] Slowbro (1) is considering using Slack Off...
+     +  1: move will fail
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Slack Off: score 0
+   => will use Psychic (target 0)
+
+[Round order] Archeops (0), the opposing Slowbro (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Slowbro lost 42 HP (170 -> 128)
+"Archeops went back to Tyler!"
+"Go for it, Empoleon!"
+[Use move] The opposing Slowbro (1) used Psychic
+"The opposing Slowbro used Psychic!"
+[HP change] Empoleon lost 35 HP (162 -> 127)
+"It's not very effective..."
+
+[End of round 2]
+[HP change] The opposing Slowbro gained 10 HP (128 -> 138)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Empoleon (0)
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] Empoleon (0), the opposing Slowbro (1)
+
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slowbro lost 72 HP (138 -> 66)
+[Use move] The opposing Slowbro (1) used Slack Off
+"The opposing Slowbro used Slack Off!"
+[HP change] The opposing Slowbro gained 85 HP (66 -> 151)
+"The opposing Slowbro's HP was restored."
+
+[End of round 3]
+[HP change] The opposing Slowbro gained 10 HP (151 -> 161)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Empoleon (0)
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slowbro (1), Empoleon (0)
+
+[Ability triggered] The opposing Slowbro's Quick Draw
+"Quick Draw made the opposing Slowbro move faster!"
+[Use move] The opposing Slowbro (1) used Slack Off
+"The opposing Slowbro used Slack Off!"
+[HP change] The opposing Slowbro gained 9 HP (161 -> 170)
+"The opposing Slowbro's HP was restored."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slowbro lost 68 HP (170 -> 102)
+
+[End of round 4]
+[HP change] The opposing Slowbro gained 10 HP (102 -> 112)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Empoleon (0)
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] Empoleon (0), the opposing Slowbro (1)
+
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slowbro lost 68 HP (112 -> 44)
+[Use move] The opposing Slowbro (1) used Slack Off
+"The opposing Slowbro used Slack Off!"
+[HP change] The opposing Slowbro gained 85 HP (44 -> 129)
+"The opposing Slowbro's HP was restored."
+
+[End of round 5]
+[HP change] The opposing Slowbro gained 10 HP (129 -> 139)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Empoleon (0)
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] Empoleon (0), the opposing Slowbro (1)
+
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slowbro lost 75 HP (139 -> 64)
+[Use move] The opposing Slowbro (1) used Slack Off
+"The opposing Slowbro used Slack Off!"
+[HP change] The opposing Slowbro gained 85 HP (64 -> 149)
+"The opposing Slowbro's HP was restored."
+
+[End of round 6]
+[HP change] The opposing Slowbro gained 10 HP (149 -> 159)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Empoleon (0)
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slowbro (1), Empoleon (0)
+
+[Ability triggered] The opposing Slowbro's Quick Draw
+"Quick Draw made the opposing Slowbro move faster!"
+[Use move] The opposing Slowbro (1) used Slack Off
+"The opposing Slowbro used Slack Off!"
+[HP change] The opposing Slowbro gained 11 HP (159 -> 170)
+"The opposing Slowbro's HP was restored."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slowbro lost 70 HP (170 -> 100)
+
+[End of round 7]
+[HP change] The opposing Slowbro gained 10 HP (100 -> 110)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Empoleon (0)
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) cannot use Slack Off (no PP left)
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Slack Off: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Slowbro (1), Empoleon (0)
+
+[Ability triggered] The opposing Slowbro's Quick Draw
+"Quick Draw made the opposing Slowbro move faster!"
+[Use move] The opposing Slowbro (1) used Flamethrower
+"The opposing Slowbro used Flamethrower!"
+[HP change] Empoleon lost 47 HP (127 -> 80)
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slowbro lost 73 HP (110 -> 37)
+
+[End of round 8]
+[HP change] The opposing Slowbro gained 10 HP (37 -> 47)
+"The opposing Slowbro restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Empoleon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Slowbro (1): 0
+Set up score for Slowbro (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowbro (1) is considering using Shell Side Arm (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowbro (1) is considering using Psychic (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowbro (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowbro (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowbro (1) cannot use Slack Off (no PP left)
+[AI] Move choices for Slowbro (1):
+   *   0.0% to use Shell Side Arm (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Slack Off: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Empoleon (0), the opposing Slowbro (1)
+
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Slowbro lost 47 HP (47 -> 0)
+"The opposing Slowbro fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Empoleon (0)
+==============================
+     [Zoroark] using Night Daze vs Empoleon does a max of 69/80 damage
+     [Zoroark] using Flamethrower vs Empoleon does a max of 49/80 damage
+     [Zoroark] using Extrasensory vs Empoleon does a max of 22/80 damage
+     Empoleon (0)'s best move: Flash Cannon for 87/132 damage
+==============================
+     Empoleon (0) speed (73) vs Hawlucha speed: 135
+     [Zoroark] +  6: for fast 2HKO
+     [Zoroark] final Switch score: 6
+==============================
+     [Hawlucha] using Acrobatics vs Empoleon does a max of 20/80 damage
+     [Hawlucha] using Close Combat vs Empoleon does a max of 165/80 damage
+     [Hawlucha] using Throat Chop vs Empoleon does a max of 37/80 damage
+     Empoleon (0)'s best move: Flash Cannon for 83/153 damage
+==============================
+     Empoleon (0) speed (73) vs Hawlucha speed: 138
+     [Hawlucha] + 12: for fast kill
+     [Hawlucha] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Team Galactic Grunt sent out Hawlucha!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Hawlucha (1): 0
+Set up score for Hawlucha (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hawlucha (1) is considering using Acrobatics (1) against Empoleon (0)...
+     Hawlucha (1)'s highest damaging move vs Empoleon: Close Combat
+[AI] Hawlucha (1) is considering using Close Combat (1) against Empoleon (0)...
+     Hawlucha (1)'s highest damaging move vs Empoleon: Close Combat
+      + 20 for fast kill
+[AI] Hawlucha (1) is considering using Throat Chop (1) against Empoleon (0)...
+     Hawlucha (1)'s highest damaging move vs Empoleon: Close Combat
+[AI] Hawlucha (1) is considering using Bulk Up (4)...
+[AI] Move choices for Hawlucha (1):
+   *   0.0% to use Acrobatics (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Hawlucha (1), Empoleon (0)
+
+"OK, Empoleon! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Hawlucha (1) used Close Combat
+"The opposing Hawlucha used Close Combat!"
+[HP change] Chimecho lost 25 HP (159 -> 134)
+"It's not very effective..."
+[Stat change] The opposing Hawlucha's Defense changed by -1 (0 -> -1)
+"The opposing Hawlucha's Defense fell!"
+[Stat change] The opposing Hawlucha's Special Defense changed by -1 (0 -> -1)
+"The opposing Hawlucha's Special Defense fell!"
+"The opposing Hawlucha returned its status to normal using its White Herb!"
+[Item consumed] The opposing Hawlucha consumed its held White Herb
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Hawlucha (1): 0
+Set up score for Hawlucha (1): 0
+     [Switch AI] +5 Party member [Zoroark] is immune to strongest move against Hawlucha (1)
+     [Switch AI] -10 Not wasting Unburden
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hawlucha (1) is considering using Acrobatics (1) against Chimecho (0)...
+     Hawlucha (1)'s highest damaging move vs Chimecho: Acrobatics
+     + 4 to prioritize highest damaging move
+[AI] Hawlucha (1) is considering using Close Combat (1) against Chimecho (0)...
+     Hawlucha (1)'s highest damaging move vs Chimecho: Acrobatics
+[AI] Hawlucha (1) is considering using Throat Chop (1) against Chimecho (0)...
+     Hawlucha (1)'s highest damaging move vs Chimecho: Acrobatics
+[AI] Hawlucha (1) is considering using Bulk Up (4)...
+[AI] Move choices for Hawlucha (1):
+   * 100.0% to use Acrobatics (target 0): score 5
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Throat Chop (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Acrobatics (target 0)
+
+[Round order] The opposing Hawlucha (1), Chimecho (0)
+
+[Use move] The opposing Hawlucha (1) used Acrobatics
+"The opposing Hawlucha used Acrobatics!"
+[HP change] Chimecho lost 82 HP (134 -> 52)
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Hawlucha lost 153 HP (153 -> 0)
+"It's super effective!"
+"The opposing Hawlucha fainted!"
+
+[End of round 11]
+Trick Room Turns: 0
+==============================
+     [Zoroark] using Night Daze vs Chimecho does a max of 71/52 damage
+     [Zoroark] using Flamethrower vs Chimecho does a max of 50/52 damage
+     [Zoroark] using Extrasensory vs Chimecho does a max of 23/52 damage
+     [Zoroark] using Sludge Bomb vs Chimecho does a max of 100/52 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 192/132 damage
+==============================
+     Chimecho (0) speed (98) vs Zoroark speed: 135
+     [Zoroark] + 12: for fast kill
+     [Zoroark] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Team Galactic Grunt sent out Zoroark!"
+
+===== Round 12 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zoroark (1) is considering using Night Daze (1) against Chimecho (0)...
+     Zoroark (1)'s highest damaging move vs Chimecho: Sludge Bomb
+      + 20 for fast kill
+[AI] Zoroark (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Zoroark (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Zoroark (1) is considering using Extrasensory (1) against Chimecho (0)...
+     Zoroark (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Zoroark (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Zoroark (1)'s highest damaging move vs Chimecho: Sludge Bomb
+      + 20 for fast kill
+[AI] Move choices for Zoroark (1):
+   *  50.0% to use Night Daze (target 0): score 21
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Extrasensory (target 0): score 0
+   *  50.0% to use Sludge Bomb (target 0): score 21
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Zoroark (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Zoroark (1) used Sludge Bomb
+"The opposing Zoroark used Sludge Bomb!"
+[HP change] Obstagoon lost 50 HP (157 -> 107)
+"Obstagoon was poisoned!"
+
+[End of round 12]
+[HP change] Obstagoon lost 19 HP (107 -> 88)
+"Obstagoon was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zoroark (1) is considering using Night Daze (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Zoroark (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Zoroark (1) is considering using Extrasensory (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Zoroark (1) is considering using Sludge Bomb (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Move choices for Zoroark (1):
+   *   0.0% to use Night Daze (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Extrasensory (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Zoroark (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Zoroark lost 44 HP (132 -> 88)
+"It's not very effective..."
+[Use move] The opposing Zoroark (1) used Flamethrower
+"The opposing Zoroark used Flamethrower!"
+[HP change] Obstagoon lost 44 HP (88 -> 44)
+
+[End of round 13]
+[HP change] Obstagoon lost 19 HP (44 -> 25)
+"Obstagoon was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zoroark (1) is considering using Night Daze (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+      + 20 for fast kill
+[AI] Zoroark (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+      + 20 for fast kill
+[AI] Zoroark (1) is considering using Extrasensory (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Zoroark (1) is considering using Sludge Bomb (1) against Obstagoon (0)...
+     Zoroark (1)'s highest damaging move vs Obstagoon: Flamethrower
+      + 20 for fast kill
+[AI] Move choices for Zoroark (1):
+   *  33.3% to use Night Daze (target 0): score 21
+   *  33.3% to use Flamethrower (target 0): score 21
+   *   0.0% to use Extrasensory (target 0): score 0
+   *  33.3% to use Sludge Bomb (target 0): score 21
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Zoroark (1), Obstagoon (0)
+
+"Good job, Obstagoon! Come back!"
+"Go for it, Golem!"
+[Use move] The opposing Zoroark (1) used Sludge Bomb
+"The opposing Zoroark used Sludge Bomb!"
+[HP change] Golem lost 34 HP (158 -> 124)
+"It's not very effective..."
+"Golem was poisoned!"
+
+[End of round 14]
+[HP change] Golem lost 19 HP (124 -> 105)
+"Golem was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zoroark (1) is considering using Night Daze (1) against Golem (0)...
+     Zoroark (1)'s highest damaging move vs Golem: Night Daze
+     + 4 to prioritize highest damaging move
+[AI] Zoroark (1) is considering using Flamethrower (1) against Golem (0)...
+     Zoroark (1)'s highest damaging move vs Golem: Night Daze
+[AI] Zoroark (1) is considering using Extrasensory (1) against Golem (0)...
+     Zoroark (1)'s highest damaging move vs Golem: Night Daze
+[AI] Zoroark (1) is considering using Sludge Bomb (1) against Golem (0)...
+     Zoroark (1)'s highest damaging move vs Golem: Night Daze
+[AI] Move choices for Zoroark (1):
+   * 100.0% to use Night Daze (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Extrasensory (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   => will use Night Daze (target 0)
+
+[Round order] The opposing Zoroark (1), Golem (0)
+
+[Use move] The opposing Zoroark (1) used Night Daze
+"The opposing Zoroark used Night Daze!"
+[HP change] Golem lost 102 HP (105 -> 3)
+[Use move] Golem (0) used Thunder Wave
+"Golem used Thunder Wave!"
+"The opposing Zoroark is paralyzed! It may be unable to move!"
+
+[End of round 15]
+[HP change] Golem lost 3 HP (3 -> 0)
+"Golem was hurt by poison!"
+"Golem fainted!"
+Trick Room Turns: 0
+"Go for it, Archeops!"
+
+===== Round 16 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zoroark (1) is considering using Night Daze (1) against Archeops (0)...
+     Zoroark (1)'s highest damaging move vs Archeops: Night Daze
+     + 4 to prioritize highest damaging move
+[AI] Zoroark (1) is considering using Flamethrower (1) against Archeops (0)...
+     Zoroark (1)'s highest damaging move vs Archeops: Night Daze
+[AI] Zoroark (1) is considering using Extrasensory (1) against Archeops (0)...
+     Zoroark (1)'s highest damaging move vs Archeops: Night Daze
+[AI] Zoroark (1) is considering using Sludge Bomb (1) against Archeops (0)...
+     Zoroark (1)'s highest damaging move vs Archeops: Night Daze
+[AI] Move choices for Zoroark (1):
+   * 100.0% to use Night Daze (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Extrasensory (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   => will use Night Daze (target 0)
+
+[Round order] Archeops (0), the opposing Zoroark (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Zoroark lost 88 HP (88 -> 0)
+"It's super effective!"
+"The opposing Zoroark fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,600 for winning!"
+Roles for PYROAR: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for KINGAMBIT: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SLOWKING: [:SPECIALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Pyroar!"
+"Go! Archeops!"
+[Round order] The opposing Pyroar (1), Archeops (0)
+[Ability triggered] The opposing Pyroar's Lion's Pride
+"Your team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+Set up score for Pyroar (1): 0
+Set up score for Pyroar (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pyroar (1) is considering using Torch Song (1) against Archeops (0)...
+     Pyroar (1)'s highest damaging move vs Archeops: Dark Pulse
+[AI] Pyroar (1) is considering using Hyper Voice (1)...
+     Pyroar (1)'s highest damaging move vs Archeops: Dark Pulse
+[AI] Pyroar (1) is considering using Dark Pulse (1) against Archeops (0)...
+     Pyroar (1)'s highest damaging move vs Archeops: Dark Pulse
+     + 4 to prioritize highest damaging move
+[AI] Pyroar (1) is considering using Mach Pulse (1) against Archeops (0)...
+     Pyroar (1)'s highest damaging move vs Archeops: Dark Pulse
+[AI] Move choices for Pyroar (1):
+   *   0.0% to use Torch Song (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Dark Pulse (target 0): score 5
+   *   0.0% to use Mach Pulse (target 0): score 0
+   => will use Dark Pulse (target 0)
+
+[Round order] The opposing Pyroar (1), Archeops (0)
+
+[Use move] The opposing Pyroar (1) used Dark Pulse
+"The opposing Pyroar used Dark Pulse!"
+[HP change] Archeops lost 47 HP (153 -> 106)
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Pyroar lost 158 HP (158 -> 0)
+"It's super effective!"
+"The opposing Pyroar fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Kingambit] using Kowtow Cleave vs Archeops does a max of 119/106 damage
+     [Kingambit] using Iron Head vs Archeops does a max of 222/106 damage
+     [Kingambit] using Sucker Punch vs Archeops does a max of 98/106 damage
+     Archeops (0)'s best move: U-turn for 37/175 damage
+==============================
+     Archeops (0) speed (133) vs Kingambit speed: 70
+     [Kingambit] +  9: for slow kill
+     [Kingambit] final Switch score: 9
+==============================
+     [Slowking] using Eerie Spell vs Archeops does a max of 96/106 damage
+     [Slowking] using Sludge Bomb vs Archeops does a max of 53/106 damage
+     [Slowking] using Flamethrower vs Archeops does a max of 36/106 damage
+     [Slowking] using Scald vs Archeops does a max of 128/106 damage
+     Archeops (0)'s best move: Rock Slide for 99/170 damage
+==============================
+     Archeops (0) speed (133) vs Slowking speed: 50
+     [Slowking] +  9: for slow kill
+     [Slowking] final Switch score: 9
+==============================
+     [Slaking] using Retaliate vs Archeops does a max of 52/106 damage
+     [Slaking] using Night Slash vs Archeops does a max of 69/106 damage
+     [Slaking] using Play Rough vs Archeops does a max of 88/106 damage
+     Archeops (0)'s best move: Rock Slide for 83/225 damage
+==============================
+     Archeops (0) speed (133) vs Slaking speed: 132
+     [Slaking] +  3: for outdamage
+     [Slaking] final Switch score: 3
+[AI] Highest move score (10) vs Switch In Score (9)
+"Team Galactic Grunt sent out Kingambit!"
+[Ability triggered] The opposing Kingambit's Supreme Overlord
+"The opposing Kingambit gained strength from the fallen!"
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kingambit (1): 0
+Set up score for Kingambit (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingambit (1) is considering using Kowtow Cleave (1) against Archeops (0)...
+     Kingambit (1)'s highest damaging move vs Archeops: Iron Head
+      + 17 for slow kill
+[AI] Kingambit (1) is considering using Iron Head (1) against Archeops (0)...
+     Kingambit (1)'s highest damaging move vs Archeops: Iron Head
+      + 17 for slow kill
+[AI] Kingambit (1) is considering using Sucker Punch (1) against Archeops (0)...
+     Kingambit (1)'s highest damaging move vs Archeops: Iron Head
+     + 2 for factoring in 0 Status Moves from Archeops (0)
+     no added score due to target having faster priority or being slower with no priority
+      + 17 for slow kill
+[AI] Kingambit (1) is considering using Swords Dance (4)...
+[AI] Move choices for Kingambit (1):
+   *   0.0% to use Kowtow Cleave (target 0): score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 20
+   *   0.0% to use Swords Dance: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Kingambit (1), Archeops (0)
+
+"Archeops, come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Kingambit (1) used Sucker Punch
+"The opposing Kingambit used Sucker Punch!"
+"But it failed!"
+[Move failed] In function code FailsIfTargetActed's def pbFailsAgainstTarget?
+
+[End of round 2]
+[HP change] Heracross lost 9 HP (150 -> 141)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Kingambit (1): 0
+Set up score for Kingambit (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (15)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingambit (1) is considering using Kowtow Cleave (1) against Heracross (0)...
+     Kingambit (1)'s highest damaging move vs Heracross: Iron Head
+[AI] Kingambit (1) is considering using Iron Head (1) against Heracross (0)...
+     Kingambit (1)'s highest damaging move vs Heracross: Iron Head
+     + 4 to prioritize highest damaging move
+[AI] Kingambit (1) is considering using Sucker Punch (1) against Heracross (0)...
+     Kingambit (1)'s highest damaging move vs Heracross: Iron Head
+     + 2 for factoring in 0 Status Moves from Heracross (0)
+     + 3 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Kingambit (1) is considering using Swords Dance (4)...
+[AI] Move choices for Kingambit (1):
+   *   0.0% to use Kowtow Cleave (target 0): score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 15
+   *   0.0% to use Swords Dance: score 0
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Kingambit (1), Heracross (0)
+
+[Use move] The opposing Kingambit (1) used Sucker Punch
+"The opposing Kingambit used Sucker Punch!"
+[HP change] Heracross lost 43 HP (141 -> 98)
+"It's not very effective..."
+[Use move] Heracross (0) used Brick Break
+"Heracross used Brick Break!"
+[HP change] The opposing Kingambit lost 159 HP (175 -> 16)
+"It's super effective!"
+"The Chople Berry weakened the damage to the opposing Kingambit!"
+[Item consumed] The opposing Kingambit consumed its held Chople Berry
+
+[End of round 3]
+[HP change] Heracross lost 9 HP (98 -> 89)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kingambit (1): 0
+Set up score for Kingambit (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingambit (1) is considering using Kowtow Cleave (1) against Heracross (0)...
+     Kingambit (1)'s highest damaging move vs Heracross: Iron Head
+[AI] Kingambit (1) is considering using Iron Head (1) against Heracross (0)...
+     Kingambit (1)'s highest damaging move vs Heracross: Iron Head
+      + 17 for slow kill
+[AI] Kingambit (1) is considering using Sucker Punch (1) against Heracross (0)...
+     Kingambit (1)'s highest damaging move vs Heracross: Iron Head
+     + 2 for factoring in 0 Status Moves from Heracross (0)
+     + 3 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Kingambit (1) is considering using Swords Dance (4)...
+[AI] Move choices for Kingambit (1):
+   *   0.0% to use Kowtow Cleave (target 0): score 0
+   * 100.0% to use Iron Head (target 0): score 18
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Iron Head (target 0)
+
+[Round order] Heracross (0), the opposing Kingambit (1)
+
+[Use move] Heracross (0) used Brick Break
+"Heracross used Brick Break!"
+[HP change] The opposing Kingambit lost 16 HP (16 -> 0)
+"It's super effective!"
+"The opposing Kingambit fainted!"
+"Heracross got 1 Exp. Points!"
+
+[End of round 4]
+[HP change] Heracross lost 9 HP (89 -> 80)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Slowking] using Eerie Spell vs Heracross does a max of 135/80 damage
+     [Slowking] using Sludge Bomb vs Heracross does a max of 77/80 damage
+     [Slowking] using Flamethrower vs Heracross does a max of 102/80 damage
+     [Slowking] using Scald vs Heracross does a max of 45/80 damage
+     Heracross (0)'s best move: Throat Chop for 158/170 damage
+==============================
+     Heracross (0) speed (107) vs Slowking speed: 50
+     [Slowking] +  9: for slow kill
+     [Slowking] final Switch score: 9
+==============================
+     [Slaking] using Retaliate vs Heracross does a max of 89/80 damage
+     [Slaking] using Night Slash vs Heracross does a max of 30/80 damage
+     [Slaking] using Play Rough vs Heracross does a max of 150/80 damage
+     Heracross (0)'s best move: Brick Break for 186/225 damage
+==============================
+     Heracross (0) speed (107) vs Slaking speed: 132
+     [Slaking] + 12: for fast kill
+     [Slaking] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Team Galactic Grunt sent out Slaking!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Slaking (1): 0
+Set up score for Slaking (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Heracross (0)...
+     Slaking (1)'s highest damaging move vs Heracross: Retaliate
+      + 20 for fast kill
+[AI] Slaking (1) is considering using Night Slash (1) against Heracross (0)...
+     Slaking (1)'s highest damaging move vs Heracross: Retaliate
+[AI] Slaking (1) is considering using Play Rough (1) against Heracross (0)...
+     Slaking (1)'s highest damaging move vs Heracross: Retaliate
+      + 20 for fast kill
+[AI] Slaking (1) is considering using Slack Off...
+     +  1: move will fail
+[AI] Move choices for Slaking (1):
+   *  50.0% to use Retaliate (target 0): score 21
+   *   0.0% to use Night Slash (target 0): score 0
+   *  50.0% to use Play Rough (target 0): score 21
+   *   0.0% to use Slack Off: score 0
+   => will use Retaliate (target 0)
+
+[Round order] The opposing Slaking (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Slaking (1) used Retaliate
+"The opposing Slaking used Retaliate!"
+[HP change] Duraludon lost 58 HP (147 -> 89)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Slaking (1): 0
+Set up score for Slaking (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Duraludon (0)...
+     Slaking (1)'s highest damaging move vs Duraludon: Play Rough
+[AI] Slaking (1) is considering using Night Slash (1) against Duraludon (0)...
+     Slaking (1)'s highest damaging move vs Duraludon: Play Rough
+[AI] Slaking (1) is considering using Play Rough (1) against Duraludon (0)...
+     Slaking (1)'s highest damaging move vs Duraludon: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Slack Off...
+     +  1: move will fail
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Slack Off: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Slaking (1), Duraludon (0)
+
+[Use move] The opposing Slaking (1) used Play Rough
+[Ability triggered] The opposing Slaking's Truant
+"The opposing Slaking is loafing around!"
+[Use move] Duraludon (0) used Rock Smash
+"Duraludon used Rock Smash!"
+[HP change] The opposing Slaking lost 29 HP (225 -> 196)
+"It's super effective!"
+[Stat change] The opposing Slaking's Defense changed by -1 (0 -> -1)
+"The opposing Slaking's Defense fell!"
+"The opposing Slaking is switched out with the Eject Button!"
+[Item consumed] The opposing Slaking consumed its held Eject Button
+==============================
+     [Slowking] using Eerie Spell vs Duraludon does a max of 63/89 damage
+     [Slowking] using Flamethrower vs Duraludon does a max of 94/89 damage
+     [Slowking] using Scald vs Duraludon does a max of 42/89 damage
+     Duraludon (0)'s best move: Breaking Swipe for 42/170 damage
+==============================
+     Duraludon (0) speed (95) vs Slowking speed: 50
+     [Slowking] +  9: for slow kill
+     [Slowking] final Switch score: 9
+[AI] Highest move score (7) vs Switch In Score (9)
+"Team Galactic Grunt sent out Slowking!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Duraludon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowking (1) is considering using Eerie Spell (1) against Duraludon (0)...
+     Slowking (1)'s highest damaging move vs Duraludon: Flamethrower
+[AI] Slowking (1) is considering using Sludge Bomb (1) against Duraludon (0)...
+     Slowking (1)'s highest damaging move vs Duraludon: Flamethrower
+     move will not affect Duraludon (0)
+     -  1: move will fail
+[AI] Slowking (1) is considering using Flamethrower (1) against Duraludon (0)...
+     Slowking (1)'s highest damaging move vs Duraludon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowking (1) is considering using Scald (1) against Duraludon (0)...
+     Slowking (1)'s highest damaging move vs Duraludon: Flamethrower
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Eerie Spell (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Duraludon (0), the opposing Slowking (1)
+
+"Duraludon, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Slowking (1) used Flamethrower
+"The opposing Slowking used Flamethrower!"
+[HP change] Obstagoon lost 53 HP (157 -> 104)
+
+[End of round 7]
+[HP change] Obstagoon lost 9 HP (104 -> 95)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowking (1) is considering using Eerie Spell (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Slowking (1) is considering using Sludge Bomb (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Slowking (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+[AI] Slowking (1) is considering using Scald (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Eerie Spell (target 0): score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Scald (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Obstagoon (0), the opposing Slowking (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Slowking lost 126 HP (170 -> 44)
+"It's super effective!"
+[Use move] The opposing Slowking (1) used Sludge Bomb
+"The opposing Slowking used Sludge Bomb!"
+[HP change] Obstagoon lost 74 HP (95 -> 21)
+
+[End of round 8]
+[HP change] Obstagoon lost 9 HP (21 -> 12)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowking (1) is considering using Eerie Spell (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Slowking (1) is considering using Sludge Bomb (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+      + 17 for slow kill
+[AI] Slowking (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+      + 17 for slow kill
+[AI] Slowking (1) is considering using Scald (1) against Obstagoon (0)...
+     Slowking (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+      + 17 for slow kill
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Eerie Spell (target 0): score 0
+   *  33.3% to use Sludge Bomb (target 0): score 18
+   *  33.3% to use Flamethrower (target 0): score 18
+   *  33.3% to use Scald (target 0): score 18
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Slowking (1)
+
+"Good job, Obstagoon! Come back!"
+"Just a little more! Hang in there, Empoleon!"
+[Use move] The opposing Slowking (1) used Flamethrower
+"The opposing Slowking used Flamethrower!"
+[HP change] Empoleon lost 46 HP (162 -> 116)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Empoleon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slowking (1) is considering using Eerie Spell (1) against Empoleon (0)...
+     Slowking (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Slowking (1) is considering using Sludge Bomb (1) against Empoleon (0)...
+     Slowking (1)'s highest damaging move vs Empoleon: Flamethrower
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Slowking (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Slowking (1)'s highest damaging move vs Empoleon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Slowking (1) is considering using Scald (1) against Empoleon (0)...
+     Slowking (1)'s highest damaging move vs Empoleon: Flamethrower
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Eerie Spell (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Empoleon (0), the opposing Slowking (1)
+
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Slowking lost 44 HP (44 -> 0)
+"The opposing Slowking fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     move will not affect Empoleon (0)
+==============================
+     [Slaking] using Retaliate vs Empoleon does a max of 35/116 damage
+     [Slaking] using Night Slash vs Empoleon does a max of 47/116 damage
+     [Slaking] using Play Rough vs Empoleon does a max of 30/116 damage
+     Empoleon (0)'s best move: Flash Cannon for 80/196 damage
+==============================
+     Empoleon (0) speed (73) vs Slaking speed: 132
+     [Slaking] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Team Galactic Grunt sent out Slaking!"
+
+===== Round 11 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Retaliate
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Retaliate
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Retaliate
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slaking (1), Empoleon (0)
+
+[Use move] The opposing Slaking (1) used Slack Off
+"The opposing Slaking used Slack Off!"
+[HP change] The opposing Slaking gained 29 HP (196 -> 225)
+"The opposing Slaking's HP was restored."
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Slaking lost 34 HP (225 -> 191)
+[Stat change] The opposing Slaking's Speed changed by -1 (0 -> -1)
+"The opposing Slaking's Speed fell!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slaking (1), Empoleon (0)
+
+[Use move] The opposing Slaking (1) used Slack Off
+[Ability triggered] The opposing Slaking's Truant
+"The opposing Slaking is loafing around!"
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slaking lost 76 HP (191 -> 115)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slaking (1), Empoleon (0)
+
+[Use move] The opposing Slaking (1) used Slack Off
+"The opposing Slaking used Slack Off!"
+[HP change] The opposing Slaking gained 110 HP (115 -> 225)
+"The opposing Slaking's HP was restored."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slaking lost 73 HP (225 -> 152)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slaking (1), Empoleon (0)
+
+[Use move] The opposing Slaking (1) used Slack Off
+[Ability triggered] The opposing Slaking's Truant
+"The opposing Slaking is loafing around!"
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slaking lost 72 HP (152 -> 80)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] The opposing Slaking (1), Empoleon (0)
+
+[Use move] The opposing Slaking (1) used Slack Off
+"The opposing Slaking used Slack Off!"
+[HP change] The opposing Slaking gained 113 HP (80 -> 193)
+"The opposing Slaking's HP was restored."
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Slaking lost 35 HP (193 -> 158)
+[Stat change] The opposing Slaking's Speed changed by -1 (-1 -> -2)
+"The opposing Slaking's Speed fell!"
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] Empoleon (0), the opposing Slaking (1)
+
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Slaking lost 73 HP (158 -> 85)
+[Use move] The opposing Slaking (1) used Slack Off
+[Ability triggered] The opposing Slaking's Truant
+"The opposing Slaking is loafing around!"
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Slaking (1) is considering using Retaliate (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Night Slash (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Slaking (1) is considering using Play Rough (1) against Empoleon (0)...
+     Slaking (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Slaking (1) is considering using Slack Off (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Slaking (1):
+   *   0.0% to use Retaliate (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Slack Off: score 7
+   => will use Slack Off
+
+[Round order] Empoleon (0), the opposing Slaking (1)
+
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Slaking lost 85 HP (85 -> 0)
+"The opposing Slaking fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,600 for winning!"
