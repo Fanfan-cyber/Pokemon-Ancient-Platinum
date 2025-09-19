@@ -389030,3 +389030,2145 @@ Set up score for Chimecho (0): 0
 "Wow. You're great!"
 
 "You got $1,536 for winning!"
+Roles for MANECTRIC: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for WEAVILE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for WEEZING: [:NONE]
+Roles for TURTONATOR: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Alex!"
+"Policeman Alex sent out Manectric!"
+"Go! Toedscruel!"
+[Round order] The opposing Manectric (1), Toedscruel (0)
+[Ability triggered] The opposing Manectric's Intimidate
+[Stat change] Toedscruel's Attack changed by -1 (0 -> -1)
+"Toedscruel's Attack fell!"
+"The opposing Manectric floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+     move will not affect Toedscruel (0)
+     move will not affect Toedscruel (0)
+Set up score for Manectric (1): 0
+Set up score for Manectric (1): 0
+     [Switch AI] +5 Party member [Weezing] is immune to strongest move against Manectric (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toedscruel (0): 0
+     Threat Score for Toedscruel (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Toedscruel (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Manectric (1) is considering using Volt Switch (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+     move will not affect Toedscruel (0)
+     -  1: move will fail
+[AI] Manectric (1) is considering using Flamethrower (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Manectric (1) is considering using Signal Beam (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+[AI] Manectric (1) is considering using Thunderbolt (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+     move will not affect Toedscruel (0)
+     -  1: move will fail
+[AI] Move choices for Manectric (1):
+   *   0.0% to use Volt Switch (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Signal Beam (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Manectric (1), Toedscruel (0)
+
+[Use move] The opposing Manectric (1) used Flamethrower
+"The opposing Manectric used Flamethrower!"
+[HP change] Toedscruel lost 54 HP (151 -> 97)
+"It's super effective!"
+[Use move] Toedscruel (0) used Giga Drain
+"Toedscruel used Giga Drain!"
+[HP change] The opposing Manectric lost 57 HP (137 -> 80)
+"The opposing Manectric's Air Balloon popped!"
+[Item consumed] The opposing Manectric consumed its held Air Balloon
+"The opposing Manectric had its energy drained!"
+[HP change] Toedscruel gained 29 HP (97 -> 126)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Toedscruel (0)
+     move will not affect Toedscruel (0)
+Set up score for Manectric (1): 0
+Set up score for Manectric (1): 0
+     [Switch AI] +5 Party member [Weezing] is immune to strongest move against Manectric (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Toedscruel (0): 0
+     Threat Score for Toedscruel (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Manectric (1) is considering using Volt Switch (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+     move will not affect Toedscruel (0)
+     -  1: move will fail
+[AI] Manectric (1) is considering using Flamethrower (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Manectric (1) is considering using Signal Beam (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+[AI] Manectric (1) is considering using Thunderbolt (1) against Toedscruel (0)...
+     Manectric (1)'s highest damaging move vs Toedscruel: Flamethrower
+     move will not affect Toedscruel (0)
+     -  1: move will fail
+[AI] Move choices for Manectric (1):
+   *   0.0% to use Volt Switch (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Signal Beam (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Manectric (1), Toedscruel (0)
+
+[Use move] The opposing Manectric (1) used Flamethrower
+"The opposing Manectric used Flamethrower!"
+[HP change] Toedscruel lost 88 HP (126 -> 38)
+"A critical hit!"
+"It's super effective!"
+[HP change] Toedscruel gained 37 HP (38 -> 75)
+"Toedscruel restored its health using its Sitrus Berry!"
+[Item consumed] Toedscruel consumed its held Sitrus Berry
+[Use move] Toedscruel (0) used Scorching Sands
+"Toedscruel used Scorching Sands!"
+[HP change] The opposing Manectric lost 80 HP (80 -> 0)
+"It's super effective!"
+"The opposing Manectric fainted!"
+"Toedscruel got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     move will not affect Toedscruel (0)
+     move will not affect Toedscruel (0)
+==============================
+     [Weavile] using Ice Punch vs Toedscruel does a max of 360/75 damage
+     [Weavile] using Night Slash vs Toedscruel does a max of 84/75 damage
+     [Weavile] using Psycho Cut vs Toedscruel does a max of 56/75 damage
+     Toedscruel (0)'s best move: Giga Drain for 47/140 damage
+==============================
+     Toedscruel (0) speed (121) vs Weavile speed: 152
+     [Weavile] + 12: for fast kill
+     [Weavile] final Switch score: 12
+==============================
+     [Weezing] using Sludge Bomb vs Toedscruel does a max of 41/75 damage
+     [Weezing] using Strange Steam vs Toedscruel does a max of 41/75 damage
+     [Weezing] using Explosion vs Toedscruel does a max of 183/75 damage
+     Toedscruel (0)'s best move: Hex for 31/135 damage
+==============================
+     Toedscruel (0) speed (121) vs Weezing speed: 77
+     [Weezing] +  9: for slow kill
+     [Weezing] final Switch score: 9
+==============================
+     [Turtonator] using Flamethrower vs Toedscruel does a max of 84/75 damage
+     [Turtonator] using Draco Meteor vs Toedscruel does a max of 60/75 damage
+     [Turtonator] using Scorching Sands vs Toedscruel does a max of 11/75 damage
+     [Turtonator] using Body Press vs Toedscruel does a max of 77/75 damage
+     Toedscruel (0)'s best move: Scorching Sands for 87/130 damage
+==============================
+     Toedscruel (0) speed (121) vs Turtonator speed: 48
+     [Turtonator] +  9: for slow kill
+     [Turtonator] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Alex sent out Weavile!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Weavile (1): 0
+Set up score for Weavile (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Toedscruel (0): 0
+     Threat Score for Toedscruel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weavile (1) is considering using Ice Punch (1) against Toedscruel (0)...
+     Weavile (1)'s highest damaging move vs Toedscruel: Ice Punch
+      + 20 for fast kill
+[AI] Weavile (1) is considering using Night Slash (1) against Toedscruel (0)...
+     Weavile (1)'s highest damaging move vs Toedscruel: Ice Punch
+      + 20 for fast kill
+[AI] Weavile (1) is considering using Psycho Cut (1) against Toedscruel (0)...
+     Weavile (1)'s highest damaging move vs Toedscruel: Ice Punch
+[AI] Weavile (1) is considering using Swords Dance (4)...
+[AI] Move choices for Weavile (1):
+   *  50.0% to use Ice Punch (target 0): score 21
+   *  50.0% to use Night Slash (target 0): score 21
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Weavile (1), Toedscruel (0)
+
+"OK, Toedscruel! Come back!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Weavile (1) used Night Slash
+"The opposing Weavile used Night Slash!"
+[HP change] Empoleon lost 65 HP (162 -> 97)
+"A critical hit!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Weavile (1): 0
+Set up score for Weavile (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weavile (1) is considering using Ice Punch (1) against Empoleon (0)...
+     Weavile (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Weavile (1) is considering using Night Slash (1) against Empoleon (0)...
+     Weavile (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Weavile (1) is considering using Psycho Cut (1) against Empoleon (0)...
+     Weavile (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Weavile (1) is considering using Swords Dance (4)...
+[AI] Move choices for Weavile (1):
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Weavile (1), Empoleon (0)
+
+[Use move] The opposing Weavile (1) used Night Slash
+"The opposing Weavile used Night Slash!"
+[HP change] Empoleon lost 45 HP (97 -> 52)
+[HP change] Empoleon gained 40 HP (52 -> 92)
+"Empoleon restored its health using its Sitrus Berry!"
+[Item consumed] Empoleon consumed its held Sitrus Berry
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Weavile lost 128 HP (140 -> 12)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Weavile (1): 0
+Set up score for Weavile (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weavile (1) is considering using Ice Punch (1) against Empoleon (0)...
+     Weavile (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Weavile (1) is considering using Night Slash (1) against Empoleon (0)...
+     Weavile (1)'s highest damaging move vs Empoleon: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Weavile (1) is considering using Psycho Cut (1) against Empoleon (0)...
+     Weavile (1)'s highest damaging move vs Empoleon: Night Slash
+[AI] Weavile (1) is considering using Swords Dance (4)...
+[AI] Move choices for Weavile (1):
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   *   0.0% to use Psycho Cut (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Night Slash (target 0)
+
+[Round order] Empoleon (0), the opposing Weavile (1)
+
+[Use move] Empoleon (0) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[HP change] The opposing Weavile lost 12 HP (12 -> 0)
+"The opposing Weavile fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Weezing] using Strange Steam vs Empoleon does a max of 27/92 damage
+     [Weezing] using Explosion vs Empoleon does a max of 56/92 damage
+     Empoleon (0)'s best move: Flash Cannon for 156/135 damage
+==============================
+     Empoleon (0) speed (73) vs Weezing speed: 77
+     [Weezing] -  7: for target slow kill
+     [Weezing] final Switch score: -7
+==============================
+     [Turtonator] using Flamethrower vs Empoleon does a max of 57/92 damage
+     [Turtonator] using Draco Meteor vs Empoleon does a max of 41/92 damage
+     [Turtonator] using Scorching Sands vs Empoleon does a max of 60/92 damage
+     [Turtonator] using Body Press vs Empoleon does a max of 94/92 damage
+     Empoleon (0)'s best move: Brine for 56/130 damage
+==============================
+     Empoleon (0) speed (73) vs Turtonator speed: 48
+     [Turtonator] +  9: for slow kill
+     [Turtonator] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Policeman Alex sent out Turtonator!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Turtonator (1): 0
+Set up score for Turtonator (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtonator (1) is considering using Flamethrower (1) against Empoleon (0)...
+     Turtonator (1)'s highest damaging move vs Empoleon: Body Press
+[AI] Turtonator (1) is considering using Draco Meteor (1) against Empoleon (0)...
+     Turtonator (1)'s highest damaging move vs Empoleon: Body Press
+[AI] Turtonator (1) is considering using Scorching Sands (1) against Empoleon (0)...
+     Turtonator (1)'s highest damaging move vs Empoleon: Body Press
+[AI] Turtonator (1) is considering using Body Press (1) against Empoleon (0)...
+     Turtonator (1)'s highest damaging move vs Empoleon: Body Press
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Turtonator (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Draco Meteor (target 0): score 0
+   *   0.0% to use Scorching Sands (target 0): score 0
+   * 100.0% to use Body Press (target 0): score 5
+   => will use Body Press (target 0)
+
+[Round order] Empoleon (0), the opposing Turtonator (1)
+
+"Empoleon, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Turtonator (1) used Body Press
+"The opposing Turtonator used Body Press!"
+[HP change] Chimecho lost 14 HP (159 -> 145)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+Set up score for Turtonator (1): 0
+Set up score for Turtonator (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtonator (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Turtonator (1) is considering using Draco Meteor (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Turtonator (1) is considering using Scorching Sands (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Turtonator (1) is considering using Body Press (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+[AI] Move choices for Turtonator (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Draco Meteor (target 0): score 0
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Body Press (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Turtonator (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Turtonator lost 84 HP (130 -> 46)
+[Use move] The opposing Turtonator (1) used Flamethrower
+"The opposing Turtonator used Flamethrower!"
+[HP change] Chimecho lost 54 HP (145 -> 91)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Turtonator (1): 0
+Set up score for Turtonator (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtonator (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Turtonator (1) is considering using Draco Meteor (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Turtonator (1) is considering using Scorching Sands (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Turtonator (1) is considering using Body Press (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+[AI] Move choices for Turtonator (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Draco Meteor (target 0): score 0
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Body Press (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Turtonator (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 68 HP (91 -> 159)
+"Chimecho's HP was restored."
+[Use move] The opposing Turtonator (1) used Flamethrower
+"The opposing Turtonator used Flamethrower!"
+[HP change] Chimecho lost 56 HP (159 -> 103)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Turtonator (1): 0
+Set up score for Turtonator (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Turtonator (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Turtonator (1) is considering using Draco Meteor (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Turtonator (1) is considering using Scorching Sands (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Turtonator (1) is considering using Body Press (1) against Chimecho (0)...
+     Turtonator (1)'s highest damaging move vs Chimecho: Flamethrower
+[AI] Move choices for Turtonator (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Draco Meteor (target 0): score 0
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Body Press (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Turtonator (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Turtonator lost 46 HP (46 -> 0)
+"The opposing Turtonator fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+==============================
+     [Weezing] using Sludge Bomb vs Chimecho does a max of 111/103 damage
+     [Weezing] using Strange Steam vs Chimecho does a max of 56/103 damage
+     [Weezing] using Explosion vs Chimecho does a max of 142/103 damage
+     Chimecho (0)'s best move: Extrasensory for 171/135 damage
+==============================
+     Chimecho (0) speed (98) vs Weezing speed: 77
+     [Weezing] -  9: for target fast kill
+     [Weezing] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Policeman Alex sent out Weezing!"
+
+===== Round 10 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weezing (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+      + 17 for slow kill
+[AI] Weezing (1) is considering using Strange Steam (1) against Chimecho (0)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Weezing (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Weezing (1) is considering using Explosion (1)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     set to - 19 because we have a move that kills other than this
+     skipping remaining scoring for Explosion because we are last mon
+[AI] Move choices for Weezing (1):
+   * 100.0% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Strange Steam (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Chimecho (0), the opposing Weezing (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Weezing lost 135 HP (135 -> 0)
+"It's super effective!"
+"The opposing Weezing fainted!"
+
+===== Player won =====
+
+"You defeated Policeman Alex!"
+"Wow. You're great!"
+
+"You got $1,536 for winning!"
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 2 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 2 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 2 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Haxorus: Roseli Berry
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Item Check for Haxorus: Roseli Berry
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     =====> Item Check for Haxorus: Roseli Berry
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 2 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     =====> Item Check for Mightyena: Lum Berry
+
+**Exception: undefined method `pbGetBerryType' for #<Battle::AI::FakeMove>
+[Phantombass AI] 03_AI_Moves.rb:654:in `rough_damage'
+[Phantombass AI] 04_AI_Battler.rb:479:in `block in user_highest_damaging_move_non_explosive'
+[Phantombass AI] 04_AI_Battler.rb:474:in `each'
+[Phantombass AI] 04_AI_Battler.rb:474:in `user_highest_damaging_move_non_explosive'
+[Phantombass AI] 04_AI_Battler.rb:21:in `calc_highest_damage'
+[Phantombass AI] 03_AI_Moves.rb:228:in `set_up_move_check_target'
+[Phantombass AI] 03_AI_Moves.rb:253:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:251:in `each'
+[Phantombass AI] 03_AI_Moves.rb:251:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:117:in `block (2 levels) in pbGetMoveScores'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:117:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:474:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:474:in `each'
+001_Battle_Battler.rb:474:in `each_with_index'
+001_Battle_Battler.rb:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:1153:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:163:in `block in update'
+002_Scene_Map.rb:162:in `loop'
+002_Scene_Map.rb:162:in `update'
+002_Scene_Map.rb:234:in `block in main'
+002_Scene_Map.rb:231:in `loop'
+002_Scene_Map.rb:231:in `main'
+999_Main.rb:45:in `mainFunctionDebug'
+999_Main.rb:22:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:22:in `mainFunction'
+999_Main.rb:58:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:57:in `loop'
+999_Main.rb:57:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Haxorus: Roseli Berry
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Item Check for Mightyena: Lum Berry
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Item Check for Haxorus: Roseli Berry
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     =====> Item Check for Haxorus: Roseli Berry
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 2 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: 
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: 
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 207/145 damage
+==============================
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: 
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] -  7: for target slow kill
+     [Haxorus] final Switch score: -7
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 2 =====
+
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+
+**Exception: comparison of Symbol with 1.0 failed
+003_Type.rb:108:in `>'
+003_Type.rb:108:in `super_effective?'
+[Phantombass AI] 04_AI_Battler.rb:543:in `pbMoveTypeWeakeningBerryCalc'
+[Phantombass AI] 03_AI_Moves.rb:655:in `rough_damage'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:300:in `block (2 levels) in <main>'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:297:in `each'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:297:in `block in <main>'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:40:in `block in out_trigger'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:38:in `each'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:38:in `out_trigger'
+[Phantombass AI] 01_Should_Switch_Scoring.rb:51:in `trigger_out'
+[Phantombass AI] 02_AI_Switching.rb:79:in `block in ai_should_switch?'
+[Phantombass AI] 02_AI_Switching.rb:75:in `each'
+[Phantombass AI] 02_AI_Switching.rb:75:in `ai_should_switch?'
+[Phantombass AI] 02_AI_Switching.rb:31:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+001_PBDebug.rb:6:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+009_Battle_CommandPhase.rb:223:in `block in pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:211:in `loop'
+009_Battle_CommandPhase.rb:211:in `pbCommandPhaseLoop'
+009_Battle_CommandPhase.rb:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:344:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:344:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:1153:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:163:in `block in update'
+002_Scene_Map.rb:162:in `loop'
+002_Scene_Map.rb:162:in `update'
+002_Scene_Map.rb:234:in `block in main'
+002_Scene_Map.rb:231:in `loop'
+002_Scene_Map.rb:231:in `main'
+999_Main.rb:45:in `mainFunctionDebug'
+999_Main.rb:22:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:22:in `mainFunction'
+999_Main.rb:58:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:57:in `loop'
+999_Main.rb:57:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+Roles for MIGHTYENA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for COFAGRIGUS: [:NONE]
+Roles for HAXORUS: [:PHYSICALBREAKER]
+Roles for BRAVIARY: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Dylan!"
+"Policeman Dylan sent out Mightyena!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Mightyena (1)
+[Ability triggered] The opposing Mightyena's Intimidate
+[Stat change] Chimecho's Attack changed by -1 (0 -> -1)
+"Chimecho's Attack fell!"
+
+===== Round 1 =====
+
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     [Switch AI] +2 Target has fast kill
+Set up score for Mightyena (1): 0
+Set up score for Mightyena (1): 0
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Mightyena (1) is considering using Crunch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Mightyena (1) is considering using Play Rough (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+[AI] Mightyena (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Mightyena (1)'s highest damaging move vs Chimecho: Crunch
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Mightyena (1) is considering using Howl (4)...
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     =====> Item Check for Mightyena: Lum Berry
+     =====> Berry type: 
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Mightyena (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Howl: score 0
+   => will use Crunch (target 0)
+
+[Round order] Chimecho (0), the opposing Mightyena (1)
+
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Mightyena lost 140 HP (140 -> 0)
+"It's super effective!"
+"The opposing Mightyena fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Chimecho does a max of 90/159 damage
+     [Cofagrigus] using Body Press vs Chimecho does a max of 16/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 75/128 damage
+==============================
+     Chimecho (0) speed (98) vs Cofagrigus speed: 43
+     [Cofagrigus] +  3: for outdamage
+     [Cofagrigus] final Switch score: 3
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+==============================
+     [Haxorus] using Dragon Claw vs Chimecho does a max of 1/159 damage
+     [Haxorus] using First Impression vs Chimecho does a max of 66/159 damage
+     [Haxorus] using Poison Jab vs Chimecho does a max of 116/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 104/145 damage
+==============================
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+     Chimecho (0) speed (98) vs Haxorus speed: 124
+     [Haxorus] +  6: for fast 2HKO
+     [Haxorus] final Switch score: 6
+==============================
+     [Braviary] using Dual Wingbeat vs Chimecho does a max of 75/159 damage
+     [Braviary] using Body Slam vs Chimecho does a max of 80/159 damage
+     [Braviary] using Close Combat vs Chimecho does a max of 19/159 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 99/168 damage
+==============================
+     Chimecho (0) speed (98) vs Braviary speed: 105
+     [Braviary] +  6: for fast 2HKO
+     [Braviary] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Dylan sent out Haxorus!"
+
+===== Round 2 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+Set up score for Haxorus (1): 0
+Set up score for Haxorus (1): 0
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+[AI] Switch out Score (0) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Haxorus (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Haxorus (1) is considering using Earthquake (1)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Haxorus (1) is considering using First Impression (1) against Chimecho (0)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Haxorus (1) is considering using Poison Jab (1) against Chimecho (0)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Haxorus (1):
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use First Impression (target 0): score 28
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use First Impression (target 0)
+
+[Round order] The opposing Haxorus (1), Chimecho (0)
+
+[Use move] The opposing Haxorus (1) used First Impression
+"The opposing Haxorus used First Impression!"
+[HP change] Chimecho lost 61 HP (159 -> 98)
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 61 HP (98 -> 159)
+"Chimecho's HP was restored."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+Set up score for Haxorus (1): 0
+Set up score for Haxorus (1): 0
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Before Mult: 
+     =====> After Mult: 
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Haxorus (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Haxorus (1) is considering using Earthquake (1)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Haxorus (1) is considering using First Impression...
+     +  1: move will fail
+[AI] Haxorus (1) is considering using Poison Jab (1) against Chimecho (0)...
+     Haxorus (1)'s highest damaging move vs Chimecho: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Haxorus (1):
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use First Impression: score 0
+   * 100.0% to use Poison Jab (target 0): score 5
+   => will use Poison Jab (target 0)
+
+[Round order] The opposing Haxorus (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Haxorus (1) used Poison Jab
+"The opposing Haxorus used Poison Jab!"
+[Target immune] Sandslash's type immunity
+"It doesn't affect Sandslash..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     move will not affect Sandslash (0)
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+Set up score for Haxorus (1): 0
+Set up score for Haxorus (1): 0
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Haxorus (1) is considering using Dragon Claw (1) against Sandslash (0)...
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     Haxorus (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Haxorus (1) is considering using Earthquake (1)...
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     Haxorus (1)'s highest damaging move vs Sandslash: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Haxorus (1) is considering using First Impression...
+     +  1: move will fail
+[AI] Haxorus (1) is considering using Poison Jab (1) against Sandslash (0)...
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Sandslash: Sitrus Berry
+     =====> Berry type: 
+     Haxorus (1)'s highest damaging move vs Sandslash: Earthquake
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Move choices for Haxorus (1):
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use First Impression: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Haxorus (1), Sandslash (0)
+
+[Use move] The opposing Haxorus (1) used Earthquake
+"The opposing Haxorus used Earthquake!"
+[HP change] Sandslash lost 89 HP (149 -> 60)
+"It's super effective!"
+[HP change] Sandslash gained 37 HP (60 -> 97)
+"Sandslash restored its health using its Sitrus Berry!"
+[Item consumed] Sandslash consumed its held Sitrus Berry
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Haxorus lost 121 HP (145 -> 24)
+"It's super effective!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Sandslash (0)
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+Set up score for Haxorus (1): 0
+Set up score for Haxorus (1): 0
+     =====> Item Check for Haxorus: Roseli Berry
+     =====> Berry type: FAIRY
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Haxorus (1) is considering using Dragon Claw (1) against Sandslash (0)...
+     Haxorus (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Haxorus (1) is considering using Earthquake (1)...
+     Haxorus (1)'s highest damaging move vs Sandslash: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Haxorus (1) is considering using First Impression...
+     +  1: move will fail
+[AI] Haxorus (1) is considering using Poison Jab (1) against Sandslash (0)...
+     Haxorus (1)'s highest damaging move vs Sandslash: Earthquake
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Move choices for Haxorus (1):
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use First Impression: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   => will use Earthquake
+
+[Round order] Sandslash (0), the opposing Haxorus (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Haxorus lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Haxorus fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Sandslash (0)
+==============================
+     [Cofagrigus] using Hex vs Sandslash does a max of 66/97 damage
+     [Cofagrigus] using Body Press vs Sandslash does a max of 168/97 damage
+     Sandslash (0)'s best move: Iron Head for 75/128 damage
+==============================
+     Sandslash (0) speed (84) vs Cofagrigus speed: 43
+     [Cofagrigus] +  9: for slow kill
+     [Cofagrigus] final Switch score: 9
+==============================
+     [Braviary] using Dual Wingbeat vs Sandslash does a max of 25/97 damage
+     [Braviary] using Body Slam vs Sandslash does a max of 26/97 damage
+     [Braviary] using Close Combat vs Sandslash does a max of 196/97 damage
+     Sandslash (0)'s best move: Icicle Crash for 147/168 damage
+==============================
+     Sandslash (0) speed (84) vs Braviary speed: 105
+     [Braviary] + 12: for fast kill
+     [Braviary] final Switch score: 12
+[AI] Highest move score (19) vs Switch In Score (12)
+"Policeman Dylan sent out Braviary!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Braviary (1): 0
+Set up score for Braviary (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Dual Wingbeat (1) against Sandslash (0)...
+     Braviary (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Braviary (1) is considering using Body Slam (1) against Sandslash (0)...
+     Braviary (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Braviary (1) is considering using Close Combat (1) against Sandslash (0)...
+     Braviary (1)'s highest damaging move vs Sandslash: Close Combat
+      + 20 for fast kill
+[AI] Braviary (1) is considering using Bulk Up (4)...
+[AI] Move choices for Braviary (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Body Slam (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Braviary (1), Sandslash (0)
+
+"Sandslash, come back!"
+"You're in charge, Electrode!"
+[Use move] The opposing Braviary (1) used Close Combat
+"The opposing Braviary used Close Combat!"
+[HP change] Electrode lost 79 HP (136 -> 57)
+[Stat change] The opposing Braviary's Defense changed by -1 (0 -> -1)
+"The opposing Braviary's Defense fell!"
+[Stat change] The opposing Braviary's Special Defense changed by -1 (0 -> -1)
+"The opposing Braviary's Special Defense fell!"
+[HP change] Electrode gained 34 HP (57 -> 91)
+"Electrode restored its health using its Sitrus Berry!"
+[Item consumed] Electrode consumed its held Sitrus Berry
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Braviary (1): -2
+Set up score for Braviary (1): -2
+Set up score for Braviary (1): -2
+Set up score for Braviary (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Electrode (0): 0
+     Threat Score for Electrode (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Dual Wingbeat (1) against Electrode (0)...
+     Braviary (1)'s highest damaging move vs Electrode: Body Slam
+      + 17 for slow kill
+[AI] Braviary (1) is considering using Body Slam (1) against Electrode (0)...
+     Braviary (1)'s highest damaging move vs Electrode: Body Slam
+     + 4 to prioritize highest damaging move
+[AI] Braviary (1) is considering using Close Combat (1) against Electrode (0)...
+     Braviary (1)'s highest damaging move vs Electrode: Body Slam
+[AI] Braviary (1) is considering using Bulk Up (4)...
+[AI] Move choices for Braviary (1):
+   * 100.0% to use Dual Wingbeat (target 0): score 18
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Bulk Up: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Electrode (0), the opposing Braviary (1)
+
+[Use move] Electrode (0) used Volt Switch
+"Electrode used Volt Switch!"
+[HP change] The opposing Braviary lost 151 HP (168 -> 17)
+"It's super effective!"
+"Electrode went back to Tyler!"
+"Your opponent's weak! Get 'em, Sandslash!"
+[Use move] The opposing Braviary (1) used Dual Wingbeat
+"The opposing Braviary used Dual Wingbeat!"
+[HP change] Sandslash lost 11 HP (97 -> 86)
+[HP change] Sandslash lost 12 HP (86 -> 74)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Braviary (1): -2
+Set up score for Braviary (1): -2
+Set up score for Braviary (1): -2
+Set up score for Braviary (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Braviary (1) is considering using Dual Wingbeat (1) against Sandslash (0)...
+     Braviary (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Braviary (1) is considering using Body Slam (1) against Sandslash (0)...
+     Braviary (1)'s highest damaging move vs Sandslash: Close Combat
+[AI] Braviary (1) is considering using Close Combat (1) against Sandslash (0)...
+     Braviary (1)'s highest damaging move vs Sandslash: Close Combat
+      + 20 for fast kill
+[AI] Braviary (1) is considering using Bulk Up (4)...
+[AI] Move choices for Braviary (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Body Slam (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Bulk Up: score 0
+   => will use Close Combat (target 0)
+
+[Round order] Sandslash (0), the opposing Braviary (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Braviary lost 17 HP (17 -> 0)
+"It's super effective!"
+"The opposing Braviary fainted!"
+"Electrode got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Cofagrigus] using Hex vs Sandslash does a max of 66/74 damage
+     [Cofagrigus] using Body Press vs Sandslash does a max of 168/74 damage
+     Sandslash (0)'s best move: Iron Head for 75/128 damage
+==============================
+     Sandslash (0) speed (84) vs Cofagrigus speed: 43
+     [Cofagrigus] +  9: for slow kill
+     [Cofagrigus] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Dylan sent out Cofagrigus!"
+[Ability triggered] The opposing Cofagrigus's Dauntless Shield
+[Stat change] The opposing Cofagrigus's Defense changed by +1 (0 -> 1)
+"The opposing Cofagrigus's Defense rose!"
+
+===== Round 9 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cofagrigus (1) is considering using Will-O-Wisp (4) against Sandslash (0)...
+     Cofagrigus (1)'s highest damaging move vs Sandslash: Body Press
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Cofagrigus (1) is considering using Hex (1) against Sandslash (0)...
+     Cofagrigus (1)'s highest damaging move vs Sandslash: Body Press
+[AI] Cofagrigus (1) is considering using Body Press (1) against Sandslash (0)...
+     Cofagrigus (1)'s highest damaging move vs Sandslash: Body Press
+      + 17 for slow kill
+[AI] Move choices for Cofagrigus (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   * 100.0% to use Body Press (target 0): score 18
+   => will use Body Press (target 0)
+
+[Round order] Sandslash (0), the opposing Cofagrigus (1)
+
+"OK, Sandslash! Come back!"
+"You're in charge, Dedenne!"
+[Use move] The opposing Cofagrigus (1) used Body Press
+"The opposing Cofagrigus used Body Press!"
+[HP change] Dedenne lost 54 HP (131 -> 77)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Dedenne (0): 0
+     Threat Score for Dedenne (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cofagrigus (1) is considering using Will-O-Wisp (4) against Dedenne (0)...
+     =====> Item Check for Dedenne: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Dedenne: Sitrus Berry
+     =====> Berry type: 
+     Cofagrigus (1)'s highest damaging move vs Dedenne: Body Press
+     + 1 to make equal to highest damaging move
+[AI] Cofagrigus (1) is considering using Hex (1) against Dedenne (0)...
+     =====> Item Check for Dedenne: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Dedenne: Sitrus Berry
+     =====> Berry type: 
+     Cofagrigus (1)'s highest damaging move vs Dedenne: Body Press
+[AI] Cofagrigus (1) is considering using Body Press (1) against Dedenne (0)...
+     =====> Item Check for Dedenne: Sitrus Berry
+     =====> Berry type: 
+     =====> Item Check for Dedenne: Sitrus Berry
+     =====> Berry type: 
+     Cofagrigus (1)'s highest damaging move vs Dedenne: Body Press
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Cofagrigus (1):
+   *  50.0% to use Will-O-Wisp (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *  50.0% to use Body Press (target 0): score 5
+   => will use Body Press (target 0)
+
+[Round order] Dedenne (0), the opposing Cofagrigus (1)
+
+[Use move] Dedenne (0) used Volt Switch
+"Dedenne used Volt Switch!"
+[HP change] The opposing Cofagrigus lost 34 HP (128 -> 94)
+"Dedenne went back to Tyler!"
+"Go for it, Duraludon!"
+[Use move] The opposing Cofagrigus (1) used Body Press
+"The opposing Cofagrigus used Body Press!"
+[HP change] Duraludon lost 125 HP (147 -> 22)
+"It's super effective!"
+
+[End of round 10]
+[HP change] The opposing Cofagrigus gained 8 HP (94 -> 102)
+"The opposing Cofagrigus restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cofagrigus (1) is considering using Will-O-Wisp (4) against Duraludon (0)...
+     Cofagrigus (1)'s highest damaging move vs Duraludon: Body Press
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Cofagrigus (1) is considering using Hex (1) against Duraludon (0)...
+     Cofagrigus (1)'s highest damaging move vs Duraludon: Body Press
+      + 17 for slow kill
+[AI] Cofagrigus (1) is considering using Body Press (1) against Duraludon (0)...
+     Cofagrigus (1)'s highest damaging move vs Duraludon: Body Press
+      + 17 for slow kill
+[AI] Move choices for Cofagrigus (1):
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   *  50.0% to use Hex (target 0): score 18
+   *  50.0% to use Body Press (target 0): score 18
+   => will use Hex (target 0)
+
+[Round order] Duraludon (0), the opposing Cofagrigus (1)
+
+[Use move] Duraludon (0) used Flash Cannon
+"Duraludon used Flash Cannon!"
+[HP change] The opposing Cofagrigus lost 102 HP (102 -> 0)
+"It's super effective!"
+"The opposing Cofagrigus fainted!"
+"Dedenne got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Policeman Dylan!"
+"Wow. You're great!"
+
+"You got $1,536 for winning!"
