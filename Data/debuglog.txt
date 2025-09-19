@@ -391172,3 +391172,4456 @@ Set up score for Duraludon (0): 0
 "Wow. You're great!"
 
 "You got $1,536 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Buizel appeared!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the wild Buizel (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Buizel (1) is considering using Water Pulse (1) against Obstagoon (0)...
+     Buizel (1)'s highest damaging move vs Obstagoon: Water Pulse
+[AI] Buizel (1) is considering using Pursuit (1) against Obstagoon (0)...
+     Buizel (1)'s highest damaging move vs Obstagoon: Water Pulse
+[AI] Buizel (1) is considering using Aerial Ace (1) against Obstagoon (0)...
+     Buizel (1)'s highest damaging move vs Obstagoon: Water Pulse
+[AI] Buizel (1) is considering using Ice Fang (1) against Obstagoon (0)...
+     Buizel (1)'s highest damaging move vs Obstagoon: Water Pulse
+[AI] Move choices for Buizel (1):
+   *  20.0% to use Water Pulse (target 0): score 1
+   *  20.0% to use Pursuit (target 0): score 1
+   *  20.0% to use Aerial Ace (target 0): score 1
+   *  20.0% to use Aerial Ace (target 0): score 1
+   *  20.0% to use Ice Fang (target 0): score 1
+   => will use Pursuit (target 0)
+
+[Round order] Obstagoon (0), the wild Buizel (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Buizel was caught!"
+"Obstagoon got 1 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Buizel's data was added to the Pokédex."
+"Where do you want to send Buizel to?"
+"Where do you want to send Buizel to?"
+"Buizel has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Exeggcute appeared!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the wild Exeggcute (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for GOTHITELLE: [:SUPPORT, :SPEEDCONTROL]
+Roles for FLORGES: [:SPECIALBREAKER, :TANK]
+Roles for DURALUDON: [:SPECIALBREAKER]
+Roles for SCRAFTY: [:PHYSICALBREAKER]
+Roles for GENGAR: [:SPECIALBREAKER]
+Roles for BAXCALIBUR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Gentleman Jeremy and Socialite Reina!"
+"Gentleman Jeremy sent out Scrafty!
+Socialite Reina sent out Gothitelle!"
+"Go! Obstagoon and Electrode!"
+[Round order] Electrode (2), Obstagoon (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+[Ability triggered] The opposing Scrafty's Intimidate
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+[Stat change] Electrode's Attack changed by -1 (0 -> -1)
+"Electrode's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+Set up score for Electrode (2): 0
+     Threat Score for Electrode (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Electrode (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Scrafty (1) is considering using Fake Out (1) against Obstagoon (0)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + 18 for using turn 1
+     + -2 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Fake Out (1) against Electrode (2)...
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 18 for using turn 1
+     + 1 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (0)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Crunch (1) against Electrode (2)...
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Drain Punch (1) against Electrode (2)...
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 1 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 1 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   * 100.0% to use Fake Out (target 2): score 20
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Fake Out (target 2)
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Electrode (2): 0
+     Threat Score for Electrode (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     + 1 to make equal to highest damaging move
+     + 0 to factor in threat scoring.
+     + 9 to give the boost ally needs to kill the target
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (0)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Psychic (1) against Electrode (2)...
+     Gothitelle (3)'s highest damaging move vs Electrode: Psychic
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     Gothitelle (3)'s highest damaging move vs Electrode: Psychic
+     + 1 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (0)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Electrode (2)...
+     Gothitelle (3)'s highest damaging move vs Electrode: Psychic
+     move will not affect Electrode (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   * 100.0% to use Helping Hand (target 1): score 14
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Psychic (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Helping Hand (target 1)
+
+[Round order] The opposing Gothitelle (3), Obstagoon (0), the opposing Scrafty (1), Electrode (2)
+
+[Use move] The opposing Gothitelle (3) used Helping Hand
+"The opposing Gothitelle used Helping Hand!"
+"The opposing Gothitelle is ready to help the opposing Scrafty!"
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Scrafty (1) used Fake Out
+"The opposing Scrafty used Fake Out!"
+[HP change] Electrode lost 37 HP (136 -> 99)
+[Use move] Electrode (2) used Volt Switch
+"Electrode flinched and couldn't move!"
+
+[End of round 1]
+[HP change] Obstagoon lost 9 HP (157 -> 148)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Electrode (2): 0
+     Threat Score for Electrode (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scrafty (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (0)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Crunch (1) against Electrode (2)...
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (0)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Drain Punch (1) against Electrode (2)...
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 1 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     Scrafty (1)'s highest damaging move vs Electrode: Crunch
+     + 1 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   * 100.0% to use Drain Punch (target 0): score 16
+   *   0.0% to use Drain Punch (target 2): score 0
+   *   0.0% to use Rock Slide: score 0
+   => will use Drain Punch (target 0)
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Electrode (2): 0
+     Threat Score for Electrode (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     + 1 to make equal to highest damaging move
+     + 0 to factor in threat scoring.
+     + 9 to give the boost ally needs to kill the target
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (0)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Psychic (1) against Electrode (2)...
+     Gothitelle (3)'s highest damaging move vs Electrode: Psychic
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     Gothitelle (3)'s highest damaging move vs Electrode: Psychic
+     + 1 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (0)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Electrode (2)...
+     Gothitelle (3)'s highest damaging move vs Electrode: Psychic
+     move will not affect Electrode (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   * 100.0% to use Helping Hand (target 1): score 14
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Psychic (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Helping Hand (target 1)
+
+[Round order] The opposing Gothitelle (3), Electrode (2), Obstagoon (0), the opposing Scrafty (1)
+
+"Obstagoon, come back!"
+"You're in charge, Toxicroak!"
+[Use move] The opposing Gothitelle (3) used Helping Hand
+"The opposing Gothitelle used Helping Hand!"
+"The opposing Gothitelle is ready to help the opposing Scrafty!"
+[Use move] Electrode (2) used Volt Switch
+"Electrode used Volt Switch!"
+[HP change] The opposing Gothitelle lost 44 HP (140 -> 96)
+"Electrode went back to Tyler!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Scrafty (1) used Drain Punch
+"The opposing Scrafty used Drain Punch!"
+[HP change] Toxicroak lost 68 HP (159 -> 91)
+"A critical hit!"
+"It's not very effective..."
+"Toxicroak had its energy drained!"
+
+[End of round 2]
+[HP change] Obstagoon lost 9 HP (148 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scrafty (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Scrafty (1) is considering using Crunch (1) against Toxicroak (0)...
+     Scrafty (1)'s highest damaging move vs Toxicroak: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Toxicroak (0)...
+     Scrafty (1)'s highest damaging move vs Toxicroak: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Toxicroak: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out: score 0
+   *  38.5% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  61.5% to use Drain Punch (target 2): score 16
+   *   0.0% to use Rock Slide: score 0
+   => will use Crunch (target 0)
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Toxicroak (0)...
+     Gothitelle (3)'s highest damaging move vs Toxicroak: Psychic
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Toxicroak: Psychic
+     + 1 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Toxicroak (0)...
+     Gothitelle (3)'s highest damaging move vs Toxicroak: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 1 to factor in threat scoring.
+     - 1 because we see kill or target sees 2HKO
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   * 100.0% to use Psychic (target 0): score 19
+   *   0.0% to use Psychic (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 0)
+
+[Round order] Obstagoon (2), Toxicroak (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+
+[Use move] Obstagoon (2) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] Toxicroak (0) used Fake Out
+"Toxicroak used Fake Out!"
+[HP change] The opposing Gothitelle lost 19 HP (96 -> 77)
+[Ability triggered] Toxicroak's Poison Touch
+"The opposing Gothitelle was poisoned!"
+[Use move] The opposing Gothitelle (3) used Psychic
+"The opposing Gothitelle flinched and couldn't move!"
+[Use move] The opposing Scrafty (1) used Crunch
+"The opposing Scrafty used Crunch!"
+[HP change] Toxicroak lost 35 HP (91 -> 56)
+"It's not very effective..."
+
+[End of round 3]
+[HP change] The opposing Gothitelle lost 17 HP (77 -> 60)
+"The opposing Gothitelle was hurt by poison!"
+[HP change] Obstagoon lost 9 HP (139 -> 130)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Scrafty (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Scrafty (1) is considering using Crunch (1) against Toxicroak (0)...
+     Scrafty (1)'s highest damaging move vs Toxicroak: Crunch
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Scrafty (1) is considering using Crunch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Scrafty (1) is considering using Drain Punch (1) against Toxicroak (0)...
+     Scrafty (1)'s highest damaging move vs Toxicroak: Crunch
+     + 5 to factor in threat scoring.
+[AI] Scrafty (1) is considering using Drain Punch (1) against Obstagoon (2)...
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Scrafty (1) is considering using Rock Slide (1)...
+     Scrafty (1)'s highest damaging move vs Toxicroak: Crunch
+     + 5 to factor in threat scoring.
+     Scrafty (1)'s highest damaging move vs Obstagoon: Drain Punch
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Move choices for Scrafty (1):
+   *   0.0% to use Fake Out: score 0
+   *  38.5% to use Crunch (target 0): score 10
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  61.5% to use Drain Punch (target 2): score 16
+   *   0.0% to use Rock Slide: score 0
+   => will use Drain Punch (target 2)
+
+Set up score for Toxicroak (0): 0
+     Threat Score for Toxicroak (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gothitelle (3) is considering using Helping Hand (4) against Scrafty (1)...
+     Gothitelle (3)'s highest damaging move vs Scrafty: Dazzling Gleam
+     - 3 because this will be pointless
+     + 0 to factor in threat scoring.
+[AI] Gothitelle (3) is considering using Psychic (1) against Toxicroak (0)...
+     Gothitelle (3)'s highest damaging move vs Toxicroak: Psychic
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Gothitelle (3) is considering using Psychic (1) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gothitelle (3) is considering using Dazzling Gleam (1)...
+     Gothitelle (3)'s highest damaging move vs Toxicroak: Psychic
+     + 3 to factor in threat scoring.
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     +  2: affects multiple battlers
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Toxicroak (0)...
+     Gothitelle (3)'s highest damaging move vs Toxicroak: Psychic
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     + 3 to factor in threat scoring.
+     - 3 because we see kill or target sees 2HKO
+[AI] Gothitelle (3) is considering using Thunder Wave (4) against Obstagoon (2)...
+     Gothitelle (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  4: move will fail
+[AI] Move choices for Gothitelle (3):
+   *   0.0% to use Helping Hand (target 1): score 0
+   * 100.0% to use Psychic (target 0): score 21
+   *   0.0% to use Psychic (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Thunder Wave (target 2): score 0
+   => will use Psychic (target 0)
+
+[Round order] Obstagoon (2), Toxicroak (0), the opposing Gothitelle (3), the opposing Scrafty (1)
+
+[Use move] Obstagoon (2) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Gothitelle lost 59 HP (60 -> 1)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Gothitelle!"
+[Item consumed] The opposing Gothitelle consumed its held Colbur Berry
+[Use move] Toxicroak (0) used Close Combat
+"Toxicroak used Close Combat!"
+[HP change] The opposing Scrafty lost 135 HP (135 -> 0)
+"It's super effective!"
+[Stat change] Toxicroak's Defense changed by -1 (0 -> -1)
+"Toxicroak's Defense fell!"
+[Stat change] Toxicroak's Special Defense changed by -1 (0 -> -1)
+"Toxicroak's Special Defense fell!"
+"The opposing Scrafty fainted!"
+[Use move] The opposing Gothitelle (3) used Psychic
+"The opposing Gothitelle used Psychic!"
+[HP change] Toxicroak lost 56 HP (56 -> 0)
+"It's super effective!"
+"Toxicroak fainted!"
+
+[End of round 4]
+[HP change] The opposing Gothitelle lost 1 HP (1 -> 0)
+"The opposing Gothitelle was hurt by poison!"
+"The opposing Gothitelle fainted!"
+[HP change] Obstagoon lost 9 HP (130 -> 121)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+"You're in charge, Archeops!"
+==============================
+     [Gengar] using Shadow Ball vs Archeops does a max of 93/153 damage
+     [Gengar] using Sludge Bomb vs Archeops does a max of 53/153 damage
+     [Gengar] using Sludge Bomb vs Obstagoon does a max of 84/121 damage
+     [Gengar] using Dazzling Gleam vs Archeops does a max of 47/153 damage
+     [Gengar] using Dazzling Gleam vs Obstagoon does a max of 75/121 damage
+     Archeops (0)'s best move: Dual Wingbeat for 113/132 damage
+==============================
+     Archeops (0) speed (133) vs Gengar speed: 139
+     [Gengar] +  6: for fast 2HKO
+==============================
+     [Gengar] using Shadow Ball vs Archeops does a max of 93/153 damage
+     [Gengar] using Sludge Bomb vs Archeops does a max of 53/153 damage
+     [Gengar] using Sludge Bomb vs Obstagoon does a max of 84/121 damage
+     [Gengar] using Dazzling Gleam vs Archeops does a max of 47/153 damage
+     [Gengar] using Dazzling Gleam vs Obstagoon does a max of 75/121 damage
+     Archeops (0)'s best move: Dual Wingbeat for 113/132 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 186/132 damage
+==============================
+     Obstagoon (2) speed (110) vs Gengar speed: 139
+     [Gengar] -  7: for target slow kill
+     [Gengar] final Switch score: -1
+==============================
+     [Baxcalibur] using Icicle Crash vs Archeops does a max of 216/153 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 78/121 damage
+     [Baxcalibur] using Glaive Rush vs Archeops does a max of 152/153 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 110/121 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 46/121 damage
+     Archeops (0)'s best move: Rock Slide for 113/186 damage
+==============================
+     Archeops (0) speed (133) vs Baxcalibur speed: 115
+     [Baxcalibur] +  9: for slow kill
+==============================
+     [Baxcalibur] using Icicle Crash vs Archeops does a max of 216/153 damage
+     [Baxcalibur] using Icicle Crash vs Obstagoon does a max of 78/121 damage
+     [Baxcalibur] using Glaive Rush vs Archeops does a max of 152/153 damage
+     [Baxcalibur] using Glaive Rush vs Obstagoon does a max of 110/121 damage
+     [Baxcalibur] using Stomping Tantrum vs Obstagoon does a max of 46/121 damage
+     Archeops (0)'s best move: Rock Slide for 113/186 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 66/186 damage
+==============================
+     Obstagoon (2) speed (110) vs Baxcalibur speed: 115
+     [Baxcalibur] + 12: for fast kill
+     [Baxcalibur] final Switch score: 21
+[AI] Highest move score (33) vs Switch In Score (21)
+"Gentleman Jeremy sent out Baxcalibur!"
+     move will not affect Obstagoon (2)
+     move will not affect Obstagoon (2)
+==============================
+     [Florges] using Dazzling Gleam vs Archeops does a max of 107/153 damage
+     [Florges] using Dazzling Gleam vs Obstagoon does a max of 172/121 damage
+     [Florges] using Psychic Noise vs Archeops does a max of 68/153 damage
+     [Florges] using Chilling Water vs Archeops does a max of 91/153 damage
+     [Florges] using Chilling Water vs Obstagoon does a max of 36/121 damage
+     Archeops (0)'s best move: Dual Wingbeat for 102/150 damage
+==============================
+     Archeops (0) speed (133) vs Florges speed: 102
+     [Florges] +  9: for slow kill
+==============================
+     [Florges] using Dazzling Gleam vs Archeops does a max of 107/153 damage
+     [Florges] using Dazzling Gleam vs Obstagoon does a max of 172/121 damage
+     [Florges] using Psychic Noise vs Archeops does a max of 68/153 damage
+     [Florges] using Chilling Water vs Archeops does a max of 91/153 damage
+     [Florges] using Chilling Water vs Obstagoon does a max of 36/121 damage
+     Archeops (0)'s best move: Dual Wingbeat for 102/150 damage
+==============================     Obstagoon (2)'s best move: Headbutt for 84/150 damage
+==============================
+     Obstagoon (2) speed (110) vs Florges speed: 102
+     [Florges] +  9: for slow kill
+     [Florges] final Switch score: 18
+==============================
+     [Duraludon] using Flash Cannon vs Archeops does a max of 174/153 damage
+     [Duraludon] using Flash Cannon vs Obstagoon does a max of 71/121 damage
+     [Duraludon] using Dragon Pulse vs Archeops does a max of 138/153 damage
+     [Duraludon] using Dragon Pulse vs Obstagoon does a max of 111/121 damage
+     [Duraludon] using Dark Pulse vs Archeops does a max of 87/153 damage
+     [Duraludon] using Dark Pulse vs Obstagoon does a max of 35/121 damage
+     [Duraludon] using Aura Sphere vs Archeops does a max of 87/153 damage
+     [Duraludon] using Aura Sphere vs Obstagoon does a max of 276/121 damage
+     Archeops (0)'s best move: Dual Wingbeat for 23/142 damage
+==============================
+     Archeops (0) speed (133) vs Duraludon speed: 113
+     [Duraludon] +  9: for slow kill
+==============================
+     [Duraludon] using Flash Cannon vs Archeops does a max of 174/153 damage
+     [Duraludon] using Flash Cannon vs Obstagoon does a max of 71/121 damage
+     [Duraludon] using Dragon Pulse vs Archeops does a max of 138/153 damage
+     [Duraludon] using Dragon Pulse vs Obstagoon does a max of 111/121 damage
+     [Duraludon] using Dark Pulse vs Archeops does a max of 87/153 damage
+     [Duraludon] using Dark Pulse vs Obstagoon does a max of 35/121 damage
+     [Duraludon] using Aura Sphere vs Archeops does a max of 87/153 damage
+     [Duraludon] using Aura Sphere vs Obstagoon does a max of 276/121 damage
+     Archeops (0)'s best move: Dual Wingbeat for 23/142 damage
+==============================     Obstagoon (2)'s best move: Night Slash for 38/142 damage
+==============================
+     Obstagoon (2) speed (110) vs Duraludon speed: 113
+     [Duraludon] + 12: for fast kill
+     [Duraludon] final Switch score: 21
+[AI] Highest move score (9) vs Switch In Score (21)
+"Socialite Reina sent out Duraludon!"
+
+===== Round 5 =====
+
+     move will not affect Archeops (0)
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Archeops (0)...
+     Baxcalibur (1)'s highest damaging move vs Archeops: Icicle Crash
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Archeops (0)...
+     Baxcalibur (1)'s highest damaging move vs Archeops: Icicle Crash
+     + 1 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Archeops (0)...
+     Baxcalibur (1)'s highest damaging move vs Archeops: Icicle Crash
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Obstagoon (2)...
+     Baxcalibur (1)'s highest damaging move vs Obstagoon: Glaive Rush
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   * 100.0% to use Icicle Crash (target 0): score 19
+   *   0.0% to use Icicle Crash (target 2): score 0
+   *   0.0% to use Glaive Rush (target 0): score 0
+   *   0.0% to use Glaive Rush (target 2): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *   0.0% to use Protect: score 0
+   => will use Icicle Crash (target 0)
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+      + 20 for fast kill
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   * 100.0% to use Aura Sphere (target 2): score 21
+   => will use Aura Sphere (target 2)
+
+[Round order] Archeops (0), the opposing Baxcalibur (1), the opposing Duraludon (3), Obstagoon (2)
+
+"Obstagoon, come back!"
+"You're in charge, Toedscruel!"
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Baxcalibur lost 47 HP (186 -> 139)
+"Archeops went back to Tyler!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Baxcalibur (1) used Icicle Crash
+"The opposing Baxcalibur used Icicle Crash!"
+[HP change] Empoleon lost 17 HP (162 -> 145)
+"It's not very effective..."
+[Use move] The opposing Duraludon (3) used Aura Sphere
+"The opposing Duraludon used Aura Sphere!"
+[HP change] Toedscruel lost 62 HP (151 -> 89)
+"A critical hit!"
+
+[End of round 5]
+[HP change] The opposing Baxcalibur gained 11 HP (139 -> 150)
+"The opposing Baxcalibur restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Toedscruel (2): 0
+     Threat Score for Toedscruel (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Empoleon (0)...
+     Baxcalibur (1)'s highest damaging move vs Empoleon: Stomping Tantrum
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Toedscruel (2)...
+     Baxcalibur (1)'s highest damaging move vs Toedscruel: Icicle Crash
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Empoleon (0)...
+     Baxcalibur (1)'s highest damaging move vs Empoleon: Stomping Tantrum
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Toedscruel (2)...
+     Baxcalibur (1)'s highest damaging move vs Toedscruel: Icicle Crash
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Empoleon (0)...
+     Baxcalibur (1)'s highest damaging move vs Empoleon: Stomping Tantrum
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Toedscruel (2)...
+     Baxcalibur (1)'s highest damaging move vs Toedscruel: Icicle Crash
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   *   0.0% to use Icicle Crash (target 0): score 0
+   *  50.0% to use Icicle Crash (target 2): score 18
+   *   0.0% to use Glaive Rush (target 0): score 0
+   *  50.0% to use Glaive Rush (target 2): score 18
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *   0.0% to use Protect: score 0
+   => will use Icicle Crash (target 2)
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Toedscruel (2): 0
+     Threat Score for Toedscruel (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Toedscruel (2)...
+     Duraludon (3)'s highest damaging move vs Toedscruel: Dragon Pulse
+     + 4 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Toedscruel (2)...
+     Duraludon (3)'s highest damaging move vs Toedscruel: Dragon Pulse
+     + 4 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Toedscruel (2)...
+     Duraludon (3)'s highest damaging move vs Toedscruel: Dragon Pulse
+     + 4 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Toedscruel (2)...
+     Duraludon (3)'s highest damaging move vs Toedscruel: Dragon Pulse
+     + 4 to factor in threat scoring.
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 2): score 9
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Dragon Pulse (target 2)
+
+[Round order] Toedscruel (2), the opposing Baxcalibur (1), the opposing Duraludon (3), Empoleon (0)
+
+[Use move] Toedscruel (2) used Scorching Sands
+"Toedscruel used Scorching Sands!"
+[HP change] The opposing Duraludon lost 82 HP (142 -> 60)
+"It's super effective!"
+"The opposing Duraludon was burned!"
+[Use move] The opposing Baxcalibur (1) used Icicle Crash
+"The opposing Baxcalibur used Icicle Crash!"
+[HP change] Toedscruel lost 89 HP (89 -> 0)
+"It's super effective!"
+"Toedscruel fainted!"
+[Use move] The opposing Duraludon (3) used Dragon Pulse
+"The opposing Duraludon used Dragon Pulse!"
+[HP change] Empoleon lost 49 HP (145 -> 96)
+"It's not very effective..."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Baxcalibur lost 129 HP (150 -> 21)
+"It's super effective!"
+
+[End of round 6]
+[HP change] The opposing Baxcalibur gained 11 HP (21 -> 32)
+"The opposing Baxcalibur restored a little HP using its Leftovers!"
+[HP change] The opposing Duraludon lost 8 HP (60 -> 52)
+"The opposing Duraludon was hurt by its burn!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Archeops!"
+
+===== Round 7 =====
+
+     move will not affect Archeops (2)
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Archeops (2): 0
+     Threat Score for Archeops (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Empoleon (0)...
+     Baxcalibur (1)'s highest damaging move vs Empoleon: Stomping Tantrum
+     + 2 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Icicle Crash (1) against Archeops (2)...
+     Baxcalibur (1)'s highest damaging move vs Archeops: Icicle Crash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Empoleon (0)...
+     Baxcalibur (1)'s highest damaging move vs Empoleon: Stomping Tantrum
+     + 2 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Glaive Rush (1) against Archeops (2)...
+     Baxcalibur (1)'s highest damaging move vs Archeops: Icicle Crash
+     + 3 to factor in threat scoring.
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Empoleon (0)...
+     Baxcalibur (1)'s highest damaging move vs Empoleon: Stomping Tantrum
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Baxcalibur (1) is considering using Stomping Tantrum (1) against Archeops (2)...
+     Baxcalibur (1)'s highest damaging move vs Archeops: Icicle Crash
+     move will not affect Archeops (2)
+     -  1: move will fail
+[AI] Baxcalibur (1) is considering using Protect (4)...
+     + 4 to avoid a strong hit
++ 3 to get passive recovery
+[AI] Move choices for Baxcalibur (1):
+   *   0.0% to use Icicle Crash (target 0): score 0
+   * 100.0% to use Icicle Crash (target 2): score 21
+   *   0.0% to use Glaive Rush (target 0): score 0
+   *   0.0% to use Glaive Rush (target 2): score 0
+   *   0.0% to use Stomping Tantrum (target 0): score 0
+   *   0.0% to use Stomping Tantrum (target 2): score 0
+   *   0.0% to use Protect: score 0
+   => will use Icicle Crash (target 2)
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Archeops (2): 0
+     Threat Score for Archeops (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 1 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 1 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 1 to factor in threat scoring.
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *  48.7% to use Flash Cannon (target 2): score 19
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *  51.3% to use Aura Sphere (target 0): score 20
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Aura Sphere (target 0)
+
+[Round order] Archeops (2), the opposing Baxcalibur (1), the opposing Duraludon (3), Empoleon (0)
+
+"Empoleon, come back!"
+"Just a little more! Hang in there, Electrode!"
+[Use move] Archeops (2) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Baxcalibur lost 32 HP (32 -> 0)
+"The opposing Baxcalibur fainted!"
+"Archeops went back to Tyler!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Duraludon (3) used Aura Sphere
+"The opposing Duraludon used Aura Sphere!"
+[HP change] Electrode lost 72 HP (99 -> 27)
+
+[End of round 7]
+[HP change] The opposing Duraludon lost 8 HP (52 -> 44)
+"The opposing Duraludon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Gengar] using Shadow Ball vs Electrode does a max of 87/27 damage
+     [Gengar] using Shadow Ball vs Empoleon does a max of 69/96 damage
+     [Gengar] using Sludge Bomb vs Electrode does a max of 195/27 damage
+     [Gengar] using Dazzling Gleam vs Electrode does a max of 44/27 damage
+     [Gengar] using Dazzling Gleam vs Empoleon does a max of 17/96 damage
+     Electrode (0)'s best move: Volt Switch for 63/132 damage
+==============================
+     Electrode (0) speed (176) vs Gengar speed: 139
+     [Gengar] +  9: for slow kill
+==============================
+     [Gengar] using Shadow Ball vs Electrode does a max of 87/27 damage
+     [Gengar] using Shadow Ball vs Empoleon does a max of 69/96 damage
+     [Gengar] using Sludge Bomb vs Electrode does a max of 195/27 damage
+     [Gengar] using Dazzling Gleam vs Electrode does a max of 44/27 damage
+     [Gengar] using Dazzling Gleam vs Empoleon does a max of 17/96 damage
+     Electrode (0)'s best move: Volt Switch for 63/132 damage
+==============================     Empoleon (2)'s best move: Flash Cannon for 74/132 damage
+==============================
+     Empoleon (2) speed (73) vs Gengar speed: 139
+     [Gengar] + 12: for fast kill
+     [Gengar] final Switch score: 21
+[AI] Highest move score (20) vs Switch In Score (21)
+"Gentleman Jeremy sent out Gengar!"
+
+===== Round 8 =====
+
+Set up score for Electrode (0): 0
+     Threat Score for Electrode (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gengar (1) is considering using Shadow Ball (1) against Electrode (0)...
+     Gengar (1)'s highest damaging move vs Electrode: Sludge Bomb
+      + 17 for slow kill
+[AI] Gengar (1) is considering using Shadow Ball (1) against Empoleon (2)...
+     Gengar (1)'s highest damaging move vs Empoleon: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Electrode (0)...
+     Gengar (1)'s highest damaging move vs Electrode: Sludge Bomb
+      + 17 for slow kill
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Empoleon (2)...
+     Gengar (1)'s highest damaging move vs Empoleon: Shadow Ball
+     move will not affect Empoleon (2)
+     -  1: move will fail
+[AI] Gengar (1) is considering using Dazzling Gleam (1)...
+     Gengar (1)'s highest damaging move vs Electrode: Sludge Bomb
+      + 17 for slow kill
+     Gengar (1)'s highest damaging move vs Empoleon: Shadow Ball
+     +  2: affects multiple battlers
+[AI] Gengar (1) is considering using Destiny Bond (4)...
+[AI] Move choices for Gengar (1):
+   *  50.0% to use Shadow Ball (target 0): score 18
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *  50.0% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Sludge Bomb (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Destiny Bond: score 0
+   => will use Shadow Ball (target 0)
+
+Set up score for Electrode (0): 0
+     Threat Score for Electrode (0): 1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Empoleon (2): 0
+     Threat Score for Empoleon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Electrode (0)...
+     Duraludon (3)'s highest damaging move vs Electrode: Dragon Pulse
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Empoleon (2)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Electrode (0)...
+     Duraludon (3)'s highest damaging move vs Electrode: Dragon Pulse
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Empoleon (2)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Electrode (0)...
+     Duraludon (3)'s highest damaging move vs Electrode: Dragon Pulse
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Empoleon (2)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Electrode (0)...
+     Duraludon (3)'s highest damaging move vs Electrode: Dragon Pulse
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Empoleon (2)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *  32.8% to use Dragon Pulse (target 0): score 19
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *  32.8% to use Dark Pulse (target 0): score 19
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *  34.5% to use Aura Sphere (target 2): score 20
+   => will use Dragon Pulse (target 0)
+
+[Round order] Electrode (0), the opposing Gengar (1), the opposing Duraludon (3), Empoleon (2)
+
+"Empoleon, switch out! Come back!"
+"You're in charge, Archeops!"
+[Use move] Electrode (0) used Volt Switch
+"Electrode used Volt Switch!"
+[HP change] The opposing Gengar lost 62 HP (132 -> 70)
+[Ability triggered] The opposing Gengar's Cursed Body
+"Electrode's Volt Switch was disabled!"
+"Electrode went back to Tyler!"
+"Just a little more! Hang in there, Empoleon!"
+[Use move] The opposing Gengar (1) used Shadow Ball
+"The opposing Gengar used Shadow Ball!"
+[HP change] Empoleon lost 60 HP (96 -> 36)
+[HP change] Empoleon gained 40 HP (36 -> 76)
+"Empoleon restored its health using its Sitrus Berry!"
+[Item consumed] Empoleon consumed its held Sitrus Berry
+[Stat change] Empoleon's Special Defense changed by -1 (0 -> -1)
+"Empoleon's Special Defense fell!"
+[Use move] The opposing Duraludon (3) used Dragon Pulse
+"The opposing Duraludon used Dragon Pulse!"
+[HP change] Empoleon lost 70 HP (76 -> 6)
+"It's not very effective..."
+
+[End of round 8]
+[HP change] The opposing Duraludon lost 8 HP (44 -> 36)
+"The opposing Duraludon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Empoleon (0): -1
+     Threat Score for Empoleon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Archeops (2): 0
+     Threat Score for Archeops (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gengar (1) is considering using Shadow Ball (1) against Empoleon (0)...
+     Gengar (1)'s highest damaging move vs Empoleon: Shadow Ball
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Shadow Ball (1) against Archeops (2)...
+     Gengar (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Empoleon (0)...
+     Gengar (1)'s highest damaging move vs Empoleon: Shadow Ball
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Archeops (2)...
+     Gengar (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 2 to factor in threat scoring.
+[AI] Gengar (1) is considering using Dazzling Gleam (1)...
+     Gengar (1)'s highest damaging move vs Empoleon: Shadow Ball
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+     Gengar (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 2 to factor in threat scoring.
+     +  2: affects multiple battlers
+[AI] Gengar (1) is considering using Destiny Bond (4)...
+[AI] Move choices for Gengar (1):
+   * 100.0% to use Shadow Ball (target 0): score 19
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Sludge Bomb (target 2): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Destiny Bond: score 0
+   => will use Shadow Ball (target 0)
+
+Set up score for Empoleon (0): -1
+     Threat Score for Empoleon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Archeops (2): 0
+     Threat Score for Archeops (2): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Empoleon (0)...
+     Duraludon (3)'s highest damaging move vs Empoleon: Aura Sphere
+     + -2 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Archeops (2)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+[AI] Move choices for Duraludon (3):
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Flash Cannon (target 2): score 21
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Flash Cannon (target 2)
+
+[Round order] The opposing Gengar (1), Archeops (2), the opposing Duraludon (3), Empoleon (0)
+
+"Good job, Empoleon! Come back!"
+"Just a little more! Hang in there, Electrode!"
+[Use move] The opposing Gengar (1) used Shadow Ball
+"The opposing Gengar used Shadow Ball!"
+[HP change] Electrode lost 27 HP (27 -> 0)
+"Electrode fainted!"
+[Use move] Archeops (2) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Duraludon lost 19 HP (36 -> 17)
+"A critical hit!"
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Duraludon (3) used Flash Cannon
+"The opposing Duraludon used Flash Cannon!"
+[HP change] Obstagoon lost 63 HP (121 -> 58)
+
+[End of round 9]
+[HP change] The opposing Duraludon lost 8 HP (17 -> 9)
+"The opposing Duraludon was hurt by its burn!"
+[HP change] Obstagoon lost 9 HP (58 -> 49)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Archeops!"
+
+===== Round 10 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gengar (1) is considering using Shadow Ball (1) against Archeops (0)...
+     Gengar (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gengar (1) is considering using Shadow Ball (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Archeops (0)...
+     Gengar (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 2 to factor in threat scoring.
+[AI] Gengar (1) is considering using Sludge Bomb (1) against Obstagoon (2)...
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Gengar (1) is considering using Dazzling Gleam (1)...
+     Gengar (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 2 to factor in threat scoring.
+     Gengar (1)'s highest damaging move vs Obstagoon: Sludge Bomb
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Gengar (1) is considering using Destiny Bond (4)...
+[AI] Move choices for Gengar (1):
+   *  25.9% to use Shadow Ball (target 0): score 7
+   *   0.0% to use Shadow Ball (target 2): score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *  74.1% to use Sludge Bomb (target 2): score 20
+   *   0.0% to use Dazzling Gleam: score 0
+   *   0.0% to use Destiny Bond: score 0
+   => will use Sludge Bomb (target 2)
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Duraludon (3) is considering using Flash Cannon (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dragon Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Dark Pulse (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Archeops (0)...
+     Duraludon (3)'s highest damaging move vs Archeops: Flash Cannon
+     + 3 to factor in threat scoring.
+[AI] Duraludon (3) is considering using Aura Sphere (1) against Obstagoon (2)...
+     Duraludon (3)'s highest damaging move vs Obstagoon: Aura Sphere
+     + -1 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Move choices for Duraludon (3):
+   * 100.0% to use Flash Cannon (target 0): score 21
+   *   0.0% to use Flash Cannon (target 2): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 2): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 2): score 0
+   *   0.0% to use Aura Sphere (target 0): score 0
+   *   0.0% to use Aura Sphere (target 2): score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Obstagoon (2), the opposing Gengar (1), Archeops (0), the opposing Duraludon (3)
+
+[Use move] Obstagoon (2) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gengar lost 70 HP (70 -> 0)
+"A critical hit!"
+"It's super effective!"
+[Ability triggered] The opposing Gengar's Cursed Body
+"Obstagoon's Sucker Punch was disabled!"
+"The opposing Gengar fainted!"
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Duraludon lost 9 HP (9 -> 0)
+"The opposing Duraludon fainted!"
+"It's not very effective..."
+"Hit 1 time!"
+
+[End of round 10]
+[HP change] Obstagoon lost 9 HP (49 -> 40)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Florges] using Dazzling Gleam vs Archeops does a max of 107/153 damage
+     [Florges] using Dazzling Gleam vs Obstagoon does a max of 172/40 damage
+     [Florges] using Psychic Noise vs Archeops does a max of 68/153 damage
+     [Florges] using Chilling Water vs Archeops does a max of 91/153 damage
+     [Florges] using Chilling Water vs Obstagoon does a max of 36/40 damage
+     Archeops (0)'s best move: Dual Wingbeat for 102/150 damage
+==============================
+     Archeops (0) speed (133) vs Florges speed: 102
+     [Florges] +  9: for slow kill
+==============================
+     [Florges] using Dazzling Gleam vs Archeops does a max of 107/153 damage
+     [Florges] using Dazzling Gleam vs Obstagoon does a max of 172/40 damage
+     [Florges] using Psychic Noise vs Archeops does a max of 68/153 damage
+     [Florges] using Chilling Water vs Archeops does a max of 91/153 damage
+     [Florges] using Chilling Water vs Obstagoon does a max of 36/40 damage
+     Archeops (0)'s best move: Dual Wingbeat for 102/150 damage
+==============================     Obstagoon (2)'s best move: Headbutt for 84/150 damage
+==============================
+     Obstagoon (2) speed (110) vs Florges speed: 102
+     [Florges] +  9: for slow kill
+     [Florges] final Switch score: 18
+[AI] Highest move score (21) vs Switch In Score (18)
+"Socialite Reina sent out Florges!"
+
+===== Round 11 =====
+
+[Command phase] The opposing Gengar (1) is forced to use a multi-turn move
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Obstagoon (2): 0
+     Threat Score for Obstagoon (2): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Florges (3) is considering using Dazzling Gleam (1)...
+     Florges (3)'s highest damaging move vs Archeops: Dazzling Gleam
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+     Florges (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + -2 to factor in threat scoring.
+      + 17 for slow kill
+     +  2: affects multiple battlers
+[AI] Florges (3) is considering using Psychic Noise (1) against Archeops (0)...
+     Florges (3)'s highest damaging move vs Archeops: Dazzling Gleam
+     + 5 to factor in threat scoring.
+[AI] Florges (3) is considering using Psychic Noise (1) against Obstagoon (2)...
+     Florges (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     move will not affect Obstagoon (2)
+     -  1: move will fail
+[AI] Florges (3) is considering using Chilling Water (1) against Archeops (0)...
+     Florges (3)'s highest damaging move vs Archeops: Dazzling Gleam
+     + 5 to factor in threat scoring.
+[AI] Florges (3) is considering using Chilling Water (1) against Obstagoon (2)...
+     Florges (3)'s highest damaging move vs Obstagoon: Dazzling Gleam
+     + -2 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Florges (3) is considering using Synthesis...
+     +  1: move will fail
+[AI] Move choices for Florges (3):
+   * 100.0% to use Dazzling Gleam: score 15
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *   0.0% to use Psychic Noise (target 2): score 0
+   *   0.0% to use Chilling Water (target 0): score 0
+   *   0.0% to use Chilling Water (target 2): score 0
+   *   0.0% to use Synthesis: score 0
+   => will use Dazzling Gleam
+
+[Round order] Archeops (0), Obstagoon (2), the opposing Florges (3), the opposing Gengar (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Florges lost 52 HP (150 -> 98)
+[HP change] The opposing Florges lost 49 HP (98 -> 49)
+"Hit 2 times!"
+[Use move] Obstagoon (2) used Headbutt
+"Obstagoon used Headbutt!"
+[HP change] The opposing Florges lost 49 HP (49 -> 0)
+"The opposing Florges fainted!"
+
+===== Player won =====
+
+"You defeated Gentleman Jeremy and Socialite Reina!"
+"Wow. You're great!"
+"Wow. You're great!"
+
+"You got $7,056 for winning!"
+Roles for GUMSHOOS: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SINISTCHA: [:SPECIALBREAKER]
+Roles for SAMUROTT: [:PHYSICALBREAKER, :LEAD]
+Roles for TOXTRICITY: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Caleb!"
+"Policeman Caleb sent out Gumshoos!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Gumshoos (1)
+
+===== Round 1 =====
+
+Set up score for Gumshoos (1): 0
+Set up score for Gumshoos (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Gumshoos (1) is considering using Return (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+     + 4 to prioritize highest damaging move
+[AI] Gumshoos (1) is considering using U-turn (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *  50.0% to use Superpower (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Superpower (target 0)
+
+[Round order] Archeops (0), the opposing Gumshoos (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Gumshoos lost 64 HP (157 -> 93)
+"Archeops went back to Tyler!"
+"Go for it, Chimecho!"
+[Use move] The opposing Gumshoos (1) used Superpower
+"The opposing Gumshoos used Superpower!"
+[HP change] Chimecho lost 18 HP (159 -> 141)
+"It's not very effective..."
+[Stat change] The opposing Gumshoos's Attack changed by -1 (0 -> -1)
+"The opposing Gumshoos's Attack fell!"
+[Stat change] The opposing Gumshoos's Defense changed by -1 (0 -> -1)
+"The opposing Gumshoos's Defense fell!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+Set up score for Gumshoos (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] +5 Party member [Samurott] is immune to strongest move against Gumshoos (1)
+[AI] Switch out Score (9) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+==============================
+     [Sinistcha] using Matcha Gotcha vs Chimecho does a max of 74/141 damage
+     [Sinistcha] using Hidden Power vs Chimecho does a max of 9/141 damage
+     [Sinistcha] using Scald vs Chimecho does a max of 49/141 damage
+     [Sinistcha] using Hex vs Chimecho does a max of 120/141 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 77/143 damage
+==============================
+     Chimecho (0) speed (98) vs Sinistcha speed: 88
+     [Sinistcha] +  3: for outdamage
+     [Sinistcha] final Switch score: 3
+==============================
+     [Samurott] using Razor Shell vs Chimecho does a max of 125/141 damage
+     [Samurott] using Ceaseless Edge vs Chimecho does a max of 109/141 damage
+     [Samurott] using Sacred Sword vs Chimecho does a max of 17/141 damage
+     [Samurott] using Aqua Jet vs Chimecho does a max of 47/141 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 180/162 damage
+==============================
+     Chimecho (0) speed (98) vs Samurott speed: 113
+     [Samurott] - 20: for us being killed on switch in
+     [Samurott] final Switch score: -20
+==============================
+     [Toxtricity] using Overdrive vs Chimecho does a max of 83/141 damage
+     [Toxtricity] using Hyper Voice vs Chimecho does a max of 62/141 damage
+     [Toxtricity] using Sludge Bomb vs Chimecho does a max of 144/141 damage
+     [Toxtricity] using Hidden Power vs Chimecho does a max of 32/141 damage
+     Chimecho (0)'s best move: Extrasensory for 171/147 damage
+==============================
+     Chimecho (0) speed (98) vs Toxtricity speed: 102
+     [Toxtricity] + 12: for fast kill
+     [Toxtricity] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+   => will switch with Toxtricity
+
+[Round order] Chimecho (0), the opposing Gumshoos (1)
+
+"Policeman Caleb withdrew Gumshoos!"
+"Policeman Caleb sent out Toxtricity!"
+[Use move] Chimecho (0) used Dazzling Gleam
+"Chimecho used Dazzling Gleam!"
+[HP change] The opposing Toxtricity lost 39 HP (147 -> 108)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+     [Switch AI] +5 Party member [Samurott] is immune to strongest move against Toxtricity (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Toxtricity (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Move choices for Toxtricity (1):
+   *   0.0% to use Overdrive: score 0
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] The opposing Toxtricity (1), Chimecho (0)
+
+"Chimecho, come back!"
+"Go for it, Magnezone!"
+[Use move] The opposing Toxtricity (1) used Sludge Bomb
+"The opposing Toxtricity used Sludge Bomb!"
+[Target immune] Magnezone's type immunity
+"It doesn't affect Magnezone..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Magnezone (0)
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+     [Switch AI] +5 Party member [Sinistcha] is immune to strongest move against Toxtricity (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] The opposing Toxtricity (1), Magnezone (0)
+
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Magnezone lost 41 HP (143 -> 102)
+"It's not very effective..."
+[Stat change] The opposing Toxtricity's Special Attack changed by +1 (0 -> 1)
+"The opposing Toxtricity's Special Attack rose!"
+[Item consumed] The opposing Toxtricity consumed its held Throat Spray
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Toxtricity lost 54 HP (108 -> 54)
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Magnezone (0)
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] +5 Party member [Sinistcha] is immune to strongest move against Toxtricity (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-6) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] The opposing Toxtricity (1), Magnezone (0)
+
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Magnezone lost 60 HP (102 -> 42)
+"It's not very effective..."
+[HP change] Magnezone gained 35 HP (42 -> 77)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Toxtricity lost 54 HP (54 -> 0)
+"The opposing Toxtricity fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Magnezone (0)
+==============================
+     [Gumshoos] using Return vs Magnezone does a max of 12/77 damage
+     [Gumshoos] using Crunch vs Magnezone does a max of 43/77 damage
+     [Gumshoos] using Superpower vs Magnezone does a max of 128/77 damage
+     [Gumshoos] using U-turn vs Magnezone does a max of 19/77 damage
+     Magnezone (0)'s best move: Flash Cannon for 105/93 damage
+==============================
+     Magnezone (0) speed (72) vs Gumshoos speed: 63
+     [Gumshoos] +  3: for outdamage
+     [Gumshoos] final Switch score: 3
+==============================
+     [Sinistcha] using Matcha Gotcha vs Magnezone does a max of 38/77 damage
+     [Sinistcha] using Hidden Power vs Magnezone does a max of 78/77 damage
+     [Sinistcha] using Scald vs Magnezone does a max of 51/77 damage
+     [Sinistcha] using Hex vs Magnezone does a max of 63/77 damage
+     Magnezone (0)'s best move: Flash Cannon for 83/143 damage
+==============================
+     Magnezone (0) speed (72) vs Sinistcha speed: 88
+     [Sinistcha] + 12: for fast kill
+     [Sinistcha] final Switch score: 12
+==============================
+     [Samurott] using Razor Shell vs Magnezone does a max of 109/77 damage
+     [Samurott] using Ceaseless Edge vs Magnezone does a max of 96/77 damage
+     [Samurott] using Sacred Sword vs Magnezone does a max of 117/77 damage
+     [Samurott] using Aqua Jet vs Magnezone does a max of 41/77 damage
+     Magnezone (0)'s best move: Discharge for 195/162 damage
+==============================
+     Magnezone (0) speed (72) vs Samurott speed: 113
+     [Samurott] + 12: for fast kill
+     [Samurott] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Caleb sent out Sinistcha!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Sinistcha (1): 0
+Set up score for Sinistcha (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Magnezone: Hidden Power
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Sinistcha (1)'s highest damaging move vs Magnezone: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Sinistcha (1) is considering using Scald (1) against Magnezone (0)...
+     Sinistcha (1)'s highest damaging move vs Magnezone: Hidden Power
+[AI] Sinistcha (1) is considering using Hex (1) against Magnezone (0)...
+     Sinistcha (1)'s highest damaging move vs Magnezone: Hidden Power
+[AI] Move choices for Sinistcha (1):
+   *   0.0% to use Matcha Gotcha: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Sinistcha (1), Magnezone (0)
+
+"Magnezone, come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Sinistcha (1) used Hidden Power
+"The opposing Sinistcha used Hidden Power!"
+[HP change] Archeops lost 45 HP (153 -> 108)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Sinistcha (1): 0
+Set up score for Sinistcha (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Archeops (0)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+[AI] Sinistcha (1) is considering using Scald (1) against Archeops (0)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+      + 17 for slow kill
+[AI] Sinistcha (1) is considering using Hex (1) against Archeops (0)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+[AI] Move choices for Sinistcha (1):
+   *   0.0% to use Matcha Gotcha: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Hex (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Archeops (0), the opposing Sinistcha (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Sinistcha lost 143 HP (143 -> 0)
+"It's super effective!"
+"The opposing Sinistcha fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Gumshoos] using Return vs Archeops does a max of 16/108 damage
+     [Gumshoos] using Crunch vs Archeops does a max of 58/108 damage
+     [Gumshoos] using Superpower vs Archeops does a max of 86/108 damage
+     [Gumshoos] using U-turn vs Archeops does a max of 26/108 damage
+     Archeops (0)'s best move: Acrobatics for 156/93 damage
+==============================
+     Archeops (0) speed (133) vs Gumshoos speed: 63
+     [Gumshoos] -  9: for target fast kill
+     [Gumshoos] final Switch score: -9
+==============================
+     [Samurott] using Razor Shell vs Archeops does a max of 289/108 damage
+     [Samurott] using Ceaseless Edge vs Archeops does a max of 127/108 damage
+     [Samurott] using Sacred Sword vs Archeops does a max of 78/108 damage
+     [Samurott] using Aqua Jet vs Archeops does a max of 105/108 damage
+     Archeops (0)'s best move: Acrobatics for 123/162 damage
+==============================
+     Archeops (0) speed (133) vs Samurott speed: 113
+     [Samurott] +  9: for slow kill
+     [Samurott] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Caleb sent out Samurott!"
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Sacred Sword (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+[AI] Samurott (1) is considering using Aqua Jet (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Samurott (1):
+   *  50.0% to use Razor Shell (target 0): score 18
+   *  50.0% to use Ceaseless Edge (target 0): score 18
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Ceaseless Edge (target 0)
+
+[Round order] Archeops (0), the opposing Samurott (1)
+
+"Archeops, come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Samurott (1) used Ceaseless Edge
+"The opposing Samurott used Ceaseless Edge!"
+[HP change] Floatzel lost 127 HP (160 -> 33)
+"Spikes were scattered all around your team's feet!"
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (162 -> 146)
+"The opposing Samurott lost some of its HP!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Sacred Sword (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Aqua Jet (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+[AI] Move choices for Samurott (1):
+   *  33.3% to use Razor Shell (target 0): score 18
+   *  33.3% to use Ceaseless Edge (target 0): score 18
+   *  33.3% to use Sacred Sword (target 0): score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Ceaseless Edge (target 0)
+
+[Round order] Floatzel (0), the opposing Samurott (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Samurott lost 25 HP (146 -> 121)
+[Use move] The opposing Samurott (1) used Ceaseless Edge
+"The opposing Samurott flinched and couldn't move!"
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Sacred Sword (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Aqua Jet (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+[AI] Move choices for Samurott (1):
+   *  33.3% to use Razor Shell (target 0): score 18
+   *  33.3% to use Ceaseless Edge (target 0): score 18
+   *  33.3% to use Sacred Sword (target 0): score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Sacred Sword (target 0)
+
+[Round order] Floatzel (0), the opposing Samurott (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Samurott lost 27 HP (121 -> 94)
+"It's not very effective..."
+"Floatzel went back to Tyler!"
+"Go for it, Dedenne!"
+[HP change] Dedenne lost 16 HP (131 -> 115)
+"Dedenne is hurt by the spikes!"
+[Use move] The opposing Samurott (1) used Sacred Sword
+"The opposing Samurott used Sacred Sword!"
+[HP change] Dedenne lost 41 HP (115 -> 74)
+"It's not very effective..."
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (94 -> 78)
+"The opposing Samurott lost some of its HP!"
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Dedenne (0): 0
+     Threat Score for Dedenne (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Dedenne (0)...
+     Samurott (1)'s highest damaging move vs Dedenne: Razor Shell
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Dedenne (0)...
+     Samurott (1)'s highest damaging move vs Dedenne: Razor Shell
+[AI] Samurott (1) is considering using Sacred Sword (1) against Dedenne (0)...
+     Samurott (1)'s highest damaging move vs Dedenne: Razor Shell
+[AI] Samurott (1) is considering using Aqua Jet (1) against Dedenne (0)...
+     Samurott (1)'s highest damaging move vs Dedenne: Razor Shell
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Samurott (1):
+   * 100.0% to use Razor Shell (target 0): score 18
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] Dedenne (0), the opposing Samurott (1)
+
+[Use move] Dedenne (0) used Parabolic Charge
+"Dedenne used Parabolic Charge!"
+[HP change] The opposing Samurott lost 78 HP (78 -> 0)
+"It's super effective!"
+"The opposing Samurott fainted!"
+"The opposing Samurott had its energy drained!"
+[HP change] Dedenne gained 39 HP (74 -> 113)
+"Floatzel got 1 Exp. Points!"
+
+[End of round 11]
+Trick Room Turns: 0
+==============================
+     [Gumshoos] using Return vs Dedenne does a max of 34/113 damage
+     [Gumshoos] using Crunch vs Dedenne does a max of 33/113 damage
+     [Gumshoos] using Superpower vs Dedenne does a max of 48/113 damage
+     [Gumshoos] using U-turn vs Dedenne does a max of 29/113 damage
+     Dedenne (0)'s best move: Parabolic Charge for 68/93 damage
+==============================
+     Dedenne (0) speed (123) vs Gumshoos speed: 63
+     [Gumshoos] -  5: for target having fast 2HKO and us having no kill
+     [Gumshoos] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (-5)
+"Policeman Caleb sent out Gumshoos!"
+
+===== Round 12 =====
+
+Set up score for Dedenne (0): 0
+     Threat Score for Dedenne (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gumshoos (1) is considering using Return (1) against Dedenne (0)...
+     Gumshoos (1)'s highest damaging move vs Dedenne: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Dedenne (0)...
+     Gumshoos (1)'s highest damaging move vs Dedenne: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Dedenne (0)...
+     Gumshoos (1)'s highest damaging move vs Dedenne: Superpower
+     + 4 to prioritize highest damaging move
+[AI] Gumshoos (1) is considering using U-turn (1) against Dedenne (0)...
+     Gumshoos (1)'s highest damaging move vs Dedenne: Superpower
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Superpower (target 0): score 5
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Superpower (target 0)
+
+[Round order] Dedenne (0), the opposing Gumshoos (1)
+
+[Use move] Dedenne (0) used Volt Switch
+"Dedenne used Volt Switch!"
+[HP change] The opposing Gumshoos lost 63 HP (93 -> 30)
+"Dedenne went back to Tyler!"
+Roles for GUMSHOOS: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for SINISTCHA: [:SPECIALBREAKER]
+Roles for SAMUROTT: [:PHYSICALBREAKER, :LEAD]
+Roles for TOXTRICITY: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Caleb!"
+"Policeman Caleb sent out Gumshoos!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Gumshoos (1)
+
+===== Round 1 =====
+
+Set up score for Gumshoos (1): 0
+Set up score for Gumshoos (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Gumshoos (1) is considering using Return (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+[AI] Gumshoos (1) is considering using Crunch (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+     + 4 to prioritize highest damaging move
+[AI] Gumshoos (1) is considering using U-turn (1) against Archeops (0)...
+     Gumshoos (1)'s highest damaging move vs Archeops: Superpower
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Gumshoos (1):
+   *   0.0% to use Return (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *  50.0% to use Superpower (target 0): score 5
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] Archeops (0), the opposing Gumshoos (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Gumshoos lost 65 HP (157 -> 92)
+"Archeops went back to Tyler!"
+"Go for it, Chimecho!"
+[Use move] The opposing Gumshoos (1) used U-turn
+"The opposing Gumshoos used U-turn!"
+[HP change] Chimecho lost 41 HP (159 -> 118)
+"The opposing Gumshoos went back to Policeman Caleb!"
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Sinistcha] using Matcha Gotcha vs Chimecho does a max of 74/118 damage
+     [Sinistcha] using Hidden Power vs Chimecho does a max of 9/118 damage
+     [Sinistcha] using Scald vs Chimecho does a max of 49/118 damage
+     [Sinistcha] using Hex vs Chimecho does a max of 120/118 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 77/143 damage
+==============================
+     Chimecho (0) speed (98) vs Sinistcha speed: 88
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+==============================
+     [Samurott] using Razor Shell vs Chimecho does a max of 125/118 damage
+     [Samurott] using Ceaseless Edge vs Chimecho does a max of 109/118 damage
+     [Samurott] using Sacred Sword vs Chimecho does a max of 17/118 damage
+     [Samurott] using Aqua Jet vs Chimecho does a max of 47/118 damage
+     Chimecho (0)'s best move: Dazzling Gleam for 180/162 damage
+==============================
+     Chimecho (0) speed (98) vs Samurott speed: 113
+     [Samurott] + 12: for fast kill
+     [Samurott] final Switch score: 12
+==============================
+     [Toxtricity] using Overdrive vs Chimecho does a max of 83/118 damage
+     [Toxtricity] using Hyper Voice vs Chimecho does a max of 62/118 damage
+     [Toxtricity] using Sludge Bomb vs Chimecho does a max of 144/118 damage
+     [Toxtricity] using Hidden Power vs Chimecho does a max of 32/118 damage
+     Chimecho (0)'s best move: Extrasensory for 171/147 damage
+==============================
+     Chimecho (0) speed (98) vs Toxtricity speed: 102
+     [Toxtricity] + 12: for fast kill
+     [Toxtricity] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Caleb sent out Samurott!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 4 to prioritize highest damaging move
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Sacred Sword (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Aqua Jet (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Move choices for Samurott (1):
+   * 100.0% to use Razor Shell (target 0): score 5
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] The opposing Samurott (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Samurott (1) used Razor Shell
+"The opposing Samurott used Razor Shell!"
+[HP change] Floatzel lost 79 HP (160 -> 81)
+"It's not very effective..."
+[Stat change] Floatzel's Defense changed by -1 (0 -> -1)
+"Floatzel's Defense fell!"
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (162 -> 146)
+"The opposing Samurott lost some of its HP!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): -1
+     Threat Score for Floatzel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Sacred Sword (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Aqua Jet (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+[AI] Move choices for Samurott (1):
+   *  33.3% to use Razor Shell (target 0): score 18
+   *  33.3% to use Ceaseless Edge (target 0): score 18
+   *  33.3% to use Sacred Sword (target 0): score 18
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] Floatzel (0), the opposing Samurott (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Samurott lost 25 HP (146 -> 121)
+[Use move] The opposing Samurott (1) used Razor Shell
+"The opposing Samurott flinched and couldn't move!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): -1
+     Threat Score for Floatzel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Sacred Sword (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+[AI] Samurott (1) is considering using Aqua Jet (1) against Floatzel (0)...
+     Samurott (1)'s highest damaging move vs Floatzel: Ceaseless Edge
+[AI] Move choices for Samurott (1):
+   *  50.0% to use Razor Shell (target 0): score 18
+   *  50.0% to use Ceaseless Edge (target 0): score 18
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] Floatzel (0), the opposing Samurott (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Samurott lost 27 HP (121 -> 94)
+"It's not very effective..."
+"Floatzel went back to Tyler!"
+"Go for it, Dedenne!"
+[Use move] The opposing Samurott (1) used Razor Shell
+"The opposing Samurott used Razor Shell!"
+[HP change] Dedenne lost 131 HP (131 -> 0)
+"Dedenne fainted!"
+[Item triggered] The opposing Samurott's Life Orb (recoil)
+[HP change] The opposing Samurott lost 16 HP (94 -> 78)
+"The opposing Samurott lost some of its HP!"
+
+[End of round 4]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Archeops!"
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Razor Shell (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+      + 17 for slow kill
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+[AI] Samurott (1) is considering using Sacred Sword (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+[AI] Samurott (1) is considering using Aqua Jet (1) against Archeops (0)...
+     Samurott (1)'s highest damaging move vs Archeops: Razor Shell
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Samurott (1):
+   * 100.0% to use Razor Shell (target 0): score 18
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Razor Shell (target 0)
+
+[Round order] Archeops (0), the opposing Samurott (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Samurott lost 78 HP (78 -> 0)
+"It's super effective!"
+"The opposing Samurott fainted!"
+"Archeops went back to Tyler!"
+"You're in charge, Floatzel!"
+"Floatzel got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Gumshoos] using Return vs Floatzel does a max of 160/81 damage
+     [Gumshoos] using Crunch vs Floatzel does a max of 63/81 damage
+     [Gumshoos] using Superpower vs Floatzel does a max of 94/81 damage
+     [Gumshoos] using U-turn vs Floatzel does a max of 55/81 damage
+     Floatzel (0)'s best move: Aqua Tail for 110/92 damage
+==============================
+     Floatzel (0) speed (135) vs Gumshoos speed: 63
+     [Gumshoos] +  3: for outdamage
+     [Gumshoos] final Switch score: 3
+==============================
+     [Sinistcha] using Matcha Gotcha vs Floatzel does a max of 267/81 damage
+     [Sinistcha] using Hidden Power vs Floatzel does a max of 67/81 damage
+     [Sinistcha] using Scald vs Floatzel does a max of 45/81 damage
+     [Sinistcha] using Hex vs Floatzel does a max of 110/81 damage
+     Floatzel (0)'s best move: Ice Spinner for 82/143 damage
+==============================
+     Floatzel (0) speed (135) vs Sinistcha speed: 88
+     [Sinistcha] +  9: for slow kill
+     [Sinistcha] final Switch score: 9
+==============================
+     [Toxtricity] using Overdrive vs Floatzel does a max of 300/81 damage
+     [Toxtricity] using Hyper Voice vs Floatzel does a max of 112/81 damage
+     [Toxtricity] using Sludge Bomb vs Floatzel does a max of 131/81 damage
+     [Toxtricity] using Hidden Power vs Floatzel does a max of 116/81 damage
+     Floatzel (0)'s best move: Aqua Tail for 96/147 damage
+==============================
+     Floatzel (0) speed (135) vs Toxtricity speed: 102
+     [Toxtricity] +  9: for slow kill
+     [Toxtricity] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Policeman Caleb sent out Sinistcha!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Sinistcha (1): 0
+Set up score for Sinistcha (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Floatzel: Matcha Gotcha
+      + 17 for slow kill
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Floatzel (0)...
+     Sinistcha (1)'s highest damaging move vs Floatzel: Matcha Gotcha
+[AI] Sinistcha (1) is considering using Scald (1) against Floatzel (0)...
+     Sinistcha (1)'s highest damaging move vs Floatzel: Matcha Gotcha
+[AI] Sinistcha (1) is considering using Hex (1) against Floatzel (0)...
+     Sinistcha (1)'s highest damaging move vs Floatzel: Matcha Gotcha
+      + 17 for slow kill
+[AI] Move choices for Sinistcha (1):
+   *  50.0% to use Matcha Gotcha: score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Scald (target 0): score 0
+   *  50.0% to use Hex (target 0): score 18
+   => will use Hex (target 0)
+
+[Round order] Floatzel (0), the opposing Sinistcha (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Sinistcha lost 23 HP (143 -> 120)
+"It's not very effective..."
+"Floatzel went back to Tyler!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Sinistcha (1) used Hex
+"The opposing Sinistcha used Hex!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 6]
+[HP change] The opposing Sinistcha gained 8 HP (120 -> 128)
+"The opposing Sinistcha restored a little HP using its Leftovers!"
+[HP change] Obstagoon lost 9 HP (157 -> 148)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Sinistcha (1): 0
+Set up score for Sinistcha (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Sinistcha (1) is considering using Scald (1) against Obstagoon (0)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Sinistcha (1) is considering using Hex (1) against Obstagoon (0)...
+     Sinistcha (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Move choices for Sinistcha (1):
+   *   0.0% to use Matcha Gotcha: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Sinistcha (1)
+
+"Obstagoon, switch out! Come back!"
+"Go for it, Archeops!"
+[Use move] The opposing Sinistcha (1) used Hidden Power
+"The opposing Sinistcha used Hidden Power!"
+[HP change] Archeops lost 47 HP (153 -> 106)
+
+[End of round 7]
+[HP change] The opposing Sinistcha gained 8 HP (128 -> 136)
+"The opposing Sinistcha restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Sinistcha (1): 0
+Set up score for Sinistcha (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sinistcha (1) is considering using Matcha Gotcha (1)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+[AI] Sinistcha (1) is considering using Hidden Power (1) against Archeops (0)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+[AI] Sinistcha (1) is considering using Scald (1) against Archeops (0)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+      + 17 for slow kill
+[AI] Sinistcha (1) is considering using Hex (1) against Archeops (0)...
+     Sinistcha (1)'s highest damaging move vs Archeops: Scald
+[AI] Move choices for Sinistcha (1):
+   *   0.0% to use Matcha Gotcha: score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Hex (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Archeops (0), the opposing Sinistcha (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Sinistcha lost 136 HP (136 -> 0)
+"It's super effective!"
+"The opposing Sinistcha fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Gumshoos] using Return vs Archeops does a max of 73/106 damage
+     [Gumshoos] using Crunch vs Archeops does a max of 58/106 damage
+     [Gumshoos] using Superpower vs Archeops does a max of 86/106 damage
+     [Gumshoos] using U-turn vs Archeops does a max of 26/106 damage
+     Archeops (0)'s best move: Acrobatics for 156/92 damage
+==============================
+     Archeops (0) speed (133) vs Gumshoos speed: 63
+     [Gumshoos] -  9: for target fast kill
+     [Gumshoos] final Switch score: -9
+==============================
+     [Toxtricity] using Overdrive vs Archeops does a max of 216/106 damage
+     [Toxtricity] using Hyper Voice vs Archeops does a max of 41/106 damage
+     [Toxtricity] using Sludge Bomb vs Archeops does a max of 47/106 damage
+     [Toxtricity] using Hidden Power vs Archeops does a max of 42/106 damage
+     Archeops (0)'s best move: Rock Slide for 95/147 damage
+==============================
+     Archeops (0) speed (133) vs Toxtricity speed: 102
+     [Toxtricity] +  9: for slow kill
+     [Toxtricity] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Caleb sent out Toxtricity!"
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Toxtricity (1): 0
+Set up score for Toxtricity (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Archeops: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Archeops: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Archeops (0)...
+     Toxtricity (1)'s highest damaging move vs Archeops: Overdrive
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Archeops (0)...
+     Toxtricity (1)'s highest damaging move vs Archeops: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 18
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] Archeops (0), the opposing Toxtricity (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Toxtricity lost 26 HP (147 -> 121)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Magnezone!"
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Magnezone lost 37 HP (143 -> 106)
+"It's not very effective..."
+[Stat change] The opposing Toxtricity's Special Attack changed by +1 (0 -> 1)
+"The opposing Toxtricity's Special Attack rose!"
+[Item consumed] The opposing Toxtricity consumed its held Throat Spray
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Magnezone (0)
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] The opposing Toxtricity (1), Magnezone (0)
+
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Magnezone lost 59 HP (106 -> 47)
+"It's not very effective..."
+[HP change] Magnezone gained 35 HP (47 -> 82)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Toxtricity lost 59 HP (121 -> 62)
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Magnezone (0)
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-11) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     + 4 to prioritize highest damaging move
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+[AI] Move choices for Toxtricity (1):
+   * 100.0% to use Overdrive: score 5
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] The opposing Toxtricity (1), Magnezone (0)
+
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Magnezone lost 61 HP (82 -> 21)
+"It's not very effective..."
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Toxtricity lost 57 HP (62 -> 5)
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Magnezone (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-18) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+      + 20 for fast kill
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+      + 20 for fast kill
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Toxtricity (1)'s highest damaging move vs Magnezone: Overdrive
+      + 20 for fast kill
+[AI] Move choices for Toxtricity (1):
+   *  33.3% to use Overdrive: score 21
+   *  33.3% to use Hyper Voice: score 21
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *  33.3% to use Hidden Power (target 0): score 21
+   => will use Overdrive
+
+[Round order] The opposing Toxtricity (1), Magnezone (0)
+
+"Good job, Magnezone! Come back!"
+"Your opponent's weak! Get 'em, Obstagoon!"
+[Use move] The opposing Toxtricity (1) used Overdrive
+"The opposing Toxtricity used Overdrive!"
+[HP change] Obstagoon lost 117 HP (148 -> 31)
+[HP change] Obstagoon gained 39 HP (31 -> 70)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 12]
+[HP change] Obstagoon lost 9 HP (70 -> 61)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+Set up score for Toxtricity (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-16) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxtricity (1) is considering using Overdrive (1)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hyper Voice (1)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Sludge Bomb (1) against Obstagoon (0)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+      + 17 for slow kill
+[AI] Toxtricity (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Toxtricity (1)'s highest damaging move vs Obstagoon: Overdrive
+[AI] Move choices for Toxtricity (1):
+   *  33.3% to use Overdrive: score 18
+   *  33.3% to use Hyper Voice: score 18
+   *  33.3% to use Sludge Bomb (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Overdrive
+
+[Round order] Obstagoon (0), the opposing Toxtricity (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Toxtricity lost 5 HP (5 -> 0)
+"The opposing Toxtricity fainted!"
+
+[End of round 13]
+[HP change] Obstagoon lost 9 HP (61 -> 52)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Gumshoos] using Return vs Obstagoon does a max of 106/52 damage
+     [Gumshoos] using Crunch vs Obstagoon does a max of 21/52 damage
+     [Gumshoos] using Superpower vs Obstagoon does a max of 248/52 damage
+     [Gumshoos] using U-turn vs Obstagoon does a max of 74/52 damage
+     Obstagoon (0)'s best move: Night Slash for 95/92 damage
+==============================
+     Obstagoon (0) speed (110) vs Gumshoos speed: 63
+     [Gumshoos] +  3: for outdamage
+     [Gumshoos] final Switch score: 3
+[AI] Highest move score (18) vs Switch In Score (3)
+"Policeman Caleb sent out Gumshoos!"
+
+===== Round 14 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gumshoos (1) is considering using Return (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using U-turn (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Move choices for Gumshoos (1):
+   *  33.3% to use Return (target 0): score 18
+   *   0.0% to use Crunch (target 0): score 0
+   *  33.3% to use Superpower (target 0): score 18
+   *  33.3% to use U-turn (target 0): score 18
+   => will use Return (target 0)
+
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gumshoos (1) used Return
+"The opposing Gumshoos used Return!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gumshoos's Defense changed by -2 (0 -> -2)
+"The opposing Gumshoos's Defense harshly fell!"
+
+[End of round 14]
+[HP change] Obstagoon lost 9 HP (52 -> 43)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gumshoos (1) is considering using Return (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+[AI] Gumshoos (1) is considering using Superpower (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Gumshoos (1) is considering using U-turn (1) against Obstagoon (0)...
+     Gumshoos (1)'s highest damaging move vs Obstagoon: Superpower
+      + 17 for slow kill
+[AI] Move choices for Gumshoos (1):
+   *  33.3% to use Return (target 0): score 18
+   *   0.0% to use Crunch (target 0): score 0
+   *  33.3% to use Superpower (target 0): score 18
+   *  33.3% to use U-turn (target 0): score 18
+   => will use U-turn (target 0)
+
+[Round order] Obstagoon (0), the opposing Gumshoos (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gumshoos lost 92 HP (92 -> 0)
+"The opposing Gumshoos fainted!"
+
+===== Player won =====
+
+"You defeated Policeman Caleb!"
+"Wow. You're great!"
+
+"You got $1,568 for winning!"
+Roles for OBSTAGOON: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for TYPHLOSION: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SALAMENCE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rich Boy Jason!"
+"Rich Boy Jason sent out Obstagoon!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Obstagoon (1)
+
+===== Round 1 =====
+
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (9)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Obstagoon (1) is considering using Night Slash (1) against Archeops (0)...
+     Obstagoon (1)'s highest damaging move vs Archeops: Close Combat
+[AI] Obstagoon (1) is considering using Facade (1) against Archeops (0)...
+     Obstagoon (1)'s highest damaging move vs Archeops: Close Combat
+[AI] Obstagoon (1) is considering using Close Combat (1) against Archeops (0)...
+     Obstagoon (1)'s highest damaging move vs Archeops: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Obstagoon (1):
+   * 100.0% to use Obstruct: score 9
+   *   0.0% to use Night Slash (target 0): score 0
+   *   0.0% to use Facade (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Obstruct
+
+[Round order] The opposing Obstagoon (1), Archeops (0)
+
+"Archeops, switch out! Come back!"
+"You're in charge, Skarmory!"
+[Use move] The opposing Obstagoon (1) used Obstruct
+"The opposing Obstagoon used Obstruct!"
+"But it failed!"
+[Move failed] In function code ProtectUserFromDamagingMovesObstruct's def pbMoveFailed?
+
+[End of round 1]
+Trick Room Turns: 0
+"The opposing Obstagoon was burned by the Flame Orb!"
+
+===== Round 2 =====
+
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Typhlosion] is immune to strongest move against Obstagoon (1)
+[AI] Switch out Score (14) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+==============================
+     [Typhlosion] using Infernal Parade vs Skarmory does a max of 68/138 damage
+     [Typhlosion] using Flamethrower vs Skarmory does a max of 137/138 damage
+     [Typhlosion] using Hidden Power vs Skarmory does a max of 11/138 damage
+     Skarmory (0)'s best move: Drill Peck for 54/142 damage
+==============================
+     Skarmory (0) speed (83) vs Typhlosion speed: 122
+     [Typhlosion] +  6: for fast 2HKO
+     [Typhlosion] final Switch score: 6
+==============================
+     [Excadrill] using Stone Edge vs Skarmory does a max of 47/138 damage
+     [Excadrill] using Iron Head vs Skarmory does a max of 29/138 damage
+     Skarmory (0)'s best move: Body Press for 130/181 damage
+==============================
+     Skarmory (0) speed (83) vs Excadrill speed: 116
+     [Excadrill] final Switch score: 0
+==============================
+     [Salamence] using Dual Wingbeat vs Skarmory does a max of 30/138 damage
+     [Salamence] using Dragon Claw vs Skarmory does a max of 30/138 damage
+     [Salamence] using Iron Tail vs Skarmory does a max of 25/138 damage
+     Skarmory (0)'s best move: Drill Peck for 51/170 damage
+==============================
+     Skarmory (0) speed (83) vs Salamence speed: 132
+     [Salamence] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (6)
+   => will switch with Typhlosion
+
+[Round order] The opposing Obstagoon (1), Skarmory (0)
+
+"Rich Boy Jason withdrew Obstagoon!"
+"Rich Boy Jason sent out Typhlosion!"
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[Target immune] The opposing Typhlosion's type immunity
+"It doesn't affect the opposing Typhlosion..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Skarmory (0)
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Skarmory (0)...
+     Typhlosion (1)'s highest damaging move vs Skarmory: Flamethrower
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Infernal Parade (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] The opposing Typhlosion (1), Skarmory (0)
+
+"Skarmory, come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Typhlosion (1) used Flamethrower
+"The opposing Typhlosion used Flamethrower!"
+[HP change] Archeops lost 44 HP (153 -> 109)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Infernal Parade (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Infernal Parade
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Infernal Parade
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Infernal Parade
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Hidden Power (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Infernal Parade
+[AI] Move choices for Typhlosion (1):
+   * 100.0% to use Infernal Parade (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Infernal Parade (target 0)
+
+[Round order] Archeops (0), the opposing Typhlosion (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Typhlosion lost 142 HP (142 -> 0)
+"It's super effective!"
+"The opposing Typhlosion fainted!"
+"Skarmory got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Obstagoon] using Night Slash vs Archeops does a max of 89/109 damage
+     [Obstagoon] using Facade vs Archeops does a max of 87/109 damage
+     [Obstagoon] using Close Combat vs Archeops does a max of 99/109 damage
+     Archeops (0)'s best move: Acrobatics for 105/162 damage
+==============================
+     Archeops (0) speed (133) vs Obstagoon speed: 122
+     [Obstagoon] -  5: for target having fast 2HKO and us having no kill
+     [Obstagoon] final Switch score: -5
+==============================
+     [Excadrill] using Stone Edge vs Archeops does a max of 158/109 damage
+     [Excadrill] using Iron Head vs Archeops does a max of 192/109 damage
+     Archeops (0)'s best move: Acrobatics for 77/181 damage
+==============================
+     Archeops (0) speed (133) vs Excadrill speed: 116
+     [Excadrill] +  9: for slow kill
+     [Excadrill] final Switch score: 9
+==============================
+     [Salamence] using Dual Wingbeat vs Archeops does a max of 51/109 damage
+     [Salamence] using Dragon Claw vs Archeops does a max of 102/109 damage
+     [Salamence] using Iron Tail vs Archeops does a max of 170/109 damage
+     Archeops (0)'s best move: Rock Slide for 165/170 damage
+==============================
+     Archeops (0) speed (133) vs Salamence speed: 132
+     [Salamence] +  9: for slow kill
+     [Salamence] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Rich Boy Jason sent out Excadrill!"
+[Ability triggered] The opposing Excadrill's Mold Breaker
+"The opposing Excadrill breaks the mold!"
+
+===== Round 5 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Archeops: Iron Head
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Excadrill (1) is considering using Stone Edge (1) against Archeops (0)...
+     Excadrill (1)'s highest damaging move vs Archeops: Iron Head
+      + 17 for slow kill
+[AI] Excadrill (1) is considering using Iron Head (1) against Archeops (0)...
+     Excadrill (1)'s highest damaging move vs Archeops: Iron Head
+      + 17 for slow kill
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   *  50.0% to use Stone Edge (target 0): score 18
+   *  50.0% to use Iron Head (target 0): score 18
+   *   0.0% to use Swords Dance: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Archeops (0), the opposing Excadrill (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Excadrill lost 28 HP (181 -> 153)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Skarmory!"
+[Use move] The opposing Excadrill (1) used Stone Edge
+"The opposing Excadrill used Stone Edge!"
+[HP change] Skarmory lost 41 HP (138 -> 97)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Skarmory (0)
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Excadrill (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Iron Head (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Excadrill (1), Skarmory (0)
+
+[Use move] The opposing Excadrill (1) used Stone Edge
+"The opposing Excadrill used Stone Edge!"
+[HP change] Skarmory lost 43 HP (97 -> 54)
+[HP change] Skarmory gained 34 HP (54 -> 88)
+"Skarmory restored its health using its Sitrus Berry!"
+[Item consumed] Skarmory consumed its held Sitrus Berry
+[Use move] Skarmory (0) used Body Press
+"Skarmory used Body Press!"
+[HP change] The opposing Excadrill lost 117 HP (153 -> 36)
+"It's super effective!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Skarmory (0)
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     move will not affect Skarmory (0)
+     -  1: move will fail
+[AI] Excadrill (1) is considering using Stone Edge (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Iron Head (1) against Skarmory (0)...
+     Excadrill (1)'s highest damaging move vs Skarmory: Stone Edge
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] The opposing Excadrill (1), Skarmory (0)
+
+"Skarmory, come back!"
+"Your opponent's weak! Get 'em, Obstagoon!"
+[Use move] The opposing Excadrill (1) used Stone Edge
+"The opposing Excadrill used Stone Edge!"
+[HP change] Obstagoon lost 57 HP (157 -> 100)
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Excadrill (1): 0
+Set up score for Excadrill (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Excadrill (1) is considering using Earthquake (1)...
+     Excadrill (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Excadrill (1) is considering using Stone Edge (1) against Obstagoon (0)...
+     Excadrill (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Excadrill (1) is considering using Iron Head (1) against Obstagoon (0)...
+     Excadrill (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Excadrill (1) is considering using Swords Dance (4)...
+[AI] Move choices for Excadrill (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Iron Head (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Excadrill (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Excadrill lost 36 HP (36 -> 0)
+"The opposing Excadrill fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Obstagoon] using Night Slash vs Obstagoon does a max of 32/100 damage
+     [Obstagoon] using Facade vs Obstagoon does a max of 126/100 damage
+     [Obstagoon] using Close Combat vs Obstagoon does a max of 288/100 damage
+     Obstagoon (0)'s best move: Headbutt for 44/162 damage
+==============================
+     Obstagoon (0) speed (110) vs Obstagoon speed: 122
+     [Obstagoon] + 12: for fast kill
+     [Obstagoon] final Switch score: 12
+==============================
+     [Salamence] using Dual Wingbeat vs Obstagoon does a max of 74/100 damage
+     [Salamence] using Dragon Claw vs Obstagoon does a max of 74/100 damage
+     [Salamence] using Iron Tail vs Obstagoon does a max of 61/100 damage
+     [Salamence] using Earthquake vs Obstagoon does a max of 61/100 damage
+     Obstagoon (0)'s best move: Night Slash for 50/170 damage
+==============================
+     Obstagoon (0) speed (110) vs Salamence speed: 132
+     [Salamence] +  6: for fast 2HKO
+     [Salamence] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (12)
+"Rich Boy Jason sent out Obstagoon!"
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Obstagoon (1): 0
+Set up score for Obstagoon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+[AI] Obstagoon (1) is considering using Facade (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Close Combat (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   *  50.0% to use Facade (target 0): score 21
+   *  50.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Obstagoon (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Obstagoon (1) used Close Combat
+"The opposing Obstagoon used Close Combat!"
+[HP change] Chimecho lost 19 HP (159 -> 140)
+"It's not very effective..."
+[Stat change] The opposing Obstagoon's Defense changed by -1 (0 -> -1)
+"The opposing Obstagoon's Defense fell!"
+[Stat change] The opposing Obstagoon's Special Defense changed by -1 (0 -> -1)
+"The opposing Obstagoon's Special Defense fell!"
+
+[End of round 9]
+[HP change] The opposing Obstagoon lost 10 HP (162 -> 152)
+"The opposing Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Obstagoon (1): -2
+Set up score for Obstagoon (1): -2
+Set up score for Obstagoon (1): -2
+Set up score for Obstagoon (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Chimecho (0)...
+     Obstagoon (1)'s highest damaging move vs Chimecho: Facade
+[AI] Obstagoon (1) is considering using Facade (1) against Chimecho (0)...
+     Obstagoon (1)'s highest damaging move vs Chimecho: Facade
+     + 4 to prioritize highest damaging move
+[AI] Obstagoon (1) is considering using Close Combat (1) against Chimecho (0)...
+     Obstagoon (1)'s highest damaging move vs Chimecho: Facade
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   * 100.0% to use Facade (target 0): score 5
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Facade (target 0)
+
+[Round order] The opposing Obstagoon (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Obstagoon (1) used Facade
+"The opposing Obstagoon used Facade!"
+[HP change] Skarmory lost 48 HP (88 -> 40)
+"It's not very effective..."
+
+[End of round 10]
+[HP change] The opposing Obstagoon lost 10 HP (152 -> 142)
+"The opposing Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Obstagoon (1): -2
+Set up score for Obstagoon (1): -2
+Set up score for Obstagoon (1): -2
+Set up score for Obstagoon (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Skarmory (0): 0
+     Threat Score for Skarmory (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Skarmory (0)...
+     Obstagoon (1)'s highest damaging move vs Skarmory: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Facade (1) against Skarmory (0)...
+     Obstagoon (1)'s highest damaging move vs Skarmory: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Close Combat (1) against Skarmory (0)...
+     Obstagoon (1)'s highest damaging move vs Skarmory: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *  33.3% to use Night Slash (target 0): score 21
+   *  33.3% to use Facade (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Obstagoon (1), Skarmory (0)
+
+"OK, Skarmory! Come back!"
+"Go for it, Grafaiai!"
+[Use move] The opposing Obstagoon (1) used Close Combat
+"The opposing Obstagoon used Close Combat!"
+[HP change] Grafaiai lost 89 HP (136 -> 47)
+[Stat change] The opposing Obstagoon's Defense changed by -1 (-1 -> -2)
+"The opposing Obstagoon's Defense fell!"
+[Stat change] The opposing Obstagoon's Special Defense changed by -1 (-1 -> -2)
+"The opposing Obstagoon's Special Defense fell!"
+
+[End of round 11]
+[HP change] The opposing Obstagoon lost 10 HP (142 -> 132)
+"The opposing Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Obstagoon (1): -4
+Set up score for Obstagoon (1): -4
+Set up score for Obstagoon (1): -4
+Set up score for Obstagoon (1): -4
+     [Switch AI] +4 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Grafaiai (0): 0
+     Threat Score for Grafaiai (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Grafaiai (0)...
+     Obstagoon (1)'s highest damaging move vs Grafaiai: Facade
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Facade (1) against Grafaiai (0)...
+     Obstagoon (1)'s highest damaging move vs Grafaiai: Facade
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Close Combat (1) against Grafaiai (0)...
+     Obstagoon (1)'s highest damaging move vs Grafaiai: Facade
+      + 20 for fast kill
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *  33.3% to use Night Slash (target 0): score 21
+   *  33.3% to use Facade (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Obstagoon (1), Grafaiai (0)
+
+[Use move] The opposing Obstagoon (1) used Close Combat
+"The opposing Obstagoon used Close Combat!"
+[HP change] Grafaiai lost 47 HP (47 -> 0)
+[Stat change] The opposing Obstagoon's Defense changed by -1 (-2 -> -3)
+"The opposing Obstagoon's Defense fell!"
+[Stat change] The opposing Obstagoon's Special Defense changed by -1 (-2 -> -3)
+"The opposing Obstagoon's Special Defense fell!"
+"Grafaiai fainted!"
+
+[End of round 12]
+[HP change] The opposing Obstagoon lost 10 HP (132 -> 122)
+"The opposing Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+"Go for it, Archeops!"
+
+===== Round 13 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Obstagoon (1): -6
+Set up score for Obstagoon (1): -6
+Set up score for Obstagoon (1): -6
+Set up score for Obstagoon (1): -6
+     [Switch AI] +6 Reset lowered stats
+[AI] Switch out Score (8) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+==============================
+     [Salamence] using Dual Wingbeat vs Archeops does a max of 51/109 damage
+     [Salamence] using Dragon Claw vs Archeops does a max of 102/109 damage
+     [Salamence] using Iron Tail vs Archeops does a max of 170/109 damage
+     Archeops (0)'s best move: Rock Slide for 165/170 damage
+==============================
+     Archeops (0) speed (133) vs Salamence speed: 132
+     [Salamence] +  9: for slow kill
+     [Salamence] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+   => will switch with Salamence
+
+[Round order] Archeops (0), the opposing Obstagoon (1)
+
+"Rich Boy Jason withdrew Obstagoon!"
+"Rich Boy Jason sent out Salamence!"
+[Ability triggered] The opposing Salamence's Intimidate
+[Stat change] Archeops's Attack changed by -1 (0 -> -1)
+"Archeops's Attack fell!"
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Salamence lost 69 HP (170 -> 101)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Archeops (0)...
+     Salamence (1)'s highest damaging move vs Archeops: Iron Tail
+[AI] Salamence (1) is considering using Dragon Claw (1) against Archeops (0)...
+     Salamence (1)'s highest damaging move vs Archeops: Iron Tail
+[AI] Salamence (1) is considering using Iron Tail (1) against Archeops (0)...
+     Salamence (1)'s highest damaging move vs Archeops: Iron Tail
+      + 17 for slow kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Archeops: Iron Tail
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Iron Tail (target 0): score 18
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] Archeops (0), the opposing Salamence (1)
+
+"Archeops, come back!"
+"Go for it, Sandslash!"
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[HP change] Sandslash lost 47 HP (149 -> 102)
+[Stat change] Sandslash's Defense changed by -1 (0 -> -1)
+"Sandslash's Defense fell!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): -1
+     Threat Score for Sandslash (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Sandslash (0)...
+     Salamence (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Salamence (1) is considering using Dragon Claw (1) against Sandslash (0)...
+     Salamence (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Salamence (1) is considering using Iron Tail (1) against Sandslash (0)...
+     Salamence (1)'s highest damaging move vs Sandslash: Earthquake
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Sandslash: Earthquake
+      + 20 for fast kill
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   => will use Earthquake
+
+[Round order] The opposing Salamence (1), Sandslash (0)
+
+"Sandslash, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Salamence (1) used Earthquake
+"The opposing Salamence used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+     move will not affect Chimecho (0)
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Salamence (1) is considering using Iron Tail (1) against Chimecho (0)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Chimecho: Iron Tail
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Salamence (1):
+   *  50.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *  50.0% to use Iron Tail (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Iron Tail (target 0)
+
+[Round order] The opposing Salamence (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Salamence (1) used Iron Tail
+"The opposing Salamence used Iron Tail!"
+[HP change] Obstagoon lost 54 HP (100 -> 46)
+[HP change] Obstagoon gained 39 HP (46 -> 85)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Salamence (1): 0
+Set up score for Salamence (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+[AI] Move choices for Salamence (1):
+   * 100.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Obstagoon (0), the opposing Salamence (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Salamence's Defense changed by -2 (0 -> -2)
+"The opposing Salamence's Defense harshly fell!"
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Salamence (1): -2
+Set up score for Salamence (1): -2
+Set up score for Salamence (1): -2
+Set up score for Salamence (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Iron Tail (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+[AI] Move choices for Salamence (1):
+   * 100.0% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Dragon Claw (target 0): score 0
+   *   0.0% to use Iron Tail (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Obstagoon (0), the opposing Salamence (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Salamence lost 82 HP (101 -> 19)
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+[HP change] Obstagoon lost 34 HP (85 -> 51)
+[HP change] Obstagoon lost 36 HP (51 -> 15)
+"Hit 2 times!"
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Salamence (1): -2
+Set up score for Salamence (1): -2
+Set up score for Salamence (1): -2
+Set up score for Salamence (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dragon Claw (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Iron Tail (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dragon Claw
+      + 20 for fast kill
+[AI] Move choices for Salamence (1):
+   *  25.0% to use Dual Wingbeat (target 0): score 21
+   *  25.0% to use Dragon Claw (target 0): score 21
+   *  25.0% to use Iron Tail (target 0): score 21
+   *  25.0% to use Earthquake: score 21
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Salamence (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Salamence lost 19 HP (19 -> 0)
+"The opposing Salamence fainted!"
+
+[End of round 19]
+Trick Room Turns: 0
+==============================
+     [Obstagoon] using Night Slash vs Obstagoon does a max of 32/15 damage
+     [Obstagoon] using Facade vs Obstagoon does a max of 126/15 damage
+     [Obstagoon] using Close Combat vs Obstagoon does a max of 288/15 damage
+     Obstagoon (0)'s best move: Headbutt for 44/122 damage
+==============================
+     Obstagoon (0) speed (110) vs Obstagoon speed: 122
+     [Obstagoon] + 12: for fast kill
+     [Obstagoon] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Rich Boy Jason sent out Obstagoon!"
+
+===== Round 20 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Facade (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Close Combat (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *  33.3% to use Night Slash (target 0): score 21
+   *  33.3% to use Facade (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] Obstagoon (0), the opposing Obstagoon (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Obstagoon (1) used Close Combat
+"The opposing Obstagoon used Close Combat!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Obstagoon's Defense changed by -2 (0 -> -2)
+"The opposing Obstagoon's Defense harshly fell!"
+
+[End of round 20]
+[HP change] The opposing Obstagoon lost 10 HP (122 -> 112)
+"The opposing Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Facade (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Obstagoon (1) is considering using Close Combat (1) against Obstagoon (0)...
+     Obstagoon (1)'s highest damaging move vs Obstagoon: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   *  33.3% to use Night Slash (target 0): score 21
+   *  33.3% to use Facade (target 0): score 21
+   *  33.3% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Obstagoon (1), Obstagoon (0)
+
+"Good job, Obstagoon! Come back!"
+"Go for it, Skarmory!"
+[Use move] The opposing Obstagoon (1) used Close Combat
+"The opposing Obstagoon used Close Combat!"
+[HP change] Skarmory lost 40 HP (40 -> 0)
+[Stat change] The opposing Obstagoon's Defense changed by -1 (-2 -> -3)
+"The opposing Obstagoon's Defense fell!"
+[Stat change] The opposing Obstagoon's Special Defense changed by -1 (0 -> -1)
+"The opposing Obstagoon's Special Defense fell!"
+"Skarmory fainted!"
+
+[End of round 21]
+[HP change] The opposing Obstagoon lost 10 HP (112 -> 102)
+"The opposing Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+"Go for it, Archeops!"
+
+===== Round 22 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Obstagoon (1) is considering using Obstruct (4)...
+[AI] Obstagoon (1) is considering using Night Slash (1) against Archeops (0)...
+     Obstagoon (1)'s highest damaging move vs Archeops: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Obstagoon (1) is considering using Facade (1) against Archeops (0)...
+     Obstagoon (1)'s highest damaging move vs Archeops: Night Slash
+[AI] Obstagoon (1) cannot use Close Combat (no PP left)
+[AI] Move choices for Obstagoon (1):
+   *   0.0% to use Obstruct: score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   *   0.0% to use Facade (target 0): score 0
+   *   0.0% to use Close Combat: score 0
+   => will use Night Slash (target 0)
+
+[Round order] Archeops (0), the opposing Obstagoon (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Obstagoon lost 102 HP (102 -> 0)
+"It's super effective!"
+"The opposing Obstagoon fainted!"
+
+===== Player won =====
+
+"You defeated Rich Boy Jason!"
+"Wow. You're great!"
+
+"You got $8,000 for winning!"
+Roles for CHESNAUGHT: [:PHYSICALBREAKER, :LEAD]
+Roles for MIMIKYU: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for STARMIE: [:SPECIALBREAKER]
+Roles for GOODRA: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lady Melissa!"
+"Lady Melissa sent out Chesnaught!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Chesnaught (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chesnaught (1): 0
+Set up score for Chesnaught (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Chesnaught (1) is considering using Needle Arm (1) against Archeops (0)...
+     Chesnaught (1)'s highest damaging move vs Archeops: Rock Slide
+[AI] Chesnaught (1) is considering using Drain Punch (1) against Archeops (0)...
+     Chesnaught (1)'s highest damaging move vs Archeops: Rock Slide
+[AI] Chesnaught (1) is considering using Spikes (4)...
+     - 3 because this will be pointless
+[AI] Chesnaught (1) is considering using Rock Slide (1)...
+     Chesnaught (1)'s highest damaging move vs Archeops: Rock Slide
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Chesnaught (1):
+   *   0.0% to use Needle Arm (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Spikes: score 0
+   * 100.0% to use Rock Slide: score 5
+   => will use Rock Slide
+
+[Round order] Archeops (0), the opposing Chesnaught (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Chesnaught lost 120 HP (157 -> 37)
+[Ability triggered] The opposing Chesnaught's Rough Skin
+"Archeops protected itself with the Protective Pads!"
+[HP change] The opposing Chesnaught lost 37 HP (37 -> 0)
+[Ability triggered] The opposing Chesnaught's Rough Skin
+"Archeops protected itself with the Protective Pads!"
+"The opposing Chesnaught fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Mimikyu] using Shadow Claw vs Archeops does a max of 63/153 damage
+     [Mimikyu] using Play Rough vs Archeops does a max of 81/153 damage
+     [Mimikyu] using Shadow Sneak vs Archeops does a max of 38/153 damage
+     Archeops (0)'s best move: Dual Wingbeat for 83/137 damage
+==============================
+     Archeops (0) speed (133) vs Mimikyu speed: 125
+     [Mimikyu] -  5: for target having fast 2HKO and us having no kill
+     [Mimikyu] final Switch score: -5
+==============================
+     [Starmie] using Hydro Pump vs Archeops does a max of 269/153 damage
+     [Starmie] using Psychic vs Archeops does a max of 111/153 damage
+     [Starmie] using Thunderbolt vs Archeops does a max of 148/153 damage
+     [Starmie] using Ice Beam vs Archeops does a max of 148/153 damage
+     Archeops (0)'s best move: U-turn for 100/132 damage
+==============================
+     Archeops (0) speed (133) vs Starmie speed: 145
+     [Starmie] + 12: for fast kill
+     [Starmie] final Switch score: 12
+==============================
+     [Goodra] using Dragon Pulse vs Archeops does a max of 102/153 damage
+     [Goodra] using Sludge Wave vs Archeops does a max of 38/153 damage
+     [Goodra] using Thunderbolt vs Archeops does a max of 142/153 damage
+     [Goodra] using Scald vs Archeops does a max of 128/153 damage
+     Archeops (0)'s best move: Dual Wingbeat for 98/165 damage
+==============================
+     Archeops (0) speed (133) vs Goodra speed: 100
+     [Goodra] +  3: for outdamage
+     [Goodra] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (12)
+"Lady Melissa sent out Starmie!"
+[Ability triggered] The opposing Starmie's Illuminate
+[Stat change] The opposing Starmie's accuracy changed by +1 (0 -> 1)
+"The opposing Starmie's accuracy rose!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Starmie (1): 0
+Set up score for Starmie (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Archeops (0)...
+     Starmie (1)'s highest damaging move vs Archeops: Hydro Pump
+      + 20 for fast kill
+[AI] Starmie (1) is considering using Psychic (1) against Archeops (0)...
+     Starmie (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Starmie (1) is considering using Thunderbolt (1) against Archeops (0)...
+     Starmie (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Starmie (1) is considering using Ice Beam (1) against Archeops (0)...
+     Starmie (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 21
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Archeops (0)
+
+"Archeops, come back!"
+"You're in charge, Gogoat!"
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Gogoat lost 50 HP (186 -> 136)
+"It's not very effective..."
+[Item triggered] The opposing Starmie's Life Orb (recoil)
+[HP change] The opposing Starmie lost 13 HP (132 -> 119)
+"The opposing Starmie lost some of its HP!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Starmie (1): 0
+Set up score for Starmie (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Gogoat (0)...
+     Starmie (1)'s highest damaging move vs Gogoat: Ice Beam
+[AI] Starmie (1) is considering using Psychic (1) against Gogoat (0)...
+     Starmie (1)'s highest damaging move vs Gogoat: Ice Beam
+[AI] Starmie (1) is considering using Thunderbolt (1) against Gogoat (0)...
+     Starmie (1)'s highest damaging move vs Gogoat: Ice Beam
+[AI] Starmie (1) is considering using Ice Beam (1) against Gogoat (0)...
+     Starmie (1)'s highest damaging move vs Gogoat: Ice Beam
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Ice Beam (target 0): score 5
+   => will use Ice Beam (target 0)
+
+[Round order] The opposing Starmie (1), Gogoat (0)
+
+[Use move] The opposing Starmie (1) used Ice Beam
+"The opposing Starmie used Ice Beam!"
+[HP change] Gogoat lost 108 HP (136 -> 28)
+"It's super effective!"
+[HP change] Gogoat gained 46 HP (28 -> 74)
+"Gogoat restored its health using its Sitrus Berry!"
+[Item consumed] Gogoat consumed its held Sitrus Berry
+[Item triggered] The opposing Starmie's Life Orb (recoil)
+[HP change] The opposing Starmie lost 13 HP (119 -> 106)
+"The opposing Starmie lost some of its HP!"
+[Use move] Gogoat (0) used Horn Leech
+"Gogoat used Horn Leech!"
+[HP change] The opposing Starmie lost 106 HP (106 -> 0)
+"It's super effective!"
+"The opposing Starmie fainted!"
+"The opposing Starmie had its energy drained!"
+[HP change] Gogoat gained 53 HP (74 -> 127)
+"Gogoat got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Mimikyu] using Shadow Claw vs Gogoat does a max of 69/127 damage
+     [Mimikyu] using Play Rough vs Gogoat does a max of 87/127 damage
+     [Mimikyu] using Shadow Sneak vs Gogoat does a max of 41/127 damage
+     Gogoat (0)'s best move: Seed Bomb for 60/137 damage
+==============================
+     Gogoat (0) speed (87) vs Mimikyu speed: 125
+     [Mimikyu] +  6: for fast 2HKO
+     [Mimikyu] final Switch score: 6
+==============================
+     [Goodra] using Dragon Pulse vs Gogoat does a max of 86/127 damage
+     [Goodra] using Sludge Wave vs Gogoat does a max of 126/127 damage
+     [Goodra] using Thunderbolt vs Gogoat does a max of 30/127 damage
+     [Goodra] using Scald vs Gogoat does a max of 27/127 damage
+     Gogoat (0)'s best move: Stomping Tantrum for 45/165 damage
+==============================
+     Gogoat (0) speed (87) vs Goodra speed: 100
+     [Goodra] +  6: for fast 2HKO
+     [Goodra] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Lady Melissa sent out Mimikyu!"
+
+===== Round 4 =====
+
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Gogoat (0)...
+     Mimikyu (1)'s highest damaging move vs Gogoat: Play Rough
+[AI] Mimikyu (1) is considering using Play Rough (1) against Gogoat (0)...
+     Mimikyu (1)'s highest damaging move vs Gogoat: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Gogoat (0)...
+     Mimikyu (1)'s highest damaging move vs Gogoat: Play Rough
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Mimikyu (1), Gogoat (0)
+
+[Use move] The opposing Mimikyu (1) used Play Rough
+"The opposing Mimikyu used Play Rough!"
+[HP change] Gogoat lost 81 HP (127 -> 46)
+[Use move] Gogoat (0) used Seed Bomb
+"Gogoat used Seed Bomb!"
+[Ability triggered] The opposing Mimikyu's Disguise
+"Its disguise served it as a decoy!"
+"The opposing Mimikyu's disguise was busted!"
+[Form changed] The opposing Mimikyu changed from form 0 to form 1
+[HP change] The opposing Mimikyu lost 17 HP (137 -> 120)
+"The opposing Mimikyu held up its Red Card against Gogoat!"
+[Item consumed] The opposing Mimikyu consumed its held Red Card
+"Alakazam was dragged out!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Alakazam (0)...
+     Mimikyu (1)'s highest damaging move vs Alakazam: Shadow Claw
+      + 20 for fast kill
+[AI] Mimikyu (1) is considering using Play Rough (1) against Alakazam (0)...
+     Mimikyu (1)'s highest damaging move vs Alakazam: Shadow Claw
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Alakazam (0)...
+     Mimikyu (1)'s highest damaging move vs Alakazam: Shadow Claw
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   * 100.0% to use Shadow Claw (target 0): score 21
+   *   0.0% to use Play Rough (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Claw (target 0)
+
+[Round order] The opposing Mimikyu (1), Alakazam (0)
+
+"Alakazam, switch out! Come back!"
+"Go for it, Golem!"
+[Use move] The opposing Mimikyu (1) used Shadow Claw
+"The opposing Mimikyu used Shadow Claw!"
+[HP change] Golem lost 36 HP (158 -> 122)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+[AI] Mimikyu (1) is considering using Play Rough (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 5
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Play Rough (target 0)
+
+[Round order] The opposing Mimikyu (1), Golem (0)
+
+[Use move] The opposing Mimikyu (1) used Play Rough
+"The opposing Mimikyu used Play Rough!"
+[HP change] Golem lost 40 HP (122 -> 82)
+[Use move] Golem (0) used Thunder Wave
+"Golem used Thunder Wave!"
+"The opposing Mimikyu is paralyzed! It may be unable to move!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+[AI] Mimikyu (1) is considering using Play Rough (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+     + 9 to get a last ditch hit off.
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Mimikyu (1), Golem (0)
+
+[Use move] The opposing Mimikyu (1) used Shadow Sneak
+"The opposing Mimikyu used Shadow Sneak!"
+[HP change] Golem lost 21 HP (82 -> 61)
+[Use move] Golem (0) used Rock Blast
+"Golem used Rock Blast!"
+[HP change] The opposing Mimikyu lost 24 HP (120 -> 96)
+[HP change] The opposing Mimikyu lost 32 HP (96 -> 64)
+"A critical hit!"
+"Hit 2 times!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Mimikyu (1): 0
+Set up score for Mimikyu (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mimikyu (1) is considering using Shadow Claw (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+[AI] Mimikyu (1) is considering using Play Rough (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+     + 4 to prioritize highest damaging move
+[AI] Mimikyu (1) is considering using Shadow Sneak (1) against Golem (0)...
+     Mimikyu (1)'s highest damaging move vs Golem: Play Rough
+     + 9 to get a last ditch hit off.
+[AI] Mimikyu (1) is considering using Swords Dance (4)...
+[AI] Move choices for Mimikyu (1):
+   *   0.0% to use Shadow Claw (target 0): score 0
+   *   0.0% to use Play Rough (target 0): score 0
+   * 100.0% to use Shadow Sneak (target 0): score 10
+   *   0.0% to use Swords Dance: score 0
+   => will use Shadow Sneak (target 0)
+
+[Round order] The opposing Mimikyu (1), Golem (0)
+
+[Use move] The opposing Mimikyu (1) used Shadow Sneak
+"The opposing Mimikyu used Shadow Sneak!"
+[HP change] Golem lost 22 HP (61 -> 39)
+[Use move] Golem (0) used Rock Blast
+"Golem used Rock Blast!"
+[HP change] The opposing Mimikyu lost 22 HP (64 -> 42)
+[HP change] The opposing Mimikyu lost 23 HP (42 -> 19)
+[HP change] The opposing Mimikyu lost 19 HP (19 -> 0)
+"The opposing Mimikyu fainted!"
+"Hit 3 times!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Goodra] using Dragon Pulse vs Golem does a max of 113/39 damage
+     [Goodra] using Sludge Wave vs Golem does a max of 42/39 damage
+     [Goodra] using Thunderbolt vs Golem does a max of 40/39 damage
+     [Goodra] using Scald vs Golem does a max of 140/39 damage
+     Golem (0)'s best move: Explosion for 238/165 damage
+==============================
+     Golem (0) speed (64) vs Goodra speed: 100
+     [Goodra] + 12: for fast kill
+     [Goodra] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Lady Melissa sent out Goodra!"
+
+===== Round 9 =====
+
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Golem (0)...
+     Goodra (1)'s highest damaging move vs Golem: Scald
+      + 20 for fast kill
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Golem: Scald
+[AI] Goodra (1) is considering using Thunderbolt (1) against Golem (0)...
+     Goodra (1)'s highest damaging move vs Golem: Scald
+[AI] Goodra (1) is considering using Scald (1) against Golem (0)...
+     Goodra (1)'s highest damaging move vs Golem: Scald
+      + 20 for fast kill
+[AI] Move choices for Goodra (1):
+   *  50.0% to use Dragon Pulse (target 0): score 21
+   *   0.0% to use Sludge Wave: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *  50.0% to use Scald (target 0): score 21
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Goodra (1), Golem (0)
+
+"Good job, Golem! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Goodra (1) used Dragon Pulse
+"The opposing Goodra used Dragon Pulse!"
+[Target immune] Chimecho's type immunity
+"It doesn't affect Chimecho..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+     + 4 to prioritize highest damaging move
+[AI] Goodra (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+[AI] Goodra (1) is considering using Scald (1) against Chimecho (0)...
+     Goodra (1)'s highest damaging move vs Chimecho: Sludge Wave
+[AI] Move choices for Goodra (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   * 100.0% to use Sludge Wave: score 5
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Scald (target 0): score 0
+   => will use Sludge Wave
+
+[Round order] The opposing Goodra (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"You're in charge, Sandslash!"
+[Use move] The opposing Goodra (1) used Sludge Wave
+"The opposing Goodra used Sludge Wave!"
+[Target immune] Sandslash's type immunity
+"It doesn't affect Sandslash..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Sandslash (0)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Goodra (1) is considering using Thunderbolt (1) against Sandslash (0)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Goodra (1) is considering using Scald (1) against Sandslash (0)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+[AI] Move choices for Goodra (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Sludge Wave: score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Goodra (1), Sandslash (0)
+
+[Use move] The opposing Goodra (1) used Thunderbolt
+"The opposing Goodra used Thunderbolt!"
+[HP change] Sandslash lost 72 HP (149 -> 77)
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Goodra lost 141 HP (165 -> 24)
+"It's super effective!"
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Goodra (1) is considering using Dragon Pulse (1) against Sandslash (0)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+[AI] Goodra (1) is considering using Sludge Wave (1)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Goodra (1) is considering using Thunderbolt (1) against Sandslash (0)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Goodra (1) is considering using Scald (1) against Sandslash (0)...
+     Goodra (1)'s highest damaging move vs Sandslash: Thunderbolt
+[AI] Move choices for Goodra (1):
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Sludge Wave: score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Scald (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Sandslash (0), the opposing Goodra (1)
+
+[Use move] Sandslash (0) used Ice Shard
+"Sandslash used Ice Shard!"
+[HP change] The opposing Goodra lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Goodra fainted!"
+
+===== Player won =====
+
+"You defeated Lady Melissa!"
+"Wow. You're great!"
+
+"You got $8,000 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Archeops!"
+[Round order] Archeops (0), the wild Chingling (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Mime Jr. appeared!"
+"Go! Archeops!"
+[Round order] Archeops (0), the wild Mime Jr. (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Mime Jr. (1) is considering using Encore (4) against Archeops (0)...
+     Mime Jr. (1)'s highest damaging move vs Archeops: Psybeam
+[AI] Mime Jr. (1) is considering using Psybeam (1) against Archeops (0)...
+     Mime Jr. (1)'s highest damaging move vs Archeops: Psybeam
+[AI] Mime Jr. (1) is considering using Draining Kiss (1) against Archeops (0)...
+     Mime Jr. (1)'s highest damaging move vs Archeops: Psybeam
+[AI] Mime Jr. (1) is considering using Protect (4)...
+[AI] Move choices for Mime Jr. (1):
+   *  50.0% to use Encore (target 0): score 4
+   *   0.0% to use Psybeam (target 0): score 0
+   *   0.0% to use Draining Kiss (target 0): score 0
+   *   0.0% to use Draining Kiss (target 0): score 0
+   *  50.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The wild Mime Jr. (1), Archeops (0)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Mime Jr. was caught!"
+
+===== Pokémon caught =====
+
+"Mime Jr.'s data was added to the Pokédex."
+"Where do you want to send Mime Jr. to?"
+"Where do you want to send Mime Jr. to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Alakazam has been sent to Box "Box 1"."
+"Mime Jr. has been added to your party."
