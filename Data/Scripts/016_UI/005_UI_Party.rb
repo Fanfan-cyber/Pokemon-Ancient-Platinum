@@ -1319,6 +1319,21 @@ UIActionHandlers.add(UI::Party::SCREEN_ID, :evolve, {
         evoreqs[evo[0]] = nil
       end
     end
+    new_hash = {}
+    if evoreqs.length > 1
+      evoreqs.keys.each do |mon|
+        GameData::Species.get_species_form(pkmn.species,pkmn.form).get_evolutions(true).each do |evol|
+          if evol[1].to_s.start_with?('HoldItem') || evol[1].to_s.start_with?('Item') || evol[1].to_s.start_with?('AlternateItem')
+            next if evol[0] != mon
+            new_hash[mon] = evoreqs[mon] if pkmn.item == evol[2] && evol[1].to_s.start_with?('HoldItem')
+            new_hash[mon] = evoreqs[mon] if $bag.has?(evol[2]) && (evol[1].to_s.start_with?('Item') || evol[1].to_s.start_with?('AlternateItem'))
+          elsif evol[1].to_s.start_with('Level')
+            new_hash[mon] = evoreqs[mon] if pkmn.level >= evol[2]
+          end
+        end
+      end
+      evoreqs = new_hash
+    end
     case evoreqs.length
     when 0
       screen.pbDisplay(_INTL("This Pokémon can't evolve."))
