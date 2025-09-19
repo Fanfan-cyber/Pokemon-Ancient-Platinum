@@ -395625,3 +395625,62 @@ Set up score for Sandslash (0): 0
 "Choose a Pokémon in your party to send to your Boxes."
 "Alakazam has been sent to Box "Box 1"."
 "Mime Jr. has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Flygon appeared!"
+"Go! Archeops!"
+[Round order] Archeops (0), the wild Flygon (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+[Rock Climb] Event set to #<Game_Player:0x0000024e546a1ae0>
+[Rock Climb] Old through set to false
+[Rock Climb] Old move speed set to 3
+[Rock Climb] Checking if facing rock climb terrain tag: true
+[Rock Climb] Through set to true
+[Rock Climb] Move speed set to 5
+[Rock Climb] Event moves right
+[Rock Climb] move var = 1
+[Rock Climb] move var = 2
+[Rock Climb] move var = 3
+[Rock Climb] move var = 4
+[Rock Climb] move var = 5
+[Rock Climb] move var = 6
+[Rock Climb] move var = 7
+[Rock Climb] move var = 8
+[Rock Climb] move var = 9
+[Rock Climb] move var = 10
+[Rock Climb] move var = 11
+[Rock Climb] End
+[Rock Climb] Event set to #<Game_Player:0x00000188b0fe5b70>
+[Rock Climb] Old through set to false
+[Rock Climb] Old move speed set to 3
+[Rock Climb] Checking if facing rock climb terrain tag: true
+[Rock Climb] Through set to true
+[Rock Climb] Move speed set to 5
+[Rock Climb] Event moves right
+[Rock Climb] move var = 1
+[Rock Climb] Event moves upper right
+[Rock Climb] Event moves upper right last time
+[Rock Climb] End
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Gible appeared!"
+"Go! Archeops!"
+[Round order] Archeops (0), the wild Gible (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+     => Pokemon Chosen: HERACROSS
