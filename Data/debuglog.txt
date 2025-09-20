@@ -402944,3 +402944,35 @@ Set up score for Heracross (0): 0
 [HP change] Heracross lost 119 HP (119 -> 0)
 [HP change] The opposing Muk lost 23 HP (23 -> 0)
 "The opposing Muk fainted!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Gallade appeared!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the wild Gallade (1)
+
+===== Round 1 =====
+
+"Choose the outcome of this battle."
+
+===== Player won =====
+
+Roles for STARAPTOR: [:PHYSICALBREAKER, :TANK]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for TORTERRA: [:PHYSICALBREAKER]
+Roles for BLASTOISE: [:SPECIALBREAKER]
+Roles for CRABOMINABLE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for BRUTEBONNET: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for HATTERENE: [:SPECIALBREAKER, :TRICKROOMSETTER]
+Roles for STAKATAKA: [:PHYSICALBREAKER, :TRICKROOMSETTER, :SETUPSWEEPER]
+Roles for CHARIZARD: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Double trainer battle (2 trainer(s) vs. 2 trainer(s))
+"You are challenged by Galactic Commander Mars and Galactic Commander Jupiter!"
+"Galactic Commander Mars sent out Blastoise!
+Galactic Commander Jupiter sent out Hatterene!"
+"Rival Barry sent out Staraptor!
+Go! Chimecho!"
