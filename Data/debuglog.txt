@@ -406675,3 +406675,1847 @@ Set up score for Chimecho (0): 0
 "Wow. You're great!"
 
 "You got $1,664 for winning!"
+Roles for SEAKING: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for TOXAPEX: [:TANK]
+Roles for BASCULEGION: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for GOLDUCK: [:SPECIALBREAKER, :SETUPSWEEPER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Cameron!"
+"Fisherman Cameron sent out Seaking!"
+"Go! Gogoat!"
+[Round order] Gogoat (0), the opposing Seaking (1)
+
+===== Round 1 =====
+
+Set up score for Seaking (1): 0
+Set up score for Seaking (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Gogoat (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Liquidation (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+[AI] Seaking (1) is considering using Drill Run (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+[AI] Seaking (1) is considering using Megahorn (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+     + 4 to prioritize highest damaging move
+[AI] Seaking (1) is considering using Flip Turn (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Seaking (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Drill Run (target 0): score 0
+   *  50.0% to use Megahorn (target 0): score 5
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Megahorn (target 0)
+
+[Round order] Gogoat (0), the opposing Seaking (1)
+
+[Use move] Gogoat (0) used Leaf Blade
+"Gogoat used Leaf Blade!"
+[HP change] The opposing Seaking lost 91 HP (161 -> 70)
+"It's super effective!"
+"The Rindo Berry weakened the damage to the opposing Seaking!"
+[Item consumed] The opposing Seaking consumed its held Rindo Berry
+[Use move] The opposing Seaking (1) used Megahorn
+"The opposing Seaking used Megahorn!"
+[HP change] Gogoat lost 162 HP (200 -> 38)
+"It's super effective!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Seaking (1): 0
+Set up score for Seaking (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Liquidation (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+      + 17 for slow kill
+[AI] Seaking (1) is considering using Drill Run (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+[AI] Seaking (1) is considering using Megahorn (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+      + 17 for slow kill
+[AI] Seaking (1) is considering using Flip Turn (1) against Gogoat (0)...
+     Seaking (1)'s highest damaging move vs Gogoat: Megahorn
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Seaking (1):
+   *  50.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Drill Run (target 0): score 0
+   *  50.0% to use Megahorn (target 0): score 18
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Gogoat (0), the opposing Seaking (1)
+
+[Use move] Gogoat (0) used Horn Leech
+"Gogoat used Horn Leech!"
+[HP change] The opposing Seaking lost 70 HP (70 -> 0)
+"It's super effective!"
+"The opposing Seaking fainted!"
+"The opposing Seaking had its energy drained!"
+[HP change] Gogoat gained 35 HP (38 -> 73)
+
+[End of round 2]
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Toxapex] using Poison Jab vs Gogoat does a max of 117/73 damage
+     [Toxapex] using Liquidation vs Gogoat does a max of 30/73 damage
+     Gogoat (0)'s best move: Stomping Tantrum for 50/130 damage
+==============================
+     Gogoat (0) speed (94) vs Toxapex speed: 57
+     [Toxapex] +  9: for slow kill
+     [Toxapex] final Switch score: 9
+==============================
+     [Basculegion] using Wave Crash vs Gogoat does a max of 68/73 damage
+     [Basculegion] using Spirit Shackle vs Gogoat does a max of 91/73 damage
+     [Basculegion] using Shadow Sneak vs Gogoat does a max of 46/73 damage
+     [Basculegion] using Flip Turn vs Gogoat does a max of 34/73 damage
+     Gogoat (0)'s best move: Leaf Blade for 192/202 damage
+==============================
+     Gogoat (0) speed (94) vs Basculegion speed: 112
+     [Basculegion] + 12: for fast kill
+     [Basculegion] final Switch score: 12
+==============================
+     [Golduck] using Scald vs Gogoat does a max of 33/73 damage
+     [Golduck] using Psychic vs Gogoat does a max of 75/73 damage
+     [Golduck] using Ice Beam vs Gogoat does a max of 100/73 damage
+     Gogoat (0)'s best move: Leaf Blade for 165/164 damage
+==============================
+     Gogoat (0) speed (94) vs Golduck speed: 122
+     [Golduck] + 12: for fast kill
+     [Golduck] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Fisherman Cameron sent out Basculegion!"
+
+===== Round 3 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Basculegion (1): 0
+Set up score for Basculegion (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Basculegion (1) is considering using Wave Crash (1) against Gogoat (0)...
+     Basculegion (1)'s highest damaging move vs Gogoat: Spirit Shackle
+[AI] Basculegion (1) is considering using Spirit Shackle (1) against Gogoat (0)...
+     Basculegion (1)'s highest damaging move vs Gogoat: Spirit Shackle
+      + 20 for fast kill
+[AI] Basculegion (1) is considering using Shadow Sneak (1) against Gogoat (0)...
+     Basculegion (1)'s highest damaging move vs Gogoat: Spirit Shackle
+[AI] Basculegion (1) is considering using Flip Turn (1) against Gogoat (0)...
+     Basculegion (1)'s highest damaging move vs Gogoat: Spirit Shackle
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Basculegion (1):
+   *   0.0% to use Wave Crash (target 0): score 0
+   * 100.0% to use Spirit Shackle (target 0): score 21
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Spirit Shackle (target 0)
+
+[Round order] The opposing Basculegion (1), Gogoat (0)
+
+"OK, Gogoat! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Basculegion (1) used Spirit Shackle
+"The opposing Basculegion used Spirit Shackle!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 3]
+[HP change] Obstagoon lost 10 HP (169 -> 159)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Basculegion (1): 0
+Set up score for Basculegion (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Basculegion (1) is considering using Wave Crash (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     + 4 to prioritize highest damaging move
+[AI] Basculegion (1) is considering using Spirit Shackle (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Basculegion (1) is considering using Shadow Sneak (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Basculegion (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Basculegion (1):
+   *  50.0% to use Wave Crash (target 0): score 5
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Wave Crash (target 0)
+
+[Round order] Obstagoon (0), the opposing Basculegion (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Basculegion (1) used Wave Crash
+"The opposing Basculegion used Wave Crash!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Basculegion's Defense changed by -2 (0 -> -2)
+"The opposing Basculegion's Defense harshly fell!"
+
+[End of round 4]
+[HP change] Obstagoon lost 10 HP (159 -> 149)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Basculegion (1): -2
+Set up score for Basculegion (1): -2
+Set up score for Basculegion (1): -2
+Set up score for Basculegion (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (4) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Basculegion (1) is considering using Wave Crash (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     + 4 to prioritize highest damaging move
+[AI] Basculegion (1) is considering using Spirit Shackle (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Basculegion (1) is considering using Shadow Sneak (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Basculegion (1) is considering using Flip Turn (1) against Obstagoon (0)...
+     Basculegion (1)'s highest damaging move vs Obstagoon: Wave Crash
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Basculegion (1):
+   *  50.0% to use Wave Crash (target 0): score 5
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Wave Crash (target 0)
+
+[Round order] Obstagoon (0), the opposing Basculegion (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Basculegion lost 202 HP (202 -> 0)
+"It's super effective!"
+"The opposing Basculegion fainted!"
+
+[End of round 5]
+[HP change] Obstagoon lost 10 HP (149 -> 139)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+==============================
+     [Toxapex] using Poison Jab vs Obstagoon does a max of 39/139 damage
+     [Toxapex] using Liquidation vs Obstagoon does a max of 42/139 damage
+     Obstagoon (0)'s best move: Night Slash for 45/130 damage
+==============================
+     Obstagoon (0) speed (118) vs Toxapex speed: 57
+     [Toxapex] final Switch score: 0
+==============================
+     [Golduck] using Scald vs Obstagoon does a max of 63/139 damage
+     [Golduck] using Ice Beam vs Obstagoon does a max of 47/139 damage
+     Obstagoon (0)'s best move: Night Slash for 82/164 damage
+==============================
+     Obstagoon (0) speed (118) vs Golduck speed: 122
+     [Golduck] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+"Fisherman Cameron sent out Toxapex!"
+
+===== Round 6 =====
+
+Set up score for Toxapex (1): 0
+Set up score for Toxapex (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxapex (1) is considering using Baneful Bunker (4)...
+[AI] Toxapex (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Toxapex (1)'s highest damaging move vs Obstagoon: Liquidation
+[AI] Toxapex (1) is considering using Liquidation (1) against Obstagoon (0)...
+     Toxapex (1)'s highest damaging move vs Obstagoon: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Toxapex (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Toxapex (1):
+   *   0.0% to use Baneful Bunker: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Recover: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Obstagoon (0), the opposing Toxapex (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Toxapex (1) used Liquidation
+"The opposing Toxapex used Liquidation!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Toxapex's Defense changed by -2 (0 -> -2)
+"The opposing Toxapex's Defense harshly fell!"
+
+[End of round 6]
+[HP change] Obstagoon lost 10 HP (139 -> 129)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Toxapex (1): -2
+Set up score for Toxapex (1): -2
+Set up score for Toxapex (1): -2
+Set up score for Toxapex (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxapex (1) is considering using Baneful Bunker (4)...
+[AI] Toxapex (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Toxapex (1)'s highest damaging move vs Obstagoon: Liquidation
+[AI] Toxapex (1) is considering using Liquidation (1) against Obstagoon (0)...
+     Toxapex (1)'s highest damaging move vs Obstagoon: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Toxapex (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Toxapex (1):
+   *   0.0% to use Baneful Bunker: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Recover: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Obstagoon (0), the opposing Toxapex (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Toxapex lost 76 HP (130 -> 54)
+[Use move] The opposing Toxapex (1) used Liquidation
+"The opposing Toxapex used Liquidation!"
+[HP change] Obstagoon lost 54 HP (129 -> 75)
+"A critical hit!"
+[HP change] Obstagoon gained 42 HP (75 -> 117)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 7]
+[HP change] The opposing Toxapex gained 8 HP (54 -> 62)
+"The opposing Toxapex restored a little HP using its Black Sludge!"
+[HP change] Obstagoon lost 10 HP (117 -> 107)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Toxapex (1): -2
+Set up score for Toxapex (1): -2
+Set up score for Toxapex (1): -2
+Set up score for Toxapex (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-6) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxapex (1) is considering using Baneful Bunker (4)...
+[AI] Toxapex (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Toxapex (1)'s highest damaging move vs Obstagoon: Liquidation
+[AI] Toxapex (1) is considering using Liquidation (1) against Obstagoon (0)...
+     Toxapex (1)'s highest damaging move vs Obstagoon: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Toxapex (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Toxapex (1):
+   *   0.0% to use Baneful Bunker: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Obstagoon (0), the opposing Toxapex (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Toxapex lost 62 HP (62 -> 0)
+"The opposing Toxapex fainted!"
+
+[End of round 8]
+[HP change] Obstagoon lost 10 HP (107 -> 97)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Golduck] using Scald vs Obstagoon does a max of 63/97 damage
+     [Golduck] using Ice Beam vs Obstagoon does a max of 47/97 damage
+     Obstagoon (0)'s best move: Night Slash for 82/164 damage
+==============================
+     Obstagoon (0) speed (118) vs Golduck speed: 122
+     [Golduck] +  6: for fast 2HKO
+     [Golduck] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Fisherman Cameron sent out Golduck!"
+
+===== Round 9 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golduck (1) is considering using Scald (1) against Obstagoon (0)...
+     Golduck (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Golduck (1) is considering using Psychic (1) against Obstagoon (0)...
+     Golduck (1)'s highest damaging move vs Obstagoon: Scald
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Golduck (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Golduck (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Golduck (1) is considering using Nasty Plot (4)...
+[AI] Move choices for Golduck (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Nasty Plot: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Golduck (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Golduck lost 77 HP (164 -> 87)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Golduck!"
+[Item consumed] The opposing Golduck consumed its held Colbur Berry
+[Use move] The opposing Golduck (1) used Scald
+"The opposing Golduck used Scald!"
+[HP change] Obstagoon lost 54 HP (97 -> 43)
+
+[End of round 9]
+[HP change] Obstagoon lost 10 HP (43 -> 33)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golduck (1) is considering using Scald (1) against Obstagoon (0)...
+     Golduck (1)'s highest damaging move vs Obstagoon: Scald
+      + 20 for fast kill
+[AI] Golduck (1) is considering using Psychic (1) against Obstagoon (0)...
+     Golduck (1)'s highest damaging move vs Obstagoon: Scald
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Golduck (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Golduck (1)'s highest damaging move vs Obstagoon: Scald
+      + 20 for fast kill
+[AI] Golduck (1) is considering using Nasty Plot (4)...
+[AI] Move choices for Golduck (1):
+   *  50.0% to use Scald (target 0): score 21
+   *   0.0% to use Psychic (target 0): score 0
+   *  50.0% to use Ice Beam (target 0): score 21
+   *   0.0% to use Nasty Plot: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Golduck (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Golduck lost 87 HP (87 -> 0)
+"It's super effective!"
+"The opposing Golduck fainted!"
+
+===== Player won =====
+
+"You defeated Fisherman Cameron!"
+"Wow. You're great!"
+
+"You got $1,696 for winning!"
+Roles for ARAQUANID: [:PHYSICALBREAKER, :LEAD]
+Roles for WALREIN: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for DONDOZO: [:NONE]
+Roles for KINGLER: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Juan!"
+"Fisherman Juan sent out Araquanid!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Araquanid (1)
+
+===== Round 1 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Araquanid (1): 0
+Set up score for Araquanid (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Araquanid (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Araquanid (1) is considering using Liquidation (1) against Archeops (0)...
+     Araquanid (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Araquanid (1) is considering using Leech Life (1) against Archeops (0)...
+     Araquanid (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Araquanid (1) is considering using Crunch (1) against Archeops (0)...
+     Araquanid (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Move choices for Araquanid (1):
+   *   0.0% to use Sticky Web: score 0
+   * 100.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Leech Life (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Araquanid (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Araquanid lost 148 HP (148 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Araquanid fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Walrein] using Icicle Crash vs Archeops does a max of 150/164 damage
+     [Walrein] using Liquidation vs Archeops does a max of 150/164 damage
+     Archeops (0)'s best move: Rock Slide for 204/192 damage
+==============================
+     Archeops (0) speed (143) vs Walrein speed: 88
+     [Walrein] -  9: for target fast kill
+     [Walrein] final Switch score: -9
+==============================
+     [Dondozo] using Liquidation vs Archeops does a max of 189/164 damage
+     Archeops (0)'s best move: Rock Slide for 82/238 damage
+==============================
+     Archeops (0) speed (143) vs Dondozo speed: 58
+     [Dondozo] +  9: for slow kill
+     [Dondozo] final Switch score: 9
+==============================
+     [Kingler] using Liquidation vs Archeops does a max of 366/164 damage
+     [Kingler] using Rock Slide vs Archeops does a max of 215/164 damage
+     Archeops (0)'s best move: Rock Slide for 82/137 damage
+==============================
+     Archeops (0) speed (143) vs Kingler speed: 110
+     [Kingler] +  9: for slow kill
+     [Kingler] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Fisherman Juan sent out Dondozo!"
+
+===== Round 2 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Dondozo (1): 0
+Set up score for Dondozo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dondozo (1) is considering using Rest...
+     +  1: move will fail
+[AI] Dondozo (1) is considering using Sleep Talk...
+     +  1: move will fail
+[AI] Dondozo (1) is considering using Liquidation (1) against Archeops (0)...
+     Dondozo (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Dondozo (1) is considering using Earthquake (1)...
+     Dondozo (1)'s highest damaging move vs Archeops: Liquidation
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Dondozo (1):
+   *   0.0% to use Rest: score 0
+   *   0.0% to use Sleep Talk: score 0
+   * 100.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Earthquake: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Dondozo (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Dondozo lost 37 HP (238 -> 201)
+"Archeops went back to Tyler!"
+"Go for it, Magnezone!"
+[Use move] The opposing Dondozo (1) used Liquidation
+"The opposing Dondozo used Liquidation!"
+[HP change] Magnezone lost 63 HP (153 -> 90)
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Dondozo (1): 0
+Set up score for Dondozo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dondozo (1) is considering using Rest (4)...
+[AI] Dondozo (1) is considering using Sleep Talk...
+     +  1: move will fail
+[AI] Dondozo (1) is considering using Liquidation (1) against Magnezone (0)...
+     Dondozo (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Dondozo (1) is considering using Earthquake (1)...
+     Dondozo (1)'s highest damaging move vs Magnezone: Earthquake
+      + 17 for slow kill
+[AI] Move choices for Dondozo (1):
+   *   0.0% to use Rest: score 0
+   *   0.0% to use Sleep Talk: score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Earthquake: score 18
+   => will use Earthquake
+
+[Round order] Magnezone (0), the opposing Dondozo (1)
+
+[Use move] Magnezone (0) used Discharge
+"Magnezone used Discharge!"
+[HP change] The opposing Dondozo lost 182 HP (201 -> 19)
+"It's super effective!"
+[HP change] The opposing Dondozo gained 119 HP (19 -> 138)
+"The opposing Dondozo restored its health using its Iapapa Berry!"
+[Item consumed] The opposing Dondozo consumed its held Iapapa Berry
+[Use move] The opposing Dondozo (1) used Earthquake
+"The opposing Dondozo used Earthquake!"
+[HP change] Magnezone lost 90 HP (90 -> 0)
+"It's super effective!"
+Roles for ARAQUANID: [:PHYSICALBREAKER, :LEAD]
+Roles for WALREIN: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for DONDOZO: [:NONE]
+Roles for KINGLER: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Juan!"
+"Fisherman Juan sent out Araquanid!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Araquanid (1)
+
+===== Round 1 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Araquanid (1): 0
+Set up score for Araquanid (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Araquanid (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Araquanid (1) is considering using Liquidation (1) against Archeops (0)...
+     Araquanid (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Araquanid (1) is considering using Leech Life (1) against Archeops (0)...
+     Araquanid (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Araquanid (1) is considering using Crunch (1) against Archeops (0)...
+     Araquanid (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Move choices for Araquanid (1):
+   *   0.0% to use Sticky Web: score 0
+   * 100.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Leech Life (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Araquanid (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Araquanid lost 148 HP (148 -> 0)
+"It's super effective!"
+"The opposing Araquanid fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Walrein] using Icicle Crash vs Archeops does a max of 150/164 damage
+     [Walrein] using Liquidation vs Archeops does a max of 150/164 damage
+     Archeops (0)'s best move: Rock Slide for 204/192 damage
+==============================
+     Archeops (0) speed (143) vs Walrein speed: 88
+     [Walrein] -  9: for target fast kill
+     [Walrein] final Switch score: -9
+==============================
+     [Dondozo] using Liquidation vs Archeops does a max of 189/164 damage
+     Archeops (0)'s best move: Rock Slide for 82/238 damage
+==============================
+     Archeops (0) speed (143) vs Dondozo speed: 58
+     [Dondozo] +  9: for slow kill
+     [Dondozo] final Switch score: 9
+==============================
+     [Kingler] using Liquidation vs Archeops does a max of 366/164 damage
+     [Kingler] using Rock Slide vs Archeops does a max of 215/164 damage
+     Archeops (0)'s best move: Rock Slide for 82/137 damage
+==============================
+     Archeops (0) speed (143) vs Kingler speed: 110
+     [Kingler] +  9: for slow kill
+     [Kingler] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Fisherman Juan sent out Dondozo!"
+
+===== Round 2 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Dondozo (1): 0
+Set up score for Dondozo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dondozo (1) is considering using Rest...
+     +  1: move will fail
+[AI] Dondozo (1) is considering using Sleep Talk...
+     +  1: move will fail
+[AI] Dondozo (1) is considering using Liquidation (1) against Archeops (0)...
+     Dondozo (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Dondozo (1) is considering using Earthquake (1)...
+     Dondozo (1)'s highest damaging move vs Archeops: Liquidation
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Dondozo (1):
+   *   0.0% to use Rest: score 0
+   *   0.0% to use Sleep Talk: score 0
+   * 100.0% to use Liquidation (target 0): score 18
+   *   0.0% to use Earthquake: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Dondozo (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Dondozo lost 37 HP (238 -> 201)
+"Archeops went back to Tyler!"
+"Go for it, Magnezone!"
+[Use move] The opposing Dondozo (1) used Liquidation
+"The opposing Dondozo used Liquidation!"
+[HP change] Magnezone lost 92 HP (153 -> 61)
+"A critical hit!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Dondozo (1): 0
+Set up score for Dondozo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dondozo (1) is considering using Rest (4)...
+[AI] Dondozo (1) is considering using Sleep Talk...
+     +  1: move will fail
+[AI] Dondozo (1) is considering using Liquidation (1) against Magnezone (0)...
+     Dondozo (1)'s highest damaging move vs Magnezone: Earthquake
+      + 17 for slow kill
+[AI] Dondozo (1) is considering using Earthquake (1)...
+     Dondozo (1)'s highest damaging move vs Magnezone: Earthquake
+      + 17 for slow kill
+[AI] Move choices for Dondozo (1):
+   *   0.0% to use Rest: score 0
+   *   0.0% to use Sleep Talk: score 0
+   *  50.0% to use Liquidation (target 0): score 18
+   *  50.0% to use Earthquake: score 18
+   => will use Earthquake
+
+[Round order] Magnezone (0), the opposing Dondozo (1)
+
+[Use move] Magnezone (0) used Discharge
+"Magnezone used Discharge!"
+[HP change] The opposing Dondozo lost 201 HP (201 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Dondozo fainted!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Walrein] using Icicle Crash vs Magnezone does a max of 28/61 damage
+     [Walrein] using Liquidation vs Magnezone does a max of 57/61 damage
+     [Walrein] using Earthquake vs Magnezone does a max of 176/61 damage
+     Magnezone (0)'s best move: Discharge for 201/192 damage
+==============================
+     Magnezone (0) speed (78) vs Walrein speed: 88
+     [Walrein] + 12: for fast kill
+     [Walrein] final Switch score: 12
+==============================
+     [Kingler] using Liquidation vs Magnezone does a max of 136/61 damage
+     [Kingler] using High Horsepower vs Magnezone does a max of 311/61 damage
+     [Kingler] using Rock Slide vs Magnezone does a max of 40/61 damage
+     Magnezone (0)'s best move: Discharge for 306/137 damage
+==============================
+     Magnezone (0) speed (78) vs Kingler speed: 110
+     [Kingler] + 12: for fast kill
+     [Kingler] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Fisherman Juan sent out Walrein!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Walrein (1): 0
+Set up score for Walrein (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Walrein (1) is considering using Icicle Crash (1) against Magnezone (0)...
+     Walrein (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Walrein (1) is considering using Liquidation (1) against Magnezone (0)...
+     Walrein (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Walrein (1) is considering using Earthquake (1)...
+     Walrein (1)'s highest damaging move vs Magnezone: Earthquake
+      + 20 for fast kill
+[AI] Walrein (1) is considering using Swords Dance (4)...
+[AI] Move choices for Walrein (1):
+   *   0.0% to use Icicle Crash (target 0): score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Earthquake
+
+[Round order] The opposing Walrein (1), Magnezone (0)
+
+"OK, Magnezone! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Walrein (1) used Earthquake
+"The opposing Walrein used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+Set up score for Walrein (1): 0
+Set up score for Walrein (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Walrein (1) is considering using Icicle Crash (1) against Chimecho (0)...
+     Walrein (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Walrein (1) is considering using Liquidation (1) against Chimecho (0)...
+     Walrein (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Walrein (1) is considering using Earthquake (1)...
+     Walrein (1)'s highest damaging move vs Chimecho: Liquidation
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Walrein (1) is considering using Swords Dance (4)...
+[AI] Move choices for Walrein (1):
+   *   0.0% to use Icicle Crash (target 0): score 0
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Chimecho (0), the opposing Walrein (1)
+
+"Chimecho, switch out! Come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Walrein (1) used Liquidation
+"The opposing Walrein used Liquidation!"
+[HP change] Heracross lost 61 HP (161 -> 100)
+[Stat change] Heracross's Defense changed by -1 (0 -> -1)
+"Heracross's Defense fell!"
+
+[End of round 5]
+[HP change] Heracross lost 10 HP (100 -> 90)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Walrein (1): 0
+Set up score for Walrein (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): -1
+     Threat Score for Heracross (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Walrein (1) is considering using Icicle Crash (1) against Heracross (0)...
+     Walrein (1)'s highest damaging move vs Heracross: Liquidation
+      + 5 for having a kill even if we are killed first
+[AI] Walrein (1) is considering using Liquidation (1) against Heracross (0)...
+     Walrein (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Walrein (1) is considering using Earthquake (1)...
+     Walrein (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Walrein (1) is considering using Swords Dance (4)...
+[AI] Move choices for Walrein (1):
+   * 100.0% to use Icicle Crash (target 0): score 6
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Icicle Crash (target 0)
+
+[Round order] Heracross (0), the opposing Walrein (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Walrein lost 45 HP (192 -> 147)
+[HP change] The opposing Walrein lost 44 HP (147 -> 103)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Walrein (1) used Icicle Crash
+"The opposing Walrein used Icicle Crash!"
+[HP change] Heracross lost 90 HP (90 -> 0)
+"A critical hit!"
+"Heracross fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+"Go for it, Archeops!"
+
+===== Round 7 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Walrein (1): 0
+Set up score for Walrein (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Walrein (1) is considering using Icicle Crash (1) against Archeops (0)...
+     Walrein (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Walrein (1) is considering using Liquidation (1) against Archeops (0)...
+     Walrein (1)'s highest damaging move vs Archeops: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Walrein (1) is considering using Earthquake (1)...
+     Walrein (1)'s highest damaging move vs Archeops: Liquidation
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Walrein (1) is considering using Swords Dance (4)...
+[AI] Move choices for Walrein (1):
+   *   0.0% to use Icicle Crash (target 0): score 0
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Walrein (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Walrein lost 103 HP (103 -> 0)
+"It's super effective!"
+"The opposing Walrein fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Kingler] using Liquidation vs Archeops does a max of 366/164 damage
+     [Kingler] using Rock Slide vs Archeops does a max of 215/164 damage
+     Archeops (0)'s best move: Rock Slide for 82/137 damage
+==============================
+     Archeops (0) speed (143) vs Kingler speed: 110
+     [Kingler] +  9: for slow kill
+     [Kingler] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Fisherman Juan sent out Kingler!"
+
+===== Round 8 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingler (1) is considering using Liquidation (1) against Archeops (0)...
+     Kingler (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Kingler (1) is considering using High Horsepower (1) against Archeops (0)...
+     Kingler (1)'s highest damaging move vs Archeops: Liquidation
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Kingler (1) is considering using Rock Slide (1)...
+     Kingler (1)'s highest damaging move vs Archeops: Liquidation
+      + 17 for slow kill
+[AI] Kingler (1) is considering using Agility (4)...
+[AI] Move choices for Kingler (1):
+   *  50.0% to use Liquidation (target 0): score 18
+   *   0.0% to use High Horsepower (target 0): score 0
+   *  50.0% to use Rock Slide: score 18
+   *   0.0% to use Agility: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Archeops (0), the opposing Kingler (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Kingler lost 39 HP (137 -> 98)
+"Archeops went back to Tyler!"
+"Go for it, Chimecho!"
+[Use move] The opposing Kingler (1) used Liquidation
+"The opposing Kingler used Liquidation!"
+[HP change] Chimecho lost 142 HP (171 -> 29)
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingler (1) is considering using Liquidation (1) against Chimecho (0)...
+     Kingler (1)'s highest damaging move vs Chimecho: Liquidation
+      + 20 for fast kill
+[AI] Kingler (1) is considering using High Horsepower (1) against Chimecho (0)...
+     Kingler (1)'s highest damaging move vs Chimecho: Liquidation
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Kingler (1) is considering using Rock Slide (1)...
+     Kingler (1)'s highest damaging move vs Chimecho: Liquidation
+      + 20 for fast kill
+[AI] Kingler (1) is considering using Agility (4)...
+[AI] Move choices for Kingler (1):
+   *  50.0% to use Liquidation (target 0): score 21
+   *   0.0% to use High Horsepower (target 0): score 0
+   *  50.0% to use Rock Slide: score 21
+   *   0.0% to use Agility: score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Kingler (1), Chimecho (0)
+
+[Use move] The opposing Kingler (1) used Liquidation
+"The opposing Kingler used Liquidation!"
+[HP change] Chimecho lost 29 HP (29 -> 0)
+"Chimecho fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"Go for it, Bellibolt!"
+
+===== Round 10 =====
+
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingler (1) is considering using Liquidation (1) against Bellibolt (0)...
+     Kingler (1)'s highest damaging move vs Bellibolt: High Horsepower
+[AI] Kingler (1) is considering using High Horsepower (1) against Bellibolt (0)...
+     Kingler (1)'s highest damaging move vs Bellibolt: High Horsepower
+     + 4 to prioritize highest damaging move
+[AI] Kingler (1) is considering using Rock Slide (1)...
+     Kingler (1)'s highest damaging move vs Bellibolt: High Horsepower
+[AI] Kingler (1) is considering using Agility (4)...
+[AI] Move choices for Kingler (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use High Horsepower (target 0): score 5
+   *   0.0% to use Rock Slide: score 0
+   *   0.0% to use Agility: score 0
+   => will use High Horsepower (target 0)
+
+[Round order] The opposing Kingler (1), Bellibolt (0)
+
+[Use move] The opposing Kingler (1) used High Horsepower
+"The opposing Kingler used High Horsepower!"
+[HP change] Bellibolt lost 166 HP (189 -> 23)
+"It's super effective!"
+[HP change] Bellibolt gained 47 HP (23 -> 70)
+"Bellibolt restored its health using its Sitrus Berry!"
+[Item consumed] Bellibolt consumed its held Sitrus Berry
+[Item triggered] The opposing Kingler's Life Orb (recoil)
+[HP change] The opposing Kingler lost 13 HP (98 -> 85)
+"The opposing Kingler lost some of its HP!"
+[Use move] Bellibolt (0) used Discharge
+"Bellibolt used Discharge!"
+[HP change] The opposing Kingler lost 85 HP (85 -> 0)
+"It's super effective!"
+"The opposing Kingler fainted!"
+
+===== Player won =====
+
+"You defeated Fisherman Juan!"
+"Wow. You're great!"
+
+"You got $1,696 for winning!"
+Roles for ARBOLIVA: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for CHATOT: [:SPECIALBREAKER, :TANK]
+Roles for FARIGIRAF: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for HELIOLISK: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEWEAR: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Parasol Lady Alexa!"
+"Parasol Lady Alexa sent out Arboliva!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Arboliva (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Arboliva (1): 0
+Set up score for Arboliva (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Arboliva (1) is considering using Terrain Pulse (1) against Heracross (0)...
+     Arboliva (1)'s highest damaging move vs Heracross: Hyper Voice
+[AI] Arboliva (1) is considering using Hyper Voice (1)...
+     Arboliva (1)'s highest damaging move vs Heracross: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Arboliva (1) is considering using Earth Power (1) against Heracross (0)...
+     Arboliva (1)'s highest damaging move vs Heracross: Hyper Voice
+[AI] Arboliva (1) is considering using Hidden Power (1) against Heracross (0)...
+     Arboliva (1)'s highest damaging move vs Heracross: Hyper Voice
+[AI] Move choices for Arboliva (1):
+   *   0.0% to use Terrain Pulse (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] Heracross (0), the opposing Arboliva (1)
+
+[Use move] Heracross (0) used Brick Break
+"Heracross used Brick Break!"
+[HP change] The opposing Arboliva lost 159 HP (159 -> 0)
+"It's super effective!"
+[Ability triggered] The opposing Arboliva's Seed Sower
+"Grass grew to cover the battlefield!"
+"The opposing Arboliva fainted!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (161 -> 151)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+==============================
+     [Chatot] using Chatter vs Heracross does a max of 222/151 damage
+     [Chatot] using Hyper Voice vs Heracross does a max of 75/151 damage
+     [Chatot] using Heat Wave vs Heracross does a max of 82/151 damage
+     Heracross (0)'s best move: Rock Blast for 264/157 damage
+==============================
+     Heracross (0) speed (115) vs Chatot speed: 126
+     [Chatot] + 12: for fast kill
+     [Chatot] final Switch score: 12
+==============================
+     [Farigiraf] using Hyper Voice vs Heracross does a max of 78/151 damage
+     [Farigiraf] using Twin Beam vs Heracross does a max of 141/151 damage
+     [Farigiraf] using Earth Power vs Heracross does a max of 26/151 damage
+     Heracross (0)'s best move: Pin Missile for 279/206 damage
+==============================
+     Heracross (0) speed (115) vs Farigiraf speed: 85
+     [Farigiraf] -  9: for target fast kill
+     [Farigiraf] final Switch score: -9
+==============================
+     [Heliolisk] using Thunderbolt vs Heracross does a max of 91/151 damage
+     [Heliolisk] using Hyper Voice vs Heracross does a max of 91/151 damage
+     [Heliolisk] using Surf vs Heracross does a max of 61/151 damage
+     [Heliolisk] using Grass Knot vs Heracross does a max of 18/151 damage
+     Heracross (0)'s best move: Brick Break for 339/145 damage
+==============================
+     Heracross (0) speed (115) vs Heliolisk speed: 149
+     [Heliolisk] -  7: for target slow kill
+     [Heliolisk] final Switch score: -7
+==============================
+     [Bewear] using Body Slam vs Heracross does a max of 97/151 damage
+     [Bewear] using Drain Punch vs Heracross does a max of 42/151 damage
+     [Bewear] using Darkest Lariat vs Heracross does a max of 32/151 damage
+     [Bewear] using Shadow Punch vs Heracross does a max of 46/151 damage
+     Heracross (0)'s best move: Brick Break for 123/206 damage
+==============================
+     Heracross (0) speed (115) vs Bewear speed: 85
+     [Bewear] -  5: for target having fast 2HKO and us having no kill
+     [Bewear] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (12)
+"Parasol Lady Alexa sent out Chatot!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Chatot (1): 0
+Set up score for Chatot (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chatot (1) is considering using Chatter (1) against Heracross (0)...
+     Chatot (1)'s highest damaging move vs Heracross: Chatter
+      + 20 for fast kill
+[AI] Chatot (1) is considering using Hyper Voice (1)...
+     Chatot (1)'s highest damaging move vs Heracross: Chatter
+[AI] Chatot (1) is considering using Heat Wave (1)...
+     Chatot (1)'s highest damaging move vs Heracross: Chatter
+[AI] Chatot (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Chatot (1):
+   * 100.0% to use Chatter (target 0): score 21
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Roost: score 0
+   => will use Chatter (target 0)
+
+[Round order] The opposing Chatot (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Chatot (1) used Chatter
+"The opposing Chatot used Chatter!"
+[HP change] Floatzel lost 91 HP (172 -> 81)
+"Floatzel became confused!"
+[Lingering effect] Floatzel's confusion count is 3
+"Floatzel's Persim Berry snapped it out of its confusion!"
+[Item consumed] Floatzel consumed its held Persim Berry
+[Stat change] The opposing Chatot's Special Attack changed by +1 (0 -> 1)
+"The opposing Chatot's Special Attack rose!"
+[Item consumed] The opposing Chatot consumed its held Throat Spray
+
+[End of round 2]
+[Lingering effect] Grassy Terrain heals Floatzel
+[HP change] Floatzel gained 10 HP (81 -> 91)
+"Floatzel's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Chatot (1): 1
+Set up score for Chatot (1): 1
+Set up score for Chatot (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-6) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chatot (1) is considering using Chatter (1) against Floatzel (0)...
+     Chatot (1)'s highest damaging move vs Floatzel: Hyper Voice
+      + 17 for slow kill
+[AI] Chatot (1) is considering using Hyper Voice (1)...
+     Chatot (1)'s highest damaging move vs Floatzel: Hyper Voice
+      + 17 for slow kill
+[AI] Chatot (1) is considering using Heat Wave (1)...
+     Chatot (1)'s highest damaging move vs Floatzel: Hyper Voice
+[AI] Chatot (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Chatot (1):
+   *  50.0% to use Chatter (target 0): score 18
+   *  50.0% to use Hyper Voice: score 18
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Roost: score 0
+   => will use Chatter (target 0)
+
+[Round order] Floatzel (0), the opposing Chatot (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Chatot lost 38 HP (157 -> 119)
+[Use move] The opposing Chatot (1) used Chatter
+"The opposing Chatot flinched and couldn't move!"
+
+[End of round 3]
+[Lingering effect] Grassy Terrain heals Floatzel
+[HP change] Floatzel gained 10 HP (91 -> 101)
+"Floatzel's HP was restored."
+Trick Room Turns: 0
+"Grass is covering the battlefield."
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Chatot (1): 1
+Set up score for Chatot (1): 1
+Set up score for Chatot (1): 1
+     [Switch AI] +1 Do not reset buffed stats
+[AI] Switch out Score (-6) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chatot (1) is considering using Chatter (1) against Floatzel (0)...
+     Chatot (1)'s highest damaging move vs Floatzel: Hyper Voice
+      + 17 for slow kill
+[AI] Chatot (1) is considering using Hyper Voice (1)...
+     Chatot (1)'s highest damaging move vs Floatzel: Hyper Voice
+      + 17 for slow kill
+[AI] Chatot (1) is considering using Heat Wave (1)...
+     Chatot (1)'s highest damaging move vs Floatzel: Hyper Voice
+[AI] Chatot (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Chatot (1):
+   *  50.0% to use Chatter (target 0): score 18
+   *  50.0% to use Hyper Voice: score 18
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Roost: score 0
+   => will use Chatter (target 0)
+
+[Round order] Floatzel (0), the opposing Chatot (1)
+
+[Use move] Floatzel (0) used Ice Spinner
+"Floatzel used Ice Spinner!"
+[HP change] The opposing Chatot lost 119 HP (119 -> 0)
+"It's super effective!"
+"The opposing Chatot fainted!"
+"The grass disappeared from the battlefield."
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Farigiraf] using Hyper Voice vs Floatzel does a max of 153/101 damage
+     [Farigiraf] using Twin Beam vs Floatzel does a max of 136/101 damage
+     [Farigiraf] using Earth Power vs Floatzel does a max of 102/101 damage
+     Floatzel (0)'s best move: Aqua Tail for 96/206 damage
+==============================
+     Floatzel (0) speed (145) vs Farigiraf speed: 85
+     [Farigiraf] +  9: for slow kill
+     [Farigiraf] final Switch score: 9
+==============================
+     [Heliolisk] using Thunderbolt vs Floatzel does a max of 358/101 damage
+     [Heliolisk] using Hyper Voice vs Floatzel does a max of 179/101 damage
+     [Heliolisk] using Surf vs Floatzel does a max of 59/101 damage
+     [Heliolisk] using Grass Knot vs Floatzel does a max of 109/101 damage
+     Floatzel (0)'s best move: Ice Spinner for 71/145 damage
+==============================
+     Floatzel (0) speed (145) vs Heliolisk speed: 149
+     [Heliolisk] + 12: for fast kill
+     [Heliolisk] final Switch score: 12
+==============================
+     [Bewear] using Body Slam vs Floatzel does a max of 126/101 damage
+     [Bewear] using Drain Punch vs Floatzel does a max of 111/101 damage
+     [Bewear] using Darkest Lariat vs Floatzel does a max of 84/101 damage
+     [Bewear] using Shadow Punch vs Floatzel does a max of 59/101 damage
+     Floatzel (0)'s best move: Aqua Tail for 42/206 damage
+==============================
+     Floatzel (0) speed (145) vs Bewear speed: 85
+     [Bewear] +  9: for slow kill
+     [Bewear] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Parasol Lady Alexa sent out Heliolisk!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Heliolisk (1): 0
+Set up score for Heliolisk (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heliolisk (1) is considering using Thunderbolt (1) against Floatzel (0)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+      + 20 for fast kill
+[AI] Heliolisk (1) is considering using Hyper Voice (1)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+      + 20 for fast kill
+[AI] Heliolisk (1) is considering using Surf (1)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Heliolisk (1) is considering using Grass Knot (1) against Floatzel (0)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Move choices for Heliolisk (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Hyper Voice: score 21
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] The opposing Heliolisk (1), Floatzel (0)
+
+"Floatzel, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Heliolisk (1) used Thunderbolt
+"The opposing Heliolisk used Thunderbolt!"
+[HP change] Chimecho lost 91 HP (171 -> 80)
+[Item triggered] The opposing Heliolisk's Life Orb (recoil)
+[HP change] The opposing Heliolisk lost 14 HP (145 -> 131)
+"The opposing Heliolisk lost some of its HP!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Heliolisk (1): 0
+Set up score for Heliolisk (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heliolisk (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Heliolisk (1)'s highest damaging move vs Chimecho: Hyper Voice
+      + 20 for fast kill
+[AI] Heliolisk (1) is considering using Hyper Voice (1)...
+     Heliolisk (1)'s highest damaging move vs Chimecho: Hyper Voice
+      + 20 for fast kill
+[AI] Heliolisk (1) is considering using Surf (1)...
+     Heliolisk (1)'s highest damaging move vs Chimecho: Hyper Voice
+[AI] Heliolisk (1) is considering using Grass Knot (1) against Chimecho (0)...
+     Heliolisk (1)'s highest damaging move vs Chimecho: Hyper Voice
+[AI] Move choices for Heliolisk (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Hyper Voice: score 21
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Heliolisk (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Heliolisk (1) used Hyper Voice
+"The opposing Heliolisk used Hyper Voice!"
+[HP change] Obstagoon lost 96 HP (169 -> 73)
+[HP change] Obstagoon gained 42 HP (73 -> 115)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+[Item triggered] The opposing Heliolisk's Life Orb (recoil)
+[HP change] The opposing Heliolisk lost 14 HP (131 -> 117)
+"The opposing Heliolisk lost some of its HP!"
+
+[End of round 6]
+[HP change] Obstagoon lost 10 HP (115 -> 105)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Heliolisk (1): 0
+Set up score for Heliolisk (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heliolisk (1) is considering using Thunderbolt (1) against Obstagoon (0)...
+     Heliolisk (1)'s highest damaging move vs Obstagoon: Hyper Voice
+[AI] Heliolisk (1) is considering using Hyper Voice (1)...
+     Heliolisk (1)'s highest damaging move vs Obstagoon: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Heliolisk (1) is considering using Surf (1)...
+     Heliolisk (1)'s highest damaging move vs Obstagoon: Hyper Voice
+[AI] Heliolisk (1) is considering using Grass Knot (1) against Obstagoon (0)...
+     Heliolisk (1)'s highest damaging move vs Obstagoon: Hyper Voice
+[AI] Move choices for Heliolisk (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] Obstagoon (0), the opposing Heliolisk (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Heliolisk lost 101 HP (117 -> 16)
+[Use move] The opposing Heliolisk (1) used Hyper Voice
+"The opposing Heliolisk used Hyper Voice!"
+[HP change] Obstagoon lost 105 HP (105 -> 0)
+"A critical hit!"
+"Obstagoon fainted!"
+[Item triggered] The opposing Heliolisk's Life Orb (recoil)
+[HP change] The opposing Heliolisk lost 14 HP (16 -> 2)
+"The opposing Heliolisk lost some of its HP!"
+
+[End of round 7]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Floatzel!"
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Heliolisk (1): 0
+Set up score for Heliolisk (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Heliolisk (1) is considering using Thunderbolt (1) against Floatzel (0)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+      + 20 for fast kill
+[AI] Heliolisk (1) is considering using Hyper Voice (1)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+      + 20 for fast kill
+[AI] Heliolisk (1) is considering using Surf (1)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Heliolisk (1) is considering using Grass Knot (1) against Floatzel (0)...
+     Heliolisk (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Move choices for Heliolisk (1):
+   *  50.0% to use Thunderbolt (target 0): score 21
+   *  50.0% to use Hyper Voice: score 21
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Grass Knot (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] Floatzel (0), the opposing Heliolisk (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Heliolisk lost 2 HP (2 -> 0)
+"The opposing Heliolisk fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Farigiraf] using Hyper Voice vs Floatzel does a max of 153/101 damage
+     [Farigiraf] using Twin Beam vs Floatzel does a max of 136/101 damage
+     [Farigiraf] using Earth Power vs Floatzel does a max of 102/101 damage
+     Floatzel (0)'s best move: Aqua Tail for 96/206 damage
+==============================
+     Floatzel (0) speed (145) vs Farigiraf speed: 85
+     [Farigiraf] +  9: for slow kill
+     [Farigiraf] final Switch score: 9
+==============================
+     [Bewear] using Body Slam vs Floatzel does a max of 126/101 damage
+     [Bewear] using Drain Punch vs Floatzel does a max of 111/101 damage
+     [Bewear] using Darkest Lariat vs Floatzel does a max of 84/101 damage
+     [Bewear] using Shadow Punch vs Floatzel does a max of 59/101 damage
+     Floatzel (0)'s best move: Aqua Tail for 42/206 damage
+==============================
+     Floatzel (0) speed (145) vs Bewear speed: 85
+     [Bewear] +  9: for slow kill
+     [Bewear] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Parasol Lady Alexa sent out Farigiraf!"
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Farigiraf (1): 0
+Set up score for Farigiraf (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Floatzel: Hyper Voice
+      + 17 for slow kill
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Floatzel (0)...
+     Farigiraf (1)'s highest damaging move vs Floatzel: Hyper Voice
+      + 17 for slow kill
+[AI] Farigiraf (1) is considering using Earth Power (1) against Floatzel (0)...
+     Farigiraf (1)'s highest damaging move vs Floatzel: Hyper Voice
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   *  50.0% to use Hyper Voice: score 18
+   *  50.0% to use Twin Beam (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Twin Beam (target 0)
+
+[Round order] Floatzel (0), the opposing Farigiraf (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Farigiraf lost 59 HP (206 -> 147)
+"Floatzel went back to Tyler!"
+"Go for it, Houndoom!"
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+[Use move] The opposing Farigiraf (1) used Twin Beam
+"The opposing Farigiraf used Twin Beam!"
+[Target immune] Houndoom's type immunity
+"It doesn't affect Houndoom..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Farigiraf (1): 0
+Set up score for Farigiraf (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Houndoom: Earth Power
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Houndoom (0)...
+     Farigiraf (1)'s highest damaging move vs Houndoom: Earth Power
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Farigiraf (1) is considering using Earth Power (1) against Houndoom (0)...
+     Farigiraf (1)'s highest damaging move vs Houndoom: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Twin Beam (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Agility: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Houndoom (0), the opposing Farigiraf (1)
+
+[Use move] Houndoom (0) used Dark Pulse
+"Houndoom used Dark Pulse!"
+[HP change] The opposing Farigiraf lost 126 HP (147 -> 21)
+"It's super effective!"
+[Use move] The opposing Farigiraf (1) used Earth Power
+"The opposing Farigiraf used Earth Power!"
+[HP change] Houndoom lost 136 HP (159 -> 23)
+"It's super effective!"
+[HP change] Houndoom gained 39 HP (23 -> 62)
+"Houndoom restored its health using its Sitrus Berry!"
+[Item consumed] Houndoom consumed its held Sitrus Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Farigiraf (1): 0
+Set up score for Farigiraf (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Farigiraf (1) is considering using Hyper Voice (1)...
+     Farigiraf (1)'s highest damaging move vs Houndoom: Earth Power
+      + 17 for slow kill
+[AI] Farigiraf (1) is considering using Twin Beam (1) against Houndoom (0)...
+     Farigiraf (1)'s highest damaging move vs Houndoom: Earth Power
+     move will not affect Houndoom (0)
+     -  1: move will fail
+[AI] Farigiraf (1) is considering using Earth Power (1) against Houndoom (0)...
+     Farigiraf (1)'s highest damaging move vs Houndoom: Earth Power
+      + 17 for slow kill
+[AI] Farigiraf (1) is considering using Agility (4)...
+[AI] Move choices for Farigiraf (1):
+   *  50.0% to use Hyper Voice: score 18
+   *   0.0% to use Twin Beam (target 0): score 0
+   *  50.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Agility: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Houndoom (0), the opposing Farigiraf (1)
+
+[Use move] Houndoom (0) used Flamethrower
+"Houndoom used Flamethrower!"
+[HP change] The opposing Farigiraf lost 21 HP (21 -> 0)
+"The opposing Farigiraf fainted!"
+"Houndoom got 1 Exp. Points!"
+
+[End of round 11]
+Trick Room Turns: 0
+     move will not affect Houndoom (0)
+==============================
+     [Bewear] using Body Slam vs Houndoom does a max of 147/62 damage
+     [Bewear] using Drain Punch vs Houndoom does a max of 261/62 damage
+     [Bewear] using Darkest Lariat vs Houndoom does a max of 49/62 damage
+     [Bewear] using Shadow Punch vs Houndoom does a max of 35/62 damage
+     Houndoom (0)'s best move: Flamethrower for 120/206 damage
+==============================
+     Houndoom (0) speed (121) vs Bewear speed: 85
+     [Bewear] +  9: for slow kill
+     [Bewear] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Parasol Lady Alexa sent out Bewear!"
+
+===== Round 12 =====
+
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Body Slam (1) against Houndoom (0)...
+     Bewear (1)'s highest damaging move vs Houndoom: Drain Punch
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Drain Punch (1) against Houndoom (0)...
+     Bewear (1)'s highest damaging move vs Houndoom: Drain Punch
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Darkest Lariat (1) against Houndoom (0)...
+     Bewear (1)'s highest damaging move vs Houndoom: Drain Punch
+[AI] Bewear (1) is considering using Shadow Punch (1) against Houndoom (0)...
+     Bewear (1)'s highest damaging move vs Houndoom: Drain Punch
+[AI] Move choices for Bewear (1):
+   *  50.0% to use Body Slam (target 0): score 18
+   *  50.0% to use Drain Punch (target 0): score 18
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   *   0.0% to use Shadow Punch (target 0): score 0
+   => will use Body Slam (target 0)
+
+[Round order] Houndoom (0), the opposing Bewear (1)
+
+[Use move] Houndoom (0) used Fire Blast
+"Houndoom used Fire Blast!"
+[HP change] The opposing Bewear lost 133 HP (206 -> 73)
+[Use move] The opposing Bewear (1) used Body Slam
+"The opposing Bewear used Body Slam!"
+[HP change] Houndoom lost 62 HP (62 -> 0)
+"Houndoom fainted!"
+
+[End of round 12]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Alakazam!"
+
+===== Round 13 =====
+
+Set up score for Alakazam (0): 0
+     Threat Score for Alakazam (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bewear (1) is considering using Body Slam (1) against Alakazam (0)...
+     Bewear (1)'s highest damaging move vs Alakazam: Darkest Lariat
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Drain Punch (1) against Alakazam (0)...
+     Bewear (1)'s highest damaging move vs Alakazam: Darkest Lariat
+[AI] Bewear (1) is considering using Darkest Lariat (1) against Alakazam (0)...
+     Bewear (1)'s highest damaging move vs Alakazam: Darkest Lariat
+      + 17 for slow kill
+[AI] Bewear (1) is considering using Shadow Punch (1) against Alakazam (0)...
+     Bewear (1)'s highest damaging move vs Alakazam: Darkest Lariat
+      + 17 for slow kill
+[AI] Move choices for Bewear (1):
+   *  33.3% to use Body Slam (target 0): score 18
+   *   0.0% to use Drain Punch (target 0): score 0
+   *  33.3% to use Darkest Lariat (target 0): score 18
+   *  33.3% to use Shadow Punch (target 0): score 18
+   => will use Darkest Lariat (target 0)
+
+[Round order] Alakazam (0), the opposing Bewear (1)
+
+[Use move] Alakazam (0) used Psychic
+"Alakazam used Psychic!"
+[HP change] The opposing Bewear lost 73 HP (73 -> 0)
+"It's super effective!"
+"The opposing Bewear fainted!"
+"Alakazam got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Parasol Lady Alexa!"
+"Wow. You're great!"
+
+"You got $1,696 for winning!"
