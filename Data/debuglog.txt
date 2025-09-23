@@ -402976,3 +402976,1778 @@ Roles for CHARIZARD: [:PHYSICALBREAKER, :SETUPSWEEPER]
 Galactic Commander Jupiter sent out Hatterene!"
 "Rival Barry sent out Staraptor!
 Go! Chimecho!"
+Roles for WEEZING: [:SPECIALBREAKER]
+Roles for MUK: [:PHYSICALBREAKER]
+Roles for PROBOPASS: [:SPECIALBREAKER]
+Roles for STONJOURNER: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Scientist Stefano!"
+"Scientist Stefano sent out Weezing!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Weezing (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Weezing (1): 0
+Set up score for Weezing (1): 0
+     [Switch AI] +5 Party member [Muk] is immune to strongest move against Weezing (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+==============================
+     [Muk] using Poison Jab vs Chimecho does a max of 147/171 damage
+     [Muk] using Crunch vs Chimecho does a max of 74/171 damage
+     [Muk] using Fire Punch vs Chimecho does a max of 46/171 damage
+     [Muk] using Explosion vs Chimecho does a max of 200/171 damage
+     Chimecho (0)'s best move: Moonblast for 57/183 damage
+==============================
+     Chimecho (0) speed (106) vs Muk speed: 71
+     [Muk] +  9: for slow kill
+     [Muk] final Switch score: 9
+==============================
+     [Probopass] using Thunderbolt vs Chimecho does a max of 59/171 damage
+     [Probopass] using Flash Cannon vs Chimecho does a max of 105/171 damage
+     [Probopass] using Explosion vs Chimecho does a max of 113/171 damage
+     Chimecho (0)'s best move: Moonblast for 30/140 damage
+==============================
+     Chimecho (0) speed (106) vs Probopass speed: 55
+     [Probopass] +  3: for outdamage
+     [Probopass] final Switch score: 3
+==============================
+     [Stonjourner] using Stone Edge vs Chimecho does a max of 101/171 damage
+     [Stonjourner] using Brick Break vs Chimecho does a max of 13/171 damage
+     Chimecho (0)'s best move: Moonblast for 249/182 damage
+==============================
+     Chimecho (0) speed (106) vs Stonjourner speed: 102
+     [Stonjourner] - 20: for us being killed on switch in
+     [Stonjourner] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (9)
+   => will switch with Muk
+
+[Round order] Chimecho (0), the opposing Weezing (1)
+
+"Scientist Stefano withdrew Weezing!"
+"Scientist Stefano sent out Muk!"
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[Target immune] The opposing Muk's type immunity
+"It doesn't affect the opposing Muk..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Muk (1): 0
+Set up score for Muk (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Muk (1) is considering using Poison Jab (1) against Chimecho (0)...
+     Muk (1)'s highest damaging move vs Chimecho: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Muk (1) is considering using Crunch (1) against Chimecho (0)...
+     Muk (1)'s highest damaging move vs Chimecho: Poison Jab
+[AI] Muk (1) is considering using Fire Punch (1) against Chimecho (0)...
+     Muk (1)'s highest damaging move vs Chimecho: Poison Jab
+[AI] Muk (1) is considering using Explosion (1)...
+     Muk (1)'s highest damaging move vs Chimecho: Poison Jab
+      + 17 for slow kill
+[AI] Move choices for Muk (1):
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Fire Punch (target 0): score 0
+   * 100.0% to use Explosion: score 18
+   => will use Explosion
+
+[Round order] Chimecho (0), the opposing Muk (1)
+
+"Chimecho, come back!"
+"You're in charge, Golem!"
+[Use move] The opposing Muk (1) used Explosion
+"The opposing Muk used Explosion!"
+[HP change] Golem lost 62 HP (170 -> 108)
+[HP change] The opposing Muk lost 183 HP (183 -> 0)
+"The opposing Muk fainted!"
+"It's not very effective..."
+"Golem got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Weezing] using Sludge Bomb vs Golem does a max of 46/108 damage
+     [Weezing] using Flamethrower vs Golem does a max of 31/108 damage
+     [Weezing] using Dark Pulse vs Golem does a max of 54/108 damage
+     [Weezing] using Explosion vs Golem does a max of 54/108 damage
+     Golem (0)'s best move: Explosion for 178/143 damage
+==============================
+     Golem (0) speed (69) vs Weezing speed: 73
+     [Weezing] -  7: for target slow kill
+     [Weezing] final Switch score: -7
+==============================
+     [Probopass] using Thunderbolt vs Golem does a max of 42/108 damage
+     [Probopass] using Flash Cannon vs Golem does a max of 75/108 damage
+     [Probopass] using Earth Power vs Golem does a max of 224/108 damage
+     [Probopass] using Explosion vs Golem does a max of 38/108 damage
+     Golem (0)'s best move: Explosion for 75/140 damage
+==============================
+     Golem (0) speed (69) vs Probopass speed: 55
+     [Probopass] +  9: for slow kill
+     [Probopass] final Switch score: 9
+==============================
+     [Stonjourner] using Stone Edge vs Golem does a max of 68/108 damage
+     [Stonjourner] using Brick Break vs Golem does a max of 68/108 damage
+     [Stonjourner] using Earthquake vs Golem does a max of 180/108 damage
+     Golem (0)'s best move: Explosion for 79/182 damage
+==============================
+     Golem (0) speed (69) vs Stonjourner speed: 102
+     [Stonjourner] + 12: for fast kill
+     [Stonjourner] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Scientist Stefano sent out Stonjourner!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Stonjourner (1): 0
+Set up score for Stonjourner (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stonjourner (1) is considering using Stone Edge (1) against Golem (0)...
+     Stonjourner (1)'s highest damaging move vs Golem: Earthquake
+[AI] Stonjourner (1) is considering using Brick Break (1) against Golem (0)...
+     Stonjourner (1)'s highest damaging move vs Golem: Earthquake
+[AI] Stonjourner (1) is considering using Earthquake (1)...
+     Stonjourner (1)'s highest damaging move vs Golem: Earthquake
+      + 20 for fast kill
+[AI] Stonjourner (1) is considering using Rock Polish (4)...
+[AI] Move choices for Stonjourner (1):
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Rock Polish: score 0
+   => will use Earthquake
+
+[Round order] The opposing Stonjourner (1), Golem (0)
+
+"Golem, switch out! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Stonjourner (1) used Earthquake
+"The opposing Stonjourner used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Stonjourner (1): 0
+Set up score for Stonjourner (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stonjourner (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Stonjourner (1)'s highest damaging move vs Chimecho: Stone Edge
+     + 4 to prioritize highest damaging move
+[AI] Stonjourner (1) is considering using Brick Break (1) against Chimecho (0)...
+     Stonjourner (1)'s highest damaging move vs Chimecho: Stone Edge
+[AI] Stonjourner (1) is considering using Earthquake (1)...
+     Stonjourner (1)'s highest damaging move vs Chimecho: Stone Edge
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Stonjourner (1) is considering using Rock Polish (4)...
+[AI] Move choices for Stonjourner (1):
+   * 100.0% to use Stone Edge (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Rock Polish: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Chimecho (0), the opposing Stonjourner (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Stonjourner lost 182 HP (182 -> 0)
+"The opposing Stonjourner fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+==============================
+     [Weezing] using Sludge Bomb vs Chimecho does a max of 126/171 damage
+     [Weezing] using Flamethrower vs Chimecho does a max of 42/171 damage
+     [Weezing] using Dark Pulse vs Chimecho does a max of 37/171 damage
+     [Weezing] using Explosion vs Chimecho does a max of 162/171 damage
+     Chimecho (0)'s best move: Extrasensory for 189/143 damage
+==============================
+     Chimecho (0) speed (106) vs Weezing speed: 73
+     [Weezing] -  9: for target fast kill
+     [Weezing] final Switch score: -9
+==============================
+     [Probopass] using Thunderbolt vs Chimecho does a max of 59/171 damage
+     [Probopass] using Flash Cannon vs Chimecho does a max of 105/171 damage
+     [Probopass] using Explosion vs Chimecho does a max of 113/171 damage
+     Chimecho (0)'s best move: Moonblast for 30/140 damage
+==============================
+     Chimecho (0) speed (106) vs Probopass speed: 55
+     [Probopass] +  3: for outdamage
+     [Probopass] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Scientist Stefano sent out Probopass!"
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+[AI] Probopass (1) is considering using Flash Cannon (1) against Chimecho (0)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Earth Power (1) against Chimecho (0)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Chimecho (0), the opposing Probopass (1)
+
+"Chimecho, come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Probopass (1) used Flash Cannon
+"The opposing Probopass used Flash Cannon!"
+[HP change] Duraludon lost 38 HP (157 -> 119)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Duraludon (0)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+[AI] Probopass (1) is considering using Flash Cannon (1) against Duraludon (0)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+[AI] Probopass (1) is considering using Earth Power (1) against Duraludon (0)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+      + 17 for slow kill
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Explosion: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Duraludon (0), the opposing Probopass (1)
+
+"Duraludon, switch out! Come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Probopass (1) used Earth Power
+"The opposing Probopass used Earth Power!"
+[HP change] Heracross lost 16 HP (161 -> 145)
+"It's not very effective..."
+[Stat change] Heracross's Special Defense changed by -1 (0 -> -1)
+"Heracross's Special Defense fell!"
+
+[End of round 6]
+[HP change] Heracross lost 10 HP (145 -> 135)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): -1
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Heracross (0)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Flash Cannon (1) against Heracross (0)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+[AI] Probopass (1) is considering using Earth Power (1) against Heracross (0)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+[AI] Move choices for Probopass (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Heracross (0), the opposing Probopass (1)
+
+"Heracross, switch out! Come back!"
+"You're in charge, Golem!"
+[Use move] The opposing Probopass (1) used Thunderbolt
+"The opposing Probopass used Thunderbolt!"
+[HP change] Golem lost 41 HP (108 -> 67)
+"It's not very effective..."
+[HP change] Golem gained 42 HP (67 -> 109)
+"Golem restored its health using its Sitrus Berry!"
+[Item consumed] Golem consumed its held Sitrus Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Golem (0): 0
+     Threat Score for Golem (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Golem (0)...
+     Probopass (1)'s highest damaging move vs Golem: Earth Power
+[AI] Probopass (1) is considering using Flash Cannon (1) against Golem (0)...
+     Probopass (1)'s highest damaging move vs Golem: Earth Power
+[AI] Probopass (1) is considering using Earth Power (1) against Golem (0)...
+     Probopass (1)'s highest damaging move vs Golem: Earth Power
+      + 17 for slow kill
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Golem: Earth Power
+     set to - 19 because we have a move that kills other than this
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Explosion: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Golem (0), the opposing Probopass (1)
+
+"Golem, switch out! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Probopass (1) used Earth Power
+"The opposing Probopass used Earth Power!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Chimecho (0)
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Chimecho (0)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+[AI] Probopass (1) is considering using Flash Cannon (1) against Chimecho (0)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Earth Power (1) against Chimecho (0)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Chimecho: Flash Cannon
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   * 100.0% to use Flash Cannon (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flash Cannon (target 0)
+
+[Round order] Chimecho (0), the opposing Probopass (1)
+
+"Chimecho, switch out! Come back!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Probopass (1) used Flash Cannon
+"The opposing Probopass used Flash Cannon!"
+[HP change] Empoleon lost 12 HP (174 -> 162)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Empoleon (0)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Flash Cannon (1) against Empoleon (0)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+[AI] Probopass (1) is considering using Earth Power (1) against Empoleon (0)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+[AI] Move choices for Probopass (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Empoleon (0), the opposing Probopass (1)
+
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Probopass lost 33 HP (140 -> 107)
+[Use move] The opposing Probopass (1) used Thunderbolt
+"The opposing Probopass used Thunderbolt!"
+[HP change] Empoleon lost 110 HP (162 -> 52)
+"It's super effective!"
+[HP change] Empoleon gained 43 HP (52 -> 95)
+"Empoleon restored its health using its Sitrus Berry!"
+[Item consumed] Empoleon consumed its held Sitrus Berry
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Empoleon (0)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Flash Cannon (1) against Empoleon (0)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+[AI] Probopass (1) is considering using Earth Power (1) against Empoleon (0)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Empoleon: Thunderbolt
+     set to - 19 because we have a move that kills other than this
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Probopass (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Empoleon (0), the opposing Probopass (1)
+
+"Empoleon, come back!"
+"Go for it, Duraludon!"
+[Use move] The opposing Probopass (1) used Thunderbolt
+"The opposing Probopass used Thunderbolt!"
+[HP change] Duraludon lost 46 HP (119 -> 73)
+"It's not very effective..."
+[HP change] Duraludon gained 39 HP (73 -> 112)
+"Duraludon restored its health using its Sitrus Berry!"
+[Item consumed] Duraludon consumed its held Sitrus Berry
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Duraludon (0)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+[AI] Probopass (1) is considering using Flash Cannon (1) against Duraludon (0)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+[AI] Probopass (1) is considering using Earth Power (1) against Duraludon (0)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+      + 17 for slow kill
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Duraludon: Earth Power
+     set to - 19 because we have a move that kills other than this
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Probopass (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Flash Cannon (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 18
+   *   0.0% to use Explosion: score 0
+   => will use Earth Power (target 0)
+
+[Round order] Duraludon (0), the opposing Probopass (1)
+
+"Duraludon, switch out! Come back!"
+"Go for it, Heracross!"
+[Use move] The opposing Probopass (1) used Earth Power
+"The opposing Probopass used Earth Power!"
+[HP change] Heracross lost 16 HP (135 -> 119)
+"It's not very effective..."
+
+[End of round 12]
+[HP change] Heracross lost 10 HP (119 -> 109)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Probopass (1): 0
+Set up score for Probopass (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Probopass (1) is considering using Thunderbolt (1) against Heracross (0)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Probopass (1) is considering using Flash Cannon (1) against Heracross (0)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+[AI] Probopass (1) is considering using Earth Power (1) against Heracross (0)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+[AI] Probopass (1) is considering using Explosion (1)...
+     Probopass (1)'s highest damaging move vs Heracross: Thunderbolt
+[AI] Move choices for Probopass (1):
+   * 100.0% to use Thunderbolt (target 0): score 5
+   *   0.0% to use Flash Cannon (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Thunderbolt (target 0)
+
+[Round order] Heracross (0), the opposing Probopass (1)
+
+[Use move] Heracross (0) used Brick Break
+"Heracross used Brick Break!"
+[HP change] The opposing Probopass lost 107 HP (107 -> 0)
+"It's super effective!"
+"The opposing Probopass fainted!"
+"Heracross got 1 Exp. Points!"
+"Duraludon got 1 Exp. Points!"
+
+[End of round 13]
+[HP change] Heracross lost 10 HP (109 -> 99)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Weezing] using Sludge Bomb vs Heracross does a max of 59/99 damage
+     [Weezing] using Flamethrower vs Heracross does a max of 78/99 damage
+     [Weezing] using Dark Pulse vs Heracross does a max of 18/99 damage
+     [Weezing] using Explosion vs Heracross does a max of 159/99 damage
+     Heracross (0)'s best move: Throat Chop for 65/143 damage
+==============================
+     Heracross (0) speed (115) vs Weezing speed: 73
+     [Weezing] +  9: for slow kill
+     [Weezing] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+"Scientist Stefano sent out Weezing!"
+
+===== Round 14 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weezing (1) is considering using Sludge Bomb (1) against Heracross (0)...
+     Weezing (1)'s highest damaging move vs Heracross: Flamethrower
+[AI] Weezing (1) is considering using Flamethrower (1) against Heracross (0)...
+     Weezing (1)'s highest damaging move vs Heracross: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Weezing (1) is considering using Dark Pulse (1) against Heracross (0)...
+     Weezing (1)'s highest damaging move vs Heracross: Flamethrower
+[AI] Weezing (1) is considering using Explosion (1)...
+     Weezing (1)'s highest damaging move vs Heracross: Flamethrower
+     - 5 to set one lower than other moves that can kill if we are last mon
+     skipping remaining scoring for Explosion because we are last mon
+[AI] Move choices for Weezing (1):
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Heracross (0), the opposing Weezing (1)
+
+"Heracross, come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Weezing (1) used Flamethrower
+"The opposing Weezing used Flamethrower!"
+[HP change] Duraludon lost 99 HP (112 -> 13)
+"A critical hit!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weezing (1) is considering using Sludge Bomb (1) against Duraludon (0)...
+     Weezing (1)'s highest damaging move vs Duraludon: Flamethrower
+     move will not affect Duraludon (0)
+     -  1: move will fail
+[AI] Weezing (1) is considering using Flamethrower (1) against Duraludon (0)...
+     Weezing (1)'s highest damaging move vs Duraludon: Flamethrower
+      + 17 for slow kill
+[AI] Weezing (1) is considering using Dark Pulse (1) against Duraludon (0)...
+     Weezing (1)'s highest damaging move vs Duraludon: Flamethrower
+      + 17 for slow kill
+[AI] Weezing (1) is considering using Explosion (1)...
+     Weezing (1)'s highest damaging move vs Duraludon: Flamethrower
+     set to - 19 because we have a move that kills other than this
+     skipping remaining scoring for Explosion because we are last mon
+[AI] Move choices for Weezing (1):
+   *   0.0% to use Sludge Bomb (target 0): score 0
+   *  50.0% to use Flamethrower (target 0): score 18
+   *  50.0% to use Dark Pulse (target 0): score 18
+   *   0.0% to use Explosion: score 0
+   => will use Dark Pulse (target 0)
+
+[Round order] Duraludon (0), the opposing Weezing (1)
+
+"Good job, Duraludon! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Weezing (1) used Dark Pulse
+"The opposing Weezing used Dark Pulse!"
+[HP change] Chimecho lost 33 HP (171 -> 138)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weezing (1) is considering using Sludge Bomb (1) against Chimecho (0)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Weezing (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Weezing (1) is considering using Dark Pulse (1) against Chimecho (0)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+[AI] Weezing (1) is considering using Explosion (1)...
+     Weezing (1)'s highest damaging move vs Chimecho: Sludge Bomb
+     - 5 to set one lower than other moves that can kill if we are last mon
+     skipping remaining scoring for Explosion because we are last mon
+[AI] Move choices for Weezing (1):
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Chimecho (0), the opposing Weezing (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Weezing lost 143 HP (143 -> 0)
+"It's super effective!"
+"The opposing Weezing fainted!"
+
+===== Player won =====
+
+"You defeated Scientist Stefano!"
+"Wow. You're great!"
+
+"You got $2,496 for winning!"
+Roles for WATCHOG: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for FURRET: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for OCTILLERY: [:SPECIALBREAKER, :CRIT]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for ARCANINE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Policeman Danny!"
+"Policeman Danny sent out Watchog!"
+"Go! Obstagoon!"
+[Round order] Obstagoon (0), the opposing Watchog (1)
+[Ability triggered] The opposing Watchog's Keen Eye
+"The opposing Watchog is getting pumped!"
+
+===== Round 1 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Watchog (1): 0
+Set up score for Watchog (1): 0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 2
+     End flag assignment.
+[AI] Watchog (1) is considering using Zen Headbutt (1) against Obstagoon (0)...
+     Watchog (1)'s highest damaging move vs Obstagoon: Brick Break
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Watchog (1) is considering using Brick Break (1) against Obstagoon (0)...
+     Watchog (1)'s highest damaging move vs Obstagoon: Brick Break
+     + 4 to prioritize highest damaging move
+[AI] Watchog (1) is considering using Return (1) against Obstagoon (0)...
+     Watchog (1)'s highest damaging move vs Obstagoon: Brick Break
+[AI] Watchog (1) is considering using U-turn (1) against Obstagoon (0)...
+     Watchog (1)'s highest damaging move vs Obstagoon: Brick Break
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Watchog (1):
+   *   0.0% to use Zen Headbutt (target 0): score 0
+   *  50.0% to use Brick Break (target 0): score 5
+   *   0.0% to use Return (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Brick Break (target 0)
+
+[Round order] Obstagoon (0), the opposing Watchog (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Watchog lost 158 HP (158 -> 0)
+"It's super effective!"
+"The opposing Watchog fainted!"
+"Obstagoon got 1 Exp. Points!"
+
+[End of round 1]
+[HP change] Obstagoon lost 10 HP (169 -> 159)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Furret] using Body Slam vs Obstagoon does a max of 82/159 damage
+     [Furret] using Sucker Punch vs Obstagoon does a max of 14/159 damage
+     [Furret] using Extreme Speed vs Obstagoon does a max of 76/159 damage
+     Obstagoon (0)'s best move: Night Slash for 99/163 damage
+==============================
+     Obstagoon (0) speed (118) vs Furret speed: 112
+     [Furret] -  5: for target having fast 2HKO and us having no kill
+     [Furret] final Switch score: -5
+==============================
+     [Octillery] using Snipe Shot vs Obstagoon does a max of 84/159 damage
+     [Octillery] using Ice Beam vs Obstagoon does a max of 53/159 damage
+     [Octillery] using Flamethrower vs Obstagoon does a max of 53/159 damage
+     Obstagoon (0)'s best move: Night Slash for 87/156 damage
+==============================
+     Obstagoon (0) speed (118) vs Octillery speed: 67
+     [Octillery] -  5: for target having fast 2HKO and us having no kill
+     [Octillery] final Switch score: -5
+==============================
+     [Decidueye] using Leaf Blade vs Obstagoon does a max of 86/159 damage
+     [Decidueye] using Thousand Arrows vs Obstagoon does a max of 43/159 damage
+     Obstagoon (0)'s best move: Night Slash for 89/156 damage
+==============================
+     Obstagoon (0) speed (118) vs Decidueye speed: 134
+     [Decidueye] +  6: for fast 2HKO
+     [Decidueye] final Switch score: 6
+==============================
+     [Arcanine] using Flare Blitz vs Obstagoon does a max of 120/159 damage
+     [Arcanine] using Head Smash vs Obstagoon does a max of 138/159 damage
+     [Arcanine] using Wild Charge vs Obstagoon does a max of 47/159 damage
+     [Arcanine] using Extreme Speed vs Obstagoon does a max of 42/159 damage
+     Obstagoon (0)'s best move: Night Slash for 83/176 damage
+==============================
+     Obstagoon (0) speed (118) vs Arcanine speed: 125
+     [Arcanine] +  6: for fast 2HKO
+     [Arcanine] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Danny sent out Decidueye!"
+
+===== Round 2 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Decidueye (1): 0
+Set up score for Decidueye (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Thousand Arrows (1)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Move choices for Decidueye (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Thousand Arrows: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Obstagoon (0), the opposing Decidueye (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Decidueye (1) used Leaf Blade
+"The opposing Decidueye used Leaf Blade!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Decidueye's Defense changed by -2 (0 -> -2)
+"The opposing Decidueye's Defense harshly fell!"
+
+[End of round 2]
+[HP change] Obstagoon lost 10 HP (159 -> 149)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Decidueye (1): -2
+Set up score for Decidueye (1): -2
+Set up score for Decidueye (1): -2
+Set up score for Decidueye (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Thousand Arrows (1)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Move choices for Decidueye (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Thousand Arrows: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Obstagoon (0), the opposing Decidueye (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Decidueye lost 154 HP (156 -> 2)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Decidueye!"
+[Item consumed] The opposing Decidueye consumed its held Colbur Berry
+[Use move] The opposing Decidueye (1) used Leaf Blade
+"The opposing Decidueye used Leaf Blade!"
+[HP change] Obstagoon lost 77 HP (149 -> 72)
+[HP change] Obstagoon gained 42 HP (72 -> 114)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 3]
+[HP change] Obstagoon lost 10 HP (114 -> 104)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Decidueye (1): -2
+Set up score for Decidueye (1): -2
+Set up score for Decidueye (1): -2
+Set up score for Decidueye (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Decidueye (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Decidueye (1) is considering using Spirit Shackle (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Decidueye (1) is considering using Thousand Arrows (1)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+[AI] Decidueye (1) is considering using Shadow Sneak (1) against Obstagoon (0)...
+     Decidueye (1)'s highest damaging move vs Obstagoon: Leaf Blade
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Move choices for Decidueye (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use Spirit Shackle (target 0): score 0
+   *   0.0% to use Thousand Arrows: score 0
+   *   0.0% to use Shadow Sneak (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Obstagoon (0), the opposing Decidueye (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Decidueye lost 2 HP (2 -> 0)
+"It's super effective!"
+"The opposing Decidueye fainted!"
+
+[End of round 4]
+[HP change] Obstagoon lost 10 HP (104 -> 94)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+==============================
+     [Furret] using Body Slam vs Obstagoon does a max of 82/94 damage
+     [Furret] using Sucker Punch vs Obstagoon does a max of 14/94 damage
+     [Furret] using Extreme Speed vs Obstagoon does a max of 76/94 damage
+     Obstagoon (0)'s best move: Night Slash for 99/163 damage
+==============================
+     Obstagoon (0) speed (118) vs Furret speed: 112
+     [Furret] -  5: for target having fast 2HKO and us having no kill
+     [Furret] final Switch score: -5
+==============================
+     [Octillery] using Snipe Shot vs Obstagoon does a max of 84/94 damage
+     [Octillery] using Ice Beam vs Obstagoon does a max of 53/94 damage
+     [Octillery] using Flamethrower vs Obstagoon does a max of 53/94 damage
+     Obstagoon (0)'s best move: Night Slash for 87/156 damage
+==============================
+     Obstagoon (0) speed (118) vs Octillery speed: 67
+     [Octillery] -  5: for target having fast 2HKO and us having no kill
+     [Octillery] final Switch score: -5
+==============================
+     [Arcanine] using Flare Blitz vs Obstagoon does a max of 120/94 damage
+     [Arcanine] using Head Smash vs Obstagoon does a max of 138/94 damage
+     [Arcanine] using Wild Charge vs Obstagoon does a max of 47/94 damage
+     [Arcanine] using Extreme Speed vs Obstagoon does a max of 42/94 damage
+     Obstagoon (0)'s best move: Night Slash for 83/176 damage
+==============================
+     Obstagoon (0) speed (118) vs Arcanine speed: 125
+     [Arcanine] + 12: for fast kill
+     [Arcanine] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Policeman Danny sent out Arcanine!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Obstagoon (0)...
+     Arcanine (1)'s highest damaging move vs Obstagoon: Head Smash
+      + 20 for fast kill
+[AI] Arcanine (1) is considering using Head Smash (1) against Obstagoon (0)...
+     Arcanine (1)'s highest damaging move vs Obstagoon: Head Smash
+      + 20 for fast kill
+[AI] Arcanine (1) is considering using Wild Charge (1) against Obstagoon (0)...
+     Arcanine (1)'s highest damaging move vs Obstagoon: Head Smash
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Obstagoon (0)...
+     Arcanine (1)'s highest damaging move vs Obstagoon: Head Smash
+[AI] Move choices for Arcanine (1):
+   *  50.0% to use Flare Blitz (target 0): score 21
+   *  50.0% to use Head Smash (target 0): score 21
+   *   0.0% to use Wild Charge (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Head Smash (target 0)
+
+[Round order] The opposing Arcanine (1), Obstagoon (0)
+
+"Obstagoon, that's enough! Come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Arcanine (1) used Head Smash
+"The opposing Arcanine used Head Smash!"
+[HP change] Floatzel lost 172 HP (172 -> 0)
+"Floatzel fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Archeops!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Arcanine (1): 0
+Set up score for Arcanine (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arcanine (1) is considering using Flare Blitz (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Head Smash
+[AI] Arcanine (1) is considering using Head Smash (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Head Smash
+      + 17 for slow kill
+[AI] Arcanine (1) is considering using Wild Charge (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Head Smash
+[AI] Arcanine (1) is considering using Extreme Speed (1) against Archeops (0)...
+     Arcanine (1)'s highest damaging move vs Archeops: Head Smash
+[AI] Move choices for Arcanine (1):
+   *   0.0% to use Flare Blitz (target 0): score 0
+   * 100.0% to use Head Smash (target 0): score 18
+   *   0.0% to use Wild Charge (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Head Smash (target 0)
+
+[Round order] Archeops (0), the opposing Arcanine (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Arcanine lost 176 HP (176 -> 0)
+"It's super effective!"
+"The opposing Arcanine fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+==============================
+     [Furret] using Body Slam vs Archeops does a max of 56/164 damage
+     [Furret] using Sucker Punch vs Archeops does a max of 39/164 damage
+     [Furret] using Extreme Speed vs Archeops does a max of 53/164 damage
+     Archeops (0)'s best move: Dual Wingbeat for 120/163 damage
+==============================
+     Archeops (0) speed (143) vs Furret speed: 112
+     [Furret] -  5: for target having fast 2HKO and us having no kill
+     [Furret] final Switch score: -5
+==============================
+     [Octillery] using Snipe Shot vs Archeops does a max of 213/164 damage
+     [Octillery] using Ice Beam vs Archeops does a max of 134/164 damage
+     [Octillery] using Flamethrower vs Archeops does a max of 34/164 damage
+     Archeops (0)'s best move: Dual Wingbeat for 105/156 damage
+==============================
+     Archeops (0) speed (143) vs Octillery speed: 67
+     [Octillery] +  9: for slow kill
+     [Octillery] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Policeman Danny sent out Octillery!"
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Octillery (1): 0
+Set up score for Octillery (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Octillery (1) is considering using Snipe Shot (1) against Archeops (0)...
+     Octillery (1)'s highest damaging move vs Archeops: Snipe Shot
+      + 17 for slow kill
+[AI] Octillery (1) is considering using Ice Beam (1) against Archeops (0)...
+     Octillery (1)'s highest damaging move vs Archeops: Snipe Shot
+[AI] Octillery (1) is considering using Flamethrower (1) against Archeops (0)...
+     Octillery (1)'s highest damaging move vs Archeops: Snipe Shot
+[AI] Octillery (1) is considering using Focus Energy (4)...
+[AI] Move choices for Octillery (1):
+   * 100.0% to use Snipe Shot (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Focus Energy: score 0
+   => will use Snipe Shot (target 0)
+
+[Round order] Archeops (0), the opposing Octillery (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Octillery lost 60 HP (156 -> 96)
+"Archeops went back to Tyler!"
+"Go for it, Gogoat!"
+[Use move] The opposing Octillery (1) used Snipe Shot
+"The opposing Octillery used Snipe Shot!"
+[HP change] Gogoat lost 41 HP (200 -> 159)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Octillery (1): 0
+Set up score for Octillery (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Octillery (1) is considering using Snipe Shot (1) against Gogoat (0)...
+     Octillery (1)'s highest damaging move vs Gogoat: Ice Beam
+[AI] Octillery (1) is considering using Ice Beam (1) against Gogoat (0)...
+     Octillery (1)'s highest damaging move vs Gogoat: Ice Beam
+     + 4 to prioritize highest damaging move
+[AI] Octillery (1) is considering using Flamethrower (1) against Gogoat (0)...
+     Octillery (1)'s highest damaging move vs Gogoat: Ice Beam
+[AI] Octillery (1) is considering using Focus Energy (4)...
+[AI] Move choices for Octillery (1):
+   *   0.0% to use Snipe Shot (target 0): score 0
+   * 100.0% to use Ice Beam (target 0): score 5
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Focus Energy: score 0
+   => will use Ice Beam (target 0)
+
+[Round order] Gogoat (0), the opposing Octillery (1)
+
+[Use move] Gogoat (0) used Leaf Blade
+"Gogoat used Leaf Blade!"
+[HP change] The opposing Octillery lost 96 HP (96 -> 0)
+"It's super effective!"
+"The opposing Octillery fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Furret] using Body Slam vs Gogoat does a max of 122/159 damage
+     [Furret] using Sucker Punch vs Gogoat does a max of 42/159 damage
+     [Furret] using Extreme Speed vs Gogoat does a max of 114/159 damage
+     Gogoat (0)'s best move: Leaf Blade for 119/163 damage
+==============================
+     Gogoat (0) speed (94) vs Furret speed: 112
+     [Furret] +  6: for fast 2HKO
+     [Furret] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Policeman Danny sent out Furret!"
+
+===== Round 9 =====
+
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Body Slam (1) against Gogoat (0)...
+     Furret (1)'s highest damaging move vs Gogoat: Body Slam
+     + 4 to prioritize highest damaging move
+[AI] Furret (1) is considering using Coil (4)...
+[AI] Furret (1) is considering using Sucker Punch (1) against Gogoat (0)...
+     Furret (1)'s highest damaging move vs Gogoat: Body Slam
+     - 1 for factoring in 1 Status Moves from Gogoat (0)
+     no added score due to target having faster priority or being slower with no priority
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Furret (1) is considering using Extreme Speed (1) against Gogoat (0)...
+     Furret (1)'s highest damaging move vs Gogoat: Body Slam
+[AI] Move choices for Furret (1):
+   * 100.0% to use Body Slam (target 0): score 5
+   *   0.0% to use Coil: score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Body Slam (target 0)
+
+[Round order] The opposing Furret (1), Gogoat (0)
+
+"Gogoat, come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Furret (1) used Body Slam
+"The opposing Furret used Body Slam!"
+[HP change] Heracross lost 83 HP (140 -> 57)
+[HP change] Heracross gained 40 HP (57 -> 97)
+"Heracross restored its health using its Sitrus Berry!"
+[Item consumed] Heracross consumed its held Sitrus Berry
+
+[End of round 9]
+[HP change] Heracross lost 10 HP (97 -> 87)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Body Slam (1) against Heracross (0)...
+     Furret (1)'s highest damaging move vs Heracross: Body Slam
+      + 17 for slow kill
+[AI] Furret (1) is considering using Coil (4)...
+[AI] Furret (1) is considering using Sucker Punch (1) against Heracross (0)...
+     Furret (1)'s highest damaging move vs Heracross: Body Slam
+     + 2 for factoring in 0 Status Moves from Heracross (0)
+     + 3 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Furret (1) is considering using Extreme Speed (1) against Heracross (0)...
+     Furret (1)'s highest damaging move vs Heracross: Body Slam
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Furret (1):
+   * 100.0% to use Body Slam (target 0): score 18
+   *   0.0% to use Coil: score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   *   0.0% to use Extreme Speed (target 0): score 0
+   => will use Body Slam (target 0)
+
+[Round order] Heracross (0), the opposing Furret (1)
+
+[Use move] Heracross (0) used Brick Break
+"Heracross used Brick Break!"
+[HP change] The opposing Furret lost 163 HP (163 -> 0)
+"It's super effective!"
+"The opposing Furret fainted!"
+
+===== Player won =====
+
+"You defeated Policeman Danny!"
+"Wow. You're great!"
+
+"You got $1,664 for winning!"
+Roles for KLEAVOR: [:PHYSICALBREAKER, :LEAD, :OFFENSIVEPIVOT]
+Roles for URSALUNA: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for WYRDEER: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CLODSIRE: [:TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Dominique!"
+"Collector Dominique sent out Kleavor!"
+"Go! Floatzel!"
+[Round order] Floatzel (0), the opposing Kleavor (1)
+
+===== Round 1 =====
+
+     move will not affect Floatzel (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+     [Switch AI] +5 Party member [Clodsire] is immune to strongest move against Kleavor (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+     move will not affect Floatzel (0)
+==============================
+     [Ursaluna] using Body Slam vs Floatzel does a max of 131/172 damage
+     [Ursaluna] using Earthquake vs Floatzel does a max of 153/172 damage
+     [Ursaluna] using Play Rough vs Floatzel does a max of 92/172 damage
+     Floatzel (0)'s best move: Aqua Tail for 156/213 damage
+==============================
+     Floatzel (0) speed (145) vs Ursaluna speed: 73
+     [Ursaluna] - 20: for us being killed on switch in
+     [Ursaluna] final Switch score: -20
+==============================
+     [Wyrdeer] using Psychic vs Floatzel does a max of 140/172 damage
+     [Wyrdeer] using Hyper Voice vs Floatzel does a max of 140/172 damage
+     [Wyrdeer] using Thunderbolt vs Floatzel does a max of 186/172 damage
+     Floatzel (0)'s best move: Aqua Tail for 104/185 damage
+==============================
+     Floatzel (0) speed (145) vs Wyrdeer speed: 88
+     [Wyrdeer] +  9: for slow kill
+     [Wyrdeer] final Switch score: 9
+==============================
+     [Clodsire] using Earthquake vs Floatzel does a max of 84/172 damage
+     [Clodsire] using Poison Jab vs Floatzel does a max of 68/172 damage
+     Floatzel (0)'s best move: Ice Spinner for 142/213 damage
+==============================
+     Floatzel (0) speed (145) vs Clodsire speed: 41
+     [Clodsire] - 20: for us being killed on switch in
+     [Clodsire] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (9)
+   => will switch with Wyrdeer
+
+[Round order] Floatzel (0), the opposing Kleavor (1)
+
+"Collector Dominique withdrew Kleavor!"
+"Collector Dominique sent out Wyrdeer!"
+[Ability triggered] The opposing Wyrdeer's Intimidate
+[Stat change] Floatzel's Attack changed by -1 (0 -> -1)
+"Floatzel's Attack fell!"
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Wyrdeer lost 21 HP (185 -> 164)
+
+[End of round 1]
+[HP change] The opposing Wyrdeer gained 11 HP (164 -> 175)
+"The opposing Wyrdeer restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Wyrdeer (1): 0
+Set up score for Wyrdeer (1): 0
+     [Switch AI] +5 Party member [Clodsire] is immune to strongest move against Wyrdeer (1)
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Wyrdeer (1) is considering using Calm Mind (4)...
+[AI] Wyrdeer (1) is considering using Psychic (1) against Floatzel (0)...
+     Wyrdeer (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Wyrdeer (1) is considering using Hyper Voice (1)...
+     Wyrdeer (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Wyrdeer (1) is considering using Thunderbolt (1) against Floatzel (0)...
+     Wyrdeer (1)'s highest damaging move vs Floatzel: Thunderbolt
+      + 17 for slow kill
+[AI] Move choices for Wyrdeer (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Thunderbolt (target 0): score 18
+   => will use Thunderbolt (target 0)
+
+[Round order] Floatzel (0), the opposing Wyrdeer (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Wyrdeer lost 42 HP (175 -> 133)
+"Floatzel went back to Tyler!"
+"Go for it, Heracross!"
+[Use move] The opposing Wyrdeer (1) used Thunderbolt
+"The opposing Wyrdeer used Thunderbolt!"
+[HP change] Heracross lost 42 HP (161 -> 119)
+
+[End of round 2]
+[HP change] The opposing Wyrdeer gained 11 HP (133 -> 144)
+"The opposing Wyrdeer restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Wyrdeer (1): 0
+Set up score for Wyrdeer (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wyrdeer (1) is considering using Calm Mind (4)...
+[AI] Wyrdeer (1) is considering using Psychic (1) against Heracross (0)...
+     Wyrdeer (1)'s highest damaging move vs Heracross: Psychic
+      + 17 for slow kill
+[AI] Wyrdeer (1) is considering using Hyper Voice (1)...
+     Wyrdeer (1)'s highest damaging move vs Heracross: Psychic
+[AI] Wyrdeer (1) is considering using Thunderbolt (1) against Heracross (0)...
+     Wyrdeer (1)'s highest damaging move vs Heracross: Psychic
+[AI] Move choices for Wyrdeer (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psychic (target 0): score 18
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Heracross (0), the opposing Wyrdeer (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Wyrdeer lost 83 HP (144 -> 61)
+[HP change] The opposing Wyrdeer lost 61 HP (61 -> 0)
+"The opposing Wyrdeer fainted!"
+"It's super effective!"
+"Hit 2 times!"
+"Floatzel got 1 Exp. Points!"
+
+[End of round 3]
+[HP change] Heracross lost 10 HP (119 -> 109)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Kleavor] using Stone Axe vs Heracross does a max of 101/109 damage
+     [Kleavor] using X-Scissor vs Heracross does a max of 62/109 damage
+     [Kleavor] using Brick Break vs Heracross does a max of 39/109 damage
+     [Kleavor] using U-turn vs Heracross does a max of 36/109 damage
+     Heracross (0)'s best move: Rock Blast for 152/148 damage
+==============================
+     Heracross (0) speed (115) vs Kleavor speed: 117
+     [Kleavor] -  7: for target slow kill
+     [Kleavor] final Switch score: -7
+==============================
+     [Ursaluna] using Body Slam vs Heracross does a max of 101/109 damage
+     [Ursaluna] using Earthquake vs Heracross does a max of 59/109 damage
+     [Ursaluna] using Play Rough vs Heracross does a max of 142/109 damage
+     Heracross (0)'s best move: Brick Break for 201/213 damage
+==============================
+     Heracross (0) speed (115) vs Ursaluna speed: 73
+     [Ursaluna] +  9: for slow kill
+     [Ursaluna] final Switch score: 9
+==============================
+     [Clodsire] using Earthquake vs Heracross does a max of 32/109 damage
+     [Clodsire] using Poison Jab vs Heracross does a max of 53/109 damage
+     Heracross (0)'s best move: Throat Chop for 111/213 damage
+==============================
+     Heracross (0) speed (115) vs Clodsire speed: 41
+     [Clodsire] -  5: for target having fast 2HKO and us having no kill
+     [Clodsire] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Dominique sent out Ursaluna!"
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ursaluna (1): 0
+Set up score for Ursaluna (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ursaluna (1) is considering using Body Slam (1) against Heracross (0)...
+     Ursaluna (1)'s highest damaging move vs Heracross: Play Rough
+[AI] Ursaluna (1) is considering using Earthquake (1)...
+     Ursaluna (1)'s highest damaging move vs Heracross: Play Rough
+[AI] Ursaluna (1) is considering using Play Rough (1) against Heracross (0)...
+     Ursaluna (1)'s highest damaging move vs Heracross: Play Rough
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Move choices for Ursaluna (1):
+   *   0.0% to use Body Slam (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Play Rough (target 0): score 18
+   *   0.0% to use Protect: score 0
+   => will use Play Rough (target 0)
+
+[Round order] Heracross (0), the opposing Ursaluna (1)
+
+"Heracross, come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Ursaluna (1) used Play Rough
+"The opposing Ursaluna used Play Rough!"
+[HP change] Floatzel lost 87 HP (172 -> 85)
+
+[End of round 4]
+Trick Room Turns: 0
+"The opposing Ursaluna was burned by the Flame Orb!"
+
+===== Round 5 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ursaluna (1): 0
+Set up score for Ursaluna (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Clodsire] is immune to strongest move against Ursaluna (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ursaluna (1) is considering using Body Slam (1) against Floatzel (0)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Earthquake (1)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Play Rough (1) against Floatzel (0)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Protect (4)...
+[AI] Move choices for Ursaluna (1):
+   *  33.3% to use Body Slam (target 0): score 18
+   *  33.3% to use Earthquake: score 18
+   *  33.3% to use Play Rough (target 0): score 18
+   *   0.0% to use Protect: score 0
+   => will use Body Slam (target 0)
+
+[Round order] Floatzel (0), the opposing Ursaluna (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Ursaluna lost 22 HP (213 -> 191)
+[Use move] The opposing Ursaluna (1) used Body Slam
+"The opposing Ursaluna flinched and couldn't move!"
+
+[End of round 5]
+[HP change] The opposing Ursaluna lost 13 HP (191 -> 178)
+"The opposing Ursaluna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ursaluna (1): 0
+Set up score for Ursaluna (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Clodsire] is immune to strongest move against Ursaluna (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ursaluna (1) is considering using Body Slam (1) against Floatzel (0)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Earthquake (1)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Play Rough (1) against Floatzel (0)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Protect (4)...
+[AI] Move choices for Ursaluna (1):
+   *  33.3% to use Body Slam (target 0): score 18
+   *  33.3% to use Earthquake: score 18
+   *  33.3% to use Play Rough (target 0): score 18
+   *   0.0% to use Protect: score 0
+   => will use Earthquake
+
+[Round order] Floatzel (0), the opposing Ursaluna (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Ursaluna lost 92 HP (178 -> 86)
+"It's super effective!"
+"Floatzel went back to Tyler!"
+"Just a little more! Hang in there, Gogoat!"
+[Use move] The opposing Ursaluna (1) used Earthquake
+"The opposing Ursaluna used Earthquake!"
+[HP change] Gogoat lost 113 HP (200 -> 87)
+"It's not very effective..."
+
+[End of round 6]
+[HP change] The opposing Ursaluna lost 13 HP (86 -> 73)
+"The opposing Ursaluna was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ursaluna (1): 0
+Set up score for Ursaluna (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ursaluna (1) is considering using Body Slam (1) against Gogoat (0)...
+     Ursaluna (1)'s highest damaging move vs Gogoat: Body Slam
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Earthquake (1)...
+     Ursaluna (1)'s highest damaging move vs Gogoat: Body Slam
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Play Rough (1) against Gogoat (0)...
+     Ursaluna (1)'s highest damaging move vs Gogoat: Body Slam
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Protect (4)...
+[AI] Move choices for Ursaluna (1):
+   *  33.3% to use Body Slam (target 0): score 18
+   *  33.3% to use Earthquake: score 18
+   *  33.3% to use Play Rough (target 0): score 18
+   *   0.0% to use Protect: score 0
+   => will use Body Slam (target 0)
+
+[Round order] Gogoat (0), the opposing Ursaluna (1)
+
+[Use move] Gogoat (0) used Horn Leech
+"Gogoat used Horn Leech!"
+[HP change] The opposing Ursaluna lost 73 HP (73 -> 0)
+"It's super effective!"
+"The opposing Ursaluna fainted!"
+"The opposing Ursaluna had its energy drained!"
+[HP change] Gogoat gained 37 HP (87 -> 124)
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Kleavor] using Stone Axe vs Gogoat does a max of 129/124 damage
+     [Kleavor] using X-Scissor vs Gogoat does a max of 312/124 damage
+     [Kleavor] using Brick Break vs Gogoat does a max of 98/124 damage
+     [Kleavor] using U-turn vs Gogoat does a max of 186/124 damage
+     Gogoat (0)'s best move: Leaf Blade for 74/148 damage
+==============================
+     Gogoat (0) speed (94) vs Kleavor speed: 117
+     [Kleavor] + 12: for fast kill
+     [Kleavor] final Switch score: 12
+==============================
+     [Clodsire] using Earthquake vs Gogoat does a max of 41/124 damage
+     [Clodsire] using Poison Jab vs Gogoat does a max of 135/124 damage
+     Gogoat (0)'s best move: Stomping Tantrum for 114/213 damage
+==============================
+     Gogoat (0) speed (94) vs Clodsire speed: 41
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (12)
+"Collector Dominique sent out Kleavor!"
+
+===== Round 8 =====
+
+     move will not affect Gogoat (0)
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kleavor (1) is considering using Stone Axe (1) against Gogoat (0)...
+     Kleavor (1)'s highest damaging move vs Gogoat: X-Scissor
+     move will not affect Gogoat (0)
+     -  1: move will fail
+[AI] Kleavor (1) is considering using X-Scissor (1) against Gogoat (0)...
+     Kleavor (1)'s highest damaging move vs Gogoat: X-Scissor
+      + 20 for fast kill
+[AI] Kleavor (1) is considering using Brick Break (1) against Gogoat (0)...
+     Kleavor (1)'s highest damaging move vs Gogoat: X-Scissor
+[AI] Kleavor (1) is considering using U-turn (1) against Gogoat (0)...
+     Kleavor (1)'s highest damaging move vs Gogoat: X-Scissor
+     - 9 to prevent switching when we have a kill with another move
+      + 20 for fast kill
+[AI] Move choices for Kleavor (1):
+   *   0.0% to use Stone Axe (target 0): score 0
+   * 100.0% to use X-Scissor (target 0): score 21
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use X-Scissor (target 0)
+
+[Round order] The opposing Kleavor (1), Gogoat (0)
+
+"Gogoat, come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Kleavor (1) used X-Scissor
+"The opposing Kleavor used X-Scissor!"
+[HP change] Heracross lost 55 HP (109 -> 54)
+"It's not very effective..."
+[HP change] Heracross gained 40 HP (54 -> 94)
+"Heracross restored its health using its Sitrus Berry!"
+[Item consumed] Heracross consumed its held Sitrus Berry
+
+[End of round 8]
+[HP change] Heracross lost 10 HP (94 -> 84)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Heracross (0)
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (1)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kleavor (1) is considering using Stone Axe (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+     move will not affect Heracross (0)
+     -  1: move will fail
+[AI] Kleavor (1) is considering using X-Scissor (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+[AI] Kleavor (1) is considering using Brick Break (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+[AI] Kleavor (1) is considering using U-turn (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Kleavor (1):
+   *   0.0% to use Stone Axe (target 0): score 0
+   *  33.3% to use X-Scissor (target 0): score 1
+   *  33.3% to use Brick Break (target 0): score 1
+   *  33.3% to use U-turn (target 0): score 1
+   => will use X-Scissor (target 0)
+
+[Round order] The opposing Kleavor (1), Heracross (0)
+
+[Use move] The opposing Kleavor (1) used X-Scissor
+"The opposing Kleavor used X-Scissor!"
+[HP change] Heracross lost 83 HP (84 -> 1)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Kleavor lost 51 HP (148 -> 97)
+[HP change] The opposing Kleavor lost 45 HP (97 -> 52)
+[HP change] The opposing Kleavor lost 49 HP (52 -> 3)
+[HP change] The opposing Kleavor lost 3 HP (3 -> 0)
+"The opposing Kleavor fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 9]
+[HP change] Heracross lost 1 HP (1 -> 0)
+"Heracross was hurt by its burn!"
+"Heracross fainted!"
+Trick Room Turns: 0
