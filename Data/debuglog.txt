@@ -404751,3 +404751,1927 @@ Set up score for Heracross (0): 0
 "Heracross was hurt by its burn!"
 "Heracross fainted!"
 Trick Room Turns: 0
+Roles for KLEAVOR: [:PHYSICALBREAKER, :LEAD, :OFFENSIVEPIVOT]
+Roles for URSALUNA: [:PHYSICALBREAKER, :STATUSABSORBER]
+Roles for WYRDEER: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CLODSIRE: [:TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Dominique!"
+"Collector Dominique sent out Kleavor!"
+"Go! Floatzel!"
+[Round order] Floatzel (0), the opposing Kleavor (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+     [Switch AI] +5 Party member [Clodsire] is immune to strongest move against Kleavor (1)
+[AI] Switch out Score (7) vs Highest Moves Score (5)
+[AI] The AI will try to switch.
+==============================
+     [Ursaluna] using Body Slam vs Floatzel does a max of 131/172 damage
+     [Ursaluna] using Earthquake vs Floatzel does a max of 153/172 damage
+     [Ursaluna] using Play Rough vs Floatzel does a max of 92/172 damage
+     Floatzel (0)'s best move: Aqua Tail for 156/213 damage
+==============================
+     Floatzel (0) speed (145) vs Ursaluna speed: 73
+     [Ursaluna] - 20: for us being killed on switch in
+     [Ursaluna] final Switch score: -20
+==============================
+     [Wyrdeer] using Psychic vs Floatzel does a max of 140/172 damage
+     [Wyrdeer] using Hyper Voice vs Floatzel does a max of 140/172 damage
+     [Wyrdeer] using Thunderbolt vs Floatzel does a max of 186/172 damage
+     Floatzel (0)'s best move: Aqua Tail for 104/185 damage
+==============================
+     Floatzel (0) speed (145) vs Wyrdeer speed: 88
+     [Wyrdeer] +  9: for slow kill
+     [Wyrdeer] final Switch score: 9
+==============================
+     [Clodsire] using Earthquake vs Floatzel does a max of 84/172 damage
+     [Clodsire] using Poison Jab vs Floatzel does a max of 68/172 damage
+     Floatzel (0)'s best move: Ice Spinner for 142/213 damage
+==============================
+     Floatzel (0) speed (145) vs Clodsire speed: 41
+     [Clodsire] - 20: for us being killed on switch in
+     [Clodsire] final Switch score: -20
+[AI] Highest move score (5) vs Switch In Score (9)
+   => will switch with Wyrdeer
+
+[Round order] Floatzel (0), the opposing Kleavor (1)
+
+"Collector Dominique withdrew Kleavor!"
+"Collector Dominique sent out Wyrdeer!"
+[Ability triggered] The opposing Wyrdeer's Intimidate
+[Stat change] Floatzel's Attack changed by -1 (0 -> -1)
+"Floatzel's Attack fell!"
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Wyrdeer lost 20 HP (185 -> 165)
+
+[End of round 1]
+[HP change] The opposing Wyrdeer gained 11 HP (165 -> 176)
+"The opposing Wyrdeer restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Wyrdeer (1): 0
+Set up score for Wyrdeer (1): 0
+     [Switch AI] +5 Party member [Clodsire] is immune to strongest move against Wyrdeer (1)
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Wyrdeer (1) is considering using Calm Mind (4)...
+[AI] Wyrdeer (1) is considering using Psychic (1) against Floatzel (0)...
+     Wyrdeer (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Wyrdeer (1) is considering using Hyper Voice (1)...
+     Wyrdeer (1)'s highest damaging move vs Floatzel: Thunderbolt
+[AI] Wyrdeer (1) is considering using Thunderbolt (1) against Floatzel (0)...
+     Wyrdeer (1)'s highest damaging move vs Floatzel: Thunderbolt
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wyrdeer (1):
+   *   0.0% to use Calm Mind: score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Hyper Voice: score 0
+   * 100.0% to use Thunderbolt (target 0): score 5
+   => will use Thunderbolt (target 0)
+
+[Round order] Floatzel (0), the opposing Wyrdeer (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Wyrdeer lost 45 HP (176 -> 131)
+"Floatzel went back to Tyler!"
+"Go for it, Heracross!"
+[Use move] The opposing Wyrdeer (1) used Thunderbolt
+"The opposing Wyrdeer used Thunderbolt!"
+[HP change] Heracross lost 44 HP (161 -> 117)
+
+[End of round 2]
+[HP change] The opposing Wyrdeer gained 11 HP (131 -> 142)
+"The opposing Wyrdeer restored a little HP using its Leftovers!"
+[HP change] Heracross lost 10 HP (117 -> 107)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Wyrdeer (1): 0
+Set up score for Wyrdeer (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wyrdeer (1) is considering using Calm Mind (4)...
+[AI] Wyrdeer (1) is considering using Psychic (1) against Heracross (0)...
+     Wyrdeer (1)'s highest damaging move vs Heracross: Psychic
+      + 17 for slow kill
+[AI] Wyrdeer (1) is considering using Hyper Voice (1)...
+     Wyrdeer (1)'s highest damaging move vs Heracross: Psychic
+[AI] Wyrdeer (1) is considering using Thunderbolt (1) against Heracross (0)...
+     Wyrdeer (1)'s highest damaging move vs Heracross: Psychic
+[AI] Move choices for Wyrdeer (1):
+   *   0.0% to use Calm Mind: score 0
+   * 100.0% to use Psychic (target 0): score 18
+   *   0.0% to use Hyper Voice: score 0
+   *   0.0% to use Thunderbolt (target 0): score 0
+   => will use Psychic (target 0)
+
+[Round order] Heracross (0), the opposing Wyrdeer (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Wyrdeer lost 92 HP (142 -> 50)
+[HP change] The opposing Wyrdeer lost 50 HP (50 -> 0)
+"The opposing Wyrdeer fainted!"
+"It's super effective!"
+"Hit 2 times!"
+"Floatzel got 1 Exp. Points!"
+
+[End of round 3]
+[HP change] Heracross lost 10 HP (107 -> 97)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Kleavor] using Stone Axe vs Heracross does a max of 101/97 damage
+     [Kleavor] using X-Scissor vs Heracross does a max of 62/97 damage
+     [Kleavor] using Brick Break vs Heracross does a max of 39/97 damage
+     [Kleavor] using U-turn vs Heracross does a max of 36/97 damage
+     Heracross (0)'s best move: Rock Blast for 152/148 damage
+==============================
+     Heracross (0) speed (115) vs Kleavor speed: 117
+     [Kleavor] + 12: for fast kill
+     [Kleavor] final Switch score: 12
+==============================
+     [Ursaluna] using Body Slam vs Heracross does a max of 101/97 damage
+     [Ursaluna] using Earthquake vs Heracross does a max of 59/97 damage
+     [Ursaluna] using Play Rough vs Heracross does a max of 142/97 damage
+     Heracross (0)'s best move: Brick Break for 201/213 damage
+==============================
+     Heracross (0) speed (115) vs Ursaluna speed: 73
+     [Ursaluna] +  9: for slow kill
+     [Ursaluna] final Switch score: 9
+==============================
+     [Clodsire] using Earthquake vs Heracross does a max of 32/97 damage
+     [Clodsire] using Poison Jab vs Heracross does a max of 53/97 damage
+     Heracross (0)'s best move: Throat Chop for 111/213 damage
+==============================
+     Heracross (0) speed (115) vs Clodsire speed: 41
+     [Clodsire] -  5: for target having fast 2HKO and us having no kill
+     [Clodsire] final Switch score: -5
+[AI] Highest move score (18) vs Switch In Score (12)
+"Collector Dominique sent out Kleavor!"
+
+===== Round 4 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kleavor (1) is considering using Stone Axe (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+      + 20 for fast kill
+[AI] Kleavor (1) is considering using X-Scissor (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+[AI] Kleavor (1) is considering using Brick Break (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+[AI] Kleavor (1) is considering using U-turn (1) against Heracross (0)...
+     Kleavor (1)'s highest damaging move vs Heracross: Stone Axe
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Kleavor (1):
+   * 100.0% to use Stone Axe (target 0): score 21
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Stone Axe (target 0)
+
+[Round order] The opposing Kleavor (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Kleavor (1) used Stone Axe
+"The opposing Kleavor used Stone Axe!"
+[HP change] Floatzel lost 131 HP (172 -> 41)
+"Pointed stones float in the air around your team!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+     [Switch AI] +5 Party member [Clodsire] is immune to strongest move against Kleavor (1)
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kleavor (1) is considering using Stone Axe (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+      + 17 for slow kill
+[AI] Kleavor (1) is considering using X-Scissor (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+      + 17 for slow kill
+[AI] Kleavor (1) is considering using Brick Break (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+      + 17 for slow kill
+[AI] Kleavor (1) is considering using U-turn (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+     - 9 to prevent switching when we have a kill with another move
+      + 17 for slow kill
+[AI] Move choices for Kleavor (1):
+   *  33.3% to use Stone Axe (target 0): score 18
+   *  33.3% to use X-Scissor (target 0): score 18
+   *  33.3% to use Brick Break (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use X-Scissor (target 0)
+
+[Round order] Floatzel (0), the opposing Kleavor (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Kleavor lost 11 HP (148 -> 137)
+"It's not very effective..."
+[Use move] The opposing Kleavor (1) used X-Scissor
+"The opposing Kleavor flinched and couldn't move!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Kleavor (1): 0
+Set up score for Kleavor (1): 0
+     [Switch AI] +5 Party member [Clodsire] is immune to strongest move against Kleavor (1)
+[AI] Switch out Score (0) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kleavor (1) is considering using Stone Axe (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+      + 17 for slow kill
+[AI] Kleavor (1) is considering using X-Scissor (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+      + 17 for slow kill
+[AI] Kleavor (1) is considering using Brick Break (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+      + 17 for slow kill
+[AI] Kleavor (1) is considering using U-turn (1) against Floatzel (0)...
+     Kleavor (1)'s highest damaging move vs Floatzel: X-Scissor
+     - 9 to prevent switching when we have a kill with another move
+      + 17 for slow kill
+[AI] Move choices for Kleavor (1):
+   *  33.3% to use Stone Axe (target 0): score 18
+   *  33.3% to use X-Scissor (target 0): score 18
+   *  33.3% to use Brick Break (target 0): score 18
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Stone Axe (target 0)
+
+[Round order] Floatzel (0), the opposing Kleavor (1)
+
+[Use move] Floatzel (0) used Aqua Tail
+"Floatzel used Aqua Tail!"
+[HP change] The opposing Kleavor lost 137 HP (137 -> 0)
+"It's super effective!"
+"The opposing Kleavor fainted!"
+
+[End of round 6]
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Ursaluna] using Body Slam vs Floatzel does a max of 131/41 damage
+     [Ursaluna] using Earthquake vs Floatzel does a max of 153/41 damage
+     [Ursaluna] using Play Rough vs Floatzel does a max of 92/41 damage
+     Floatzel (0)'s best move: Aqua Tail for 156/213 damage
+==============================
+     Floatzel (0) speed (145) vs Ursaluna speed: 73
+     [Ursaluna] +  9: for slow kill
+     [Ursaluna] final Switch score: 9
+==============================
+     [Clodsire] using Earthquake vs Floatzel does a max of 84/41 damage
+     [Clodsire] using Poison Jab vs Floatzel does a max of 68/41 damage
+     Floatzel (0)'s best move: Ice Spinner for 142/213 damage
+==============================
+     Floatzel (0) speed (145) vs Clodsire speed: 41
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Dominique sent out Ursaluna!"
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ursaluna (1): 0
+Set up score for Ursaluna (1): 0
+     [Switch AI] Adding 9 to score to outclass last ditch AI if target has an immune switch in
+     [Switch AI] +14 Party member [Clodsire] is immune to strongest move against Ursaluna (1)
+[AI] Switch out Score (9) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ursaluna (1) is considering using Body Slam (1) against Floatzel (0)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Earthquake (1)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Play Rough (1) against Floatzel (0)...
+     Ursaluna (1)'s highest damaging move vs Floatzel: Earthquake
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Protect (4)...
+     + 5 to activate Guts/Flare Boost/Marvel Scale
+[AI] Move choices for Ursaluna (1):
+   *  33.3% to use Body Slam (target 0): score 18
+   *  33.3% to use Earthquake: score 18
+   *  33.3% to use Play Rough (target 0): score 18
+   *   0.0% to use Protect: score 0
+   => will use Play Rough (target 0)
+
+[Round order] Floatzel (0), the opposing Ursaluna (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Ursaluna lost 102 HP (213 -> 111)
+"It's super effective!"
+"Floatzel went back to Tyler!"
+"Go for it, Gogoat!"
+[HP change] Gogoat lost 25 HP (200 -> 175)
+"Pointed stones dug into Gogoat!"
+[Use move] The opposing Ursaluna (1) used Play Rough
+"The opposing Ursaluna used Play Rough!"
+[HP change] Gogoat lost 77 HP (175 -> 98)
+
+[End of round 7]
+Trick Room Turns: 0
+"The opposing Ursaluna was burned by the Flame Orb!"
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ursaluna (1): 0
+Set up score for Ursaluna (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ursaluna (1) is considering using Body Slam (1) against Gogoat (0)...
+     Ursaluna (1)'s highest damaging move vs Gogoat: Body Slam
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Earthquake (1)...
+     Ursaluna (1)'s highest damaging move vs Gogoat: Body Slam
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Play Rough (1) against Gogoat (0)...
+     Ursaluna (1)'s highest damaging move vs Gogoat: Body Slam
+      + 17 for slow kill
+[AI] Ursaluna (1) is considering using Protect (4)...
+[AI] Move choices for Ursaluna (1):
+   *  33.3% to use Body Slam (target 0): score 18
+   *  33.3% to use Earthquake: score 18
+   *  33.3% to use Play Rough (target 0): score 18
+   *   0.0% to use Protect: score 0
+   => will use Earthquake
+
+[Round order] Gogoat (0), the opposing Ursaluna (1)
+
+[Use move] Gogoat (0) used Leaf Blade
+"Gogoat used Leaf Blade!"
+[HP change] The opposing Ursaluna lost 111 HP (111 -> 0)
+"It's super effective!"
+"The opposing Ursaluna fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Clodsire] using Earthquake vs Gogoat does a max of 41/98 damage
+     [Clodsire] using Poison Jab vs Gogoat does a max of 135/98 damage
+     Gogoat (0)'s best move: Stomping Tantrum for 114/213 damage
+==============================
+     Gogoat (0) speed (94) vs Clodsire speed: 41
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Collector Dominique sent out Clodsire!"
+
+===== Round 9 =====
+
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Gogoat: Poison Jab
+[AI] Clodsire (1) is considering using Poison Jab (1) against Gogoat (0)...
+     Clodsire (1)'s highest damaging move vs Gogoat: Poison Jab
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Yawn (4) against Gogoat (0)...
+     Clodsire (1)'s highest damaging move vs Gogoat: Poison Jab
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Poison Jab (target 0): score 18
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Gogoat (0), the opposing Clodsire (1)
+
+"OK, Gogoat! Come back!"
+"You're in charge, Archeops!"
+[HP change] Archeops lost 41 HP (164 -> 123)
+"Pointed stones dug into Archeops!"
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Archeops lost 28 HP (123 -> 95)
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     - 3 because this will be pointless
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Poison Jab (target 0): score 5
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Clodsire lost 62 HP (213 -> 151)
+[HP change] The opposing Clodsire lost 60 HP (151 -> 91)
+"Hit 2 times!"
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Archeops lost 28 HP (95 -> 67)
+"It's not very effective..."
+"Archeops was poisoned!"
+[Status change] Archeops's status was cured
+"Archeops's Pecha Berry cured its poisoning!"
+[Item consumed] Archeops consumed its held Pecha Berry
+
+[End of round 10]
+[HP change] The opposing Clodsire gained 13 HP (91 -> 104)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     - 3 because this will be pointless
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Clodsire lost 86 HP (104 -> 18)
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire used Recover!"
+[HP change] The opposing Clodsire gained 107 HP (18 -> 125)
+"The opposing Clodsire's HP was restored."
+
+[End of round 11]
+[HP change] The opposing Clodsire gained 13 HP (125 -> 138)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     - 3 because this will be pointless
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Clodsire lost 83 HP (138 -> 55)
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire used Recover!"
+[HP change] The opposing Clodsire gained 107 HP (55 -> 162)
+"The opposing Clodsire's HP was restored."
+
+[End of round 12]
+[HP change] The opposing Clodsire gained 13 HP (162 -> 175)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     - 3 because this will be pointless
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Clodsire lost 73 HP (175 -> 102)
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire used Recover!"
+[HP change] The opposing Clodsire gained 107 HP (102 -> 209)
+"The opposing Clodsire's HP was restored."
+
+[End of round 13]
+[HP change] The opposing Clodsire gained 4 HP (209 -> 213)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     - 3 because this will be pointless
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Poison Jab (target 0): score 5
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Clodsire lost 29 HP (213 -> 184)
+[HP change] The opposing Clodsire lost 31 HP (184 -> 153)
+"Hit 2 times!"
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Archeops lost 30 HP (67 -> 37)
+"It's not very effective..."
+
+[End of round 14]
+[HP change] The opposing Clodsire gained 13 HP (153 -> 166)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     - 3 because this will be pointless
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Clodsire lost 16 HP (166 -> 150)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Obstagoon!"
+[HP change] Obstagoon lost 21 HP (169 -> 148)
+"Pointed stones dug into Obstagoon!"
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire used Recover!"
+[HP change] The opposing Clodsire gained 63 HP (150 -> 213)
+"The opposing Clodsire's HP was restored."
+
+[End of round 15]
+[HP change] Obstagoon lost 10 HP (148 -> 138)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Clodsire (1) used Earthquake
+"The opposing Clodsire used Earthquake!"
+"Obstagoon protected itself!"
+
+[End of round 16]
+[HP change] Obstagoon lost 10 HP (138 -> 128)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Clodsire lost 91 HP (213 -> 122)
+[Use move] The opposing Clodsire (1) used Earthquake
+"The opposing Clodsire used Earthquake!"
+[HP change] Obstagoon lost 47 HP (128 -> 81)
+[HP change] Obstagoon gained 42 HP (81 -> 123)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+
+[End of round 17]
+[HP change] The opposing Clodsire gained 13 HP (122 -> 135)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+[HP change] Obstagoon lost 10 HP (123 -> 113)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   * 100.0% to use Recover: score 7
+   => will use Recover
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Clodsire lost 94 HP (135 -> 41)
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire used Recover!"
+[HP change] The opposing Clodsire gained 107 HP (41 -> 148)
+"The opposing Clodsire's HP was restored."
+
+[End of round 18]
+[HP change] The opposing Clodsire gained 13 HP (148 -> 161)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+[HP change] Obstagoon lost 10 HP (113 -> 103)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Clodsire (1) cannot use Recover (no PP left)
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Clodsire lost 151 HP (161 -> 10)
+"A critical hit!"
+[Use move] The opposing Clodsire (1) used Earthquake
+"The opposing Clodsire used Earthquake!"
+[HP change] Obstagoon lost 48 HP (103 -> 55)
+
+[End of round 19]
+[HP change] The opposing Clodsire gained 13 HP (10 -> 23)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+[HP change] Obstagoon lost 10 HP (55 -> 45)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Clodsire (1) cannot use Recover (no PP left)
+[AI] Move choices for Clodsire (1):
+   *  50.0% to use Earthquake: score 18
+   *  50.0% to use Poison Jab (target 0): score 18
+   *   0.0% to use Yawn (target 0): score 0
+   *   0.0% to use Recover: score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Clodsire lost 23 HP (23 -> 0)
+"The opposing Clodsire fainted!"
+
+===== Player won =====
+
+"You defeated Collector Dominique!"
+"Wow. You're great!"
+
+"You got $1,664 for winning!"
+Roles for HUNTAIL: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for BRUXISH: [:PHYSICALBREAKER]
+Roles for MAGCARGO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :CRIT]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Travis!"
+"Fisherman Travis sent out Huntail!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Huntail (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Huntail (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Huntail (1):
+   *  50.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Liquidation (target 0)
+
+[Round order] Chimecho (0), the opposing Huntail (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Huntail lost 112 HP (135 -> 23)
+"It's super effective!"
+[Use move] The opposing Huntail (1) used Liquidation
+"The opposing Huntail used Liquidation!"
+[HP change] Chimecho lost 53 HP (171 -> 118)
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Roles for HUNTAIL: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for BRUXISH: [:PHYSICALBREAKER]
+Roles for MAGCARGO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :CRIT]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Travis!"
+"Fisherman Travis sent out Huntail!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Huntail (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Huntail (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Huntail (1):
+   *  50.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Liquidation (target 0)
+
+[Round order] Chimecho (0), the opposing Huntail (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Huntail lost 135 HP (135 -> 0)
+"It's super effective!"
+"The opposing Huntail fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Bruxish] using Hydro Fangs vs Chimecho does a max of 101/171 damage
+     [Bruxish] using Psychic Fangs vs Chimecho does a max of 71/171 damage
+     [Bruxish] using Crunch vs Chimecho does a max of 89/171 damage
+     [Bruxish] using Ice Fang vs Chimecho does a max of 72/171 damage
+     Chimecho (0)'s best move: Moonblast for 133/148 damage
+==============================
+     Chimecho (0) speed (106) vs Bruxish speed: 127
+     [Bruxish] +  6: for fast 2HKO
+     [Bruxish] final Switch score: 6
+==============================
+     [Magcargo] using Scald vs Chimecho does a max of 60/171 damage
+     [Magcargo] using Flamethrower vs Chimecho does a max of 67/171 damage
+     Chimecho (0)'s best move: Extrasensory for 84/140 damage
+==============================
+     Chimecho (0) speed (106) vs Magcargo speed: 52
+     [Magcargo] -  5: for target having fast 2HKO and us having no kill
+     [Magcargo] final Switch score: -5
+==============================
+     [Kingdra] using Snipe Shot vs Chimecho does a max of 57/171 damage
+     [Kingdra] using Ice Beam vs Chimecho does a max of 42/171 damage
+     [Kingdra] using Dragon Pulse vs Chimecho does a max of 1/171 damage
+     Chimecho (0)'s best move: Moonblast for 210/156 damage
+==============================
+     Chimecho (0) speed (106) vs Kingdra speed: 119
+     [Kingdra] -  7: for target slow kill
+     [Kingdra] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (6)
+"Fisherman Travis sent out Bruxish!"
+
+===== Round 2 =====
+
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+     + 4 to prioritize highest damaging move
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Bruxish (1) is considering using Crunch (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Bruxish (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Move choices for Bruxish (1):
+   * 100.0% to use Hydro Fangs (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Hydro Fangs (target 0)
+
+[Round order] The opposing Bruxish (1), Chimecho (0)
+
+[Use move] The opposing Bruxish (1) used Hydro Fangs
+"The opposing Bruxish used Hydro Fangs!"
+[HP change] Chimecho lost 90 HP (171 -> 81)
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (148 -> 134)
+"The opposing Bruxish lost some of its HP!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho flinched and couldn't move!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+      + 20 for fast kill
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Bruxish (1) is considering using Crunch (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+      + 20 for fast kill
+[AI] Bruxish (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Move choices for Bruxish (1):
+   *  50.0% to use Hydro Fangs (target 0): score 21
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *  50.0% to use Crunch (target 0): score 21
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Hydro Fangs (target 0)
+
+[Round order] The opposing Bruxish (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"Go for it, Gogoat!"
+[Use move] The opposing Bruxish (1) used Hydro Fangs
+"The opposing Bruxish used Hydro Fangs!"
+[HP change] Gogoat lost 83 HP (200 -> 117)
+"A critical hit!"
+"It's not very effective..."
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (134 -> 120)
+"The opposing Bruxish lost some of its HP!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+      + 20 for fast kill
+[AI] Bruxish (1) is considering using Crunch (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+[AI] Bruxish (1) is considering using Ice Fang (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+      + 20 for fast kill
+[AI] Move choices for Bruxish (1):
+   *   0.0% to use Hydro Fangs (target 0): score 0
+   *  50.0% to use Psychic Fangs (target 0): score 21
+   *   0.0% to use Crunch (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 21
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Bruxish (1), Gogoat (0)
+
+[Use move] The opposing Bruxish (1) used Ice Fang
+"The opposing Bruxish used Ice Fang!"
+[HP change] Gogoat lost 117 HP (117 -> 0)
+"It's super effective!"
+"Gogoat fainted!"
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (120 -> 106)
+"The opposing Bruxish lost some of its HP!"
+
+[End of round 4]
+Trick Room Turns: 0
+Roles for HUNTAIL: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for BRUXISH: [:PHYSICALBREAKER]
+Roles for MAGCARGO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :CRIT]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Travis!"
+"Fisherman Travis sent out Huntail!"
+"Go! Chimecho!"
+[Round order] Chimecho (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Huntail (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Huntail (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Huntail (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Huntail (1):
+   *  50.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *  50.0% to use Flip Turn (target 0): score 5
+   => will use Liquidation (target 0)
+
+[Round order] Chimecho (0), the opposing Huntail (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Huntail lost 135 HP (135 -> 0)
+"It's super effective!"
+"The opposing Huntail fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Bruxish] using Hydro Fangs vs Chimecho does a max of 101/171 damage
+     [Bruxish] using Psychic Fangs vs Chimecho does a max of 71/171 damage
+     [Bruxish] using Crunch vs Chimecho does a max of 89/171 damage
+     [Bruxish] using Ice Fang vs Chimecho does a max of 72/171 damage
+     Chimecho (0)'s best move: Moonblast for 133/148 damage
+==============================
+     Chimecho (0) speed (106) vs Bruxish speed: 127
+     [Bruxish] +  6: for fast 2HKO
+     [Bruxish] final Switch score: 6
+==============================
+     [Magcargo] using Scald vs Chimecho does a max of 60/171 damage
+     [Magcargo] using Flamethrower vs Chimecho does a max of 67/171 damage
+     Chimecho (0)'s best move: Extrasensory for 84/140 damage
+==============================
+     Chimecho (0) speed (106) vs Magcargo speed: 52
+     [Magcargo] -  5: for target having fast 2HKO and us having no kill
+     [Magcargo] final Switch score: -5
+==============================
+     [Kingdra] using Snipe Shot vs Chimecho does a max of 57/171 damage
+     [Kingdra] using Ice Beam vs Chimecho does a max of 42/171 damage
+     [Kingdra] using Dragon Pulse vs Chimecho does a max of 1/171 damage
+     Chimecho (0)'s best move: Moonblast for 210/156 damage
+==============================
+     Chimecho (0) speed (106) vs Kingdra speed: 119
+     [Kingdra] -  7: for target slow kill
+     [Kingdra] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (6)
+"Fisherman Travis sent out Bruxish!"
+
+===== Round 2 =====
+
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+     + 4 to prioritize highest damaging move
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Bruxish (1) is considering using Crunch (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Bruxish (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Move choices for Bruxish (1):
+   * 100.0% to use Hydro Fangs (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Hydro Fangs (target 0)
+
+[Round order] The opposing Bruxish (1), Chimecho (0)
+
+[Use move] The opposing Bruxish (1) used Hydro Fangs
+"The opposing Bruxish used Hydro Fangs!"
+[HP change] Chimecho lost 89 HP (171 -> 82)
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (148 -> 134)
+"The opposing Bruxish lost some of its HP!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho flinched and couldn't move!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+      + 20 for fast kill
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Bruxish (1) is considering using Crunch (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+      + 20 for fast kill
+[AI] Bruxish (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Bruxish (1)'s highest damaging move vs Chimecho: Hydro Fangs
+[AI] Move choices for Bruxish (1):
+   *  50.0% to use Hydro Fangs (target 0): score 21
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *  50.0% to use Crunch (target 0): score 21
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Bruxish (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"Go for it, Gogoat!"
+[Use move] The opposing Bruxish (1) used Crunch
+"The opposing Bruxish used Crunch!"
+[HP change] Gogoat lost 96 HP (200 -> 104)
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (134 -> 120)
+"The opposing Bruxish lost some of its HP!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Gogoat (0): 0
+     Threat Score for Gogoat (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+      + 20 for fast kill
+[AI] Bruxish (1) is considering using Crunch (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+[AI] Bruxish (1) is considering using Ice Fang (1) against Gogoat (0)...
+     Bruxish (1)'s highest damaging move vs Gogoat: Ice Fang
+      + 20 for fast kill
+[AI] Move choices for Bruxish (1):
+   *   0.0% to use Hydro Fangs (target 0): score 0
+   *  50.0% to use Psychic Fangs (target 0): score 21
+   *   0.0% to use Crunch (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 21
+   => will use Psychic Fangs (target 0)
+
+[Round order] The opposing Bruxish (1), Gogoat (0)
+
+"Gogoat, switch out! Come back!"
+"Go for it, Magnezone!"
+[Use move] The opposing Bruxish (1) used Psychic Fangs
+"The opposing Bruxish used Psychic Fangs!"
+[HP change] Magnezone lost 58 HP (153 -> 95)
+"It's not very effective..."
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (120 -> 106)
+"The opposing Bruxish lost some of its HP!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Bruxish (1): 0
+Set up score for Bruxish (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Bruxish (1) is considering using Hydro Fangs (1) against Magnezone (0)...
+     Bruxish (1)'s highest damaging move vs Magnezone: Hydro Fangs
+     + 4 to prioritize highest damaging move
+[AI] Bruxish (1) is considering using Psychic Fangs (1) against Magnezone (0)...
+     Bruxish (1)'s highest damaging move vs Magnezone: Hydro Fangs
+[AI] Bruxish (1) is considering using Crunch (1) against Magnezone (0)...
+     Bruxish (1)'s highest damaging move vs Magnezone: Hydro Fangs
+[AI] Bruxish (1) is considering using Ice Fang (1) against Magnezone (0)...
+     Bruxish (1)'s highest damaging move vs Magnezone: Hydro Fangs
+[AI] Move choices for Bruxish (1):
+   * 100.0% to use Hydro Fangs (target 0): score 5
+   *   0.0% to use Psychic Fangs (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Hydro Fangs (target 0)
+
+[Round order] The opposing Bruxish (1), Magnezone (0)
+
+[Use move] The opposing Bruxish (1) used Hydro Fangs
+"The opposing Bruxish used Hydro Fangs!"
+[HP change] Magnezone lost 83 HP (95 -> 12)
+[Item triggered] The opposing Bruxish's Life Orb (recoil)
+[HP change] The opposing Bruxish lost 14 HP (106 -> 92)
+"The opposing Bruxish lost some of its HP!"
+[Use move] Magnezone (0) used Discharge
+"Magnezone used Discharge!"
+[HP change] The opposing Bruxish lost 92 HP (92 -> 0)
+"It's super effective!"
+"The opposing Bruxish fainted!"
+"Magnezone got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Magcargo] using Scald vs Magnezone does a max of 63/12 damage
+     [Magcargo] using Flamethrower vs Magnezone does a max of 141/12 damage
+     [Magcargo] using Earth Power vs Magnezone does a max of 188/12 damage
+     Magnezone (0)'s best move: Discharge for 183/140 damage
+==============================
+     Magnezone (0) speed (78) vs Magcargo speed: 52
+     [Magcargo] +  3: for outdamage
+     [Magcargo] final Switch score: 3
+==============================
+     [Kingdra] using Snipe Shot vs Magnezone does a max of 60/12 damage
+     [Kingdra] using Ice Beam vs Magnezone does a max of 22/12 damage
+     [Kingdra] using Dragon Pulse vs Magnezone does a max of 31/12 damage
+     Magnezone (0)'s best move: Discharge for 79/156 damage
+==============================
+     Magnezone (0) speed (78) vs Kingdra speed: 119
+     [Kingdra] + 12: for fast kill
+     [Kingdra] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+"Fisherman Travis sent out Kingdra!"
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Snipe Shot (1) against Magnezone (0)...
+     Kingdra (1)'s highest damaging move vs Magnezone: Snipe Shot
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Kingdra (1)'s highest damaging move vs Magnezone: Snipe Shot
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Magnezone (0)...
+     Kingdra (1)'s highest damaging move vs Magnezone: Snipe Shot
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Focus Energy (4)...
+[AI] Move choices for Kingdra (1):
+   *  33.3% to use Snipe Shot (target 0): score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *  33.3% to use Dragon Pulse (target 0): score 21
+   *   0.0% to use Focus Energy: score 0
+   => will use Ice Beam (target 0)
+
+[Round order] The opposing Kingdra (1), Magnezone (0)
+
+"Good job, Magnezone! Come back!"
+"You're in charge, Bellibolt!"
+[Use move] The opposing Kingdra (1) used Ice Beam
+"The opposing Kingdra used Ice Beam!"
+[HP change] Bellibolt lost 109 HP (189 -> 80)
+"A critical hit!"
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Snipe Shot (1) against Bellibolt (0)...
+     Kingdra (1)'s highest damaging move vs Bellibolt: Dragon Pulse
+[AI] Kingdra (1) is considering using Ice Beam (1) against Bellibolt (0)...
+     Kingdra (1)'s highest damaging move vs Bellibolt: Dragon Pulse
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Bellibolt (0)...
+     Kingdra (1)'s highest damaging move vs Bellibolt: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Focus Energy (4)...
+[AI] Move choices for Kingdra (1):
+   *   0.0% to use Snipe Shot (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Focus Energy: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Kingdra (1), Bellibolt (0)
+
+[Use move] The opposing Kingdra (1) used Dragon Pulse
+"The opposing Kingdra used Dragon Pulse!"
+[HP change] Bellibolt lost 61 HP (80 -> 19)
+[Use move] Bellibolt (0) used Discharge
+"Bellibolt used Discharge!"
+[HP change] The opposing Kingdra lost 54 HP (156 -> 102)
+"The opposing Kingdra is paralyzed! It may be unable to move!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Bellibolt (0): 0
+     Threat Score for Bellibolt (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Snipe Shot (1) against Bellibolt (0)...
+     Kingdra (1)'s highest damaging move vs Bellibolt: Dragon Pulse
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Ice Beam (1) against Bellibolt (0)...
+     Kingdra (1)'s highest damaging move vs Bellibolt: Dragon Pulse
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Bellibolt (0)...
+     Kingdra (1)'s highest damaging move vs Bellibolt: Dragon Pulse
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Focus Energy (4)...
+[AI] Move choices for Kingdra (1):
+   *  33.3% to use Snipe Shot (target 0): score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *  33.3% to use Dragon Pulse (target 0): score 21
+   *   0.0% to use Focus Energy: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] The opposing Kingdra (1), Bellibolt (0)
+
+"Good job, Bellibolt! Come back!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Kingdra (1) used Dragon Pulse
+"The opposing Kingdra used Dragon Pulse!"
+[HP change] Obstagoon lost 61 HP (169 -> 108)
+
+[End of round 8]
+[HP change] Obstagoon lost 10 HP (108 -> 98)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Snipe Shot (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+[AI] Kingdra (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Focus Energy (4)...
+[AI] Move choices for Kingdra (1):
+   *   0.0% to use Snipe Shot (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Focus Energy: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Obstagoon (0), the opposing Kingdra (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Kingdra lost 61 HP (102 -> 41)
+[Use move] The opposing Kingdra (1) used Dragon Pulse
+"The opposing Kingdra is paralyzed! It can't move!"
+
+[End of round 9]
+[HP change] Obstagoon lost 10 HP (98 -> 88)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Snipe Shot (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+[AI] Kingdra (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Focus Energy (4)...
+[AI] Move choices for Kingdra (1):
+   *   0.0% to use Snipe Shot (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Focus Energy: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Obstagoon (0), the opposing Kingdra (1)
+
+[Use move] Obstagoon (0) used Headbutt
+"Obstagoon used Headbutt!"
+[HP change] The opposing Kingdra lost 41 HP (41 -> 0)
+"The opposing Kingdra fainted!"
+"Bellibolt got 1 Exp. Points!"
+
+[End of round 10]
+[HP change] Obstagoon lost 10 HP (88 -> 78)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Magcargo] using Scald vs Obstagoon does a max of 63/78 damage
+     [Magcargo] using Flamethrower vs Obstagoon does a max of 70/78 damage
+     [Magcargo] using Earth Power vs Obstagoon does a max of 47/78 damage
+     Obstagoon (0)'s best move: Night Slash for 60/140 damage
+==============================
+     Obstagoon (0) speed (118) vs Magcargo speed: 52
+     [Magcargo] +  3: for outdamage
+     [Magcargo] final Switch score: 3
+[AI] Highest move score (5) vs Switch In Score (3)
+"Fisherman Travis sent out Magcargo!"
+
+===== Round 11 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Obstagoon (0)...
+     Magcargo (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Magcargo (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Magcargo (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Magcargo (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Magcargo (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Magcargo (1) used Flamethrower
+"The opposing Magcargo used Flamethrower!"
+"Obstagoon protected itself!"
+
+[End of round 11]
+[HP change] Obstagoon lost 10 HP (78 -> 68)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Obstagoon (0)...
+     Magcargo (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Magcargo (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Magcargo (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Magcargo (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Magcargo (1)
+
+"OK, Obstagoon! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Magcargo (1) used Flamethrower
+"The opposing Magcargo used Flamethrower!"
+[HP change] Chimecho lost 60 HP (82 -> 22)
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Earth Power (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Scald (target 0)
+
+[Round order] Chimecho (0), the opposing Magcargo (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 86 HP (22 -> 108)
+"Chimecho's HP was restored."
+[Use move] The opposing Magcargo (1) used Scald
+"The opposing Magcargo used Scald!"
+[HP change] Chimecho lost 54 HP (108 -> 54)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+[AI] Magcargo (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Earth Power (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Magcargo (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 86 HP (54 -> 140)
+"Chimecho's HP was restored."
+[Use move] The opposing Magcargo (1) used Flamethrower
+"The opposing Magcargo used Flamethrower!"
+[HP change] Chimecho lost 64 HP (140 -> 76)
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+[AI] Magcargo (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Magcargo (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 86 HP (76 -> 162)
+"Chimecho's HP was restored."
+[Use move] The opposing Magcargo (1) used Flamethrower
+"The opposing Magcargo used Flamethrower!"
+[HP change] Chimecho lost 64 HP (162 -> 98)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+[AI] Magcargo (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Magcargo (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Magcargo lost 79 HP (140 -> 61)
+[Use move] The opposing Magcargo (1) used Flamethrower
+"The opposing Magcargo used Flamethrower!"
+[HP change] Chimecho lost 90 HP (98 -> 8)
+"A critical hit!"
+
+[End of round 16]
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Magcargo (1) is considering using Scald (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Flamethrower (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+      + 17 for slow kill
+[AI] Magcargo (1) is considering using Earth Power (1) against Chimecho (0)...
+     Magcargo (1)'s highest damaging move vs Chimecho: Flamethrower
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Flamethrower (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Chimecho (0), the opposing Magcargo (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Magcargo lost 61 HP (61 -> 0)
+"The opposing Magcargo fainted!"
+
+===== Player won =====
+
+"You defeated Fisherman Travis!"
+"Wow. You're great!"
+
+"You got $1,664 for winning!"
