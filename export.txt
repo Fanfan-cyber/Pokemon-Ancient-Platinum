@@ -1,6 +1,6 @@
 
 Chimecho
-Level: 55
+Level: 56
 Lonely Nature
 Ability: Levitate
 IVs: 23 HP / 30 Atk / 19 Def / 31 SpA / 1 SpD / 14 Spe
@@ -9,38 +9,8 @@ IVs: 23 HP / 30 Atk / 19 Def / 31 SpA / 1 SpD / 14 Spe
 - Mach Pulse
 - Recover
 
-Archeops @ Sitrus Berry
-Level: 55
-Hardy Nature
-Ability: Defeatist
-IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
-- Dual Wingbeat
-- U-turn
-- Rock Slide
-- Acrobatics
-
-Gogoat
-Level: 55
-Mild Nature
-Ability: Grass Pelt
-IVs: 0 HP / 25 Atk / 31 Def / 12 SpA / 20 SpD / 26 Spe
-- Synthesis
-- Leaf Blade
-- Horn Leech
-- Stomping Tantrum
-
-Empoleon
-Level: 55
-Lax Nature
-Ability: Torrent
-IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
-- Brine
-- Icy Wind
-- Aqua Jet
-- Flash Cannon
-
-Heracross
-Level: 55
+Heracross @ Loaded Dice
+Level: 56
 Serious Nature
 Ability: Guts
 IVs: 16 HP / 27 Atk / 31 Def / 31 SpA / 26 SpD / 31 Spe
@@ -49,28 +19,38 @@ IVs: 16 HP / 27 Atk / 31 Def / 31 SpA / 26 SpD / 31 Spe
 - Pin Missile
 - Throat Chop
 
-Obstagoon
-Level: 55
-Bashful Nature
-Ability: Guts
-IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
-- Sucker Punch
-- Night Slash
-- Headbutt
-- Obstruct
+Alakazam
+Level: 56
+Sassy Nature
+Ability: Synchronize
+IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
+- Role Play
+- Psychic
+- Psyshock
+- Recover
 
-Qwilfish
-Level: 55
+Kingdra
+Level: 56
+Impish Nature
+Ability: Sniper
+IVs: 7 HP / 30 Atk / 2 Def / 29 SpA / 15 SpD / 0 Spe
+- Icy Wind
+- Hydro Pump
+- Signal Beam
+- Dragon Pulse
+
+Magnezone @ Magnet
+Level: 56
 Lonely Nature
-Ability: Swift Swim
-IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
-- Barb Barrage
-- Liquidation
-- Pin Missile
-- Aqua Jet
+Ability: Sturdy
+IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
+- Discharge
+- Flash Cannon
+- Spark
+- Tri Attack
 
 Coalossal
-Level: 55
+Level: 56
 Timid Nature
 Ability: Heatproof
 IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
@@ -80,7 +60,7 @@ IVs: 28 HP / 23 Atk / 11 Def / 27 SpA / 19 SpD / 14 Spe
 - Stone Edge
 
 Beedrill
-Level: 55
+Level: 56
 Mild Nature
 Ability: Swarm
 IVs: 13 HP / 10 Atk / 10 Def / 27 SpA / 24 SpD / 0 Spe
@@ -89,38 +69,18 @@ IVs: 13 HP / 10 Atk / 10 Def / 27 SpA / 24 SpD / 0 Spe
 - X-Scissor
 - Pin Missile
 
-Alakazam
-Level: 55
-Sassy Nature
-Ability: Synchronize
-IVs: 30 HP / 11 Atk / 13 Def / 3 SpA / 5 SpD / 7 Spe
-- Role Play
+Mr. Rime
+Level: 56
+Calm Nature
+Ability: Tangled Feet
+IVs: 5 HP / 27 Atk / 23 Def / 10 SpA / 11 SpD / 17 Spe
+- Encore
 - Psychic
-- Psyshock
-- Recover
-
-Bellibolt
-Level: 55
-Adamant Nature
-Ability: Static
-IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
-- Mud Shot
-- Weather Ball
-- Discharge
-- Muddy Water
-
-Magnezone
-Level: 55
-Lonely Nature
-Ability: Sturdy
-IVs: 21 HP / 8 Atk / 2 Def / 24 SpA / 11 SpD / 13 Spe
-- Discharge
-- Flash Cannon
-- Spark
-- Tri Attack
+- Freeze-Dry
+- Protect
 
 Golem-Alola
-Level: 55
+Level: 56
 Adamant Nature
 Ability: Magnet Pull
 IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
@@ -129,8 +89,38 @@ IVs: 31 HP / 12 Atk / 12 Def / 6 SpA / 4 SpD / 27 Spe
 - Explosion
 - Thunder Punch
 
+Obstagoon @ Sitrus Berry
+Level: 56
+Bashful Nature
+Ability: Guts
+IVs: 4 HP / 12 Atk / 13 Def / 12 SpA / 30 SpD / 17 Spe
+- Sucker Punch
+- Night Slash
+- Double-Edge
+- Obstruct
+
+Archeops @ Sitrus Berry
+Level: 56
+Hardy Nature
+Ability: Defeatist
+IVs: 31 HP / 31 Atk / 21 Def / 3 SpA / 20 SpD / 31 Spe
+- Dual Wingbeat
+- U-turn
+- Rock Slide
+- Acrobatics
+
+Empoleon
+Level: 56
+Lax Nature
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 14 SpA / 31 SpD / 14 Spe
+- Brine
+- Icy Wind
+- Aqua Jet
+- Flash Cannon
+
 Sandslash-Alola
-Level: 55
+Level: 56
 Lax Nature
 Ability: Slush Rush
 IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
@@ -140,7 +130,7 @@ IVs: 23 HP / 19 Atk / 8 Def / 3 SpA / 20 SpD / 26 Spe
 - Icicle Crash
 
 Duraludon
-Level: 55
+Level: 56
 Bold Nature
 Ability: Light Metal
 IVs: 29 HP / 19 Atk / 15 Def / 1 SpA / 11 SpD / 8 Spe
@@ -149,28 +139,28 @@ IVs: 29 HP / 19 Atk / 15 Def / 1 SpA / 11 SpD / 8 Spe
 - Polarity Pulse
 - Breaking Swipe
 
-Mr. Rime
-Level: 55
-Calm Nature
-Ability: Tangled Feet
-IVs: 5 HP / 27 Atk / 23 Def / 10 SpA / 11 SpD / 17 Spe
-- Encore
-- Psychic
-- Freeze-Dry
-- Protect
+Qwilfish @ Muscle Band
+Level: 56
+Lonely Nature
+Ability: Swift Swim
+IVs: 19 HP / 23 Atk / 9 Def / 21 SpA / 27 SpD / 19 Spe
+- Barb Barrage
+- Aqua Tail
+- Pin Missile
+- Aqua Jet
 
-Houndoom
-Level: 55
-Jolly Nature
-Ability: Unnerve
-IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
-- Flamethrower
-- Dark Pulse
-- Fire Blast
-- Foul Play
+Bellibolt
+Level: 56
+Adamant Nature
+Ability: Static
+IVs: 9 HP / 25 Atk / 4 Def / 10 SpA / 4 SpD / 10 Spe
+- Mud Shot
+- Weather Ball
+- Discharge
+- Muddy Water
 
 Floatzel
-Level: 55
+Level: 56
 Docile Nature
 Ability: Swift Swim
 IVs: 26 HP / 30 Atk / 28 Def / 13 SpA / 5 SpD / 25 Spe
@@ -178,3 +168,13 @@ IVs: 26 HP / 30 Atk / 28 Def / 13 SpA / 5 SpD / 25 Spe
 - Ice Spinner
 - Flip Turn
 - Fake Out
+
+Houndoom
+Level: 56
+Jolly Nature
+Ability: Unnerve
+IVs: 22 HP / 10 Atk / 15 Def / 0 SpA / 2 SpD / 2 Spe
+- Flamethrower
+- Dark Pulse
+- Fire Blast
+- Foul Play
