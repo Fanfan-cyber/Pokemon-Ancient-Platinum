@@ -850,7 +850,7 @@ Battle::ItemEffects::DamageCalcFromUser.add(:ELECTRICGEM,
 Battle::ItemEffects::DamageCalcFromUser.add(:EXPERTBELT,
   proc { |item, user, target, move, mults, power, type|
     if Effectiveness.super_effective?(target.damageState.typeMod)
-      mults[:final_damage_multiplier] *= 1.2
+      mults[:final_damage_multiplier] *= (4915/4096)
     end
   }
 )
@@ -924,7 +924,7 @@ Battle::ItemEffects::DamageCalcFromUser.add(:ICEGEM,
 Battle::ItemEffects::DamageCalcFromUser.add(:LIFEORB,
   proc { |item, user, target, move, mults, power, type|
     if !move.is_a?(Battle::Move::Confusion)
-      mults[:final_damage_multiplier] *= 1.3
+      mults[:final_damage_multiplier] *= (5324/4096)
     end
   }
 )
@@ -963,7 +963,7 @@ Battle::ItemEffects::DamageCalcFromUser.copy(:METALCOAT, :IRONPLATE)
 
 Battle::ItemEffects::DamageCalcFromUser.add(:METRONOME,
   proc { |item, user, target, move, mults, power, type|
-    met = 1 + (0.2 * [user.effects[PBEffects::Metronome], 5].min)
+    met = 1 + ((819/4096) * [user.effects[PBEffects::Metronome], 5].min)
     mults[:final_damage_multiplier] *= met
   }
 )
