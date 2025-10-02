@@ -418918,3 +418918,1115 @@ Trick Room Turns: 0
 
 ===== Round 2 =====
 
+Roles for SLOWKING: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for MANTINE: [:SPECIALBREAKER, :TANK, :WEATHERTERRAINABUSER]
+Roles for BARRASKEWDA: [:PHYSICALBREAKER]
+Roles for LUVDISC: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Erick!"
+"Fisherman Erick sent out Slowking!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Slowking (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Slowking (1) is considering using Rain Dance (4)...
+[AI] Slowking (1) is considering using Scald (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+[AI] Slowking (1) is considering using Ice Beam (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+[AI] Slowking (1) is considering using Psychic (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Rain Dance: score 0
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 5
+   => will use Psychic (target 0)
+
+[Round order] Heracross (0), the opposing Slowking (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Slowking lost 79 HP (183 -> 104)
+[HP change] The opposing Slowking lost 87 HP (104 -> 17)
+[HP change] The opposing Slowking lost 17 HP (17 -> 0)
+"The opposing Slowking fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (164 -> 154)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Heracross does a max of 58/154 damage
+     [Mantine] using Air Slash vs Heracross does a max of 216/154 damage
+     [Mantine] using Hidden Power vs Heracross does a max of 14/154 damage
+     Heracross (0)'s best move: Rock Blast for 184/175 damage
+==============================
+     Heracross (0) speed (117) vs Mantine speed: 99
+     [Mantine] +  3: for outdamage
+     [Mantine] final Switch score: 3
+==============================
+     [Barraskewda] using Liquidation vs Heracross does a max of 172/154 damage
+     [Barraskewda] using Drill Run vs Heracross does a max of 42/154 damage
+     [Barraskewda] using Ice Fang vs Heracross does a max of 88/154 damage
+     [Barraskewda] using Close Combat vs Heracross does a max of 62/154 damage
+     Heracross (0)'s best move: Bullet Seed for 208/149 damage
+==============================
+     Heracross (0) speed (117) vs Barraskewda speed: 171
+     [Barraskewda] + 12: for fast kill
+     [Barraskewda] final Switch score: 12
+==============================
+     [Luvdisc] using Hydro Pump vs Heracross does a max of 114/154 damage
+     [Luvdisc] using Moonblast vs Heracross does a max of 198/154 damage
+     [Luvdisc] using Ice Beam vs Heracross does a max of 62/154 damage
+     [Luvdisc] using Hidden Power vs Heracross does a max of 21/154 damage
+     Heracross (0)'s best move: Bullet Seed for 222/151 damage
+==============================
+     Heracross (0) speed (117) vs Luvdisc speed: 140
+     [Luvdisc] + 12: for fast kill
+     [Luvdisc] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Fisherman Erick sent out Barraskewda!"
+
+===== Round 2 =====
+
+Roles for SLOWKING: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for MANTINE: [:SPECIALBREAKER, :TANK, :WEATHERTERRAINABUSER]
+Roles for BARRASKEWDA: [:PHYSICALBREAKER]
+Roles for LUVDISC: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Erick!"
+"Fisherman Erick sent out Slowking!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Slowking (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Slowking (1) is considering using Rain Dance (4)...
+[AI] Slowking (1) is considering using Scald (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+[AI] Slowking (1) is considering using Ice Beam (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+[AI] Slowking (1) is considering using Psychic (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Rain Dance: score 0
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 5
+   => will use Psychic (target 0)
+
+[Round order] Heracross (0), the opposing Slowking (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Slowking lost 84 HP (183 -> 99)
+[HP change] The opposing Slowking lost 83 HP (99 -> 16)
+[HP change] The opposing Slowking lost 16 HP (16 -> 0)
+"The opposing Slowking fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (164 -> 154)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Heracross does a max of 58/154 damage
+     [Mantine] using Air Slash vs Heracross does a max of 216/154 damage
+     [Mantine] using Hidden Power vs Heracross does a max of 14/154 damage
+     Heracross (0)'s best move: Rock Blast for 184/175 damage
+==============================
+     Heracross (0) speed (117) vs Mantine speed: 99
+     [Mantine] +  3: for outdamage
+     [Mantine] final Switch score: 3
+==============================
+     [Barraskewda] using Liquidation vs Heracross does a max of 172/154 damage
+     [Barraskewda] using Fury Attack vs Heracross does a max of 192/154 damage
+     [Barraskewda] using Ice Fang vs Heracross does a max of 88/154 damage
+     [Barraskewda] using Close Combat vs Heracross does a max of 62/154 damage
+     Heracross (0)'s best move: Bullet Seed for 208/149 damage
+==============================
+     Heracross (0) speed (117) vs Barraskewda speed: 171
+     [Barraskewda] + 12: for fast kill
+     [Barraskewda] final Switch score: 12
+==============================
+     [Luvdisc] using Hydro Pump vs Heracross does a max of 114/154 damage
+     [Luvdisc] using Moonblast vs Heracross does a max of 198/154 damage
+     [Luvdisc] using Ice Beam vs Heracross does a max of 62/154 damage
+     [Luvdisc] using Hidden Power vs Heracross does a max of 21/154 damage
+     Heracross (0)'s best move: Bullet Seed for 222/151 damage
+==============================
+     Heracross (0) speed (117) vs Luvdisc speed: 140
+     [Luvdisc] + 12: for fast kill
+     [Luvdisc] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Fisherman Erick sent out Barraskewda!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): 0
+Set up score for Barraskewda (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Fury Attack
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Fury Attack
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Fury Attack
+[AI] Barraskewda (1) is considering using Close Combat (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Fury Attack
+[AI] Move choices for Barraskewda (1):
+   *  50.0% to use Liquidation (target 0): score 21
+   *  50.0% to use Fury Attack (target 0): score 21
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Barraskewda (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Kingdra!"
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Kingdra lost 28 HP (153 -> 125)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Barraskewda (1): 0
+Set up score for Barraskewda (1): 0
+     [Switch AI] +5 Party member [Luvdisc] is immune to strongest move against Barraskewda (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Close Combat (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Barraskewda (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Barraskewda (1), Kingdra (0)
+
+"Kingdra, switch out! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Barraskewda (1) used Close Combat
+"The opposing Barraskewda used Close Combat!"
+[HP change] Chimecho lost 23 HP (174 -> 151)
+"It's not very effective..."
+[Stat change] The opposing Barraskewda's Defense changed by -1 (0 -> -1)
+"The opposing Barraskewda's Defense fell!"
+[Stat change] The opposing Barraskewda's Special Defense changed by -1 (0 -> -1)
+"The opposing Barraskewda's Special Defense fell!"
+[Item triggered] The opposing Barraskewda's Life Orb (recoil)
+[HP change] The opposing Barraskewda lost 14 HP (149 -> 135)
+"The opposing Barraskewda lost some of its HP!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Close Combat (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Move choices for Barraskewda (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Barraskewda (1), Chimecho (0)
+
+"Chimecho, switch out! Come back!"
+"Go for it, Kingdra!"
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Kingdra lost 28 HP (125 -> 97)
+"It's not very effective..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] +5 Party member [Luvdisc] is immune to strongest move against Barraskewda (1)
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Close Combat (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Barraskewda (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Barraskewda (1), Kingdra (0)
+
+"Kingdra, switch out! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Barraskewda (1) used Close Combat
+"The opposing Barraskewda used Close Combat!"
+[HP change] Chimecho lost 21 HP (151 -> 130)
+"It's not very effective..."
+[Stat change] The opposing Barraskewda's Defense changed by -1 (-1 -> -2)
+"The opposing Barraskewda's Defense fell!"
+[Stat change] The opposing Barraskewda's Special Defense changed by -1 (-1 -> -2)
+"The opposing Barraskewda's Special Defense fell!"
+[Item triggered] The opposing Barraskewda's Life Orb (recoil)
+[HP change] The opposing Barraskewda lost 14 HP (135 -> 121)
+"The opposing Barraskewda lost some of its HP!"
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+     [Switch AI] +4 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Close Combat (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Move choices for Barraskewda (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Barraskewda (1), Chimecho (0)
+
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Chimecho lost 123 HP (130 -> 7)
+[HP change] Chimecho gained 43 HP (7 -> 50)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 87 HP (50 -> 137)
+"Chimecho's HP was restored."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+     [Switch AI] +4 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Close Combat (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Move choices for Barraskewda (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Barraskewda (1), Chimecho (0)
+
+"Chimecho, come back!"
+"Go for it, Kingdra!"
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Kingdra lost 28 HP (97 -> 69)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+Set up score for Barraskewda (1): -4
+     [Switch AI] +4 Reset lowered stats
+     [Switch AI] +5 Party member [Luvdisc] is immune to strongest move against Barraskewda (1)
+[AI] Switch out Score (2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Close Combat (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Barraskewda (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Fury Attack (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 21
+   *  50.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Barraskewda (1), Kingdra (0)
+
+"OK, Kingdra! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Barraskewda (1) used Close Combat
+"The opposing Barraskewda used Close Combat!"
+[HP change] Chimecho lost 23 HP (137 -> 114)
+"It's not very effective..."
+[Stat change] The opposing Barraskewda's Defense changed by -1 (-2 -> -3)
+"The opposing Barraskewda's Defense fell!"
+[Stat change] The opposing Barraskewda's Special Defense changed by -1 (-2 -> -3)
+"The opposing Barraskewda's Special Defense fell!"
+[Item triggered] The opposing Barraskewda's Life Orb (recoil)
+[HP change] The opposing Barraskewda lost 14 HP (121 -> 107)
+"The opposing Barraskewda lost some of its HP!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+     [Switch AI] +6 Reset lowered stats
+[AI] Switch out Score (-1) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Barraskewda (1) is considering using Close Combat (1) against Chimecho (0)...
+     Barraskewda (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Move choices for Barraskewda (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Chimecho (0), the opposing Barraskewda (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Barraskewda lost 98 HP (107 -> 9)
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Chimecho lost 114 HP (114 -> 0)
+"Chimecho fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Archeops!"
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+     [Switch AI] +6 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Archeops (0)...
+     Barraskewda (1)'s highest damaging move vs Archeops: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Archeops (0)...
+     Barraskewda (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Archeops (0)...
+     Barraskewda (1)'s highest damaging move vs Archeops: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Close Combat (1) against Archeops (0)...
+     Barraskewda (1)'s highest damaging move vs Archeops: Liquidation
+[AI] Move choices for Barraskewda (1):
+   *  50.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 21
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Barraskewda (1), Archeops (0)
+
+"Archeops, switch out! Come back!"
+"Your opponent's weak! Get 'em, Kingdra!"
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Kingdra lost 25 HP (69 -> 44)
+"It's not very effective..."
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+     [Switch AI] +6 Reset lowered stats
+     [Switch AI] +5 Party member [Luvdisc] is immune to strongest move against Barraskewda (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-6) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Close Combat (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Barraskewda (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Fury Attack (target 0): score 0
+   *  50.0% to use Ice Fang (target 0): score 21
+   *  50.0% to use Close Combat (target 0): score 21
+   => will use Ice Fang (target 0)
+
+[Round order] The opposing Barraskewda (1), Kingdra (0)
+
+"OK, Kingdra! Come back!"
+"Your opponent's weak! Get 'em, Magnezone!"
+[Use move] The opposing Barraskewda (1) used Ice Fang
+"The opposing Barraskewda used Ice Fang!"
+[HP change] Magnezone lost 30 HP (156 -> 126)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+Set up score for Barraskewda (1): -6
+     [Switch AI] +6 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Magnezone (0)...
+     Barraskewda (1)'s highest damaging move vs Magnezone: Close Combat
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Fury Attack (1) against Magnezone (0)...
+     Barraskewda (1)'s highest damaging move vs Magnezone: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Magnezone (0)...
+     Barraskewda (1)'s highest damaging move vs Magnezone: Close Combat
+[AI] Barraskewda (1) is considering using Close Combat (1) against Magnezone (0)...
+     Barraskewda (1)'s highest damaging move vs Magnezone: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Barraskewda (1):
+   *  50.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Fury Attack (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *  50.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Barraskewda (1), Magnezone (0)
+
+"Magnezone, switch out! Come back!"
+"Your opponent's weak! Get 'em, Heracross!"
+[Use move] The opposing Barraskewda (1) used Close Combat
+"The opposing Barraskewda used Close Combat!"
+[HP change] Heracross lost 47 HP (154 -> 107)
+"It's not very effective..."
+[Stat change] The opposing Barraskewda's Defense changed by -1 (-3 -> -4)
+"The opposing Barraskewda's Defense fell!"
+[Stat change] The opposing Barraskewda's Special Defense changed by -1 (-3 -> -4)
+"The opposing Barraskewda's Special Defense fell!"
+[Item triggered] The opposing Barraskewda's Life Orb (recoil)
+[HP change] The opposing Barraskewda lost 9 HP (9 -> 0)
+"The opposing Barraskewda lost some of its HP!"
+"The opposing Barraskewda fainted!"
+
+[End of round 12]
+[HP change] Heracross lost 10 HP (107 -> 97)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Heracross does a max of 58/97 damage
+     [Mantine] using Air Slash vs Heracross does a max of 216/97 damage
+     [Mantine] using Hidden Power vs Heracross does a max of 14/97 damage
+     Heracross (0)'s best move: Rock Blast for 184/175 damage
+==============================
+     Heracross (0) speed (117) vs Mantine speed: 99
+     [Mantine] +  3: for outdamage
+     [Mantine] final Switch score: 3
+==============================
+     [Luvdisc] using Hydro Pump vs Heracross does a max of 114/97 damage
+     [Luvdisc] using Moonblast vs Heracross does a max of 198/97 damage
+     [Luvdisc] using Ice Beam vs Heracross does a max of 62/97 damage
+     [Luvdisc] using Hidden Power vs Heracross does a max of 21/97 damage
+     Heracross (0)'s best move: Bullet Seed for 222/151 damage
+==============================
+     Heracross (0) speed (117) vs Luvdisc speed: 140
+     [Luvdisc] + 12: for fast kill
+     [Luvdisc] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+"Fisherman Erick sent out Luvdisc!"
+
+===== Round 13 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+[AI] Move choices for Luvdisc (1):
+   *  50.0% to use Hydro Pump (target 0): score 21
+   *  50.0% to use Moonblast (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Moonblast (target 0)
+
+[Round order] The opposing Luvdisc (1), Heracross (0)
+
+"Heracross, switch out! Come back!"
+"You're in charge, Kingdra!"
+[Use move] The opposing Luvdisc (1) used Moonblast
+"The opposing Luvdisc used Moonblast!"
+[HP change] Kingdra lost 44 HP (44 -> 0)
+"It's super effective!"
+"Kingdra fainted!"
+
+[End of round 13]
+Trick Room Turns: 0
+"You're in charge, Magnezone!"
+
+===== Round 14 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Magnezone (0)...
+     Luvdisc (1)'s highest damaging move vs Magnezone: Hidden Power
+[AI] Luvdisc (1) is considering using Moonblast (1) against Magnezone (0)...
+     Luvdisc (1)'s highest damaging move vs Magnezone: Hidden Power
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Luvdisc (1)'s highest damaging move vs Magnezone: Hidden Power
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Magnezone (0)...
+     Luvdisc (1)'s highest damaging move vs Magnezone: Hidden Power
+      + 20 for fast kill
+[AI] Move choices for Luvdisc (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   *   0.0% to use Moonblast (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Luvdisc (1), Magnezone (0)
+
+[Use move] The opposing Luvdisc (1) used Hidden Power
+"The opposing Luvdisc used Hidden Power!"
+[HP change] Magnezone lost 126 HP (126 -> 0)
+"It's super effective!"
+"Magnezone fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+"You're in charge, Archeops!"
+
+===== Round 15 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Luvdisc (1):
+   * 100.0% to use Hydro Pump (target 0): score 18
+   *   0.0% to use Moonblast (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Archeops (0), the opposing Luvdisc (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Luvdisc lost 75 HP (151 -> 76)
+[HP change] The opposing Luvdisc lost 66 HP (76 -> 10)
+"Hit 2 times!"
+[Use move] The opposing Luvdisc (1) used Hydro Pump
+"The opposing Luvdisc used Hydro Pump!"
+[HP change] Archeops lost 167 HP (167 -> 0)
+"A critical hit!"
+"It's super effective!"
+"Archeops fainted!"
+
+[End of round 15]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Obstagoon!"
+
+===== Round 16 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+[AI] Luvdisc (1) is considering using Moonblast (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+[AI] Move choices for Luvdisc (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   * 100.0% to use Moonblast (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Moonblast (target 0)
+
+[Round order] Obstagoon (0), the opposing Luvdisc (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Luvdisc lost 10 HP (10 -> 0)
+"It's not very effective..."
+"The opposing Luvdisc fainted!"
+"Obstagoon got 1 Exp. Points!"
+
+[End of round 16]
+[HP change] Obstagoon lost 10 HP (172 -> 162)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Obstagoon does a max of 64/162 damage
+     [Mantine] using Air Slash vs Obstagoon does a max of 60/162 damage
+     [Mantine] using Hidden Power vs Obstagoon does a max of 33/162 damage
+     Obstagoon (0)'s best move: Double-Edge for 148/175 damage
+==============================
+     Obstagoon (0) speed (120) vs Mantine speed: 99
+     [Mantine] -  5: for target having fast 2HKO and us having no kill
+     [Mantine] final Switch score: -5
+[AI] Highest move score (5) vs Switch In Score (-5)
+"Fisherman Erick sent out Mantine!"
+
+===== Round 17 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Mantine (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Mantine (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Mantine (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Mantine lost 79 HP (175 -> 96)
+[Use move] The opposing Mantine (1) used Scald
+"The opposing Mantine used Scald!"
+[HP change] Obstagoon lost 58 HP (162 -> 104)
+
+[End of round 17]
+[HP change] Obstagoon lost 10 HP (104 -> 94)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Mantine (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Mantine (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Roost: score 7
+   => will use Roost
+
+[Round order] Obstagoon (0), the opposing Mantine (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+"But it failed!"
+[Move failed] In function code FailsIfTargetActed's def pbFailsAgainstTarget?
+[Use move] The opposing Mantine (1) used Roost
+"The opposing Mantine used Roost!"
+[HP change] The opposing Mantine gained 79 HP (96 -> 175)
+"The opposing Mantine's HP was restored."
+
+[End of round 18]
+[HP change] Obstagoon lost 10 HP (94 -> 84)
+"Obstagoon was hurt by its burn!"
+[HP change] Obstagoon gained 43 HP (84 -> 127)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Mantine (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Mantine (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Mantine (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Mantine lost 88 HP (175 -> 87)
+[Use move] The opposing Mantine (1) used Scald
+"The opposing Mantine used Scald!"
+[HP change] Obstagoon lost 55 HP (127 -> 72)
+
+[End of round 19]
+[HP change] Obstagoon lost 10 HP (72 -> 62)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Mantine (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Mantine (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   * 100.0% to use Roost: score 7
+   => will use Roost
+
+[Round order] Obstagoon (0), the opposing Mantine (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Mantine lost 84 HP (87 -> 3)
+[Use move] The opposing Mantine (1) used Roost
+"The opposing Mantine used Roost!"
+[HP change] The opposing Mantine gained 88 HP (3 -> 91)
+"The opposing Mantine's HP was restored."
+
+[End of round 20]
+[HP change] Obstagoon lost 10 HP (62 -> 52)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+      + 17 for slow kill
+[AI] Mantine (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+      + 17 for slow kill
+[AI] Mantine (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Mantine (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Air Slash (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Air Slash (target 0)
+
+[Round order] Obstagoon (0), the opposing Mantine (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Mantine lost 86 HP (91 -> 5)
+[Use move] The opposing Mantine (1) used Air Slash
+"The opposing Mantine used Air Slash!"
+[HP change] Obstagoon lost 52 HP (52 -> 0)
+"Obstagoon fainted!"
+
+[End of round 21]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Heracross!"
+
+===== Round 22 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Heracross (0)...
+     Mantine (1)'s highest damaging move vs Heracross: Air Slash
+[AI] Mantine (1) is considering using Air Slash (1) against Heracross (0)...
+     Mantine (1)'s highest damaging move vs Heracross: Air Slash
+      + 17 for slow kill
+[AI] Mantine (1) is considering using Hidden Power (1) against Heracross (0)...
+     Mantine (1)'s highest damaging move vs Heracross: Air Slash
+[AI] Mantine (1) is considering using Roost (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Move choices for Mantine (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Air Slash (target 0): score 18
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Air Slash (target 0)
+
+[Round order] Heracross (0), the opposing Mantine (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Mantine lost 5 HP (5 -> 0)
+"The opposing Mantine fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+===== Player won =====
+
+"You defeated Fisherman Erick!"
