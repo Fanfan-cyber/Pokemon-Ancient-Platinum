@@ -420030,3 +420030,3610 @@ Set up score for Heracross (0): 0
 ===== Player won =====
 
 "You defeated Fisherman Erick!"
+Roles for SLOWKING: [:SPECIALBREAKER, :WEATHERTERRAIN]
+Roles for MANTINE: [:SPECIALBREAKER, :TANK, :WEATHERTERRAINABUSER]
+Roles for BARRASKEWDA: [:PHYSICALBREAKER]
+Roles for LUVDISC: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Erick!"
+"Fisherman Erick sent out Slowking!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Slowking (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Slowking (1): 0
+Set up score for Slowking (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Slowking (1) is considering using Rain Dance (4)...
+[AI] Slowking (1) is considering using Scald (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+[AI] Slowking (1) is considering using Ice Beam (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+[AI] Slowking (1) is considering using Psychic (1) against Heracross (0)...
+     Slowking (1)'s highest damaging move vs Heracross: Psychic
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Slowking (1):
+   *   0.0% to use Rain Dance: score 0
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Psychic (target 0): score 5
+   => will use Psychic (target 0)
+
+[Round order] Heracross (0), the opposing Slowking (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Slowking lost 78 HP (183 -> 105)
+[HP change] The opposing Slowking lost 87 HP (105 -> 18)
+[HP change] The opposing Slowking lost 18 HP (18 -> 0)
+"The opposing Slowking fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (164 -> 154)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Heracross does a max of 58/154 damage
+     [Mantine] using Air Slash vs Heracross does a max of 216/154 damage
+     [Mantine] using Hidden Power vs Heracross does a max of 14/154 damage
+     Heracross (0)'s best move: Rock Blast for 184/175 damage
+==============================
+     Heracross (0) speed (117) vs Mantine speed: 99
+     [Mantine] +  3: for outdamage
+     [Mantine] final Switch score: 3
+==============================
+     [Barraskewda] using Liquidation vs Heracross does a max of 172/154 damage
+     [Barraskewda] using Drill Run vs Heracross does a max of 42/154 damage
+     [Barraskewda] using Ice Fang vs Heracross does a max of 88/154 damage
+     [Barraskewda] using Close Combat vs Heracross does a max of 62/154 damage
+     Heracross (0)'s best move: Bullet Seed for 208/149 damage
+==============================
+     Heracross (0) speed (117) vs Barraskewda speed: 171
+     [Barraskewda] + 12: for fast kill
+     [Barraskewda] final Switch score: 12
+==============================
+     [Luvdisc] using Hydro Pump vs Heracross does a max of 114/154 damage
+     [Luvdisc] using Moonblast vs Heracross does a max of 198/154 damage
+     [Luvdisc] using Ice Beam vs Heracross does a max of 62/154 damage
+     [Luvdisc] using Hidden Power vs Heracross does a max of 21/154 damage
+     Heracross (0)'s best move: Bullet Seed for 222/151 damage
+==============================
+     Heracross (0) speed (117) vs Luvdisc speed: 140
+     [Luvdisc] + 12: for fast kill
+     [Luvdisc] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Fisherman Erick sent out Barraskewda!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): 0
+Set up score for Barraskewda (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Liquidation
+      + 20 for fast kill
+[AI] Barraskewda (1) is considering using Drill Run (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Barraskewda (1) is considering using Close Combat (1) against Heracross (0)...
+     Barraskewda (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Barraskewda (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Drill Run (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Barraskewda (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Kingdra!"
+[Use move] The opposing Barraskewda (1) used Liquidation
+"The opposing Barraskewda used Liquidation!"
+[HP change] Kingdra lost 25 HP (153 -> 128)
+"It's not very effective..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Barraskewda (1): 0
+Set up score for Barraskewda (1): 0
+     [Switch AI] +5 Party member [Luvdisc] is immune to strongest move against Barraskewda (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Drill Run (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Close Combat (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Barraskewda (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Drill Run (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Barraskewda (1), Kingdra (0)
+
+[Use move] The opposing Barraskewda (1) used Close Combat
+"The opposing Barraskewda used Close Combat!"
+[HP change] Kingdra lost 72 HP (128 -> 56)
+[Stat change] The opposing Barraskewda's Defense changed by -1 (0 -> -1)
+"The opposing Barraskewda's Defense fell!"
+[Stat change] The opposing Barraskewda's Special Defense changed by -1 (0 -> -1)
+"The opposing Barraskewda's Special Defense fell!"
+[HP change] Kingdra gained 38 HP (56 -> 94)
+"Kingdra restored its health using its Sitrus Berry!"
+[Item consumed] Kingdra consumed its held Sitrus Berry
+[Item triggered] The opposing Barraskewda's Life Orb (recoil)
+[HP change] The opposing Barraskewda lost 14 HP (149 -> 135)
+"The opposing Barraskewda lost some of its HP!"
+[Use move] Kingdra (0) used Dragon Pulse
+"Kingdra used Dragon Pulse!"
+[HP change] The opposing Barraskewda lost 131 HP (135 -> 4)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+Set up score for Barraskewda (1): -2
+     [Switch AI] +2 Reset lowered stats
+     [Switch AI] +5 Party member [Luvdisc] is immune to strongest move against Barraskewda (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Barraskewda (1) is considering using Liquidation (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Drill Run (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Ice Fang (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+[AI] Barraskewda (1) is considering using Close Combat (1) against Kingdra (0)...
+     Barraskewda (1)'s highest damaging move vs Kingdra: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Barraskewda (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Drill Run (target 0): score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Barraskewda (1), Kingdra (0)
+
+"Kingdra, come back!"
+"Your opponent's weak! Get 'em, Qwilfish!"
+[Use move] The opposing Barraskewda (1) used Close Combat
+"The opposing Barraskewda used Close Combat!"
+[HP change] Qwilfish lost 49 HP (149 -> 100)
+"It's not very effective..."
+[Stat change] The opposing Barraskewda's Defense changed by -1 (-1 -> -2)
+"The opposing Barraskewda's Defense fell!"
+[Stat change] The opposing Barraskewda's Special Defense changed by -1 (-1 -> -2)
+"The opposing Barraskewda's Special Defense fell!"
+[Item triggered] The opposing Barraskewda's Life Orb (recoil)
+[HP change] The opposing Barraskewda lost 4 HP (4 -> 0)
+"The opposing Barraskewda lost some of its HP!"
+"The opposing Barraskewda fainted!"
+"Qwilfish got 1 Exp. Points!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Qwilfish does a max of 44/100 damage
+     [Mantine] using Air Slash vs Qwilfish does a max of 82/100 damage
+     [Mantine] using Hidden Power vs Qwilfish does a max of 90/100 damage
+     Qwilfish (0)'s best move: Barb Barrage for 84/175 damage
+==============================
+     Qwilfish (0) speed (110) vs Mantine speed: 99
+     [Mantine] +  3: for outdamage
+     [Mantine] final Switch score: 3
+==============================
+     [Luvdisc] using Hydro Pump vs Qwilfish does a max of 87/100 damage
+     [Luvdisc] using Moonblast vs Qwilfish does a max of 76/100 damage
+     [Luvdisc] using Ice Beam vs Qwilfish does a max of 47/100 damage
+     [Luvdisc] using Hidden Power vs Qwilfish does a max of 128/100 damage
+     Qwilfish (0)'s best move: Barb Barrage for 204/151 damage
+==============================
+     Qwilfish (0) speed (110) vs Luvdisc speed: 140
+     [Luvdisc] + 12: for fast kill
+     [Luvdisc] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+"Fisherman Erick sent out Luvdisc!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Qwilfish (0)...
+     Luvdisc (1)'s highest damaging move vs Qwilfish: Hidden Power
+[AI] Luvdisc (1) is considering using Moonblast (1) against Qwilfish (0)...
+     Luvdisc (1)'s highest damaging move vs Qwilfish: Hidden Power
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Qwilfish (0)...
+     Luvdisc (1)'s highest damaging move vs Qwilfish: Hidden Power
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Luvdisc (1)'s highest damaging move vs Qwilfish: Hidden Power
+      + 20 for fast kill
+[AI] Move choices for Luvdisc (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   *   0.0% to use Moonblast (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Luvdisc (1), Qwilfish (0)
+
+"Qwilfish, switch out! Come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Luvdisc (1) used Hidden Power
+"The opposing Luvdisc used Hidden Power!"
+[Target immune] Archeops's type immunity
+"It doesn't affect Archeops..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Archeops (0)...
+     Luvdisc (1)'s highest damaging move vs Archeops: Hydro Pump
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Move choices for Luvdisc (1):
+   * 100.0% to use Hydro Pump (target 0): score 18
+   *   0.0% to use Moonblast (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Archeops (0), the opposing Luvdisc (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Luvdisc lost 37 HP (151 -> 114)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Kingdra!"
+[Use move] The opposing Luvdisc (1) used Hydro Pump
+"The opposing Luvdisc used Hydro Pump!"
+[HP change] Kingdra lost 29 HP (94 -> 65)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+[AI] Luvdisc (1) is considering using Moonblast (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+[AI] Move choices for Luvdisc (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   * 100.0% to use Moonblast (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Moonblast (target 0)
+
+[Round order] The opposing Luvdisc (1), Kingdra (0)
+
+"OK, Kingdra! Come back!"
+"Go for it, Floatzel!"
+[Use move] The opposing Luvdisc (1) used Moonblast
+"The opposing Luvdisc used Moonblast!"
+[HP change] Floatzel lost 174 HP (175 -> 1)
+[HP change] Floatzel gained 43 HP (1 -> 44)
+"Floatzel restored its health using its Sitrus Berry!"
+[Item consumed] Floatzel consumed its held Sitrus Berry
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Move choices for Luvdisc (1):
+   *  25.0% to use Hydro Pump (target 0): score 18
+   *  25.0% to use Moonblast (target 0): score 18
+   *  25.0% to use Ice Beam (target 0): score 18
+   *  25.0% to use Hidden Power (target 0): score 18
+   => will use Moonblast (target 0)
+
+[Round order] Floatzel (0), the opposing Luvdisc (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Luvdisc lost 34 HP (114 -> 80)
+[Use move] The opposing Luvdisc (1) used Moonblast
+"The opposing Luvdisc flinched and couldn't move!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Floatzel (0)...
+     Luvdisc (1)'s highest damaging move vs Floatzel: Moonblast
+      + 17 for slow kill
+[AI] Move choices for Luvdisc (1):
+   *  25.0% to use Hydro Pump (target 0): score 18
+   *  25.0% to use Moonblast (target 0): score 18
+   *  25.0% to use Ice Beam (target 0): score 18
+   *  25.0% to use Hidden Power (target 0): score 18
+   => will use Hydro Pump (target 0)
+
+[Round order] Floatzel (0), the opposing Luvdisc (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Luvdisc lost 34 HP (80 -> 46)
+"It's not very effective..."
+"Floatzel went back to Tyler!"
+"Just a little more! Hang in there, Kingdra!"
+[Use move] The opposing Luvdisc (1) used Hydro Pump
+"The opposing Luvdisc used Hydro Pump!"
+[HP change] Kingdra lost 39 HP (65 -> 26)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Kingdra (0): 0
+     Threat Score for Kingdra (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Kingdra (0)...
+     Luvdisc (1)'s highest damaging move vs Kingdra: Moonblast
+      + 20 for fast kill
+[AI] Move choices for Luvdisc (1):
+   *  25.0% to use Hydro Pump (target 0): score 21
+   *  25.0% to use Moonblast (target 0): score 21
+   *  25.0% to use Ice Beam (target 0): score 21
+   *  25.0% to use Hidden Power (target 0): score 21
+   => will use Ice Beam (target 0)
+
+[Round order] The opposing Luvdisc (1), Kingdra (0)
+
+"Good job, Kingdra! Come back!"
+"Just a little more! Hang in there, Obstagoon!"
+[Use move] The opposing Luvdisc (1) used Ice Beam
+"The opposing Luvdisc used Ice Beam!"
+[HP change] Obstagoon lost 59 HP (172 -> 113)
+
+[End of round 10]
+[HP change] Obstagoon lost 10 HP (113 -> 103)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Luvdisc (1)'s highest damaging move vs Obstagoon: Moonblast
+[AI] Move choices for Luvdisc (1):
+   *  50.0% to use Hydro Pump (target 0): score 21
+   *  50.0% to use Moonblast (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Obstagoon (0), the opposing Luvdisc (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Luvdisc lost 46 HP (46 -> 0)
+"It's not very effective..."
+"The opposing Luvdisc fainted!"
+"Floatzel got 1 Exp. Points!"
+"Obstagoon got 1 Exp. Points!"
+
+[End of round 11]
+[HP change] Obstagoon lost 10 HP (103 -> 93)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Mantine] using Scald vs Obstagoon does a max of 64/93 damage
+     [Mantine] using Air Slash vs Obstagoon does a max of 60/93 damage
+     [Mantine] using Hidden Power vs Obstagoon does a max of 33/93 damage
+     Obstagoon (0)'s best move: Double-Edge for 148/175 damage
+==============================
+     Obstagoon (0) speed (120) vs Mantine speed: 99
+     [Mantine] -  5: for target having fast 2HKO and us having no kill
+     [Mantine] final Switch score: -5
+[AI] Highest move score (21) vs Switch In Score (-5)
+"Fisherman Erick sent out Mantine!"
+
+===== Round 12 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Mantine (1) is considering using Air Slash (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Mantine (1)'s highest damaging move vs Obstagoon: Scald
+[AI] Mantine (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Mantine (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Mantine (1)
+
+"Obstagoon, come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Mantine (1) used Scald
+"The opposing Mantine used Scald!"
+[HP change] Qwilfish lost 39 HP (100 -> 61)
+"It's not very effective..."
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Qwilfish (0)...
+     Mantine (1)'s highest damaging move vs Qwilfish: Hidden Power
+[AI] Mantine (1) is considering using Air Slash (1) against Qwilfish (0)...
+     Mantine (1)'s highest damaging move vs Qwilfish: Hidden Power
+      + 17 for slow kill
+[AI] Mantine (1) is considering using Hidden Power (1) against Qwilfish (0)...
+     Mantine (1)'s highest damaging move vs Qwilfish: Hidden Power
+      + 17 for slow kill
+[AI] Mantine (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Mantine (1):
+   *   0.0% to use Scald (target 0): score 0
+   *  50.0% to use Air Slash (target 0): score 18
+   *  50.0% to use Hidden Power (target 0): score 18
+   *   0.0% to use Roost: score 0
+   => will use Air Slash (target 0)
+
+[Round order] Qwilfish (0), the opposing Mantine (1)
+
+"OK, Qwilfish! Come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Mantine (1) used Air Slash
+"The opposing Mantine used Air Slash!"
+[HP change] Archeops lost 33 HP (167 -> 134)
+"It's not very effective..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mantine (1) is considering using Scald (1) against Archeops (0)...
+     Mantine (1)'s highest damaging move vs Archeops: Scald
+      + 17 for slow kill
+[AI] Mantine (1) is considering using Air Slash (1) against Archeops (0)...
+     Mantine (1)'s highest damaging move vs Archeops: Scald
+[AI] Mantine (1) is considering using Hidden Power (1) against Archeops (0)...
+     Mantine (1)'s highest damaging move vs Archeops: Scald
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Mantine (1) is considering using Roost...
+     +  1: move will fail
+[AI] Move choices for Mantine (1):
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Air Slash (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Roost: score 0
+   => will use Scald (target 0)
+
+[Round order] Archeops (0), the opposing Mantine (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Mantine lost 175 HP (175 -> 0)
+"It's super effective!"
+"The opposing Mantine fainted!"
+
+===== Player won =====
+
+"You defeated Fisherman Erick!"
+"Wow. You're great!"
+
+"You got $1,760 for winning!"
+Roles for WAILORD: [:REVENGEKILLER, :WEATHERTERRAIN]
+Roles for CURSOLA: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEARTIC: [:PHYSICALBREAKER, :SETUPSWEEPER, :WEATHERTERRAINABUSER]
+Roles for ARMALDO: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Sailor Samson!"
+"Sailor Samson sent out Wailord!"
+"Go! Magnezone!"
+[Round order] The opposing Wailord (1), Magnezone (0)
+[Ability triggered] The opposing Wailord's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Roles for WAILORD: [:REVENGEKILLER, :WEATHERTERRAIN]
+Roles for CURSOLA: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for BEARTIC: [:PHYSICALBREAKER, :SETUPSWEEPER, :WEATHERTERRAINABUSER]
+Roles for ARMALDO: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Sailor Samson!"
+"Sailor Samson sent out Wailord!"
+"Go! Magnezone!"
+[Round order] The opposing Wailord (1), Magnezone (0)
+[Ability triggered] The opposing Wailord's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Wailord (1): 0
+Set up score for Wailord (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Wailord (1) is considering using Water Spout (1)...
+     Wailord (1)'s highest damaging move vs Magnezone: Water Spout
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wailord (1):
+   * 100.0% to use Water Spout: score 5
+   => will use Water Spout
+
+[Round order] The opposing Wailord (1), Magnezone (0)
+
+[Use move] The opposing Wailord (1) used Water Spout
+"The opposing Wailord used Water Spout!"
+[HP change] Magnezone lost 155 HP (156 -> 1)
+[Ability triggered] Magnezone's Sturdy
+"Magnezone endured the hit!"
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Wailord lost 248 HP (269 -> 21)
+"It's super effective!"
+"Magnezone went back to Tyler!"
+"Your opponent's weak! Get 'em, Floatzel!"
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Wailord (1): 0
+Set up score for Wailord (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wailord (1) is considering using Water Spout (1)...
+     Wailord (1)'s highest damaging move vs Floatzel: Water Spout
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Wailord (1):
+   * 100.0% to use Water Spout: score 5
+   => will use Water Spout
+
+[Round order] Floatzel (0), the opposing Wailord (1)
+
+[Use move] Floatzel (0) used Fake Out
+"Floatzel used Fake Out!"
+[HP change] The opposing Wailord lost 21 HP (21 -> 0)
+"The opposing Wailord fainted!"
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Cursola] using Shadow Ball vs Floatzel does a max of 184/175 damage
+     [Cursola] using Ice Beam vs Floatzel does a max of 69/175 damage
+     [Cursola] using Weather Ball vs Floatzel does a max of 115/175 damage
+     [Cursola] using Giga Drain vs Floatzel does a max of 230/175 damage
+     Floatzel (0)'s best move: Aqua Tail for 178/148 damage
+==============================
+     Floatzel (0) speed (294) vs Cursola speed: 164
+     [Cursola] +  3: for outdamage
+     [Cursola] final Switch score: 3
+==============================
+     [Beartic] using Ice Punch vs Floatzel does a max of 67/175 damage
+     [Beartic] using Drain Punch vs Floatzel does a max of 133/175 damage
+     [Beartic] using Liquidation vs Floatzel does a max of 69/175 damage
+     Floatzel (0)'s best move: Aqua Tail for 126/186 damage
+==============================
+     Floatzel (0) speed (294) vs Beartic speed: 154
+     [Beartic] +  3: for outdamage
+     [Beartic] final Switch score: 3
+==============================
+     [Armaldo] using Stone Edge vs Floatzel does a max of 154/175 damage
+     [Armaldo] using X-Scissor vs Floatzel does a max of 124/175 damage
+     [Armaldo] using Liquidation vs Floatzel does a max of 66/175 damage
+     [Armaldo] using Earthquake vs Floatzel does a max of 103/175 damage
+     Floatzel (0)'s best move: Aqua Tail for 211/164 damage
+==============================
+     Floatzel (0) speed (294) vs Armaldo speed: 142
+     [Armaldo] -  9: for target fast kill
+     [Armaldo] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (3)
+"Sailor Samson sent out Cursola!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Cursola (1): 0
+Set up score for Cursola (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cursola (1) is considering using Shadow Ball (1) against Floatzel (0)...
+     Cursola (1)'s highest damaging move vs Floatzel: Giga Drain
+      + 5 for having a kill even if we are killed first
+[AI] Cursola (1) is considering using Ice Beam (1) against Floatzel (0)...
+     Cursola (1)'s highest damaging move vs Floatzel: Giga Drain
+[AI] Cursola (1) is considering using Weather Ball (1) against Floatzel (0)...
+     Cursola (1)'s highest damaging move vs Floatzel: Giga Drain
+[AI] Cursola (1) is considering using Giga Drain (1) against Floatzel (0)...
+     Cursola (1)'s highest damaging move vs Floatzel: Giga Drain
+      + 17 for slow kill
+[AI] Move choices for Cursola (1):
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Weather Ball (target 0): score 0
+   * 100.0% to use Giga Drain (target 0): score 18
+   => will use Giga Drain (target 0)
+
+[Round order] Floatzel (0), the opposing Cursola (1)
+
+[Use move] Floatzel (0) used Aqua Tail
+"Floatzel used Aqua Tail!"
+[HP change] The opposing Cursola lost 148 HP (148 -> 0)
+"The opposing Cursola fainted!"
+
+[End of round 3]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Beartic] using Ice Punch vs Floatzel does a max of 67/175 damage
+     [Beartic] using Drain Punch vs Floatzel does a max of 133/175 damage
+     [Beartic] using Liquidation vs Floatzel does a max of 69/175 damage
+     Floatzel (0)'s best move: Aqua Tail for 126/186 damage
+==============================
+     Floatzel (0) speed (294) vs Beartic speed: 154
+     [Beartic] +  3: for outdamage
+     [Beartic] final Switch score: 3
+==============================
+     [Armaldo] using Stone Edge vs Floatzel does a max of 154/175 damage
+     [Armaldo] using X-Scissor vs Floatzel does a max of 124/175 damage
+     [Armaldo] using Liquidation vs Floatzel does a max of 66/175 damage
+     [Armaldo] using Earthquake vs Floatzel does a max of 103/175 damage
+     Floatzel (0)'s best move: Aqua Tail for 211/164 damage
+==============================
+     Floatzel (0) speed (294) vs Armaldo speed: 142
+     [Armaldo] -  9: for target fast kill
+     [Armaldo] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (3)
+"Sailor Samson sent out Beartic!"
+
+===== Round 4 =====
+
+Set up score for Beartic (1): 0
+Set up score for Beartic (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beartic (1) is considering using Ice Punch (1) against Floatzel (0)...
+     Beartic (1)'s highest damaging move vs Floatzel: Drain Punch
+[AI] Beartic (1) is considering using Drain Punch (1) against Floatzel (0)...
+     Beartic (1)'s highest damaging move vs Floatzel: Drain Punch
+     + 4 to prioritize highest damaging move
+[AI] Beartic (1) is considering using Liquidation (1) against Floatzel (0)...
+     Beartic (1)'s highest damaging move vs Floatzel: Drain Punch
+[AI] Beartic (1) is considering using Swords Dance (4)...
+[AI] Move choices for Beartic (1):
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 5
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Drain Punch (target 0)
+
+[Round order] Floatzel (0), the opposing Beartic (1)
+
+[Use move] Floatzel (0) used Flip Turn
+"Floatzel used Flip Turn!"
+[HP change] The opposing Beartic lost 78 HP (186 -> 108)
+"Floatzel went back to Tyler!"
+"Go for it, Chimecho!"
+[Use move] The opposing Beartic (1) used Drain Punch
+"The opposing Beartic used Drain Punch!"
+[HP change] Chimecho lost 26 HP (174 -> 148)
+"It's not very effective..."
+"Chimecho had its energy drained!"
+[HP change] The opposing Beartic gained 13 HP (108 -> 121)
+
+[End of round 4]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+Set up score for Beartic (1): 0
+Set up score for Beartic (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Beartic (1) is considering using Ice Punch (1) against Chimecho (0)...
+     Beartic (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Beartic (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Beartic (1)'s highest damaging move vs Chimecho: Liquidation
+[AI] Beartic (1) is considering using Liquidation (1) against Chimecho (0)...
+     Beartic (1)'s highest damaging move vs Chimecho: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Beartic (1) is considering using Swords Dance (4)...
+[AI] Move choices for Beartic (1):
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Swords Dance: score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Beartic (1), Chimecho (0)
+
+[Use move] The opposing Beartic (1) used Liquidation
+"The opposing Beartic used Liquidation!"
+[HP change] Chimecho lost 108 HP (148 -> 40)
+[HP change] Chimecho gained 43 HP (40 -> 83)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Stat change] Chimecho's Defense changed by -1 (0 -> -1)
+"Chimecho's Defense fell!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Beartic lost 121 HP (121 -> 0)
+"It's super effective!"
+"The opposing Beartic fainted!"
+
+[End of round 5]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Armaldo] using Stone Edge vs Chimecho does a max of 184/83 damage
+     [Armaldo] using X-Scissor vs Chimecho does a max of 147/83 damage
+     [Armaldo] using Liquidation vs Chimecho does a max of 156/83 damage
+     Chimecho (0)'s best move: Moonblast for 64/164 damage
+==============================
+     Chimecho (0) speed (108) vs Armaldo speed: 142
+     [Armaldo] + 12: for fast kill
+     [Armaldo] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Sailor Samson sent out Armaldo!"
+
+===== Round 6 =====
+
+Set up score for Chimecho (0): -1
+     Threat Score for Chimecho (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Armaldo (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Armaldo (1)'s highest damaging move vs Chimecho: Stone Edge
+      + 20 for fast kill
+[AI] Armaldo (1) is considering using X-Scissor (1) against Chimecho (0)...
+     Armaldo (1)'s highest damaging move vs Chimecho: Stone Edge
+      + 20 for fast kill
+[AI] Armaldo (1) is considering using Liquidation (1) against Chimecho (0)...
+     Armaldo (1)'s highest damaging move vs Chimecho: Stone Edge
+      + 20 for fast kill
+[AI] Armaldo (1) is considering using Earthquake (1)...
+     Armaldo (1)'s highest damaging move vs Chimecho: Stone Edge
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Armaldo (1):
+   *  33.3% to use Stone Edge (target 0): score 21
+   *  33.3% to use X-Scissor (target 0): score 21
+   *  33.3% to use Liquidation (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Armaldo (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Floatzel!"
+[Use move] The opposing Armaldo (1) used Liquidation
+"The opposing Armaldo used Liquidation!"
+[HP change] Floatzel lost 66 HP (175 -> 109)
+"It's not very effective..."
+
+[End of round 6]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Floatzel (0): 0
+     Threat Score for Floatzel (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Armaldo (1) is considering using Stone Edge (1) against Floatzel (0)...
+     Armaldo (1)'s highest damaging move vs Floatzel: Stone Edge
+      + 17 for slow kill
+[AI] Armaldo (1) is considering using X-Scissor (1) against Floatzel (0)...
+     Armaldo (1)'s highest damaging move vs Floatzel: Stone Edge
+      + 17 for slow kill
+[AI] Armaldo (1) is considering using Liquidation (1) against Floatzel (0)...
+     Armaldo (1)'s highest damaging move vs Floatzel: Stone Edge
+[AI] Armaldo (1) is considering using Earthquake (1)...
+     Armaldo (1)'s highest damaging move vs Floatzel: Stone Edge
+[AI] Move choices for Armaldo (1):
+   *  50.0% to use Stone Edge (target 0): score 18
+   *  50.0% to use X-Scissor (target 0): score 18
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Stone Edge (target 0)
+
+[Round order] Floatzel (0), the opposing Armaldo (1)
+
+[Use move] Floatzel (0) used Aqua Tail
+"Floatzel used Aqua Tail!"
+[HP change] The opposing Armaldo lost 164 HP (164 -> 0)
+"It's super effective!"
+"The opposing Armaldo fainted!"
+
+===== Player won =====
+
+"You defeated Sailor Samson!"
+"Wow. You're great!"
+
+"You got $1,760 for winning!"
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Magnezone!"
+[Round order] The opposing Pelipper (1), Magnezone (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used U-turn
+"The opposing Pelipper used U-turn!"
+[HP change] Magnezone lost 9 HP (156 -> 147)
+"It's not very effective..."
+"The opposing Pelipper went back to Gym Leader Crasher Wake!"
+==============================
+     [Seismitoad] using Liquidation vs Magnezone does a max of 108/147 damage
+     [Seismitoad] using Earthquake vs Magnezone does a max of 342/147 damage
+     [Seismitoad] using Drain Punch vs Magnezone does a max of 86/147 damage
+     Magnezone (0)'s best move: Tri Attack for 62/197 damage
+==============================
+     Magnezone (0) speed (79) vs Seismitoad speed: 206
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+==============================
+     [Overqwil] using Crunch vs Magnezone does a max of 75/147 damage
+     [Overqwil] using Liquidation vs Magnezone does a max of 79/147 damage
+     [Overqwil] using Explosion vs Magnezone does a max of 102/147 damage
+     Magnezone (0)'s best move: Flash Cannon for 106/172 damage
+==============================
+     Magnezone (0) speed (79) vs Overqwil speed: 226
+     [Overqwil] +  6: for fast 2HKO
+     [Overqwil] final Switch score: 6
+==============================
+     [Ludicolo] using Fake Out vs Magnezone does a max of 10/147 damage
+     [Ludicolo] using Energy Ball vs Magnezone does a max of 52/147 damage
+     [Ludicolo] using Weather Ball vs Magnezone does a max of 173/147 damage
+     [Ludicolo] using Ice Beam vs Magnezone does a max of 34/147 damage
+     Magnezone (0)'s best move: Discharge for 73/170 damage
+==============================
+     Magnezone (0) speed (79) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Magnezone does a max of 130/147 damage
+     [Walking Wake] using Dragon Pulse vs Magnezone does a max of 46/147 damage
+     [Walking Wake] using Ice Beam vs Magnezone does a max of 32/147 damage
+     [Walking Wake] using Hurricane vs Magnezone does a max of 20/147 damage
+     Magnezone (0)'s best move: Discharge for 84/194 damage
+==============================
+     Magnezone (0) speed (79) vs Walking Wake speed: 158
+     [Walking Wake] +  6: for fast 2HKO
+     [Walking Wake] final Switch score: 6
+==============================
+     [Gyarados] using Waterfall vs Magnezone does a max of 119/147 damage
+     [Gyarados] using Crunch vs Magnezone does a max of 53/147 damage
+     [Gyarados] using Earthquake vs Magnezone does a max of 264/147 damage
+     [Gyarados] using Bounce vs Magnezone does a max of 21/147 damage
+     Magnezone (0)'s best move: Discharge for 288/189 damage
+==============================
+     Magnezone (0) speed (79) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Seismitoad!"
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Seismitoad lost 59 HP (197 -> 138)
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Magnezone (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+      + 20 for fast kill
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Seismitoad (1), Magnezone (0)
+
+"Magnezone, come back!"
+"Go for it, Heracross!"
+[Use move] The opposing Seismitoad (1) used Earthquake
+"The opposing Seismitoad used Earthquake!"
+[HP change] Heracross lost 45 HP (164 -> 119)
+"It's not very effective..."
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Seismitoad (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Seismitoad (1), Heracross (0)
+
+[Use move] The opposing Seismitoad (1) used Liquidation
+"The opposing Seismitoad used Liquidation!"
+[HP change] Heracross lost 119 HP (119 -> 0)
+"Heracross fainted!"
+
+[End of round 3]
+"Rain continues to fall."
+Trick Room Turns: 0
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Magnezone!"
+[Round order] The opposing Pelipper (1), Magnezone (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used U-turn
+"The opposing Pelipper used U-turn!"
+[HP change] Magnezone lost 9 HP (156 -> 147)
+"It's not very effective..."
+"The opposing Pelipper went back to Gym Leader Crasher Wake!"
+==============================
+     [Seismitoad] using Liquidation vs Magnezone does a max of 108/147 damage
+     [Seismitoad] using Earthquake vs Magnezone does a max of 342/147 damage
+     [Seismitoad] using Drain Punch vs Magnezone does a max of 86/147 damage
+     Magnezone (0)'s best move: Tri Attack for 62/197 damage
+==============================
+     Magnezone (0) speed (79) vs Seismitoad speed: 206
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+==============================
+     [Overqwil] using Crunch vs Magnezone does a max of 75/147 damage
+     [Overqwil] using Liquidation vs Magnezone does a max of 79/147 damage
+     [Overqwil] using Explosion vs Magnezone does a max of 102/147 damage
+     Magnezone (0)'s best move: Flash Cannon for 106/172 damage
+==============================
+     Magnezone (0) speed (79) vs Overqwil speed: 226
+     [Overqwil] +  6: for fast 2HKO
+     [Overqwil] final Switch score: 6
+==============================
+     [Ludicolo] using Fake Out vs Magnezone does a max of 10/147 damage
+     [Ludicolo] using Energy Ball vs Magnezone does a max of 52/147 damage
+     [Ludicolo] using Weather Ball vs Magnezone does a max of 173/147 damage
+     [Ludicolo] using Ice Beam vs Magnezone does a max of 34/147 damage
+     Magnezone (0)'s best move: Discharge for 73/170 damage
+==============================
+     Magnezone (0) speed (79) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Magnezone does a max of 130/147 damage
+     [Walking Wake] using Dragon Pulse vs Magnezone does a max of 46/147 damage
+     [Walking Wake] using Ice Beam vs Magnezone does a max of 32/147 damage
+     [Walking Wake] using Hurricane vs Magnezone does a max of 20/147 damage
+     Magnezone (0)'s best move: Discharge for 84/194 damage
+==============================
+     Magnezone (0) speed (79) vs Walking Wake speed: 158
+     [Walking Wake] +  6: for fast 2HKO
+     [Walking Wake] final Switch score: 6
+==============================
+     [Gyarados] using Waterfall vs Magnezone does a max of 119/147 damage
+     [Gyarados] using Crunch vs Magnezone does a max of 53/147 damage
+     [Gyarados] using Earthquake vs Magnezone does a max of 264/147 damage
+     [Gyarados] using Bounce vs Magnezone does a max of 21/147 damage
+     Magnezone (0)'s best move: Discharge for 288/189 damage
+==============================
+     Magnezone (0) speed (79) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Seismitoad!"
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Seismitoad lost 55 HP (197 -> 142)
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Magnezone (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+      + 20 for fast kill
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Seismitoad (1), Magnezone (0)
+
+"Magnezone, come back!"
+"Go for it, Heracross!"
+[Use move] The opposing Seismitoad (1) used Earthquake
+"The opposing Seismitoad used Earthquake!"
+[HP change] Heracross lost 70 HP (164 -> 94)
+"A critical hit!"
+"It's not very effective..."
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Magnezone!"
+[Round order] The opposing Pelipper (1), Magnezone (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Scald (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used Scald
+"The opposing Pelipper used Scald!"
+[HP change] Magnezone lost 85 HP (156 -> 71)
+[HP change] Magnezone gained 39 HP (71 -> 110)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Pelipper lost 61 HP (145 -> 84)
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Scald (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used Scald
+"The opposing Pelipper used Scald!"
+[HP change] Magnezone lost 84 HP (110 -> 26)
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Pelipper lost 61 HP (84 -> 23)
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Magnezone!"
+[Round order] The opposing Pelipper (1), Magnezone (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used U-turn
+"The opposing Pelipper used U-turn!"
+[HP change] Magnezone lost 8 HP (156 -> 148)
+"It's not very effective..."
+"The opposing Pelipper went back to Gym Leader Crasher Wake!"
+==============================
+     [Seismitoad] using Liquidation vs Magnezone does a max of 108/148 damage
+     [Seismitoad] using Earthquake vs Magnezone does a max of 342/148 damage
+     [Seismitoad] using Drain Punch vs Magnezone does a max of 86/148 damage
+     Magnezone (0)'s best move: Tri Attack for 62/197 damage
+==============================
+     Magnezone (0) speed (79) vs Seismitoad speed: 206
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+==============================
+     [Overqwil] using Crunch vs Magnezone does a max of 75/148 damage
+     [Overqwil] using Liquidation vs Magnezone does a max of 79/148 damage
+     [Overqwil] using Explosion vs Magnezone does a max of 102/148 damage
+     Magnezone (0)'s best move: Flash Cannon for 106/172 damage
+==============================
+     Magnezone (0) speed (79) vs Overqwil speed: 226
+     [Overqwil] +  6: for fast 2HKO
+     [Overqwil] final Switch score: 6
+==============================
+     [Ludicolo] using Fake Out vs Magnezone does a max of 10/148 damage
+     [Ludicolo] using Energy Ball vs Magnezone does a max of 52/148 damage
+     [Ludicolo] using Weather Ball vs Magnezone does a max of 173/148 damage
+     [Ludicolo] using Ice Beam vs Magnezone does a max of 34/148 damage
+     Magnezone (0)'s best move: Discharge for 73/170 damage
+==============================
+     Magnezone (0) speed (79) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Magnezone does a max of 130/148 damage
+     [Walking Wake] using Dragon Pulse vs Magnezone does a max of 46/148 damage
+     [Walking Wake] using Ice Beam vs Magnezone does a max of 32/148 damage
+     [Walking Wake] using Hurricane vs Magnezone does a max of 20/148 damage
+     Magnezone (0)'s best move: Discharge for 84/194 damage
+==============================
+     Magnezone (0) speed (79) vs Walking Wake speed: 158
+     [Walking Wake] +  6: for fast 2HKO
+     [Walking Wake] final Switch score: 6
+==============================
+     [Gyarados] using Waterfall vs Magnezone does a max of 119/148 damage
+     [Gyarados] using Crunch vs Magnezone does a max of 53/148 damage
+     [Gyarados] using Earthquake vs Magnezone does a max of 264/148 damage
+     [Gyarados] using Bounce vs Magnezone does a max of 21/148 damage
+     Magnezone (0)'s best move: Discharge for 288/189 damage
+==============================
+     Magnezone (0) speed (79) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Seismitoad!"
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Seismitoad lost 58 HP (197 -> 139)
+"The opposing Seismitoad is paralyzed! It may be unable to move!"
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Magnezone (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+      + 20 for fast kill
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Seismitoad (1), Magnezone (0)
+
+"Magnezone, come back!"
+"Go for it, Heracross!"
+[Use move] The opposing Seismitoad (1) used Earthquake
+"The opposing Seismitoad used Earthquake!"
+[HP change] Heracross lost 42 HP (164 -> 122)
+"It's not very effective..."
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Seismitoad (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Seismitoad (1)
+
+[Use move] Heracross (0) used Bullet Seed
+"Heracross used Bullet Seed!"
+[HP change] The opposing Seismitoad lost 36 HP (139 -> 103)
+"The Rindo Berry weakened the damage to the opposing Seismitoad!"
+[Item consumed] The opposing Seismitoad consumed its held Rindo Berry
+[HP change] The opposing Seismitoad lost 73 HP (103 -> 30)
+[HP change] The opposing Seismitoad lost 30 HP (30 -> 0)
+"The opposing Seismitoad fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 3]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Pelipper] using Scald vs Heracross does a max of 85/122 damage
+     [Pelipper] using Hurricane vs Heracross does a max of 312/122 damage
+     [Pelipper] using Ice Beam vs Heracross does a max of 43/122 damage
+     [Pelipper] using U-turn vs Heracross does a max of 11/122 damage
+     Heracross (0)'s best move: Rock Blast for 96/145 damage
+==============================
+     Heracross (0) speed (117) vs Pelipper speed: 100
+     [Pelipper] +  9: for slow kill
+     [Pelipper] final Switch score: 9
+==============================
+     [Overqwil] using Crunch vs Heracross does a max of 43/122 damage
+     [Overqwil] using Barb Barrage vs Heracross does a max of 79/122 damage
+     [Overqwil] using Liquidation vs Heracross does a max of 90/122 damage
+     [Overqwil] using Explosion vs Heracross does a max of 230/122 damage
+     Heracross (0)'s best move: Pin Missile for 75/172 damage
+==============================
+     Heracross (0) speed (117) vs Overqwil speed: 226
+     [Overqwil] + 12: for fast kill
+     [Overqwil] final Switch score: 12
+==============================
+     [Ludicolo] using Fake Out vs Heracross does a max of 23/122 damage
+     [Ludicolo] using Energy Ball vs Heracross does a max of 46/122 damage
+     [Ludicolo] using Weather Ball vs Heracross does a max of 155/122 damage
+     [Ludicolo] using Ice Beam vs Heracross does a max of 61/122 damage
+     Heracross (0)'s best move: Pin Missile for 186/170 damage
+==============================
+     Heracross (0) speed (117) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Heracross does a max of 115/122 damage
+     [Walking Wake] using Dragon Pulse vs Heracross does a max of 81/122 damage
+     [Walking Wake] using Ice Beam vs Heracross does a max of 57/122 damage
+     [Walking Wake] using Hurricane vs Heracross does a max of 280/122 damage
+     Heracross (0)'s best move: Pin Missile for 75/194 damage
+==============================
+     Heracross (0) speed (117) vs Walking Wake speed: 158
+     [Walking Wake] + 12: for fast kill
+     [Walking Wake] final Switch score: 12
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 135/122 damage
+     [Gyarados] using Crunch vs Heracross does a max of 30/122 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 37/122 damage
+     [Gyarados] using Bounce vs Heracross does a max of 384/122 damage
+     Heracross (0)'s best move: Rock Blast for 112/189 damage
+==============================
+     Heracross (0) speed (117) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Overqwil!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Overqwil (1): 0
+Set up score for Overqwil (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Overqwil (1) is considering using Crunch (1) against Heracross (0)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Overqwil (1) is considering using Barb Barrage (1) against Heracross (0)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Overqwil (1) is considering using Liquidation (1) against Heracross (0)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Overqwil (1) is considering using Explosion (1)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+      + 20 for fast kill
+[AI] Move choices for Overqwil (1):
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Barb Barrage (target 0): score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Explosion: score 21
+   => will use Explosion
+
+[Round order] The opposing Overqwil (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Overqwil (1) used Explosion
+"The opposing Overqwil used Explosion!"
+[HP change] Duraludon lost 74 HP (160 -> 86)
+[HP change] The opposing Overqwil lost 172 HP (172 -> 0)
+"The opposing Overqwil fainted!"
+"It's not very effective..."
+"Duraludon got 1 Exp. Points!"
+
+[End of round 4]
+"Rain continues to fall."
+Trick Room Turns: 0
+     move will not affect Duraludon (0)
+==============================
+     [Pelipper] using Scald vs Duraludon does a max of 79/86 damage
+     [Pelipper] using Hurricane vs Duraludon does a max of 71/86 damage
+     [Pelipper] using Ice Beam vs Duraludon does a max of 78/86 damage
+     [Pelipper] using U-turn vs Duraludon does a max of 7/86 damage
+     Duraludon (0)'s best move: Dragon Pulse for 90/145 damage
+==============================
+     Duraludon (0) speed (104) vs Pelipper speed: 100
+     [Pelipper] -  5: for target having fast 2HKO and us having no kill
+     [Pelipper] final Switch score: -5
+==============================
+     [Ludicolo] using Fake Out vs Duraludon does a max of 8/86 damage
+     [Ludicolo] using Energy Ball vs Duraludon does a max of 42/86 damage
+     [Ludicolo] using Weather Ball vs Duraludon does a max of 142/86 damage
+     [Ludicolo] using Ice Beam vs Duraludon does a max of 113/86 damage
+     Duraludon (0)'s best move: Dragon Pulse for 66/170 damage
+==============================
+     Duraludon (0) speed (104) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Duraludon does a max of 106/86 damage
+     [Walking Wake] using Dragon Pulse vs Duraludon does a max of 150/86 damage
+     [Walking Wake] using Ice Beam vs Duraludon does a max of 106/86 damage
+     [Walking Wake] using Hurricane vs Duraludon does a max of 64/86 damage
+     Duraludon (0)'s best move: Dragon Pulse for 153/194 damage
+==============================
+     Duraludon (0) speed (104) vs Walking Wake speed: 158
+     [Walking Wake] + 12: for fast kill
+     [Walking Wake] final Switch score: 12
+==============================
+     [Gyarados] using Waterfall vs Duraludon does a max of 46/86 damage
+     [Gyarados] using Crunch vs Duraludon does a max of 41/86 damage
+     [Gyarados] using Earthquake vs Duraludon does a max of 102/86 damage
+     [Gyarados] using Bounce vs Duraludon does a max of 33/86 damage
+     Duraludon (0)'s best move: Dragon Pulse for 66/189 damage
+==============================
+     Duraludon (0) speed (104) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Ludicolo!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+     + 18 for using turn 1
+[AI] Ludicolo (1) is considering using Energy Ball (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+[AI] Ludicolo (1) is considering using Weather Ball (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+      + 20 for fast kill
+[AI] Ludicolo (1) is considering using Ice Beam (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+      + 20 for fast kill
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   *  50.0% to use Weather Ball (target 0): score 21
+   *  50.0% to use Ice Beam (target 0): score 21
+   => will use Weather Ball (target 0)
+
+[Round order] The opposing Ludicolo (1), Duraludon (0)
+
+"Duraludon, switch out! Come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Ludicolo (1) used Weather Ball
+"The opposing Ludicolo used Weather Ball!"
+[HP change] Qwilfish lost 78 HP (149 -> 71)
+"It's not very effective..."
+[Item triggered] The opposing Ludicolo's Life Orb (recoil)
+[HP change] The opposing Ludicolo lost 17 HP (170 -> 153)
+"The opposing Ludicolo lost some of its HP!"
+
+[End of round 5]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Ludicolo (1) is considering using Energy Ball (1) against Qwilfish (0)...
+     Ludicolo (1)'s highest damaging move vs Qwilfish: Energy Ball
+      + 17 for slow kill
+[AI] Ludicolo (1) is considering using Weather Ball (1) against Qwilfish (0)...
+     Ludicolo (1)'s highest damaging move vs Qwilfish: Energy Ball
+      + 17 for slow kill
+[AI] Ludicolo (1) is considering using Ice Beam (1) against Qwilfish (0)...
+     Ludicolo (1)'s highest damaging move vs Qwilfish: Energy Ball
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out: score 0
+   *  50.0% to use Energy Ball (target 0): score 18
+   *  50.0% to use Weather Ball (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Weather Ball (target 0)
+
+[Round order] Qwilfish (0), the opposing Ludicolo (1)
+
+[Use move] Qwilfish (0) used Barb Barrage
+"Qwilfish used Barb Barrage!"
+[HP change] The opposing Ludicolo lost 153 HP (153 -> 0)
+"It's super effective!"
+"The opposing Ludicolo fainted!"
+
+[End of round 6]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Pelipper] using Scald vs Qwilfish does a max of 65/71 damage
+     [Pelipper] using Hurricane vs Qwilfish does a max of 118/71 damage
+     [Pelipper] using Ice Beam vs Qwilfish does a max of 32/71 damage
+     [Pelipper] using U-turn vs Qwilfish does a max of 12/71 damage
+     Qwilfish (0)'s best move: Barb Barrage for 70/145 damage
+==============================
+     Qwilfish (0) speed (220) vs Pelipper speed: 100
+     [Pelipper] +  9: for slow kill
+     [Pelipper] final Switch score: 9
+==============================
+     [Walking Wake] using Hydro Steam vs Qwilfish does a max of 88/71 damage
+     [Walking Wake] using Dragon Pulse vs Qwilfish does a max of 124/71 damage
+     [Walking Wake] using Ice Beam vs Qwilfish does a max of 44/71 damage
+     [Walking Wake] using Hurricane vs Qwilfish does a max of 107/71 damage
+     Qwilfish (0)'s best move: Barb Barrage for 73/194 damage
+==============================
+     Qwilfish (0) speed (220) vs Walking Wake speed: 158
+     [Walking Wake] +  9: for slow kill
+     [Walking Wake] final Switch score: 9
+==============================
+     [Gyarados] using Waterfall vs Qwilfish does a max of 76/71 damage
+     [Gyarados] using Crunch vs Qwilfish does a max of 68/71 damage
+     [Gyarados] using Earthquake vs Qwilfish does a max of 168/71 damage
+     [Gyarados] using Bounce vs Qwilfish does a max of 108/71 damage
+     Qwilfish (0)'s best move: Barb Barrage for 82/189 damage
+==============================
+     Qwilfish (0) speed (220) vs Gyarados speed: 124
+     [Gyarados] +  9: for slow kill
+     [Gyarados] final Switch score: 9
+[AI] Highest move score (19) vs Switch In Score (9)
+"Gym Leader Crasher Wake sent out Pelipper!"
+
+===== Round 7 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Scald (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+[AI] Pelipper (1) is considering using Hurricane (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+      + 17 for slow kill
+[AI] Pelipper (1) is considering using Ice Beam (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+[AI] Pelipper (1) is considering using U-turn (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Hurricane (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Hurricane (target 0)
+
+[Round order] Qwilfish (0), the opposing Pelipper (1)
+
+"OK, Qwilfish! Come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Pelipper (1) used Hurricane
+"The opposing Pelipper used Hurricane!"
+[HP change] Magnezone lost 20 HP (148 -> 128)
+"It's not very effective..."
+
+[End of round 7]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Scald (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used Scald
+"The opposing Pelipper used Scald!"
+[HP change] Magnezone lost 88 HP (128 -> 40)
+[HP change] Magnezone gained 39 HP (40 -> 79)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Pelipper lost 145 HP (145 -> 0)
+"It's super effective!"
+"The opposing Pelipper fainted!"
+"The Wacan Berry weakened the damage to the opposing Pelipper!"
+[Item consumed] The opposing Pelipper consumed its held Wacan Berry
+"Magnezone went back to Tyler!"
+"You're in charge, Mr. Rime!"
+
+[End of round 8]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Walking Wake] using Hydro Steam vs Mr. Rime does a max of 108/158 damage
+     [Walking Wake] using Dragon Pulse vs Mr. Rime does a max of 75/158 damage
+     [Walking Wake] using Ice Beam vs Mr. Rime does a max of 26/158 damage
+     [Walking Wake] using Hurricane vs Mr. Rime does a max of 65/158 damage
+     Mr. Rime (0)'s best move: Freeze-Dry for 240/194 damage
+==============================
+     Mr. Rime (0) speed (92) vs Walking Wake speed: 158
+     [Walking Wake] -  7: for target slow kill
+     [Walking Wake] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Mr. Rime does a max of 142/158 damage
+     [Gyarados] using Crunch vs Mr. Rime does a max of 126/158 damage
+     [Gyarados] using Earthquake vs Mr. Rime does a max of 78/158 damage
+     [Gyarados] using Bounce vs Mr. Rime does a max of 100/158 damage
+     Mr. Rime (0)'s best move: Freeze-Dry for 210/189 damage
+==============================
+     Mr. Rime (0) speed (92) vs Gyarados speed: 124
+     [Gyarados] -  7: for target slow kill
+     [Gyarados] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Gym Leader Crasher Wake sent out Walking Wake!"
+
+===== Round 9 =====
+
+Set up score for Walking Wake (1): 0
+Set up score for Walking Wake (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mr. Rime (0): 0
+     Threat Score for Mr. Rime (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Walking Wake (1) is considering using Hydro Steam (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+     + 4 to prioritize highest damaging move
+[AI] Walking Wake (1) is considering using Dragon Pulse (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+[AI] Walking Wake (1) is considering using Ice Beam (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+[AI] Walking Wake (1) is considering using Hurricane (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+[AI] Move choices for Walking Wake (1):
+   * 100.0% to use Hydro Steam (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hurricane (target 0): score 0
+   => will use Hydro Steam (target 0)
+
+[Round order] The opposing Walking Wake (1), Mr. Rime (0)
+
+[Use move] The opposing Walking Wake (1) used Hydro Steam
+"The opposing Walking Wake used Hydro Steam!"
+[HP change] Mr. Rime lost 104 HP (158 -> 54)
+[HP change] Mr. Rime gained 39 HP (54 -> 93)
+"Mr. Rime restored its health using its Sitrus Berry!"
+[Item consumed] Mr. Rime consumed its held Sitrus Berry
+[Use move] Mr. Rime (0) used Freeze-Dry
+"Mr. Rime used Freeze-Dry!"
+[HP change] The opposing Walking Wake lost 194 HP (194 -> 0)
+"It's super effective!"
+"The opposing Walking Wake fainted!"
+"Mr. Rime got 1 Exp. Points!"
+
+[End of round 9]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Gyarados] using Waterfall vs Mr. Rime does a max of 142/93 damage
+     [Gyarados] using Crunch vs Mr. Rime does a max of 126/93 damage
+     [Gyarados] using Earthquake vs Mr. Rime does a max of 78/93 damage
+     [Gyarados] using Bounce vs Mr. Rime does a max of 100/93 damage
+     Mr. Rime (0)'s best move: Freeze-Dry for 210/189 damage
+==============================
+     Mr. Rime (0) speed (92) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Mr. Rime's Attack changed by -1 (0 -> -1)
+"Mr. Rime's Attack fell!"
+
+===== Round 10 =====
+
+[AI] Gyarados (1) will Mega Evolve
+Set up score for Mr. Rime (0): 0
+     Threat Score for Mr. Rime (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+      + 20 for fast kill
+[AI] Move choices for Gyarados (1):
+   *  33.3% to use Waterfall (target 0): score 21
+   *  33.3% to use Crunch (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   *  33.3% to use Bounce (target 0): score 21
+   => will use Bounce (target 0)
+
+[Round order] Mr. Rime (0), the opposing Gyarados (1)
+
+"The opposing Gyarados's Gyaradosite is reacting to Gym Leader Crasher Wake's Mega Ring!"
+"The opposing Gyarados has Mega Evolved into Mega Gyarados!"
+[Ability triggered] The opposing Gyarados's Mold Breaker
+"The opposing Gyarados breaks the mold!"
+[Use move] Mr. Rime (0) used Protect
+"Mr. Rime used Protect!"
+"Mr. Rime protected itself!"
+[Use move] The opposing Gyarados (1) used Bounce
+"The opposing Gyarados used Bounce!"
+"The opposing Gyarados sprang up!"
+
+[End of round 10]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+[Command phase] The opposing Gyarados (1) is forced to use a multi-turn move
+[Round order] Mr. Rime (0), the opposing Gyarados (1)
+
+[Use move] Mr. Rime (0) used Protect
+"Mr. Rime used Protect!"
+"Mr. Rime protected itself!"
+[Use move] The opposing Gyarados (1) used Bounce
+"The opposing Gyarados used Bounce!"
+"Mr. Rime protected itself!"
+
+[End of round 11]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Mr. Rime (0): 0
+     Threat Score for Mr. Rime (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+[AI] Gyarados (1) is considering using Bounce (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+[AI] Move choices for Gyarados (1):
+   *  50.0% to use Waterfall (target 0): score 21
+   *  50.0% to use Crunch (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Gyarados (1), Mr. Rime (0)
+
+[Use move] The opposing Gyarados (1) used Crunch
+"The opposing Gyarados used Crunch!"
+[HP change] Mr. Rime lost 93 HP (93 -> 0)
+"It's super effective!"
+"Mr. Rime fainted!"
+
+[End of round 12]
+"Rain continues to fall."
+Trick Room Turns: 0
+"You're in charge, Obstagoon!"
+
+===== Round 13 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Obstagoon (0), the opposing Gyarados (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gyarados's Defense changed by -2 (0 -> -2)
+"The opposing Gyarados's Defense harshly fell!"
+
+[End of round 13]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Duraludon lost 55 HP (86 -> 31)
+"It's not very effective..."
+[HP change] Duraludon gained 40 HP (31 -> 71)
+"Duraludon restored its health using its Sitrus Berry!"
+[Item consumed] Duraludon consumed its held Sitrus Berry
+
+[End of round 14]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Duraludon (0)...
+     Gyarados (1)'s highest damaging move vs Duraludon: Earthquake
+[AI] Gyarados (1) is considering using Crunch (1) against Duraludon (0)...
+     Gyarados (1)'s highest damaging move vs Duraludon: Earthquake
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Duraludon: Earthquake
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Bounce (1) against Duraludon (0)...
+     Gyarados (1)'s highest damaging move vs Duraludon: Earthquake
+[AI] Move choices for Gyarados (1):
+   *   0.0% to use Waterfall (target 0): score 0
+   *  50.0% to use Crunch (target 0): score 21
+   *  50.0% to use Earthquake: score 21
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Gyarados (1), Duraludon (0)
+
+"OK, Duraludon! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Gyarados (1) used Crunch
+"The opposing Gyarados used Crunch!"
+[HP change] Obstagoon lost 43 HP (172 -> 129)
+"It's not very effective..."
+
+[End of round 15]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 21
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Obstagoon (0), the opposing Gyarados (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gyarados's Defense changed by -2 (-2 -> -4)
+"The opposing Gyarados's Defense harshly fell!"
+
+[End of round 16]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Obstagoon (0)
+
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Obstagoon lost 129 HP (129 -> 0)
+"Obstagoon fainted!"
+
+[End of round 17]
+"Rain continues to fall."
+Trick Room Turns: 0
+"You're in charge, Qwilfish!"
+
+===== Round 18 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Qwilfish (0)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Crunch (1) against Qwilfish (0)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Bounce (1) against Qwilfish (0)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Move choices for Gyarados (1):
+   *  25.0% to use Waterfall (target 0): score 18
+   *  25.0% to use Crunch (target 0): score 18
+   *  25.0% to use Earthquake: score 18
+   *  25.0% to use Bounce (target 0): score 18
+   => will use Waterfall (target 0)
+
+[Round order] Qwilfish (0), the opposing Gyarados (1)
+
+[Use move] Qwilfish (0) used Pin Missile
+"Qwilfish used Pin Missile!"
+[HP change] The opposing Gyarados lost 66 HP (189 -> 123)
+[HP change] The opposing Gyarados lost 71 HP (123 -> 52)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Qwilfish lost 71 HP (71 -> 0)
+"It's not very effective..."
+"Qwilfish fainted!"
+
+[End of round 18]
+"Rain continues to fall."
+Trick Room Turns: 0
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Magnezone!"
+[Round order] The opposing Pelipper (1), Magnezone (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Scald (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used Scald
+"The opposing Pelipper used Scald!"
+[HP change] Magnezone lost 84 HP (156 -> 72)
+[HP change] Magnezone gained 39 HP (72 -> 111)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+"Magnezone was burned!"
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Pelipper lost 63 HP (145 -> 82)
+
+[End of round 1]
+"Rain continues to fall."
+[HP change] Magnezone lost 9 HP (111 -> 102)
+"Magnezone was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used U-turn
+"The opposing Pelipper used U-turn!"
+[HP change] Magnezone lost 9 HP (102 -> 93)
+"It's not very effective..."
+"The opposing Pelipper went back to Gym Leader Crasher Wake!"
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Seismitoad] using Liquidation vs Magnezone does a max of 108/93 damage
+     [Seismitoad] using Earthquake vs Magnezone does a max of 342/93 damage
+     [Seismitoad] using Drain Punch vs Magnezone does a max of 86/93 damage
+     Magnezone (0)'s best move: Tri Attack for 62/197 damage
+==============================
+     Magnezone (0) speed (79) vs Seismitoad speed: 206
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+==============================
+     [Overqwil] using Crunch vs Magnezone does a max of 75/93 damage
+     [Overqwil] using Liquidation vs Magnezone does a max of 79/93 damage
+     [Overqwil] using Explosion vs Magnezone does a max of 102/93 damage
+     Magnezone (0)'s best move: Flash Cannon for 106/172 damage
+==============================
+     Magnezone (0) speed (79) vs Overqwil speed: 226
+     [Overqwil] + 12: for fast kill
+     [Overqwil] final Switch score: 12
+==============================
+     [Ludicolo] using Fake Out vs Magnezone does a max of 10/93 damage
+     [Ludicolo] using Energy Ball vs Magnezone does a max of 52/93 damage
+     [Ludicolo] using Weather Ball vs Magnezone does a max of 173/93 damage
+     [Ludicolo] using Ice Beam vs Magnezone does a max of 34/93 damage
+     Magnezone (0)'s best move: Discharge for 73/170 damage
+==============================
+     Magnezone (0) speed (79) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Magnezone does a max of 130/93 damage
+     [Walking Wake] using Dragon Pulse vs Magnezone does a max of 46/93 damage
+     [Walking Wake] using Ice Beam vs Magnezone does a max of 32/93 damage
+     [Walking Wake] using Hurricane vs Magnezone does a max of 20/93 damage
+     Magnezone (0)'s best move: Discharge for 84/194 damage
+==============================
+     Magnezone (0) speed (79) vs Walking Wake speed: 158
+     [Walking Wake] + 12: for fast kill
+     [Walking Wake] final Switch score: 12
+==============================
+     [Gyarados] using Waterfall vs Magnezone does a max of 119/93 damage
+     [Gyarados] using Crunch vs Magnezone does a max of 53/93 damage
+     [Gyarados] using Earthquake vs Magnezone does a max of 264/93 damage
+     [Gyarados] using Bounce vs Magnezone does a max of 21/93 damage
+     Magnezone (0)'s best move: Discharge for 288/189 damage
+==============================
+     Magnezone (0) speed (79) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Seismitoad!"
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[Target immune] The opposing Seismitoad's type immunity
+Roles for PELIPPER: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :WEATHERTERRAIN]
+Roles for SEISMITOAD: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for OVERQWIL: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+Roles for LUDICOLO: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for WALKINGWAKE: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Gym Leader Crasher Wake!"
+"Gym Leader Crasher Wake sent out Pelipper!"
+"Go! Magnezone!"
+[Round order] The opposing Pelipper (1), Magnezone (0)
+[Ability triggered] The opposing Pelipper's Drizzle
+"It started to rain!"
+
+===== Round 1 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+     [Switch AI] +5 Party member [Seismitoad] is immune to strongest move against Pelipper (1)
+[AI] Switch out Score (5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Magnezone (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use U-turn (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used U-turn
+"The opposing Pelipper used U-turn!"
+[HP change] Magnezone lost 9 HP (156 -> 147)
+"It's not very effective..."
+"The opposing Pelipper went back to Gym Leader Crasher Wake!"
+==============================
+     [Seismitoad] using Liquidation vs Magnezone does a max of 108/147 damage
+     [Seismitoad] using Earthquake vs Magnezone does a max of 342/147 damage
+     [Seismitoad] using Drain Punch vs Magnezone does a max of 86/147 damage
+     Magnezone (0)'s best move: Tri Attack for 62/197 damage
+==============================
+     Magnezone (0) speed (79) vs Seismitoad speed: 206
+     [Seismitoad] + 12: for fast kill
+     [Seismitoad] final Switch score: 12
+==============================
+     [Overqwil] using Crunch vs Magnezone does a max of 75/147 damage
+     [Overqwil] using Liquidation vs Magnezone does a max of 79/147 damage
+     [Overqwil] using Explosion vs Magnezone does a max of 102/147 damage
+     Magnezone (0)'s best move: Flash Cannon for 106/172 damage
+==============================
+     Magnezone (0) speed (79) vs Overqwil speed: 226
+     [Overqwil] +  6: for fast 2HKO
+     [Overqwil] final Switch score: 6
+==============================
+     [Ludicolo] using Fake Out vs Magnezone does a max of 10/147 damage
+     [Ludicolo] using Energy Ball vs Magnezone does a max of 52/147 damage
+     [Ludicolo] using Weather Ball vs Magnezone does a max of 173/147 damage
+     [Ludicolo] using Ice Beam vs Magnezone does a max of 34/147 damage
+     Magnezone (0)'s best move: Discharge for 73/170 damage
+==============================
+     Magnezone (0) speed (79) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Magnezone does a max of 130/147 damage
+     [Walking Wake] using Dragon Pulse vs Magnezone does a max of 46/147 damage
+     [Walking Wake] using Ice Beam vs Magnezone does a max of 32/147 damage
+     [Walking Wake] using Hurricane vs Magnezone does a max of 20/147 damage
+     Magnezone (0)'s best move: Discharge for 84/194 damage
+==============================
+     Magnezone (0) speed (79) vs Walking Wake speed: 158
+     [Walking Wake] +  6: for fast 2HKO
+     [Walking Wake] final Switch score: 6
+==============================
+     [Gyarados] using Waterfall vs Magnezone does a max of 119/147 damage
+     [Gyarados] using Crunch vs Magnezone does a max of 53/147 damage
+     [Gyarados] using Earthquake vs Magnezone does a max of 264/147 damage
+     [Gyarados] using Bounce vs Magnezone does a max of 21/147 damage
+     Magnezone (0)'s best move: Discharge for 288/189 damage
+==============================
+     Magnezone (0) speed (79) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (5) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Seismitoad!"
+[Use move] Magnezone (0) used Tri Attack
+"Magnezone used Tri Attack!"
+[HP change] The opposing Seismitoad lost 84 HP (197 -> 113)
+"A critical hit!"
+
+[End of round 1]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     move will not affect Magnezone (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+      + 20 for fast kill
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+     move will not affect Magnezone (0)
+     -  1: move will fail
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Magnezone (0)...
+     Seismitoad (1)'s highest damaging move vs Magnezone: Earthquake
+[AI] Move choices for Seismitoad (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Earthquake: score 21
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Seismitoad (1), Magnezone (0)
+
+"Magnezone, come back!"
+"Go for it, Heracross!"
+[Use move] The opposing Seismitoad (1) used Earthquake
+"The opposing Seismitoad used Earthquake!"
+[HP change] Heracross lost 42 HP (164 -> 122)
+"It's not very effective..."
+
+[End of round 2]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Seismitoad (1): 0
+Set up score for Seismitoad (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seismitoad (1) is considering using Liquidation (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Seismitoad (1) is considering using Earthquake (1)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Seismitoad (1) is considering using Poison Jab (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Seismitoad (1) is considering using Drain Punch (1) against Heracross (0)...
+     Seismitoad (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Seismitoad (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] The opposing Seismitoad (1), Heracross (0)
+
+[Use move] The opposing Seismitoad (1) used Liquidation
+"The opposing Seismitoad used Liquidation!"
+[HP change] Heracross lost 114 HP (122 -> 8)
+[Use move] Heracross (0) used Bullet Seed
+"Heracross used Bullet Seed!"
+[HP change] The opposing Seismitoad lost 38 HP (113 -> 75)
+"The Rindo Berry weakened the damage to the opposing Seismitoad!"
+[Item consumed] The opposing Seismitoad consumed its held Rindo Berry
+[HP change] The opposing Seismitoad lost 75 HP (75 -> 0)
+"The opposing Seismitoad fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 3]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Pelipper] using Scald vs Heracross does a max of 85/8 damage
+     [Pelipper] using Hurricane vs Heracross does a max of 312/8 damage
+     [Pelipper] using Ice Beam vs Heracross does a max of 43/8 damage
+     [Pelipper] using U-turn vs Heracross does a max of 11/8 damage
+     Heracross (0)'s best move: Rock Blast for 96/145 damage
+==============================
+     Heracross (0) speed (117) vs Pelipper speed: 100
+     [Pelipper] +  9: for slow kill
+     [Pelipper] final Switch score: 9
+==============================
+     [Overqwil] using Crunch vs Heracross does a max of 43/8 damage
+     [Overqwil] using Barb Barrage vs Heracross does a max of 79/8 damage
+     [Overqwil] using Liquidation vs Heracross does a max of 90/8 damage
+     [Overqwil] using Explosion vs Heracross does a max of 230/8 damage
+     Heracross (0)'s best move: Pin Missile for 75/172 damage
+==============================
+     Heracross (0) speed (117) vs Overqwil speed: 226
+     [Overqwil] + 12: for fast kill
+     [Overqwil] final Switch score: 12
+==============================
+     [Ludicolo] using Fake Out vs Heracross does a max of 23/8 damage
+     [Ludicolo] using Energy Ball vs Heracross does a max of 46/8 damage
+     [Ludicolo] using Weather Ball vs Heracross does a max of 155/8 damage
+     [Ludicolo] using Ice Beam vs Heracross does a max of 61/8 damage
+     Heracross (0)'s best move: Pin Missile for 186/170 damage
+==============================
+     Heracross (0) speed (117) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Heracross does a max of 115/8 damage
+     [Walking Wake] using Dragon Pulse vs Heracross does a max of 81/8 damage
+     [Walking Wake] using Ice Beam vs Heracross does a max of 57/8 damage
+     [Walking Wake] using Hurricane vs Heracross does a max of 280/8 damage
+     Heracross (0)'s best move: Pin Missile for 75/194 damage
+==============================
+     Heracross (0) speed (117) vs Walking Wake speed: 158
+     [Walking Wake] + 12: for fast kill
+     [Walking Wake] final Switch score: 12
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 135/8 damage
+     [Gyarados] using Crunch vs Heracross does a max of 30/8 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 37/8 damage
+     [Gyarados] using Bounce vs Heracross does a max of 384/8 damage
+     Heracross (0)'s best move: Rock Blast for 112/189 damage
+==============================
+     Heracross (0) speed (117) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Overqwil!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Overqwil (1): 0
+Set up score for Overqwil (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Overqwil (1) is considering using Crunch (1) against Heracross (0)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+      + 20 for fast kill
+[AI] Overqwil (1) is considering using Barb Barrage (1) against Heracross (0)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+      + 20 for fast kill
+[AI] Overqwil (1) is considering using Liquidation (1) against Heracross (0)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+      + 20 for fast kill
+[AI] Overqwil (1) is considering using Explosion (1)...
+     Overqwil (1)'s highest damaging move vs Heracross: Liquidation
+     set to - 19 because we have a move that kills other than this
+      + 20 for fast kill
+[AI] Move choices for Overqwil (1):
+   *  33.3% to use Crunch (target 0): score 21
+   *  33.3% to use Barb Barrage (target 0): score 21
+   *  33.3% to use Liquidation (target 0): score 21
+   *   0.0% to use Explosion: score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Overqwil (1), Heracross (0)
+
+"Good job, Heracross! Come back!"
+"You're in charge, Duraludon!"
+[Use move] The opposing Overqwil (1) used Crunch
+"The opposing Overqwil used Crunch!"
+[HP change] Duraludon lost 56 HP (160 -> 104)
+
+[End of round 4]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Duraludon (0)
+Set up score for Overqwil (1): 0
+Set up score for Overqwil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Overqwil (1) is considering using Crunch (1) against Duraludon (0)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Overqwil (1) is considering using Barb Barrage (1) against Duraludon (0)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+     move will not affect Duraludon (0)
+     -  1: move will fail
+[AI] Overqwil (1) is considering using Liquidation (1) against Duraludon (0)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+[AI] Overqwil (1) is considering using Explosion (1)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+[AI] Move choices for Overqwil (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Barb Barrage (target 0): score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Overqwil (1), Duraludon (0)
+
+[Use move] The opposing Overqwil (1) used Crunch
+"The opposing Overqwil used Crunch!"
+[HP change] Duraludon lost 56 HP (104 -> 48)
+[HP change] Duraludon gained 40 HP (48 -> 88)
+"Duraludon restored its health using its Sitrus Berry!"
+[Item consumed] Duraludon consumed its held Sitrus Berry
+[Use move] Duraludon (0) used Polarity Pulse
+"Duraludon used Polarity Pulse!"
+[HP change] The opposing Overqwil lost 94 HP (172 -> 78)
+
+[End of round 5]
+"Rain continues to fall."
+[HP change] The opposing Overqwil gained 10 HP (78 -> 88)
+"The opposing Overqwil restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Duraludon (0)
+Set up score for Overqwil (1): 0
+Set up score for Overqwil (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Overqwil (1) is considering using Crunch (1) against Duraludon (0)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+     + 4 to prioritize highest damaging move
+[AI] Overqwil (1) is considering using Barb Barrage (1) against Duraludon (0)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+     move will not affect Duraludon (0)
+     -  1: move will fail
+[AI] Overqwil (1) is considering using Liquidation (1) against Duraludon (0)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+[AI] Overqwil (1) is considering using Explosion (1)...
+     Overqwil (1)'s highest damaging move vs Duraludon: Crunch
+[AI] Move choices for Overqwil (1):
+   * 100.0% to use Crunch (target 0): score 5
+   *   0.0% to use Barb Barrage (target 0): score 0
+   *   0.0% to use Liquidation (target 0): score 0
+   *   0.0% to use Explosion: score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Overqwil (1), Duraludon (0)
+
+[Use move] The opposing Overqwil (1) used Crunch
+"The opposing Overqwil used Crunch!"
+[HP change] Duraludon lost 50 HP (88 -> 38)
+[Use move] Duraludon (0) used Polarity Pulse
+"Duraludon used Polarity Pulse!"
+[HP change] The opposing Overqwil lost 88 HP (88 -> 0)
+"The opposing Overqwil fainted!"
+"Duraludon got 1 Exp. Points!"
+
+[End of round 6]
+"Rain continues to fall."
+Trick Room Turns: 0
+     move will not affect Duraludon (0)
+==============================
+     [Pelipper] using Scald vs Duraludon does a max of 79/38 damage
+     [Pelipper] using Hurricane vs Duraludon does a max of 71/38 damage
+     [Pelipper] using Ice Beam vs Duraludon does a max of 78/38 damage
+     [Pelipper] using U-turn vs Duraludon does a max of 7/38 damage
+     Duraludon (0)'s best move: Dragon Pulse for 90/145 damage
+==============================
+     Duraludon (0) speed (104) vs Pelipper speed: 100
+     [Pelipper] +  9: for slow kill
+     [Pelipper] final Switch score: 9
+==============================
+     [Ludicolo] using Fake Out vs Duraludon does a max of 8/38 damage
+     [Ludicolo] using Energy Ball vs Duraludon does a max of 42/38 damage
+     [Ludicolo] using Weather Ball vs Duraludon does a max of 142/38 damage
+     [Ludicolo] using Ice Beam vs Duraludon does a max of 113/38 damage
+     Duraludon (0)'s best move: Dragon Pulse for 66/170 damage
+==============================
+     Duraludon (0) speed (104) vs Ludicolo speed: 198
+     [Ludicolo] + 12: for fast kill
+     [Ludicolo] final Switch score: 12
+==============================
+     [Walking Wake] using Hydro Steam vs Duraludon does a max of 106/38 damage
+     [Walking Wake] using Dragon Pulse vs Duraludon does a max of 150/38 damage
+     [Walking Wake] using Ice Beam vs Duraludon does a max of 106/38 damage
+     [Walking Wake] using Hurricane vs Duraludon does a max of 64/38 damage
+     Duraludon (0)'s best move: Dragon Pulse for 153/194 damage
+==============================
+     Duraludon (0) speed (104) vs Walking Wake speed: 158
+     [Walking Wake] + 12: for fast kill
+     [Walking Wake] final Switch score: 12
+==============================
+     [Gyarados] using Waterfall vs Duraludon does a max of 46/38 damage
+     [Gyarados] using Crunch vs Duraludon does a max of 41/38 damage
+     [Gyarados] using Earthquake vs Duraludon does a max of 102/38 damage
+     [Gyarados] using Bounce vs Duraludon does a max of 33/38 damage
+     Duraludon (0)'s best move: Dragon Pulse for 66/189 damage
+==============================
+     Duraludon (0) speed (104) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Ludicolo!"
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Duraludon (0): 0
+     Threat Score for Duraludon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+     + 18 for using turn 1
+[AI] Ludicolo (1) is considering using Energy Ball (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+      + 20 for fast kill
+[AI] Ludicolo (1) is considering using Weather Ball (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+      + 20 for fast kill
+[AI] Ludicolo (1) is considering using Ice Beam (1) against Duraludon (0)...
+     Ludicolo (1)'s highest damaging move vs Duraludon: Weather Ball
+      + 20 for fast kill
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out (target 0): score 0
+   *  33.3% to use Energy Ball (target 0): score 21
+   *  33.3% to use Weather Ball (target 0): score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   => will use Ice Beam (target 0)
+
+[Round order] The opposing Ludicolo (1), Duraludon (0)
+
+"Good job, Duraludon! Come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Ludicolo (1) used Ice Beam
+"The opposing Ludicolo used Ice Beam!"
+[HP change] Qwilfish lost 33 HP (149 -> 116)
+"It's not very effective..."
+[Item triggered] The opposing Ludicolo's Life Orb (recoil)
+[HP change] The opposing Ludicolo lost 17 HP (170 -> 153)
+"The opposing Ludicolo lost some of its HP!"
+
+[End of round 7]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Ludicolo (1) is considering using Energy Ball (1) against Qwilfish (0)...
+     Ludicolo (1)'s highest damaging move vs Qwilfish: Energy Ball
+      + 17 for slow kill
+[AI] Ludicolo (1) is considering using Weather Ball (1) against Qwilfish (0)...
+     Ludicolo (1)'s highest damaging move vs Qwilfish: Energy Ball
+[AI] Ludicolo (1) is considering using Ice Beam (1) against Qwilfish (0)...
+     Ludicolo (1)'s highest damaging move vs Qwilfish: Energy Ball
+[AI] Move choices for Ludicolo (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Energy Ball (target 0): score 18
+   *   0.0% to use Weather Ball (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   => will use Energy Ball (target 0)
+
+[Round order] Qwilfish (0), the opposing Ludicolo (1)
+
+[Use move] Qwilfish (0) used Barb Barrage
+"Qwilfish used Barb Barrage!"
+[HP change] The opposing Ludicolo lost 153 HP (153 -> 0)
+"It's super effective!"
+"The opposing Ludicolo fainted!"
+
+[End of round 8]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Pelipper] using Scald vs Qwilfish does a max of 65/116 damage
+     [Pelipper] using Hurricane vs Qwilfish does a max of 118/116 damage
+     [Pelipper] using Ice Beam vs Qwilfish does a max of 32/116 damage
+     [Pelipper] using U-turn vs Qwilfish does a max of 12/116 damage
+     Qwilfish (0)'s best move: Barb Barrage for 70/145 damage
+==============================
+     Qwilfish (0) speed (220) vs Pelipper speed: 100
+     [Pelipper] +  9: for slow kill
+     [Pelipper] final Switch score: 9
+==============================
+     [Walking Wake] using Hydro Steam vs Qwilfish does a max of 88/116 damage
+     [Walking Wake] using Dragon Pulse vs Qwilfish does a max of 124/116 damage
+     [Walking Wake] using Ice Beam vs Qwilfish does a max of 44/116 damage
+     [Walking Wake] using Hurricane vs Qwilfish does a max of 107/116 damage
+     Qwilfish (0)'s best move: Barb Barrage for 73/194 damage
+==============================
+     Qwilfish (0) speed (220) vs Walking Wake speed: 158
+     [Walking Wake] +  9: for slow kill
+     [Walking Wake] final Switch score: 9
+==============================
+     [Gyarados] using Waterfall vs Qwilfish does a max of 76/116 damage
+     [Gyarados] using Crunch vs Qwilfish does a max of 68/116 damage
+     [Gyarados] using Earthquake vs Qwilfish does a max of 168/116 damage
+     [Gyarados] using Bounce vs Qwilfish does a max of 108/116 damage
+     Qwilfish (0)'s best move: Barb Barrage for 82/189 damage
+==============================
+     Qwilfish (0) speed (220) vs Gyarados speed: 124
+     [Gyarados] +  9: for slow kill
+     [Gyarados] final Switch score: 9
+[AI] Highest move score (19) vs Switch In Score (9)
+"Gym Leader Crasher Wake sent out Pelipper!"
+
+===== Round 9 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Scald (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+[AI] Pelipper (1) is considering using Hurricane (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Ice Beam (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+[AI] Pelipper (1) is considering using U-turn (1) against Qwilfish (0)...
+     Pelipper (1)'s highest damaging move vs Qwilfish: Hurricane
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Hurricane (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Hurricane (target 0)
+
+[Round order] Qwilfish (0), the opposing Pelipper (1)
+
+"Qwilfish, come back!"
+"You're in charge, Magnezone!"
+[Use move] The opposing Pelipper (1) used Hurricane
+"The opposing Pelipper used Hurricane!"
+[HP change] Magnezone lost 21 HP (147 -> 126)
+"It's not very effective..."
+
+[End of round 9]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Pelipper (1): 0
+Set up score for Pelipper (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Magnezone (0): 0
+     Threat Score for Magnezone (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Scald (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Hurricane (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using Ice Beam (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+[AI] Pelipper (1) is considering using U-turn (1) against Magnezone (0)...
+     Pelipper (1)'s highest damaging move vs Magnezone: Scald
+     + 4 for switch initiative against a bad matchup
+[AI] Move choices for Pelipper (1):
+   *  50.0% to use Scald (target 0): score 5
+   *   0.0% to use Hurricane (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use U-turn (target 0): score 5
+   => will use Scald (target 0)
+
+[Round order] The opposing Pelipper (1), Magnezone (0)
+
+[Use move] The opposing Pelipper (1) used Scald
+"The opposing Pelipper used Scald!"
+[HP change] Magnezone lost 84 HP (126 -> 42)
+[HP change] Magnezone gained 39 HP (42 -> 81)
+"Magnezone restored its health using its Sitrus Berry!"
+[Item consumed] Magnezone consumed its held Sitrus Berry
+[Use move] Magnezone (0) used Volt Switch
+"Magnezone used Volt Switch!"
+[HP change] The opposing Pelipper lost 145 HP (145 -> 0)
+"It's super effective!"
+"The opposing Pelipper fainted!"
+"The Wacan Berry weakened the damage to the opposing Pelipper!"
+[Item consumed] The opposing Pelipper consumed its held Wacan Berry
+"Magnezone went back to Tyler!"
+"You're in charge, Mr. Rime!"
+
+[End of round 10]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Walking Wake] using Hydro Steam vs Mr. Rime does a max of 108/158 damage
+     [Walking Wake] using Dragon Pulse vs Mr. Rime does a max of 75/158 damage
+     [Walking Wake] using Ice Beam vs Mr. Rime does a max of 26/158 damage
+     [Walking Wake] using Hurricane vs Mr. Rime does a max of 65/158 damage
+     Mr. Rime (0)'s best move: Freeze-Dry for 240/194 damage
+==============================
+     Mr. Rime (0) speed (92) vs Walking Wake speed: 158
+     [Walking Wake] -  7: for target slow kill
+     [Walking Wake] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Mr. Rime does a max of 142/158 damage
+     [Gyarados] using Crunch vs Mr. Rime does a max of 126/158 damage
+     [Gyarados] using Earthquake vs Mr. Rime does a max of 78/158 damage
+     [Gyarados] using Bounce vs Mr. Rime does a max of 100/158 damage
+     Mr. Rime (0)'s best move: Freeze-Dry for 210/189 damage
+==============================
+     Mr. Rime (0) speed (92) vs Gyarados speed: 124
+     [Gyarados] -  7: for target slow kill
+     [Gyarados] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+"Gym Leader Crasher Wake sent out Walking Wake!"
+
+===== Round 11 =====
+
+Set up score for Walking Wake (1): 0
+Set up score for Walking Wake (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Mr. Rime (0): 0
+     Threat Score for Mr. Rime (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Walking Wake (1) is considering using Hydro Steam (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+     + 4 to prioritize highest damaging move
+[AI] Walking Wake (1) is considering using Dragon Pulse (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+[AI] Walking Wake (1) is considering using Ice Beam (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+[AI] Walking Wake (1) is considering using Hurricane (1) against Mr. Rime (0)...
+     Walking Wake (1)'s highest damaging move vs Mr. Rime: Hydro Steam
+[AI] Move choices for Walking Wake (1):
+   * 100.0% to use Hydro Steam (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hurricane (target 0): score 0
+   => will use Hydro Steam (target 0)
+
+[Round order] The opposing Walking Wake (1), Mr. Rime (0)
+
+[Use move] The opposing Walking Wake (1) used Hydro Steam
+"The opposing Walking Wake used Hydro Steam!"
+[HP change] Mr. Rime lost 104 HP (158 -> 54)
+[HP change] Mr. Rime gained 39 HP (54 -> 93)
+"Mr. Rime restored its health using its Sitrus Berry!"
+[Item consumed] Mr. Rime consumed its held Sitrus Berry
+[Use move] Mr. Rime (0) used Freeze-Dry
+"Mr. Rime used Freeze-Dry!"
+[HP change] The opposing Walking Wake lost 194 HP (194 -> 0)
+"It's super effective!"
+"The opposing Walking Wake fainted!"
+"Mr. Rime got 1 Exp. Points!"
+
+[End of round 11]
+"Rain continues to fall."
+Trick Room Turns: 0
+==============================
+     [Gyarados] using Waterfall vs Mr. Rime does a max of 142/93 damage
+     [Gyarados] using Crunch vs Mr. Rime does a max of 126/93 damage
+     [Gyarados] using Earthquake vs Mr. Rime does a max of 78/93 damage
+     [Gyarados] using Bounce vs Mr. Rime does a max of 100/93 damage
+     Mr. Rime (0)'s best move: Freeze-Dry for 210/189 damage
+==============================
+     Mr. Rime (0) speed (92) vs Gyarados speed: 124
+     [Gyarados] + 12: for fast kill
+     [Gyarados] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Gym Leader Crasher Wake sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Mr. Rime's Attack changed by -1 (0 -> -1)
+"Mr. Rime's Attack fell!"
+
+===== Round 12 =====
+
+[AI] Gyarados (1) will Mega Evolve
+Set up score for Mr. Rime (0): 0
+     Threat Score for Mr. Rime (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Waterfall
+[AI] Move choices for Gyarados (1):
+   *  50.0% to use Waterfall (target 0): score 21
+   *  50.0% to use Crunch (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Mr. Rime (0), the opposing Gyarados (1)
+
+"The opposing Gyarados's Gyaradosite is reacting to Gym Leader Crasher Wake's Mega Ring!"
+"The opposing Gyarados has Mega Evolved into Mega Gyarados!"
+[Ability triggered] The opposing Gyarados's Mold Breaker
+"The opposing Gyarados breaks the mold!"
+[Use move] Mr. Rime (0) used Protect
+"Mr. Rime used Protect!"
+"Mr. Rime protected itself!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+"Mr. Rime protected itself!"
+
+[End of round 12]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Mr. Rime (0): 0
+     Threat Score for Mr. Rime (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+[AI] Gyarados (1) is considering using Bounce (1) against Mr. Rime (0)...
+     Gyarados (1)'s highest damaging move vs Mr. Rime: Crunch
+[AI] Move choices for Gyarados (1):
+   *  50.0% to use Waterfall (target 0): score 21
+   *  50.0% to use Crunch (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Crunch (target 0)
+
+[Round order] The opposing Gyarados (1), Mr. Rime (0)
+
+[Use move] The opposing Gyarados (1) used Crunch
+"The opposing Gyarados used Crunch!"
+[HP change] Mr. Rime lost 93 HP (93 -> 0)
+"It's super effective!"
+"Mr. Rime fainted!"
+
+[End of round 13]
+"Rain continues to fall."
+Trick Room Turns: 0
+"You're in charge, Obstagoon!"
+
+===== Round 14 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Obstagoon (0), the opposing Gyarados (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gyarados's Defense changed by -2 (0 -> -2)
+"The opposing Gyarados's Defense harshly fell!"
+
+[End of round 14]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Qwilfish!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Qwilfish lost 84 HP (116 -> 32)
+"It's not very effective..."
+
+[End of round 15]
+"Rain continues to fall."
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Qwilfish (0): 0
+     Threat Score for Qwilfish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Qwilfish (0)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Crunch (1) against Qwilfish (0)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Bounce (1) against Qwilfish (0)...
+     Gyarados (1)'s highest damaging move vs Qwilfish: Earthquake
+      + 17 for slow kill
+[AI] Move choices for Gyarados (1):
+   *  25.0% to use Waterfall (target 0): score 18
+   *  25.0% to use Crunch (target 0): score 18
+   *  25.0% to use Earthquake: score 18
+   *  25.0% to use Bounce (target 0): score 18
+   => will use Crunch (target 0)
+
+[Round order] Qwilfish (0), the opposing Gyarados (1)
+
+[Use move] Qwilfish (0) used Barb Barrage
+"Qwilfish used Barb Barrage!"
+[HP change] The opposing Gyarados lost 113 HP (189 -> 76)
+"The opposing Gyarados was poisoned!"
+[Use move] The opposing Gyarados (1) used Crunch
+"The opposing Gyarados used Crunch!"
+[HP change] Qwilfish lost 32 HP (32 -> 0)
+"Qwilfish fainted!"
+
+[End of round 16]
+"Rain continues to fall."
+[HP change] The opposing Gyarados lost 23 HP (76 -> 53)
+"The opposing Gyarados was hurt by poison!"
+Trick Room Turns: 0
+"Just a little more! Hang in there, Obstagoon!"
+
+===== Round 17 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Obstagoon (0), the opposing Gyarados (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Gyarados's Defense changed by -2 (-2 -> -4)
+"The opposing Gyarados's Defense harshly fell!"
+
+[End of round 17]
+"Rain continues to fall."
+[HP change] The opposing Gyarados lost 23 HP (53 -> 30)
+"The opposing Gyarados was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Gyarados (1) is considering using Bounce (1) against Obstagoon (0)...
+     Gyarados (1)'s highest damaging move vs Obstagoon: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Bounce (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Obstagoon (0), the opposing Gyarados (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Gyarados lost 30 HP (30 -> 0)
+"It's not very effective..."
+"The opposing Gyarados fainted!"
+
+===== Player won =====
+
+"You defeated Gym Leader Crasher Wake!"
+"Wow. You're great!"
+
+"You got $5,600 for winning!"
