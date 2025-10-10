@@ -427572,3 +427572,2983 @@ Trick Room Turns: 0
 
 ===== Round 2 =====
 
+Roles for HUNTAIL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOEDSCRUEL: [:SPECIALBREAKER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+Roles for TOXICROAK: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Kenneth!"
+"Fisherman Kenneth sent out Huntail!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Huntail (1) is considering using Shell Smash (4)...
+[AI] Huntail (1) is considering using Ice Fang (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Huntail (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Huntail (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Huntail lost 46 HP (142 -> 96)
+[HP change] The opposing Huntail lost 69 HP (96 -> 27)
+"A critical hit!"
+[HP change] The opposing Huntail lost 27 HP (27 -> 0)
+"The opposing Huntail fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+Trick Room Turns: 0
+==============================
+     [Kingdra] using Hydro Pump vs Heracross does a max of 79/172 damage
+     [Kingdra] using Dragon Pulse vs Heracross does a max of 61/172 damage
+     [Kingdra] using Ice Beam vs Heracross does a max of 43/172 damage
+     Heracross (0)'s best move: Pin Missile for 79/167 damage
+==============================
+     Heracross (0) speed (123) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+
+     [Kingdra] final Switch score: 0
+==============================
+     [Toedscruel] using Energy Ball vs Heracross does a max of 28/172 damage
+     [Toedscruel] using Earth Power vs Heracross does a max of 28/172 damage
+     [Toedscruel] using Hidden Power vs Heracross does a max of 26/172 damage
+     Heracross (0)'s best move: Pin Missile for 210/172 damage
+==============================
+     Heracross (0) speed (123) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+
+     [Toedscruel] -  7: for target slow kill
+     [Toedscruel] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 88/172 damage
+     [Gyarados] using Crunch vs Heracross does a max of 29/172 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 36/172 damage
+     [Gyarados] using Ice Fang vs Heracross does a max of 48/172 damage
+     Heracross (0)'s best move: Rock Blast for 120/192 damage
+==============================
+     Heracross (0) speed (123) vs Gyarados speed: 126
+[AI] =====> Flags assigned to Gyarados:
+fast_2hko: true
+     [Gyarados] +  6: for fast 2HKO
+     [Gyarados] final Switch score: 6
+==============================
+     [Toxicroak] using Fake Out vs Heracross does a max of 26/172 damage
+     [Toxicroak] using Gunk Shot vs Heracross does a max of 112/172 damage
+     [Toxicroak] using Close Combat vs Heracross does a max of 56/172 damage
+     [Toxicroak] using Sucker Punch vs Heracross does a max of 22/172 damage
+     Heracross (0)'s best move: Brick Break for 52/176 damage
+==============================
+     Heracross (0) speed (123) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+fast_2hko: truefast_outdamage: trueoutdamage: true
+     [Toxicroak] +  6: for fast 2HKO
+     [Toxicroak] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Fisherman Kenneth sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Heracross's Attack changed by -1 (0 -> -1)
+"Heracross's Attack fell!"
+
+===== Round 2 =====
+
+Roles for HUNTAIL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOEDSCRUEL: [:SPECIALBREAKER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+Roles for TOXICROAK: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Kenneth!"
+"Fisherman Kenneth sent out Huntail!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Huntail (1) is considering using Shell Smash (4)...
+[AI] Huntail (1) is considering using Ice Fang (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Huntail (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Huntail (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Huntail lost 73 HP (142 -> 69)
+[HP change] The opposing Huntail lost 64 HP (69 -> 5)
+[HP change] The opposing Huntail lost 5 HP (5 -> 0)
+"The opposing Huntail fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Kingdra] using Hydro Pump vs Heracross does a max of 79/162 damage
+     [Kingdra] using Dragon Pulse vs Heracross does a max of 61/162 damage
+     [Kingdra] using Ice Beam vs Heracross does a max of 43/162 damage
+     Heracross (0)'s best move: Pin Missile for 117/167 damage
+==============================
+     Heracross (0) speed (123) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+
+     [Kingdra] final Switch score: 0
+==============================
+     [Toedscruel] using Energy Ball vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Earth Power vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Hidden Power vs Heracross does a max of 26/162 damage
+     Heracross (0)'s best move: Pin Missile for 315/172 damage
+==============================
+     Heracross (0) speed (123) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+target_slow_kill: true
+
+     [Toedscruel] -  7: for target slow kill
+     [Toedscruel] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 88/162 damage
+     [Gyarados] using Crunch vs Heracross does a max of 29/162 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 36/162 damage
+     [Gyarados] using Ice Fang vs Heracross does a max of 48/162 damage
+     Heracross (0)'s best move: Rock Blast for 178/192 damage
+==============================
+     Heracross (0) speed (123) vs Gyarados speed: 126
+[AI] =====> Flags assigned to Gyarados:
+fast_2hko: true
+
+     [Gyarados] +  6: for fast 2HKO
+     [Gyarados] final Switch score: 6
+==============================
+     [Toxicroak] using Fake Out vs Heracross does a max of 26/162 damage
+     [Toxicroak] using Gunk Shot vs Heracross does a max of 112/162 damage
+     [Toxicroak] using Close Combat vs Heracross does a max of 56/162 damage
+     [Toxicroak] using Sucker Punch vs Heracross does a max of 22/162 damage
+     Heracross (0)'s best move: Brick Break for 76/176 damage
+==============================
+     Heracross (0) speed (123) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+fast_2hko: true
+fast_outdamage: true
+outdamage: true
+
+     [Toxicroak] +  6: for fast 2HKO
+     [Toxicroak] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Fisherman Kenneth sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Heracross's Attack changed by -1 (0 -> -1)
+"Heracross's Attack fell!"
+
+===== Round 2 =====
+
+Roles for HUNTAIL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOEDSCRUEL: [:SPECIALBREAKER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+Roles for TOXICROAK: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Kenneth!"
+"Fisherman Kenneth sent out Huntail!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Huntail (1) is considering using Shell Smash (4)...
+[AI] Huntail (1) is considering using Ice Fang (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Huntail (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Huntail (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Huntail lost 73 HP (142 -> 69)
+[HP change] The opposing Huntail lost 69 HP (69 -> 0)
+"The opposing Huntail fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Kingdra] using Hydro Pump vs Heracross does a max of 79/162 damage
+     [Kingdra] using Dragon Pulse vs Heracross does a max of 61/162 damage
+     [Kingdra] using Ice Beam vs Heracross does a max of 43/162 damage
+     Heracross (0)'s best move: Pin Missile for 117/167 damage
+==============================
+     Heracross (0) speed (123) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+
+     [Kingdra] final Switch score: 0
+==============================
+     [Toedscruel] using Energy Ball vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Earth Power vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Hidden Power vs Heracross does a max of 26/162 damage
+     Heracross (0)'s best move: Pin Missile for 315/172 damage
+==============================
+     Heracross (0) speed (123) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> target_slow_kill: true
+
+     [Toedscruel] -  7: for target slow kill
+     [Toedscruel] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 88/162 damage
+     [Gyarados] using Crunch vs Heracross does a max of 29/162 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 36/162 damage
+     [Gyarados] using Ice Fang vs Heracross does a max of 48/162 damage
+     Heracross (0)'s best move: Rock Blast for 178/192 damage
+==============================
+     Heracross (0) speed (123) vs Gyarados speed: 126
+[AI] =====> Flags assigned to Gyarados:
+==========> fast_2hko: true
+
+     [Gyarados] +  6: for fast 2HKO
+     [Gyarados] final Switch score: 6
+==============================
+     [Toxicroak] using Fake Out vs Heracross does a max of 26/162 damage
+     [Toxicroak] using Gunk Shot vs Heracross does a max of 112/162 damage
+     [Toxicroak] using Close Combat vs Heracross does a max of 56/162 damage
+     [Toxicroak] using Sucker Punch vs Heracross does a max of 22/162 damage
+     Heracross (0)'s best move: Brick Break for 76/176 damage
+==============================
+     Heracross (0) speed (123) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> fast_2hko: true
+==========> fast_outdamage: true
+==========> outdamage: true
+
+     [Toxicroak] +  6: for fast 2HKO
+     [Toxicroak] final Switch score: 6
+"Fisherman Kenneth sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Heracross's Attack changed by -1 (0 -> -1)
+"Heracross's Attack fell!"
+
+===== Round 2 =====
+
+Roles for HUNTAIL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOEDSCRUEL: [:SPECIALBREAKER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+Roles for TOXICROAK: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Kenneth!"
+"Fisherman Kenneth sent out Huntail!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Huntail (1) is considering using Shell Smash (4)...
+[AI] Huntail (1) is considering using Ice Fang (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Huntail (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Huntail (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Huntail lost 70 HP (142 -> 72)
+[HP change] The opposing Huntail lost 65 HP (72 -> 7)
+[HP change] The opposing Huntail lost 7 HP (7 -> 0)
+"The opposing Huntail fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Kingdra] using Hydro Pump vs Heracross does a max of 79/162 damage
+     [Kingdra] using Dragon Pulse vs Heracross does a max of 61/162 damage
+     [Kingdra] using Ice Beam vs Heracross does a max of 43/162 damage
+     Heracross (0)'s best move: Pin Missile for 117/167 damage
+==============================
+     Heracross (0) speed (123) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+==========> faster: true
+
+     [Kingdra] final Switch score: 0
+==============================
+     [Toedscruel] using Energy Ball vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Earth Power vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Hidden Power vs Heracross does a max of 26/162 damage
+     Heracross (0)'s best move: Pin Missile for 315/172 damage
+==============================
+     Heracross (0) speed (123) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> target_slow_kill: true
+
+     [Toedscruel] -  7: for target slow kill
+     [Toedscruel] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 88/162 damage
+     [Gyarados] using Crunch vs Heracross does a max of 29/162 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 36/162 damage
+     [Gyarados] using Ice Fang vs Heracross does a max of 48/162 damage
+     Heracross (0)'s best move: Rock Blast for 178/192 damage
+==============================
+     Heracross (0) speed (123) vs Gyarados speed: 126
+[AI] =====> Flags assigned to Gyarados:
+==========> fast_2hko: true
+
+     [Gyarados] +  6: for fast 2HKO
+     [Gyarados] final Switch score: 6
+==============================
+     [Toxicroak] using Fake Out vs Heracross does a max of 26/162 damage
+     [Toxicroak] using Gunk Shot vs Heracross does a max of 112/162 damage
+     [Toxicroak] using Close Combat vs Heracross does a max of 56/162 damage
+     [Toxicroak] using Sucker Punch vs Heracross does a max of 22/162 damage
+     Heracross (0)'s best move: Brick Break for 76/176 damage
+==============================
+     Heracross (0) speed (123) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> fast_2hko: true
+
+     [Toxicroak] +  6: for fast 2HKO
+     [Toxicroak] final Switch score: 6
+"Fisherman Kenneth sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Heracross's Attack changed by -1 (0 -> -1)
+"Heracross's Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): -1
+     Threat Score for Heracross (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Ice Fang (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Heracross (0)
+
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Heracross lost 83 HP (162 -> 79)
+[Use move] Heracross (0) used Rock Blast
+"Heracross flinched and couldn't move!"
+
+[End of round 2]
+[HP change] Heracross lost 10 HP (79 -> 69)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): -1
+     Threat Score for Heracross (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Ice Fang (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 21
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Heracross (0)
+
+"OK, Heracross! Come back!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Empoleon lost 32 HP (186 -> 154)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Gyarados (1) is considering using Crunch (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Ice Fang (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Move choices for Gyarados (1):
+   *   0.0% to use Waterfall (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Gyarados (1), Empoleon (0)
+
+"Empoleon, switch out! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Gyarados (1) used Earthquake
+"The opposing Gyarados used Earthquake!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Gyarados (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Chimecho (0)
+
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Chimecho lost 77 HP (182 -> 105)
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Gyarados lost 74 HP (192 -> 118)
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     move will not affect Chimecho (0)
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Gyarados (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Chimecho (0)
+
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Chimecho lost 76 HP (105 -> 29)
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 91 HP (29 -> 120)
+"Chimecho's HP was restored."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Chimecho (0)
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Gyarados (1) is considering using Ice Fang (1) against Chimecho (0)...
+     Gyarados (1)'s highest damaging move vs Chimecho: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Chimecho (0)
+
+"Chimecho, come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Empoleon lost 34 HP (154 -> 120)
+"It's not very effective..."
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Gyarados (1) is considering using Crunch (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Ice Fang (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Move choices for Gyarados (1):
+   *   0.0% to use Waterfall (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Gyarados (1), Empoleon (0)
+
+"Empoleon, switch out! Come back!"
+"Go for it, Archeops!"
+[Use move] The opposing Gyarados (1) used Earthquake
+"The opposing Gyarados used Earthquake!"
+[Target immune] Archeops's type immunity
+"It doesn't affect Archeops..."
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Archeops (0)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Crunch (1) against Archeops (0)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Gyarados (1) is considering using Ice Fang (1) against Archeops (0)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 18
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Archeops (0), the opposing Gyarados (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Gyarados lost 118 HP (118 -> 0)
+"It's super effective!"
+"The opposing Gyarados fainted!"
+
+[End of round 9]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Kingdra] using Hydro Pump vs Archeops does a max of 222/175 damage
+     [Kingdra] using Dragon Pulse vs Archeops does a max of 87/175 damage
+     [Kingdra] using Ice Beam vs Archeops does a max of 122/175 damage
+     Archeops (0)'s best move: Acrobatics for 123/167 damage
+==============================
+     Archeops (0) speed (153) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+==========> slow_kill: true
+
+     [Kingdra] +  9: for slow kill
+     [Kingdra] final Switch score: 9
+==============================
+     [Toedscruel] using Energy Ball vs Archeops does a max of 79/175 damage
+     [Toedscruel] using Hidden Power vs Archeops does a max of 72/175 damage
+     Archeops (0)'s best move: Acrobatics for 330/172 damage
+==============================
+     Archeops (0) speed (153) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> target_fast_kill: true
+
+     [Toedscruel] -  9: for target fast kill
+     [Toedscruel] final Switch score: -9
+==============================
+     [Toxicroak] using Fake Out vs Archeops does a max of 15/175 damage
+     [Toxicroak] using Gunk Shot vs Archeops does a max of 66/175 damage
+     [Toxicroak] using Close Combat vs Archeops does a max of 132/175 damage
+     [Toxicroak] using Sucker Punch vs Archeops does a max of 52/175 damage
+     Archeops (0)'s best move: Acrobatics for 330/176 damage
+==============================
+     Archeops (0) speed (153) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> target_fast_kill: true
+
+     [Toxicroak] -  9: for target fast kill
+     [Toxicroak] final Switch score: -9
+"Fisherman Kenneth sent out Kingdra!"
+
+===== Round 10 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Archeops (0)...
+     Kingdra (1)'s highest damaging move vs Archeops: Hydro Pump
+      + 17 for slow kill
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Archeops (0)...
+     Kingdra (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Archeops (0)...
+     Kingdra (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 18
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Archeops (0), the opposing Kingdra (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Kingdra lost 49 HP (167 -> 118)
+"Archeops went back to Tyler!"
+"Go for it, Chimecho!"
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Chimecho lost 75 HP (120 -> 45)
+
+[End of round 10]
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+      + 20 for fast kill
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Kingdra (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 21
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Kingdra (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Empoleon lost 35 HP (120 -> 85)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Kingdra (1), Empoleon (0)
+
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Empoleon lost 37 HP (85 -> 48)
+"It's not very effective..."
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Kingdra lost 31 HP (118 -> 87)
+[Stat change] The opposing Kingdra's Speed changed by -1 (0 -> -1)
+"The opposing Kingdra's Speed fell!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Kingdra (1), Empoleon (0)
+
+"OK, Empoleon! Come back!"
+"Go for it, Obstagoon!"
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Obstagoon lost 84 HP (181 -> 97)
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Obstagoon (0), the opposing Kingdra (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+"Obstagoon protected itself!"
+
+[End of round 14]
+Trick Room Turns: 0
+
+===== Round 15 =====
+
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) cannot use Hydro Pump (no PP left)
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   *   0.0% to use Hydro Pump: score 0
+   * 100.0% to use Dragon Pulse (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Obstagoon (0), the opposing Kingdra (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Kingdra lost 46 HP (87 -> 41)
+[Use move] The opposing Kingdra (1) used Dragon Pulse
+"The opposing Kingdra used Dragon Pulse!"
+[HP change] Obstagoon lost 61 HP (97 -> 36)
+
+[End of round 15]
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-14) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) cannot use Hydro Pump (no PP left)
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+      + 17 for slow kill
+[AI] Kingdra (1) is considering using Ice Beam (1) against Obstagoon (0)...
+     Kingdra (1)'s highest damaging move vs Obstagoon: Dragon Pulse
+      + 17 for slow kill
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   *   0.0% to use Hydro Pump: score 0
+   *  50.0% to use Dragon Pulse (target 0): score 18
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use Agility: score 0
+   => will use Dragon Pulse (target 0)
+
+[Round order] Obstagoon (0), the opposing Kingdra (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Kingdra lost 41 HP (41 -> 0)
+"The opposing Kingdra fainted!"
+
+[End of round 16]
+Trick Room Turns: 0
+==============================
+     [Toedscruel] using Energy Ball vs Obstagoon does a max of 63/36 damage
+     [Toedscruel] using Earth Power vs Obstagoon does a max of 63/36 damage
+     [Toedscruel] using Hidden Power vs Obstagoon does a max of 29/36 damage
+     Obstagoon (0)'s best move: Double-Edge for 114/172 damage
+==============================
+     Obstagoon (0) speed (127) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> fast_kill: true
+
+     [Toedscruel] + 12: for fast kill
+     [Toedscruel] final Switch score: 12
+==============================
+     [Toxicroak] using Fake Out vs Obstagoon does a max of 22/36 damage
+     [Toxicroak] using Gunk Shot vs Obstagoon does a max of 94/36 damage
+     [Toxicroak] using Close Combat vs Obstagoon does a max of 378/36 damage
+     [Toxicroak] using Sucker Punch vs Obstagoon does a max of 19/36 damage
+     Obstagoon (0)'s best move: Double-Edge for 114/176 damage
+==============================
+     Obstagoon (0) speed (127) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> fast_kill: true
+
+     [Toxicroak] + 12: for fast kill
+     [Toxicroak] final Switch score: 12
+"Fisherman Kenneth sent out Toedscruel!"
+
+===== Round 17 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toedscruel (1): 0
+Set up score for Toedscruel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+     - 10 for not being able to status
+     + 1 to make equal to highest damaging move
+     - -6 because we see kill or target sees 2HKO
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+      + 20 for fast kill
+[AI] Toedscruel (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+      + 20 for fast kill
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   *  50.0% to use Energy Ball (target 0): score 21
+   *  50.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Toedscruel (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Toedscruel (1) used Earth Power
+"The opposing Toedscruel used Earth Power!"
+"Obstagoon protected itself!"
+
+[End of round 17]
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toedscruel (1): 0
+Set up score for Toedscruel (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+     - 10 for not being able to status
+     + 1 to make equal to highest damaging move
+     - -6 because we see kill or target sees 2HKO
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+      + 20 for fast kill
+[AI] Toedscruel (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+      + 20 for fast kill
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   *  50.0% to use Energy Ball (target 0): score 21
+   *  50.0% to use Earth Power (target 0): score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Energy Ball (target 0)
+
+[Round order] The opposing Toedscruel (1), Obstagoon (0)
+
+"Good job, Obstagoon! Come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Toedscruel (1) used Energy Ball
+"The opposing Toedscruel used Energy Ball!"
+[HP change] Archeops lost 73 HP (175 -> 102)
+
+[End of round 18]
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Toedscruel (1): 0
+Set up score for Toedscruel (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+     - 3 because this will be pointless
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+     + 4 to prioritize highest damaging move
+[AI] Toedscruel (1) is considering using Earth Power (1) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   * 100.0% to use Energy Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Energy Ball (target 0)
+
+[Round order] Archeops (0), the opposing Toedscruel (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Toedscruel lost 109 HP (172 -> 63)
+[HP change] The opposing Toedscruel lost 63 HP (63 -> 0)
+"The opposing Toedscruel fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 19]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Toxicroak] using Fake Out vs Archeops does a max of 15/102 damage
+     [Toxicroak] using Gunk Shot vs Archeops does a max of 66/102 damage
+     [Toxicroak] using Close Combat vs Archeops does a max of 132/102 damage
+     [Toxicroak] using Sucker Punch vs Archeops does a max of 52/102 damage
+     Archeops (0)'s best move: Acrobatics for 330/176 damage
+==============================
+     Archeops (0) speed (153) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> target_fast_kill: true
+
+     [Toxicroak] -  9: for target fast kill
+     [Toxicroak] final Switch score: -9
+"Fisherman Kenneth sent out Toxicroak!"
+
+===== Round 20 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+[AI] Toxicroak (1) is considering using Close Combat (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+      + 17 for slow kill
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+     + 2 for factoring in 0 Status Moves from Archeops (0)
+     + 3 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Gunk Shot (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Toxicroak (1), Archeops (0)
+
+[Use move] The opposing Toxicroak (1) used Fake Out
+"The opposing Toxicroak used Fake Out!"
+[HP change] Archeops lost 22 HP (102 -> 80)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops flinched and couldn't move!"
+
+[End of round 20]
+Trick Room Turns: 0
+
+===== Round 21 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+[AI] Toxicroak (1) is considering using Close Combat (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+      + 17 for slow kill
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+     + 2 for factoring in 0 Status Moves from Archeops (0)
+     no added score due to target having faster priority or being slower with no priority
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gunk Shot (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 18
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] Archeops (0), the opposing Toxicroak (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Toxicroak lost 59 HP (176 -> 117)
+[HP change] The opposing Toxicroak lost 59 HP (117 -> 58)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Toxicroak (1) used Close Combat
+"The opposing Toxicroak used Close Combat!"
+[HP change] Archeops lost 80 HP (80 -> 0)
+[Stat change] The opposing Toxicroak's Defense changed by -1 (0 -> -1)
+"The opposing Toxicroak's Defense fell!"
+[Stat change] The opposing Toxicroak's Special Defense changed by -1 (0 -> -1)
+"The opposing Toxicroak's Special Defense fell!"
+"Archeops fainted!"
+
+[End of round 21]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Chimecho!"
+
+===== Round 22 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+      + 20 for fast kill
+[AI] Toxicroak (1) is considering using Close Combat (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Gunk Shot (target 0): score 21
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Gunk Shot (target 0)
+
+[Round order] Chimecho (0), the opposing Toxicroak (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Toxicroak lost 47 HP (58 -> 11)
+[Use move] The opposing Toxicroak (1) used Gunk Shot
+"The opposing Toxicroak used Gunk Shot!"
+[HP change] Chimecho lost 45 HP (45 -> 0)
+"It's super effective!"
+"Chimecho fainted!"
+
+[End of round 22]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Empoleon!"
+
+===== Round 23 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Empoleon (0)...
+     Toxicroak (1)'s highest damaging move vs Empoleon: Close Combat
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Toxicroak (1) is considering using Close Combat (1) against Empoleon (0)...
+     Toxicroak (1)'s highest damaging move vs Empoleon: Close Combat
+      + 20 for fast kill
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Empoleon (0)...
+     Toxicroak (1)'s highest damaging move vs Empoleon: Close Combat
+     + 2 for factoring in 0 Status Moves from Empoleon (0)
+     no added score due to target having faster priority or being slower with no priority
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gunk Shot (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] Empoleon (0), the opposing Toxicroak (1)
+
+[Use move] Empoleon (0) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[Ability triggered] The opposing Toxicroak's Dry Skin
+[HP change] The opposing Toxicroak gained 44 HP (11 -> 55)
+"The opposing Toxicroak's HP was restored."
+[Use move] The opposing Toxicroak (1) used Close Combat
+"The opposing Toxicroak used Close Combat!"
+[HP change] Empoleon lost 48 HP (48 -> 0)
+Roles for HUNTAIL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for KINGDRA: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for TOEDSCRUEL: [:SPECIALBREAKER]
+Roles for GYARADOS: [:PHYSICALBREAKER]
+Roles for TOXICROAK: [:PHYSICALBREAKER, :WEATHERTERRAINABUSER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Fisherman Kenneth!"
+"Fisherman Kenneth sent out Huntail!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Huntail (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Huntail (1): 0
+Set up score for Huntail (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Huntail (1) is considering using Liquidation (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Huntail (1) is considering using Crunch (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Huntail (1) is considering using Shell Smash (4)...
+[AI] Huntail (1) is considering using Ice Fang (1) against Heracross (0)...
+     Huntail (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Huntail (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Huntail (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Huntail lost 65 HP (142 -> 77)
+[HP change] The opposing Huntail lost 71 HP (77 -> 6)
+[HP change] The opposing Huntail lost 6 HP (6 -> 0)
+"The opposing Huntail fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Kingdra] using Hydro Pump vs Heracross does a max of 79/162 damage
+     [Kingdra] using Dragon Pulse vs Heracross does a max of 61/162 damage
+     [Kingdra] using Ice Beam vs Heracross does a max of 43/162 damage
+     Heracross (0)'s best move: Pin Missile for 117/167 damage
+==============================
+     Heracross (0) speed (123) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+==========> faster: true
+
+     [Kingdra] final Switch score: 0
+==============================
+     [Toedscruel] using Energy Ball vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Earth Power vs Heracross does a max of 28/162 damage
+     [Toedscruel] using Hidden Power vs Heracross does a max of 26/162 damage
+     Heracross (0)'s best move: Pin Missile for 315/172 damage
+==============================
+     Heracross (0) speed (123) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> target_slow_kill: true
+
+     [Toedscruel] -  7: for target slow kill
+     [Toedscruel] final Switch score: -7
+==============================
+     [Gyarados] using Waterfall vs Heracross does a max of 88/162 damage
+     [Gyarados] using Crunch vs Heracross does a max of 29/162 damage
+     [Gyarados] using Earthquake vs Heracross does a max of 36/162 damage
+     [Gyarados] using Ice Fang vs Heracross does a max of 48/162 damage
+     Heracross (0)'s best move: Rock Blast for 178/192 damage
+==============================
+     Heracross (0) speed (123) vs Gyarados speed: 126
+[AI] =====> Flags assigned to Gyarados:
+==========> fast_2hko: true
+
+     [Gyarados] +  6: for fast 2HKO
+     [Gyarados] final Switch score: 6
+==============================
+     [Toxicroak] using Fake Out vs Heracross does a max of 26/162 damage
+     [Toxicroak] using Gunk Shot vs Heracross does a max of 112/162 damage
+     [Toxicroak] using Close Combat vs Heracross does a max of 56/162 damage
+     [Toxicroak] using Sucker Punch vs Heracross does a max of 22/162 damage
+     Heracross (0)'s best move: Brick Break for 76/176 damage
+==============================
+     Heracross (0) speed (123) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> fast_2hko: true
+
+     [Toxicroak] +  6: for fast 2HKO
+     [Toxicroak] final Switch score: 6
+"Fisherman Kenneth sent out Gyarados!"
+[Ability triggered] The opposing Gyarados's Intimidate
+[Stat change] Heracross's Attack changed by -1 (0 -> -1)
+"Heracross's Attack fell!"
+
+===== Round 2 =====
+
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): -1
+     Threat Score for Heracross (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Crunch (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Ice Fang (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Heracross (0)
+
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Heracross lost 86 HP (162 -> 76)
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Gyarados lost 34 HP (192 -> 158)
+[HP change] The opposing Gyarados lost 35 HP (158 -> 123)
+[HP change] The opposing Gyarados lost 35 HP (123 -> 88)
+[HP change] The opposing Gyarados lost 37 HP (88 -> 51)
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 2]
+[HP change] Heracross lost 10 HP (76 -> 66)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): -1
+     Threat Score for Heracross (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+      + 20 for fast kill
+[AI] Gyarados (1) is considering using Crunch (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Gyarados (1) is considering using Ice Fang (1) against Heracross (0)...
+     Gyarados (1)'s highest damaging move vs Heracross: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 21
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Gyarados (1), Heracross (0)
+
+"OK, Heracross! Come back!"
+"Just a little more! Hang in there, Empoleon!"
+[Use move] The opposing Gyarados (1) used Waterfall
+"The opposing Gyarados used Waterfall!"
+[HP change] Empoleon lost 35 HP (186 -> 151)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+     [Switch AI] +5 Party member [Toxicroak] is immune to strongest move against Gyarados (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Gyarados (1) is considering using Crunch (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Gyarados (1) is considering using Ice Fang (1) against Empoleon (0)...
+     Gyarados (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Move choices for Gyarados (1):
+   *   0.0% to use Waterfall (target 0): score 0
+   *   0.0% to use Crunch (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Earthquake
+
+[Round order] The opposing Gyarados (1), Empoleon (0)
+
+"Empoleon, switch out! Come back!"
+"Just a little more! Hang in there, Archeops!"
+[Use move] The opposing Gyarados (1) used Earthquake
+"The opposing Gyarados used Earthquake!"
+[Target immune] Archeops's type immunity
+"It doesn't affect Archeops..."
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Gyarados (1): 0
+Set up score for Gyarados (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gyarados (1) is considering using Waterfall (1) against Archeops (0)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+      + 17 for slow kill
+[AI] Gyarados (1) is considering using Crunch (1) against Archeops (0)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+[AI] Gyarados (1) is considering using Earthquake (1)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Gyarados (1) is considering using Ice Fang (1) against Archeops (0)...
+     Gyarados (1)'s highest damaging move vs Archeops: Waterfall
+[AI] Move choices for Gyarados (1):
+   * 100.0% to use Waterfall (target 0): score 18
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Waterfall (target 0)
+
+[Round order] Archeops (0), the opposing Gyarados (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Gyarados lost 51 HP (51 -> 0)
+"It's super effective!"
+"The opposing Gyarados fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Kingdra] using Hydro Pump vs Archeops does a max of 222/175 damage
+     [Kingdra] using Dragon Pulse vs Archeops does a max of 87/175 damage
+     [Kingdra] using Ice Beam vs Archeops does a max of 122/175 damage
+     Archeops (0)'s best move: Acrobatics for 123/167 damage
+==============================
+     Archeops (0) speed (153) vs Kingdra speed: 128
+[AI] =====> Flags assigned to Kingdra:
+==========> slow_kill: true
+
+     [Kingdra] +  9: for slow kill
+     [Kingdra] final Switch score: 9
+==============================
+     [Toedscruel] using Energy Ball vs Archeops does a max of 79/175 damage
+     [Toedscruel] using Hidden Power vs Archeops does a max of 72/175 damage
+     Archeops (0)'s best move: Acrobatics for 330/172 damage
+==============================
+     Archeops (0) speed (153) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> target_fast_kill: true
+
+     [Toedscruel] -  9: for target fast kill
+     [Toedscruel] final Switch score: -9
+==============================
+     [Toxicroak] using Fake Out vs Archeops does a max of 15/175 damage
+     [Toxicroak] using Gunk Shot vs Archeops does a max of 66/175 damage
+     [Toxicroak] using Close Combat vs Archeops does a max of 132/175 damage
+     [Toxicroak] using Sucker Punch vs Archeops does a max of 52/175 damage
+     Archeops (0)'s best move: Acrobatics for 330/176 damage
+==============================
+     Archeops (0) speed (153) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> target_fast_kill: true
+
+     [Toxicroak] -  9: for target fast kill
+     [Toxicroak] final Switch score: -9
+"Fisherman Kenneth sent out Kingdra!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Archeops (0)...
+     Kingdra (1)'s highest damaging move vs Archeops: Hydro Pump
+      + 17 for slow kill
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Archeops (0)...
+     Kingdra (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Archeops (0)...
+     Kingdra (1)'s highest damaging move vs Archeops: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 18
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Archeops (0), the opposing Kingdra (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Kingdra lost 50 HP (167 -> 117)
+"Archeops went back to Tyler!"
+"Go for it, Empoleon!"
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Empoleon lost 36 HP (151 -> 115)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Kingdra (1): 0
+Set up score for Kingdra (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Kingdra (1), Empoleon (0)
+
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Empoleon lost 38 HP (115 -> 77)
+"It's not very effective..."
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Kingdra lost 29 HP (117 -> 88)
+[Stat change] The opposing Kingdra's Speed changed by -1 (0 -> -1)
+"The opposing Kingdra's Speed fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Kingdra (1)'s highest damaging move vs Empoleon: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Kingdra (1), Empoleon (0)
+
+"OK, Empoleon! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Kingdra's attack missed!"
+
+[End of round 8]
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (3) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Kingdra (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Chimecho (0), the opposing Kingdra (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Kingdra lost 76 HP (88 -> 12)
+"It's super effective!"
+"The Roseli Berry weakened the damage to the opposing Kingdra!"
+[Item consumed] The opposing Kingdra consumed its held Roseli Berry
+[Use move] The opposing Kingdra (1) used Hydro Pump
+"The opposing Kingdra used Hydro Pump!"
+[HP change] Chimecho lost 80 HP (182 -> 102)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     move will not affect Chimecho (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+Set up score for Kingdra (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kingdra (1) is considering using Hydro Pump (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Kingdra (1) is considering using Dragon Pulse (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Kingdra (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Kingdra (1)'s highest damaging move vs Chimecho: Hydro Pump
+[AI] Kingdra (1) is considering using Agility (4)...
+[AI] Move choices for Kingdra (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Agility: score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] Chimecho (0), the opposing Kingdra (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Kingdra lost 12 HP (12 -> 0)
+"The opposing Kingdra fainted!"
+
+[End of round 10]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+==============================
+     [Toedscruel] using Energy Ball vs Chimecho does a max of 60/102 damage
+     [Toedscruel] using Hidden Power vs Chimecho does a max of 27/102 damage
+     Chimecho (0)'s best move: Moonblast for 75/172 damage
+==============================
+     Chimecho (0) speed (113) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> fast_2hko: true
+
+     [Toedscruel] +  6: for fast 2HKO
+     [Toedscruel] final Switch score: 6
+==============================
+     [Toxicroak] using Fake Out vs Chimecho does a max of 26/102 damage
+     [Toxicroak] using Gunk Shot vs Chimecho does a max of 228/102 damage
+     [Toxicroak] using Close Combat vs Chimecho does a max of 28/102 damage
+     [Toxicroak] using Sucker Punch vs Chimecho does a max of 45/102 damage
+     Chimecho (0)'s best move: Extrasensory for 204/176 damage
+==============================
+     Chimecho (0) speed (113) vs Toxicroak speed: 128
+[AI] =====> Flags assigned to Toxicroak:
+==========> fast_kill: true
+
+     [Toxicroak] + 12: for fast kill
+     [Toxicroak] final Switch score: 12
+"Fisherman Kenneth sent out Toxicroak!"
+
+===== Round 11 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+      + 20 for fast kill
+[AI] Toxicroak (1) is considering using Close Combat (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Gunk Shot (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Toxicroak (1), Chimecho (0)
+
+"Chimecho, come back!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Toxicroak (1) used Fake Out
+"The opposing Toxicroak used Fake Out!"
+[HP change] Empoleon lost 9 HP (77 -> 68)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+     move will not affect Empoleon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Toxicroak (1): 0
+Set up score for Toxicroak (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Empoleon (0)...
+     Toxicroak (1)'s highest damaging move vs Empoleon: Close Combat
+     move will not affect Empoleon (0)
+     -  1: move will fail
+[AI] Toxicroak (1) is considering using Close Combat (1) against Empoleon (0)...
+     Toxicroak (1)'s highest damaging move vs Empoleon: Close Combat
+      + 20 for fast kill
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Empoleon (0)...
+     Toxicroak (1)'s highest damaging move vs Empoleon: Close Combat
+     + 2 for factoring in 0 Status Moves from Empoleon (0)
+     no added score due to target having faster priority or being slower with no priority
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gunk Shot (target 0): score 0
+   * 100.0% to use Close Combat (target 0): score 21
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Toxicroak (1), Empoleon (0)
+
+"OK, Empoleon! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Toxicroak (1) used Close Combat
+"The opposing Toxicroak used Close Combat!"
+[HP change] Chimecho lost 26 HP (102 -> 76)
+"It's not very effective..."
+[Stat change] The opposing Toxicroak's Defense changed by -1 (0 -> -1)
+"The opposing Toxicroak's Defense fell!"
+[Stat change] The opposing Toxicroak's Special Defense changed by -1 (0 -> -1)
+"The opposing Toxicroak's Special Defense fell!"
+
+[End of round 12]
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Toxicroak (1): -2
+Set up score for Toxicroak (1): -2
+Set up score for Toxicroak (1): -2
+Set up score for Toxicroak (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-5) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+      + 20 for fast kill
+[AI] Toxicroak (1) is considering using Close Combat (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Chimecho (0)...
+     Toxicroak (1)'s highest damaging move vs Chimecho: Gunk Shot
+     - 1 for factoring in 1 Status Moves from Chimecho (0)
+     no added score due to target having faster priority or being slower with no priority
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Gunk Shot (target 0): score 21
+   *   0.0% to use Close Combat (target 0): score 0
+   *   0.0% to use Sucker Punch (target 0): score 0
+   => will use Gunk Shot (target 0)
+
+[Round order] The opposing Toxicroak (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Toxicroak (1) used Gunk Shot
+"The opposing Toxicroak used Gunk Shot!"
+[HP change] Archeops lost 57 HP (175 -> 118)
+"It's not very effective..."
+
+[End of round 13]
+Trick Room Turns: 0
+
+===== Round 14 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Toxicroak (1): -2
+Set up score for Toxicroak (1): -2
+Set up score for Toxicroak (1): -2
+Set up score for Toxicroak (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (-3) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toxicroak (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Toxicroak (1) is considering using Gunk Shot (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+[AI] Toxicroak (1) is considering using Close Combat (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+      + 5 for having a kill even if we are killed first
+[AI] Toxicroak (1) is considering using Sucker Punch (1) against Archeops (0)...
+     Toxicroak (1)'s highest damaging move vs Archeops: Close Combat
+     + 2 for factoring in 0 Status Moves from Archeops (0)
+     + 3 to match highest damaging move
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Toxicroak (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gunk Shot (target 0): score 0
+   *   0.0% to use Close Combat (target 0): score 0
+   * 100.0% to use Sucker Punch (target 0): score 15
+   => will use Sucker Punch (target 0)
+
+[Round order] The opposing Toxicroak (1), Archeops (0)
+
+[Use move] The opposing Toxicroak (1) used Sucker Punch
+"The opposing Toxicroak used Sucker Punch!"
+[HP change] Archeops lost 47 HP (118 -> 71)
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Toxicroak lost 176 HP (176 -> 0)
+"It's super effective!"
+"The opposing Toxicroak fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+==============================
+     [Toedscruel] using Energy Ball vs Archeops does a max of 79/71 damage
+     [Toedscruel] using Hidden Power vs Archeops does a max of 72/71 damage
+     Archeops (0)'s best move: Acrobatics for 168/172 damage
+==============================
+     Archeops (0) speed (153) vs Toedscruel speed: 147
+[AI] =====> Flags assigned to Toedscruel:
+==========> slow_kill: true
+
+     [Toedscruel] +  9: for slow kill
+     [Toedscruel] final Switch score: 9
+"Fisherman Kenneth sent out Toedscruel!"
+
+===== Round 15 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+     + 4 to prioritize highest damaging move
+[AI] Toedscruel (1) is considering using Earth Power (1) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Archeops (0)...
+     Toedscruel (1)'s highest damaging move vs Archeops: Energy Ball
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   * 100.0% to use Energy Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Energy Ball (target 0)
+
+[Round order] Archeops (0), the opposing Toedscruel (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Toedscruel lost 70 HP (172 -> 102)
+"It's super effective!"
+"Archeops went back to Tyler!"
+"Go for it, Heracross!"
+[Use move] The opposing Toedscruel (1) used Energy Ball
+"The opposing Toedscruel used Energy Ball!"
+[HP change] Heracross lost 27 HP (66 -> 39)
+"It's not very effective..."
+
+[End of round 15]
+[Ability triggered] The opposing Toedscruel's Resurgence
+[HP change] The opposing Toedscruel gained 10 HP (102 -> 112)
+"The opposing Toedscruel's HP was restored."
+[HP change] Heracross lost 10 HP (39 -> 29)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 16 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Heracross (0)...
+     Toedscruel (1)'s highest damaging move vs Heracross: Earth Power
+     move will not affect Heracross (0)
+     -  4: move will fail
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Heracross (0)...
+     Toedscruel (1)'s highest damaging move vs Heracross: Earth Power
+[AI] Toedscruel (1) is considering using Earth Power (1) against Heracross (0)...
+     Toedscruel (1)'s highest damaging move vs Heracross: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Heracross (0)...
+     Toedscruel (1)'s highest damaging move vs Heracross: Earth Power
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Toedscruel (1), Heracross (0)
+
+"Good job, Heracross! Come back!"
+"Go for it, Chimecho!"
+[Use move] The opposing Toedscruel (1) used Earth Power
+"The opposing Toedscruel used Earth Power!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 16]
+[Ability triggered] The opposing Toedscruel's Resurgence
+[HP change] The opposing Toedscruel gained 10 HP (112 -> 122)
+"The opposing Toedscruel's HP was restored."
+Trick Room Turns: 0
+
+===== Round 17 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+     + 1 to make equal to highest damaging move
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+     + 4 to prioritize highest damaging move
+[AI] Toedscruel (1) is considering using Earth Power (1) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+[AI] Move choices for Toedscruel (1):
+   *  50.0% to use Spore (target 0): score 5
+   *  50.0% to use Energy Ball (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Energy Ball (target 0)
+
+[Round order] The opposing Toedscruel (1), Chimecho (0)
+
+[Use move] The opposing Toedscruel (1) used Energy Ball
+"The opposing Toedscruel used Energy Ball!"
+[HP change] Chimecho lost 53 HP (76 -> 23)
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Toedscruel lost 64 HP (122 -> 58)
+
+[End of round 17]
+[Ability triggered] The opposing Toedscruel's Resurgence
+[HP change] The opposing Toedscruel gained 10 HP (58 -> 68)
+"The opposing Toedscruel's HP was restored."
+Trick Room Turns: 0
+
+===== Round 18 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+      + 20 for fast kill
+[AI] Toedscruel (1) is considering using Earth Power (1) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Toedscruel (1)'s highest damaging move vs Chimecho: Energy Ball
+      + 20 for fast kill
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   *  50.0% to use Energy Ball (target 0): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *  50.0% to use Hidden Power (target 0): score 21
+   => will use Energy Ball (target 0)
+
+[Round order] The opposing Toedscruel (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"Just a little more! Hang in there, Obstagoon!"
+[Use move] The opposing Toedscruel (1) used Energy Ball
+"The opposing Toedscruel used Energy Ball!"
+[HP change] Obstagoon lost 54 HP (181 -> 127)
+
+[End of round 18]
+[Ability triggered] The opposing Toedscruel's Resurgence
+[HP change] The opposing Toedscruel gained 10 HP (68 -> 78)
+"The opposing Toedscruel's HP was restored."
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+     - 10 for not being able to status
+     - -7 because this will be pointless
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+[AI] Toedscruel (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] The opposing Toedscruel (1), Obstagoon (0)
+
+[Use move] The opposing Toedscruel (1) used Earth Power
+"The opposing Toedscruel used Earth Power!"
+[HP change] Obstagoon lost 57 HP (127 -> 70)
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Toedscruel lost 59 HP (78 -> 19)
+
+[End of round 19]
+[Ability triggered] The opposing Toedscruel's Resurgence
+[HP change] The opposing Toedscruel gained 10 HP (19 -> 29)
+"The opposing Toedscruel's HP was restored."
+Trick Room Turns: 0
+
+===== Round 20 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Toedscruel (1) is considering using Spore (4) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+     - 10 for not being able to status
+     - -7 because this will be pointless
+[AI] Toedscruel (1) is considering using Energy Ball (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+[AI] Toedscruel (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Toedscruel (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Toedscruel (1)'s highest damaging move vs Obstagoon: Earth Power
+[AI] Move choices for Toedscruel (1):
+   *   0.0% to use Spore (target 0): score 0
+   *   0.0% to use Energy Ball (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Earth Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Toedscruel (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Toedscruel lost 29 HP (29 -> 0)
+"The opposing Toedscruel fainted!"
+
+===== Player won =====
+
+"You defeated Fisherman Kenneth!"
+"Wow. You're great!"
+
+"You got $1,824 for winning!"
+Roles for MAGCARGO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for DELIBIRD: [:PHYSICALBREAKER]
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for AZUMARILL: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tuber Chelsea!"
+"Tuber Chelsea sent out Magcargo!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Magcargo (1)
+
+===== Round 1 =====
+
+Set up score for Magcargo (1): 0
+Set up score for Magcargo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Magcargo (1) is considering using Steam Eruption (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+[AI] Magcargo (1) is considering using Fire Blast (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Steam Eruption (target 0): score 0
+   * 100.0% to use Fire Blast (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Fire Blast (target 0)
+
+[Round order] Heracross (0), the opposing Magcargo (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Magcargo lost 44 HP (150 -> 106)
+[HP change] The opposing Magcargo lost 42 HP (106 -> 64)
+[HP change] The opposing Magcargo lost 42 HP (64 -> 22)
+[HP change] The opposing Magcargo lost 22 HP (22 -> 0)
+"The opposing Magcargo fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Delibird] using Fake Out vs Heracross does a max of 17/162 damage
+     [Delibird] using Ice Punch vs Heracross does a max of 45/162 damage
+     [Delibird] using Dual Wingbeat vs Heracross does a max of 192/162 damage
+     [Delibird] using Ice Shard vs Heracross does a max of 25/162 damage
+     Heracross (0)'s best move: Rock Blast for 552/133 damage
+==============================
+     Heracross (0) speed (123) vs Delibird speed: 116
+
+**Exception: undefined method `to_sym' for true:TrueClass
+[Phantombass AI] 02_AI_Switching.rb:256:in `block (2 levels) in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:254:in `each'
+[Phantombass AI] 02_AI_Switching.rb:254:in `block in rate_replacement_pokemon'
+008_AI_Utilities.rb:19:in `block in each_foe_battler'
+008_AI_Utilities.rb:17:in `each'
+008_AI_Utilities.rb:17:in `each_with_index'
+008_AI_Utilities.rb:17:in `each_foe_battler'
+[Phantombass AI] 02_AI_Switching.rb:203:in `rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:125:in `block in choose_best_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each_with_index'
+[Phantombass AI] 02_AI_Switching.rb:124:in `choose_best_replacement_pokemon'
+001_Battle_AI.rb:77:in `pbDefaultChooseNewEnemy'
+005_Battle_ActionSwitching.rb:139:in `pbSwitchInBetween'
+005_Battle_ActionSwitching.rb:163:in `block (2 levels) in pbEORSwitch'
+005_Battle_ActionSwitching.rb:157:in `each'
+005_Battle_ActionSwitching.rb:157:in `block in pbEORSwitch'
+005_Battle_ActionSwitching.rb:155:in `loop'
+005_Battle_ActionSwitching.rb:155:in `pbEORSwitch'
+011_Battle_EndOfRoundPhase.rb:729:in `pbEndOfRoundPhase'
+006_Battle_Clauses.rb:41:in `pbEndOfRoundPhase'
+[Generation 9 Pack] [001] Battle.rb:197:in `pbEndOfRoundPhase'
+[Deluxe Battle Kit] [001] Midbattle Overwrites.rb:459:in `pbEndOfRoundPhase'
+002_Battle_StartAndEnd.rb:350:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:350:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:484:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:1499:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:163:in `block in update'
+002_Scene_Map.rb:162:in `loop'
+002_Scene_Map.rb:162:in `update'
+002_Scene_Map.rb:234:in `block in main'
+002_Scene_Map.rb:231:in `loop'
+002_Scene_Map.rb:231:in `main'
+999_Main.rb:45:in `mainFunctionDebug'
+999_Main.rb:22:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:22:in `mainFunction'
+999_Main.rb:58:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:57:in `loop'
+999_Main.rb:57:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for MAGCARGO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for DELIBIRD: [:PHYSICALBREAKER]
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for AZUMARILL: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tuber Chelsea!"
+"Tuber Chelsea sent out Magcargo!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Magcargo (1)
+
+===== Round 1 =====
+
+Set up score for Magcargo (1): 0
+Set up score for Magcargo (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Magcargo (1) is considering using Steam Eruption (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+[AI] Magcargo (1) is considering using Fire Blast (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Steam Eruption (target 0): score 0
+   * 100.0% to use Fire Blast (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Fire Blast (target 0)
+
+[Round order] Heracross (0), the opposing Magcargo (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Magcargo lost 42 HP (150 -> 108)
+[HP change] The opposing Magcargo lost 37 HP (108 -> 71)
+[HP change] The opposing Magcargo lost 42 HP (71 -> 29)
+[HP change] The opposing Magcargo lost 29 HP (29 -> 0)
+"The opposing Magcargo fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Delibird] using Fake Out vs Heracross does a max of 17/162 damage
+     [Delibird] using Ice Punch vs Heracross does a max of 45/162 damage
+     [Delibird] using Dual Wingbeat vs Heracross does a max of 192/162 damage
+     [Delibird] using Ice Shard vs Heracross does a max of 25/162 damage
+     Heracross (0)'s best move: Rock Blast for 552/133 damage
+==============================
+     Heracross (0) speed (123) vs Delibird speed: 116
+[AI] =====> Flags assigned to Delibird:
+==========> target_fast_kill: true
+
+     [Delibird] -  9: for target fast kill
+     [Delibird] final Switch score: -9
+==============================
+     [Venusaur] using Sludge Bomb vs Heracross does a max of 75/162 damage
+     [Venusaur] using Leaf Storm vs Heracross does a max of 54/162 damage
+     [Venusaur] using Earth Power vs Heracross does a max of 25/162 damage
+     [Venusaur] using Hidden Power vs Heracross does a max of 68/162 damage
+     Heracross (0)'s best move: Pin Missile for 127/175 damage
+==============================
+     Heracross (0) speed (123) vs Venusaur speed: 113
+[AI] =====> Flags assigned to Venusaur:
+==========> target_fast_2hko: true
+
+     [Venusaur] -  5: for target having fast 2HKO and us having no kill
+     [Venusaur] final Switch score: -5
+==============================
+     [Azumarill] using Liquidation vs Heracross does a max of 97/162 damage
+     [Azumarill] using Play Rough vs Heracross does a max of 204/162 damage
+     [Azumarill] using Ice Punch vs Heracross does a max of 57/162 damage
+     [Azumarill] using Aqua Jet vs Heracross does a max of 46/162 damage
+     Heracross (0)'s best move: Bullet Seed for 176/198 damage
+==============================
+     Heracross (0) speed (123) vs Azumarill speed: 79
+[AI] =====> Flags assigned to Azumarill:
+==========> slow_kill: true
+
+     [Azumarill] +  9: for slow kill
+     [Azumarill] final Switch score: 9
+"Tuber Chelsea sent out Azumarill!"
+
+===== Round 2 =====
+
+Roles for MAGCARGO: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for DELIBIRD: [:PHYSICALBREAKER]
+Roles for VENUSAUR: [:SPECIALBREAKER]
+Roles for AZUMARILL: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tuber Chelsea!"
+"Tuber Chelsea sent out Magcargo!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Magcargo (1)
+
+===== Round 1 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Magcargo (1): 0
+Set up score for Magcargo (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Magcargo (1) is considering using Steam Eruption (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+[AI] Magcargo (1) is considering using Fire Blast (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+     + 4 to prioritize highest damaging move
+[AI] Magcargo (1) is considering using Earth Power (1) against Heracross (0)...
+     Magcargo (1)'s highest damaging move vs Heracross: Fire Blast
+[AI] Magcargo (1) is considering using Shell Smash (4)...
+[AI] Move choices for Magcargo (1):
+   *   0.0% to use Steam Eruption (target 0): score 0
+   * 100.0% to use Fire Blast (target 0): score 5
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Fire Blast (target 0)
+
+[Round order] Heracross (0), the opposing Magcargo (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Magcargo lost 42 HP (150 -> 108)
+[HP change] The opposing Magcargo lost 39 HP (108 -> 69)
+[HP change] The opposing Magcargo lost 42 HP (69 -> 27)
+[HP change] The opposing Magcargo lost 27 HP (27 -> 0)
+"The opposing Magcargo fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Delibird] using Fake Out vs Heracross does a max of 17/162 damage
+     [Delibird] using Ice Punch vs Heracross does a max of 45/162 damage
+     [Delibird] using Dual Wingbeat vs Heracross does a max of 192/162 damage
+     [Delibird] using Ice Shard vs Heracross does a max of 25/162 damage
+     Heracross (0)'s best move: Rock Blast for 716/133 damage
+==============================
+     Heracross (0) speed (123) vs Delibird speed: 116
+[AI] =====> Flags assigned to Delibird:
+==========> target_fast_kill: true
+
+     [Delibird] -  9: for target fast kill
+     [Delibird] final Switch score: -9
+==============================
+     [Venusaur] using Sludge Bomb vs Heracross does a max of 75/162 damage
+     [Venusaur] using Leaf Storm vs Heracross does a max of 54/162 damage
+     [Venusaur] using Earth Power vs Heracross does a max of 25/162 damage
+     [Venusaur] using Hidden Power vs Heracross does a max of 68/162 damage
+     Heracross (0)'s best move: Pin Missile for 165/175 damage
+==============================
+     Heracross (0) speed (123) vs Venusaur speed: 113
+[AI] =====> Flags assigned to Venusaur:
+==========> target_fast_2hko: true
+
+     [Venusaur] -  5: for target having fast 2HKO and us having no kill
+     [Venusaur] final Switch score: -5
+==============================
+     [Azumarill] using Liquidation vs Heracross does a max of 97/162 damage
+     [Azumarill] using Play Rough vs Heracross does a max of 204/162 damage
+     [Azumarill] using Ice Punch vs Heracross does a max of 57/162 damage
+     [Azumarill] using Aqua Jet vs Heracross does a max of 46/162 damage
+     Heracross (0)'s best move: Bullet Seed for 228/198 damage
+==============================
+     Heracross (0) speed (123) vs Azumarill speed: 79
+[AI] =====> Flags assigned to Azumarill:
+==========> target_fast_kill: true
+
+     [Azumarill] -  9: for target fast kill
+     [Azumarill] final Switch score: -9
+"Tuber Chelsea sent out Venusaur!"
+
+===== Round 2 =====
+
+Set up score for Venusaur (1): 0
+Set up score for Venusaur (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Venusaur (1) is considering using Sludge Bomb (1) against Heracross (0)...
+     Venusaur (1)'s highest damaging move vs Heracross: Sludge Bomb
+     + 4 to prioritize highest damaging move
+[AI] Venusaur (1) is considering using Leaf Storm (1) against Heracross (0)...
+     Venusaur (1)'s highest damaging move vs Heracross: Sludge Bomb
+[AI] Venusaur (1) is considering using Earth Power (1) against Heracross (0)...
+     Venusaur (1)'s highest damaging move vs Heracross: Sludge Bomb
+[AI] Venusaur (1) is considering using Hidden Power (1) against Heracross (0)...
+     Venusaur (1)'s highest damaging move vs Heracross: Sludge Bomb
+[AI] Move choices for Venusaur (1):
+   * 100.0% to use Sludge Bomb (target 0): score 5
+   *   0.0% to use Leaf Storm (target 0): score 0
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Sludge Bomb (target 0)
+
+[Round order] Heracross (0), the opposing Venusaur (1)
+
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Venusaur lost 43 HP (175 -> 132)
+[HP change] The opposing Venusaur lost 43 HP (132 -> 89)
+[HP change] The opposing Venusaur lost 41 HP (89 -> 48)
+[HP change] The opposing Venusaur lost 38 HP (48 -> 10)
+[HP change] The opposing Venusaur lost 10 HP (10 -> 0)
+"The opposing Venusaur fainted!"
+"Hit 5 times!"
+
+[End of round 2]
+[HP change] Heracross lost 10 HP (162 -> 152)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Delibird] using Fake Out vs Heracross does a max of 17/152 damage
+     [Delibird] using Ice Punch vs Heracross does a max of 45/152 damage
+     [Delibird] using Dual Wingbeat vs Heracross does a max of 192/152 damage
+     [Delibird] using Ice Shard vs Heracross does a max of 25/152 damage
+     Heracross (0)'s best move: Rock Blast for 716/133 damage
+==============================
+     Heracross (0) speed (123) vs Delibird speed: 116
+[AI] =====> Flags assigned to Delibird:
+==========> target_fast_kill: true
+
+     [Delibird] -  9: for target fast kill
+     [Delibird] final Switch score: -9
+==============================
+     [Azumarill] using Liquidation vs Heracross does a max of 97/152 damage
+     [Azumarill] using Play Rough vs Heracross does a max of 204/152 damage
+     [Azumarill] using Ice Punch vs Heracross does a max of 57/152 damage
+     [Azumarill] using Aqua Jet vs Heracross does a max of 46/152 damage
+     Heracross (0)'s best move: Bullet Seed for 228/198 damage
+==============================
+     Heracross (0) speed (123) vs Azumarill speed: 79
+[AI] =====> Flags assigned to Azumarill:
+==========> target_fast_kill: true
+
+     [Azumarill] -  9: for target fast kill
+     [Azumarill] final Switch score: -9
+"Tuber Chelsea sent out Delibird!"
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Delibird (1): 0
+Set up score for Delibird (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (28)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Fake Out (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+     + 18 for using turn 1
+     + 9 to get a last ditch hit off.
+[AI] Delibird (1) is considering using Ice Punch (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+[AI] Delibird (1) is considering using Dual Wingbeat (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+      + 17 for slow kill
+[AI] Delibird (1) is considering using Ice Shard (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Fake Out (target 0): score 28
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   *   0.0% to use Ice Shard (target 0): score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Delibird (1), Heracross (0)
+
+[Use move] The opposing Delibird (1) used Fake Out
+"The opposing Delibird used Fake Out!"
+[HP change] Heracross lost 15 HP (152 -> 137)
+[Use move] Heracross (0) used Rock Blast
+"Heracross flinched and couldn't move!"
+
+[End of round 3]
+[HP change] Heracross lost 10 HP (137 -> 127)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Delibird (1): 0
+Set up score for Delibird (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Delibird (1) is considering using Ice Punch (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+[AI] Delibird (1) is considering using Dual Wingbeat (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+      + 17 for slow kill
+[AI] Delibird (1) is considering using Ice Shard (1) against Heracross (0)...
+     Delibird (1)'s highest damaging move vs Heracross: Dual Wingbeat
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Delibird (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 18
+   *   0.0% to use Ice Shard (target 0): score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Heracross (0), the opposing Delibird (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Delibird lost 132 HP (133 -> 1)
+"The opposing Delibird hung on using its Focus Sash!"
+[Item consumed] The opposing Delibird consumed its held Focus Sash
+[HP change] The opposing Delibird lost 1 HP (1 -> 0)
+"The opposing Delibird fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 4]
+[HP change] Heracross lost 10 HP (127 -> 117)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Azumarill] using Liquidation vs Heracross does a max of 97/117 damage
+     [Azumarill] using Play Rough vs Heracross does a max of 204/117 damage
+     [Azumarill] using Ice Punch vs Heracross does a max of 57/117 damage
+     [Azumarill] using Aqua Jet vs Heracross does a max of 46/117 damage
+     Heracross (0)'s best move: Bullet Seed for 228/198 damage
+==============================
+     Heracross (0) speed (123) vs Azumarill speed: 79
+[AI] =====> Flags assigned to Azumarill:
+==========> target_fast_kill: true
+
+     [Azumarill] -  9: for target fast kill
+     [Azumarill] final Switch score: -9
+"Tuber Chelsea sent out Azumarill!"
+
+===== Round 5 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Azumarill (1) is considering using Liquidation (1) against Heracross (0)...
+     Azumarill (1)'s highest damaging move vs Heracross: Play Rough
+[AI] Azumarill (1) is considering using Play Rough (1) against Heracross (0)...
+     Azumarill (1)'s highest damaging move vs Heracross: Play Rough
+      + 17 for slow kill
+[AI] Azumarill (1) is considering using Ice Punch (1) against Heracross (0)...
+     Azumarill (1)'s highest damaging move vs Heracross: Play Rough
+[AI] Azumarill (1) is considering using Aqua Jet (1) against Heracross (0)...
+     Azumarill (1)'s highest damaging move vs Heracross: Play Rough
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Azumarill (1):
+   *   0.0% to use Liquidation (target 0): score 0
+   * 100.0% to use Play Rough (target 0): score 18
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Aqua Jet (target 0): score 0
+   => will use Play Rough (target 0)
+
+[Round order] Heracross (0), the opposing Azumarill (1)
+
+[Use move] Heracross (0) used Bullet Seed
+"Heracross used Bullet Seed!"
+[HP change] The opposing Azumarill lost 52 HP (198 -> 146)
+[HP change] The opposing Azumarill lost 52 HP (146 -> 94)
+[HP change] The opposing Azumarill lost 55 HP (94 -> 39)
+[HP change] The opposing Azumarill lost 39 HP (39 -> 0)
+"The opposing Azumarill fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+===== Player won =====
+
+"You defeated Tuber Chelsea!"
+"Wow. You're great!"
+
+"You got $228 for winning!"
