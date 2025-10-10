@@ -423637,3 +423637,3938 @@ Set up score for Obstagoon (0): 0
 "Wow. You're great!"
 
 "You got $5,600 for winning!"
+Roles for STEELIX: [:PHYSICALBREAKER, :LEAD]
+Roles for JELLICENT: [:TANK]
+Roles for CHESNAUGHT: [:PHYSICALBREAKER, :LEAD]
+Roles for SALAMENCE: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Galactic Grunt!"
+"Team Galactic Grunt sent out Steelix!"
+"Go! Archeops!"
+[Round order] Archeops (0), the opposing Steelix (1)
+
+===== Round 1 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Archeops (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Steelix (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Steelix (1) is considering using Heavy Slam (1) against Archeops (0)...
+     Steelix (1)'s highest damaging move vs Archeops: Heavy Slam
+      + 17 for slow kill
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Archeops: Heavy Slam
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Archeops: Heavy Slam
+     set to - 19 because we have a move that kills other than this
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Heavy Slam (target 0): score 18
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Explosion: score 0
+   => will use Heavy Slam (target 0)
+
+[Round order] Archeops (0), the opposing Steelix (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Steelix lost 12 HP (164 -> 152)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Go for it, Empoleon!"
+[Use move] The opposing Steelix (1) used Heavy Slam
+"The opposing Steelix used Heavy Slam!"
+[HP change] Empoleon lost 16 HP (186 -> 170)
+"It's not very effective..."
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Steelix (1) is considering using Heavy Slam (1) against Empoleon (0)...
+     Steelix (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Empoleon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Heavy Slam (target 0): score 0
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Explosion: score 0
+   => will use Earthquake
+
+[Round order] Empoleon (0), the opposing Steelix (1)
+
+[Use move] Empoleon (0) used Brine
+"Empoleon used Brine!"
+[HP change] The opposing Steelix lost 145 HP (152 -> 7)
+"It's super effective!"
+[Use move] The opposing Steelix (1) used Earthquake
+"The opposing Steelix used Earthquake!"
+[HP change] Empoleon lost 117 HP (170 -> 53)
+"It's super effective!"
+[HP change] Empoleon gained 46 HP (53 -> 99)
+"Empoleon restored its health using its Sitrus Berry!"
+[Item consumed] Empoleon consumed its held Sitrus Berry
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Steelix (1): 0
+Set up score for Steelix (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Steelix (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Steelix (1) is considering using Heavy Slam (1) against Empoleon (0)...
+     Steelix (1)'s highest damaging move vs Empoleon: Earthquake
+[AI] Steelix (1) is considering using Earthquake (1)...
+     Steelix (1)'s highest damaging move vs Empoleon: Earthquake
+      + 17 for slow kill
+[AI] Steelix (1) is considering using Explosion (1)...
+     Steelix (1)'s highest damaging move vs Empoleon: Earthquake
+     set to - 19 because we have a move that kills other than this
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Steelix (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Heavy Slam (target 0): score 0
+   * 100.0% to use Earthquake: score 18
+   *   0.0% to use Explosion: score 0
+   => will use Earthquake
+
+[Round order] Empoleon (0), the opposing Steelix (1)
+
+"The opposing Steelix's Custap Berry let it move first!"
+[Item consumed] The opposing Steelix consumed its held Custap Berry
+[Use move] Empoleon (0) used Aqua Jet
+"Empoleon used Aqua Jet!"
+[HP change] The opposing Steelix lost 7 HP (7 -> 0)
+"It's super effective!"
+"The opposing Steelix fainted!"
+"Archeops got 1 Exp. Points!"
+"Empoleon got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Jellicent] using Scald vs Empoleon does a max of 28/99 damage
+     [Jellicent] using Hex vs Empoleon does a max of 45/99 damage
+     Empoleon (0)'s best move: Flash Cannon for 32/195 damage
+==============================
+     Empoleon (0) speed (84) vs Jellicent speed: 89
+     [Jellicent] +  5: for fast outdamage
+     [Jellicent] final Switch score: 5
+==============================
+     [Chesnaught] using Drain Punch vs Empoleon does a max of 123/99 damage
+     [Chesnaught] using Needle Arm vs Empoleon does a max of 69/99 damage
+     [Chesnaught] using Stone Edge vs Empoleon does a max of 27/99 damage
+     Empoleon (0)'s best move: Flash Cannon for 85/178 damage
+==============================
+     Empoleon (0) speed (84) vs Chesnaught speed: 92
+     [Chesnaught] + 12: for fast kill
+     [Chesnaught] final Switch score: 12
+==============================
+     [Salamence] using Dragon Claw vs Empoleon does a max of 37/99 damage
+     [Salamence] using Dual Wingbeat vs Empoleon does a max of 37/99 damage
+     [Salamence] using Thunder Fang vs Empoleon does a max of 80/99 damage
+     [Salamence] using Earthquake vs Empoleon does a max of 122/99 damage
+     Empoleon (0)'s best move: Flash Cannon for 79/189 damage
+==============================
+     Empoleon (0) speed (84) vs Salamence speed: 147
+     [Salamence] + 12: for fast kill
+     [Salamence] final Switch score: 12
+[AI] Highest move score (18) vs Switch In Score (12)
+"Team Galactic Grunt sent out Chesnaught!"
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Chesnaught (1): 0
+Set up score for Chesnaught (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chesnaught (1) is considering using Spikes (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Chesnaught (1) is considering using Drain Punch (1) against Empoleon (0)...
+     Chesnaught (1)'s highest damaging move vs Empoleon: Drain Punch
+      + 20 for fast kill
+[AI] Chesnaught (1) is considering using Needle Arm (1) against Empoleon (0)...
+     Chesnaught (1)'s highest damaging move vs Empoleon: Drain Punch
+[AI] Chesnaught (1) is considering using Stone Edge (1) against Empoleon (0)...
+     Chesnaught (1)'s highest damaging move vs Empoleon: Drain Punch
+[AI] Move choices for Chesnaught (1):
+   *   0.0% to use Spikes: score 0
+   * 100.0% to use Drain Punch (target 0): score 21
+   *   0.0% to use Needle Arm (target 0): score 0
+   *   0.0% to use Stone Edge (target 0): score 0
+   => will use Drain Punch (target 0)
+
+[Round order] The opposing Chesnaught (1), Empoleon (0)
+
+"Empoleon, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Chesnaught (1) used Drain Punch
+"The opposing Chesnaught used Drain Punch!"
+[HP change] Chimecho lost 19 HP (182 -> 163)
+"It's not very effective..."
+"Chimecho had its energy drained!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Chesnaught (1): 0
+Set up score for Chesnaught (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chesnaught (1) is considering using Spikes (4)...
+     - 3 because this will be pointless
+[AI] Chesnaught (1) is considering using Drain Punch (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+[AI] Chesnaught (1) is considering using Needle Arm (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+     + 4 to prioritize highest damaging move
+[AI] Chesnaught (1) is considering using Stone Edge (1) against Chimecho (0)...
+     Chesnaught (1)'s highest damaging move vs Chimecho: Needle Arm
+[AI] Move choices for Chesnaught (1):
+   *   0.0% to use Spikes: score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   * 100.0% to use Needle Arm (target 0): score 5
+   *   0.0% to use Stone Edge (target 0): score 0
+   => will use Needle Arm (target 0)
+
+[Round order] Chimecho (0), the opposing Chesnaught (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Chesnaught lost 178 HP (178 -> 0)
+"It's super effective!"
+"The opposing Chesnaught fainted!"
+"Chimecho got 1 Exp. Points!"
+
+[End of round 5]
+Trick Room Turns: 0
+==============================
+     [Jellicent] using Scald vs Chimecho does a max of 57/163 damage
+     [Jellicent] using Hex vs Chimecho does a max of 93/163 damage
+     Chimecho (0)'s best move: Moonblast for 82/195 damage
+==============================
+     Chimecho (0) speed (113) vs Jellicent speed: 89
+     [Jellicent] +  3: for outdamage
+     [Jellicent] final Switch score: 3
+==============================
+     [Salamence] using Dragon Claw vs Chimecho does a max of 1/163 damage
+     [Salamence] using Dual Wingbeat vs Chimecho does a max of 93/163 damage
+     [Salamence] using Thunder Fang vs Chimecho does a max of 51/163 damage
+     Chimecho (0)'s best move: Moonblast for 207/189 damage
+==============================
+     Chimecho (0) speed (113) vs Salamence speed: 147
+     [Salamence] -  7: for target slow kill
+     [Salamence] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (3)
+"Team Galactic Grunt sent out Jellicent!"
+
+===== Round 6 =====
+
+Set up score for Jellicent (1): 0
+Set up score for Jellicent (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jellicent (1) is considering using Scald (1) against Chimecho (0)...
+     Jellicent (1)'s highest damaging move vs Chimecho: Hex
+[AI] Jellicent (1) is considering using Hex (1) against Chimecho (0)...
+     Jellicent (1)'s highest damaging move vs Chimecho: Hex
+     + 4 to prioritize highest damaging move
+[AI] Jellicent (1) is considering using Recover...
+     +  1: move will fail
+[AI] Jellicent (1) is considering using Will-O-Wisp (4) against Chimecho (0)...
+     Jellicent (1)'s highest damaging move vs Chimecho: Hex
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Jellicent (1):
+   *   0.0% to use Scald (target 0): score 0
+   *  50.0% to use Hex (target 0): score 5
+   *   0.0% to use Recover: score 0
+   *  50.0% to use Will-O-Wisp (target 0): score 5
+   => will use Will-O-Wisp (target 0)
+
+[Round order] Chimecho (0), the opposing Jellicent (1)
+
+"Chimecho, come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Jellicent (1) used Will-O-Wisp
+"The opposing Jellicent used Will-O-Wisp!"
+"Obstagoon already has a burn!"
+[Move failed] In function code BurnTarget's def pbFailsAgainstTarget?
+
+[End of round 6]
+[HP change] Obstagoon lost 11 HP (181 -> 170)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Jellicent (1): 0
+Set up score for Jellicent (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jellicent (1) is considering using Scald (1) against Obstagoon (0)...
+     Jellicent (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Jellicent (1) is considering using Hex (1) against Obstagoon (0)...
+     Jellicent (1)'s highest damaging move vs Obstagoon: Scald
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Jellicent (1) is considering using Recover...
+     +  1: move will fail
+[AI] Jellicent (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Jellicent (1)'s highest damaging move vs Obstagoon: Scald
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Jellicent (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Hex (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Obstagoon (0), the opposing Jellicent (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Jellicent lost 87 HP (195 -> 108)
+"It's super effective!"
+"The Colbur Berry weakened the damage to the opposing Jellicent!"
+[Item consumed] The opposing Jellicent consumed its held Colbur Berry
+[Use move] The opposing Jellicent (1) used Scald
+"The opposing Jellicent used Scald!"
+[HP change] Obstagoon lost 55 HP (170 -> 115)
+
+[End of round 7]
+[HP change] Obstagoon lost 11 HP (115 -> 104)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Jellicent (1): 0
+Set up score for Jellicent (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (7)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Jellicent (1) is considering using Scald (1) against Obstagoon (0)...
+     Jellicent (1)'s highest damaging move vs Obstagoon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Jellicent (1) is considering using Hex (1) against Obstagoon (0)...
+     Jellicent (1)'s highest damaging move vs Obstagoon: Scald
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Jellicent (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Jellicent (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Jellicent (1)'s highest damaging move vs Obstagoon: Scald
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Jellicent (1):
+   *   0.0% to use Scald (target 0): score 0
+   *   0.0% to use Hex (target 0): score 0
+   * 100.0% to use Recover: score 7
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Recover
+
+[Round order] Obstagoon (0), the opposing Jellicent (1)
+
+[Use move] Obstagoon (0) used Night Slash
+"Obstagoon used Night Slash!"
+[HP change] The opposing Jellicent lost 108 HP (108 -> 0)
+"It's super effective!"
+"The opposing Jellicent fainted!"
+"Obstagoon got 1 Exp. Points!"
+
+[End of round 8]
+[HP change] Obstagoon lost 11 HP (104 -> 93)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+==============================
+     [Salamence] using Dragon Claw vs Obstagoon does a max of 78/93 damage
+     [Salamence] using Dual Wingbeat vs Obstagoon does a max of 78/93 damage
+     [Salamence] using Thunder Fang vs Obstagoon does a max of 43/93 damage
+     [Salamence] using Earthquake vs Obstagoon does a max of 65/93 damage
+     Obstagoon (0)'s best move: Double-Edge for 145/189 damage
+==============================
+     Obstagoon (0) speed (127) vs Salamence speed: 147
+     [Salamence] +  6: for fast 2HKO
+     [Salamence] final Switch score: 6
+[AI] Highest move score (5) vs Switch In Score (6)
+"Team Galactic Grunt sent out Salamence!"
+[Ability triggered] The opposing Salamence's Intimidate
+[Stat change] Obstagoon's Attack changed by -1 (0 -> -1)
+"Obstagoon's Attack fell!"
+
+===== Round 9 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dragon Claw (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Thunder Fang (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Obstagoon (0), the opposing Salamence (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+"Obstagoon protected itself!"
+[Stat change] The opposing Salamence's Defense changed by -2 (0 -> -2)
+"The opposing Salamence's Defense harshly fell!"
+
+[End of round 9]
+[HP change] Obstagoon lost 11 HP (93 -> 82)
+"Obstagoon was hurt by its burn!"
+[HP change] Obstagoon gained 45 HP (82 -> 127)
+"Obstagoon restored its health using its Sitrus Berry!"
+[Item consumed] Obstagoon consumed its held Sitrus Berry
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dragon Claw (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Salamence (1) is considering using Thunder Fang (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Move choices for Salamence (1):
+   *   0.0% to use Dragon Claw (target 0): score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Obstagoon (0), the opposing Salamence (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Salamence lost 97 HP (189 -> 92)
+[Use move] The opposing Salamence (1) used Dual Wingbeat
+"The opposing Salamence used Dual Wingbeat!"
+[HP change] Obstagoon lost 36 HP (127 -> 91)
+[HP change] Obstagoon lost 38 HP (91 -> 53)
+"Hit 2 times!"
+
+[End of round 10]
+[HP change] Obstagoon lost 11 HP (53 -> 42)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Salamence (1) is considering using Dragon Claw (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Dual Wingbeat (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+      + 20 for fast kill
+[AI] Salamence (1) is considering using Thunder Fang (1) against Obstagoon (0)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+[AI] Salamence (1) is considering using Earthquake (1)...
+     Salamence (1)'s highest damaging move vs Obstagoon: Dual Wingbeat
+      + 20 for fast kill
+[AI] Move choices for Salamence (1):
+   *  33.3% to use Dragon Claw (target 0): score 21
+   *  33.3% to use Dual Wingbeat (target 0): score 21
+   *   0.0% to use Thunder Fang (target 0): score 0
+   *  33.3% to use Earthquake: score 21
+   => will use Dual Wingbeat (target 0)
+
+[Round order] Obstagoon (0), the opposing Salamence (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Salamence lost 92 HP (92 -> 0)
+"The opposing Salamence fainted!"
+
+===== Player won =====
+
+"You defeated Team Galactic Grunt!"
+"Ugh."
+
+"You got $1,792 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Pawniard appeared!"
+"Go! Golem!"
+[Round order] Golem (0), the wild Pawniard (1)
+[Ability triggered] The wild Pawniard's Pressure
+"The wild Pawniard is exerting its pressure!"
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Golem (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pawniard (1) is considering using Fury Cutter (1) against Golem (0)...
+     Pawniard (1)'s highest damaging move vs Golem: Metal Claw
+[AI] Pawniard (1) is considering using Metal Claw (1) against Golem (0)...
+     Pawniard (1)'s highest damaging move vs Golem: Metal Claw
+[AI] Pawniard (1) is considering using Torment (4) against Golem (0)...
+     Pawniard (1)'s highest damaging move vs Golem: Metal Claw
+[AI] Pawniard (1) is considering using Scary Face (4) against Golem (0)...
+     Pawniard (1)'s highest damaging move vs Golem: Metal Claw
+[AI] Move choices for Pawniard (1):
+   *   0.0% to use Fury Cutter (target 0): score 0
+   *   0.0% to use Fury Cutter (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *  50.0% to use Torment (target 0): score 4
+   *  50.0% to use Scary Face (target 0): score 4
+   => will use Torment (target 0)
+
+[Round order] Golem (0), the wild Pawniard (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Pawniard was caught!"
+"Golem got 109 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Pawniard's data was added to the Pokédex."
+"Where do you want to send Pawniard to?"
+"Where do you want to send Pawniard to?"
+"Pawniard has been sent to Box "Box 1"!"
+Roles for TINKATON: [:PHYSICALBREAKER, :LEAD]
+Roles for LUDICOLO: [:SPECIALBREAKER]
+Roles for TYPHLOSION: [:SPECIALBREAKER]
+Roles for PANGORO: [:PHYSICALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Cyndy!"
+"Beauty Cyndy sent out Tinkaton!"
+"Go! Houndoom!"
+[Round order] The opposing Tinkaton (1), Houndoom (0)
+[Ability triggered] Houndoom's Unnerve
+"The opposing team is too nervous to eat Berries!"
+
+===== Round 1 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (19)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Houndoom (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Tinkaton (1) is considering using Fake Out (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Pixie Hammer
+     + 18 for using turn 1
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Pixie Hammer
+[AI] Tinkaton (1) is considering using Pixie Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Pixie Hammer
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Tinkaton (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Gigaton Hammer (target 0): score 0
+   *   0.0% to use Pixie Hammer (target 0): score 0
+   *   0.0% to use Stealth Rock: score 0
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Tinkaton (1), Houndoom (0)
+
+[Use move] The opposing Tinkaton (1) used Fake Out
+"The opposing Tinkaton used Fake Out!"
+[HP change] Houndoom lost 30 HP (170 -> 140)
+[Use move] Houndoom (0) used Fire Blast
+"Houndoom flinched and couldn't move!"
+
+[End of round 1]
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Pixie Hammer
+[AI] Tinkaton (1) is considering using Pixie Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Pixie Hammer
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Gigaton Hammer (target 0): score 0
+   *   0.0% to use Pixie Hammer (target 0): score 0
+   * 100.0% to use Stealth Rock: score 10
+   => will use Stealth Rock
+
+[Round order] The opposing Tinkaton (1), Houndoom (0)
+
+[Use move] The opposing Tinkaton (1) used Stealth Rock
+"The opposing Tinkaton used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+[Use move] Houndoom (0) used Fire Blast
+"Houndoom used Fire Blast!"
+[HP change] The opposing Tinkaton lost 140 HP (178 -> 38)
+"It's super effective!"
+"The opposing Tinkaton was burned!"
+
+[End of round 2]
+[HP change] The opposing Tinkaton lost 11 HP (38 -> 27)
+"The opposing Tinkaton was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Tinkaton (1): 0
+Set up score for Tinkaton (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Tinkaton (1) is considering using Gigaton Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Gigaton Hammer
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Pixie Hammer (1) against Houndoom (0)...
+     Tinkaton (1)'s highest damaging move vs Houndoom: Gigaton Hammer
+[AI] Tinkaton (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Fake Out: score 0
+   * 100.0% to use Gigaton Hammer (target 0): score 5
+   *   0.0% to use Pixie Hammer (target 0): score 0
+   *   0.0% to use Stealth Rock: score 0
+   => will use Gigaton Hammer (target 0)
+
+[Round order] The opposing Tinkaton (1), Houndoom (0)
+
+[Use move] The opposing Tinkaton (1) used Gigaton Hammer
+"The opposing Tinkaton used Gigaton Hammer!"
+[HP change] Houndoom lost 55 HP (140 -> 85)
+"It's not very effective..."
+[Use move] Houndoom (0) used Flamethrower
+"Houndoom used Flamethrower!"
+[HP change] The opposing Tinkaton lost 27 HP (27 -> 0)
+"It's super effective!"
+"The opposing Tinkaton fainted!"
+"Houndoom got 1 Exp. Points!"
+
+[End of round 3]
+Trick Room Turns: 0
+==============================
+     [Ludicolo] using Scald vs Houndoom does a max of 191/85 damage
+     [Ludicolo] using Giga Drain vs Houndoom does a max of 45/85 damage
+     [Ludicolo] using Ice Beam vs Houndoom does a max of 36/85 damage
+     Houndoom (0)'s best move: Fire Blast for 76/172 damage
+==============================
+     Houndoom (0) speed (129) vs Ludicolo speed: 110
+     [Ludicolo] +  9: for slow kill
+     [Ludicolo] final Switch score: 9
+==============================
+     [Typhlosion] using Flamethrower vs Houndoom does a max of 50/85 damage
+     [Typhlosion] using Shadow Ball vs Houndoom does a max of 45/85 damage
+     [Typhlosion] using Scorching Sands vs Houndoom does a max of 106/85 damage
+     Houndoom (0)'s best move: Foul Play for 141/162 damage
+==============================
+     Houndoom (0) speed (129) vs Typhlosion speed: 138
+     [Typhlosion] + 12: for fast kill
+     [Typhlosion] final Switch score: 12
+==============================
+     [Pangoro] using Drain Punch vs Houndoom does a max of 324/85 damage
+     [Pangoro] using Darkest Lariat vs Houndoom does a max of 76/85 damage
+     [Pangoro] using Ice Punch vs Houndoom does a max of 54/85 damage
+     [Pangoro] using Bullet Punch vs Houndoom does a max of 29/85 damage
+     Houndoom (0)'s best move: Fire Blast for 100/189 damage
+==============================
+     Houndoom (0) speed (129) vs Pangoro speed: 87
+     [Pangoro] +  9: for slow kill
+     [Pangoro] final Switch score: 9
+[AI] Highest move score (28) vs Switch In Score (12)
+"Beauty Cyndy sent out Typhlosion!"
+"The opposing Typhlosion floats in the air with its Air Balloon!"
+
+===== Round 4 =====
+
+     move will not affect Houndoom (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Houndoom (0): 0
+     Threat Score for Houndoom (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Houndoom (0)...
+     Typhlosion (1)'s highest damaging move vs Houndoom: Scorching Sands
+[AI] Typhlosion (1) is considering using Shadow Ball (1) against Houndoom (0)...
+     Typhlosion (1)'s highest damaging move vs Houndoom: Scorching Sands
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Houndoom (0)...
+     Typhlosion (1)'s highest damaging move vs Houndoom: Scorching Sands
+      + 20 for fast kill
+[AI] Typhlosion (1) is considering using Will-O-Wisp (4) against Houndoom (0)...
+     Typhlosion (1)'s highest damaging move vs Houndoom: Scorching Sands
+     move will not affect Houndoom (0)
+     -  4: move will fail
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Scorching Sands (target 0): score 21
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Scorching Sands (target 0)
+
+[Round order] The opposing Typhlosion (1), Houndoom (0)
+
+"OK, Houndoom! Come back!"
+"You're in charge, Obstagoon!"
+[HP change] Obstagoon lost 23 HP (181 -> 158)
+"Pointed stones dug into Obstagoon!"
+[Use move] The opposing Typhlosion (1) used Scorching Sands
+"The opposing Typhlosion used Scorching Sands!"
+[HP change] Obstagoon lost 43 HP (158 -> 115)
+"Obstagoon was burned!"
+
+[End of round 4]
+[HP change] Obstagoon lost 11 HP (115 -> 104)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Obstagoon (0)
+     move will not affect Obstagoon (0)
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+[AI] Typhlosion (1) is considering using Will-O-Wisp (4) against Obstagoon (0)...
+     Typhlosion (1)'s highest damaging move vs Obstagoon: Flamethrower
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Typhlosion (1):
+   * 100.0% to use Flamethrower (target 0): score 5
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Flamethrower (target 0)
+
+[Round order] Obstagoon (0), the opposing Typhlosion (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Typhlosion lost 161 HP (162 -> 1)
+"It's super effective!"
+"The opposing Typhlosion's Air Balloon popped!"
+[Item consumed] The opposing Typhlosion consumed its held Air Balloon
+[Use move] The opposing Typhlosion (1) used Flamethrower
+"The opposing Typhlosion used Flamethrower!"
+[HP change] Obstagoon lost 104 HP (104 -> 0)
+"A critical hit!"
+"Obstagoon fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Archeops!"
+[HP change] Archeops lost 44 HP (175 -> 131)
+"Pointed stones dug into Archeops!"
+
+===== Round 6 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Typhlosion (1): 0
+Set up score for Typhlosion (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Typhlosion (1) is considering using Flamethrower (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Shadow Ball
+[AI] Typhlosion (1) is considering using Shadow Ball (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Shadow Ball
+     + 4 to prioritize highest damaging move
+[AI] Typhlosion (1) is considering using Scorching Sands (1) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Shadow Ball
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Typhlosion (1) is considering using Will-O-Wisp (4) against Archeops (0)...
+     Typhlosion (1)'s highest damaging move vs Archeops: Shadow Ball
+     - 3 because this will be pointless
+[AI] Move choices for Typhlosion (1):
+   *   0.0% to use Flamethrower (target 0): score 0
+   * 100.0% to use Shadow Ball (target 0): score 5
+   *   0.0% to use Scorching Sands (target 0): score 0
+   *   0.0% to use Will-O-Wisp (target 0): score 0
+   => will use Shadow Ball (target 0)
+
+[Round order] Archeops (0), the opposing Typhlosion (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Typhlosion lost 1 HP (1 -> 0)
+"The opposing Typhlosion fainted!"
+"Hit 1 time!"
+
+[End of round 6]
+Trick Room Turns: 0
+     move will not affect Archeops (0)
+==============================
+     [Ludicolo] using Scald vs Archeops does a max of 203/131 damage
+     [Ludicolo] using Giga Drain vs Archeops does a max of 96/131 damage
+     [Ludicolo] using Ice Beam vs Archeops does a max of 153/131 damage
+     Archeops (0)'s best move: Acrobatics for 315/172 damage
+==============================
+     Archeops (0) speed (153) vs Ludicolo speed: 110
+     [Ludicolo] -  9: for target fast kill
+     [Ludicolo] final Switch score: -9
+==============================
+     [Pangoro] using Drain Punch vs Archeops does a max of 124/131 damage
+     [Pangoro] using Darkest Lariat vs Archeops does a max of 117/131 damage
+     [Pangoro] using Ice Punch vs Archeops does a max of 166/131 damage
+     [Pangoro] using Bullet Punch vs Archeops does a max of 90/131 damage
+     Archeops (0)'s best move: Acrobatics for 288/189 damage
+==============================
+     Archeops (0) speed (153) vs Pangoro speed: 87
+     [Pangoro] -  9: for target fast kill
+     [Pangoro] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+"Beauty Cyndy sent out Ludicolo!"
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Ludicolo (1): 0
+Set up score for Ludicolo (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ludicolo (1) is considering using Scald (1) against Archeops (0)...
+     Ludicolo (1)'s highest damaging move vs Archeops: Scald
+      + 17 for slow kill
+[AI] Ludicolo (1) is considering using Giga Drain (1) against Archeops (0)...
+     Ludicolo (1)'s highest damaging move vs Archeops: Scald
+[AI] Ludicolo (1) is considering using Ice Beam (1) against Archeops (0)...
+     Ludicolo (1)'s highest damaging move vs Archeops: Scald
+      + 17 for slow kill
+[AI] Ludicolo (1) is considering using Leech Seed (4) against Archeops (0)...
+     Ludicolo (1)'s highest damaging move vs Archeops: Scald
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Ludicolo (1):
+   *  50.0% to use Scald (target 0): score 18
+   *   0.0% to use Giga Drain (target 0): score 0
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use Leech Seed (target 0): score 0
+   => will use Ice Beam (target 0)
+
+[Round order] Archeops (0), the opposing Ludicolo (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Ludicolo lost 111 HP (172 -> 61)
+[HP change] The opposing Ludicolo lost 61 HP (61 -> 0)
+"The opposing Ludicolo fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 7]
+Trick Room Turns: 0
+==============================
+     [Pangoro] using Drain Punch vs Archeops does a max of 124/131 damage
+     [Pangoro] using Darkest Lariat vs Archeops does a max of 117/131 damage
+     [Pangoro] using Ice Punch vs Archeops does a max of 166/131 damage
+     [Pangoro] using Bullet Punch vs Archeops does a max of 90/131 damage
+     Archeops (0)'s best move: Acrobatics for 288/189 damage
+==============================
+     Archeops (0) speed (153) vs Pangoro speed: 87
+     [Pangoro] -  9: for target fast kill
+     [Pangoro] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (-9)
+"Beauty Cyndy sent out Pangoro!"
+
+===== Round 8 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pangoro (1) is considering using Drain Punch (1) against Archeops (0)...
+     Pangoro (1)'s highest damaging move vs Archeops: Ice Punch
+[AI] Pangoro (1) is considering using Darkest Lariat (1) against Archeops (0)...
+     Pangoro (1)'s highest damaging move vs Archeops: Ice Punch
+[AI] Pangoro (1) is considering using Ice Punch (1) against Archeops (0)...
+     Pangoro (1)'s highest damaging move vs Archeops: Ice Punch
+      + 17 for slow kill
+[AI] Pangoro (1) is considering using Bullet Punch (1) against Archeops (0)...
+     Pangoro (1)'s highest damaging move vs Archeops: Ice Punch
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Pangoro (1):
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Darkest Lariat (target 0): score 0
+   * 100.0% to use Ice Punch (target 0): score 18
+   *   0.0% to use Bullet Punch (target 0): score 0
+   => will use Ice Punch (target 0)
+
+[Round order] Archeops (0), the opposing Pangoro (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Pangoro lost 96 HP (189 -> 93)
+[HP change] The opposing Pangoro lost 93 HP (93 -> 0)
+"The opposing Pangoro fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+===== Player won =====
+
+"You defeated Beauty Cyndy!"
+"Wow. You're great!"
+
+"You got $3,136 for winning!"
+Roles for STUNFISK: [:LEAD, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for SAMUROTT: [:PHYSICALBREAKER, :LEAD, :SETUPSWEEPER]
+Roles for FLAMIGO: [:NONE]
+Roles for CLODSIRE: [:TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tuber Jared!"
+"Tuber Jared sent out Stunfisk!"
+"Go! Sandslash!"
+[Round order] Sandslash (0), the opposing Stunfisk (1)
+
+===== Round 1 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Stunfisk (1): 0
+Set up score for Stunfisk (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Stunfisk (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Stunfisk (1) is considering using Thunder Wave (4) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Stunfisk (1) is considering using Volt Switch (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Stunfisk (1) is considering using Earth Power (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunfisk (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Volt Switch (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 5
+   => will use Earth Power (target 0)
+
+[Round order] Sandslash (0), the opposing Stunfisk (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Stunfisk lost 151 HP (205 -> 54)
+"It's super effective!"
+[Use move] The opposing Stunfisk (1) used Earth Power
+"The opposing Stunfisk used Earth Power!"
+[HP change] Sandslash lost 166 HP (171 -> 5)
+"It's super effective!"
+
+[End of round 1]
+[HP change] The opposing Stunfisk gained 12 HP (54 -> 66)
+"The opposing Stunfisk restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Stunfisk (1): 0
+Set up score for Stunfisk (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunfisk (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Stunfisk (1) is considering using Thunder Wave (4) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Stunfisk (1) is considering using Volt Switch (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     - 9 to prevent switching when we have a kill with another move
+      + 17 for slow kill
+[AI] Stunfisk (1) is considering using Earth Power (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+      + 17 for slow kill
+[AI] Move choices for Stunfisk (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Volt Switch (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 18
+   => will use Earth Power (target 0)
+
+[Round order] Sandslash (0), the opposing Stunfisk (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Stunfisk lost 66 HP (66 -> 0)
+"It's super effective!"
+"The opposing Stunfisk fainted!"
+"Sandslash got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Samurott] using Ceaseless Edge vs Sandslash does a max of 63/5 damage
+     [Samurott] using Razor Shell vs Sandslash does a max of 72/5 damage
+     [Samurott] using Sacred Sword vs Sandslash does a max of 228/5 damage
+     Sandslash (0)'s best move: Icicle Crash for 40/184 damage
+==============================
+     Sandslash (0) speed (97) vs Samurott speed: 128
+     [Samurott] + 12: for fast kill
+     [Samurott] final Switch score: 12
+==============================
+     [Flamigo] using Close Combat vs Sandslash does a max of 480/5 damage
+     Sandslash (0)'s best move: Icicle Crash for 168/175 damage
+==============================
+     Sandslash (0) speed (97) vs Flamigo speed: 135
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Clodsire] using Earthquake vs Sandslash does a max of 99/5 damage
+     Sandslash (0)'s best move: Icicle Crash for 192/232 damage
+==============================
+     Sandslash (0) speed (97) vs Clodsire speed: 40
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Tuber Jared sent out Samurott!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Sandslash (0)...
+     Samurott (1)'s highest damaging move vs Sandslash: Sacred Sword
+      + 20 for fast kill
+[AI] Samurott (1) is considering using Razor Shell (1) against Sandslash (0)...
+     Samurott (1)'s highest damaging move vs Sandslash: Sacred Sword
+      + 20 for fast kill
+[AI] Samurott (1) is considering using Sacred Sword (1) against Sandslash (0)...
+     Samurott (1)'s highest damaging move vs Sandslash: Sacred Sword
+      + 20 for fast kill
+[AI] Samurott (1) is considering using Swords Dance (4)...
+[AI] Move choices for Samurott (1):
+   *  33.3% to use Ceaseless Edge (target 0): score 21
+   *  33.3% to use Razor Shell (target 0): score 21
+   *  33.3% to use Sacred Sword (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Ceaseless Edge (target 0)
+
+[Round order] The opposing Samurott (1), Sandslash (0)
+
+"Good job, Sandslash! Come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Samurott (1) used Ceaseless Edge
+"The opposing Samurott used Ceaseless Edge!"
+[HP change] Chimecho lost 93 HP (182 -> 89)
+"Spikes were scattered all around your team's feet!"
+[HP change] Chimecho gained 45 HP (89 -> 134)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Razor Shell (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 4 to prioritize highest damaging move
+[AI] Samurott (1) is considering using Sacred Sword (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Swords Dance (4)...
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   * 100.0% to use Razor Shell (target 0): score 5
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Razor Shell (target 0)
+
+[Round order] The opposing Samurott (1), Chimecho (0)
+
+[Use move] The opposing Samurott (1) used Razor Shell
+"The opposing Samurott used Razor Shell!"
+[HP change] Chimecho lost 96 HP (134 -> 38)
+[Stat change] Chimecho's Defense changed by -1 (0 -> -1)
+"Chimecho's Defense fell!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Samurott lost 184 HP (184 -> 0)
+"It's super effective!"
+"The opposing Samurott fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Flamigo] using Close Combat vs Chimecho does a max of 69/38 damage
+     Chimecho (0)'s best move: Moonblast for 243/175 damage
+==============================
+     Chimecho (0) speed (113) vs Flamigo speed: 135
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Clodsire] using Poison Jab vs Chimecho does a max of 177/38 damage
+     Chimecho (0)'s best move: Extrasensory for 132/232 damage
+==============================
+     Chimecho (0) speed (113) vs Clodsire speed: 40
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Tuber Jared sent out Flamigo!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): -1
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Chimecho (0)
+
+"Good job, Chimecho! Come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Archeops lost 175 HP (175 -> 0)
+[Stat change] The opposing Flamigo's Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Special Defense fell!"
+"Archeops fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+"You're in charge, Heracross!"
+[HP change] Heracross lost 21 HP (172 -> 151)
+"Heracross is hurt by the spikes!"
+
+===== Round 6 =====
+
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Heracross (0)...
+     Flamigo (1)'s highest damaging move vs Heracross: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Heracross (0)
+
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Heracross lost 88 HP (151 -> 63)
+"It's not very effective..."
+[Stat change] The opposing Flamigo's Defense changed by -1 (-1 -> -2)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (-1 -> -2)
+"The opposing Flamigo's Special Defense fell!"
+[HP change] Heracross gained 43 HP (63 -> 106)
+"Heracross restored its health using its Sitrus Berry!"
+[Item consumed] Heracross consumed its held Sitrus Berry
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Flamigo lost 57 HP (175 -> 118)
+[HP change] The opposing Flamigo lost 60 HP (118 -> 58)
+"Hit 2 times!"
+
+[End of round 6]
+[HP change] Heracross lost 10 HP (106 -> 96)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+Set up score for Flamigo (1): -4
+Set up score for Flamigo (1): -4
+Set up score for Flamigo (1): -4
+Set up score for Flamigo (1): -4
+     [Switch AI] +4 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-6) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Heracross (0)...
+     Flamigo (1)'s highest damaging move vs Heracross: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Heracross (0)
+
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Heracross lost 81 HP (96 -> 15)
+"It's not very effective..."
+[Stat change] The opposing Flamigo's Defense changed by -1 (-2 -> -3)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (-2 -> -3)
+"The opposing Flamigo's Special Defense fell!"
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Flamigo lost 58 HP (58 -> 0)
+"The opposing Flamigo fainted!"
+"Hit 1 time!"
+"Heracross got 1 Exp. Points!"
+
+[End of round 7]
+[HP change] Heracross lost 10 HP (15 -> 5)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Clodsire] using Earthquake vs Heracross does a max of 36/5 damage
+     [Clodsire] using Poison Jab vs Heracross does a max of 58/5 damage
+     Heracross (0)'s best move: Bullet Seed for 109/232 damage
+==============================
+     Heracross (0) speed (123) vs Clodsire speed: 40
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Tuber Jared sent out Clodsire!"
+
+===== Round 8 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Heracross: Poison Jab
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Poison Jab (1) against Heracross (0)...
+     Clodsire (1)'s highest damaging move vs Heracross: Poison Jab
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Heracross (0)...
+     Clodsire (1)'s highest damaging move vs Heracross: Poison Jab
+     move will not affect Heracross (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   *  50.0% to use Earthquake: score 18
+   *  50.0% to use Poison Jab (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Heracross (0), the opposing Clodsire (1)
+
+"Good job, Heracross! Come back!"
+"You're in charge, Obstagoon!"
+[HP change] Obstagoon lost 22 HP (181 -> 159)
+"Obstagoon is hurt by the spikes!"
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Obstagoon lost 46 HP (159 -> 113)
+
+[End of round 8]
+[HP change] Obstagoon lost 11 HP (113 -> 102)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 9 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"Obstagoon protected itself!"
+[Use move] The opposing Clodsire (1) used Earthquake
+"The opposing Clodsire used Earthquake!"
+"Obstagoon protected itself!"
+
+[End of round 9]
+[HP change] Obstagoon lost 11 HP (102 -> 91)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Earthquake: score 5
+   *   0.0% to use Poison Jab (target 0): score 0
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Obstruct
+"Obstagoon used Obstruct!"
+"But it failed!"
+[Move failed] In function code ProtectUserFromDamagingMovesObstruct's def pbMoveFailed?
+[Use move] The opposing Clodsire (1) used Earthquake
+"The opposing Clodsire used Earthquake!"
+[HP change] Obstagoon lost 60 HP (91 -> 31)
+
+[End of round 10]
+[HP change] Obstagoon lost 11 HP (31 -> 20)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Poison Jab (1) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Obstagoon (0)...
+     Clodsire (1)'s highest damaging move vs Obstagoon: Earthquake
+     move will not affect Obstagoon (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   *  50.0% to use Earthquake: score 18
+   *  50.0% to use Poison Jab (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Obstagoon (0), the opposing Clodsire (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Clodsire lost 97 HP (232 -> 135)
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Obstagoon lost 20 HP (20 -> 0)
+"Obstagoon fainted!"
+
+[End of round 11]
+[HP change] The opposing Clodsire gained 14 HP (135 -> 149)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+"Go for it, Sandslash!"
+[HP change] Sandslash lost 5 HP (5 -> 0)
+"Sandslash is hurt by the spikes!"
+"Sandslash fainted!"
+"Go for it, Chimecho!"
+
+===== Round 12 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Chimecho: Poison Jab
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Chimecho (0)...
+     Clodsire (1)'s highest damaging move vs Chimecho: Poison Jab
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Clodsire (1) is considering using Yawn (4) against Chimecho (0)...
+     Clodsire (1)'s highest damaging move vs Chimecho: Poison Jab
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Poison Jab (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Chimecho (0), the opposing Clodsire (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Clodsire lost 117 HP (149 -> 32)
+"It's super effective!"
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Chimecho lost 38 HP (38 -> 0)
+"It's super effective!"
+"Chimecho fainted!"
+
+[End of round 12]
+[HP change] The opposing Clodsire gained 14 HP (32 -> 46)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+Roles for STUNFISK: [:LEAD, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for SAMUROTT: [:PHYSICALBREAKER, :LEAD, :SETUPSWEEPER]
+Roles for FLAMIGO: [:NONE]
+Roles for CLODSIRE: [:TANK]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tuber Jared!"
+"Tuber Jared sent out Stunfisk!"
+"Go! Sandslash!"
+[Round order] Sandslash (0), the opposing Stunfisk (1)
+
+===== Round 1 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Stunfisk (1): 0
+Set up score for Stunfisk (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Stunfisk (1) is considering using Stealth Rock (4)...
+     - 3 because target can remove hazards
+[AI] Stunfisk (1) is considering using Thunder Wave (4) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Stunfisk (1) is considering using Volt Switch (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 9 for switch initiative against a bad matchup
+[AI] Stunfisk (1) is considering using Earth Power (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Stunfisk (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   *   0.0% to use Earth Power (target 0): score 0
+   => will use Volt Switch (target 0)
+
+[Round order] Sandslash (0), the opposing Stunfisk (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Stunfisk lost 136 HP (205 -> 69)
+"It's super effective!"
+[Use move] The opposing Stunfisk (1) used Volt Switch
+"The opposing Stunfisk flinched and couldn't move!"
+
+[End of round 1]
+[HP change] The opposing Stunfisk gained 12 HP (69 -> 81)
+"The opposing Stunfisk restored a little HP using its Leftovers!"
+Trick Room Turns: 0
+
+===== Round 2 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Stunfisk (1): 0
+Set up score for Stunfisk (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Stunfisk (1) is considering using Stealth Rock (4)...
+     - 3 because this will be pointless
+[AI] Stunfisk (1) is considering using Thunder Wave (4) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Stunfisk (1) is considering using Volt Switch (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+     + 9 for switch initiative against a bad matchup
+[AI] Stunfisk (1) is considering using Earth Power (1) against Sandslash (0)...
+     Stunfisk (1)'s highest damaging move vs Sandslash: Earth Power
+      + 17 for slow kill
+[AI] Move choices for Stunfisk (1):
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   *   0.0% to use Volt Switch (target 0): score 0
+   * 100.0% to use Earth Power (target 0): score 18
+   => will use Earth Power (target 0)
+
+[Round order] Sandslash (0), the opposing Stunfisk (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Stunfisk lost 81 HP (81 -> 0)
+"It's super effective!"
+"The opposing Stunfisk fainted!"
+"Sandslash got 1 Exp. Points!"
+
+[End of round 2]
+Trick Room Turns: 0
+==============================
+     [Samurott] using Ceaseless Edge vs Sandslash does a max of 63/171 damage
+     [Samurott] using Razor Shell vs Sandslash does a max of 72/171 damage
+     [Samurott] using Sacred Sword vs Sandslash does a max of 228/171 damage
+     Sandslash (0)'s best move: Icicle Crash for 40/184 damage
+==============================
+     Sandslash (0) speed (97) vs Samurott speed: 128
+     [Samurott] + 12: for fast kill
+     [Samurott] final Switch score: 12
+==============================
+     [Flamigo] using Close Combat vs Sandslash does a max of 480/171 damage
+     Sandslash (0)'s best move: Icicle Crash for 168/175 damage
+==============================
+     Sandslash (0) speed (97) vs Flamigo speed: 135
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Clodsire] using Earthquake vs Sandslash does a max of 99/171 damage
+     Sandslash (0)'s best move: Icicle Crash for 192/232 damage
+==============================
+     Sandslash (0) speed (97) vs Clodsire speed: 40
+     [Clodsire] -  5: for target having fast 2HKO and us having no kill
+     [Clodsire] final Switch score: -5
+[AI] Highest move score (10) vs Switch In Score (12)
+"Tuber Jared sent out Samurott!"
+
+===== Round 3 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Sandslash (0)...
+     Samurott (1)'s highest damaging move vs Sandslash: Sacred Sword
+[AI] Samurott (1) is considering using Razor Shell (1) against Sandslash (0)...
+     Samurott (1)'s highest damaging move vs Sandslash: Sacred Sword
+[AI] Samurott (1) is considering using Sacred Sword (1) against Sandslash (0)...
+     Samurott (1)'s highest damaging move vs Sandslash: Sacred Sword
+      + 20 for fast kill
+[AI] Samurott (1) is considering using Swords Dance (4)...
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   *   0.0% to use Razor Shell (target 0): score 0
+   * 100.0% to use Sacred Sword (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   => will use Sacred Sword (target 0)
+
+[Round order] The opposing Samurott (1), Sandslash (0)
+
+"Sandslash, come back!"
+"You're in charge, Chimecho!"
+[Use move] The opposing Samurott (1) used Sacred Sword
+"The opposing Samurott used Sacred Sword!"
+[HP change] Chimecho lost 22 HP (182 -> 160)
+"It's not very effective..."
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+Set up score for Samurott (1): 0
+Set up score for Samurott (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Samurott (1) is considering using Ceaseless Edge (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Razor Shell (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+     + 4 to prioritize highest damaging move
+[AI] Samurott (1) is considering using Sacred Sword (1) against Chimecho (0)...
+     Samurott (1)'s highest damaging move vs Chimecho: Razor Shell
+[AI] Samurott (1) is considering using Swords Dance (4)...
+[AI] Move choices for Samurott (1):
+   *   0.0% to use Ceaseless Edge (target 0): score 0
+   * 100.0% to use Razor Shell (target 0): score 5
+   *   0.0% to use Sacred Sword (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   => will use Razor Shell (target 0)
+
+[Round order] The opposing Samurott (1), Chimecho (0)
+
+[Use move] The opposing Samurott (1) used Razor Shell
+"The opposing Samurott used Razor Shell!"
+[HP change] Chimecho lost 141 HP (160 -> 19)
+"A critical hit!"
+[HP change] Chimecho gained 45 HP (19 -> 64)
+"Chimecho restored its health using its Sitrus Berry!"
+[Item consumed] Chimecho consumed its held Sitrus Berry
+[Stat change] Chimecho's Defense changed by -1 (0 -> -1)
+"Chimecho's Defense fell!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Samurott lost 184 HP (184 -> 0)
+"It's super effective!"
+"The opposing Samurott fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+==============================
+     [Flamigo] using Close Combat vs Chimecho does a max of 69/64 damage
+     Chimecho (0)'s best move: Moonblast for 243/175 damage
+==============================
+     Chimecho (0) speed (113) vs Flamigo speed: 135
+     [Flamigo] + 12: for fast kill
+     [Flamigo] final Switch score: 12
+==============================
+     [Clodsire] using Poison Jab vs Chimecho does a max of 177/64 damage
+     Chimecho (0)'s best move: Extrasensory for 132/232 damage
+==============================
+     Chimecho (0) speed (113) vs Clodsire speed: 40
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (12)
+"Tuber Jared sent out Flamigo!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): 0
+Set up score for Flamigo (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): -1
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Chimecho (0)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Heracross lost 77 HP (172 -> 95)
+"It's not very effective..."
+[Stat change] The opposing Flamigo's Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (0 -> -1)
+"The opposing Flamigo's Special Defense fell!"
+
+[End of round 5]
+[HP change] Heracross lost 10 HP (95 -> 85)
+"Heracross was hurt by its burn!"
+[HP change] Heracross gained 43 HP (85 -> 128)
+"Heracross restored its health using its Sitrus Berry!"
+[Item consumed] Heracross consumed its held Sitrus Berry
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+Set up score for Flamigo (1): -2
+     [Switch AI] +2 Reset lowered stats
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Heracross (0)...
+     Flamigo (1)'s highest damaging move vs Heracross: Close Combat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 5
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Heracross (0)
+
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Heracross lost 82 HP (128 -> 46)
+"It's not very effective..."
+[Stat change] The opposing Flamigo's Defense changed by -1 (-1 -> -2)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (-1 -> -2)
+"The opposing Flamigo's Special Defense fell!"
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Flamigo lost 57 HP (175 -> 118)
+[HP change] The opposing Flamigo lost 61 HP (118 -> 57)
+"Hit 2 times!"
+
+[End of round 6]
+[HP change] Heracross lost 10 HP (46 -> 36)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): -4
+Set up score for Flamigo (1): -4
+Set up score for Flamigo (1): -4
+Set up score for Flamigo (1): -4
+     [Switch AI] +4 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-13) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Heracross (0)...
+     Flamigo (1)'s highest damaging move vs Heracross: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] The opposing Flamigo (1), Heracross (0)
+
+"Good job, Heracross! Come back!"
+"Just a little more! Hang in there, Chimecho!"
+[Use move] The opposing Flamigo (1) used Close Combat
+"The opposing Flamigo used Close Combat!"
+[HP change] Chimecho lost 45 HP (64 -> 19)
+"It's not very effective..."
+[Stat change] The opposing Flamigo's Defense changed by -1 (-2 -> -3)
+"The opposing Flamigo's Defense fell!"
+[Stat change] The opposing Flamigo's Special Defense changed by -1 (-2 -> -3)
+"The opposing Flamigo's Special Defense fell!"
+
+[End of round 7]
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Flamigo (1): -6
+Set up score for Flamigo (1): -6
+Set up score for Flamigo (1): -6
+Set up score for Flamigo (1): -6
+     [Switch AI] +6 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-11) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Flamigo (1) is considering using Close Combat (1) against Chimecho (0)...
+     Flamigo (1)'s highest damaging move vs Chimecho: Close Combat
+      + 20 for fast kill
+[AI] Move choices for Flamigo (1):
+   * 100.0% to use Close Combat (target 0): score 21
+   => will use Close Combat (target 0)
+
+[Round order] Chimecho (0), the opposing Flamigo (1)
+
+[Use move] Chimecho (0) used Mach Pulse
+"Chimecho used Mach Pulse!"
+[HP change] The opposing Flamigo lost 57 HP (57 -> 0)
+"The opposing Flamigo fainted!"
+"Heracross got 1 Exp. Points!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Clodsire] using Poison Jab vs Chimecho does a max of 120/19 damage
+     Chimecho (0)'s best move: Extrasensory for 132/232 damage
+==============================
+     Chimecho (0) speed (113) vs Clodsire speed: 40
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+[AI] Highest move score (18) vs Switch In Score (9)
+"Tuber Jared sent out Clodsire!"
+
+===== Round 9 =====
+
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Chimecho: Poison Jab
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Chimecho (0)...
+     Clodsire (1)'s highest damaging move vs Chimecho: Poison Jab
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Chimecho (0)...
+     Clodsire (1)'s highest damaging move vs Chimecho: Poison Jab
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Poison Jab (target 0): score 18
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Chimecho (0), the opposing Clodsire (1)
+
+"Good job, Chimecho! Come back!"
+"You're in charge, Archeops!"
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Archeops lost 31 HP (175 -> 144)
+"It's not very effective..."
+"Archeops was poisoned!"
+
+[End of round 9]
+[HP change] Archeops lost 21 HP (144 -> 123)
+"Archeops was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Poison Jab (target 0): score 5
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Jab (target 0)
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used Acrobatics
+"Archeops used Acrobatics!"
+[HP change] The opposing Clodsire lost 160 HP (232 -> 72)
+[Use move] The opposing Clodsire (1) used Poison Jab
+"The opposing Clodsire used Poison Jab!"
+[HP change] Archeops lost 31 HP (123 -> 92)
+"It's not very effective..."
+
+[End of round 10]
+[HP change] The opposing Clodsire gained 14 HP (72 -> 86)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+[HP change] Archeops lost 21 HP (92 -> 71)
+"Archeops was hurt by poison!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Jab (1) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Clodsire (1) is considering using Yawn (4) against Archeops (0)...
+     Clodsire (1)'s highest damaging move vs Archeops: Poison Jab
+     move will not affect Archeops (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Recover: score 7
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Recover
+
+[Round order] Archeops (0), the opposing Clodsire (1)
+
+[Use move] Archeops (0) used U-turn
+"Archeops used U-turn!"
+[HP change] The opposing Clodsire lost 18 HP (86 -> 68)
+"It's not very effective..."
+"Archeops went back to Tyler!"
+"Just a little more! Hang in there, Sandslash!"
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire used Recover!"
+[HP change] The opposing Clodsire gained 116 HP (68 -> 184)
+"The opposing Clodsire's HP was restored."
+
+[End of round 11]
+[HP change] The opposing Clodsire gained 14 HP (184 -> 198)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Sandslash: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Sandslash (0)...
+     Clodsire (1)'s highest damaging move vs Sandslash: Earthquake
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Clodsire (1) is considering using Yawn (4) against Sandslash (0)...
+     Clodsire (1)'s highest damaging move vs Sandslash: Earthquake
+     - 3 because this will be pointless
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Recover: score 7
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Recover
+
+[Round order] Sandslash (0), the opposing Clodsire (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Clodsire lost 163 HP (198 -> 35)
+"It's super effective!"
+[Use move] The opposing Clodsire (1) used Recover
+"The opposing Clodsire flinched and couldn't move!"
+
+[End of round 12]
+[HP change] The opposing Clodsire gained 14 HP (35 -> 49)
+"The opposing Clodsire restored a little HP using its Black Sludge!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Sandslash (0): 0
+     Threat Score for Sandslash (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Earthquake (1)...
+     Clodsire (1)'s highest damaging move vs Sandslash: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Jab (1) against Sandslash (0)...
+     Clodsire (1)'s highest damaging move vs Sandslash: Earthquake
+     move will not affect Sandslash (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Recover (4)...
+     + 3 because we will heal more than the damage taken
+[AI] Clodsire (1) is considering using Yawn (4) against Sandslash (0)...
+     Clodsire (1)'s highest damaging move vs Sandslash: Earthquake
+     - 3 because this will be pointless
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Poison Jab (target 0): score 0
+   * 100.0% to use Recover: score 7
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Recover
+
+[Round order] Sandslash (0), the opposing Clodsire (1)
+
+[Use move] Sandslash (0) used Icicle Crash
+"Sandslash used Icicle Crash!"
+[HP change] The opposing Clodsire lost 49 HP (49 -> 0)
+"It's super effective!"
+"The opposing Clodsire fainted!"
+
+===== Player won =====
+
+"You defeated Tuber Jared!"
+"Wow. You're great!"
+
+"You got $228 for winning!"
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Rotom (0)
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+     Rotom (0) speed (117) vs Skeledirge speed: 102
+     [Skeledirge] +  9: for slow kill
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 34/213 damage
+==============================
+     Chesnaught (2) speed (91) vs Skeledirge speed: 102
+     [Skeledirge] + 12: for fast kill
+     [Skeledirge] final Switch score: 21
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 44/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 63/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================
+     Rotom (0) speed (117) vs Primarina speed: 95
+     [Primarina] +  9: for slow kill
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 44/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 63/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 174/184 damage
+==============================
+     Chesnaught (2) speed (91) vs Primarina speed: 95
+     [Primarina] + 12: for fast kill
+     [Primarina] final Switch score: 21
+[AI] Highest move score (8) vs Switch In Score (21)
+"Pokémon Breeder Albert sent out Skeledirge!"
+
+===== Round 2 =====
+
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Rotom (0)
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+     Rotom (0) speed (117) vs Skeledirge speed: 102
+     [Skeledirge] +  9: for slow kill
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 34/213 damage
+==============================
+     Chesnaught (2) speed (91) vs Skeledirge speed: 102
+     [Skeledirge] + 12: for fast kill
+     [Skeledirge] final Switch score: 21
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 44/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 63/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================
+     Rotom (0) speed (117) vs Primarina speed: 95
+     [Primarina] +  9: for slow kill
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 44/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 63/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 174/184 damage
+==============================
+     Chesnaught (2) speed (91) vs Primarina speed: 95
+     [Primarina] + 12: for fast kill
+     [Primarina] final Switch score: 21
+[AI] Highest move score (8) vs Switch In Score (21)
+"Pokémon Breeder Albert sent out Skeledirge!"
+
+===== Round 2 =====
+
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Rotom (0)
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+
+**Exception: undefined method `>' for nil:NilClass
+[Phantombass AI] 02_AI_Switching.rb:234:in `block in rate_replacement_pokemon'
+008_AI_Utilities.rb:19:in `block in each_foe_battler'
+008_AI_Utilities.rb:17:in `each'
+008_AI_Utilities.rb:17:in `each_with_index'
+008_AI_Utilities.rb:17:in `each_foe_battler'
+[Phantombass AI] 02_AI_Switching.rb:203:in `rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:125:in `block in choose_best_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each'
+[Phantombass AI] 02_AI_Switching.rb:124:in `each_with_index'
+[Phantombass AI] 02_AI_Switching.rb:124:in `choose_best_replacement_pokemon'
+001_Battle_AI.rb:77:in `pbDefaultChooseNewEnemy'
+005_Battle_ActionSwitching.rb:139:in `pbSwitchInBetween'
+005_Battle_ActionSwitching.rb:163:in `block (2 levels) in pbEORSwitch'
+005_Battle_ActionSwitching.rb:157:in `each'
+005_Battle_ActionSwitching.rb:157:in `block in pbEORSwitch'
+005_Battle_ActionSwitching.rb:155:in `loop'
+005_Battle_ActionSwitching.rb:155:in `pbEORSwitch'
+011_Battle_EndOfRoundPhase.rb:729:in `pbEndOfRoundPhase'
+006_Battle_Clauses.rb:41:in `pbEndOfRoundPhase'
+[Generation 9 Pack] [001] Battle.rb:197:in `pbEndOfRoundPhase'
+[Deluxe Battle Kit] [001] Midbattle Overwrites.rb:459:in `pbEndOfRoundPhase'
+002_Battle_StartAndEnd.rb:350:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:350:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:332:in `loop'
+002_Battle_StartAndEnd.rb:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:99:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:277:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:519:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:519:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:126:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:518:in `start_core'
+001_Overworld_BattleStarting.rb:480:in `start'
+[Custom Scripts] 01_Dialogue_Data.rb:1430:in `block in <main>'
+[Custom Scripts] 01_Dialogue.rb:120:in `block in call'
+[Custom Scripts] 01_Dialogue.rb:91:in `each'
+[Custom Scripts] 01_Dialogue.rb:91:in `call'
+(eval):3:in `execute_script'
+003_Interpreter.rb:138:in `eval'
+003_Interpreter.rb:138:in `execute_script'
+004_Interpreter_Commands.rb:1177:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:130:in `block in update'
+003_Interpreter.rb:86:in `loop'
+003_Interpreter.rb:86:in `update'
+002_Scene_Map.rb:163:in `block in update'
+002_Scene_Map.rb:162:in `loop'
+002_Scene_Map.rb:162:in `update'
+002_Scene_Map.rb:234:in `block in main'
+002_Scene_Map.rb:231:in `loop'
+002_Scene_Map.rb:231:in `main'
+999_Main.rb:45:in `mainFunctionDebug'
+999_Main.rb:22:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:22:in `mainFunction'
+999_Main.rb:58:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:57:in `loop'
+999_Main.rb:57:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+
+===== Round 2 =====
+
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Rotom (0)
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+     Rotom (0) speed (117) vs Skeledirge speed: 102
+     [Skeledirge] +  3: for outdamage
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 34/213 damage
+==============================
+     Chesnaught (2) speed (91) vs Skeledirge speed: 102
+     [Skeledirge] + 12: for fast kill
+     [Skeledirge] final Switch score: 15
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 44/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 63/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================
+     Rotom (0) speed (117) vs Primarina speed: 95
+     [Primarina] +  3: for outdamage
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 44/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 63/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 174/184 damage
+==============================
+     Chesnaught (2) speed (91) vs Primarina speed: 95
+     [Primarina] + 12: for fast kill
+     [Primarina] final Switch score: 15
+[AI] Highest move score (8) vs Switch In Score (15)
+"Pokémon Breeder Albert sent out Skeledirge!"
+
+===== Round 2 =====
+
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     move will not affect Rotom (0)
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Head Smash calculated type: ROCK
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+     move will not affect Rotom (0)
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Charizard's Heat Wave calculated type: FIRE
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Charizard's Earth Power calculated type: GROUND
+[AI] Charizard's Hidden Power calculated type: GRASS
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Hidden Power calculated type: GRASS
+[AI] Charizard's Heat Wave calculated type: FIRE
+[AI] Charizard's Air Slash calculated type: FLYING
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+     move will not affect Rotom (0)
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Torterra's Headlong Rush calculated type: GROUND
+[AI] Torterra's Wood Hammer calculated type: GRASS
+[AI] Torterra's Head Smash calculated type: ROCK
+[AI] Skeledirge's Heat Wave calculated type: FIRE
+[AI] Skeledirge's Shadow Ball calculated type: GHOST
+[AI] Skeledirge's Snarl calculated type: DARK
+[AI] Skeledirge's Heat Wave calculated type: FIRE
+[AI] Skeledirge's Shadow Ball calculated type: GHOST
+[AI] Skeledirge's Snarl calculated type: DARK
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+[AI] Rotom's Shadow Ball calculated type: GHOST
+     Rotom (0) speed (117) vs Skeledirge speed: 102
+     [Skeledirge] +  3: for outdamage
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 34/213 damage
+==============================
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+     Chesnaught (2) speed (91) vs Skeledirge speed: 102
+     [Skeledirge] + 12: for fast kill
+     [Skeledirge] final Switch score: 15
+[AI] Primarina's Hyper Voice calculated type: NORMAL
+[AI] Primarina's Dazzling Gleam calculated type: FAIRY
+[AI] Primarina's Icy Wind calculated type: ICE
+[AI] Primarina's Energy Ball calculated type: GRASS
+[AI] Primarina's Hyper Voice calculated type: NORMAL
+[AI] Primarina's Dazzling Gleam calculated type: FAIRY
+[AI] Primarina's Icy Wind calculated type: ICE
+[AI] Primarina's Energy Ball calculated type: GRASS
+[AI] Rotom's Shadow Ball calculated type: GHOST
+[AI] Rotom's Discharge calculated type: ELECTRIC
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+[AI] Rotom's Overheat calculated type: FIRE
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 52/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 76/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================
+[AI] Rotom's Volt Switch calculated type: ELECTRIC
+     Rotom (0) speed (117) vs Primarina speed: 95
+     [Primarina] +  3: for outdamage
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+[AI] Chesnaught's Brick Break calculated type: FIGHTING
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 52/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 76/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 174/184 damage
+==============================
+[AI] Chesnaught's Needle Arm calculated type: GRASS
+     Chesnaught (2) speed (91) vs Primarina speed: 95
+     [Primarina] + 12: for fast kill
+     [Primarina] final Switch score: 15
+[AI] Highest move score (8) vs Switch In Score (15)
+"Pokémon Breeder Albert sent out Skeledirge!"
+
+===== Round 2 =====
+
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Rotom (0)
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+     Rotom (0) speed (117) vs Skeledirge speed: 102
+     [Skeledirge] +  3: for outdamage
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 34/213 damage
+==============================
+     Chesnaught (2) speed (91) vs Skeledirge speed: 102
+     [Skeledirge] + 12: for fast kill
+     [Skeledirge] final Switch score: 15
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 133/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 117/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 83/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 177/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 47/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 42/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 29/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 63/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================
+     Rotom (0) speed (117) vs Primarina speed: 95
+     [Primarina] +  9: for slow kill
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 133/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 117/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 83/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 177/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 47/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 42/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 29/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 63/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 174/184 damage
+==============================
+     Chesnaught (2) speed (91) vs Primarina speed: 95
+     [Primarina] +  5: for fast outdamage
+     [Primarina] final Switch score: 14
+[AI] Highest move score (9) vs Switch In Score (15)
+"Pokémon Breeder Albert sent out Skeledirge!"
+
+===== Round 2 =====
+
+Roles for CHARIZARD: [:SPECIALBREAKER]
+Roles for SWAMPERT: [:SPECIALBREAKER]
+Roles for DECIDUEYE: [:PHYSICALBREAKER]
+Roles for TORTERRA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SKELEDIRGE: [:SPECIALBREAKER]
+Roles for PRIMARINA: [:SPECIALBREAKER, :SPEEDCONTROL]
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+"You are challenged by Pokémon Breeder Albert and Pokémon Breeder Jennifer!"
+"Pokémon Breeder Albert sent out Torterra!
+Pokémon Breeder Jennifer sent out Charizard!"
+"Go! Rotom and Chesnaught!"
+[Round order] The opposing Charizard (3), Rotom (0), Chesnaught (2), the opposing Torterra (1)
+
+===== Round 1 =====
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): 3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Rotom (0) has been assigned No Priority flag
+     End flag assignment.
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Torterra (1) is considering using Headlong Rush (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Torterra (1) is considering using Headlong Rush (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Torterra (1) is considering using Wood Hammer (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+[AI] Torterra (1) is considering using Wood Hammer (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Head Smash (1) against Rotom (0)...
+     Torterra (1)'s highest damaging move vs Rotom: Head Smash
+     + 3 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Torterra (1) is considering using Head Smash (1) against Chesnaught (2)...
+     Torterra (1)'s highest damaging move vs Chesnaught: Headlong Rush
+     + 1 to factor in threat scoring.
+[AI] Torterra (1) is considering using Shell Smash (4)...
+[AI] Move choices for Torterra (1):
+   *   0.0% to use Headlong Rush (target 0): score 0
+   *  22.2% to use Headlong Rush (target 2): score 6
+   *   0.0% to use Wood Hammer (target 0): score 0
+   *   0.0% to use Wood Hammer (target 2): score 0
+   *  77.8% to use Head Smash (target 0): score 21
+   *   0.0% to use Head Smash (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Head Smash (target 0)
+
+     move will not affect Rotom (0)
+Set up score for Rotom (0): 0
+     Threat Score for Rotom (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Chesnaught (2): 0
+     Threat Score for Chesnaught (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Charizard (3) is considering using Heat Wave (1)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Charizard (3) is considering using Air Slash (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Charizard (3) is considering using Air Slash (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+      + 20 for fast kill
+[AI] Charizard (3) is considering using Earth Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+     move will not affect Rotom (0)
+     -  1: move will fail
+[AI] Charizard (3) is considering using Earth Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Rotom (0)...
+     Charizard (3)'s highest damaging move vs Rotom: Air Slash
+[AI] Charizard (3) is considering using Hidden Power (1) against Chesnaught (2)...
+     Charizard (3)'s highest damaging move vs Chesnaught: Air Slash
+[AI] Move choices for Charizard (3):
+   *   0.0% to use Heat Wave: score 0
+   *   0.0% to use Air Slash (target 0): score 0
+   * 100.0% to use Air Slash (target 2): score 21
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Earth Power (target 2): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Hidden Power (target 2): score 0
+   => will use Air Slash (target 2)
+
+[Round order] Chesnaught (2), the opposing Charizard (3), Rotom (0), the opposing Torterra (1)
+
+[Use move] Chesnaught (2) used Spiky Shield
+"Chesnaught used Spiky Shield!"
+"Chesnaught protected itself!"
+[Use move] The opposing Charizard (3) used Air Slash
+"The opposing Charizard used Air Slash!"
+"Chesnaught protected itself!"
+[Use move] Rotom (0) used Overheat
+"Rotom used Overheat!"
+[HP change] The opposing Torterra lost 199 HP (199 -> 0)
+"It's super effective!"
+[Stat change] Rotom's Special Attack changed by -2 (0 -> -2)
+"Rotom's Special Attack harshly fell!"
+"The opposing Torterra fainted!"
+
+[End of round 1]
+Trick Room Turns: 0
+     move will not affect Rotom (0)
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================
+     Rotom (0) speed (117) vs Skeledirge speed: 102
+     [Skeledirge] +  3: for outdamage
+==============================
+     [Skeledirge] using Heat Wave vs Rotom does a max of 31/140 damage
+     [Skeledirge] using Shadow Ball vs Rotom does a max of 70/140 damage
+     [Skeledirge] using Snarl vs Rotom does a max of 25/140 damage
+     [Skeledirge] using Heat Wave vs Chesnaught does a max of 178/140 damage
+     [Skeledirge] using Shadow Ball vs Chesnaught does a max of 100/140 damage
+     [Skeledirge] using Snarl vs Chesnaught does a max of 18/140 damage
+     Rotom (0)'s best move: Shadow Ball for 60/213 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 34/213 damage
+==============================
+     Chesnaught (2) speed (91) vs Skeledirge speed: 102
+     [Skeledirge] + 12: for fast kill
+     [Skeledirge] final Switch score: 15
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 133/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 47/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================
+     Rotom (0) speed (117) vs Primarina speed: 95
+     [Primarina] +  3: for outdamage
+==============================
+     [Primarina] using Hyper Voice vs Rotom does a max of 133/140 damage
+     [Primarina] using Dazzling Gleam vs Rotom does a max of 29/140 damage
+     [Primarina] using Icy Wind vs Rotom does a max of 14/140 damage
+     [Primarina] using Energy Ball vs Rotom does a max of 29/140 damage
+     [Primarina] using Hyper Voice vs Chesnaught does a max of 47/140 damage
+     [Primarina] using Dazzling Gleam vs Chesnaught does a max of 169/140 damage
+     [Primarina] using Icy Wind vs Chesnaught does a max of 78/140 damage
+     [Primarina] using Energy Ball vs Chesnaught does a max of 42/140 damage
+     Rotom (0)'s best move: Volt Switch for 66/184 damage
+==============================     Chesnaught (2)'s best move: Needle Arm for 174/184 damage
+==============================
+     Chesnaught (2) speed (91) vs Primarina speed: 95
+     [Primarina] + 12: for fast kill
+     [Primarina] final Switch score: 15
+[AI] Highest move score (8) vs Switch In Score (15)
+"Pokémon Breeder Albert sent out Skeledirge!"
+
+===== Round 2 =====
+
