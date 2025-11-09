@@ -448,12 +448,11 @@ class Battle::Scene
   # Called whenever a Pokémon should forget a move. It should return -1 if the
   # selection is canceled, or 0 to 3 to indicate the move to forget. It should
   # not allow HM moves to be forgotten.
-  def pbForgetMove(pkmn, moveToLearn)
+  def pbForgetMove(pkmn, move_to_learn)
     ret = -1
-    pbFadeOutIn do
-      scene = PokemonSummary_Scene.new
-      screen = PokemonSummaryScreen.new(scene)
-      ret = screen.pbStartForgetScreen([pkmn], 0, moveToLearn)
+    pbFadeOutInWithUpdate(@sprites) do
+      summary_screen = UI::PokemonSummary.new([pkmn], 0, mode: :choose_move, new_move: move_to_learn)
+      ret = summary_screen.choose_move
     end
     return ret
   end
