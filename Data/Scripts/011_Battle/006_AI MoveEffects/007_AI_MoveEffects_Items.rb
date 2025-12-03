@@ -337,7 +337,7 @@ Battle::AI::Handlers::MoveFailureCheck.add("ThrowUserItemAtTarget",
 )
 Battle::AI::Handlers::MoveBasePower.add("ThrowUserItemAtTarget",
   proc { |power, move, user, target, ai, battle|
-    next move.pbBaseDamage(power, user.battler, target.battler)
+    next move.pbBaseDamage(power, user, target)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("ThrowUserItemAtTarget",

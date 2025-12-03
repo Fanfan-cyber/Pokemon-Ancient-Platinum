@@ -430552,3 +430552,2023 @@ Set up score for Heracross (0): 0
 "Wow. You're great!"
 
 "You got $228 for winning!"
+Roles for ARAQUANID: [:LEAD, :TOXICSTALLER, :WEATHERTERRAIN]
+Roles for LANTURN: [:SPECIALBREAKER]
+Roles for QUAGSIRE: [:PHYSICALBREAKER, :TANK]
+Roles for LUVDISC: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tuber Kylie!"
+"Tuber Kylie sent out Araquanid!"
+"Go! Heracross!"
+[Round order] Heracross (0), the opposing Araquanid (1)
+
+===== Round 1 =====
+
+     move will not affect Heracross (0)
+     [Switch AI] +2 Target has fast kill
+Set up score for Araquanid (1): 0
+Set up score for Araquanid (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Araquanid (1) is considering using Liquidation (1) against Heracross (0)...
+     Araquanid (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Araquanid (1) is considering using Sticky Web (4)...
+     - 3 because this will be pointless
+[AI] Araquanid (1) is considering using Toxic (4) against Heracross (0)...
+     Araquanid (1)'s highest damaging move vs Heracross: Liquidation
+     move will not affect Heracross (0)
+     -  4: move will fail
+[AI] Araquanid (1) is considering using Rain Dance (4)...
+[AI] Move choices for Araquanid (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Sticky Web: score 0
+   *   0.0% to use Toxic (target 0): score 0
+   *   0.0% to use Rain Dance: score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Araquanid (1)
+
+[Use move] Heracross (0) used Rock Blast
+"Heracross used Rock Blast!"
+[HP change] The opposing Araquanid lost 46 HP (159 -> 113)
+[HP change] The opposing Araquanid lost 51 HP (113 -> 62)
+[HP change] The opposing Araquanid lost 52 HP (62 -> 10)
+[HP change] The opposing Araquanid lost 10 HP (10 -> 0)
+"A critical hit!"
+"The opposing Araquanid fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (172 -> 162)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Heracross (0)
+==============================
+     [Lanturn] using Scald vs Heracross does a max of 54/162 damage
+     [Lanturn] using Thunder vs Heracross does a max of 73/162 damage
+     [Lanturn] using Ice Beam vs Heracross does a max of 40/162 damage
+     [Lanturn] using Signal Beam vs Heracross does a max of 17/162 damage
+     Heracross (0)'s best move: Bullet Seed for 292/227 damage
+==============================
+     Heracross (0) speed (123) vs Lanturn speed: 99
+[AI] =====> Flags assigned to Lanturn:
+==========> target_fast_kill: true
+
+     [Lanturn] -  9: for target fast kill
+     [Lanturn] final Switch score: -9
+==============================
+     [Quagsire] using Liquidation vs Heracross does a max of 73/162 damage
+     [Quagsire] using Earthquake vs Heracross does a max of 43/162 damage
+     [Quagsire] using Avalanche vs Heracross does a max of 35/162 damage
+     Heracross (0)'s best move: Bullet Seed for 218/192 damage
+==============================
+     Heracross (0) speed (123) vs Quagsire speed: 62
+[AI] =====> Flags assigned to Quagsire:
+==========> target_fast_kill: true
+
+     [Quagsire] -  9: for target fast kill
+     [Quagsire] final Switch score: -9
+==============================
+     [Luvdisc] using Hydro Pump vs Heracross does a max of 160/162 damage
+     [Luvdisc] using Moonblast vs Heracross does a max of 277/162 damage
+     [Luvdisc] using Ice Beam vs Heracross does a max of 87/162 damage
+     [Luvdisc] using Hidden Power vs Heracross does a max of 29/162 damage
+     Heracross (0)'s best move: Bullet Seed for 304/156 damage
+==============================
+     Heracross (0) speed (123) vs Luvdisc speed: 133
+[AI] =====> Flags assigned to Luvdisc:
+==========> fast_kill: true
+
+     [Luvdisc] + 12: for fast kill
+     [Luvdisc] final Switch score: 12
+"Tuber Kylie sent out Luvdisc!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+[AI] Luvdisc (1) is considering using Moonblast (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Heracross (0)...
+     Luvdisc (1)'s highest damaging move vs Heracross: Moonblast
+[AI] Move choices for Luvdisc (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   * 100.0% to use Moonblast (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Moonblast (target 0)
+
+[Round order] The opposing Luvdisc (1), Heracross (0)
+
+"Heracross, come back!"
+"You're in charge, Empoleon!"
+[Use move] The opposing Luvdisc (1) used Moonblast
+"The opposing Luvdisc used Moonblast!"
+[HP change] Empoleon lost 53 HP (186 -> 133)
+"It's not very effective..."
+[Stat change] Empoleon's Special Attack changed by -1 (0 -> -1)
+"Empoleon's Special Attack fell!"
+[Item triggered] The opposing Luvdisc's Life Orb (recoil)
+[HP change] The opposing Luvdisc lost 15 HP (156 -> 141)
+"The opposing Luvdisc lost some of its HP!"
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+[AI] Luvdisc (1) is considering using Moonblast (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Luvdisc (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   *   0.0% to use Moonblast (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Luvdisc (1), Empoleon (0)
+
+[Use move] The opposing Luvdisc (1) used Hidden Power
+"The opposing Luvdisc used Hidden Power!"
+[HP change] Empoleon lost 84 HP (133 -> 49)
+"It's super effective!"
+[Item triggered] The opposing Luvdisc's Life Orb (recoil)
+[HP change] The opposing Luvdisc lost 15 HP (141 -> 126)
+"The opposing Luvdisc lost some of its HP!"
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Luvdisc lost 57 HP (126 -> 69)
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+     [Switch AI] +5 Party member [Quagsire] is immune to strongest move against Luvdisc (1)
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-12) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Moonblast (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+      + 20 for fast kill
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Empoleon (0)...
+     Luvdisc (1)'s highest damaging move vs Empoleon: Hidden Power
+      + 20 for fast kill
+[AI] Move choices for Luvdisc (1):
+   *  33.3% to use Hydro Pump (target 0): score 21
+   *  33.3% to use Moonblast (target 0): score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  33.3% to use Hidden Power (target 0): score 21
+   => will use Hidden Power (target 0)
+
+[Round order] The opposing Luvdisc (1), Empoleon (0)
+
+"OK, Empoleon! Come back!"
+"Just a little more! Hang in there, Chimecho!"
+[Use move] The opposing Luvdisc (1) used Hidden Power
+"The opposing Luvdisc used Hidden Power!"
+[Ability triggered] Chimecho's Levitate
+"Chimecho avoided the attack!"
+
+[End of round 4]
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     move will not affect Chimecho (0)
+Set up score for Luvdisc (1): 0
+Set up score for Luvdisc (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Luvdisc (1) is considering using Hydro Pump (1) against Chimecho (0)...
+     Luvdisc (1)'s highest damaging move vs Chimecho: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Luvdisc (1) is considering using Moonblast (1) against Chimecho (0)...
+     Luvdisc (1)'s highest damaging move vs Chimecho: Hydro Pump
+[AI] Luvdisc (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Luvdisc (1)'s highest damaging move vs Chimecho: Hydro Pump
+[AI] Luvdisc (1) is considering using Hidden Power (1) against Chimecho (0)...
+     Luvdisc (1)'s highest damaging move vs Chimecho: Hydro Pump
+     move will not affect Chimecho (0)
+     -  1: move will fail
+[AI] Move choices for Luvdisc (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   *   0.0% to use Moonblast (target 0): score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Luvdisc (1), Chimecho (0)
+
+[Use move] The opposing Luvdisc (1) used Hydro Pump
+"The opposing Luvdisc used Hydro Pump!"
+[HP change] Chimecho lost 125 HP (182 -> 57)
+[Item triggered] The opposing Luvdisc's Life Orb (recoil)
+[HP change] The opposing Luvdisc lost 15 HP (69 -> 54)
+"The opposing Luvdisc lost some of its HP!"
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Luvdisc lost 54 HP (54 -> 0)
+"The opposing Luvdisc fainted!"
+
+[End of round 5]
+Trick Room Turns: 0
+     move will not affect Chimecho (0)
+==============================
+     [Lanturn] using Scald vs Chimecho does a max of 58/57 damage
+     [Lanturn] using Thunder vs Chimecho does a max of 79/57 damage
+     [Lanturn] using Ice Beam vs Chimecho does a max of 43/57 damage
+     [Lanturn] using Signal Beam vs Chimecho does a max of 36/57 damage
+     Chimecho (0)'s best move: Moonblast for 105/227 damage
+==============================
+     Chimecho (0) speed (113) vs Lanturn speed: 99
+[AI] =====> Flags assigned to Lanturn:
+==========> slow_kill: true
+
+     [Lanturn] +  9: for slow kill
+     [Lanturn] final Switch score: 9
+==============================
+     [Quagsire] using Liquidation vs Chimecho does a max of 75/57 damage
+     [Quagsire] using Avalanche vs Chimecho does a max of 36/57 damage
+     Chimecho (0)'s best move: Moonblast for 120/192 damage
+==============================
+     Chimecho (0) speed (113) vs Quagsire speed: 62
+[AI] =====> Flags assigned to Quagsire:
+==========> slow_kill: true
+
+     [Quagsire] +  9: for slow kill
+     [Quagsire] final Switch score: 9
+"Tuber Kylie sent out Lanturn!"
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Lanturn (1): 0
+Set up score for Lanturn (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lanturn (1) is considering using Scald (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+[AI] Lanturn (1) is considering using Thunder (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+      + 17 for slow kill
+[AI] Lanturn (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+[AI] Lanturn (1) is considering using Signal Beam (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+[AI] Move choices for Lanturn (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Thunder (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Signal Beam (target 0): score 0
+   => will use Thunder (target 0)
+
+[Round order] Chimecho (0), the opposing Lanturn (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 91 HP (57 -> 148)
+"Chimecho's HP was restored."
+[Use move] The opposing Lanturn (1) used Thunder
+"The opposing Lanturn used Thunder!"
+[HP change] Chimecho lost 70 HP (148 -> 78)
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Lanturn (1): 0
+Set up score for Lanturn (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lanturn (1) is considering using Scald (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+[AI] Lanturn (1) is considering using Thunder (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+     + 4 to prioritize highest damaging move
+[AI] Lanturn (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+[AI] Lanturn (1) is considering using Signal Beam (1) against Chimecho (0)...
+     Lanturn (1)'s highest damaging move vs Chimecho: Thunder
+[AI] Move choices for Lanturn (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Thunder (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Signal Beam (target 0): score 0
+   => will use Thunder (target 0)
+
+[Round order] Chimecho (0), the opposing Lanturn (1)
+
+"OK, Chimecho! Come back!"
+"You're in charge, Heracross!"
+[Use move] The opposing Lanturn (1) used Thunder
+"The opposing Lanturn used Thunder!"
+[HP change] Heracross lost 72 HP (162 -> 90)
+
+[End of round 7]
+[HP change] Heracross lost 10 HP (90 -> 80)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 8 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Lanturn (1): 0
+Set up score for Lanturn (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lanturn (1) is considering using Scald (1) against Heracross (0)...
+     Lanturn (1)'s highest damaging move vs Heracross: Thunder
+[AI] Lanturn (1) is considering using Thunder (1) against Heracross (0)...
+     Lanturn (1)'s highest damaging move vs Heracross: Thunder
+     + 4 to prioritize highest damaging move
+[AI] Lanturn (1) is considering using Ice Beam (1) against Heracross (0)...
+     Lanturn (1)'s highest damaging move vs Heracross: Thunder
+[AI] Lanturn (1) is considering using Signal Beam (1) against Heracross (0)...
+     Lanturn (1)'s highest damaging move vs Heracross: Thunder
+[AI] Move choices for Lanturn (1):
+   *   0.0% to use Scald (target 0): score 0
+   * 100.0% to use Thunder (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Signal Beam (target 0): score 0
+   => will use Thunder (target 0)
+
+[Round order] Heracross (0), the opposing Lanturn (1)
+
+[Use move] Heracross (0) used Bullet Seed
+"Heracross used Bullet Seed!"
+[HP change] The opposing Lanturn lost 71 HP (227 -> 156)
+[HP change] The opposing Lanturn lost 71 HP (156 -> 85)
+[HP change] The opposing Lanturn lost 68 HP (85 -> 17)
+[HP change] The opposing Lanturn lost 17 HP (17 -> 0)
+"The opposing Lanturn fainted!"
+"It's super effective!"
+"Hit 4 times!"
+
+[End of round 8]
+[HP change] Heracross lost 10 HP (80 -> 70)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Quagsire] using Liquidation vs Heracross does a max of 73/70 damage
+     [Quagsire] using Earthquake vs Heracross does a max of 43/70 damage
+     [Quagsire] using Avalanche vs Heracross does a max of 35/70 damage
+     Heracross (0)'s best move: Bullet Seed for 218/192 damage
+==============================
+     Heracross (0) speed (123) vs Quagsire speed: 62
+[AI] =====> Flags assigned to Quagsire:
+==========> target_fast_kill: true
+
+     [Quagsire] -  9: for target fast kill
+     [Quagsire] final Switch score: -9
+"Tuber Kylie sent out Quagsire!"
+
+===== Round 9 =====
+
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Liquidation (1) against Heracross (0)...
+     Quagsire (1)'s highest damaging move vs Heracross: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Quagsire (1) is considering using Recover...
+     +  1: move will fail
+[AI] Quagsire (1) is considering using Avalanche (1) against Heracross (0)...
+     Quagsire (1)'s highest damaging move vs Heracross: Liquidation
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Recover: score 0
+   *   0.0% to use Avalanche (target 0): score 0
+   => will use Liquidation (target 0)
+
+[Round order] Heracross (0), the opposing Quagsire (1)
+
+[Use move] Heracross (0) used Bullet Seed
+"Heracross used Bullet Seed!"
+[HP change] The opposing Quagsire lost 48 HP (192 -> 144)
+"The Rindo Berry weakened the damage to the opposing Quagsire!"
+[Item consumed] The opposing Quagsire consumed its held Rindo Berry
+[HP change] The opposing Quagsire lost 109 HP (144 -> 35)
+[HP change] The opposing Quagsire lost 35 HP (35 -> 0)
+"The opposing Quagsire fainted!"
+"It's super effective!"
+"Hit 3 times!"
+
+===== Player won =====
+
+"You defeated Tuber Kylie!"
+"Wow. You're great!"
+
+"You got $228 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Taillow appeared!"
+"Go! Heracross!"
+[Round order] Heracross (0), the wild Taillow (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Taillow (1) is considering using Quick Attack (1) against Heracross (0)...
+     Taillow (1)'s highest damaging move vs Heracross: Wing Attack
+[AI] Taillow (1) is considering using Wing Attack (1) against Heracross (0)...
+     Taillow (1)'s highest damaging move vs Heracross: Wing Attack
+[AI] Taillow (1) is considering using Flash (1) against Heracross (0)...
+     Taillow (1)'s highest damaging move vs Heracross: Wing Attack
+[AI] Taillow (1) is considering using Aerial Ace (1) against Heracross (0)...
+     Taillow (1)'s highest damaging move vs Heracross: Wing Attack
+[AI] Move choices for Taillow (1):
+   *  20.0% to use Quick Attack (target 0): score 1
+   *  20.0% to use Wing Attack (target 0): score 1
+   *  20.0% to use Flash (target 0): score 1
+   *  20.0% to use Aerial Ace (target 0): score 1
+   *  20.0% to use Aerial Ace (target 0): score 1
+   => will use Wing Attack (target 0)
+
+[Round order] Heracross (0), the wild Taillow (1)
+
+"Tyler threw a Quick Ball!"
+[Threw Poké Ball] Quick Ball, 4 shakes (4=capture)
+"Gotcha! Taillow was caught!"
+
+===== Pokémon caught =====
+
+"Taillow's data was added to the Pokédex."
+"Taillow has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Staravia appeared!"
+"Go! Heracross!"
+[Round order] Heracross (0), the wild Staravia (1)
+[Ability triggered] The wild Staravia's Intimidate
+[Stat change] Heracross's Attack changed by -1 (0 -> -1)
+"Heracross's Attack fell!"
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Heracross!"
+[Round order] The opposing Jolteon (1), Heracross (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Hidden Power (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Alluring Voice (target 0)
+
+[Round order] The opposing Jolteon (1), Heracross (0)
+
+[Use move] The opposing Jolteon (1) used Alluring Voice
+"The opposing Jolteon used Alluring Voice!"
+[HP change] Heracross lost 87 HP (172 -> 85)
+"It's super effective!"
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Jolteon lost 55 HP (156 -> 101)
+[HP change] The opposing Jolteon lost 53 HP (101 -> 48)
+[HP change] The opposing Jolteon lost 48 HP (48 -> 0)
+"The opposing Jolteon fainted!"
+"Hit 3 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (85 -> 75)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Heracross does a max of 87/75 damage
+     [Vaporeon] using Ice Beam vs Heracross does a max of 55/75 damage
+     [Vaporeon] using Flip Turn vs Heracross does a max of 42/75 damage
+     Heracross (0)'s best move: Bullet Seed for 284/232 damage
+==============================
+     Heracross (0) speed (123) vs Vaporeon speed: 96
+[AI] =====> Flags assigned to Vaporeon:
+==========> target_fast_kill: true
+
+     [Vaporeon] -  9: for target fast kill
+     [Vaporeon] final Switch score: -9
+==============================
+     [Leafeon] using Leaf Blade vs Heracross does a max of 53/75 damage
+     [Leafeon] using X-Scissor vs Heracross does a max of 26/75 damage
+     [Leafeon] using Quick Attack vs Heracross does a max of 27/75 damage
+     Heracross (0)'s best move: Pin Missile for 231/158 damage
+==============================
+     Heracross (0) speed (123) vs Leafeon speed: 143
+[AI] =====> Flags assigned to Leafeon:
+==========> target_slow_kill: true
+
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Heracross does a max of 85/75 damage
+     [Glaceon] using Earth Power vs Heracross does a max of 30/75 damage
+     [Glaceon] using Shadow Ball vs Heracross does a max of 55/75 damage
+     [Glaceon] using Alluring Voice vs Heracross does a max of 110/75 damage
+     Heracross (0)'s best move: Brick Break for 201/156 damage
+==============================
+     Heracross (0) speed (123) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> target_fast_kill: true
+
+     [Glaceon] -  9: for target fast kill
+     [Glaceon] final Switch score: -9
+==============================
+     [Espeon] using Psychic Noise vs Heracross does a max of 180/75 damage
+     [Espeon] using Dazzling Gleam vs Heracross does a max of 108/75 damage
+     [Espeon] using Hidden Power vs Heracross does a max of 20/75 damage
+     Heracross (0)'s best move: Pin Missile for 420/161 damage
+==============================
+     Heracross (0) speed (123) vs Espeon speed: 165
+[AI] =====> Flags assigned to Espeon:
+==========> fast_kill: true
+
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Heracross does a max of 65/75 damage
+     [Sylveon] using Psyshock vs Heracross does a max of 116/75 damage
+     [Sylveon] using Mystical Fire vs Heracross does a max of 92/75 damage
+     [Sylveon] using Shadow Ball vs Heracross does a max of 49/75 damage
+     Heracross (0)'s best move: Rock Blast for 134/192 damage
+==============================
+     Heracross (0) speed (123) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> slow_kill: true
+
+     [Sylveon] +  9: for slow kill
+     [Sylveon] final Switch score: 9
+"Collector Douglas sent out Espeon!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Heracross (0)...
+     Espeon (1)'s highest damaging move vs Heracross: Psychic Noise
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Heracross: Psychic Noise
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Heracross (0)...
+     Espeon (1)'s highest damaging move vs Heracross: Psychic Noise
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *  50.0% to use Psychic Noise (target 0): score 21
+   *  50.0% to use Dazzling Gleam: score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic Noise (target 0)
+
+[Round order] The opposing Espeon (1), Heracross (0)
+
+"OK, Heracross! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Espeon (1) used Psychic Noise
+"The opposing Espeon used Psychic Noise!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 2]
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Obstagoon (0)
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 128 HP (161 -> 33)
+"It's super effective!"
+[Use move] The opposing Espeon (1) used Hidden Power
+"The opposing Espeon used Hidden Power!"
+[HP change] Obstagoon lost 175 HP (181 -> 6)
+"It's super effective!"
+
+[End of round 3]
+Trick Room Turns: 0
+
+===== Round 4 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *  50.0% to use Dazzling Gleam: score 21
+   *  50.0% to use Hidden Power (target 0): score 21
+   *   0.0% to use Calm Mind: score 0
+   => will use Dazzling Gleam
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 33 HP (33 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 4]
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Vaporeon] using Scald vs Obstagoon does a max of 97/6 damage
+     [Vaporeon] using Ice Beam vs Obstagoon does a max of 61/6 damage
+     [Vaporeon] using Flip Turn vs Obstagoon does a max of 36/6 damage
+     Obstagoon (0)'s best move: Double-Edge for 118/232 damage
+==============================
+     Obstagoon (0) speed (127) vs Vaporeon speed: 96
+[AI] =====> Flags assigned to Vaporeon:
+==========> slow_kill: true
+
+     [Vaporeon] +  9: for slow kill
+     [Vaporeon] final Switch score: 9
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 90/6 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 90/6 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 23/6 damage
+     Obstagoon (0)'s best move: Double-Edge for 64/158 damage
+==============================
+     Obstagoon (0) speed (127) vs Leafeon speed: 143
+[AI] =====> Flags assigned to Leafeon:
+==========> fast_kill: true
+
+     [Leafeon] + 12: for fast kill
+     [Leafeon] final Switch score: 12
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 96/6 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 68/6 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 122/6 damage
+     Obstagoon (0)'s best move: Double-Edge for 75/156 damage
+==============================
+     Obstagoon (0) speed (127) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> slow_kill: true
+
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 73/6 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 51/6 damage
+     Obstagoon (0)'s best move: Double-Edge for 112/192 damage
+==============================
+     Obstagoon (0) speed (127) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> slow_kill: true
+
+     [Sylveon] +  9: for slow kill
+     [Sylveon] final Switch score: 9
+"Collector Douglas sent out Leafeon!"
+
+===== Round 5 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: X-Scissor
+      + 20 for fast kill
+[AI] Leafeon (1) is considering using X-Scissor (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: X-Scissor
+      + 20 for fast kill
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: X-Scissor
+      + 20 for fast kill
+[AI] Move choices for Leafeon (1):
+   *  33.3% to use Leaf Blade (target 0): score 21
+   *  33.3% to use X-Scissor (target 0): score 21
+   *   0.0% to use Swords Dance: score 0
+   *  33.3% to use Quick Attack (target 0): score 21
+   => will use X-Scissor (target 0)
+
+[Round order] The opposing Leafeon (1), Obstagoon (0)
+
+"Good job, Obstagoon! Come back!"
+"You're in charge, Swellow!"
+[Use move] The opposing Leafeon (1) used X-Scissor
+"The opposing Leafeon used X-Scissor!"
+[HP change] Swellow lost 32 HP (152 -> 120)
+"It's not very effective..."
+
+[End of round 5]
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+[AI] Move choices for Leafeon (1):
+   * 100.0% to use Leaf Blade (target 0): score 5
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use Leaf Blade (target 0)
+
+[Round order] Swellow (0), the opposing Leafeon (1)
+
+[Use move] Swellow (0) used Brave Bird
+"Swellow used Brave Bird!"
+[HP change] The opposing Leafeon lost 125 HP (158 -> 33)
+"It's super effective!"
+[HP change] Swellow lost 42 HP (120 -> 78)
+"Swellow is damaged by recoil!"
+[Use move] The opposing Leafeon (1) used Leaf Blade
+"The opposing Leafeon used Leaf Blade!"
+[HP change] Swellow lost 65 HP (78 -> 13)
+"It's not very effective..."
+
+[End of round 6]
+Trick Room Turns: 0
+
+===== Round 7 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (27)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+      + 17 for slow kill
+[AI] Leafeon (1) is considering using X-Scissor (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+      + 17 for slow kill
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+     + 9 to get a last ditch hit off.
+      + 17 for slow kill
+[AI] Move choices for Leafeon (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   * 100.0% to use Quick Attack (target 0): score 27
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Leafeon (1), Swellow (0)
+
+[Use move] The opposing Leafeon (1) used Quick Attack
+"The opposing Leafeon used Quick Attack!"
+[HP change] Swellow lost 13 HP (13 -> 0)
+"Swellow fainted!"
+
+[End of round 7]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Chimecho!"
+
+===== Round 8 =====
+
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Chimecho (0)...
+     Leafeon (1)'s highest damaging move vs Chimecho: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Chimecho (0)...
+     Leafeon (1)'s highest damaging move vs Chimecho: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Chimecho (0)...
+     Leafeon (1)'s highest damaging move vs Chimecho: Leaf Blade
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Leafeon (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Leafeon (1), Chimecho (0)
+
+[Use move] The opposing Leafeon (1) used Quick Attack
+"The opposing Leafeon used Quick Attack!"
+[HP change] Chimecho lost 26 HP (182 -> 156)
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Leafeon lost 33 HP (33 -> 0)
+"The opposing Leafeon fainted!"
+
+[End of round 8]
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Chimecho does a max of 93/156 damage
+     [Vaporeon] using Ice Beam vs Chimecho does a max of 58/156 damage
+     [Vaporeon] using Flip Turn vs Chimecho does a max of 43/156 damage
+     Chimecho (0)'s best move: Moonblast for 88/232 damage
+==============================
+     Chimecho (0) speed (113) vs Vaporeon speed: 96
+[AI] =====> Flags assigned to Vaporeon:
+==========> outdamage: true
+
+     [Vaporeon] +  3: for outdamage
+     [Vaporeon] final Switch score: 3
+==============================
+     [Glaceon] using Freeze-Dry vs Chimecho does a max of 91/156 damage
+     [Glaceon] using Shadow Ball vs Chimecho does a max of 118/156 damage
+     [Glaceon] using Alluring Voice vs Chimecho does a max of 59/156 damage
+     Chimecho (0)'s best move: Moonblast for 90/156 damage
+==============================
+     Chimecho (0) speed (113) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> outdamage: true
+
+     [Glaceon] +  3: for outdamage
+     [Glaceon] final Switch score: 3
+==============================
+     [Sylveon] using Hyper Voice vs Chimecho does a max of 70/156 damage
+     [Sylveon] using Psyshock vs Chimecho does a max of 29/156 damage
+     [Sylveon] using Mystical Fire vs Chimecho does a max of 49/156 damage
+     [Sylveon] using Shadow Ball vs Chimecho does a max of 104/156 damage
+     Chimecho (0)'s best move: Moonblast for 69/192 damage
+==============================
+     Chimecho (0) speed (113) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> outdamage: true
+
+     [Sylveon] +  3: for outdamage
+     [Sylveon] final Switch score: 3
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 9 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Chimecho (0), the opposing Vaporeon (1)
+
+[Use move] Chimecho (0) used Moonblast
+"Chimecho used Moonblast!"
+[HP change] The opposing Vaporeon lost 80 HP (232 -> 152)
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Chimecho lost 87 HP (156 -> 69)
+
+[End of round 9]
+Trick Room Turns: 0
+
+===== Round 10 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+      + 17 for slow kill
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Chimecho (0), the opposing Vaporeon (1)
+
+[Use move] Chimecho (0) used Recover
+"Chimecho used Recover!"
+[HP change] Chimecho gained 91 HP (69 -> 160)
+"Chimecho's HP was restored."
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Chimecho lost 86 HP (160 -> 74)
+"Chimecho was burned!"
+
+[End of round 10]
+[HP change] Chimecho lost 11 HP (74 -> 63)
+"Chimecho was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 11 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+      + 17 for slow kill
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Chimecho (0), the opposing Vaporeon (1)
+
+"OK, Chimecho! Come back!"
+"Go for it, Empoleon!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Empoleon lost 43 HP (186 -> 143)
+"It's not very effective..."
+
+[End of round 11]
+Trick Room Turns: 0
+
+===== Round 12 =====
+
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Empoleon (0)...
+     Vaporeon (1)'s highest damaging move vs Empoleon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Vaporeon (1)'s highest damaging move vs Empoleon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Empoleon (0)...
+     Vaporeon (1)'s highest damaging move vs Empoleon: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] The opposing Vaporeon (1), Empoleon (0)
+
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Empoleon lost 42 HP (143 -> 101)
+"It's not very effective..."
+"Empoleon was burned!"
+[Use move] Empoleon (0) used Icy Wind
+"Empoleon used Icy Wind!"
+[HP change] The opposing Vaporeon lost 16 HP (152 -> 136)
+"It's not very effective..."
+[Stat change] The opposing Vaporeon's Speed changed by -1 (0 -> -1)
+"The opposing Vaporeon's Speed fell!"
+
+[End of round 12]
+[HP change] Empoleon lost 11 HP (101 -> 90)
+"Empoleon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 13 =====
+
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (1) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Empoleon (0)...
+     Vaporeon (1)'s highest damaging move vs Empoleon: Scald
+     + 4 to prioritize highest damaging move
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Empoleon (0)...
+     Vaporeon (1)'s highest damaging move vs Empoleon: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Empoleon (0)...
+     Vaporeon (1)'s highest damaging move vs Empoleon: Scald
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 5
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Empoleon (0), the opposing Vaporeon (1)
+
+"OK, Empoleon! Come back!"
+"Go for it, Heracross!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Heracross lost 75 HP (75 -> 0)
+"Heracross fainted!"
+
+[End of round 13]
+Trick Room Turns: 0
+"Go for it, Swellow!"
+"Go for it, Swellow!"
+"Go for it, Chimecho!"
+
+===== Round 14 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+     [Switch AI] +1 Reset lowered stats
+[AI] Switch out Score (-4) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Chimecho (0): 0
+     Threat Score for Chimecho (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+      + 17 for slow kill
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Chimecho (0)...
+     Vaporeon (1)'s highest damaging move vs Chimecho: Scald
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Chimecho (0), the opposing Vaporeon (1)
+
+[Use move] Chimecho (0) used Extrasensory
+"Chimecho used Extrasensory!"
+[HP change] The opposing Vaporeon lost 73 HP (136 -> 63)
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+[HP change] Chimecho lost 63 HP (63 -> 0)
+"Chimecho fainted!"
+
+[End of round 14]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Archeops!"
+
+===== Round 15 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+Set up score for Vaporeon (1): -1
+     [Switch AI] +1 Reset lowered stats
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-14) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Archeops (0)...
+     Vaporeon (1)'s highest damaging move vs Archeops: Scald
+      + 17 for slow kill
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Archeops (0)...
+     Vaporeon (1)'s highest damaging move vs Archeops: Scald
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Archeops (0)...
+     Vaporeon (1)'s highest damaging move vs Archeops: Scald
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Vaporeon (1):
+   * 100.0% to use Scald (target 0): score 18
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Archeops (0), the opposing Vaporeon (1)
+
+[Use move] Archeops (0) used Dual Wingbeat
+"Archeops used Dual Wingbeat!"
+[HP change] The opposing Vaporeon lost 59 HP (63 -> 4)
+[HP change] The opposing Vaporeon lost 4 HP (4 -> 0)
+"The opposing Vaporeon fainted!"
+"Hit 2 times!"
+
+[End of round 15]
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Glaceon] using Freeze-Dry vs Archeops does a max of 243/175 damage
+     [Glaceon] using Shadow Ball vs Archeops does a max of 77/175 damage
+     [Glaceon] using Alluring Voice vs Archeops does a max of 77/175 damage
+     Archeops (0)'s best move: Rock Slide for 150/156 damage
+==============================
+     Archeops (0) speed (153) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> slow_kill: true
+
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Archeops does a max of 46/175 damage
+     [Sylveon] using Psyshock vs Archeops does a max of 68/175 damage
+     [Sylveon] using Mystical Fire vs Archeops does a max of 32/175 damage
+     [Sylveon] using Shadow Ball vs Archeops does a max of 68/175 damage
+     Archeops (0)'s best move: Acrobatics for 163/192 damage
+==============================
+     Archeops (0) speed (153) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> target_fast_2hko: true
+
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+"Collector Douglas sent out Glaceon!"
+
+===== Round 16 =====
+
+     move will not affect Archeops (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Archeops (0): 0
+     Threat Score for Archeops (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Archeops (0)...
+     Glaceon (1)'s highest damaging move vs Archeops: Freeze-Dry
+      + 17 for slow kill
+[AI] Glaceon (1) is considering using Earth Power (1) against Archeops (0)...
+     Glaceon (1)'s highest damaging move vs Archeops: Freeze-Dry
+     move will not affect Archeops (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Archeops (0)...
+     Glaceon (1)'s highest damaging move vs Archeops: Freeze-Dry
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Archeops (0)...
+     Glaceon (1)'s highest damaging move vs Archeops: Freeze-Dry
+[AI] Move choices for Glaceon (1):
+   * 100.0% to use Freeze-Dry (target 0): score 18
+   *   0.0% to use Earth Power (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *   0.0% to use Alluring Voice (target 0): score 0
+   => will use Freeze-Dry (target 0)
+
+[Round order] Archeops (0), the opposing Glaceon (1)
+
+[Use move] Archeops (0) used Rock Slide
+"Archeops used Rock Slide!"
+[HP change] The opposing Glaceon lost 148 HP (156 -> 8)
+"It's super effective!"
+[Use move] The opposing Glaceon (1) used Freeze-Dry
+"The opposing Glaceon used Freeze-Dry!"
+[HP change] Archeops lost 175 HP (175 -> 0)
+"It's super effective!"
+"Archeops fainted!"
+
+[End of round 16]
+Trick Room Turns: 0
+"Your opponent's weak! Get 'em, Swellow!"
+"Your opponent's weak! Get 'em, Obstagoon!"
+
+===== Round 17 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -5 We have slow kill
+Set up score for Glaceon (1): 0
+Set up score for Glaceon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Glaceon (1) is considering using Freeze-Dry (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Glaceon (1) is considering using Earth Power (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Glaceon (1) is considering using Shadow Ball (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Glaceon (1) is considering using Alluring Voice (1) against Obstagoon (0)...
+     Glaceon (1)'s highest damaging move vs Obstagoon: Alluring Voice
+      + 17 for slow kill
+[AI] Move choices for Glaceon (1):
+   *  33.3% to use Freeze-Dry (target 0): score 18
+   *  33.3% to use Earth Power (target 0): score 18
+   *   0.0% to use Shadow Ball (target 0): score 0
+   *  33.3% to use Alluring Voice (target 0): score 18
+   => will use Freeze-Dry (target 0)
+
+[Round order] Obstagoon (0), the opposing Glaceon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Glaceon lost 8 HP (8 -> 0)
+[Ability triggered] The opposing Glaceon's Ice Body
+"Obstagoon was frostbitten!"
+"The opposing Glaceon fainted!"
+
+[End of round 17]
+[HP change] Obstagoon lost 6 HP (6 -> 0)
+"Obstagoon was hurt by its frostbite!"
+"Obstagoon fainted!"
+Trick Room Turns: 0
+"You're in charge, Empoleon!"
+==============================
+     [Sylveon] using Hyper Voice vs Empoleon does a max of 34/90 damage
+     [Sylveon] using Psyshock vs Empoleon does a max of 23/90 damage
+     [Sylveon] using Mystical Fire vs Empoleon does a max of 47/90 damage
+     [Sylveon] using Shadow Ball vs Empoleon does a max of 50/90 damage
+     Empoleon (0)'s best move: Flash Cannon for 105/192 damage
+==============================
+     Empoleon (0) speed (84) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> fast_2hko: true
+
+     [Sylveon] +  6: for fast 2HKO
+     [Sylveon] final Switch score: 6
+"Collector Douglas sent out Sylveon!"
+
+===== Round 18 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sylveon (1) is considering using Hyper Voice (1)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+     + 4 to prioritize highest damaging move
+[AI] Sylveon (1) is considering using Psyshock (1) against Empoleon (0)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+[AI] Sylveon (1) is considering using Mystical Fire (1) against Empoleon (0)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+[AI] Sylveon (1) is considering using Shadow Ball (1) against Empoleon (0)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+[AI] Move choices for Sylveon (1):
+   * 100.0% to use Hyper Voice: score 5
+   *   0.0% to use Psyshock (target 0): score 0
+   *   0.0% to use Mystical Fire (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   => will use Hyper Voice
+
+[Round order] The opposing Sylveon (1), Empoleon (0)
+
+[Use move] The opposing Sylveon (1) used Hyper Voice
+"The opposing Sylveon used Hyper Voice!"
+[HP change] Empoleon lost 56 HP (90 -> 34)
+"It's not very effective..."
+[Use move] Empoleon (0) used Flash Cannon
+"Empoleon used Flash Cannon!"
+[HP change] The opposing Sylveon lost 89 HP (192 -> 103)
+"It's super effective!"
+
+[End of round 18]
+[HP change] Empoleon lost 11 HP (34 -> 23)
+"Empoleon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 19 =====
+
+Set up score for Empoleon (0): 0
+     Threat Score for Empoleon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sylveon (1) is considering using Hyper Voice (1)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+      + 20 for fast kill
+[AI] Sylveon (1) is considering using Psyshock (1) against Empoleon (0)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+[AI] Sylveon (1) is considering using Mystical Fire (1) against Empoleon (0)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+      + 20 for fast kill
+[AI] Sylveon (1) is considering using Shadow Ball (1) against Empoleon (0)...
+     Sylveon (1)'s highest damaging move vs Empoleon: Hyper Voice
+      + 20 for fast kill
+[AI] Move choices for Sylveon (1):
+   *  33.3% to use Hyper Voice: score 21
+   *   0.0% to use Psyshock (target 0): score 0
+   *  33.3% to use Mystical Fire (target 0): score 21
+   *  33.3% to use Shadow Ball (target 0): score 21
+   => will use Hyper Voice
+
+[Round order] The opposing Sylveon (1), Empoleon (0)
+
+[Use move] The opposing Sylveon (1) used Hyper Voice
+"The opposing Sylveon used Hyper Voice!"
+[HP change] Empoleon lost 23 HP (23 -> 0)
+"It's not very effective..."
+"Empoleon fainted!"
+Roles for JOLTEON: [:SPECIALBREAKER]
+Roles for VAPOREON: [:CLERIC, :OFFENSIVEPIVOT]
+Roles for LEAFEON: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GLACEON: [:SPECIALBREAKER, :WEATHERTERRAINABUSER]
+Roles for ESPEON: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for SYLVEON: [:SPECIALBREAKER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Collector Douglas!"
+"Collector Douglas sent out Jolteon!"
+"Go! Heracross!"
+[Round order] The opposing Jolteon (1), Heracross (0)
+
+===== Round 1 =====
+
+Set up score for Jolteon (1): 0
+Set up score for Jolteon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Heracross (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Jolteon (1) is considering using Thunderbolt (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+[AI] Jolteon (1) is considering using Shadow Ball (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+[AI] Jolteon (1) is considering using Alluring Voice (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+     + 4 to prioritize highest damaging move
+[AI] Jolteon (1) is considering using Hidden Power (1) against Heracross (0)...
+     Jolteon (1)'s highest damaging move vs Heracross: Alluring Voice
+[AI] Move choices for Jolteon (1):
+   *   0.0% to use Thunderbolt (target 0): score 0
+   *   0.0% to use Shadow Ball (target 0): score 0
+   * 100.0% to use Alluring Voice (target 0): score 5
+   *   0.0% to use Hidden Power (target 0): score 0
+   => will use Alluring Voice (target 0)
+
+[Round order] The opposing Jolteon (1), Heracross (0)
+
+[Use move] The opposing Jolteon (1) used Alluring Voice
+"The opposing Jolteon used Alluring Voice!"
+[HP change] Heracross lost 85 HP (172 -> 87)
+"It's super effective!"
+[Use move] Heracross (0) used Pin Missile
+"Heracross used Pin Missile!"
+[HP change] The opposing Jolteon lost 52 HP (156 -> 104)
+[HP change] The opposing Jolteon lost 51 HP (104 -> 53)
+[HP change] The opposing Jolteon lost 52 HP (53 -> 1)
+[HP change] The opposing Jolteon lost 1 HP (1 -> 0)
+"The opposing Jolteon fainted!"
+"Hit 4 times!"
+
+[End of round 1]
+[HP change] Heracross lost 10 HP (87 -> 77)
+"Heracross was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Heracross does a max of 87/77 damage
+     [Vaporeon] using Ice Beam vs Heracross does a max of 55/77 damage
+     [Vaporeon] using Flip Turn vs Heracross does a max of 42/77 damage
+     Heracross (0)'s best move: Bullet Seed for 284/232 damage
+==============================
+     Heracross (0) speed (123) vs Vaporeon speed: 96
+[AI] =====> Flags assigned to Vaporeon:
+==========> target_fast_kill: true
+
+     [Vaporeon] -  9: for target fast kill
+     [Vaporeon] final Switch score: -9
+==============================
+     [Leafeon] using Leaf Blade vs Heracross does a max of 53/77 damage
+     [Leafeon] using X-Scissor vs Heracross does a max of 26/77 damage
+     [Leafeon] using Quick Attack vs Heracross does a max of 27/77 damage
+     Heracross (0)'s best move: Pin Missile for 231/158 damage
+==============================
+     Heracross (0) speed (123) vs Leafeon speed: 143
+[AI] =====> Flags assigned to Leafeon:
+==========> target_slow_kill: true
+
+     [Leafeon] -  7: for target slow kill
+     [Leafeon] final Switch score: -7
+==============================
+     [Glaceon] using Freeze-Dry vs Heracross does a max of 85/77 damage
+     [Glaceon] using Earth Power vs Heracross does a max of 30/77 damage
+     [Glaceon] using Shadow Ball vs Heracross does a max of 55/77 damage
+     [Glaceon] using Alluring Voice vs Heracross does a max of 110/77 damage
+     Heracross (0)'s best move: Brick Break for 201/156 damage
+==============================
+     Heracross (0) speed (123) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> target_fast_kill: true
+
+     [Glaceon] -  9: for target fast kill
+     [Glaceon] final Switch score: -9
+==============================
+     [Espeon] using Psychic Noise vs Heracross does a max of 180/77 damage
+     [Espeon] using Dazzling Gleam vs Heracross does a max of 108/77 damage
+     [Espeon] using Hidden Power vs Heracross does a max of 20/77 damage
+     Heracross (0)'s best move: Pin Missile for 420/161 damage
+==============================
+     Heracross (0) speed (123) vs Espeon speed: 165
+[AI] =====> Flags assigned to Espeon:
+==========> fast_kill: true
+
+     [Espeon] + 12: for fast kill
+     [Espeon] final Switch score: 12
+==============================
+     [Sylveon] using Hyper Voice vs Heracross does a max of 65/77 damage
+     [Sylveon] using Psyshock vs Heracross does a max of 116/77 damage
+     [Sylveon] using Mystical Fire vs Heracross does a max of 92/77 damage
+     [Sylveon] using Shadow Ball vs Heracross does a max of 49/77 damage
+     Heracross (0)'s best move: Rock Blast for 134/192 damage
+==============================
+     Heracross (0) speed (123) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> slow_kill: true
+
+     [Sylveon] +  9: for slow kill
+     [Sylveon] final Switch score: 9
+"Collector Douglas sent out Espeon!"
+
+===== Round 2 =====
+
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Heracross (0): 0
+     Threat Score for Heracross (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Heracross (0)...
+     Espeon (1)'s highest damaging move vs Heracross: Psychic Noise
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Heracross: Psychic Noise
+      + 20 for fast kill
+[AI] Espeon (1) is considering using Hidden Power (1) against Heracross (0)...
+     Espeon (1)'s highest damaging move vs Heracross: Psychic Noise
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *  50.0% to use Psychic Noise (target 0): score 21
+   *  50.0% to use Dazzling Gleam: score 21
+   *   0.0% to use Hidden Power (target 0): score 0
+   *   0.0% to use Calm Mind: score 0
+   => will use Psychic Noise (target 0)
+
+[Round order] The opposing Espeon (1), Heracross (0)
+
+"OK, Heracross! Come back!"
+"You're in charge, Obstagoon!"
+[Use move] The opposing Espeon (1) used Psychic Noise
+"The opposing Espeon used Psychic Noise!"
+[Target immune] Obstagoon's type immunity
+"It doesn't affect Obstagoon..."
+
+[End of round 2]
+[HP change] Obstagoon lost 11 HP (181 -> 170)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 3 =====
+
+     move will not affect Obstagoon (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Espeon (1): 0
+Set up score for Espeon (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Espeon (1) is considering using Psychic Noise (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     move will not affect Obstagoon (0)
+     -  1: move will fail
+[AI] Espeon (1) is considering using Dazzling Gleam (1)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+[AI] Espeon (1) is considering using Hidden Power (1) against Obstagoon (0)...
+     Espeon (1)'s highest damaging move vs Obstagoon: Hidden Power
+     + 4 to prioritize highest damaging move
+[AI] Espeon (1) is considering using Calm Mind (4)...
+[AI] Move choices for Espeon (1):
+   *   0.0% to use Psychic Noise (target 0): score 0
+   *   0.0% to use Dazzling Gleam: score 0
+   * 100.0% to use Hidden Power (target 0): score 5
+   *   0.0% to use Calm Mind: score 0
+   => will use Hidden Power (target 0)
+
+[Round order] Obstagoon (0), the opposing Espeon (1)
+
+[Use move] Obstagoon (0) used Sucker Punch
+"Obstagoon used Sucker Punch!"
+[HP change] The opposing Espeon lost 161 HP (161 -> 0)
+"It's super effective!"
+"The opposing Espeon fainted!"
+
+[End of round 3]
+[HP change] Obstagoon lost 11 HP (170 -> 159)
+"Obstagoon was hurt by its burn!"
+Trick Room Turns: 0
+     move will not affect Obstagoon (0)
+==============================
+     [Vaporeon] using Scald vs Obstagoon does a max of 97/159 damage
+     [Vaporeon] using Ice Beam vs Obstagoon does a max of 61/159 damage
+     [Vaporeon] using Flip Turn vs Obstagoon does a max of 36/159 damage
+     Obstagoon (0)'s best move: Double-Edge for 177/232 damage
+==============================
+     Obstagoon (0) speed (127) vs Vaporeon speed: 96
+[AI] =====> Flags assigned to Vaporeon:
+==========> target_fast_2hko: true
+
+     [Vaporeon] -  5: for target having fast 2HKO and us having no kill
+     [Vaporeon] final Switch score: -5
+==============================
+     [Leafeon] using Leaf Blade vs Obstagoon does a max of 90/159 damage
+     [Leafeon] using X-Scissor vs Obstagoon does a max of 90/159 damage
+     [Leafeon] using Quick Attack vs Obstagoon does a max of 23/159 damage
+     Obstagoon (0)'s best move: Double-Edge for 96/158 damage
+==============================
+     Obstagoon (0) speed (127) vs Leafeon speed: 143
+[AI] =====> Flags assigned to Leafeon:
+==========> fast_2hko: true
+
+     [Leafeon] +  6: for fast 2HKO
+     [Leafeon] final Switch score: 6
+==============================
+     [Glaceon] using Freeze-Dry vs Obstagoon does a max of 96/159 damage
+     [Glaceon] using Earth Power vs Obstagoon does a max of 68/159 damage
+     [Glaceon] using Alluring Voice vs Obstagoon does a max of 122/159 damage
+     Obstagoon (0)'s best move: Double-Edge for 112/156 damage
+==============================
+     Obstagoon (0) speed (127) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> outdamage: true
+
+     [Glaceon] +  3: for outdamage
+     [Glaceon] final Switch score: 3
+==============================
+     [Sylveon] using Hyper Voice vs Obstagoon does a max of 73/159 damage
+     [Sylveon] using Mystical Fire vs Obstagoon does a max of 51/159 damage
+     Obstagoon (0)'s best move: Double-Edge for 168/192 damage
+==============================
+     Obstagoon (0) speed (127) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> target_fast_2hko: true
+
+     [Sylveon] -  5: for target having fast 2HKO and us having no kill
+     [Sylveon] final Switch score: -5
+"Collector Douglas sent out Leafeon!"
+
+===== Round 4 =====
+
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Obstagoon (0): 0
+     Threat Score for Obstagoon (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: X-Scissor
+[AI] Leafeon (1) is considering using X-Scissor (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: X-Scissor
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Obstagoon (0)...
+     Leafeon (1)'s highest damaging move vs Obstagoon: X-Scissor
+[AI] Move choices for Leafeon (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   * 100.0% to use X-Scissor (target 0): score 5
+   *   0.0% to use Swords Dance: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   => will use X-Scissor (target 0)
+
+[Round order] The opposing Leafeon (1), Obstagoon (0)
+
+"Obstagoon, come back!"
+"You're in charge, Swellow!"
+[Use move] The opposing Leafeon (1) used X-Scissor
+"The opposing Leafeon used X-Scissor!"
+[HP change] Swellow lost 34 HP (152 -> 118)
+"It's not very effective..."
+
+[End of round 4]
+[HP change] Swellow lost 9 HP (118 -> 109)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 5 =====
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Leafeon (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Leafeon (1), Swellow (0)
+
+[Use move] The opposing Leafeon (1) used Quick Attack
+"The opposing Leafeon used Quick Attack!"
+[HP change] Swellow lost 31 HP (109 -> 78)
+[Use move] Swellow (0) used Dual Wingbeat
+"Swellow used Dual Wingbeat!"
+[HP change] The opposing Leafeon lost 60 HP (158 -> 98)
+[HP change] The opposing Leafeon lost 59 HP (98 -> 39)
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 5]
+[HP change] Swellow lost 9 HP (78 -> 69)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+
+===== Round 6 =====
+
+     [Switch AI] -5 We have slow kill
+Set up score for Leafeon (1): 0
+Set up score for Leafeon (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-15) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Leafeon (1) is considering using Leaf Blade (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+     + 4 to prioritize highest damaging move
+[AI] Leafeon (1) is considering using X-Scissor (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+[AI] Leafeon (1) is considering using Swords Dance (4)...
+[AI] Leafeon (1) is considering using Quick Attack (1) against Swellow (0)...
+     Leafeon (1)'s highest damaging move vs Swellow: Leaf Blade
+     + 9 to get a last ditch hit off.
+[AI] Move choices for Leafeon (1):
+   *   0.0% to use Leaf Blade (target 0): score 0
+   *   0.0% to use X-Scissor (target 0): score 0
+   *   0.0% to use Swords Dance: score 0
+   * 100.0% to use Quick Attack (target 0): score 10
+   => will use Quick Attack (target 0)
+
+[Round order] The opposing Leafeon (1), Swellow (0)
+
+[Use move] The opposing Leafeon (1) used Quick Attack
+"The opposing Leafeon used Quick Attack!"
+[HP change] Swellow lost 36 HP (69 -> 33)
+[Use move] Swellow (0) used Dual Wingbeat
+"Swellow used Dual Wingbeat!"
+[HP change] The opposing Leafeon lost 39 HP (39 -> 0)
+"The opposing Leafeon fainted!"
+"It's super effective!"
+"Hit 1 time!"
+"Swellow got 1 Exp. Points!"
+
+[End of round 6]
+[HP change] Swellow lost 9 HP (33 -> 24)
+"Swellow was hurt by its burn!"
+Trick Room Turns: 0
+==============================
+     [Vaporeon] using Scald vs Swellow does a max of 166/24 damage
+     [Vaporeon] using Ice Beam vs Swellow does a max of 208/24 damage
+     [Vaporeon] using Flip Turn vs Swellow does a max of 57/24 damage
+     Swellow (0)'s best move: Brave Bird for 174/232 damage
+==============================
+     Swellow (0) speed (154) vs Vaporeon speed: 96
+[AI] =====> Flags assigned to Vaporeon:
+==========> slow_kill: true
+
+     [Vaporeon] +  9: for slow kill
+     [Vaporeon] final Switch score: 9
+==============================
+     [Glaceon] using Freeze-Dry vs Swellow does a max of 330/24 damage
+     [Glaceon] using Alluring Voice vs Swellow does a max of 105/24 damage
+     Swellow (0)'s best move: Brave Bird for 111/156 damage
+==============================
+     Swellow (0) speed (154) vs Glaceon speed: 95
+[AI] =====> Flags assigned to Glaceon:
+==========> slow_kill: true
+
+     [Glaceon] +  9: for slow kill
+     [Glaceon] final Switch score: 9
+==============================
+     [Sylveon] using Hyper Voice vs Swellow does a max of 125/24 damage
+     [Sylveon] using Psyshock vs Swellow does a max of 77/24 damage
+     [Sylveon] using Mystical Fire vs Swellow does a max of 87/24 damage
+     Swellow (0)'s best move: Brave Bird for 165/192 damage
+==============================
+     Swellow (0) speed (154) vs Sylveon speed: 91
+[AI] =====> Flags assigned to Sylveon:
+==========> slow_kill: true
+
+     [Sylveon] +  9: for slow kill
+     [Sylveon] final Switch score: 9
+"Collector Douglas sent out Vaporeon!"
+
+===== Round 7 =====
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Vaporeon (1): 0
+Set up score for Vaporeon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Swellow (0): 0
+     Threat Score for Swellow (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Vaporeon (1) is considering using Scald (1) against Swellow (0)...
+     Vaporeon (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Vaporeon (1) is considering using Ice Beam (1) against Swellow (0)...
+     Vaporeon (1)'s highest damaging move vs Swellow: Ice Beam
+      + 17 for slow kill
+[AI] Vaporeon (1) is considering using Wish (4)...
+[AI] Vaporeon (1) is considering using Flip Turn (1) against Swellow (0)...
+     Vaporeon (1)'s highest damaging move vs Swellow: Ice Beam
+     - 9 to prevent switching when we have a kill with another move
+      + 17 for slow kill
+[AI] Move choices for Vaporeon (1):
+   *  50.0% to use Scald (target 0): score 18
+   *  50.0% to use Ice Beam (target 0): score 18
+   *   0.0% to use Wish: score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   => will use Scald (target 0)
+
+[Round order] Swellow (0), the opposing Vaporeon (1)
+
+[Use move] Swellow (0) used Brave Bird
+"Swellow used Brave Bird!"
+[HP change] The opposing Vaporeon lost 148 HP (232 -> 84)
+[HP change] Swellow lost 24 HP (24 -> 0)
+"Swellow is damaged by recoil!"
+"Swellow fainted!"
+[Use move] The opposing Vaporeon (1) used Scald
+"The opposing Vaporeon used Scald!"
+"But there was no target..."
+
+[End of round 7]
+Trick Room Turns: 0
+"Just a little more! Hang in there, Swellow!"
